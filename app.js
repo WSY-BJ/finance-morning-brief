@@ -44,11 +44,22 @@ function render(){
     (data.blocks||[]).forEach(block=>renderBlock(block,page));pages.append(page);
   });
   const sources=byId('sources');sources.replaceChildren(); if(report.sources&&report.sources.length){sources.append(make('h3','','本期来源 · 原始链接'));const ul=make('ul','');report.sources.forEach(s=>{const url=safeURL(s.url);if(!url)return;const li=make('li','');const a=make('a','',s.title);a.href=url;a.target='_blank';a.rel='noopener noreferrer';li.append(a);if(s.asOf)li.append(make('span','',' · '+s.asOf));ul.append(li);});sources.append(ul);}else{sources.append(make('p','footnote','样刊没有引用当日新闻或行情。'));}
+  loadHistory();
   const hash=location.hash.slice(1);const initial=report.pages.findIndex(p=>p.id===hash);go(initial>=0?initial:0,false);
+}
+function loadHistory(){
+  const holder=byId('history'); if(!holder)return;
+  fetch('archive/index.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject(Error('历史索引不可用'))).then(data=>{
+    const items=Array.isArray(data.items)?data.items.slice(0,14):[]; holder.replaceChildren(); if(!items.length)return;
+    holder.append(make('h3','','历史晨报 · 备用入口')); const list=make('div','history-list');
+    items.forEach(item=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(item.date||''))return;const a=make('a','history-link',item.date+' · '+(item.title||'财经晨报'));a.href='?date='+encodeURIComponent(item.date)+'#overview';list.append(a);});holder.append(list);
+  }).catch(()=>holder.replaceChildren());
 }
 function go(index,scroll=true){if(!report)return;current=Math.max(0,Math.min(index,report.pages.length-1));const tabs=[...byId('tabs').children];[...byId('pages').children].forEach((p,i)=>{p.hidden=i!==current;tabs[i].setAttribute('aria-selected',String(i===current));});tabs[current].scrollIntoView({block:'nearest',inline:'nearest'});byId('progress-label').textContent=String(current+1).padStart(2,'0')+' / '+String(report.pages.length).padStart(2,'0');byId('progress-fill').style.width=((current+1)/report.pages.length*100)+'%';byId('previous').disabled=current===0;byId('next').disabled=current===report.pages.length-1;history.replaceState(null,'','#'+report.pages[current].id);if(scroll)window.scrollTo({top:0,behavior:'smooth'});}
 byId('previous').addEventListener('click',()=>go(current-1));byId('next').addEventListener('click',()=>go(current+1));
 byId('pages').addEventListener('touchstart',event=>{startX=event.touches[0]?.clientX??null;},{passive:true});
 byId('pages').addEventListener('touchend',event=>{if(startX===null)return;const diff=(event.changedTouches[0]?.clientX??startX)-startX;startX=null;if(Math.abs(diff)>75)go(current+(diff<0?1:-1));},{passive:true});
 document.addEventListener('keydown',event=>{if(event.key==='ArrowRight')go(current+1);if(event.key==='ArrowLeft')go(current-1);});
-fetch('report.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('状态码 '+r.status);return r.json();}).then(json=>{if(!Array.isArray(json.pages)||!json.pages.length)throw Error('晨报内容格式错误');report=json;render();}).catch(error=>{const el=make('div','error','晨报未加载成功，请检查网络或稍后重试。已停止展示旧数据。');byId('pages').replaceChildren(el);byId('intro').textContent='加载失败：'+error.message;byId('edition').textContent='暂不可用';byId('previous').disabled=true;byId('next').disabled=true;});
+const requestedDate=new URLSearchParams(location.search).get('date');
+const reportPath=requestedDate&&/^\d{4}-\d{2}-\d{2}$/.test(requestedDate)?'archive/'+requestedDate+'.json':'report.json';
+fetch(reportPath,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('状态码 '+r.status);return r.json();}).then(json=>{if(!Array.isArray(json.pages)||!json.pages.length)throw Error('晨报内容格式错误');report=json;render();}).catch(error=>{const el=make('div','error','晨报未加载成功，请检查网络或稍后重试。已停止展示旧数据。');byId('pages').replaceChildren(el);byId('intro').textContent='加载失败：'+error.message;byId('edition').textContent='暂不可用';byId('previous').disabled=true;byId('next').disabled=true;});
