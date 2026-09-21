@@ -1,0 +1,74 @@
+{
+  "edition": "公开市场版 · 2026-09-21",
+  "date": "行情截至 2026-09-18 美股收盘（UTC 2026-09-19 00:15）",
+  "updatedAt": "2026-09-21T03:00:00Z",
+  "status": "published",
+  "title": "美股分化，黄金相对走强",
+  "subtitle": "全球财经 · 跨资产研究 · 金融工程每日一课",
+  "intro": "本期使用公开延迟行情制作，不连接券商账户，不展示个人持仓，也不收集任何访问者信息。",
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 开篇",
+      "title": "晨间速览",
+      "lead": "先看价格发生了什么，再讨论可能的传导机制。",
+      "blocks": [
+        {"type":"notice","tone":"neutral","title":"数据说明","text":"以下价格为公开延迟行情，仅反映最近一个已完成交易日；不同市场的交易时区可能不同。"},
+        {"type":"bullets","title":"三条主线","items":["大盘：SPY 小幅回落，QQQ 上涨，成长风格相对占优。","商品：黄金 ETF 上涨，原油 ETF 下跌，商品内部出现分化。","方法：单日涨跌只用于定位线索，不能单独证明趋势或因果。"]},
+        {"type":"chain","title":"阅读顺序","items":["价格变化","宏观与产业证据","盈利和现金流","估值","风险情景"]}
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场",
+      "title": "公开市场快照",
+      "lead": "价格单位为美元；涨跌幅相对上一交易日收盘。",
+      "blocks": [
+        {"type":"metricGrid","title":"最近交易日","items":[
+          {"label":"SPY · 标普500 ETF","value":"761.69","note":"−0.13% · 区间 757.99–763.78"},
+          {"label":"QQQ · 纳指100 ETF","value":"721.45","note":"+0.60% · 区间 715.12–723.00"},
+          {"label":"GLD · 黄金 ETF","value":"401.17","note":"+0.74% · 区间 398.15–403.21"},
+          {"label":"USO · 原油 ETF","value":"153.82","note":"−0.93% · 区间 152.99–157.54"}
+        ]},
+        {"type":"bullets","title":"怎样解读","items":["QQQ 强于 SPY：当日科技与成长资产的相对表现更强，但需结合更长周期验证。","GLD 与 USO 方向相反：不能把“商品”当成同一种交易逻辑。","ETF 价格不是指数点位、现货金价或原油期货价格，比较时必须先统一口径。"]}
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "03 · 研究",
+      "title": "跨资产观察",
+      "lead": "这是公开研究框架，不针对任何个人账户或持仓。",
+      "blocks": [
+        {"type":"research","title":"美股成长风格","thesis":"观察盈利预期和利率变化是否共同支持估值。","verify":"盈利增速、实际利率、市场宽度与成交量。","risk":"估值过高、盈利下修或利率意外上行。"},
+        {"type":"research","title":"黄金","thesis":"观察实际利率、美元和避险需求的共同变化。","verify":"实际收益率、美元指数、央行需求与资金流。","risk":"利率上行、美元走强或拥挤交易逆转。"},
+        {"type":"research","title":"原油","thesis":"区分短期库存冲击与中期供需趋势。","verify":"库存、产量、炼厂开工率与运输需求。","risk":"需求走弱、供给超预期或地缘风险快速消退。"}
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "04 · 每日一课",
+      "title": "收益率与回本幅度",
+      "lead": "涨跌幅并不对称，亏损越大，回本所需涨幅越高。",
+      "blocks": [
+        {"type":"formula","title":"简单收益率","expression":"收益率 = (期末价格 − 期初价格) ÷ 期初价格","note":"价格从100跌到90，收益率为−10%；从90回到100，需要上涨约11.11%。"},
+        {"type":"quiz","title":"30秒自测","question":"如果一项资产从100跌到80，之后需要上涨多少才能回到100？","answer":"25%。计算：(100−80)÷80 = 25%。"}
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "05 · 清单",
+      "title": "下一次更新看什么",
+      "lead": "把观察变量写清楚，避免被单条标题带着走。",
+      "blocks": [
+        {"type":"bullets","title":"公开观察清单","items":["主要央行政策表态与利率预期变化。","通胀、就业、消费数据是否偏离市场预期。","主要指数的上涨是否由少数权重股驱动。","黄金与原油的价格变化是否得到资金流和供需数据支持。"]},
+        {"type":"notice","tone":"neutral","title":"隐私边界","text":"本站没有登录、支付、交易、评论或统计功能；仓库不包含私人持仓、账户信息、Cookie、访问令牌或 API 密钥。"}
+      ]
+    }
+  ],
+  "sources": [
+    {"title":"SPY · Yahoo Finance","url":"https://finance.yahoo.com/quote/SPY/","asOf":"2026-09-18 收盘"},
+    {"title":"QQQ · Yahoo Finance","url":"https://finance.yahoo.com/quote/QQQ/","asOf":"2026-09-18 收盘"},
+    {"title":"GLD · Yahoo Finance","url":"https://finance.yahoo.com/quote/GLD/","asOf":"2026-09-18 收盘"},
+    {"title":"USO · Yahoo Finance","url":"https://finance.yahoo.com/quote/USO/","asOf":"2026-09-18 收盘"}
+  ]
+}
