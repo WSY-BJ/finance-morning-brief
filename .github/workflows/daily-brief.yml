@@ -1,0 +1,86 @@
+name: Daily finance brief
+
+on:
+  schedule:
+    - cron: "3 0 * * *"
+  workflow_dispatch:
+    inputs:
+      send_notification:
+        description: "Send one ServerChan notification after live verification"
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-finance-brief
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect public data and generate brief
+        run: python scripts/generate_report.py
+
+      - name: Validate generated content and privacy boundary
+        run: python scripts/validate_report.py
+
+      - name: Save latest and historical briefs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add report.json archive/
+          if git diff --cached --quiet; then
+            echo "No report changes to commit"
+          else
+            git commit -m "Daily brief $(date +%F)"
+            git push
+          fi
+
+      - name: Prepare public site artifact
+        run: |
+          mkdir -p dist/archive
+          cp index.html app.js style.css history.css report.json .nojekyll dist/
+          cp archive/*.json dist/archive/
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Verify today's live HTTPS report
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: EXPECTED_DATE="$(date +%F)" python scripts/verify_live.py
+
+      - name: Send ServerChan WeChat notification
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification) }}
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: python scripts/notify_serverchan.py
