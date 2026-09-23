@@ -2,7 +2,8 @@ name: Daily finance brief
 
 on:
   schedule:
-    - cron: "3 0 * * *"
+    # 23:47 UTC = 07:47 Beijing; leave margin for GitHub scheduler delay.
+    - cron: "47 23 * * *"
   workflow_dispatch:
     inputs:
       send_notification:
