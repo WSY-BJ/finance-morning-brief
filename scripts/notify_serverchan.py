@@ -19,9 +19,12 @@ today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
 if report.get("reportDate") != today:
     raise SystemExit("Local report is not today's Beijing edition; notification blocked")
 receipt = ROOT / ".state" / "notifications" / f"{today}.json"
-if not receipt.exists() or json.loads(receipt.read_text(encoding="utf-8")).get("status") != "pending":
+test_mode = os.environ.get("SERVERCHAN_TEST") == "1"
+if not test_mode and (not receipt.exists() or json.loads(receipt.read_text(encoding="utf-8")).get("status") != "pending"):
     raise SystemExit("Notification claim missing; notification blocked")
 title = report["notification"]["title"].replace("\n", " ")[:32]
+if test_mode:
+    title = "【测试】" + title
 summary = report["notification"]["summary"]
 daily_url = f"{site_url}?date={today}#overview"
 desp = f"【自动晨报】{summary}\n\n[点击阅读 {today} 晨报]({daily_url})\n\n{daily_url}"
@@ -29,7 +32,8 @@ endpoint = f"https://sctapi.ftqq.com/{sendkey}.send"
 payload = urllib.parse.urlencode({"title": title, "desp": desp}).encode("utf-8")
 request = urllib.request.Request(endpoint, data=payload, method="POST", headers={"Content-Type": "application/x-www-form-urlencoded; charset=utf-8", "User-Agent": "finance-morning-brief/1.0"})
 def record(status: str) -> None:
-    receipt.write_text(json.dumps({"date": today, "status": status, "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
+    if not test_mode:
+        receipt.write_text(json.dumps({"date": today, "status": status, "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
 
 try:
     with urllib.request.urlopen(request, timeout=20) as response:
@@ -43,5 +47,6 @@ if result.get("code") != 0:
 data = result.get("data") if isinstance(result.get("data"), dict) else {}
 pushid = data.get("pushid", result.get("pushid"))
 readkey = data.get("readkey", result.get("readkey"))
-print(f"ServerChan accepted: code=0, pushid={pushid if pushid is not None else 'absent'}, readkey_present={bool(readkey)}; WeChat delivery unverified")
-receipt.write_text(json.dumps({"date": today, "status": "accepted", "acceptedAt": datetime.now(ZoneInfo("Asia/Shanghai")).isoformat(timespec="seconds"), "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
+print(f"ServerChan {'TEST' if test_mode else 'daily'} accepted: code=0, pushid={pushid if pushid is not None else 'absent'}, readkey_present={bool(readkey)}; WeChat delivery unverified")
+if not test_mode:
+    receipt.write_text(json.dumps({"date": today, "status": "accepted", "acceptedAt": datetime.now(ZoneInfo("Asia/Shanghai")).isoformat(timespec="seconds"), "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
