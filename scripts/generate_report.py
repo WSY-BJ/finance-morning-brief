@@ -187,8 +187,26 @@ NEWS_QUERIES = [
     "site:apnews.com/article/ tariffs manufacturing chip investment when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory)\b", re.I)
-RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|output|shipments|exports?|invests?|capacity|production|sales|revenue|margin|costs?|tariffs?|standards|capital spending|capex)\b", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car)\b", re.I)
+RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|shipments|exports?|invests?|capacity|production|sales|revenue|margin|costs?|standards|capital spending|capex|projects?|plants?)\b", re.I)
+RADAR_NEGATIVE = re.compile(r"\b(idle|idles|idled|shutdown|closure|closes|layoffs?|bankrupt|lawsuit|sues|court|litigation|buyback|share repurchase)\b", re.I)
+
+
+def event_context(title: str) -> str:
+    """Explain the headline's evidence level without inventing the article body."""
+    if re.search(r"\b(idle|idles|idled|shutdown|closure)\b", title, re.I):
+        return "减产或停产可能减少销量，并使固定成本分摊到更少产品；同时核对停产期限和行业供给是否收缩。"
+    if re.search(r"\b(lawsuit|court|sues|litigation)\b", title, re.I):
+        return "诉讼可能带来赔偿或合规成本，但仍需核对案件阶段、金额和最终裁决，不能先记作已发生损失。"
+    if re.search(r"\b(seen|expected|forecast|planned)\b", title, re.I):
+        return "这是预期或计划，不是已确认的交付或利润；核对正式统计、合同和投产时间。"
+    if re.search(r"\b(invests?|project|plant|capex)\b", title, re.I):
+        return "投资或建厂先形成资本支出和现金流出；只有项目投产、取得订单并收回货款后才可能增加利润。"
+    if re.search(r"\b(inflation slows|price inflation slows)\b", title, re.I):
+        return "价格涨幅放缓不等于价格下降；零售商的利润还取决于销量、采购成本和促销力度。"
+    if re.search(r"\b(unveils|launches|announces)\b", title, re.I):
+        return "发布产品或项目还不是确认收入；后续看订单、交付、价格和研发费用。"
+    return "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。"
 
 
 def parse_feed(name: str, url: str) -> list[dict]:
@@ -236,7 +254,7 @@ def collect_news(now: datetime) -> tuple[list[dict], list[str]]:
     # A news shortage is visible in the report. Never backfill old stories as "past 24 hours".
     return [{"event": item["title"], "published": item["published"].astimezone(TZ).strftime("%Y-%m-%d %H:%M 北京时间"),
              "publisher": item["publisher"], "url": item["url"], "topic": topic[0],
-             "why": "这条消息涉及" + topic[0] + "，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+             "why": event_context(item["title"]),
              "mechanism": topic[2], "horizon": "具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。",
              "verify": topic[3]} for item, topic in selected], errors
 
@@ -292,7 +310,7 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
     sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
     sources += [{"title": "新闻 · " + item["publisher"] + " · " + item["event"], "url": item["url"], "asOf": item["published"]} for item in news]
     market_blocks = [indicator_block(key, indicators[key]) for key, _ in INDICATORS if key in indicators]
-    stale = [key for key, item in indicators.items() if (now.date() - datetime.fromisoformat(item["date"]).date()).days > 4]
+    stale = [key for key, item in indicators.items() if (now.date() - datetime.fromisoformat(item["date"]).date()).days > (4 if weekend or now.weekday() == 0 else 3)]
     if stale:
         market_blocks.append({"type": "notice", "tone": "warning", "title": "滞后数据", "text": "这些数据晚于最近几个自然日，需打开来源核查更新安排：" + "、".join(stale) + "。"})
     if failures:
@@ -306,11 +324,11 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
         news_blocks.insert(0, {"type": "notice", "tone": "warning", "title": "过去 24 小时来源不足", "text": f"仅核实到 {len(news)} 条符合条件的公开消息；不把旧新闻冒充当天新闻。源站不可用数：{len(news_errors)}。"})
     seen_topics = []
     for n in news:
-        if not RADAR_SIGNAL.search(n["event"]) or re.search(r"\b(lawsuit|sues|court|litigation|buyback|share repurchase)\b", n["event"], re.I):
+        if not RADAR_SIGNAL.search(n["event"]) or RADAR_NEGATIVE.search(n["event"]):
             continue
         if n["topic"] not in seen_topics:
             seen_topics.append(n["topic"])
-    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in news if n["topic"] == name and RADAR_SIGNAL.search(n["event"]) and not re.search(r"\b(lawsuit|sues|court|litigation|buyback|share repurchase)\b", n["event"], re.I)]) for name in seen_topics[:4]]
+    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in news if n["topic"] == name and RADAR_SIGNAL.search(n["event"]) and not RADAR_NEGATIVE.search(n["event"])]) for name in seen_topics[:4]]
     if len(radar) < 2:
         radar.insert(0, {"type": "notice", "tone": "warning", "title": "产业线索不足", "text": "可核查新闻不足以支持 2 条不同产业的利润假设，本期不填充未经验证的热门概念。"})
     gold = indicators.get("gold")
