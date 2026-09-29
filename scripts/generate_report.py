@@ -187,7 +187,7 @@ NEWS_QUERIES = [
     "site:apnews.com/article/ tariffs manufacturing chip investment when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|podcast|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|basketball|celtics|nba|nhl|hockey|power rankings|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car|pope|doom scenarios)\b", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|commentary|breakingviews|column|explainer|podcast|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|basketball|celtics|nba|nhl|hockey|power rankings|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car|pope|doom scenarios)\b", re.I)
 RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|shipments|exports?|invests?|capacity|production|sales|revenue|margin|standards|capital spending|capex|projects?|plants?)\b", re.I)
 RADAR_NEGATIVE = re.compile(r"\b(idle|idles|idled|shutdown|closure|closes|layoffs?|bankrupt|lawsuit|sues|court|litigation|buyback|share repurchase)\b", re.I)
 
