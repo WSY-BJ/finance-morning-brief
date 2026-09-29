@@ -11,13 +11,13 @@
 - `index.html`：语义化结构、CSP 安全限制、移动端 viewport。
 - `style.css`：无广告/无第三方字体/无外链的简洁样式。
 - `app.js`：导航、触摸翻页和安全 JSON 渲染，使用 `textContent` 而非将新闻注入 HTML。
-- `report.json`：最新自动晨报；`archive/YYYY-MM-DD.json` 和 `archive/index.json` 保留历史入口。行情日期按每个 ETF 单独标注。
+- `report.json`：最新自动晨报；`archive/YYYY-MM-DD.json` 和 `archive/index.json` 保留历史入口。新版宏观指标逐项标注真实口径和数据日期。
 
 ## 自动化流程
 
 每天北京时间 05:17、06:43、07:31、08:17 计划触发 `.github/workflows/daily-brief.yml`。这些是计划时间，GitHub 可能延迟或漏掉某次运行。流程如下：
 
-1. 从两个公开行情端点交叉容错采集数据；
+1. 采集真实宏观指标和公开新闻 RSS，源站故障时明确提示；
 2. 生成并校验 `report.json`，同时写入 `archive/YYYY-MM-DD.json`；
 3. 部署 GitHub Pages，并从公网重新读取当天 JSON；
 4. 只有公网 `report.json` 的 `reportDate` 等于北京时间当天时，才考虑 Server酱通知。通知链接固定指向 `?date=YYYY-MM-DD#overview`；
@@ -26,6 +26,14 @@
 重复运行会复用当天归档；若线上已是当天版本，跳过重新部署。周末也生成当天晨报，使用最近交易日的行情并显示每项数据日期。固定网址展示最新一期，网页底部保留历史入口。
 
 独立的北京时间 08:15 漏报看门狗检查线上日期、Actions 状态及通知回执，异常时通知维护者。GitHub 调度和微信通道都没有严格准点或端到端送达保证。测试通道可手动运行 `Test ServerChan delivery`，消息标题含“【测试】”，不占用正式晨报的每日标记。
+
+## 内容生成与测试版
+
+`scripts/generate_report.py` 采集 Brent 原油现货、美国 2 年与 10 年国债收益率（FRED 转载原始机构数据）、美元指数、现货黄金、标普 500、纳斯达克综合指数和美元兑人民币。每项附来源、观测日与相对上一可用观测日的变化。缺失项留空，不用 ETF 代替；至少取得五项且有商品和利率数据才发布。
+
+新闻从美联储、SEC、EIA、欧洲央行 RSS 及 Google 新闻索引中的产业主题 RSS 筛选最近 24 小时内的消息，最多十条。原文标题与可点击链接保留；中文利润传导是条件推论，不能冒充原文已确认的业绩。来源不足时网页明确提示。产业雷达选最多四个有当日消息的不同产业，说明可能的收入、成本、利润影响、研究样本与反证。自动模板不能代替逐篇原文人工核实。
+
+手动运行 `Preview richer finance brief` 会保存 `preview/YYYY-MM-DD.json` 并部署至 `?preview=YYYY-MM-DD#overview`。测试版不会替换当天正式晨报、历史归档，也不触发微信推送。次日正式运行才会发布新版内容。
 
 ## 密钥配置
 

@@ -22,6 +22,12 @@ function renderBlock(block, page){
     case 'research': {
       wrapper.className='research'; [['思路',block.thesis],['验证',block.verify],['风险',block.risk]].forEach(([label,value])=>{const row=make('div','minirow');row.append(make('b','',label),make('span','',value));wrapper.append(row);});break;
     }
+    case 'explainer': {
+      if(block.summary)wrapper.append(make('p','block-summary',block.summary));
+      (block.paragraphs||[]).forEach(paragraph=>wrapper.append(make('p','',paragraph)));
+      if(block.links?.length){const links=make('div','source-links');block.links.forEach(link=>{const url=safeURL(link.url);if(!url)return;const a=make('a','',link.title||'核查来源');a.href=url;a.target='_blank';a.rel='noopener noreferrer';links.append(a);});wrapper.append(links);}
+      break;
+    }
     case 'formula': wrapper.append(make('div','formula',block.expression),make('p','',block.note));break;
     case 'quiz': {
       wrapper.append(make('p','',block.question));const btn=make('button','reveal','显示答案');btn.type='button';btn.setAttribute('aria-expanded','false');const answer=make('p','answer',block.answer);answer.hidden=true;btn.addEventListener('click',()=>{answer.hidden=!answer.hidden;btn.textContent=answer.hidden?'显示答案':'收起答案';btn.setAttribute('aria-expanded',String(!answer.hidden));});wrapper.append(btn,answer);break;
@@ -32,7 +38,7 @@ function renderBlock(block, page){
 }
 function render(){
   byId('edition').textContent=report.edition||'晨报';
-  byId('state').textContent=report.status==='published'?'已发布 · 延迟行情':'样刊 · 非实时';
+  byId('state').textContent=report.status==='published'?'已发布 · 逐项标注数据时点':'测试版 · 不触发微信';
   byId('date').textContent=report.date||'非正式行情版本';
   byId('headline').textContent=report.title||'今日晨报';
   byId('subtitle').textContent=report.subtitle||'';
@@ -60,6 +66,7 @@ byId('previous').addEventListener('click',()=>go(current-1));byId('next').addEve
 byId('pages').addEventListener('touchstart',event=>{startX=event.touches[0]?.clientX??null;},{passive:true});
 byId('pages').addEventListener('touchend',event=>{if(startX===null)return;const diff=(event.changedTouches[0]?.clientX??startX)-startX;startX=null;if(Math.abs(diff)>75)go(current+(diff<0?1:-1));},{passive:true});
 document.addEventListener('keydown',event=>{if(event.key==='ArrowRight')go(current+1);if(event.key==='ArrowLeft')go(current-1);});
-const requestedDate=new URLSearchParams(location.search).get('date');
-const reportPath=requestedDate&&/^\d{4}-\d{2}-\d{2}$/.test(requestedDate)?'archive/'+requestedDate+'.json':'report.json';
+const params=new URLSearchParams(location.search), requestedDate=params.get('date'), requestedPreview=params.get('preview');
+const validDate=value=>/^\d{4}-\d{2}-\d{2}$/.test(value||'');
+const reportPath=validDate(requestedPreview)?'preview/'+requestedPreview+'.json':validDate(requestedDate)?'archive/'+requestedDate+'.json':'report.json';
 fetch(reportPath,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('状态码 '+r.status);return r.json();}).then(json=>{if(!Array.isArray(json.pages)||!json.pages.length)throw Error('晨报内容格式错误');report=json;render();}).catch(error=>{const el=make('div','error','晨报未加载成功，请检查网络或稍后重试。已停止展示旧数据。');byId('pages').replaceChildren(el);byId('intro').textContent='加载失败：'+error.message;byId('edition').textContent='暂不可用';byId('previous').disabled=true;byId('next').disabled=true;});
