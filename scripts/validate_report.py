@@ -12,6 +12,11 @@ assert report.get("reportDate") == today, "report date is not today in Asia/Shan
 assert report.get("status") == "published"
 assert len(report.get("pages", [])) >= 4
 assert len(report.get("sources", [])) >= 4
+if report.get("quality"):
+    assert report["quality"]["indicatorCount"] >= 5, "too few real market indicators"
+    required_pages = {"overview", "markets", "news", "radar", "lesson", "goldminers"}
+    assert required_pages.issubset({page.get("id") for page in report["pages"]}), "missing learning or industry section"
+    assert report["quality"]["news24hCount"] <= 10, "news count exceeded the editorial limit"
 blob = json.dumps(report, ensure_ascii=False).lower()
 for forbidden in ("sendkey", "api_key", "authorization", "private holding", "account number"):
     assert forbidden not in blob, f"forbidden field or secret marker: {forbidden}"
