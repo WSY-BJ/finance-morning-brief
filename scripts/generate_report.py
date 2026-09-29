@@ -187,8 +187,8 @@ NEWS_QUERIES = [
     "site:apnews.com/article/ tariffs manufacturing chip investment when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car)\b", re.I)
-RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|shipments|exports?|invests?|capacity|production|sales|revenue|margin|costs?|standards|capital spending|capex|projects?|plants?)\b", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|basketball|celtics|nba|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car)\b", re.I)
+RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|shipments|exports?|invests?|capacity|production|sales|revenue|margin|standards|capital spending|capex|projects?|plants?)\b", re.I)
 RADAR_NEGATIVE = re.compile(r"\b(idle|idles|idled|shutdown|closure|closes|layoffs?|bankrupt|lawsuit|sues|court|litigation|buyback|share repurchase)\b", re.I)
 
 
@@ -285,10 +285,18 @@ def indicator_block(key: str, item: dict) -> dict:
 def radar_block(topic, evidence: list[dict]) -> dict:
     name, _, mechanism, verify, samples = topic
     first = evidence[0]
+    chain = {
+        "AI 与半导体": "若订单成为实际交付，GPU 按芯片销售、HBM 存储按容量与售价、光模块和交换机按网络设备出货确认收入；服务器、电力与制冷仍需看建设验收。云服务及软件须把算力投入变成付费使用，否则资本开支先压现金流。",
+        "汽车与新能源": "电池厂可能通过新增装机量和产能利用率摊薄单位固定成本；若整车降价或原料涨价且合同无法转嫁，电池和整车毛利反而被挤压。新工厂先消耗现金，量产良率和稳定订单决定回收。",
+        "能源与材料": "钢铁项目可能给设备、工程及原材料供应商带来订单；新产能投放也可能压低现有钢厂售价，项目业主的利润须扣除建设成本、融资费用及开工后的折旧。",
+        "消费与医药": "销量和客单价共同决定收入；促销、采购与研发费用影响毛利和现金流。零售价涨幅放缓本身不等于新增利润，需有销量或成本改善的证据。",
+        "贸易与制造": "出口订单增加有助于摊薄工厂固定成本；若关税和海外建厂费用上升，利润未必同步增长，需按目的地和合同货币核对。",
+        "宏观与金融": "融资成本下降可能缓解企业利息开支，银行仍需核对净息差、坏账和贷款量；股价对政策的提前反映不能当作利润兑现。",
+    }[name]
     return {"type": "explainer", "title": name + "：从消息追踪利润，而非追涨幅",
             "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
             "paragraphs": ["观察到的事实：" + first["event"] + "（" + first["published"] + "，" + first["publisher"] + "）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-                           "可能的收入、成本和利润传导：" + mechanism + "最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
+                           "可能的收入、成本和利润传导：" + chain + " " + mechanism,
                            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：" + samples + "。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
                            "反证与未来 1–4 周验证：若" + verify + "没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 " + verify + "。"],
             "links": [{"title": "本条线索原文", "url": first["url"]}]}
