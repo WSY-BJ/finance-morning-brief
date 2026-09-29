@@ -11,18 +11,21 @@
 - `index.html`：语义化结构、CSP 安全限制、移动端 viewport。
 - `style.css`：无广告/无第三方字体/无外链的简洁样式。
 - `app.js`：导航、触摸翻页和安全 JSON 渲染，使用 `textContent` 而非将新闻注入 HTML。
-- `report.json`：样刊数据。只有人工核实来源、时间与价格后，才能替换并将 status 改为 live。
+- `report.json`：最新自动晨报；`archive/YYYY-MM-DD.json` 和 `archive/index.json` 保留历史入口。行情日期按每个 ETF 单独标注。
 
 ## 自动化流程
 
-每天北京时间约 08:03，`.github/workflows/daily-brief.yml` 会依次执行：
+每天北京时间 05:17、06:43、07:31、08:17 计划触发 `.github/workflows/daily-brief.yml`。这些是计划时间，GitHub 可能延迟或漏掉某次运行。流程如下：
 
 1. 从两个公开行情端点交叉容错采集数据；
 2. 生成并校验 `report.json`，同时写入 `archive/YYYY-MM-DD.json`；
 3. 部署 GitHub Pages，并从公网重新读取当天 JSON；
-4. 只有公网内容日期正确时，才使用 Server酱发送一条微信通知。
+4. 只有公网 `report.json` 的 `reportDate` 等于北京时间当天时，才考虑 Server酱通知。通知链接固定指向 `?date=YYYY-MM-DD#overview`；
+5. 在请求 Server酱之前，先提交 `.state/notifications/YYYY-MM-DD.json` 占位。即使请求结果未知，也不会自动重试同一天的正式推送。接口受理后记录 `accepted`，这不代表微信实际送达。
 
-GitHub 定时任务可能因平台排队晚几分钟。固定网址始终展示最新一期；网页底部保留最近历史晨报入口。
+重复运行会复用当天归档；若线上已是当天版本，跳过重新部署。周末也生成当天晨报，使用最近交易日的行情并显示每项数据日期。固定网址展示最新一期，网页底部保留历史入口。
+
+独立的北京时间 08:15 漏报看门狗检查线上日期、Actions 状态及通知回执，异常时通知维护者。GitHub 调度和微信通道都没有严格准点或端到端送达保证。测试通道可手动运行 `Test ServerChan delivery`，消息标题含“【测试】”，不占用正式晨报的每日标记。
 
 ## 密钥配置
 
