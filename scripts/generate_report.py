@@ -161,9 +161,9 @@ TOPICS = [
      "销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。", "交付量、单车售价、库存和电池报价", "比亚迪 002594/1211、特斯拉 TSLA、宁德时代 300750"),
     ("能源与材料", re.compile(r"\b(oil|crude|gas|copper|steel|energy|power|lithium)\b", re.I),
      "原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。", "现货与长协价格、库存、产量和下游毛利率", "中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899"),
-    ("消费与医药", re.compile(r"\b(retail|consumer|drug|pharma|medicine|health|sales)\b", re.I),
+    ("消费与医药", re.compile(r"\b(retail|consumer|drug|pharma|medicine|healthcare|shop price|product sales)\b", re.I),
      "需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。", "同店销售、销量、费用率和现金流", "贵州茅台 600519、美团 3690、礼来 LLY"),
-    ("贸易与制造", re.compile(r"\b(tariff|trade|export|manufactur|factory|industrial|order)\b", re.I),
+    ("贸易与制造", re.compile(r"\b(tariff|trade|export|manufactur|industrial|supply chain)\b", re.I),
      "出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。", "出口数量、订单积压、关税细则与产能利用率", "美的集团 000333/0300、卡特彼勒 CAT、立讯精密 002475"),
     ("宏观与金融", re.compile(r"\b(fed|central bank|interest rate|inflation|employment|bank|housing|property)\b", re.I),
      "利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。", "政策原文、收益率、贷款与财报", "工商银行 601398/1398、摩根大通 JPM、沪深300 ETF 510300"),
@@ -183,9 +183,12 @@ NEWS_QUERIES = [
     "site:apnews.com/article/ bonds stocks oil business when:1d",
     "site:apnews.com/article/ Nvidia tariffs automakers economy when:1d",
     "site:reuters.com healthcare consumer retail orders when:1d",
+    "site:reuters.com/business/ companies invest orders output tariffs when:1d",
+    "site:apnews.com/article/ tariffs manufacturing chip investment when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says)\b", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory)\b", re.I)
+RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|output|shipments|exports?|invests?|capacity|production|sales|revenue|margin|costs?|tariffs?|standards|capital spending|capex)\b", re.I)
 
 
 def parse_feed(name: str, url: str) -> list[dict]:
@@ -303,9 +306,11 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
         news_blocks.insert(0, {"type": "notice", "tone": "warning", "title": "过去 24 小时来源不足", "text": f"仅核实到 {len(news)} 条符合条件的公开消息；不把旧新闻冒充当天新闻。源站不可用数：{len(news_errors)}。"})
     seen_topics = []
     for n in news:
+        if not RADAR_SIGNAL.search(n["event"]) or re.search(r"\b(lawsuit|sues|court|litigation|buyback|share repurchase)\b", n["event"], re.I):
+            continue
         if n["topic"] not in seen_topics:
             seen_topics.append(n["topic"])
-    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in news if n["topic"] == name]) for name in seen_topics[:4]]
+    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in news if n["topic"] == name and RADAR_SIGNAL.search(n["event"]) and not re.search(r"\b(lawsuit|sues|court|litigation|buyback|share repurchase)\b", n["event"], re.I)]) for name in seen_topics[:4]]
     if len(radar) < 2:
         radar.insert(0, {"type": "notice", "tone": "warning", "title": "产业线索不足", "text": "可核查新闻不足以支持 2 条不同产业的利润假设，本期不填充未经验证的热门概念。"})
     gold = indicators.get("gold")
