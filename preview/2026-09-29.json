@@ -1,15 +1,15 @@
 {
   "edition": "财经晨报 · 2026-09-29",
-  "date": "生成于北京时间 2026-09-29 11:05；各数据逐项标注观测日",
+  "date": "生成于北京时间 2026-09-29 11:12；各数据逐项标注观测日",
   "reportDate": "2026-09-29",
-  "updatedAt": "2026-09-29T11:05:56+08:00",
+  "updatedAt": "2026-09-29T11:12:20+08:00",
   "status": "preview",
   "title": "从新闻读到产业利润",
   "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
   "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
   "notification": {
     "title": "2026-09-29 财经晨报",
-    "summary": "8 项真实指标、9 条近 24 小时消息、4 条产业线索；点击阅读因果和反证。"
+    "summary": "8 项真实指标、10 条近 24 小时消息、4 条产业线索；点击阅读因果和反证。"
   },
   "pages": [
     {
@@ -27,7 +27,7 @@
         {
           "type": "explainer",
           "title": "今天先看什么",
-          "summary": "已取得 8 个真实指标、过去 24 小时 9 条消息。每项行情逐项标注最近可用观测日。",
+          "summary": "已取得 8 个真实指标、过去 24 小时 10 条消息。每项行情逐项标注最近可用观测日。",
           "paragraphs": [
             "美国利率、美元、黄金和原油一起看：它们影响融资成本、以美元计价的收入和原材料成本，但对不同公司利润的方向可能相反。",
             "今天的研究线索从有时间和链接的消息出发，继续核对订单、售价、毛利率和现金流。"
@@ -44,7 +44,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "99.43 美元/桶；相对 2026-09-28 下降 −5.85 美元/桶。",
+          "summary": "99.26 美元/桶；相对 2026-09-28 下降 −6.02 美元/桶。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -60,16 +60,16 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；相对 2026-09-24 下降 −0.06 个百分点。",
+          "summary": "4.92 %；相对 2026-09-25 上升 +0.11 个百分点。",
           "paragraphs": [
-            "数据日期 2026-09-25；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "数据日期 2026-09-28；来源：美国财政部。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
             "2 年期国债收益率是短期美元资金价格的重要参照。它上行会提高部分融资成本，利率敏感行业的估值也可能受影响。"
           ],
           "links": [
             {
               "title": "查看原始数据",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -92,7 +92,7 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.22 点；相对 2026-09-28 上升 +0.02 点。",
+          "summary": "101.21 点；相对 2026-09-28 上升 +0.01 点。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -108,7 +108,7 @@
         {
           "type": "explainer",
           "title": "现货黄金 XAU/USD（参考报价）",
-          "summary": "4,136.10 美元/盎司；相对 2026-09-28 下降 −23.30 美元/盎司。",
+          "summary": "4,135.40 美元/盎司；相对 2026-09-28 下降 −24.00 美元/盎司。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：XAUS · 指示性现货中间价。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -156,7 +156,7 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.71 人民币/美元；相对 2026-09-27 下降 −0.01 人民币/美元。",
+          "summary": "6.70 人民币/美元；相对 2026-09-27 下降 −0.02 人民币/美元。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -168,6 +168,12 @@
               "url": "https://finance.yahoo.com/quote/CNY%3DX/"
             }
           ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "滞后数据",
+          "text": "这些数据晚于最近几个自然日，需打开来源核查更新安排：us10y。"
         }
       ]
     },
@@ -183,7 +189,7 @@
           "summary": "Dollar holds near two-month peak as yields rise, Fed data looms - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 09:57 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及宏观与金融，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
           ],
@@ -200,7 +206,7 @@
           "summary": "South Korean exports seen rising for 16th month on solid AI chip demand - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 09:08 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及AI 与半导体，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "这是预期或计划，不是已确认的交付或利润；核对正式统计、合同和投产时间。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
           ],
@@ -217,7 +223,7 @@
           "summary": "UK shop price inflation slows despite costs pressures, BRC says - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 07:07 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及消费与医药，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "价格涨幅放缓不等于价格下降；零售商的利润还取决于销量、采购成本和促销力度。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
           ],
@@ -230,11 +236,28 @@
         },
         {
           "type": "explainer",
-          "title": "4. AI 与半导体",
+          "title": "4. 贸易与制造",
+          "summary": "Retooled Celtics forge into unknown after Jaylen Brown trade - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-29 06:18 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUROQ0pyd0U3Z2VHTWNsLU9LOVE5aUFDeEhFRXF2cWozYjFmT3ZpZWN2SV9jZHFNdlYyUm5VOGZqUWdJTncyMEdTcHpZNGtKNVp6QjcwRmo0UVhsTklISldsOWs4NU1NS084eGhzbklzS19wOVRZS2dBMkdDVUlvenJjUU1IcVdzRTJyb0pGNG5hMG5vSktZc1ZwYUNCZEpNbWdnQ1JiQ05SWWhE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5. AI 与半导体",
           "summary": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
           "paragraphs": [
             "发生时间：2026-09-29 06:14 北京时间；发布或索引来源：AP News。",
-            "这条消息涉及AI 与半导体，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "发布产品或项目还不是确认收入；后续看订单、交付、价格和研发费用。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
           ],
@@ -247,11 +270,11 @@
         },
         {
           "type": "explainer",
-          "title": "5. 消费与医药",
+          "title": "6. 消费与医药",
           "summary": "Apple, Amazon face revived UK consumer lawsuit over product sales - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 05:58 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及消费与医药，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "诉讼可能带来赔偿或合规成本，但仍需核对案件阶段、金额和最终裁决，不能先记作已发生损失。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
           ],
@@ -264,11 +287,11 @@
         },
         {
           "type": "explainer",
-          "title": "6. 能源与材料",
+          "title": "7. 能源与材料",
           "summary": "Trump unveils $15 billion planned Iowa steel project - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 04:41 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及能源与材料，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "这是预期或计划，不是已确认的交付或利润；核对正式统计、合同和投产时间。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
           ],
@@ -281,11 +304,11 @@
         },
         {
           "type": "explainer",
-          "title": "7. 能源与材料",
+          "title": "8. 能源与材料",
           "summary": "Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 04:05 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及能源与材料，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "减产或停产可能减少销量，并使固定成本分摊到更少产品；同时核对停产期限和行业供给是否收缩。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
           ],
@@ -298,28 +321,28 @@
         },
         {
           "type": "explainer",
-          "title": "8. 宏观与金融",
-          "summary": "Vulnerable woman evicted and left to sleep in a car shows depth of Spain's housing crisis - Reuters",
+          "title": "9. 宏观与金融",
+          "summary": "Fed's Cook sees further inflationary pressures ahead - Reuters",
           "paragraphs": [
-            "发生时间：2026-09-29 02:40 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及宏观与金融，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "发生时间：2026-09-29 01:26 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
           ],
           "links": [
             {
               "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVaNi1mSXM3VUEzbTk2a21wckw3eDFlNl85d0IxYTF4Z1ltUGpjS2l1aWgtTjZvN1RUQThkZHJWV3M0ejlxNzJlSE5mRFpCZDUyazNoTUpZWHhTcEZWcXhSLTNjQ0ltTEJvbF83VEx3R21nZzhFYWp1WDVrd3lsZzJrTXNBN3YxNzREcHBDYnhiQUlJOTBjMGNfakl3SXkxYnVvMVFMVTVhU1ZVUXNuaUlXWWM0Zw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "9. 汽车与新能源",
+          "title": "10. 汽车与新能源",
           "summary": "China's Gotion invests $1.25 bln in Volkswagen battery plant in Spain - Reuters",
           "paragraphs": [
             "发生时间：2026-09-28 21:48 北京时间；发布或索引来源：Reuters。",
-            "这条消息涉及汽车与新能源，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "投资或建厂先形成资本支出和现金流出；只有项目投产、取得订单并收回货款后才可能增加利润。",
             "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
             "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
           ],
@@ -377,7 +400,7 @@
           "title": "能源与材料：从消息追踪利润，而非追涨幅",
           "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
           "paragraphs": [
-            "观察到的事实：Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC - Reuters（2026-09-29 04:05 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "观察到的事实：Trump unveils $15 billion planned Iowa steel project - Reuters（2026-09-29 04:41 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
             "可能的收入、成本和利润传导：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
             "研究样本（A 股、港股、美股，供核查而非排名或推荐）：中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
             "反证与未来 1–4 周验证：若现货与长协价格、库存、产量和下游毛利率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 现货与长协价格、库存、产量和下游毛利率。"
@@ -385,7 +408,7 @@
           "links": [
             {
               "title": "本条线索原文",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG96UXB1djdqb2RGOU11dFpxQXA5ZTZPZHQ1VnY1MVlPQTNZOV8xSlVqREg0S2FwWnFDcjAxLU1OUEdEQ2ItQnByckFEMHEtVkFEZ19DUWNlZlRNYjFwZkhvWHRUWkJCWkpyeldCV0xucmQ1NnhsTjJzTGFHZUNPUjVDNnJvTjZrbmZ4NW84UXNHX0NDRkRYbm5pdTFacUpUTTBETDNqb05GT2pzV3k0TFNCVHpjcHc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5"
             }
           ]
         },
@@ -435,7 +458,7 @@
         {
           "type": "explainer",
           "title": "金价上涨，矿企利润一定上涨吗？",
-          "summary": "现货金价 4,136.10 美元/盎司（2026-09-29）；相对前一观测日 −0.56%。",
+          "summary": "现货金价 4,135.40 美元/盎司（2026-09-29）；相对前一观测日 −0.58%。",
           "paragraphs": [
             "金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
             "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
@@ -447,6 +470,11 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-09-29"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-09-28"
@@ -455,11 +483,6 @@
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-09-28"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-09-29"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -477,13 +500,13 @@
       "asOf": "2026-09-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-09-25"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-09-28"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-09-25"
     },
     {
@@ -500,6 +523,11 @@
       "title": "新闻 · Reuters · UK shop price inflation slows despite costs pressures, BRC says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmUxMElXTHpPbEpEMmRTZ2ZVZWc1SHRWZDRicEpSTWVpeVpDVUZsWWpNY055LWw3Nm5mMGpOZG9fY2tQa01lbzU1RzdfQjRKcVFJSFMzb0pJYXV0bmpILVV0OVNJc2p4aW1SWWlQNWZpZF81Z2dFa2VycUQ3SFVyWjhDcTVtSXhLWVplQ05FNi1zMS04SGRHaWhlWURpRlZid1phS0hIQnBUZ3h5MXlDR2J4MTFSSXlVUnVlbkRndng?oc=5",
       "asOf": "2026-09-29 07:07 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Retooled Celtics forge into unknown after Jaylen Brown trade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUROQ0pyd0U3Z2VHTWNsLU9LOVE5aUFDeEhFRXF2cWozYjFmT3ZpZWN2SV9jZHFNdlYyUm5VOGZqUWdJTncyMEdTcHpZNGtKNVp6QjcwRmo0UVhsTklISldsOWs4NU1NS084eGhzbklzS19wOVRZS2dBMkdDVUlvenJjUU1IcVdzRTJyb0pGNG5hMG5vSktZc1ZwYUNCZEpNbWdnQ1JiQ05SWWhE?oc=5",
+      "asOf": "2026-09-29 06:18 北京时间"
     },
     {
       "title": "新闻 · AP News · Nvidia unveils security platform to stop AI agents from going rogue - AP News",
@@ -522,9 +550,9 @@
       "asOf": "2026-09-29 04:05 北京时间"
     },
     {
-      "title": "新闻 · Reuters · Vulnerable woman evicted and left to sleep in a car shows depth of Spain's housing crisis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVaNi1mSXM3VUEzbTk2a21wckw3eDFlNl85d0IxYTF4Z1ltUGpjS2l1aWgtTjZvN1RUQThkZHJWV3M0ejlxNzJlSE5mRFpCZDUyazNoTUpZWHhTcEZWcXhSLTNjQ0ltTEJvbF83VEx3R21nZzhFYWp1WDVrd3lsZzJrTXNBN3YxNzREcHBDYnhiQUlJOTBjMGNfakl3SXkxYnVvMVFMVTVhU1ZVUXNuaUlXWWM0Zw?oc=5",
-      "asOf": "2026-09-29 02:40 北京时间"
+      "title": "新闻 · Reuters · Fed's Cook sees further inflationary pressures ahead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5",
+      "asOf": "2026-09-29 01:26 北京时间"
     },
     {
       "title": "新闻 · Reuters · China's Gotion invests $1.25 bln in Volkswagen battery plant in Spain - Reuters",
@@ -534,9 +562,11 @@
   ],
   "quality": {
     "indicatorCount": 8,
-    "news24hCount": 9,
+    "news24hCount": 10,
     "radarCount": 4,
-    "staleIndicators": [],
+    "staleIndicators": [
+      "us10y"
+    ],
     "unavailableIndicators": [],
     "unavailableNewsSources": []
   }
