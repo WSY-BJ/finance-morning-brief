@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-09-29",
-  "date": "生成于北京时间 2026-09-29 11:16；各数据逐项标注观测日",
+  "date": "生成于北京时间 2026-09-29 11:19；各数据逐项标注观测日",
   "reportDate": "2026-09-29",
-  "updatedAt": "2026-09-29T11:16:09+08:00",
+  "updatedAt": "2026-09-29T11:19:41+08:00",
   "status": "preview",
   "title": "从新闻读到产业利润",
   "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
@@ -44,7 +44,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "99.33 美元/桶；相对 2026-09-28 下降 −5.95 美元/桶。",
+          "summary": "99.54 美元/桶；相对 2026-09-28 下降 −5.74 美元/桶。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -60,16 +60,16 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；相对 2026-09-24 下降 −0.06 个百分点。",
+          "summary": "4.92 %；相对 2026-09-25 上升 +0.11 个百分点。",
           "paragraphs": [
-            "数据日期 2026-09-25；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "数据日期 2026-09-28；来源：美国财政部。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
             "2 年期国债收益率是短期美元资金价格的重要参照。它上行会提高部分融资成本，利率敏感行业的估值也可能受影响。"
           ],
           "links": [
             {
               "title": "查看原始数据",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -92,7 +92,7 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.22 点；相对 2026-09-28 上升 +0.02 点。",
+          "summary": "101.23 点；相对 2026-09-28 上升 +0.03 点。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -108,7 +108,7 @@
         {
           "type": "explainer",
           "title": "现货黄金 XAU/USD（参考报价）",
-          "summary": "4,135.10 美元/盎司；相对 2026-09-28 下降 −24.30 美元/盎司。",
+          "summary": "4,135.30 美元/盎司；相对 2026-09-28 下降 −24.10 美元/盎司。",
           "paragraphs": [
             "数据日期 2026-09-29；来源：XAUS · 指示性现货中间价。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -168,12 +168,6 @@
               "url": "https://finance.yahoo.com/quote/CNY%3DX/"
             }
           ]
-        },
-        {
-          "type": "notice",
-          "tone": "warning",
-          "title": "滞后数据",
-          "text": "这些数据晚于最近几个自然日，需打开来源核查更新安排：us2y。"
         }
       ]
     },
@@ -219,24 +213,7 @@
         },
         {
           "type": "explainer",
-          "title": "3. 能源与材料",
-          "summary": "NHL power rankings: Avs, Canes lead strong pack of Cup hopefuls - Reuters",
-          "paragraphs": [
-            "发生时间：2026-09-29 08:17 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1oyQjE5NzViMDluSTVhNnpqa0lNYjR1MXNVQmgweWRwQllQbEMybUJxaXRITXBaZ1B5Qm1PRXJaQUNmbnU2aU1XQTBnTVRsQS1JTTlackJ1NEVOQWEwcU54dDZIQzgtZE9uOWZLNHhUcV9mN1JTc1FlbmR1OHlzT3pXTWlrcFBBN0Z0NFZKYzVPelR4UjIwNTJlUDBlYks3OWh0TE9kYUxhUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "4. 消费与医药",
+          "title": "3. 消费与医药",
           "summary": "Apple, Amazon face revived UK consumer lawsuit over product sales - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 05:58 北京时间；发布或索引来源：Reuters。",
@@ -253,41 +230,7 @@
         },
         {
           "type": "explainer",
-          "title": "5. AI 与半导体",
-          "summary": "Pope Leo says concerns about AI doom scenarios are not 'fake news' - Reuters",
-          "paragraphs": [
-            "发生时间：2026-09-29 04:54 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTU1WWJ5NTVsLWJLSm9hbmJTZmVVWGxvQl9xeEpHbjFGaEw4X0RybG9qdW5rSXBuOUZxYVduWmhJY1JxdHNtUnJod1F6Ym94cVZ5SWloVzF6NzdyNFYwR1d6NFRwT0hPc1ZDaXo0eVpDcU5qTzlaZWlCell5VWthZFdPNmxsVDFQU0xJa3gwN19Zc1FhN05wVEVHV3YwOE85STV4NEFB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "6. 宏观与金融",
-          "summary": "PODCAST: UK airbase arrests, GOP vs data centers and Spain’s housing crisis (Updated) - Reuters",
-          "paragraphs": [
-            "发生时间：2026-09-29 04:47 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU09IS0kxcFZ1RHdLYUdIYnVUbUR2NlQ0bnhBamdJMGllbFZ3TjBaU0t0dVVEYlhsOUd4SDBCSGwwdE0zMGtiVGRIOUJ0aG03YlFfcmlkX0NRNW8wVC0wN0lEUlZhMFhRRkZiWWR4UWdSNVRRR1lJbWpqeFhqSlo4U1E4cmJNelROUXFOd25VOERfNEJhckhlLTdSQzRhb1FoMGZKWHV4RnI?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "7. 能源与材料",
+          "title": "4. 能源与材料",
           "summary": "Trump unveils $15 billion planned Iowa steel project - Reuters",
           "paragraphs": [
             "发生时间：2026-09-29 04:41 北京时间；发布或索引来源：Reuters。",
@@ -299,6 +242,57 @@
             {
               "title": "阅读消息原文或新闻索引",
               "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5. 能源与材料",
+          "summary": "Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-29 04:05 北京时间；发布或索引来源：Reuters。",
+            "减产或停产可能减少销量，并使固定成本分摊到更少产品；同时核对停产期限和行业供给是否收缩。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG96UXB1djdqb2RGOU11dFpxQXA5ZTZPZHQ1VnY1MVlPQTNZOV8xSlVqREg0S2FwWnFDcjAxLU1OUEdEQ2ItQnByckFEMHEtVkFEZ19DUWNlZlRNYjFwZkhvWHRUWkJCWkpyeldCV0xucmQ1NnhsTjJzTGFHZUNPUjVDNnJvTjZrbmZ4NW84UXNHX0NDRkRYbm5pdTFacUpUTTBETDNqb05GT2pzV3k0TFNCVHpjcHc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "6. AI 与半导体",
+          "summary": "Breakingviews - COMMENTARY: Jensen Huang's invisible hand is tied on AI safety - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-29 01:29 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzVsSmFHenZnbnlmbzh5eHhSZnNqbnVzcnhDMk9WaDNiZlQ4S3lxR3UtSnFFMkVHVFRqamR6Qi1HR0YzUVVlRWdJdllTZWVjRzEwWHlwUmhZOHpsaHV1SmR5QkRYcXY1SXlCWnNHalBKV2RRbUpRRWVOWmFRMW9WU1BPR3ZNSkl5NTFMQkR6cGw1aV9ucTNRMHNlMGdjZEhXZDAwUGpQemp6cVE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "7. 宏观与金融",
+          "summary": "Fed's Cook sees further inflationary pressures ahead - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-29 01:26 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5"
             }
           ]
         },
@@ -424,7 +418,7 @@
         {
           "type": "explainer",
           "title": "金价上涨，矿企利润一定上涨吗？",
-          "summary": "现货金价 4,135.10 美元/盎司（2026-09-29）；相对前一观测日 −0.58%。",
+          "summary": "现货金价 4,135.30 美元/盎司（2026-09-29）；相对前一观测日 −0.58%。",
           "paragraphs": [
             "金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
             "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
@@ -446,14 +440,14 @@
       "asOf": "2026-09-29"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-09-28"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-09-29"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-09-28"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -466,14 +460,14 @@
       "asOf": "2026-09-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-09-28"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-09-25"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-09-28"
     },
     {
       "title": "新闻 · Reuters · Dollar holds near two-month peak as yields rise, Fed data looms - Reuters",
@@ -486,29 +480,29 @@
       "asOf": "2026-09-29 09:08 北京时间"
     },
     {
-      "title": "新闻 · Reuters · NHL power rankings: Avs, Canes lead strong pack of Cup hopefuls - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1oyQjE5NzViMDluSTVhNnpqa0lNYjR1MXNVQmgweWRwQllQbEMybUJxaXRITXBaZ1B5Qm1PRXJaQUNmbnU2aU1XQTBnTVRsQS1JTTlackJ1NEVOQWEwcU54dDZIQzgtZE9uOWZLNHhUcV9mN1JTc1FlbmR1OHlzT3pXTWlrcFBBN0Z0NFZKYzVPelR4UjIwNTJlUDBlYks3OWh0TE9kYUxhUQ?oc=5",
-      "asOf": "2026-09-29 08:17 北京时间"
-    },
-    {
       "title": "新闻 · Reuters · Apple, Amazon face revived UK consumer lawsuit over product sales - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlNVR0NibnVhb1I5T3pCODVCVDUwTUJyeHFKdE9UYzNXcTZMYmF1Ty1LQmZaTnRSa3JNSGU0WVFwaGJtRDE0d3NDQ1lGQ2dvd3BBX3BjalVMUHdhSEptUGFYWG1CTTl2ZmlFZXlBa2d5eVY3Y2lFUHBsWVNGS21WOFJYcmtJYmFvVy1UZ0dDNWk4SDR5dFUzVmN4U3lEeWp6amJSUlZVQlZqdXA5OGNNd3B3ZVV5eWEz?oc=5",
       "asOf": "2026-09-29 05:58 北京时间"
     },
     {
-      "title": "新闻 · Reuters · Pope Leo says concerns about AI doom scenarios are not 'fake news' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTU1WWJ5NTVsLWJLSm9hbmJTZmVVWGxvQl9xeEpHbjFGaEw4X0RybG9qdW5rSXBuOUZxYVduWmhJY1JxdHNtUnJod1F6Ym94cVZ5SWloVzF6NzdyNFYwR1d6NFRwT0hPc1ZDaXo0eVpDcU5qTzlaZWlCell5VWthZFdPNmxsVDFQU0xJa3gwN19Zc1FhN05wVEVHV3YwOE85STV4NEFB?oc=5",
-      "asOf": "2026-09-29 04:54 北京时间"
-    },
-    {
-      "title": "新闻 · Reuters · PODCAST: UK airbase arrests, GOP vs data centers and Spain’s housing crisis (Updated) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU09IS0kxcFZ1RHdLYUdIYnVUbUR2NlQ0bnhBamdJMGllbFZ3TjBaU0t0dVVEYlhsOUd4SDBCSGwwdE0zMGtiVGRIOUJ0aG03YlFfcmlkX0NRNW8wVC0wN0lEUlZhMFhRRkZiWWR4UWdSNVRRR1lJbWpqeFhqSlo4U1E4cmJNelROUXFOd25VOERfNEJhckhlLTdSQzRhb1FoMGZKWHV4RnI?oc=5",
-      "asOf": "2026-09-29 04:47 北京时间"
-    },
-    {
       "title": "新闻 · Reuters · Trump unveils $15 billion planned Iowa steel project - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5",
       "asOf": "2026-09-29 04:41 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG96UXB1djdqb2RGOU11dFpxQXA5ZTZPZHQ1VnY1MVlPQTNZOV8xSlVqREg0S2FwWnFDcjAxLU1OUEdEQ2ItQnByckFEMHEtVkFEZ19DUWNlZlRNYjFwZkhvWHRUWkJCWkpyeldCV0xucmQ1NnhsTjJzTGFHZUNPUjVDNnJvTjZrbmZ4NW84UXNHX0NDRkRYbm5pdTFacUpUTTBETDNqb05GT2pzV3k0TFNCVHpjcHc?oc=5",
+      "asOf": "2026-09-29 04:05 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Breakingviews - COMMENTARY: Jensen Huang's invisible hand is tied on AI safety - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzVsSmFHenZnbnlmbzh5eHhSZnNqbnVzcnhDMk9WaDNiZlQ4S3lxR3UtSnFFMkVHVFRqamR6Qi1HR0YzUVVlRWdJdllTZWVjRzEwWHlwUmhZOHpsaHV1SmR5QkRYcXY1SXlCWnNHalBKV2RRbUpRRWVOWmFRMW9WU1BPR3ZNSkl5NTFMQkR6cGw1aV9ucTNRMHNlMGdjZEhXZDAwUGpQemp6cVE?oc=5",
+      "asOf": "2026-09-29 01:29 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Fed's Cook sees further inflationary pressures ahead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hBTjdyQzBjNTJoTkhvQV9YVk9rWnRMWjhhR0Jkd2ZQcDBoRU5UQUZZTElmX1pYZzFhUXdsSF9Cc1otTVZGR1BOQmtBcXU2eS1hNC1EWE45V2lWWmdFSU8xS0RPSDdfR3k2NjRwSjdwYzhMelNsOU5CSzhzZ1Y4U0t2ZDlDZGo3OVBuSW9lcWxjU1lNWUkwSS1QV0I?oc=5",
+      "asOf": "2026-09-29 01:26 北京时间"
     },
     {
       "title": "新闻 · Reuters · India's top court allows forensic audit in Fortis-IHH Healthcare unit case - Reuters",
@@ -525,9 +519,7 @@
     "indicatorCount": 8,
     "news24hCount": 9,
     "radarCount": 3,
-    "staleIndicators": [
-      "us2y"
-    ],
+    "staleIndicators": [],
     "unavailableIndicators": [],
     "unavailableNewsSources": []
   }
