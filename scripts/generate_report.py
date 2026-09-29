@@ -51,6 +51,46 @@ def fred(series: str, label: str, unit: str) -> dict:
             "source": "https://fred.stlouisfed.org/series/" + series, "provider": "FRED / 原始发布机构"}
 
 
+def treasury(year_month: str, term: str, label: str) -> dict:
+    url = ("https://home.treasury.gov/resource-center/data-chart-center/interest-rates/"
+           "daily-treasury-rates.csv/all/" + year_month + "?_format=csv&field_tdr_date_value_month=" + year_month
+           + "&page=&type=daily_treasury_yield_curve")
+    rows = []
+    for row in csv.DictReader(io.StringIO(fetch(url))):
+        raw = row.get("Date", "")
+        if row.get(term) and raw:
+            rows.append((datetime.strptime(raw, "%m/%d/%Y").date().isoformat(), float(row[term])))
+    rows.sort()
+    if len(rows) < 2:
+        raise ValueError("Treasury CSV has insufficient observations")
+    (previous_date, previous), (date, value) = rows[-2:]
+    return {"label": label, "value": value, "unit": "%", "date": date, "previousDate": previous_date,
+            "change": value - previous, "changePct": (value / previous - 1) * 100,
+            "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates", "provider": "美国财政部"}
+
+
+def best_yield(series: str, term: str, label: str) -> dict:
+    today = datetime.now(TZ).date()
+    try:
+        direct = treasury(today.strftime("%Y%m"), term, label)
+        if (today - datetime.fromisoformat(direct["date"]).date()).days <= 4:
+            return direct
+    except (ValueError, KeyError, OSError):
+        pass
+    return fred(series, label, "%")
+
+
+def brent() -> dict:
+    try:
+        item = fred("DCOILBRENTEU", "Brent 原油现货", "美元/桶")
+        if (datetime.now(TZ).date() - datetime.fromisoformat(item["date"]).date()).days <= 4:
+            return item
+    except (ValueError, KeyError, OSError):
+        pass
+    # BZ=F is a Brent futures price, clearly labeled rather than called spot.
+    return yahoo("BZ=F", "Brent 原油期货", "美元/桶")
+
+
 def spot_gold() -> dict:
     end = datetime.now(TZ).date()
     url = "https://stooq.com/q/d/l/?" + urllib.parse.urlencode({"s": "xauusd", "d1": (end - timedelta(days=15)).strftime("%Y%m%d"), "d2": end.strftime("%Y%m%d"), "i": "d"})
@@ -67,9 +107,9 @@ def spot_gold() -> dict:
 
 
 INDICATORS = [
-    ("brent", lambda: fred("DCOILBRENTEU", "Brent 原油现货", "美元/桶")),
-    ("us2y", lambda: fred("DGS2", "美国 2 年期国债收益率", "%")),
-    ("us10y", lambda: fred("DGS10", "美国 10 年期国债收益率", "%")),
+    ("brent", brent),
+    ("us2y", lambda: best_yield("DGS2", "2 Yr", "美国 2 年期国债收益率")),
+    ("us10y", lambda: best_yield("DGS10", "10 Yr", "美国 10 年期国债收益率")),
     ("dxy", lambda: yahoo("DX-Y.NYB", "美元指数 DXY", "点")),
     ("gold", spot_gold),
     ("sp500", lambda: yahoo("^GSPC", "标普 500 指数", "点")),
@@ -117,10 +157,13 @@ FEEDS = [
     ("欧洲央行", "https://www.ecb.europa.eu/rss/press.html"),
 ]
 NEWS_QUERIES = [
-    "business economy central bank inflation when:1d",
-    "semiconductor AI capital expenditure earnings when:1d",
-    "energy electric vehicle manufacturing trade when:1d",
+    "site:reuters.com/business/ economy central bank earnings when:1d",
+    "site:reuters.com/business/ technology semiconductor AI when:1d",
+    "site:reuters.com/business/ energy electric vehicle trade when:1d",
+    "site:apnews.com business economy energy technology when:1d",
 ]
+TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble)\b", re.I)
 
 
 def parse_feed(name: str, url: str) -> list[dict]:
@@ -155,7 +198,7 @@ def collect_news(now: datetime) -> tuple[list[dict], list[str]]:
     seen, selected, counts = set(), [], {}
     for item in sorted(latest, key=lambda x: (x["publisher"] == "Google 新闻索引", -x["published"].timestamp())):
         normalized = re.sub(r"\W+", "", item["title"].lower())[:90]
-        if normalized in seen:
+        if normalized in seen or not TRUSTED_PUBLISHERS.search(item["publisher"]) or WEAK_HEADLINES.search(item["title"]):
             continue
         seen.add(normalized)
         topic = next((t for t in TOPICS if t[1].search(item["title"])), None)
@@ -224,6 +267,9 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
     sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
     sources += [{"title": "新闻 · " + item["publisher"] + " · " + item["event"], "url": item["url"], "asOf": item["published"]} for item in news]
     market_blocks = [indicator_block(key, indicators[key]) for key, _ in INDICATORS if key in indicators]
+    stale = [key for key, item in indicators.items() if (now.date() - datetime.fromisoformat(item["date"]).date()).days > 4]
+    if stale:
+        market_blocks.append({"type": "notice", "tone": "warning", "title": "滞后数据", "text": "这些数据晚于最近几个自然日，需打开来源核查更新安排：" + "、".join(stale) + "。"})
     if failures:
         market_blocks.append({"type": "notice", "tone": "warning", "title": "缺失的指标", "text": "以下指标未从对应的真实口径获得数据，已留空，不用 ETF 价格代替：" + "、".join(failures) + "。"})
     news_blocks = [{"type": "explainer", "title": str(i) + ". " + n["topic"], "summary": n["event"],
@@ -265,7 +311,7 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
             "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
             "notification": {"title": f"{today} 财经晨报", "summary": f"{len(indicators)} 项真实指标、{len(news)} 条近 24 小时消息、{len([b for b in radar if b['type']=='explainer'])} 条产业线索；点击阅读因果和反证。"},
             "pages": pages, "sources": sources,
-            "quality": {"indicatorCount": len(indicators), "news24hCount": len(news), "radarCount": len([b for b in radar if b["type"] == "explainer"]), "unavailableIndicators": list(failures), "unavailableNewsSources": news_errors}}
+            "quality": {"indicatorCount": len(indicators), "news24hCount": len(news), "radarCount": len([b for b in radar if b["type"] == "explainer"]), "staleIndicators": stale, "unavailableIndicators": list(failures), "unavailableNewsSources": news_errors}}
 
 
 def write_outputs(report: dict) -> None:
