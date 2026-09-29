@@ -1,0 +1,551 @@
+{
+  "edition": "财经晨报 · 2026-09-29",
+  "date": "生成于北京时间 2026-09-29 10:52；各数据逐项标注观测日",
+  "reportDate": "2026-09-29",
+  "updatedAt": "2026-09-29T10:52:29+08:00",
+  "status": "preview",
+  "title": "从新闻读到产业利润",
+  "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
+  "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
+  "notification": {
+    "title": "2026-09-29 财经晨报",
+    "summary": "7 项真实指标、10 条近 24 小时消息、4 条产业线索；点击阅读因果和反证。"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 开篇",
+      "title": "我今天不用自己查指标版",
+      "lead": "先看真实口径与数据日期，再读它怎样可能影响企业赚钱。",
+      "blocks": [
+        {
+          "type": "notice",
+          "tone": "neutral",
+          "title": "阅读方法",
+          "text": "行情是事实，利润传导是待检验的条件推论。价格的变动原因无法从价格本身推出；新闻标题未核实的细节不会被写成事实。"
+        },
+        {
+          "type": "explainer",
+          "title": "今天先看什么",
+          "summary": "已取得 7 个真实指标、过去 24 小时 10 条消息。每项行情逐项标注最近可用观测日。",
+          "paragraphs": [
+            "美国利率、美元、黄金和原油一起看：它们影响融资成本、以美元计价的收入和原材料成本，但对不同公司利润的方向可能相反。",
+            "今天的研究线索从有时间和链接的消息出发，继续核对订单、售价、毛利率和现金流。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 数据",
+      "title": "关键指标与传导",
+      "lead": "最新可靠观测值、上一观测日变化、数据时间和影响范围。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "114.89 美元/桶；相对 2026-09-21 下降 −1.26 美元/桶。",
+          "paragraphs": [
+            "数据日期 2026-09-22；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "Brent 是国际原油定价参考。油价变化可能改变油企每桶收入，也会改变航空、化工及运输的燃料成本；利润还取决于销量、库存与能否转嫁成本。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.81 %；相对 2026-09-24 下降 −0.06 个百分点。",
+          "paragraphs": [
+            "数据日期 2026-09-25；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "2 年期国债收益率是短期美元资金价格的重要参照。它上行会提高部分融资成本，利率敏感行业的估值也可能受影响。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.17 %；相对 2026-09-24 下降 −0.01 个百分点。",
+          "paragraphs": [
+            "数据日期 2026-09-25；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "10 年期国债收益率常被用作长期资金定价参照。它上行时，远期利润折回今天的估值可能降低，但企业利润增长可能抵消这种影响。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.20 点；相对 2026-09-28 下降 −0.00 点。",
+          "paragraphs": [
+            "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "DXY 是美元相对一篮子主要货币的指数。美元走强可能影响人民币汇率、美元债成本及大宗商品报价，实际影响须看企业结算货币。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,683.69 点；相对 2026-09-25 下降 −59.72 点。",
+          "paragraphs": [
+            "数据日期 2026-09-28；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "标普 500 是美国大型上市公司指数。指数涨跌包含估值和盈利预期两部分，单日价格不能说明是哪一种在主导。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,820.38 点；相对 2026-09-25 下降 −248.34 点。",
+          "paragraphs": [
+            "数据日期 2026-09-28；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "纳斯达克综合指数包含较多科技企业。观察它时应同时核对盈利、资本开支与利率，不能直接把上涨等同于 AI 利润增长。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.70 人民币/美元；相对 2026-09-27 下降 −0.02 人民币/美元。",
+          "paragraphs": [
+            "数据日期 2026-09-29；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
+            "美元兑人民币数字上升表示一美元可兑换更多人民币。出口收入和进口成本可能同时变化，合同结算币种与套保安排决定净影响。"
+          ],
+          "links": [
+            {
+              "title": "查看原始数据",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "缺失的指标",
+          "text": "以下指标未从对应的真实口径获得数据，已留空，不用 ETF 价格代替：gold。"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 近 24 小时",
+      "title": "过去 24 小时财经新闻梳理",
+      "lead": "优先选有企业利润传导线索的消息；逐条给出原文和核验方向。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "1. 汽车与新能源",
+          "summary": "From fuel economy regulations to electrification pathways: Assessing India’s electric vehicle adoption and battery capacity needs (2026–2040) - International Council on Clean Transportation",
+          "paragraphs": [
+            "发生时间：2026-09-29 10:11 北京时间；发布或索引来源：International Council on Clean Transportation。",
+            "这条消息涉及汽车与新能源，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1hEMklDdTc3RzRrNHBwSks2U05qRDAyc3Ixb3MwekRFOVJSZno2Wmx3VVREUHFlVnV0SXBxR0FhVS1jNG42WnNXSG1EV0N6cWswTWVPS0pyYVk4M0Y5b09PbVR0WlRxbEluOWZVdUpzTTlCM1BoRUNGQ3dkOUUxY3RMMW1tVkp2YTdoaXNCMUJ5MTN2Q09fbjF3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2. AI 与半导体",
+          "summary": "Burry Bets on AI Bubble via Put Options - 조선일보",
+          "paragraphs": [
+            "发生时间：2026-09-29 10:01 北京时间；发布或索引来源：조선일보。",
+            "这条消息涉及AI 与半导体，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2VXa0tHR0RTVk4xNXQzTE5lVHlQdHZPa0hrMHliZ0twMHZscVhQVXBYbWlsdjcxQVRvMmF5eUZFVzdwMG1ZRGZQYUt6ZHlaOURva2tBX09qb0Fuc2lGSG5ja09KNzhjSHdKYlFLQngxNzdNV3lleHNXa0RhRm9waGt0RFVFdjZVeV9OalBB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "3. AI 与半导体",
+          "summary": "Is ASE Technology (ASX) Becoming a Bigger AI Semiconductor Play? - Yahoo Finance",
+          "paragraphs": [
+            "发生时间：2026-09-29 08:59 北京时间；发布或索引来源：Yahoo Finance。",
+            "这条消息涉及AI 与半导体，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0hvQVZMUVF2R0ltcU9HSGhfWk1scUFnRnRWajdCWEFkTTByaUIzdG5CcU1sM29YeFljYnhMbTE4ZlFJbmgxYXo2ZmdRTWlDMDZacWR6VmM1MXBIcHBYXzNySk1zdTZkS3hBMlFOeDM5MVZzN0dsV1psbk9LV0JpeVZyX1RTaUVpei1ia2w3WEI1aXZ5VWRGRWtleE9aQmc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "4. 贸易与制造",
+          "summary": "Industrial Actuators Market To 2035: Smart Manufacturing and Efficiency Drive Expansion - News and Statistics - IndexBox",
+          "paragraphs": [
+            "发生时间：2026-09-29 08:01 北京时间；发布或索引来源：IndexBox。",
+            "这条消息涉及贸易与制造，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTBUYUZueUFha3UzYldETGVteE1mQUprWGczNjBXZThOdmJjNC1NT3ppWXhQWlZfUnNxNWlRVWdoSDA2LTY2NmNzeEZnUkYyeTl6cE1lWllmYy1UWTU2dG40eGItbU1TZWZSX2Y1UGdvT3VlY0hJZ1doWUxSeWtxb08xUXBQZ1ZyekVMalZjTXN1bzUzX1ZMdzZUTWZhd1pEQk9qdnJnd3NteFkxWHhHSHNxcTBCWU5PU0JfMndxSnl3YTFvenl1SzNtSFllakV6TUlXX2xaYw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5. 能源与材料",
+          "summary": "Vanadium Pentoxide Powder Market To 2035: Energy Storage Demand Drives Growth - News and Statistics - IndexBox",
+          "paragraphs": [
+            "发生时间：2026-09-29 06:46 北京时间；发布或索引来源：IndexBox。",
+            "这条消息涉及能源与材料，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2hWRHhWNUFYdGFRNU0wSHEtc1NHUEhiRDBmWFYyOHBTVnlHSFA3U1JhSGVPcjBFWTk5N2hrTVIzeEQwWGNVSmk4eEZoZmhWUGdfNVZBUGotWGl4UC14ODVRSHVtS0xQRk1vS1JYUGIwTFN5c2h5V3RHeU5qYW5McmJtVWo4RXN0REdldVBzcFZnaWREc0ZYOXh0dUJHRDlEWDB0MG9seERtNmVUWThEVzBXa09CcE13cG1iMzRmQzg3d1ZVdl9na3NUNllyRTB4QlRBcEt1cjFVUnQxOTdB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "6. 宏观与金融",
+          "summary": "Interest rates: fighting inflation by punishing mortgage holders is not enough - Pearls and Irritations",
+          "paragraphs": [
+            "发生时间：2026-09-29 06:43 北京时间；发布或索引来源：Pearls and Irritations。",
+            "这条消息涉及宏观与金融，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVF96NWMyNHd5SHp2cmtwdkFQX04tbUwybkdvbkhYVnp0SkVYTmpwNm96dDhncmQwWUZad1ViQ2paRE5TT2t0VnJlY24tWEYwbzRIUlpSYmdyZVJzOGdtX2ZZcEZKRy1JWkNnQkFaV1J6ampNMzA1b3QtTWdLRXVlUWJtQ1BxWl9oRjZkQ1pUdlRHZU5hMllBSGkwbVF5OG52a1pKcUtELWRxeXoteFlIeUZ3c3o1UQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "7. 宏观与金融",
+          "summary": "Bank Indonesia to Shield the Rupiah as the Rp 18,000 Threshold Looms - InvestorTrust",
+          "paragraphs": [
+            "发生时间：2026-09-29 05:44 北京时间；发布或索引来源：InvestorTrust。",
+            "这条消息涉及宏观与金融，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjVUOFZXRGV4S3VVc3lRWUNQazBDMFM5bXRIMEhfRGdRN1NJZURDblU4U3pCMmljUDRRakJJU01TR09haU9ocjZ1Mm1reFpWcjRramRXVVYwa20tQUNuX1FQazUxdFROZ3M2eHMwX3ZuMnU2OUI2TzhXSTNpdkxkMmw5RTE5dDNaMlRpNkNPZGloVE5iVVRUWUNwX2Nicy0xa0F6Y1RMOUl1YUE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "8. 能源与材料",
+          "summary": "Power MOSFET Transistors Market To 2035: Electrification and Automation Drive Growth at 7.2% CAGR - News and Statistics - IndexBox",
+          "paragraphs": [
+            "发生时间：2026-09-29 05:16 北京时间；发布或索引来源：IndexBox。",
+            "这条消息涉及能源与材料，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnhMbUJ3MndaWTBFZE5QYVJxNUphLUxxNHAzZ0VlcEUzTUdoanZEb29CaFZvcWhpOHNVVGdHSWxLdkFnT1o0QS1UeUh0X19RVUpJbW1Hemx3VEdHRWZQblVhT1ZmU3hDWXkzNlp5SHhGdzBiQURHS3dvbExaRHluRkdaMzhKRS1CQTQ4R3VQS3lWbHlYQ2tSTXh6V05VM0VUMTBPby1MLURwVDBZSGlWU0kxclpBUmVRSGd0Snk0MTM5V3N4VFRnUGtURzJ3eEFsLWlra0tMM19zWGtJRlJCS3FHNA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "9. 汽车与新能源",
+          "summary": "Dielectric Capacitor Films Market To 2035: EV Power Electronics Drive Expansion - News and Statistics - IndexBox",
+          "paragraphs": [
+            "发生时间：2026-09-29 04:01 北京时间；发布或索引来源：IndexBox。",
+            "这条消息涉及汽车与新能源，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWVYUWE0azBVRHRTSTY1YWpxNVhRWmFINGRSQkJBYjFrMVlRWUdVT3NucTdLQ24xbEhaNW5xemQxcVF3bUtLOHVtckdGRGRhVGQzUmh3eW5kZFJ1eGlTTDRlSmFpLWttMms4a2Y1NW96bDRuVFlXb0lOajUyblltd3R3UG1ZWk5tQUsxYVBQRkhWRTV1Zy1Ra2J0UTNsb01XV0paM1IwVVg5S2FXMDhIV1Y3cWZrZV9WYXRudEtjNUw1MkhTRUlHUF9n?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10. 贸易与制造",
+          "summary": "DigitalOcean, UiPath, nCino, BlackLine, and Pegasystems Stocks Trade Down, What You Need To Know - TradingView",
+          "paragraphs": [
+            "发生时间：2026-09-29 01:10 北京时间；发布或索引来源：TradingView。",
+            "这条消息涉及贸易与制造，值得核对原文中的规模、时间和落地条件；标题本身不足以确认利润已经变化。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYktON0lrOHlrZ2plaFRvZzhNdEhMU3NpMjlLMmR1T3NsN1Q3czJEb1RydUVRNUdwUUdMVFBKZEdvV3YxU2V2YzZlQklmVTltb2RsLTdGek55X1l0d0dxQlFkNzd0MXpZWnFYSWRzWi1hdWZ5QVJqTVdtaTZvSXQyRUQweDE3b1p3ZFFmcDAydUh3VXBvYXVzTktWUTRucGZDajhMMEpWNWZpaUo5YkJxUWdMTUpWVmNKb0N0a3RpOTljS0Nqbnh4WTYxbjJ3TVZtQ1FtaVlzVkZaMXdkN3o3cm1Va2VQR2c?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 研究",
+      "title": "产业利润增长雷达",
+      "lead": "从需求与成本走到收入、利润和估值，假设须有反证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "汽车与新能源：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：From fuel economy regulations to electrification pathways: Assessing India’s electric vehicle adoption and battery capacity needs (2026–2040) - International Council on Clean Transportation（2026-09-29 10:11 北京时间，International Council on Clean Transportation）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：比亚迪 002594/1211、特斯拉 TSLA、宁德时代 300750。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若交付量、单车售价、库存和电池报价没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 交付量、单车售价、库存和电池报价。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1hEMklDdTc3RzRrNHBwSks2U05qRDAyc3Ixb3MwekRFOVJSZno2Wmx3VVREUHFlVnV0SXBxR0FhVS1jNG42WnNXSG1EV0N6cWswTWVPS0pyYVk4M0Y5b09PbVR0WlRxbEluOWZVdUpzTTlCM1BoRUNGQ3dkOUUxY3RMMW1tVkp2YTdoaXNCMUJ5MTN2Q09fbjF3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "AI 与半导体：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Burry Bets on AI Bubble via Put Options - 조선일보（2026-09-29 10:01 北京时间，조선일보）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：英伟达 NVDA、台积电 TSM、工业富联 601138、阿里巴巴 9988。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若季度订单、资本开支、毛利率与云业务收入没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2VXa0tHR0RTVk4xNXQzTE5lVHlQdHZPa0hrMHliZ0twMHZscVhQVXBYbWlsdjcxQVRvMmF5eUZFVzdwMG1ZRGZQYUt6ZHlaOURva2tBX09qb0Fuc2lGSG5ja09KNzhjSHdKYlFLQngxNzdNV3lleHNXa0RhRm9waGt0RFVFdjZVeV9OalBB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "贸易与制造：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Industrial Actuators Market To 2035: Smart Manufacturing and Efficiency Drive Expansion - News and Statistics - IndexBox（2026-09-29 08:01 北京时间，IndexBox）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：美的集团 000333/0300、卡特彼勒 CAT、立讯精密 002475。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若出口数量、订单积压、关税细则与产能利用率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTBUYUZueUFha3UzYldETGVteE1mQUprWGczNjBXZThOdmJjNC1NT3ppWXhQWlZfUnNxNWlRVWdoSDA2LTY2NmNzeEZnUkYyeTl6cE1lWllmYy1UWTU2dG40eGItbU1TZWZSX2Y1UGdvT3VlY0hJZ1doWUxSeWtxb08xUXBQZ1ZyekVMalZjTXN1bzUzX1ZMdzZUTWZhd1pEQk9qdnJnd3NteFkxWHhHSHNxcTBCWU5PU0JfMndxSnl3YTFvenl1SzNtSFllakV6TUlXX2xaYw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "能源与材料：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Vanadium Pentoxide Powder Market To 2035: Energy Storage Demand Drives Growth - News and Statistics - IndexBox（2026-09-29 06:46 北京时间，IndexBox）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。最直接受益与可能被挤压的环节，需要结合每家公司实际业务占比、成本结构与合同判断。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若现货与长协价格、库存、产量和下游毛利率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2hWRHhWNUFYdGFRNU0wSHEtc1NHUEhiRDBmWFYyOHBTVnlHSFA3U1JhSGVPcjBFWTk5N2hrTVIzeEQwWGNVSmk4eEZoZmhWUGdfNVZBUGotWGl4UC14ODVRSHVtS0xQRk1vS1JYUGIwTFN5c2h5V3RHeU5qYW5McmJtVWo4RXN0REdldVBzcFZnaWREc0ZYOXh0dUJHRDlEWDB0MG9seERtNmVUWThEVzBXa09CcE13cG1iMzRmQzg3d1ZVdl9na3NUNllyRTB4QlRBcEt1cjFVUnQxOTdB?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "金融工程每日一课：折现",
+      "lead": "一句话直觉：未来收到的钱，需要按时间和风险折算成今天的价值。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今天市场里的例子",
+          "summary": "本期美国 10 年期国债收益率为 5.17%（2026-09-25），相对前一观测日变动 −0.01 个百分点。",
+          "paragraphs": [
+            "国债收益率可以作为资金价格的一项参照，企业未来现金流的折现率还包含风险补偿。收益率变动不会机械地等比例改变股价，因为利润预期也会变。",
+            "必要公式：现值 PV = FV ÷ (1+r)^n。PV 是今天的价值；FV 是 n 期后预计收到的钱；r 是每期折现率；n 是等待期数。",
+            "很短的练习：假设一年后确定收到 110 元，年折现率为 10%，今天值多少？答案：100 元，因为 110 ÷ 1.10 = 100。折现率越高，同一笔未来收入的今天价值越低。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goldminers",
+      "eyebrow": "06 · 专题",
+      "title": "159562 黄金矿企观察",
+      "lead": "一个研究小节；不读取或公布持仓、成本和账户信息。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "金价上涨，矿企利润一定上涨吗？",
+          "summary": "现货金价本期不可用，不能用黄金 ETF 冒充。",
+          "paragraphs": [
+            "金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
+            "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
+            "159562 的价格还受 A 股风险偏好、基金成分与交易溢折价影响。未来核对矿企产量、全部维持成本、套保披露和基金净值；不把 ETF 涨跌当作现货金价。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-09-28"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-09-28"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-09-29"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-09-29"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-09-25"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-09-25"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-09-22"
+    },
+    {
+      "title": "新闻 · International Council on Clean Transportation · From fuel economy regulations to electrification pathways: Assessing India’s electric vehicle adoption and battery capacity needs (2026–2040) - International Council on Clean Transportation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1hEMklDdTc3RzRrNHBwSks2U05qRDAyc3Ixb3MwekRFOVJSZno2Wmx3VVREUHFlVnV0SXBxR0FhVS1jNG42WnNXSG1EV0N6cWswTWVPS0pyYVk4M0Y5b09PbVR0WlRxbEluOWZVdUpzTTlCM1BoRUNGQ3dkOUUxY3RMMW1tVkp2YTdoaXNCMUJ5MTN2Q09fbjF3?oc=5",
+      "asOf": "2026-09-29 10:11 北京时间"
+    },
+    {
+      "title": "新闻 · 조선일보 · Burry Bets on AI Bubble via Put Options - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2VXa0tHR0RTVk4xNXQzTE5lVHlQdHZPa0hrMHliZ0twMHZscVhQVXBYbWlsdjcxQVRvMmF5eUZFVzdwMG1ZRGZQYUt6ZHlaOURva2tBX09qb0Fuc2lGSG5ja09KNzhjSHdKYlFLQngxNzdNV3lleHNXa0RhRm9waGt0RFVFdjZVeV9OalBB?oc=5",
+      "asOf": "2026-09-29 10:01 北京时间"
+    },
+    {
+      "title": "新闻 · Yahoo Finance · Is ASE Technology (ASX) Becoming a Bigger AI Semiconductor Play? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0hvQVZMUVF2R0ltcU9HSGhfWk1scUFnRnRWajdCWEFkTTByaUIzdG5CcU1sM29YeFljYnhMbTE4ZlFJbmgxYXo2ZmdRTWlDMDZacWR6VmM1MXBIcHBYXzNySk1zdTZkS3hBMlFOeDM5MVZzN0dsV1psbk9LV0JpeVZyX1RTaUVpei1ia2w3WEI1aXZ5VWRGRWtleE9aQmc?oc=5",
+      "asOf": "2026-09-29 08:59 北京时间"
+    },
+    {
+      "title": "新闻 · IndexBox · Industrial Actuators Market To 2035: Smart Manufacturing and Efficiency Drive Expansion - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTBUYUZueUFha3UzYldETGVteE1mQUprWGczNjBXZThOdmJjNC1NT3ppWXhQWlZfUnNxNWlRVWdoSDA2LTY2NmNzeEZnUkYyeTl6cE1lWllmYy1UWTU2dG40eGItbU1TZWZSX2Y1UGdvT3VlY0hJZ1doWUxSeWtxb08xUXBQZ1ZyekVMalZjTXN1bzUzX1ZMdzZUTWZhd1pEQk9qdnJnd3NteFkxWHhHSHNxcTBCWU5PU0JfMndxSnl3YTFvenl1SzNtSFllakV6TUlXX2xaYw?oc=5",
+      "asOf": "2026-09-29 08:01 北京时间"
+    },
+    {
+      "title": "新闻 · IndexBox · Vanadium Pentoxide Powder Market To 2035: Energy Storage Demand Drives Growth - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2hWRHhWNUFYdGFRNU0wSHEtc1NHUEhiRDBmWFYyOHBTVnlHSFA3U1JhSGVPcjBFWTk5N2hrTVIzeEQwWGNVSmk4eEZoZmhWUGdfNVZBUGotWGl4UC14ODVRSHVtS0xQRk1vS1JYUGIwTFN5c2h5V3RHeU5qYW5McmJtVWo4RXN0REdldVBzcFZnaWREc0ZYOXh0dUJHRDlEWDB0MG9seERtNmVUWThEVzBXa09CcE13cG1iMzRmQzg3d1ZVdl9na3NUNllyRTB4QlRBcEt1cjFVUnQxOTdB?oc=5",
+      "asOf": "2026-09-29 06:46 北京时间"
+    },
+    {
+      "title": "新闻 · Pearls and Irritations · Interest rates: fighting inflation by punishing mortgage holders is not enough - Pearls and Irritations",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVF96NWMyNHd5SHp2cmtwdkFQX04tbUwybkdvbkhYVnp0SkVYTmpwNm96dDhncmQwWUZad1ViQ2paRE5TT2t0VnJlY24tWEYwbzRIUlpSYmdyZVJzOGdtX2ZZcEZKRy1JWkNnQkFaV1J6ampNMzA1b3QtTWdLRXVlUWJtQ1BxWl9oRjZkQ1pUdlRHZU5hMllBSGkwbVF5OG52a1pKcUtELWRxeXoteFlIeUZ3c3o1UQ?oc=5",
+      "asOf": "2026-09-29 06:43 北京时间"
+    },
+    {
+      "title": "新闻 · InvestorTrust · Bank Indonesia to Shield the Rupiah as the Rp 18,000 Threshold Looms - InvestorTrust",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjVUOFZXRGV4S3VVc3lRWUNQazBDMFM5bXRIMEhfRGdRN1NJZURDblU4U3pCMmljUDRRakJJU01TR09haU9ocjZ1Mm1reFpWcjRramRXVVYwa20tQUNuX1FQazUxdFROZ3M2eHMwX3ZuMnU2OUI2TzhXSTNpdkxkMmw5RTE5dDNaMlRpNkNPZGloVE5iVVRUWUNwX2Nicy0xa0F6Y1RMOUl1YUE?oc=5",
+      "asOf": "2026-09-29 05:44 北京时间"
+    },
+    {
+      "title": "新闻 · IndexBox · Power MOSFET Transistors Market To 2035: Electrification and Automation Drive Growth at 7.2% CAGR - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnhMbUJ3MndaWTBFZE5QYVJxNUphLUxxNHAzZ0VlcEUzTUdoanZEb29CaFZvcWhpOHNVVGdHSWxLdkFnT1o0QS1UeUh0X19RVUpJbW1Hemx3VEdHRWZQblVhT1ZmU3hDWXkzNlp5SHhGdzBiQURHS3dvbExaRHluRkdaMzhKRS1CQTQ4R3VQS3lWbHlYQ2tSTXh6V05VM0VUMTBPby1MLURwVDBZSGlWU0kxclpBUmVRSGd0Snk0MTM5V3N4VFRnUGtURzJ3eEFsLWlra0tMM19zWGtJRlJCS3FHNA?oc=5",
+      "asOf": "2026-09-29 05:16 北京时间"
+    },
+    {
+      "title": "新闻 · IndexBox · Dielectric Capacitor Films Market To 2035: EV Power Electronics Drive Expansion - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWVYUWE0azBVRHRTSTY1YWpxNVhRWmFINGRSQkJBYjFrMVlRWUdVT3NucTdLQ24xbEhaNW5xemQxcVF3bUtLOHVtckdGRGRhVGQzUmh3eW5kZFJ1eGlTTDRlSmFpLWttMms4a2Y1NW96bDRuVFlXb0lOajUyblltd3R3UG1ZWk5tQUsxYVBQRkhWRTV1Zy1Ra2J0UTNsb01XV0paM1IwVVg5S2FXMDhIV1Y3cWZrZV9WYXRudEtjNUw1MkhTRUlHUF9n?oc=5",
+      "asOf": "2026-09-29 04:01 北京时间"
+    },
+    {
+      "title": "新闻 · TradingView · DigitalOcean, UiPath, nCino, BlackLine, and Pegasystems Stocks Trade Down, What You Need To Know - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYktON0lrOHlrZ2plaFRvZzhNdEhMU3NpMjlLMmR1T3NsN1Q3czJEb1RydUVRNUdwUUdMVFBKZEdvV3YxU2V2YzZlQklmVTltb2RsLTdGek55X1l0d0dxQlFkNzd0MXpZWnFYSWRzWi1hdWZ5QVJqTVdtaTZvSXQyRUQweDE3b1p3ZFFmcDAydUh3VXBvYXVzTktWUTRucGZDajhMMEpWNWZpaUo5YkJxUWdMTUpWVmNKb0N0a3RpOTljS0Nqbnh4WTYxbjJ3TVZtQ1FtaVlzVkZaMXdkN3o3cm1Va2VQR2c?oc=5",
+      "asOf": "2026-09-29 01:10 北京时间"
+    }
+  ],
+  "quality": {
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "radarCount": 4,
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
