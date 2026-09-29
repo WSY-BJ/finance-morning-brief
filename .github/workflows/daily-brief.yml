@@ -2,12 +2,15 @@ name: Daily finance brief
 
 on:
   schedule:
-    # 23:47 UTC = 07:47 Beijing; leave margin for GitHub scheduler delay.
-    - cron: "47 23 * * *"
+    # Beijing 05:17, 06:43, 07:31, 08:17. GitHub may delay or drop any one run.
+    - cron: "17 21 * * *"
+    - cron: "43 22 * * *"
+    - cron: "31 23 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
     inputs:
       send_notification:
-        description: "Send one ServerChan notification after live verification"
+        description: "Send only if this Beijing date has never been claimed"
         required: true
         type: boolean
         default: false
@@ -26,62 +29,100 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://wsy-bj.github.io/finance-morning-brief/
     env:
       TZ: Asia/Shanghai
+      SITE_URL: https://wsy-bj.github.io/finance-morning-brief/
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Configure commit identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Check Beijing edition and live site
+        id: state
+        run: python scripts/prepare_run.py
+
       - name: Collect public data and generate brief
+        if: steps.state.outputs.generate == 'true'
         run: python scripts/generate_report.py
 
-      - name: Validate generated content and privacy boundary
+      - name: Validate today's content and privacy boundary
         run: python scripts/validate_report.py
 
       - name: Save latest and historical briefs
+        if: steps.state.outputs.generate == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add report.json archive/
-          if git diff --cached --quiet; then
-            echo "No report changes to commit"
-          else
-            git commit -m "Daily brief $(date +%F)"
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily brief ${{ steps.state.outputs.date }}"
             git push
           fi
 
       - name: Prepare public site artifact
+        if: steps.state.outputs.deploy == 'true'
         run: |
           mkdir -p dist/archive
           cp index.html app.js style.css history.css report.json .nojekyll dist/
           cp archive/*.json dist/archive/
 
       - name: Configure GitHub Pages
+        if: steps.state.outputs.deploy == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: steps.state.outputs.deploy == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
       - name: Deploy GitHub Pages
-        id: deployment
+        if: steps.state.outputs.deploy == 'true'
         uses: actions/deploy-pages@v4
 
       - name: Verify today's live HTTPS report
         env:
-          SITE_URL: ${{ steps.deployment.outputs.page_url }}
-        run: EXPECTED_DATE="$(date +%F)" python scripts/verify_live.py
+          EXPECTED_DATE: ${{ steps.state.outputs.date }}
+        run: python scripts/verify_live.py
+
+      - name: Claim daily notification before request
+        id: claim
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification) }}
+        run: |
+          python scripts/claim_notification.py
+          git add .state/notifications/
+          if ! git diff --cached --quiet; then
+            git commit -m "Claim notification ${{ steps.state.outputs.date }}"
+            git push
+          fi
 
       - name: Send ServerChan WeChat notification
-        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification) }}
+        id: notify
+        if: steps.claim.outputs.claimed == 'true'
+        continue-on-error: true
         env:
-          SITE_URL: ${{ steps.deployment.outputs.page_url }}
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
         run: python scripts/notify_serverchan.py
+
+      - name: Record notification outcome
+        if: steps.claim.outputs.claimed == 'true'
+        run: |
+          git add .state/notifications/
+          if ! git diff --cached --quiet; then
+            git commit -m "Record notification acceptance ${{ steps.state.outputs.date }}"
+            git push
+          fi
+
+      - name: Surface notification failure
+        if: steps.notify.outcome == 'failure'
+        run: |
+          echo 'ServerChan request failed or was rejected; website remains published. Daily claim retained to prevent duplicate delivery.' >&2
+          exit 1
