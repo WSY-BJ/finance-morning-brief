@@ -1,0 +1,26 @@
+name: Test ServerChan delivery
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+      SITE_URL: https://wsy-bj.github.io/finance-morning-brief/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify today's live report
+        run: EXPECTED_DATE="$(TZ=Asia/Shanghai date +%F)" python scripts/verify_live.py
+      - name: Send explicitly labeled test message
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          SERVERCHAN_TEST: "1"
+        run: python scripts/notify_serverchan.py
