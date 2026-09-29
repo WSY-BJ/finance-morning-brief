@@ -285,6 +285,12 @@ def indicator_block(key: str, item: dict) -> dict:
 def radar_block(topic, evidence: list[dict]) -> dict:
     name, _, mechanism, verify, samples = topic
     first = evidence[0]
+    if name == "能源与材料" and re.search(r"\bsteel\b", first["event"], re.I):
+        samples = "宝钢股份 600019、鞍钢股份 0347、纽柯钢铁 NUE（钢铁同行与产业链对照，不代表参与该项目）"
+        verify = "项目投资公告、设备订单、建设进度、钢价和钢厂产能利用率"
+    if name == "汽车与新能源" and re.search(r"\bGotion\b", first["event"], re.I):
+        samples = "国轩高科 002074、比亚迪 1211、特斯拉 TSLA（项目主体及同业对照）"
+        verify = "项目公告、资金支出、量产计划、装机订单及电池毛利率"
     chain = {
         "AI 与半导体": "若订单成为实际交付，GPU 按芯片销售、HBM 存储按容量与售价、光模块和交换机按网络设备出货确认收入；服务器、电力与制冷仍需看建设验收。云服务及软件须把算力投入变成付费使用，否则资本开支先压现金流。",
         "汽车与新能源": "电池厂可能通过新增装机量和产能利用率摊薄单位固定成本；若整车降价或原料涨价且合同无法转嫁，电池和整车毛利反而被挤压。新工厂先消耗现金，量产良率和稳定订单决定回收。",
@@ -296,7 +302,7 @@ def radar_block(topic, evidence: list[dict]) -> dict:
     return {"type": "explainer", "title": name + "：从消息追踪利润，而非追涨幅",
             "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
             "paragraphs": ["观察到的事实：" + first["event"] + "（" + first["published"] + "，" + first["publisher"] + "）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-                           "可能的收入、成本和利润传导：" + chain + " " + mechanism,
+                           "可能的收入、成本和利润传导：" + chain,
                            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：" + samples + "。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
                            "反证与未来 1–4 周验证：若" + verify + "没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 " + verify + "。"],
             "links": [{"title": "本条线索原文", "url": first["url"]}]}
