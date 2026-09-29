@@ -90,7 +90,7 @@ def build_report(quotes: list[dict]) -> dict:
     summary = f"最近交易日{best['ticker']}上涨{abs(best['changePct']):.2f}%，表现最强；{worst['ticker']}变动{fmt_pct(worst['changePct'])}。"
     names = {ticker: name for ticker, name, _ in ASSETS}
     metrics = [{"label": f"{q['ticker']} · {names[q['ticker']]}", "value": f"{q['close']:.2f}",
-                "note": f"{fmt_pct(q['changePct'])} · {q['low']:.2f}–{q['high']:.2f}"} for q in quotes]
+                "note": f"{fmt_pct(q['changePct'])} · {q['low']:.2f}–{q['high']:.2f} · 行情 {q['date']}"} for q in quotes]
     risk_on = by_ticker["QQQ"]["changePct"] - by_ticker["TLT"]["changePct"]
     style_text = "成长资产相对占优" if risk_on > 0 else "防御资产相对占优"
     return {

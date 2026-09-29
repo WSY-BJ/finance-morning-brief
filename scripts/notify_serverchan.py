@@ -3,7 +3,9 @@ import json
 import os
 import urllib.parse
 import urllib.request
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 sendkey = os.environ.get("SERVERCHAN_SENDKEY", "").strip()
@@ -13,17 +15,33 @@ if not sendkey:
 if not sendkey.startswith("SCT"):
     raise SystemExit("Expected a ServerChan Turbo SendKey beginning with SCT")
 report = json.loads((ROOT / "report.json").read_text(encoding="utf-8"))
+today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
+if report.get("reportDate") != today:
+    raise SystemExit("Local report is not today's Beijing edition; notification blocked")
+receipt = ROOT / ".state" / "notifications" / f"{today}.json"
+if not receipt.exists() or json.loads(receipt.read_text(encoding="utf-8")).get("status") != "pending":
+    raise SystemExit("Notification claim missing; notification blocked")
 title = report["notification"]["title"].replace("\n", " ")[:32]
 summary = report["notification"]["summary"]
-desp = f"{summary}\n\n[点击阅读当天完整晨报]({site_url})\n\n备用入口：{site_url}"
+daily_url = f"{site_url}?date={today}#overview"
+desp = f"【自动晨报】{summary}\n\n[点击阅读 {today} 晨报]({daily_url})\n\n{daily_url}"
 endpoint = f"https://sctapi.ftqq.com/{sendkey}.send"
 payload = urllib.parse.urlencode({"title": title, "desp": desp}).encode("utf-8")
 request = urllib.request.Request(endpoint, data=payload, method="POST", headers={"Content-Type": "application/x-www-form-urlencoded; charset=utf-8", "User-Agent": "finance-morning-brief/1.0"})
+def record(status: str) -> None:
+    receipt.write_text(json.dumps({"date": today, "status": status, "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
+
 try:
     with urllib.request.urlopen(request, timeout=20) as response:
         result = json.loads(response.read().decode("utf-8"))
 except Exception as exc:
-    raise SystemExit(f"ServerChan request failed ({type(exc).__name__}); notification not confirmed")
+    record("request_unknown")
+    raise SystemExit(f"API request failed ({type(exc).__name__}); delivery state unknown, claim retained")
 if result.get("code") != 0:
-    raise SystemExit(f"ServerChan rejected notification: code={result.get('code')}; message={result.get('message', 'unknown')}")
-print("ServerChan accepted one notification (code=0)")
+    record("rejected")
+    raise SystemExit(f"ServerChan rejected notification: code={result.get('code')}; claim retained")
+data = result.get("data") if isinstance(result.get("data"), dict) else {}
+pushid = data.get("pushid", result.get("pushid"))
+readkey = data.get("readkey", result.get("readkey"))
+print(f"ServerChan accepted: code=0, pushid={pushid if pushid is not None else 'absent'}, readkey_present={bool(readkey)}; WeChat delivery unverified")
+receipt.write_text(json.dumps({"date": today, "status": "accepted", "acceptedAt": datetime.now(ZoneInfo("Asia/Shanghai")).isoformat(timespec="seconds"), "delivery": "unverified"}, ensure_ascii=False) + "\n", encoding="utf-8")
