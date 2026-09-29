@@ -88,7 +88,7 @@ def collect_indicators() -> tuple[dict, dict]:
                 found[key] = future.result()
             except Exception as exc:
                 failures[key] = type(exc).__name__
-    if len(found) < 5 or not ({"brent", "gold"} & found) or not ({"us2y", "us10y"} & found):
+    if len(found) < 5 or not ({"brent", "gold"} & found.keys()) or not ({"us2y", "us10y"} & found.keys()):
         raise RuntimeError("Fewer than five real indicators or essential commodity/yield data missing: " + str(failures))
     return found, failures
 
