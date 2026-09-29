@@ -42,7 +42,7 @@ def yahoo(symbol: str, label: str, unit: str) -> dict:
 
 def fred(series: str, label: str, unit: str) -> dict:
     url = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=" + series
-    rows = [(r["DATE"], float(r[series])) for r in csv.DictReader(io.StringIO(fetch(url))) if r.get(series, ".") not in (".", "")]
+    rows = [(r.get("observation_date") or r.get("DATE"), float(r[series])) for r in csv.DictReader(io.StringIO(fetch(url))) if r.get(series, ".") not in (".", "")]
     if len(rows) < 2:
         raise ValueError(f"{series}: insufficient observations")
     (previous_date, previous), (date, value) = rows[-2:]
@@ -54,9 +54,12 @@ def fred(series: str, label: str, unit: str) -> dict:
 def spot_gold() -> dict:
     end = datetime.now(TZ).date()
     url = "https://stooq.com/q/d/l/?" + urllib.parse.urlencode({"s": "xauusd", "d1": (end - timedelta(days=15)).strftime("%Y%m%d"), "d2": end.strftime("%Y%m%d"), "i": "d"})
-    rows = [(r["Date"], float(r["Close"])) for r in csv.DictReader(io.StringIO(fetch(url))) if r.get("Close") not in (None, "", "N/D")]
+    try:
+        rows = [(r["Date"], float(r["Close"])) for r in csv.DictReader(io.StringIO(fetch(url))) if r.get("Close") not in (None, "", "N/D")]
+    except (ValueError, KeyError):
+        rows = []
     if len(rows) < 2:
-        raise ValueError("XAU/USD: insufficient observations")
+        return yahoo("XAUUSD=X", "现货黄金 XAU/USD", "美元/盎司")
     (previous_date, previous), (date, value) = rows[-2:]
     return {"label": "现货黄金 XAU/USD", "value": value, "unit": "美元/盎司", "date": date, "previousDate": previous_date,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
