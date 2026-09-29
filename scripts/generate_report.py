@@ -99,11 +99,30 @@ def spot_gold() -> dict:
     except (ValueError, KeyError):
         rows = []
     if len(rows) < 2:
-        return yahoo("XAUUSD=X", "现货黄金 XAU/USD", "美元/盎司")
+        try:
+            return xaus_gold()
+        except (ValueError, KeyError, OSError):
+            return yahoo("XAUUSD=X", "现货黄金 XAU/USD", "美元/盎司")
     (previous_date, previous), (date, value) = rows[-2:]
     return {"label": "现货黄金 XAU/USD", "value": value, "unit": "美元/盎司", "date": date, "previousDate": previous_date,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
             "source": "https://stooq.com/q/?s=xauusd", "provider": "Stooq"}
+
+
+def xaus_gold() -> dict:
+    spot = json.loads(fetch("https://xaus.com/api/v1/spot?compact=1"))
+    as_of = datetime.fromisoformat(spot["price_as_of"].replace("Z", "+00:00"))
+    if spot.get("data_state", {}).get("status") == "unavailable" or (datetime.now(timezone.utc) - as_of).total_seconds() > 36 * 3600:
+        raise ValueError("gold spot quote stale")
+    value = float(spot["spot_usd_oz"])
+    history = json.loads(fetch("https://xaus.com/api/v1/history"))
+    dates = [(point["d"], float(point["c"])) for point in history["points"] if point["d"] < as_of.date().isoformat() and point.get("c")]
+    if not dates:
+        raise ValueError("gold spot previous close unavailable")
+    previous_date, previous = max(dates)
+    return {"label": "现货黄金 XAU/USD（参考报价）", "value": value, "unit": "美元/盎司", "date": as_of.date().isoformat(),
+            "previousDate": previous_date, "change": value - previous, "changePct": (value / previous - 1) * 100,
+            "source": "https://xaus.com/api/", "provider": "XAUS · 指示性现货中间价"}
 
 
 INDICATORS = [
@@ -157,13 +176,16 @@ FEEDS = [
     ("欧洲央行", "https://www.ecb.europa.eu/rss/press.html"),
 ]
 NEWS_QUERIES = [
-    "site:reuters.com/business/ economy central bank earnings when:1d",
-    "site:reuters.com/business/ technology semiconductor AI when:1d",
-    "site:reuters.com/business/ energy electric vehicle trade when:1d",
-    "site:apnews.com business economy energy technology when:1d",
+    "site:reuters.com business economy inflation central bank when:1d",
+    "site:reuters.com Nvidia AI semiconductor cloud earnings when:1d",
+    "site:reuters.com oil energy copper manufacturing when:1d",
+    "site:reuters.com tariffs trade automakers electric vehicles when:1d",
+    "site:apnews.com/article/ bonds stocks oil business when:1d",
+    "site:apnews.com/article/ Nvidia tariffs automakers economy when:1d",
+    "site:reuters.com healthcare consumer retail orders when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble)\b", re.I)
+WEAK_HEADLINES = re.compile(r"\b(opinion|column|explainer|what you need to know|stocks? trade|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|baseball|study says|industry - AP News|J\.?P\.? Morgan says)\b", re.I)
 
 
 def parse_feed(name: str, url: str) -> list[dict]:
