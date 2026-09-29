@@ -1,0 +1,81 @@
+name: Preview richer finance brief
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-finance-brief
+  cancel-in-progress: false
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://wsy-bj.github.io/finance-morning-brief/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate a separate dated preview
+        run: python scripts/generate_report.py --preview
+      - name: Validate preview structure and date
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+          date = datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
+          p = Path('preview') / (date + '.json')
+          data = json.loads(p.read_text())
+          assert data['reportDate'] == date and data['status'] == 'preview'
+          assert data['quality']['indicatorCount'] >= 5
+          assert len(data['sources']) >= 5
+          print('Preview quality:', data['quality'])
+          PY
+      - name: Keep test report for review
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preview/
+          git commit -m "Preview rich brief $(TZ=Asia/Shanghai date +%F)"
+          git push
+      - name: Prepare site without replacing the formal report
+        run: |
+          mkdir -p dist/archive dist/preview
+          cp index.html app.js style.css history.css report.json .nojekyll dist/
+          cp archive/*.json dist/archive/
+          cp preview/*.json dist/preview/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
+      - name: Check live preview date
+        run: |
+          python - <<'PY'
+          import json, time, urllib.request
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          date = datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
+          url = 'https://wsy-bj.github.io/finance-morning-brief/preview/' + date + '.json'
+          for _ in range(18):
+              try:
+                  with urllib.request.urlopen(url + '?v=' + str(time.time()), timeout=15) as response:
+                      data = json.load(response)
+                  if data.get('reportDate') == date and data.get('status') == 'preview':
+                      print('Live preview:', url)
+                      break
+              except Exception:
+                  pass
+              time.sleep(10)
+          else:
+              raise SystemExit('Live preview date check failed')
+          PY

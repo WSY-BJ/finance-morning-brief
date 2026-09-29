@@ -73,6 +73,7 @@ jobs:
           mkdir -p dist/archive
           cp index.html app.js style.css history.css report.json .nojekyll dist/
           cp archive/*.json dist/archive/
+          if test -d preview; then mkdir -p dist/preview && cp preview/*.json dist/preview/; fi
 
       - name: Configure GitHub Pages
         if: steps.state.outputs.deploy == 'true'
