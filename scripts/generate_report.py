@@ -340,13 +340,16 @@ def build_report(indicators: dict, failures: dict, news: list[dict], news_errors
                     "links": [{"title": "阅读消息原文或新闻索引", "url": n["url"]}]} for i, n in enumerate(news, 1)]
     if len(news) < 6:
         news_blocks.insert(0, {"type": "notice", "tone": "warning", "title": "过去 24 小时来源不足", "text": f"仅核实到 {len(news)} 条符合条件的公开消息；不把旧新闻冒充当天新闻。源站不可用数：{len(news_errors)}。"})
+    # A policy, rate, demand or input-price change can also be a conditional
+    # profit lead. Prefer explicit order/capacity evidence, then other sourced
+    # events from distinct sectors; never describe a hypothesis as realized profit.
+    eligible = [n for n in news if not RADAR_NEGATIVE.search(n["event"])]
+    eligible.sort(key=lambda n: not bool(RADAR_SIGNAL.search(n["event"])))
     seen_topics = []
-    for n in news:
-        if not RADAR_SIGNAL.search(n["event"]) or RADAR_NEGATIVE.search(n["event"]):
-            continue
+    for n in eligible:
         if n["topic"] not in seen_topics:
             seen_topics.append(n["topic"])
-    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in news if n["topic"] == name and RADAR_SIGNAL.search(n["event"]) and not RADAR_NEGATIVE.search(n["event"])]) for name in seen_topics[:4]]
+    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in eligible if n["topic"] == name]) for name in seen_topics[:4]]
     if len(radar) < 2:
         radar.insert(0, {"type": "notice", "tone": "warning", "title": "产业线索不足", "text": "可核查新闻不足以支持 2 条不同产业的利润假设，本期不填充未经验证的热门概念。"})
     gold = indicators.get("gold")
