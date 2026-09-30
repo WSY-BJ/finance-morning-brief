@@ -16,7 +16,8 @@ if report.get("quality"):
     assert report["quality"]["indicatorCount"] >= 5, "too few real market indicators"
     required_pages = {"overview", "markets", "news", "radar", "lesson", "goldminers"}
     assert required_pages.issubset({page.get("id") for page in report["pages"]}), "missing learning or industry section"
-    assert report["quality"]["news24hCount"] <= 10, "news count exceeded the editorial limit"
+    assert 6 <= report["quality"]["news24hCount"] <= 10, "past 24h news must contain 6–10 verified items"
+    assert 2 <= report["quality"]["radarCount"] <= 4, "industry radar must contain 2–4 evidence-backed leads"
 blob = json.dumps(report, ensure_ascii=False).lower()
 for forbidden in ("sendkey", "api_key", "authorization", "private holding", "account number"):
     assert forbidden not in blob, f"forbidden field or secret marker: {forbidden}"

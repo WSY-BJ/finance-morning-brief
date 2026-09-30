@@ -176,15 +176,16 @@ FEEDS = [
     ("欧洲央行", "https://www.ecb.europa.eu/rss/press.html"),
 ]
 NEWS_QUERIES = [
-    "site:reuters.com business economy inflation central bank when:1d",
-    "site:reuters.com Nvidia AI semiconductor cloud earnings when:1d",
-    "site:reuters.com oil energy copper manufacturing when:1d",
-    "site:reuters.com tariffs trade automakers electric vehicles when:1d",
-    "site:apnews.com/article/ bonds stocks oil business when:1d",
-    "site:apnews.com/article/ Nvidia tariffs automakers economy when:1d",
-    "site:reuters.com healthcare consumer retail orders when:1d",
-    "site:reuters.com/business/ companies invest orders output tariffs when:1d",
-    "site:apnews.com/article/ tariffs manufacturing chip investment when:1d",
+    "site:reuters.com/business/ economy when:1d",
+    "site:reuters.com/business/ technology when:1d",
+    "site:reuters.com/business/ energy when:1d",
+    "site:reuters.com/business/ autos when:1d",
+    "site:reuters.com/business/ healthcare when:1d",
+    "site:reuters.com/business/ retail when:1d",
+    "site:reuters.com/business/ trade when:1d",
+    "site:apnews.com/article/ economy when:1d",
+    "site:apnews.com/article/ business when:1d",
+    "site:apnews.com/article/ technology when:1d",
 ]
 TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
 WEAK_HEADLINES = re.compile(r"\b(opinion|commentary|breakingviews|column|explainer|podcast|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|basketball|celtics|nba|nhl|hockey|power rankings|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car|pope|doom scenarios)\b", re.I)
@@ -228,12 +229,14 @@ def parse_feed(name: str, url: str) -> list[dict]:
 
 def collect_news(now: datetime) -> tuple[list[dict], list[str]]:
     endpoints = FEEDS + [("Google 新闻索引", "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": "en-US", "gl": "US", "ceid": "US:en"})) for q in NEWS_QUERIES]
-    articles, errors = [], []
+    articles, errors, source_counts = [], [], {}
     with ThreadPoolExecutor(max_workers=len(endpoints)) as pool:
         jobs = {pool.submit(parse_feed, name, url): name for name, url in endpoints}
         for future in as_completed(jobs):
             try:
-                articles.extend(future.result())
+                batch = future.result()
+                source_counts[jobs[future]] = source_counts.get(jobs[future], 0) + len(batch)
+                articles.extend(batch)
             except Exception as exc:
                 errors.append(jobs[future] + ": " + type(exc).__name__)
     cutoff = now.astimezone(timezone.utc) - timedelta(hours=24)
@@ -251,6 +254,7 @@ def collect_news(now: datetime) -> tuple[list[dict], list[str]]:
         selected.append((item, topic))
         if len(selected) == 10:
             break
+    print(f"News collection: parsed={len(articles)}, within_24h={len(latest)}, selected={len(selected)}, feed_counts={source_counts}, errors={errors}")
     # A news shortage is visible in the report. Never backfill old stories as "past 24 hours".
     return [{"event": item["title"], "published": item["published"].astimezone(TZ).strftime("%Y-%m-%d %H:%M 北京时间"),
              "publisher": item["publisher"], "url": item["url"], "topic": topic[0],

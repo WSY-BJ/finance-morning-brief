@@ -15,7 +15,12 @@ if not generate:
     report = json.loads(archive.read_text(encoding="utf-8"))
     if report.get("reportDate") != today or report.get("status") != "published":
         raise SystemExit("Existing archive has invalid date/status")
-    (root / "report.json").write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
+    quality = report.get("quality", {})
+    # An incomplete edition is not a successful daily run. Retry collection on
+    # the next cron, without touching the existing notification claim.
+    generate = quality.get("news24hCount", 0) < 6 or quality.get("radarCount", 0) < 2
+    if not generate:
+        (root / "report.json").write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
 
 live = False
 try:
