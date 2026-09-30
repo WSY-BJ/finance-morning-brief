@@ -1,15 +1,15 @@
 {
   "edition": "财经晨报 · 2026-09-30",
-  "date": "生成于北京时间 2026-09-30 08:21；各数据逐项标注观测日",
+  "date": "生成于北京时间 2026-09-30 09:58；各数据逐项标注观测日",
   "reportDate": "2026-09-30",
-  "updatedAt": "2026-09-30T08:21:25+08:00",
+  "updatedAt": "2026-09-30T09:58:11+08:00",
   "status": "published",
   "title": "从新闻读到产业利润",
   "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
   "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
   "notification": {
     "title": "2026-09-30 财经晨报",
-    "summary": "8 项真实指标、0 条近 24 小时消息、0 条产业线索；点击阅读因果和反证。"
+    "summary": "8 项真实指标、10 条近 24 小时消息、4 条产业线索；点击阅读因果和反证。"
   },
   "pages": [
     {
@@ -27,7 +27,7 @@
         {
           "type": "explainer",
           "title": "今天先看什么",
-          "summary": "已取得 8 个真实指标、过去 24 小时 0 条消息。每项行情逐项标注最近可用观测日。",
+          "summary": "已取得 8 个真实指标、过去 24 小时 10 条消息。每项行情逐项标注最近可用观测日。",
           "paragraphs": [
             "美国利率、美元、黄金和原油一起看：它们影响融资成本、以美元计价的收入和原材料成本，但对不同公司利润的方向可能相反。",
             "今天的研究线索从有时间和链接的消息出发，继续核对订单、售价、毛利率和现金流。"
@@ -44,7 +44,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "96.19 美元/桶；相对 2026-09-28 下降 −9.09 美元/桶。",
+          "summary": "96.55 美元/桶；相对 2026-09-28 下降 −8.73 美元/桶。",
           "paragraphs": [
             "数据日期 2026-09-30；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -76,23 +76,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.24 %；相对 2026-09-25 上升 +0.07 个百分点。",
+          "summary": "5.26 %；相对 2026-09-28 上升 +0.02 个百分点。",
           "paragraphs": [
-            "数据日期 2026-09-28；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
+            "数据日期 2026-09-29；来源：美国财政部。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
             "10 年期国债收益率常被用作长期资金定价参照。它上行时，远期利润折回今天的估值可能降低，但企业利润增长可能抵消这种影响。"
           ],
           "links": [
             {
               "title": "查看原始数据",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.41 点；相对 2026-09-28 上升 +0.21 点。",
+          "summary": "101.38 点；相对 2026-09-29 上升 +0.01 点。",
           "paragraphs": [
             "数据日期 2026-09-30；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -108,7 +108,7 @@
         {
           "type": "explainer",
           "title": "现货黄金 XAU/USD（参考报价）",
-          "summary": "4,183.70 美元/盎司；相对 2026-09-29 下降 −28.90 美元/盎司。",
+          "summary": "4,172.60 美元/盎司；相对 2026-09-29 下降 −40.00 美元/盎司。",
           "paragraphs": [
             "数据日期 2026-09-30；来源：XAUS · 指示性现货中间价。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
             "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
@@ -178,10 +178,174 @@
       "lead": "优先选有企业利润传导线索的消息；逐条给出原文和核验方向。",
       "blocks": [
         {
-          "type": "notice",
-          "tone": "warning",
-          "title": "过去 24 小时来源不足",
-          "text": "仅核实到 0 条符合条件的公开消息；不把旧新闻冒充当天新闻。源站不可用数：0。"
+          "type": "explainer",
+          "title": "1. 能源与材料",
+          "summary": "Oil climbs after Trump denies he is willing to ease sanctions on Iran - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 09:39 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2. 能源与材料",
+          "summary": "Australia's Amplitude Energy approves final investment decision for East Coast Supply Project - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 09:11 北京时间；发布或索引来源：Reuters。",
+            "投资或建厂先形成资本支出和现金流出；只有项目投产、取得订单并收回货款后才可能增加利润。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWNjSTlvLS1zNk13SHVQa1gwQnJkSjRtRU8xN3hYeFBpRURaQndQNldzMnAwRGpXUmRIbWNqMHFtNmlGTk81dXVfS1Fac1o2S1B4QnI3bzROM2NRQXMydXVnM2hVZ28tRFdmWDhFSHZhNXYwS3JDeXczQ1ZydkdLM24wdXZmTGQ5S3BuaUFnZ0pLUlVfTjZYNHVjRnZEU3ZvbG5PQ0t6V09keHlTUGxrMXp5RUM5T0s4bDVMZkFSRW1RUlVXdEhqWndJR0c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "3. AI 与半导体",
+          "summary": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 07:46 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "4. AI 与半导体",
+          "summary": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns - AP News",
+          "paragraphs": [
+            "发生时间：2026-09-30 06:43 北京时间；发布或索引来源：AP News。",
+            "发布产品或项目还不是确认收入；后续看订单、交付、价格和研发费用。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm9lYm05ZEFzNFk5RU45MmFLcXE2cHZnaUlzM2I1R3BZTUQ3cTBGaEkxdlZTdE5hSzBBZDhoQngyRFREaHBJVXpab0JnWVA0LWcwZlpEU0R0Wk9IQ3pJdVU3ZGhtRFhnclRFMHc5NDh1TG5oQTMzZ2FjMU5YOFpfMXpDZWtldnJ3Q25XOXBTM2RiSGVHV1N0a1VfZEFkNEst?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5. 消费与医药",
+          "summary": "Lilly's experimental drug cuts weight by 21% in diabetes trial - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 06:15 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmJvRVgxMnhYOXRRX3pwUGtKYXZic2pPbnhZTGp5SzVHbDR3M1ZQdlRkTFc2eW1NNnh3bkduWTh1MExJTXB6dTRidXNjdVBCVHJZT3lsWXJ2TWluQ2h6Rm5kTUxadFB4RzB3cUUxWFNzVmlkcmp4WXdEb2RWYy1TZkJQOFVHbGY2RnJHOHhPbjBvdmNqeFNWYmFLVkM0SzFySmo4ZTRfZ1NvN0NzRVZlMENDNlNRSlF3Y0RiREo3MzBFSGxBdDRNaA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "6. 宏观与金融",
+          "summary": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort - AP News",
+          "paragraphs": [
+            "发生时间：2026-09-30 05:57 北京时间；发布或索引来源：AP News。",
+            "减产或停产可能减少销量，并使固定成本分摊到更少产品；同时核对停产期限和行业供给是否收缩。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "7. 消费与医药",
+          "summary": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 05:50 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5sSEU5cVdja2xyUXNzcm9VR1kxc3k2bFhsZm4tb3VXR2wwSEZNbU1KcXNBcEotcFVhYUVRZllOY2tOeVg4ZWMycV9mbXV0TEdxLVJleU40bTNTSGtMTUtkaUFneUw1UkV2SXlGX2ZyOFYzUFBtRHB6TXpCbDBKa0pYbTY2NFVtZU81TGxkeWkwVEVwVmt5TG9tU2s3RnUzdkNENHpvQnJmWjg1bzFXMWdBV3NLY3FqZ1ZwS01ZaXgxT29pejlDRHpETWJyTERNNWtQekxkdFk5aHd0THRJ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "8. 贸易与制造",
+          "summary": "Canada’s first major LNG export terminal plans to double its capacity - AP News",
+          "paragraphs": [
+            "发生时间：2026-09-30 03:57 北京时间；发布或索引来源：AP News。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEFURlo3c09PMk9fMFg3MjF3QkR6d1NJRUpZdkt5Y0puLXd5UGtXUFJFMmNBM2dOTFRoTzFyUE8tY0RvV1puWXF5WWVJbFJ6MGljWmk3OEhNa2tjZE5weU93LWZWcWFrZ1pYRS1ESnFWNDJGbGw1enIzekxNWnFveXByOVZYMkZJQXJrZ3lGVW5nQVc3NGc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "9. 贸易与制造",
+          "summary": "Shell-led LNG Canada greenlights Phase 2 expansion, doubling export capacity - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 02:34 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lWTTdxaVZMaDlmeS1TNERQbGRyNENwTzhUZGt5d2pMSFMwSFZpQUtHWks4UklrU2lKU2EyMWVuUnU3U1Y1Vk9icjlYR1F4M0pCNjdUWDZIVVpIeC1SMVVnT05ySmRSaGZYdEZnVXFaR01ISHlqdEttMVJoWXdGbTB0RlBUdVEwWDFnd3J5S2Q5TjExN0FFVkMwcHRES0k4R1luZDNJMUNmaVMydXBRX3g4RERlZHc4emUxN2xiMllTQlpWbUE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10. 汽车与新能源",
+          "summary": "Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz in US - Reuters",
+          "paragraphs": [
+            "发生时间：2026-09-30 02:03 北京时间；发布或索引来源：Reuters。",
+            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
+            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
+            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
+          ],
+          "links": [
+            {
+              "title": "阅读消息原文或新闻索引",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT0p6allsQ2ZuWnVjbDhPUVlnQUpPaTBISHpHLTlOVktzTjhHNk5vcjNTdnBWMkRYbnRHeFVzRGZBOXVjbHY1d3J3ek01WHo1QW9uZGFJLWt0dDJSU0lkd3FTblBDeVp6dUtfS1g1VHhleElaYVQ5WVNxNC1oeS1MNU8yamdlYkhZQUlQREpVYUJadmJHVFlyVjJlLXozTzR6a1BSVHVqb3pZWDkzNmxrb1ZUZEk0ZkZ4SHhPaXNiNm9CVDhhTndyTHJHaHVQNFRDQ0tQaGF3?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -192,10 +356,72 @@
       "lead": "从需求与成本走到收入、利润和估值，假设须有反证。",
       "blocks": [
         {
-          "type": "notice",
-          "tone": "warning",
-          "title": "产业线索不足",
-          "text": "可核查新闻不足以支持 2 条不同产业的利润假设，本期不填充未经验证的热门概念。"
+          "type": "explainer",
+          "title": "能源与材料：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Australia's Amplitude Energy approves final investment decision for East Coast Supply Project - Reuters（2026-09-30 09:11 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：钢铁项目可能给设备、工程及原材料供应商带来订单；新产能投放也可能压低现有钢厂售价，项目业主的利润须扣除建设成本、融资费用及开工后的折旧。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若现货与长协价格、库存、产量和下游毛利率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 现货与长协价格、库存、产量和下游毛利率。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWNjSTlvLS1zNk13SHVQa1gwQnJkSjRtRU8xN3hYeFBpRURaQndQNldzMnAwRGpXUmRIbWNqMHFtNmlGTk81dXVfS1Fac1o2S1B4QnI3bzROM2NRQXMydXVnM2hVZ28tRFdmWDhFSHZhNXYwS3JDeXczQ1ZydkdLM24wdXZmTGQ5S3BuaUFnZ0pLUlVfTjZYNHVjRnZEU3ZvbG5PQ0t6V09keHlTUGxrMXp5RUM5T0s4bDVMZkFSRW1RUlVXdEhqWndJR0c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "贸易与制造：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Canada’s first major LNG export terminal plans to double its capacity - AP News（2026-09-30 03:57 北京时间，AP News）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：出口订单增加有助于摊薄工厂固定成本；若关税和海外建厂费用上升，利润未必同步增长，需按目的地和合同货币核对。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：美的集团 000333/0300、卡特彼勒 CAT、立讯精密 002475。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若出口数量、订单积压、关税细则与产能利用率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 出口数量、订单积压、关税细则与产能利用率。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEFURlo3c09PMk9fMFg3MjF3QkR6d1NJRUpZdkt5Y0puLXd5UGtXUFJFMmNBM2dOTFRoTzFyUE8tY0RvV1puWXF5WWVJbFJ6MGljWmk3OEhNa2tjZE5weU93LWZWcWFrZ1pYRS1ESnFWNDJGbGw1enIzekxNWnFveXByOVZYMkZJQXJrZ3lGVW5nQVc3NGc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "AI 与半导体：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：China's AI agents can lie and scheme - just like their US rivals - Reuters（2026-09-30 07:46 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：若订单成为实际交付，GPU 按芯片销售、HBM 存储按容量与售价、光模块和交换机按网络设备出货确认收入；服务器、电力与制冷仍需看建设验收。云服务及软件须把算力投入变成付费使用，否则资本开支先压现金流。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：英伟达 NVDA、台积电 TSM、工业富联 601138、阿里巴巴 9988。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若季度订单、资本开支、毛利率与云业务收入没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 季度订单、资本开支、毛利率与云业务收入。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "消费与医药：从消息追踪利润，而非追涨幅",
+          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
+          "paragraphs": [
+            "观察到的事实：Lilly's experimental drug cuts weight by 21% in diabetes trial - Reuters（2026-09-30 06:15 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
+            "可能的收入、成本和利润传导：销量和客单价共同决定收入；促销、采购与研发费用影响毛利和现金流。零售价涨幅放缓本身不等于新增利润，需有销量或成本改善的证据。",
+            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：贵州茅台 600519、美团 3690、礼来 LLY。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
+            "反证与未来 1–4 周验证：若同店销售、销量、费用率和现金流没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 同店销售、销量、费用率和现金流。"
+          ],
+          "links": [
+            {
+              "title": "本条线索原文",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmJvRVgxMnhYOXRRX3pwUGtKYXZic2pPbnhZTGp5SzVHbDR3M1ZQdlRkTFc2eW1NNnh3bkduWTh1MExJTXB6dTRidXNjdVBCVHJZT3lsWXJ2TWluQ2h6Rm5kTUxadFB4RzB3cUUxWFNzVmlkcmp4WXdEb2RWYy1TZkJQOFVHbGY2RnJHOHhPbjBvdmNqeFNWYmFLVkM0SzFySmo4ZTRfZ1NvN0NzRVZlMENDNlNRSlF3Y0RiREo3MzBFSGxBdDRNaA?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -208,7 +434,7 @@
         {
           "type": "explainer",
           "title": "今天市场里的例子",
-          "summary": "本期美国 10 年期国债收益率为 5.24%（2026-09-28），相对前一观测日变动 +0.07 个百分点。",
+          "summary": "本期美国 10 年期国债收益率为 5.26%（2026-09-29），相对前一观测日变动 +0.02 个百分点。",
           "paragraphs": [
             "国债收益率可以作为资金价格的一项参照，企业未来现金流的折现率还包含风险补偿。收益率变动不会机械地等比例改变股价，因为利润预期也会变。",
             "必要公式：现值 PV = FV ÷ (1+r)^n。PV 是今天的价值；FV 是 n 期后预计收到的钱；r 是每期折现率；n 是等待期数。",
@@ -226,7 +452,7 @@
         {
           "type": "explainer",
           "title": "金价上涨，矿企利润一定上涨吗？",
-          "summary": "现货金价 4,183.70 美元/盎司（2026-09-30）；相对前一观测日 −0.69%。",
+          "summary": "现货金价 4,172.60 美元/盎司（2026-09-30）；相对前一观测日 −0.95%。",
           "paragraphs": [
             "金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
             "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
@@ -238,11 +464,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-09-30"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-09-29"
@@ -250,6 +471,11 @@
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-09-30"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-09-30"
     },
     {
@@ -268,20 +494,70 @@
       "asOf": "2026-09-30"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-09-29"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-09-28"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-09-28"
+      "title": "新闻 · Reuters · Oil climbs after Trump denies he is willing to ease sanctions on Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "asOf": "2026-09-30 09:39 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Australia's Amplitude Energy approves final investment decision for East Coast Supply Project - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWNjSTlvLS1zNk13SHVQa1gwQnJkSjRtRU8xN3hYeFBpRURaQndQNldzMnAwRGpXUmRIbWNqMHFtNmlGTk81dXVfS1Fac1o2S1B4QnI3bzROM2NRQXMydXVnM2hVZ28tRFdmWDhFSHZhNXYwS3JDeXczQ1ZydkdLM24wdXZmTGQ5S3BuaUFnZ0pLUlVfTjZYNHVjRnZEU3ZvbG5PQ0t6V09keHlTUGxrMXp5RUM5T0s4bDVMZkFSRW1RUlVXdEhqWndJR0c?oc=5",
+      "asOf": "2026-09-30 09:11 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · China's AI agents can lie and scheme - just like their US rivals - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+      "asOf": "2026-09-30 07:46 北京时间"
+    },
+    {
+      "title": "新闻 · AP News · Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm9lYm05ZEFzNFk5RU45MmFLcXE2cHZnaUlzM2I1R3BZTUQ3cTBGaEkxdlZTdE5hSzBBZDhoQngyRFREaHBJVXpab0JnWVA0LWcwZlpEU0R0Wk9IQ3pJdVU3ZGhtRFhnclRFMHc5NDh1TG5oQTMzZ2FjMU5YOFpfMXpDZWtldnJ3Q25XOXBTM2RiSGVHV1N0a1VfZEFkNEst?oc=5",
+      "asOf": "2026-09-30 06:43 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Lilly's experimental drug cuts weight by 21% in diabetes trial - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmJvRVgxMnhYOXRRX3pwUGtKYXZic2pPbnhZTGp5SzVHbDR3M1ZQdlRkTFc2eW1NNnh3bkduWTh1MExJTXB6dTRidXNjdVBCVHJZT3lsWXJ2TWluQ2h6Rm5kTUxadFB4RzB3cUUxWFNzVmlkcmp4WXdEb2RWYy1TZkJQOFVHbGY2RnJHOHhPbjBvdmNqeFNWYmFLVkM0SzFySmo4ZTRfZ1NvN0NzRVZlMENDNlNRSlF3Y0RiREo3MzBFSGxBdDRNaA?oc=5",
+      "asOf": "2026-09-30 06:15 北京时间"
+    },
+    {
+      "title": "新闻 · AP News · US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFVjNjJZSnJGM05uVmhITnZWNXc4dk5rQ3FFdUZrdUlVNS16T0g0SHR1eEtfR1lYUW85Q3ZJX3RCcVE1bW5WNzR1eUN3c1J1blRKR3k4Y3lNanJScXZOckZNcFFmMEhnN2RkZEhOQVZJU2FTRjF2cnRHaXlSN0NRZlJidWZGbGJkQ0JqejZrVzJvakJzWE1qWm1NRGs4V0J4?oc=5",
+      "asOf": "2026-09-30 05:57 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE5sSEU5cVdja2xyUXNzcm9VR1kxc3k2bFhsZm4tb3VXR2wwSEZNbU1KcXNBcEotcFVhYUVRZllOY2tOeVg4ZWMycV9mbXV0TEdxLVJleU40bTNTSGtMTUtkaUFneUw1UkV2SXlGX2ZyOFYzUFBtRHB6TXpCbDBKa0pYbTY2NFVtZU81TGxkeWkwVEVwVmt5TG9tU2s3RnUzdkNENHpvQnJmWjg1bzFXMWdBV3NLY3FqZ1ZwS01ZaXgxT29pejlDRHpETWJyTERNNWtQekxkdFk5aHd0THRJ?oc=5",
+      "asOf": "2026-09-30 05:50 北京时间"
+    },
+    {
+      "title": "新闻 · AP News · Canada’s first major LNG export terminal plans to double its capacity - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEFURlo3c09PMk9fMFg3MjF3QkR6d1NJRUpZdkt5Y0puLXd5UGtXUFJFMmNBM2dOTFRoTzFyUE8tY0RvV1puWXF5WWVJbFJ6MGljWmk3OEhNa2tjZE5weU93LWZWcWFrZ1pYRS1ESnFWNDJGbGw1enIzekxNWnFveXByOVZYMkZJQXJrZ3lGVW5nQVc3NGc?oc=5",
+      "asOf": "2026-09-30 03:57 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Shell-led LNG Canada greenlights Phase 2 expansion, doubling export capacity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lWTTdxaVZMaDlmeS1TNERQbGRyNENwTzhUZGt5d2pMSFMwSFZpQUtHWks4UklrU2lKU2EyMWVuUnU3U1Y1Vk9icjlYR1F4M0pCNjdUWDZIVVpIeC1SMVVnT05ySmRSaGZYdEZnVXFaR01ISHlqdEttMVJoWXdGbTB0RlBUdVEwWDFnd3J5S2Q5TjExN0FFVkMwcHRES0k4R1luZDNJMUNmaVMydXBRX3g4RERlZHc4emUxN2xiMllTQlpWbUE?oc=5",
+      "asOf": "2026-09-30 02:34 北京时间"
+    },
+    {
+      "title": "新闻 · Reuters · Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz in US - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT0p6allsQ2ZuWnVjbDhPUVlnQUpPaTBISHpHLTlOVktzTjhHNk5vcjNTdnBWMkRYbnRHeFVzRGZBOXVjbHY1d3J3ek01WHo1QW9uZGFJLWt0dDJSU0lkd3FTblBDeVp6dUtfS1g1VHhleElaYVQ5WVNxNC1oeS1MNU8yamdlYkhZQUlQREpVYUJadmJHVFlyVjJlLXozTzR6a1BSVHVqb3pZWDkzNmxrb1ZUZEk0ZkZ4SHhPaXNiNm9CVDhhTndyTHJHaHVQNFRDQ0tQaGF3?oc=5",
+      "asOf": "2026-09-30 02:03 北京时间"
     }
   ],
   "quality": {
     "indicatorCount": 8,
-    "news24hCount": 0,
-    "radarCount": 0,
+    "news24hCount": 10,
+    "radarCount": 4,
     "staleIndicators": [],
     "unavailableIndicators": [],
     "unavailableNewsSources": []
