@@ -15,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from article_evidence import retrieve
 
 ROOT = Path(__file__).resolve().parents[1]
 TZ = ZoneInfo("Asia/Shanghai")
@@ -203,7 +204,19 @@ def collect_news(now):
                 items.extend(job.result())
             except Exception as exc:
                 errors.append(jobs[job] + ": " + type(exc).__name__)
-    return select_facts(items, now), errors
+    return enrich_news(select_facts(items, now), now, errors), errors
+
+
+def enrich_news(news, now, errors):
+    enriched = list(news)
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        jobs = {pool.submit(retrieve, item, now): i for i, item in enumerate(news)}
+        for job in as_completed(jobs):
+            try:
+                enriched[jobs[job]] = job.result()
+            except Exception as exc:
+                errors.append('article: ' + type(exc).__name__)
+    return enriched
 
 
 def load_editorial(now):
@@ -292,6 +305,8 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
     news_blocks = []
     for n in news:
         paragraphs = [f"发布时间：{n['published']}；来源：{n['publisher']}。"]
+        if n.get('articleEvidence') and n not in reviewed:
+            paragraphs.append('原文摘要：' + n['articleEvidence']['excerpt'])
         if n in reviewed:
             paragraphs += ["事实：" + n["facts"], "传导分析（假设）：" + n["analysis"],
                            "持续时间：" + n.get("horizon", "未确定"), "反证：" + n["invalidate"], "验证：" + n["verify"]]
@@ -314,7 +329,7 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
     if not observation:
         observation = ["核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
                        "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
-                       "核对企业公告中的订单金额、交付时间和现金回款："]
+                       "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"]
     pages = [
         {"id": "overview", "eyebrow": "01 · 市场主线", "title": "今天最重要的市场主线", "lead": "", "blocks": overview},
         {"id": "markets", "eyebrow": "02 · 市场数据", "title": "关键市场数据", "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。", "blocks": markets},
@@ -362,7 +377,7 @@ def main() -> None:
     news, errors = collect_news(now)
     editorial = load_editorial(now)
     if editorial:
-        news = editorial.get("events", [])
+        news = enrich_news(editorial.get("events", []), now, errors)
     report = build_report(indicators, failures, news, errors, now, editorial)
     if args.preview:
         folder = ROOT / "preview"

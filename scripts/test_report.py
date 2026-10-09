@@ -5,9 +5,24 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 import generate_report as g
+import article_evidence as a
 from validate_report import validate
 
 class Regression(unittest.TestCase):
+    def test_body_excludes_navigation_and_scripts(self):
+        text='企业公告披露本次合同的履约期限、交易金额与付款安排。'*4
+        result=a.extract('<nav><p>'+text+'</p></nav><article><p>'+text+'</p><script>'+text+'</script></article>')
+        self.assertEqual(result,[text])
+    def test_body_deduplicates_paragraphs(self):
+        text='本次事件已经发生，公告披露了具体日期、合同对方与交易金额。'*4
+        self.assertEqual(a.extract('<p>'+text+'</p><p>'+text+'</p>'),[text])
+    def test_source_domain_boundary(self):
+        self.assertTrue(a.trusted('https://www.news.cn/finance/article.html'))
+        self.assertFalse(a.trusted('https://news.cn.evil.example/article'))
+        self.assertFalse(a.trusted('http://www.news.cn/article'))
+    def test_index_does_not_become_article_evidence(self):
+        event={'url':'https://news.google.com/rss/articles/index'}
+        self.assertEqual(a.retrieve(event,datetime.now(g.TZ)),event)
     def setUp(self):
         self.now=datetime(2026,10,9,10,45,tzinfo=ZoneInfo('Asia/Shanghai'))
         self.editorial=json.loads((g.ROOT/'editorial/2026-10-09.json').read_text())
