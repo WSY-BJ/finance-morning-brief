@@ -47,6 +47,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Run content and reader regression tests
+        run: |
+          python -m compileall -q scripts
+          node --check app.js
+          python -m unittest discover -s scripts -p "test_*.py" -v
+
       - name: Check Beijing edition and live site
         id: state
         run: python scripts/prepare_run.py
