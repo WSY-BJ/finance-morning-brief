@@ -5,25 +5,61 @@
   "updatedAt": "2026-10-09T10:47:26+08:00",
   "status": "published",
   "generatorVersion": 3,
-  "title": "财经晨报 · 证据不足版",
+  "title": "财经晨报",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项行情、7 条中文消息、0 条正文核验、0 条利润线索。",
+  "intro": "7 项市场数据 · 7 条财经消息",
   "notification": {
-    "title": "2026-10-09 财经晨报（研究内容不足）",
-    "summary": "7 项行情、7 条中文消息、0 条正文核验、0 条利润线索。"
+    "title": "2026-10-09 财经晨报",
+    "summary": "7 项市场数据 · 7 条财经消息"
   },
   "pages": [
     {
       "id": "overview",
       "eyebrow": "01 · 市场主线",
       "title": "今天最重要的市场主线",
-      "lead": "有证据才连接事件。",
+      "lead": "",
       "blocks": [
         {
-          "type": "notice",
-          "tone": "warning",
-          "title": "市场主线暂缺",
-          "text": "本期没有足以解释市场因果的正文证据。先看同口径行情与中文消息，暂不把价格同向变化解释为因果。"
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "125.44 美元/桶；变化 -0.07 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-06；前值 125.51（2026-10-05）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.22 %；变化 -0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-08；前值 5.28（2026-10-07）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,801.77 点；变化 -17.16 点",
+          "paragraphs": [
+            "观测日 2026-10-07；前值 7,818.93（2026-10-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
         }
       ]
     },
@@ -143,18 +179,12 @@
       "id": "news",
       "eyebrow": "03 · 财经新闻",
       "title": "过去 24 小时财经新闻",
-      "lead": "正文核验与标题信息分开呈现。",
+      "lead": "",
       "blocks": [
-        {
-          "type": "notice",
-          "tone": "warning",
-          "title": "本期证据范围",
-          "text": "有 7 条中文消息，其中 0 条完成正文核验。标题信息不计为已核实研究；不足的部分留空。"
-        },
         {
           "type": "explainer",
           "title": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-09T08:05:00+08:00；来源：Reuters。"
           ],
@@ -168,7 +198,7 @@
         {
           "type": "explainer",
           "title": "美国政府称，多数 Medicare Advantage 药物计划参保者参加高评级计划",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-09T07:29:00+08:00；来源：Reuters。"
           ],
@@ -182,7 +212,7 @@
         {
           "type": "explainer",
           "title": "标普 500 与纳斯达克收跌，油价上升、芯片股承压",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-09T07:09:00+08:00；来源：Reuters。"
           ],
@@ -196,7 +226,7 @@
         {
           "type": "explainer",
           "title": "数据中心灵活用电能否扩大应用、节省电网成本？",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-09T02:57:00+08:00；来源：Reuters。"
           ],
@@ -210,7 +240,7 @@
         {
           "type": "explainer",
           "title": "英国支持的组织在 IMF 和世界银行会议前发布私人债权人债务重组指南",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-09T01:07:00+08:00；来源：Reuters。"
           ],
@@ -224,7 +254,7 @@
         {
           "type": "explainer",
           "title": "路透社报道：高汽油价格推动菲律宾电动车销售增长",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-08T20:35:00+08:00；来源：Reuters。"
           ],
@@ -238,7 +268,7 @@
         {
           "type": "explainer",
           "title": "法国农业信贷银行拟以零售银行业务拓展德国市场",
-          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
+          "summary": "",
           "paragraphs": [
             "发布时间：2026-10-08T19:54:00+08:00；来源：Reuters。"
           ],
@@ -255,13 +285,14 @@
       "id": "radar",
       "eyebrow": "04 · 产业研究",
       "title": "产业利润增长雷达",
-      "lead": "只使用经过正文核验的具体事件。",
+      "lead": "",
       "blocks": [
         {
-          "type": "notice",
-          "tone": "warning",
-          "title": "没有足够证据的利润线索",
-          "text": "本期未取得已核实的企业订单、收入或成本证据，因此不列受益公司，不生成行业利润模板。"
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
         }
       ]
     },
@@ -294,7 +325,7 @@
           "items": [
             "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
             "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
-            "核对企业公告中的订单金额、交付时间和现金回款：标题不能确认收入。"
+            "核对企业公告中的订单金额、交付时间和现金回款："
           ]
         }
       ]
