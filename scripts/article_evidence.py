@@ -1,11 +1,18 @@
 """Extract article paragraphs without turning source text into investment claims."""
 import hashlib
+import json
 import re
 import urllib.parse
 import urllib.request
 from html.parser import HTMLParser
 
 TRUSTED_HOSTS = ('news.cn', 'xinhuanet.com', 'cnstock.com', 'stcn.com', 'gov.cn', 'reuters.com')
+
+def cnstock_data(document):
+    match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', document, re.S)
+    if not match:
+        raise ValueError('publisher article metadata missing')
+    return json.loads(match.group(1))['props']['pageProps']['data']
 
 def trusted(url):
     p = urllib.parse.urlsplit(url)
@@ -71,6 +78,11 @@ def retrieve(event, now):
         if len(raw) > 2_000_000:
             raise ValueError('article too large')
         document = raw.decode(response.headers.get_content_charset() or 'utf-8', errors='replace')
+    if urllib.parse.urlsplit(final).hostname in ('www.cnstock.com', 'm.cnstock.com'):
+        data = cnstock_data(document)
+        if data['title'].strip() != event['originalTitle'].strip():
+            raise ValueError('publisher title mismatch')
+        document = '<h1>' + data['title'] + '</h1>' + data['textInfo']['content']
     paragraphs = extract(document)
     # Demand an actual article and a title anchor; navigation pages are not evidence.
     title_words = re.findall(r'[\u4e00-\u9fff]{4,}|[A-Za-z]{5,}', event['originalTitle'])
@@ -79,6 +91,6 @@ def retrieve(event, now):
     result = dict(event)
     result['articleEvidence'] = {'url': final, 'retrievedAt': now.isoformat(),
         'sha256': hashlib.sha256(raw).hexdigest(), 'paragraphCount': len(paragraphs),
-        'excerpt': paragraphs[0][:500]}
+        'excerpt': paragraphs[0][:120]}
     # Retrieval does not grant reviewed status or fabricate causal analysis.
     return result

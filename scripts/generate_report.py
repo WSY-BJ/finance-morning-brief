@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
-from article_evidence import retrieve
+from article_evidence import retrieve, cnstock_data
 
 ROOT = Path(__file__).resolve().parents[1]
 TZ = ZoneInfo("Asia/Shanghai")
@@ -199,12 +199,37 @@ def collect_news(now):
     items, errors = [], []
     with ThreadPoolExecutor(max_workers=4) as pool:
         jobs = {pool.submit(parse_feed, name, url): name for name, url in FEEDS}
+        jobs[pool.submit(collect_cnstock, now)] = '中国证券网原文'
         for job in as_completed(jobs):
             try:
                 items.extend(job.result())
             except Exception as exc:
                 errors.append(jobs[job] + ": " + type(exc).__name__)
     return enrich_news(select_facts(items, now), now, errors), errors
+
+
+def collect_cnstock(now):
+    home = fetch('https://www.cnstock.com/')
+    paths = list(dict.fromkeys(re.findall(r'href="(/commonDetail/\d+)"', home)))[:12]
+    def article(path):
+        url = 'https://www.cnstock.com' + path
+        data = cnstock_data(fetch(url))
+        published = datetime.strptime(data['pubTime'], '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+        if not now - timedelta(hours=24) <= published <= now:
+            return None
+        title = plain(data['title'])
+        return {'event': title, 'originalTitle': title, 'published': published.isoformat(),
+                'publisher': data.get('source') or '中国证券网', 'url': url, 'evidenceLevel': 'headline-only'}
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        results = []
+        for job in as_completed([pool.submit(article, path) for path in paths]):
+            try:
+                item = job.result()
+                if item:
+                    results.append(item)
+            except (ValueError, KeyError, OSError):
+                continue
+    return results
 
 
 def enrich_news(news, now, errors):

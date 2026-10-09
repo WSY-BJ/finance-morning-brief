@@ -41,19 +41,19 @@ class Regression(unittest.TestCase):
         r=self.report(); n=next(b for p in r['pages'] if p['id']=='news' for b in p['blocks'] if 'Flock' in b.get('title',''))
         for wrong in ('GPU','光模块','英伟达','存储'):
             self.assertNotIn(wrong,json.dumps(n,ensure_ascii=False))
-        self.assertEqual(r['quality']['radarCount'],0)
+        self.assertEqual(r['quality']['radarCount'],1)
         self.assertTrue(validate(r,'2026-10-09'))
     def test_unreviewed_profit_rejected(self):
-        n=copy.deepcopy(self.editorial['events'][0]);n['analysis']='订单增长'
+        n=copy.deepcopy(next(e for e in self.editorial['events'] if 'Flock' in e['event']));n['analysis']='订单增长'
         with self.assertRaises(AssertionError):g.validate_event(n,self.now)
     def test_english_title_rejected(self):
-        n=copy.deepcopy(self.editorial['events'][0]);n['event']='AI startup layoffs'
+        n=copy.deepcopy(next(e for e in self.editorial['events'] if 'Flock' in e['event']));n['event']='AI startup layoffs'
         with self.assertRaises(AssertionError):g.validate_event(n,self.now)
     def test_old_and_duplicate_facts_removed(self):
-        n=copy.deepcopy(self.editorial['events'][0]);old=copy.deepcopy(n);old['published']='2026-10-01T08:00:00+08:00'
+        n=copy.deepcopy(next(e for e in self.editorial['events'] if 'Flock' in e['event']));old=copy.deepcopy(n);old['published']='2026-10-01T08:00:00+08:00'
         self.assertEqual(len(g.select_facts([n,n,old],self.now)),1)
     def test_company_needs_article_evidence(self):
-        n=copy.deepcopy(self.editorial['events'][0]);n.update(evidenceLevel='source-reviewed',facts='事实',analysis='假设',verify='核对',invalidate='反证')
+        n=copy.deepcopy(next(e for e in self.editorial['events'] if 'Flock' in e['event']));n.update(evidenceLevel='source-reviewed',facts='事实',analysis='假设',verify='核对',invalidate='反证')
         with self.assertRaises(AssertionError):g.validate_event(n,self.now)
     def test_lesson_progression(self):
         nextday=datetime(2026,10,10,8,tzinfo=g.TZ)
