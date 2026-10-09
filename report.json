@@ -1,58 +1,48 @@
 {
   "edition": "财经晨报 · 2026-10-09",
-  "date": "生成于北京时间 2026-10-09 09:12；各数据逐项标注观测日",
+  "date": "更新于北京时间 2026-10-09 10:47",
   "reportDate": "2026-10-09",
-  "updatedAt": "2026-10-09T09:12:10+08:00",
+  "updatedAt": "2026-10-09T10:47:26+08:00",
   "status": "published",
-  "title": "从新闻读到产业利润",
-  "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
-  "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
+  "generatorVersion": 3,
+  "title": "财经晨报 · 证据不足版",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项行情、7 条中文消息、0 条正文核验、0 条利润线索。",
   "notification": {
-    "title": "2026-10-09 财经晨报",
-    "summary": "8 项真实指标、10 条近 24 小时消息、4 条产业线索；点击阅读因果和反证。"
+    "title": "2026-10-09 财经晨报（研究内容不足）",
+    "summary": "7 项行情、7 条中文消息、0 条正文核验、0 条利润线索。"
   },
   "pages": [
     {
       "id": "overview",
-      "eyebrow": "01 · 开篇",
-      "title": "我今天不用自己查指标版",
-      "lead": "先看真实口径与数据日期，再读它怎样可能影响企业赚钱。",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "有证据才连接事件。",
       "blocks": [
         {
           "type": "notice",
-          "tone": "neutral",
-          "title": "阅读方法",
-          "text": "行情是事实，利润传导是待检验的条件推论。价格的变动原因无法从价格本身推出；新闻标题未核实的细节不会被写成事实。"
-        },
-        {
-          "type": "explainer",
-          "title": "今天先看什么",
-          "summary": "已取得 8 个真实指标、过去 24 小时 10 条消息。每项行情逐项标注最近可用观测日。",
-          "paragraphs": [
-            "美国利率、美元、黄金和原油一起看：它们影响融资成本、以美元计价的收入和原材料成本，但对不同公司利润的方向可能相反。",
-            "今天的研究线索从有时间和链接的消息出发，继续核对订单、售价、毛利率和现金流。"
-          ]
+          "tone": "warning",
+          "title": "市场主线暂缺",
+          "text": "本期没有足以解释市场因果的正文证据。先看同口径行情与中文消息，暂不把价格同向变化解释为因果。"
         }
       ]
     },
     {
       "id": "markets",
-      "eyebrow": "02 · 数据",
-      "title": "关键指标与传导",
-      "lead": "最新可靠观测值、上一观测日变化、数据时间和影响范围。",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
       "blocks": [
         {
           "type": "explainer",
           "title": "Brent 原油现货",
-          "summary": "125.44 美元/桶；相对 2026-10-05 下降 −0.07 美元/桶。",
+          "summary": "125.44 美元/桶；变化 -0.07 美元/桶",
           "paragraphs": [
-            "数据日期 2026-10-06；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "Brent 是国际原油定价参考。油价变化可能改变油企每桶收入，也会改变航空、化工及运输的燃料成本；利润还取决于销量、库存与能否转嫁成本。"
+            "观测日 2026-10-06；前值 125.51（2026-10-05）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
@@ -60,31 +50,27 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.77 %；相对 2026-10-06 下降 −0.02 个百分点。",
+          "summary": "4.75 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "数据日期 2026-10-07；来源：FRED / 原始发布机构。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "2 年期国债收益率是短期美元资金价格的重要参照。它上行会提高部分融资成本，利率敏感行业的估值也可能受影响。"
+            "观测日 2026-10-08；前值 4.77（2026-10-07）；来源：美国财政部。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.22 %；相对 2026-10-07 下降 −0.06 个百分点。",
+          "summary": "5.22 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "数据日期 2026-10-08；来源：美国财政部。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "10 年期国债收益率常被用作长期资金定价参照。它上行时，远期利润折回今天的估值可能降低，但企业利润增长可能抵消这种影响。"
+            "观测日 2026-10-08；前值 5.28（2026-10-07）；来源：美国财政部。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
@@ -92,47 +78,27 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.07 点；相对 2026-10-07 下降 −0.17 点。",
+          "summary": "102.24 点；变化 +0.41 点",
           "paragraphs": [
-            "数据日期 2026-10-09；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "DXY 是美元相对一篮子主要货币的指数。美元走强可能影响人民币汇率、美元债成本及大宗商品报价，实际影响须看企业结算货币。"
+            "观测日 2026-10-07；前值 101.83（2026-10-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "现货黄金 XAU/USD（参考报价）",
-          "summary": "4,151.60 美元/盎司；相对 2026-10-08 下降 −14.30 美元/盎司。",
-          "paragraphs": [
-            "数据日期 2026-10-09；来源：XAUS · 指示性现货中间价。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "这里是真实现货黄金报价，不是黄金 ETF。金价会影响黄金矿企销售收入；矿山成本、产量、套保和汇率决定利润能否同步增长。"
-          ],
-          "links": [
-            {
-              "title": "查看原始数据",
-              "url": "https://xaus.com/api/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,765.36 点；相对 2026-10-07 下降 −36.41 点。",
+          "summary": "7,801.77 点；变化 -17.16 点",
           "paragraphs": [
-            "数据日期 2026-10-08；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "标普 500 是美国大型上市公司指数。指数涨跌包含估值和盈利预期两部分，单日价格不能说明是哪一种在主导。"
+            "观测日 2026-10-07；前值 7,818.93（2026-10-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
@@ -140,15 +106,13 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "27,193.34 点；相对 2026-10-07 下降 −345.35 点。",
+          "summary": "27,538.69 点；变化 -61.10 点",
           "paragraphs": [
-            "数据日期 2026-10-08；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "纳斯达克综合指数包含较多科技企业。观察它时应同时核对盈利、资本开支与利率，不能直接把上涨等同于 AI 利润增长。"
+            "观测日 2026-10-07；前值 27,599.79（2026-10-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://finance.yahoo.com/quote/%5EIXIC/"
             }
           ]
@@ -156,193 +120,131 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.70 人民币/美元；相对 2026-10-07 下降 −0.00 人民币/美元。",
+          "summary": "6.7045 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "数据日期 2026-10-09；来源：Yahoo Finance。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-            "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。",
-            "美元兑人民币数字上升表示一美元可兑换更多人民币。出口收入和进口成本可能同时变化，合同结算币种与套保安排决定净影响。"
+            "观测日 2026-10-08；前值 6.7045（2026-10-07）；来源：Yahoo Finance。"
           ],
           "links": [
             {
-              "title": "查看原始数据",
+              "title": "原始数据与口径",
               "url": "https://finance.yahoo.com/quote/CNY%3DX/"
             }
           ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
         }
       ]
     },
     {
       "id": "news",
-      "eyebrow": "03 · 近 24 小时",
-      "title": "过去 24 小时财经新闻梳理",
-      "lead": "优先选有企业利润传导线索的消息；逐条给出原文和核验方向。",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "正文核验与标题信息分开呈现。",
       "blocks": [
         {
+          "type": "notice",
+          "tone": "warning",
+          "title": "本期证据范围",
+          "text": "有 7 条中文消息，其中 0 条完成正文核验。标题信息不计为已核实研究；不足的部分留空。"
+        },
+        {
           "type": "explainer",
-          "title": "1. AI 与半导体",
-          "summary": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
+          "title": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-09 08:05 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+            "发布时间：2026-10-09T08:05:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2. 消费与医药",
-          "summary": "Most Medicare Advantage drug plan enrollees in high-quality plans, US government says - Reuters",
+          "title": "美国政府称，多数 Medicare Advantage 药物计划参保者参加高评级计划",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-09 07:29 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
+            "发布时间：2026-10-09T07:29:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmF2T01aTW5nVk9iVW9tdXhNSUFRSWltdDk1OE9VOElISGMyc2J3cVlSUTRRbE5BVEplZ3NDa1g5QnphNUNxWkRPblVnWWtqZTRmT1dmZDhMeW9BbWNqci1CazBmeDk1cHJWMUdOUWhCdWpRUno2a1RzSU03Y21ZSkRMM0swbi1ROE53ekRMTkUzSTRhbGNIVmpadUZfVlZqX09GNk8waTZPRkktTldfSW92cHYtRjk2RjBfS3hjN1pyRDMyekpLZjNHdXJzaVdsdU9VOEQ5a0ZLNWtnUXFTTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "3. AI 与半导体",
-          "summary": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
+          "title": "标普 500 与纳斯达克收跌，油价上升、芯片股承压",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-09 07:09 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 季度订单、资本开支、毛利率与云业务收入。"
+            "发布时间：2026-10-09T07:09:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "4. 能源与材料",
-          "summary": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
+          "title": "数据中心灵活用电能否扩大应用、节省电网成本？",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-09 04:41 北京时间；发布或索引来源：AP News。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
+            "发布时间：2026-10-09T02:57:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "5. 能源与材料",
-          "summary": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
-          "paragraphs": [
-            "发生时间：2026-10-09 02:57 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 现货与长协价格、库存、产量和下游毛利率。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "6. 汽车与新能源",
-          "summary": "Why EV sales are lukewarm in America, but hot in Europe - Reuters",
+          "title": "英国支持的组织在 IMF 和世界银行会议前发布私人债权人债务重组指南",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-09 02:08 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
+            "发布时间：2026-10-09T01:07:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajRUTl9xbW4wSDZYc1hpcEZZczJfa3ZXWXN2UF94THlDNVNvWlYwUTBqOTI5YUp6V2hhWUZHaHU0NXJFMkNkMXkxS1F4WjY3Z1gyU3FZQUctUnVQeDUyMy1BTG02WThsMlQ0eXVHazFZOEpLUW52cmVfTlZSSkdsTVJFLV84M3Q0VTN6VWExXzQ5bU1FWVkwUUlkSTQxMGhmSDVkN2tHWGVUZlFBM2ZZ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "7. 宏观与金融",
-          "summary": "UK arrest 2 Latvians inside perimeter of RAF base housing U.S., NATO intelligence operations - AP News",
-          "paragraphs": [
-            "发生时间：2026-10-09 01:08 北京时间；发布或索引来源：AP News。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWoyRGZwYmxNNFNLTnFxZFN6d3N0Vk1QXzF4czFrMVVwSnBDa3Z2VllzS19Nd3FqNTZZUW12N2NXbk52em40Y2U3SE96VjBZcVo4eHROdFNMVU9CbEtHT2hiZXJVbkM3bno3NTlJdXZJM0lwR0pjakh1akdPQkYwS0dDSHh6TUI1bW5HVXZsYWpkcnpBSWc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "8. 宏观与金融",
-          "summary": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings - Reuters",
-          "paragraphs": [
-            "发生时间：2026-10-09 01:07 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 政策原文、收益率、贷款与财报。"
-          ],
-          "links": [
-            {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUFJVXNuU1NsdVBNTkNtZGZHeXFwRXB6ZGlZdkVRY1lXX3pwa0VVM1V4M0o3UmdRQkt1SGtuMS1fV1hDOEZlWThSV0ZWM2FZRHRHUTlNMzVzY1pQYjFTM1lEeTg4TVFjcWFxNjJMOGoxd0UxWXFtazJKMnl2MlJkNUliMFU0aGxBMVRYdU1DeGllNzk3ZklmQzE1MkVwVFpMaGNhZEdWZHZNYUtXbEhzUEQ1TVNHSDNtM0JETzZQMGZLc3AydVFrY1h3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "9. 汽车与新能源",
-          "summary": "High gasoline prices drive EV sales surge in the Philippines - Reuters",
+          "title": "路透社报道：高汽油价格推动菲律宾电动车销售增长",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-08 20:35 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 交付量、单车售价、库存和电池报价。"
+            "发布时间：2026-10-08T20:35:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnRiRDZMYXY5YkpoU1VFSHB3Q1BJNF9ydTVDdTBSTUZTekxLNjFCVElmNDdycVFNUXlmcy1QbWY2aXUtQm1MYi1oV2dRTUE2aDNBdEVPdEJkekZUYVRuQUNiR1I0WjFjWUlvQ1NOZ1owUjRrYmNSZ1VqSWlHQ280U1VyUTZSWjZKVU5UYWVlUFVKNTN5VmVlX0JfS19Ta2dob2c0eWpHV1g?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "10. 消费与医药",
-          "summary": "France's Credit Agricole to expand in Germany with retail business - Reuters",
+          "title": "法国农业信贷银行拟以零售银行业务拓展德国市场",
+          "summary": "新闻标题信息；未核实正文，不扩展利润判断。",
           "paragraphs": [
-            "发生时间：2026-10-08 19:54 北京时间；发布或索引来源：Reuters。",
-            "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。",
-            "可能影响产业链及收入、成本、利润率、订单或现金流的路径：需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。",
-            "持续性与验证：具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。观察 同店销售、销量、费用率和现金流。"
+            "发布时间：2026-10-08T19:54:00+08:00；来源：Reuters。"
           ],
           "links": [
             {
-              "title": "阅读消息原文或新闻索引",
+              "title": "新闻来源",
               "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVlFQ3pTdF9FMUU0UGhXY0hiWkl3ZDNId1ZsZkNzU1BTOTF4U1J5cEJWWGlwelhPR0lzT1k4YkpXekx6UTBxaU9xZEpCXzEwZV9pUnlqYjlVbXdwRHJwN1FZVzF2WnVLYkNhVXVHRHNHczB4UHRGT0VaQzMyRnlCTDRmYktFQzB0d1d5MG9INDQ4bkdwMjVpS091U004emJZVGNPaUpnOC15b3RVSjd2cXB3?oc=5"
             }
           ]
@@ -351,112 +253,48 @@
     },
     {
       "id": "radar",
-      "eyebrow": "04 · 研究",
+      "eyebrow": "04 · 产业研究",
       "title": "产业利润增长雷达",
-      "lead": "从需求与成本走到收入、利润和估值，假设须有反证。",
+      "lead": "只使用经过正文核验的具体事件。",
       "blocks": [
         {
-          "type": "explainer",
-          "title": "汽车与新能源：从消息追踪利润，而非追涨幅",
-          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
-          "paragraphs": [
-            "观察到的事实：Why EV sales are lukewarm in America, but hot in Europe - Reuters（2026-10-09 02:08 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-            "可能的收入、成本和利润传导：电池厂可能通过新增装机量和产能利用率摊薄单位固定成本；若整车降价或原料涨价且合同无法转嫁，电池和整车毛利反而被挤压。新工厂先消耗现金，量产良率和稳定订单决定回收。",
-            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：比亚迪 002594/1211、特斯拉 TSLA、宁德时代 300750。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
-            "反证与未来 1–4 周验证：若交付量、单车售价、库存和电池报价没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 交付量、单车售价、库存和电池报价。"
-          ],
-          "links": [
-            {
-              "title": "本条线索原文",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajRUTl9xbW4wSDZYc1hpcEZZczJfa3ZXWXN2UF94THlDNVNvWlYwUTBqOTI5YUp6V2hhWUZHaHU0NXJFMkNkMXkxS1F4WjY3Z1gyU3FZQUctUnVQeDUyMy1BTG02WThsMlQ0eXVHazFZOEpLUW52cmVfTlZSSkdsTVJFLV84M3Q0VTN6VWExXzQ5bU1FWVkwUUlkSTQxMGhmSDVkN2tHWGVUZlFBM2ZZ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "AI 与半导体：从消息追踪利润，而非追涨幅",
-          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
-          "paragraphs": [
-            "观察到的事实：EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters（2026-10-09 08:05 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-            "可能的收入、成本和利润传导：若订单成为实际交付，GPU 按芯片销售、HBM 存储按容量与售价、光模块和交换机按网络设备出货确认收入；服务器、电力与制冷仍需看建设验收。云服务及软件须把算力投入变成付费使用，否则资本开支先压现金流。",
-            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：英伟达 NVDA、台积电 TSM、工业富联 601138、阿里巴巴 9988。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
-            "反证与未来 1–4 周验证：若季度订单、资本开支、毛利率与云业务收入没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 季度订单、资本开支、毛利率与云业务收入。"
-          ],
-          "links": [
-            {
-              "title": "本条线索原文",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "消费与医药：从消息追踪利润，而非追涨幅",
-          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
-          "paragraphs": [
-            "观察到的事实：Most Medicare Advantage drug plan enrollees in high-quality plans, US government says - Reuters（2026-10-09 07:29 北京时间，Reuters）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-            "可能的收入、成本和利润传导：销量和客单价共同决定收入；促销、采购与研发费用影响毛利和现金流。零售价涨幅放缓本身不等于新增利润，需有销量或成本改善的证据。",
-            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：贵州茅台 600519、美团 3690、礼来 LLY。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
-            "反证与未来 1–4 周验证：若同店销售、销量、费用率和现金流没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 同店销售、销量、费用率和现金流。"
-          ],
-          "links": [
-            {
-              "title": "本条线索原文",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmF2T01aTW5nVk9iVW9tdXhNSUFRSWltdDk1OE9VOElISGMyc2J3cVlSUTRRbE5BVEplZ3NDa1g5QnphNUNxWkRPblVnWWtqZTRmT1dmZDhMeW9BbWNqci1CazBmeDk1cHJWMUdOUWhCdWpRUno2a1RzSU03Y21ZSkRMM0swbi1ROE53ekRMTkUzSTRhbGNIVmpadUZfVlZqX09GNk8waTZPRkktTldfSW92cHYtRjk2RjBfS3hjN1pyRDMyekpLZjNHdXJzaVdsdU9VOEQ5a0ZLNWtnUXFTTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "能源与材料：从消息追踪利润，而非追涨幅",
-          "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
-          "paragraphs": [
-            "观察到的事实：Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News（2026-10-09 04:41 北京时间，AP News）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-            "可能的收入、成本和利润传导：钢铁项目可能给设备、工程及原材料供应商带来订单；新产能投放也可能压低现有钢厂售价，项目业主的利润须扣除建设成本、融资费用及开工后的折旧。",
-            "研究样本（A 股、港股、美股，供核查而非排名或推荐）：中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
-            "反证与未来 1–4 周验证：若现货与长协价格、库存、产量和下游毛利率没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 现货与长协价格、库存、产量和下游毛利率。"
-          ],
-          "links": [
-            {
-              "title": "本条线索原文",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5"
-            }
-          ]
+          "type": "notice",
+          "tone": "warning",
+          "title": "没有足够证据的利润线索",
+          "text": "本期未取得已核实的企业订单、收入或成本证据，因此不列受益公司，不生成行业利润模板。"
         }
       ]
     },
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "金融工程每日一课：折现",
-      "lead": "一句话直觉：未来收到的钱，需要按时间和风险折算成今天的价值。",
+      "title": "第 1 课：绝对变化与收益率",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
           "type": "explainer",
-          "title": "今天市场里的例子",
-          "summary": "本期美国 10 年期国债收益率为 5.22%（2026-10-08），相对前一观测日变动 −0.06 个百分点。",
+          "title": "绝对变化与收益率",
+          "summary": "收益率 = (新值 ÷ 前值 − 1) × 100%。金额变化和百分比变化回答不同问题。",
           "paragraphs": [
-            "国债收益率可以作为资金价格的一项参照，企业未来现金流的折现率还包含风险补偿。收益率变动不会机械地等比例改变股价，因为利润预期也会变。",
-            "必要公式：现值 PV = FV ÷ (1+r)^n。PV 是今天的价值；FV 是 n 期后预计收到的钱；r 是每期折现率；n 是等待期数。",
-            "很短的练习：假设一年后确定收到 110 元，年折现率为 10%，今天值多少？答案：100 元，因为 110 ÷ 1.10 = 100。折现率越高，同一笔未来收入的今天价值越低。"
-          ]
+            "本期实例：标普 500 指数，2026-10-06 前值 7818.9302，2026-10-07 现值 7801.7700，变化 -17.1602。",
+            "100 元涨到 110 元，收益率是 10%；再跌回 100 元，跌幅是 9.09%。"
+          ],
+          "links": []
         }
       ]
     },
     {
-      "id": "goldminers",
-      "eyebrow": "06 · 专题",
-      "title": "159562 黄金矿企观察",
-      "lead": "一个研究小节；不读取或公布持仓、成本和账户信息。",
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
       "blocks": [
         {
-          "type": "explainer",
-          "title": "金价上涨，矿企利润一定上涨吗？",
-          "summary": "现货金价 4,151.60 美元/盎司（2026-10-09）；相对前一观测日 −0.34%。",
-          "paragraphs": [
-            "金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
-            "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
-            "159562 的价格还受 A 股风险偏好、基金成分与交易溢折价影响。未来核对矿企产量、全部维持成本、套保披露和基金净值；不把 ETF 涨跌当作现货金价。"
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款：标题不能确认收入。"
           ]
         }
       ]
@@ -464,13 +302,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-09"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-08"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-08"
     },
     {
@@ -479,87 +317,134 @@
       "asOf": "2026-10-06"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-08"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-07"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-09"
-    },
-    {
-      "title": "现货黄金 XAU/USD（参考报价） · XAUS · 指示性现货中间价",
-      "url": "https://xaus.com/api/",
-      "asOf": "2026-10-09"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-08"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-07"
     },
     {
-      "title": "新闻 · Reuters · EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-07"
+    },
+    {
+      "title": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5",
-      "asOf": "2026-10-09 08:05 北京时间"
+      "asOf": "2026-10-09T08:05:00+08:00"
     },
     {
-      "title": "新闻 · Reuters · Most Medicare Advantage drug plan enrollees in high-quality plans, US government says - Reuters",
+      "title": "美国政府称，多数 Medicare Advantage 药物计划参保者参加高评级计划",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmF2T01aTW5nVk9iVW9tdXhNSUFRSWltdDk1OE9VOElISGMyc2J3cVlSUTRRbE5BVEplZ3NDa1g5QnphNUNxWkRPblVnWWtqZTRmT1dmZDhMeW9BbWNqci1CazBmeDk1cHJWMUdOUWhCdWpRUno2a1RzSU03Y21ZSkRMM0swbi1ROE53ekRMTkUzSTRhbGNIVmpadUZfVlZqX09GNk8waTZPRkktTldfSW92cHYtRjk2RjBfS3hjN1pyRDMyekpLZjNHdXJzaVdsdU9VOEQ5a0ZLNWtnUXFTTQ?oc=5",
-      "asOf": "2026-10-09 07:29 北京时间"
+      "asOf": "2026-10-09T07:29:00+08:00"
     },
     {
-      "title": "新闻 · Reuters · S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
+      "title": "标普 500 与纳斯达克收跌，油价上升、芯片股承压",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-      "asOf": "2026-10-09 07:09 北京时间"
+      "asOf": "2026-10-09T07:09:00+08:00"
     },
     {
-      "title": "新闻 · AP News · Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
-      "asOf": "2026-10-09 04:41 北京时间"
-    },
-    {
-      "title": "新闻 · Reuters · Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
+      "title": "数据中心灵活用电能否扩大应用、节省电网成本？",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
-      "asOf": "2026-10-09 02:57 北京时间"
+      "asOf": "2026-10-09T02:57:00+08:00"
     },
     {
-      "title": "新闻 · Reuters · Why EV sales are lukewarm in America, but hot in Europe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajRUTl9xbW4wSDZYc1hpcEZZczJfa3ZXWXN2UF94THlDNVNvWlYwUTBqOTI5YUp6V2hhWUZHaHU0NXJFMkNkMXkxS1F4WjY3Z1gyU3FZQUctUnVQeDUyMy1BTG02WThsMlQ0eXVHazFZOEpLUW52cmVfTlZSSkdsTVJFLV84M3Q0VTN6VWExXzQ5bU1FWVkwUUlkSTQxMGhmSDVkN2tHWGVUZlFBM2ZZ?oc=5",
-      "asOf": "2026-10-09 02:08 北京时间"
-    },
-    {
-      "title": "新闻 · AP News · UK arrest 2 Latvians inside perimeter of RAF base housing U.S., NATO intelligence operations - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWoyRGZwYmxNNFNLTnFxZFN6d3N0Vk1QXzF4czFrMVVwSnBDa3Z2VllzS19Nd3FqNTZZUW12N2NXbk52em40Y2U3SE96VjBZcVo4eHROdFNMVU9CbEtHT2hiZXJVbkM3bno3NTlJdXZJM0lwR0pjakh1akdPQkYwS0dDSHh6TUI1bW5HVXZsYWpkcnpBSWc?oc=5",
-      "asOf": "2026-10-09 01:08 北京时间"
-    },
-    {
-      "title": "新闻 · Reuters · UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings - Reuters",
+      "title": "英国支持的组织在 IMF 和世界银行会议前发布私人债权人债务重组指南",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUFJVXNuU1NsdVBNTkNtZGZHeXFwRXB6ZGlZdkVRY1lXX3pwa0VVM1V4M0o3UmdRQkt1SGtuMS1fV1hDOEZlWThSV0ZWM2FZRHRHUTlNMzVzY1pQYjFTM1lEeTg4TVFjcWFxNjJMOGoxd0UxWXFtazJKMnl2MlJkNUliMFU0aGxBMVRYdU1DeGllNzk3ZklmQzE1MkVwVFpMaGNhZEdWZHZNYUtXbEhzUEQ1TVNHSDNtM0JETzZQMGZLc3AydVFrY1h3?oc=5",
-      "asOf": "2026-10-09 01:07 北京时间"
+      "asOf": "2026-10-09T01:07:00+08:00"
     },
     {
-      "title": "新闻 · Reuters · High gasoline prices drive EV sales surge in the Philippines - Reuters",
+      "title": "路透社报道：高汽油价格推动菲律宾电动车销售增长",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnRiRDZMYXY5YkpoU1VFSHB3Q1BJNF9ydTVDdTBSTUZTekxLNjFCVElmNDdycVFNUXlmcy1QbWY2aXUtQm1MYi1oV2dRTUE2aDNBdEVPdEJkekZUYVRuQUNiR1I0WjFjWUlvQ1NOZ1owUjRrYmNSZ1VqSWlHQ280U1VyUTZSWjZKVU5UYWVlUFVKNTN5VmVlX0JfS19Ta2dob2c0eWpHV1g?oc=5",
-      "asOf": "2026-10-08 20:35 北京时间"
+      "asOf": "2026-10-08T20:35:00+08:00"
     },
     {
-      "title": "新闻 · Reuters · France's Credit Agricole to expand in Germany with retail business - Reuters",
+      "title": "法国农业信贷银行拟以零售银行业务拓展德国市场",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVlFQ3pTdF9FMUU0UGhXY0hiWkl3ZDNId1ZsZkNzU1BTOTF4U1J5cEJWWGlwelhPR0lzT1k4YkpXekx6UTBxaU9xZEpCXzEwZV9pUnlqYjlVbXdwRHJwN1FZVzF2WnVLYkNhVXVHRHNHczB4UHRGT0VaQzMyRnlCTDRmYktFQzB0d1d5MG9INDQ4bkdwMjVpS091U004emJZVGNPaUpnOC15b3RVSjd2cXB3?oc=5",
-      "asOf": "2026-10-08 19:54 北京时间"
+      "asOf": "2026-10-08T19:54:00+08:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
+      "originalTitle": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5",
+      "published": "2026-10-09T08:05:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "美国政府称，多数 Medicare Advantage 药物计划参保者参加高评级计划",
+      "originalTitle": "Most Medicare Advantage drug plan enrollees in high-quality plans, US government says - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmF2T01aTW5nVk9iVW9tdXhNSUFRSWltdDk1OE9VOElISGMyc2J3cVlSUTRRbE5BVEplZ3NDa1g5QnphNUNxWkRPblVnWWtqZTRmT1dmZDhMeW9BbWNqci1CazBmeDk1cHJWMUdOUWhCdWpRUno2a1RzSU03Y21ZSkRMM0swbi1ROE53ekRMTkUzSTRhbGNIVmpadUZfVlZqX09GNk8waTZPRkktTldfSW92cHYtRjk2RjBfS3hjN1pyRDMyekpLZjNHdXJzaVdsdU9VOEQ5a0ZLNWtnUXFTTQ?oc=5",
+      "published": "2026-10-09T07:29:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "标普 500 与纳斯达克收跌，油价上升、芯片股承压",
+      "originalTitle": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+      "published": "2026-10-09T07:09:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "数据中心灵活用电能否扩大应用、节省电网成本？",
+      "originalTitle": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
+      "published": "2026-10-09T02:57:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "英国支持的组织在 IMF 和世界银行会议前发布私人债权人债务重组指南",
+      "originalTitle": "UK-backed group issues private lenders' debt rework guide ahead of IMF World Bank meetings - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUFJVXNuU1NsdVBNTkNtZGZHeXFwRXB6ZGlZdkVRY1lXX3pwa0VVM1V4M0o3UmdRQkt1SGtuMS1fV1hDOEZlWThSV0ZWM2FZRHRHUTlNMzVzY1pQYjFTM1lEeTg4TVFjcWFxNjJMOGoxd0UxWXFtazJKMnl2MlJkNUliMFU0aGxBMVRYdU1DeGllNzk3ZklmQzE1MkVwVFpMaGNhZEdWZHZNYUtXbEhzUEQ1TVNHSDNtM0JETzZQMGZLc3AydVFrY1h3?oc=5",
+      "published": "2026-10-09T01:07:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "路透社报道：高汽油价格推动菲律宾电动车销售增长",
+      "originalTitle": "High gasoline prices drive EV sales surge in the Philippines - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnRiRDZMYXY5YkpoU1VFSHB3Q1BJNF9ydTVDdTBSTUZTekxLNjFCVElmNDdycVFNUXlmcy1QbWY2aXUtQm1MYi1oV2dRTUE2aDNBdEVPdEJkekZUYVRuQUNiR1I0WjFjWUlvQ1NOZ1owUjRrYmNSZ1VqSWlHQ280U1VyUTZSWjZKVU5UYWVlUFVKNTN5VmVlX0JfS19Ta2dob2c0eWpHV1g?oc=5",
+      "published": "2026-10-08T20:35:00+08:00",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "法国农业信贷银行拟以零售银行业务拓展德国市场",
+      "originalTitle": "France's Credit Agricole to expand in Germany with retail business - Reuters",
+      "publisher": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVlFQ3pTdF9FMUU0UGhXY0hiWkl3ZDNId1ZsZkNzU1BTOTF4U1J5cEJWWGlwelhPR0lzT1k4YkpXekx6UTBxaU9xZEpCXzEwZV9pUnlqYjlVbXdwRHJwN1FZVzF2WnVLYkNhVXVHRHNHczB4UHRGT0VaQzMyRnlCTDRmYktFQzB0d1d5MG9INDQ4bkdwMjVpS091U004emJZVGNPaUpnOC15b3RVSjd2cXB3?oc=5",
+      "published": "2026-10-08T19:54:00+08:00",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
-    "indicatorCount": 8,
-    "news24hCount": 10,
-    "radarCount": 4,
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 7,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
     "staleIndicators": [],
-    "unavailableIndicators": [],
-    "unavailableNewsSources": []
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError"
+    ]
   }
 }

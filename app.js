@@ -1,7 +1,7 @@
 'use strict';
 const byId = id => document.getElementById(id);
 const make = (tag, className, value) => {const el=document.createElement(tag); if(className)el.className=className; if(value !== undefined)el.textContent=String(value); return el;};
-let report, current = 0, startX = null;
+let report, current = 0;
 const safeURL = value => {try{const u=new URL(value); return u.protocol==='https:' ? u.href : null;}catch{return null;}};
 function listBlock(block, holder) {
   const list=make('ul','bullets'); (block.items||[]).forEach(item => list.append(make('li','',item))); holder.append(list);
@@ -63,9 +63,7 @@ function loadHistory(){
 }
 function go(index,scroll=true){if(!report)return;current=Math.max(0,Math.min(index,report.pages.length-1));const tabs=[...byId('tabs').children];[...byId('pages').children].forEach((p,i)=>{p.hidden=i!==current;tabs[i].setAttribute('aria-selected',String(i===current));});tabs[current].scrollIntoView({block:'nearest',inline:'nearest'});byId('progress-label').textContent=String(current+1).padStart(2,'0')+' / '+String(report.pages.length).padStart(2,'0');byId('progress-fill').style.width=((current+1)/report.pages.length*100)+'%';byId('previous').disabled=current===0;byId('next').disabled=current===report.pages.length-1;history.replaceState(null,'','#'+report.pages[current].id);if(scroll)window.scrollTo({top:0,behavior:'smooth'});}
 byId('previous').addEventListener('click',()=>go(current-1));byId('next').addEventListener('click',()=>go(current+1));
-byId('pages').addEventListener('touchstart',event=>{startX=event.touches[0]?.clientX??null;},{passive:true});
-byId('pages').addEventListener('touchend',event=>{if(startX===null)return;const diff=(event.changedTouches[0]?.clientX??startX)-startX;startX=null;if(Math.abs(diff)>75)go(current+(diff<0?1:-1));},{passive:true});
-document.addEventListener('keydown',event=>{if(event.key==='ArrowRight')go(current+1);if(event.key==='ArrowLeft')go(current-1);});
+document.addEventListener('keydown',event=>{if(event.target.closest('input,textarea,select,button,a,[contenteditable]'))return;if(event.key==='ArrowRight')go(current+1);if(event.key==='ArrowLeft')go(current-1);});
 const params=new URLSearchParams(location.search), requestedDate=params.get('date'), requestedPreview=params.get('preview');
 const validDate=value=>/^\d{4}-\d{2}-\d{2}$/.test(value||'');
 const reportPath=validDate(requestedPreview)?'preview/'+requestedPreview+'.json':validDate(requestedDate)?'archive/'+requestedDate+'.json':'report.json';
