@@ -43,7 +43,23 @@ def extract(document):
 
 def retrieve(event, now):
     url = event['url']
-    # Google index pages and unknown redirects cannot be treated as article evidence.
+    # A news index is only a locator: find a publisher article before extraction.
+    index = urllib.parse.urlsplit(url)
+    if index.scheme == 'https' and index.hostname == 'news.google.com' and index.path.startswith('/rss/articles/'):
+        with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'}), timeout=15) as response:
+            final = response.geturl()
+            if trusted(final):
+                url = final
+            else:
+                if urllib.parse.urlsplit(final).hostname != 'news.google.com':
+                    return dict(event)
+                document = response.read(2_000_000).decode('utf-8', errors='replace')
+                candidates = re.findall(r'href=[\"\'](https://[^\"\']+)[\"\']', document)
+                candidates = [u for u in candidates if trusted(u) and len(urllib.parse.urlsplit(u).path) > 10]
+                if len(set(candidates)) != 1:
+                    return dict(event)
+                url = candidates[0]
+    # Unknown publishers cannot be treated as article evidence.
     if not trusted(url):
         return dict(event)
     request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 FinanceMorningBrief'})

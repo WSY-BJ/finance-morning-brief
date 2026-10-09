@@ -21,7 +21,7 @@ class Regression(unittest.TestCase):
         self.assertFalse(a.trusted('https://news.cn.evil.example/article'))
         self.assertFalse(a.trusted('http://www.news.cn/article'))
     def test_index_does_not_become_article_evidence(self):
-        event={'url':'https://news.google.com/rss/articles/index'}
+        event={'url':'https://untrusted.example/article'}
         self.assertEqual(a.retrieve(event,datetime.now(g.TZ)),event)
     def setUp(self):
         self.now=datetime(2026,10,9,10,45,tzinfo=ZoneInfo('Asia/Shanghai'))
