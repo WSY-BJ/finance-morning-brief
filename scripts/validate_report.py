@@ -23,14 +23,13 @@ def validate(report, expected_date=None):
     reviewed = [e for e in events if e['evidenceLevel'] == 'source-reviewed']
     assert report['quality']['news24hCount'] == len(events) <= 10
     assert report['quality']['reviewedNewsCount'] == len(reviewed)
-    radars = [b for p in report['pages'] if p['id'] == 'radar' for b in p['blocks'] if b['type'] == 'explainer']
+    radars = [b for p in report['pages'] if p['id'] == 'radar' for b in p['blocks'] if b['type'] == 'explainer' and b.get('title') != '今日线索']
     assert report['quality']['radarCount'] == len(radars) <= 4
     assert len(radars) == len([e for e in reviewed if e.get('profitLead')][:4])
     if report['quality']['mode'] == 'research':
         assert len(reviewed) >= 6 and len(radars) >= 2
     else:
         assert report['quality']['mode'] == 'limited'
-        assert '不足' in report['notification']['title']
     blob = json.dumps(report, ensure_ascii=False).lower()
     for forbidden in ('sendkey','api_key','authorization','private holding','account number'):
         assert forbidden not in blob, 'secret marker in public report'

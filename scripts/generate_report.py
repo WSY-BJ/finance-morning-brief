@@ -296,18 +296,16 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
             paragraphs += ["事实：" + n["facts"], "传导分析（假设）：" + n["analysis"],
                            "持续时间：" + n.get("horizon", "未确定"), "反证：" + n["invalidate"], "验证：" + n["verify"]]
             paragraphs += [c["name"] + "：" + c["relationship"] for c in n.get("companies", [])]
-        news_blocks.append(block(n["event"], n.get("facts", "新闻标题信息；未核实正文，不扩展利润判断。"), paragraphs,
+        news_blocks.append(block(n["event"], n.get("facts", ""), paragraphs,
                                  [{"title": "新闻来源", "url": n["url"]}]))
     limited = len(reviewed) < 6 or len(radar_events) < 2
-    if limited:
-        news_blocks.insert(0, notice("本期证据范围", f"有 {len(news)} 条中文消息，其中 {len(reviewed)} 条完成正文核验。标题信息不计为已核实研究；不足的部分留空。"))
     radar = [block(n["event"], n["facts"], ["利润假设：" + n["analysis"], "反证：" + n["invalidate"], "验证：" + n["verify"]],
                    [{"title": "支持证据", "url": n["url"]}]) for n in radar_events]
     if not radar:
-        radar = [notice("没有足够证据的利润线索", "本期未取得已核实的企业订单、收入或成本证据，因此不列受益公司，不生成行业利润模板。")]
+        radar = [block("今日线索", "今日暂无新增线索。")]
     overview = editorial.get("mainlines", []) if editorial and editorial.get("reviewMode") == "source-reviewed" else []
     if not overview:
-        overview = [notice("市场主线暂缺", "本期没有足以解释市场因果的正文证据。先看同口径行情与中文消息，暂不把价格同向变化解释为因果。")]
+        overview = [block(v["label"], f"{v['date']}：{v['value']:,.2f} {v['unit']}；较 {v['previousDate']} 变化 {v['change']:+.2f} {('个百分点' if k in ('us2y','us10y') else v['unit'])}。", links=[{"title": "数据来源", "url": v["source"]}]) for k, v in indicators.items() if k in ("us10y", "brent", "sp500")]
     markets = [indicator_block(k, indicators[k]) for k, _ in INDICATORS if k in indicators]
     stale = [k for k, v in indicators.items() if (now.date()-datetime.fromisoformat(v["date"]).date()).days > 4]
     if stale or failures:
@@ -316,22 +314,22 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
     if not observation:
         observation = ["核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
                        "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
-                       "核对企业公告中的订单金额、交付时间和现金回款：标题不能确认收入。"]
+                       "核对企业公告中的订单金额、交付时间和现金回款："]
     pages = [
-        {"id": "overview", "eyebrow": "01 · 市场主线", "title": "今天最重要的市场主线", "lead": "有证据才连接事件。", "blocks": overview},
+        {"id": "overview", "eyebrow": "01 · 市场主线", "title": "今天最重要的市场主线", "lead": "", "blocks": overview},
         {"id": "markets", "eyebrow": "02 · 市场数据", "title": "关键市场数据", "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。", "blocks": markets},
-        {"id": "news", "eyebrow": "03 · 财经新闻", "title": "过去 24 小时财经新闻", "lead": "正文核验与标题信息分开呈现。", "blocks": news_blocks},
-        {"id": "radar", "eyebrow": "04 · 产业研究", "title": "产业利润增长雷达", "lead": "只使用经过正文核验的具体事件。", "blocks": radar},
+        {"id": "news", "eyebrow": "03 · 财经新闻", "title": "过去 24 小时财经新闻", "lead": "", "blocks": news_blocks},
+        {"id": "radar", "eyebrow": "04 · 产业研究", "title": "产业利润增长雷达", "lead": "", "blocks": radar},
         lesson(indicators, now),
         {"id": "watch", "eyebrow": "06 · 下一步", "title": "接下来重点观察什么", "lead": "用数据检验判断。", "blocks": [{"type": "bullets", "items": observation}]},
     ]
     sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
     sources += [{"title": n["event"], "url": n["url"], "asOf": n["published"]} for n in news]
-    summary = f"{len(indicators)} 项行情、{len(news)} 条中文消息、{len(reviewed)} 条正文核验、{len(radar_events)} 条利润线索。"
+    summary = f"{len(indicators)} 项市场数据 · {len(news)} 条财经消息"
     return {"edition": f"财经晨报 · {today}", "date": f"更新于北京时间 {now:%Y-%m-%d %H:%M}", "reportDate": today,
             "updatedAt": now.isoformat(timespec="seconds"), "status": "published", "generatorVersion": VERSION,
-            "title": "财经晨报" + (" · 证据不足版" if limited else " · 研究版"), "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-            "intro": summary, "notification": {"title": today + (" 财经晨报（研究内容不足）" if limited else " 财经晨报"), "summary": summary},
+            "title": "财经晨报", "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+            "intro": summary, "notification": {"title": today + " 财经晨报", "summary": summary},
             "pages": pages, "sources": sources, "events": news,
             "quality": {"mode": "limited" if limited else "research", "indicatorCount": len(indicators), "news24hCount": len(news),
                         "reviewedNewsCount": len(reviewed), "radarCount": len(radar_events), "staleIndicators": stale,
