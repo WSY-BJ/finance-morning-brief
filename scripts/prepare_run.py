@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Decide whether this Beijing edition needs generation or deployment."""
+import hashlib
 import json
 import os
 import urllib.request
@@ -18,7 +19,7 @@ if not generate:
     quality = report.get("quality", {})
     # An incomplete edition is not a successful daily run. Retry collection on
     # the next cron, without touching the existing notification claim.
-    generate = quality.get("news24hCount", 0) < 6 or quality.get("radarCount", 0) < 2
+    generate = report.get("generatorVersion") != 3
     if not generate:
         (root / "report.json").write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
 
@@ -27,7 +28,11 @@ try:
     url = os.environ["SITE_URL"].rstrip("/") + "/report.json?check=" + str(int(datetime.now().timestamp()))
     with urllib.request.urlopen(urllib.request.Request(url, headers={"Cache-Control": "no-cache"}), timeout=12) as response:
         data = json.load(response)
-    live = data.get("reportDate") == today and data.get("status") == "published"
+    live = data == json.loads((root / "report.json").read_text())
+    if live:
+        for asset in ("app.js", "style.css", "index.html", "archive/index.json"):
+            with urllib.request.urlopen(os.environ["SITE_URL"].rstrip("/") + "/" + asset + "?check=" + str(int(datetime.now().timestamp())), timeout=12) as response:
+                live = live and hashlib.sha256(response.read()).digest() == hashlib.sha256((root / asset).read_bytes()).digest()
 except (OSError, ValueError):
     pass
 deploy = generate or not live

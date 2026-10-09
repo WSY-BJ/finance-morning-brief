@@ -31,11 +31,15 @@ def yahoo(symbol: str, label: str, unit: str) -> dict:
     url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=10d&interval=1d"
     result = json.loads(fetch(url))["chart"]["result"][0]
     q = result["indicators"]["quote"][0]
-    rows = [(datetime.fromtimestamp(ts, timezone.utc).date().isoformat(), float(v)) for ts, v in zip(result["timestamp"], q["close"]) if v is not None]
+    exchange_tz = ZoneInfo(result.get("meta", {}).get("exchangeTimezoneName", "UTC"))
+    current_day = datetime.now(exchange_tz).date()
+    rows = [(datetime.fromtimestamp(ts, exchange_tz).date().isoformat(), float(v))
+            for ts, v in zip(result["timestamp"], q["close"])
+            if v is not None and datetime.fromtimestamp(ts, exchange_tz).date() < current_day]
     if len(rows) < 2:
         raise ValueError(f"{label}: insufficient observations")
     (previous_date, previous), (date, value) = rows[-2:]
-    return {"label": label, "value": value, "unit": unit, "date": date, "previousDate": previous_date,
+    return {"label": label, "value": value, "unit": unit, "date": date, "previousDate": previous_date, "previousValue": previous,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
             "source": "https://finance.yahoo.com/quote/" + urllib.parse.quote(symbol, safe="") + "/", "provider": "Yahoo Finance"}
 
@@ -46,7 +50,7 @@ def fred(series: str, label: str, unit: str) -> dict:
     if len(rows) < 2:
         raise ValueError(f"{series}: insufficient observations")
     (previous_date, previous), (date, value) = rows[-2:]
-    return {"label": label, "value": value, "unit": unit, "date": date, "previousDate": previous_date,
+    return {"label": label, "value": value, "unit": unit, "date": date, "previousDate": previous_date, "previousValue": previous,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
             "source": "https://fred.stlouisfed.org/series/" + series, "provider": "FRED / 原始发布机构"}
 
@@ -64,7 +68,7 @@ def treasury(year_month: str, term: str, label: str) -> dict:
     if len(rows) < 2:
         raise ValueError("Treasury CSV has insufficient observations")
     (previous_date, previous), (date, value) = rows[-2:]
-    return {"label": label, "value": value, "unit": "%", "date": date, "previousDate": previous_date,
+    return {"label": label, "value": value, "unit": "%", "date": date, "previousDate": previous_date, "previousValue": previous,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
             "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates", "provider": "美国财政部"}
 
@@ -100,29 +104,13 @@ def spot_gold() -> dict:
         rows = []
     if len(rows) < 2:
         try:
-            return xaus_gold()
+            raise ValueError("No comparable daily spot closes available")
         except (ValueError, KeyError, OSError):
             return yahoo("XAUUSD=X", "现货黄金 XAU/USD", "美元/盎司")
     (previous_date, previous), (date, value) = rows[-2:]
-    return {"label": "现货黄金 XAU/USD", "value": value, "unit": "美元/盎司", "date": date, "previousDate": previous_date,
+    return {"label": "现货黄金 XAU/USD", "value": value, "unit": "美元/盎司", "date": date, "previousDate": previous_date, "previousValue": previous,
             "change": value - previous, "changePct": (value / previous - 1) * 100,
             "source": "https://stooq.com/q/?s=xauusd", "provider": "Stooq"}
-
-
-def xaus_gold() -> dict:
-    spot = json.loads(fetch("https://xaus.com/api/v1/spot?compact=1"))
-    as_of = datetime.fromisoformat(spot["price_as_of"].replace("Z", "+00:00"))
-    if spot.get("data_state", {}).get("status") == "unavailable" or (datetime.now(timezone.utc) - as_of).total_seconds() > 36 * 3600:
-        raise ValueError("gold spot quote stale")
-    value = float(spot["spot_usd_oz"])
-    history = json.loads(fetch("https://xaus.com/api/v1/history"))
-    dates = [(point["d"], float(point["c"])) for point in history["points"] if point["d"] < as_of.date().isoformat() and point.get("c")]
-    if not dates:
-        raise ValueError("gold spot previous close unavailable")
-    previous_date, previous = max(dates)
-    return {"label": "现货黄金 XAU/USD（参考报价）", "value": value, "unit": "美元/盎司", "date": as_of.date().isoformat(),
-            "previousDate": previous_date, "change": value - previous, "changePct": (value / previous - 1) * 100,
-            "source": "https://xaus.com/api/", "provider": "XAUS · 指示性现货中间价"}
 
 
 INDICATORS = [
@@ -152,232 +140,202 @@ def collect_indicators() -> tuple[dict, dict]:
     return found, failures
 
 
-# Each RSS title is treated only as evidence for the event it actually states.
-# Sector and margin effects below are conditional research questions, never asserted outcomes.
-TOPICS = [
-    ("AI 与半导体", re.compile(r"\b(ai|artificial intelligence|chip|semiconductor|data center|gpu|memory|hbm)\b", re.I),
-     "若订单和实际交付增加，芯片、存储、光模块及服务器环节可能先确认收入；电力和制冷订单通常更靠后。云服务还需证明算力支出能转为付费收入。", "季度订单、资本开支、毛利率与云业务收入", "英伟达 NVDA、台积电 TSM、工业富联 601138、阿里巴巴 9988"),
-    ("汽车与新能源", re.compile(r"\b(ev|electric vehicle|battery|solar|vehicle|automaker|renewable)\b", re.I),
-     "销量增长只有在售价与电池、原料成本相匹配时才改善利润；降价抢份额会挤压整车厂和部分供应商的毛利率。", "交付量、单车售价、库存和电池报价", "比亚迪 002594/1211、特斯拉 TSLA、宁德时代 300750"),
-    ("能源与材料", re.compile(r"\b(oil|crude|gas|copper|steel|energy|power|lithium)\b", re.I),
-     "原料价格提高上游单位收入，却增加下游采购成本；净利润取决于长协、套期保值、产量和转嫁成本的能力。", "现货与长协价格、库存、产量和下游毛利率", "中国海油 600938/0883、埃克森美孚 XOM、紫金矿业 601899/2899"),
-    ("消费与医药", re.compile(r"\b(retail|consumer|drug|pharma|medicine|healthcare|shop price|product sales)\b", re.I),
-     "需求增长可能推高销量，但折扣、渠道费用和研发投入会影响最终利润，不能仅凭销售额判断。", "同店销售、销量、费用率和现金流", "贵州茅台 600519、美团 3690、礼来 LLY"),
-    ("贸易与制造", re.compile(r"\b(tariff|trade|export|manufactur|industrial|supply chain)\b", re.I),
-     "出口或订单增长可能摊薄固定成本；关税、汇率和海外建厂支出则可能抵消收入增量。", "出口数量、订单积压、关税细则与产能利用率", "美的集团 000333/0300、卡特彼勒 CAT、立讯精密 002475"),
-    ("宏观与金融", re.compile(r"\b(fed|central bank|interest rate|inflation|employment|bank|housing|property)\b", re.I),
-     "利率或政策变化会影响融资成本和估值；企业盈利是否改善，还需看需求、坏账和真实现金流。", "政策原文、收益率、贷款与财报", "工商银行 601398/1398、摩根大通 JPM、沪深300 ETF 510300"),
+# No headline-to-sector inference and no automatic company recommendations.
+# A reviewed edition may be provided in editorial/YYYY-MM-DD.json. The review
+# gate below checks provenance; semantic review is still a human responsibility.
+import html
+import hashlib
+
+VERSION = 3
+CHINESE_QUERIES = [
+    "site:news.cn 经济 财经 when:1d", "site:cnstock.com 公司 公告 when:1d",
+    "site:stcn.com 财经 产业 when:1d", "site:gov.cn 经济 政策 when:1d",
 ]
-
-FEEDS = [
-    ("美联储", "https://www.federalreserve.gov/feeds/press_all.xml"),
-    ("美国证监会", "https://www.sec.gov/news/pressreleases.rss"),
-    ("美国能源信息署", "https://www.eia.gov/rss/todayinenergy.xml"),
-    ("欧洲央行", "https://www.ecb.europa.eu/rss/press.html"),
-]
-NEWS_QUERIES = [
-    "site:reuters.com/business/ economy when:1d",
-    "site:reuters.com/business/ technology when:1d",
-    "site:reuters.com/business/ energy when:1d",
-    "site:reuters.com/business/ autos when:1d",
-    "site:reuters.com/business/ healthcare when:1d",
-    "site:reuters.com/business/ retail when:1d",
-    "site:reuters.com/business/ trade when:1d",
-    "site:apnews.com/article/ economy when:1d",
-    "site:apnews.com/article/ business when:1d",
-    "site:apnews.com/article/ technology when:1d",
-]
-TRUSTED_PUBLISHERS = re.compile(r"^(Reuters|Associated Press|AP News|Bloomberg|Financial Times|CNBC|Nikkei Asia|The Wall Street Journal|美联储|美国证监会|美国能源信息署|欧洲央行)$", re.I)
-WEAK_HEADLINES = re.compile(r"\b(opinion|commentary|breakingviews|column|explainer|podcast|what you need to know|stocks? trade|stocks fall|shares to open|market to 20\d\d|forecast to 20\d\d|is .+ becoming|could .+ be|bets on|bubble|wild card|padres|cubs|football|basketball|celtics|nba|nhl|hockey|power rankings|baseball|study says|industry - AP News|J\.?P\.? Morgan says|founder LLC|orange order|pyrotechnics factory|evicted|sleep in a car|pope|doom scenarios)\b", re.I)
-RADAR_SIGNAL = re.compile(r"\b(orders?|deliveries|shipments|exports?|invests?|capacity|production|sales|revenue|margin|standards|capital spending|capex|projects?|plants?)\b", re.I)
-RADAR_NEGATIVE = re.compile(r"\b(idle|idles|idled|shutdown|closure|closes|layoffs?|bankrupt|lawsuit|sues|court|litigation|buyback|share repurchase)\b", re.I)
+FEEDS = [("中文新闻索引", "https://news.google.com/rss/search?" + urllib.parse.urlencode(
+    {"q": q, "hl": "zh-CN", "gl": "CN", "ceid": "CN:zh-Hans"})) for q in CHINESE_QUERIES]
+TRUSTED = re.compile(r"新华社|新华网|中国政府网|证券时报|上海证券报|中国证券网")
 
 
-def event_context(title: str) -> str:
-    """Explain the headline's evidence level without inventing the article body."""
-    if re.search(r"\b(idle|idles|idled|shutdown|closure)\b", title, re.I):
-        return "减产或停产可能减少销量，并使固定成本分摊到更少产品；同时核对停产期限和行业供给是否收缩。"
-    if re.search(r"\b(lawsuit|court|sues|litigation)\b", title, re.I):
-        return "诉讼可能带来赔偿或合规成本，但仍需核对案件阶段、金额和最终裁决，不能先记作已发生损失。"
-    if re.search(r"\b(seen|expected|forecast|planned)\b", title, re.I):
-        return "这是预期或计划，不是已确认的交付或利润；核对正式统计、合同和投产时间。"
-    if re.search(r"\b(invests?|project|plant|capex)\b", title, re.I):
-        return "投资或建厂先形成资本支出和现金流出；只有项目投产、取得订单并收回货款后才可能增加利润。"
-    if re.search(r"\b(inflation slows|price inflation slows)\b", title, re.I):
-        return "价格涨幅放缓不等于价格下降；零售商的利润还取决于销量、采购成本和促销力度。"
-    if re.search(r"\b(unveils|launches|announces)\b", title, re.I):
-        return "发布产品或项目还不是确认收入；后续看订单、交付、价格和研发费用。"
-    return "标题只说明事件发生；具体规模、合同和财务影响须打开原文与公司公告核对。"
+def plain(value):
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", value or "")).split())
 
 
-def parse_feed(name: str, url: str) -> list[dict]:
-    root = ET.fromstring(fetch(url))
+def parse_feed(name, url):
     items = []
-    for el in root.findall(".//item"):
-        title = " ".join((el.findtext("title") or "").split())
-        link = (el.findtext("link") or "").strip()
-        raw_date = el.findtext("pubDate") or ""
+    for el in ET.fromstring(fetch(url)).findall(".//item"):
         try:
-            published = parsedate_to_datetime(raw_date).astimezone(timezone.utc)
+            published = parsedate_to_datetime(el.findtext("pubDate") or "")
+            if published.tzinfo is None:
+                continue
+            publisher = el.findtext("source") or name
+            title = plain(el.findtext("title"))
+            link = el.findtext("link") or ""
+            # Index descriptions often only repeat the title. They are not article bodies.
+            if TRUSTED.search(publisher) and re.search(r"[\u4e00-\u9fff]", title) and link.startswith("https://"):
+                items.append({"event": title, "published": published.isoformat(),
+                              "publisher": publisher, "url": link, "evidenceLevel": "headline-only",
+                              "originalTitle": title})
         except (ValueError, TypeError):
             continue
-        if title and link.startswith("https://"):
-            source = el.find("source")
-            items.append({"title": title, "url": link, "published": published, "publisher": source.text if source is not None and source.text else name})
     return items
 
 
-def collect_news(now: datetime) -> tuple[list[dict], list[str]]:
-    endpoints = FEEDS + [("Google 新闻索引", "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": "en-US", "gl": "US", "ceid": "US:en"})) for q in NEWS_QUERIES]
-    articles, errors, source_counts = [], [], {}
-    with ThreadPoolExecutor(max_workers=len(endpoints)) as pool:
-        jobs = {pool.submit(parse_feed, name, url): name for name, url in endpoints}
-        for future in as_completed(jobs):
+def select_facts(items, now):
+    selected, seen = [], set()
+    for item in sorted(items, key=lambda n: n["published"], reverse=True):
+        date = datetime.fromisoformat(item["published"])
+        key = re.sub(r"\W+", "", item["event"]).lower()
+        if date.tzinfo is None or not now - timedelta(hours=24) <= date <= now:
+            continue
+        if key in seen or item["url"] in seen:
+            continue
+        seen.update((key, item["url"]))
+        selected.append(item)
+    return selected[:10]
+
+
+def collect_news(now):
+    items, errors = [], []
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        jobs = {pool.submit(parse_feed, name, url): name for name, url in FEEDS}
+        for job in as_completed(jobs):
             try:
-                batch = future.result()
-                source_counts[jobs[future]] = source_counts.get(jobs[future], 0) + len(batch)
-                articles.extend(batch)
+                items.extend(job.result())
             except Exception as exc:
-                errors.append(jobs[future] + ": " + type(exc).__name__)
-    cutoff = now.astimezone(timezone.utc) - timedelta(hours=24)
-    latest = [a for a in articles if cutoff <= a["published"] <= now.astimezone(timezone.utc) + timedelta(minutes=10)]
-    seen, selected, counts = set(), [], {}
-    for item in sorted(latest, key=lambda x: (x["publisher"] == "Google 新闻索引", -x["published"].timestamp())):
-        normalized = re.sub(r"\W+", "", item["title"].lower())[:90]
-        if normalized in seen or not TRUSTED_PUBLISHERS.search(item["publisher"]) or WEAK_HEADLINES.search(item["title"]):
-            continue
-        seen.add(normalized)
-        topic = next((t for t in TOPICS if t[1].search(item["title"])), None)
-        if not topic or counts.get(topic[0], 0) >= 2:
-            continue
-        counts[topic[0]] = counts.get(topic[0], 0) + 1
-        selected.append((item, topic))
-        if len(selected) == 10:
-            break
-    print(f"News collection: parsed={len(articles)}, within_24h={len(latest)}, selected={len(selected)}, feed_counts={source_counts}, errors={errors}")
-    # A news shortage is visible in the report. Never backfill old stories as "past 24 hours".
-    return [{"event": item["title"], "published": item["published"].astimezone(TZ).strftime("%Y-%m-%d %H:%M 北京时间"),
-             "publisher": item["publisher"], "url": item["url"], "topic": topic[0],
-             "why": event_context(item["title"]),
-             "mechanism": topic[2], "horizon": "具体持续时间需由后续订单和财报验证；单条新闻不能证明趋势。",
-             "verify": topic[3]} for item, topic in selected], errors
+                errors.append(jobs[job] + ": " + type(exc).__name__)
+    return select_facts(items, now), errors
 
 
-def signed(value: float, digits: int = 2) -> str:
-    return f"{value:+.{digits}f}".replace("-", "−")
+def load_editorial(now):
+    path = ROOT / "editorial" / (now.date().isoformat() + ".json")
+    if not path.exists():
+        return None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    assert data["reportDate"] == now.date().isoformat()
+    assert data["reviewMode"] in ("headline-translation", "source-reviewed")
+    return data
 
 
-def indicator_block(key: str, item: dict) -> dict:
-    direction = "上升" if item["change"] > 0 else "下降" if item["change"] < 0 else "持平"
-    movement = signed(item["change"]) + (" 个百分点" if key in ("us2y", "us10y") else " " + item["unit"])
-    explanations = {
-        "brent": "Brent 是国际原油定价参考。油价变化可能改变油企每桶收入，也会改变航空、化工及运输的燃料成本；利润还取决于销量、库存与能否转嫁成本。",
-        "us2y": "2 年期国债收益率是短期美元资金价格的重要参照。它上行会提高部分融资成本，利率敏感行业的估值也可能受影响。",
-        "us10y": "10 年期国债收益率常被用作长期资金定价参照。它上行时，远期利润折回今天的估值可能降低，但企业利润增长可能抵消这种影响。",
-        "dxy": "DXY 是美元相对一篮子主要货币的指数。美元走强可能影响人民币汇率、美元债成本及大宗商品报价，实际影响须看企业结算货币。",
-        "gold": "这里是真实现货黄金报价，不是黄金 ETF。金价会影响黄金矿企销售收入；矿山成本、产量、套保和汇率决定利润能否同步增长。",
-        "sp500": "标普 500 是美国大型上市公司指数。指数涨跌包含估值和盈利预期两部分，单日价格不能说明是哪一种在主导。",
-        "nasdaq": "纳斯达克综合指数包含较多科技企业。观察它时应同时核对盈利、资本开支与利率，不能直接把上涨等同于 AI 利润增长。",
-        "usdcny": "美元兑人民币数字上升表示一美元可兑换更多人民币。出口收入和进口成本可能同时变化，合同结算币种与套保安排决定净影响。",
-    }
-    return {"type": "explainer", "title": item["label"], "summary": f"{item['value']:,.2f} {item['unit']}；相对 {item['previousDate']} {direction} {movement}。",
-            "paragraphs": [f"数据日期 {item['date']}；来源：{item['provider']}。这是与上一个可用观测日的变化，遇到休市不等于严格的过去 24 小时。",
-                           "仅凭价格无法可靠判断这次变化的原因；需要对照同一时段的政策、供需和企业公告，当前不归因。" , explanations[key]],
-            "links": [{"title": "查看原始数据", "url": item["source"]}]}
+def validate_event(n, now):
+    assert re.search(r"[\u4e00-\u9fff]", n["event"]), "Chinese event title required"
+    date = datetime.fromisoformat(n["published"])
+    assert date.tzinfo and now - timedelta(hours=24) <= date <= now, "news outside 24h window"
+    assert n["url"].startswith("https://") and n.get("originalTitle")
+    if n.get("evidenceLevel") == "source-reviewed":
+        evidence = n.get("evidence", [])
+        assert evidence, "analysis needs article evidence"
+        for e in evidence:
+            assert e["url"].startswith("https://") and e.get("excerpt") and e.get("retrievedAt")
+        assert n.get("facts") and n.get("analysis") and n.get("verify") and n.get("invalidate")
+        for company in n.get("companies", []):
+            assert company.get("relationship") and company.get("evidenceIndex") in range(len(evidence))
+    else:
+        assert n.get("evidenceLevel") == "headline-only"
+        assert not any(n.get(k) for k in ("analysis", "companies", "profitLead")), "headline-only cannot support profit analysis"
 
 
-def radar_block(topic, evidence: list[dict]) -> dict:
-    name, _, mechanism, verify, samples = topic
-    first = evidence[0]
-    if name == "能源与材料" and re.search(r"\bsteel\b", first["event"], re.I):
-        samples = "宝钢股份 600019、鞍钢股份 0347、纽柯钢铁 NUE（钢铁同行与产业链对照，不代表参与该项目）"
-        verify = "项目投资公告、设备订单、建设进度、钢价和钢厂产能利用率"
-    if name == "汽车与新能源" and re.search(r"\bGotion\b", first["event"], re.I):
-        samples = "国轩高科 002074、比亚迪 1211、特斯拉 TSLA（项目主体及同业对照）"
-        verify = "项目公告、资金支出、量产计划、装机订单及电池毛利率"
-    chain = {
-        "AI 与半导体": "若订单成为实际交付，GPU 按芯片销售、HBM 存储按容量与售价、光模块和交换机按网络设备出货确认收入；服务器、电力与制冷仍需看建设验收。云服务及软件须把算力投入变成付费使用，否则资本开支先压现金流。",
-        "汽车与新能源": "电池厂可能通过新增装机量和产能利用率摊薄单位固定成本；若整车降价或原料涨价且合同无法转嫁，电池和整车毛利反而被挤压。新工厂先消耗现金，量产良率和稳定订单决定回收。",
-        "能源与材料": "钢铁项目可能给设备、工程及原材料供应商带来订单；新产能投放也可能压低现有钢厂售价，项目业主的利润须扣除建设成本、融资费用及开工后的折旧。",
-        "消费与医药": "销量和客单价共同决定收入；促销、采购与研发费用影响毛利和现金流。零售价涨幅放缓本身不等于新增利润，需有销量或成本改善的证据。",
-        "贸易与制造": "出口订单增加有助于摊薄工厂固定成本；若关税和海外建厂费用上升，利润未必同步增长，需按目的地和合同货币核对。",
-        "宏观与金融": "融资成本下降可能缓解企业利息开支，银行仍需核对净息差、坏账和贷款量；股价对政策的提前反映不能当作利润兑现。",
-    }[name]
-    return {"type": "explainer", "title": name + "：从消息追踪利润，而非追涨幅",
-            "summary": "当前线索来自过去 24 小时的公开消息；利润增长仍是假设，须检查原文和后续数据。",
-            "paragraphs": ["观察到的事实：" + first["event"] + "（" + first["published"] + "，" + first["publisher"] + "）。标题不提供完整数量和合同条件，不能把它直接写成新增利润。",
-                           "可能的收入、成本和利润传导：" + chain,
-                           "研究样本（A 股、港股、美股，供核查而非排名或推荐）：" + samples + "。价格是否已提前反映预期，单靠新闻不能可靠判断；应与估值和一致预期比较。",
-                           "反证与未来 1–4 周验证：若" + verify + "没有改善，或销量增加却伴随更大降价和费用，本线索应下调。关注 " + verify + "。"],
-            "links": [{"title": "本条线索原文", "url": first["url"]}]}
+def block(title, summary, paragraphs=(), links=()):
+    return {"type": "explainer", "title": title, "summary": summary,
+            "paragraphs": list(paragraphs), "links": list(links)}
 
 
-def lesson(indicators: dict) -> dict:
-    q = indicators.get("us10y")
-    example = (f"本期美国 10 年期国债收益率为 {q['value']:.2f}%（{q['date']}），相对前一观测日变动 {signed(q['change'])} 个百分点。" if q else "以美国 10 年期国债收益率为例；本期该数值未取得，暂不填写具体数字。")
-    return {"id": "lesson", "eyebrow": "05 · 每日一课", "title": "金融工程每日一课：折现", "lead": "一句话直觉：未来收到的钱，需要按时间和风险折算成今天的价值。",
-            "blocks": [{"type": "explainer", "title": "今天市场里的例子", "summary": example,
-                        "paragraphs": ["国债收益率可以作为资金价格的一项参照，企业未来现金流的折现率还包含风险补偿。收益率变动不会机械地等比例改变股价，因为利润预期也会变。",
-                                       "必要公式：现值 PV = FV ÷ (1+r)^n。PV 是今天的价值；FV 是 n 期后预计收到的钱；r 是每期折现率；n 是等待期数。",
-                                       "很短的练习：假设一年后确定收到 110 元，年折现率为 10%，今天值多少？答案：100 元，因为 110 ÷ 1.10 = 100。折现率越高，同一笔未来收入的今天价值越低。"]}]}
+def notice(title, text):
+    return {"type": "notice", "tone": "warning", "title": title, "text": text}
 
 
-def build_report(indicators: dict, failures: dict, news: list[dict], news_errors: list[str], now: datetime) -> dict:
+def indicator_block(key, item):
+    previous = item.get("previousValue", item["value"] - item["change"])
+    digits = 4 if key == "usdcny" else 2
+    movement = f"{item['change']:+.{digits}f}" + (" 个百分点" if key in ("us2y", "us10y") else " " + item["unit"])
+    return block(item["label"], f"{item['value']:,.{digits}f} {item['unit']}；变化 {movement}",
+                 [f"观测日 {item['date']}；前值 {previous:,.{digits}f}（{item['previousDate']}）；来源：{item['provider']}。"],
+                 [{"title": "原始数据与口径", "url": item["source"]}])
+
+
+CURRICULUM = [
+    ("绝对变化与收益率", "收益率 = (新值 ÷ 前值 − 1) × 100%。金额变化和百分比变化回答不同问题。", "100 元涨到 110 元，收益率是 10%；再跌回 100 元，跌幅是 9.09%。"),
+    ("百分点与基点", "利率从 4% 到 4.1%，增加 0.1 个百分点，即 10 个基点；不是只增加 0.1%。", "1 个基点 = 0.01 个百分点。对照本期国债收益率的前值和变化。"),
+    ("汇率的报价方向", "美元兑人民币上升表示一美元兑换更多人民币；美元收入和美元采购成本的影响相反。", "美元收入 100 万，汇率从 7 到 7.1，未套保人民币收入增加 10 万。"),
+    ("简单收益率与复利", "多期收益需要连乘，不能直接相加。累计收益 = 各期(1+收益率)连乘 − 1。", "先涨 10% 再跌 10%，100 元变成 99 元。"),
+    ("对数收益率", "对数收益率 = ln(新值/前值)。跨期可相加，但不是账户实际盈亏百分比。", "把本期指数的前值和现值代入；对数收益率与简单收益率在小变动时接近。"),
+    ("折现与现值", "现值 = 未来现金流 ÷ (1+折现率)^期数。利率变化和盈利变化应分开分析。", "一年后 110 元，以 10% 折现得到 100 元。"),
+    ("债券价格与收益率", "固定现金流不变时，市场要求的收益率上升，债券价格下降。", "国债收益率的上涨不是持有旧债券的价格收益。"),
+    ("久期", "修正久期近似衡量利率敏感度：价格变化率 ≈ −修正久期 × 收益率变化。", "久期 5，收益率上升 0.01，债券价格约跌 5%；大幅变化需考虑凸性。"),
+    ("波动率", "波动率是收益率的标准差，需多期数据；单日涨跌无法给出可靠波动率。", "日波动年化常乘 √252，这依赖交易日及收益独立等假设。"),
+    ("相关性与因果", "两个价格同涨不证明互相导致；共同利率冲击或样本选择也能产生相关性。", "本期油价与股指的方向可作观察，但标题不能证明因果。"),
+    ("协方差与分散化", "组合风险取决于单项波动和共同变动；持有多个高相关资产未必分散风险。", "两资产方差含 2w₁w₂Cov 项，需要同频、同日收益样本。"),
+    ("套期保值与基差", "期货和现货不是同一个价格；两者之差叫基差，套保仍可能有基差风险。", "本期 Brent 若为期货，就不能与昨天现货拼接计算涨跌。"),
+    ("现金流与会计利润", "宣布投资先形成支出，订单、交付、收入确认和回款是不同阶段。", "裁员消息不等于其他企业的设备订单增长；需要独立订单证据。"),
+    ("情景分析", "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。", "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"),
+]
+
+
+def lesson(indicators, now):
+    day = max(0, (now.date() - datetime(2026, 10, 9).date()).days)
+    topic, explanation, exercise = CURRICULUM[min(day, len(CURRICULUM)-1)]
+    key = "usdcny" if day == 2 else "us10y" if day in (1, 5, 6, 7) else "sp500"
+    key = key if key in indicators else next(iter(indicators))
+    q = indicators[key]
+    example = f"本期实例：{q['label']}，{q['previousDate']} 前值 {q.get('previousValue', q['value']-q['change']):.4f}，{q['date']} 现值 {q['value']:.4f}，变化 {q['change']:+.4f}。"
+    return {"id": "lesson", "eyebrow": "05 · 每日一课", "title": f"第 {day+1} 课：{topic}",
+            "lead": "按日期推进；先认识数据，再学习定价和风险。",
+            "blocks": [block(topic, explanation, [example, exercise])]}
+
+
+def build_report(indicators, failures, news, news_errors, now, editorial=None):
+    now = now.astimezone(TZ)
     today = now.date().isoformat()
-    weekend = now.weekday() >= 5
-    sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
-    sources += [{"title": "新闻 · " + item["publisher"] + " · " + item["event"], "url": item["url"], "asOf": item["published"]} for item in news]
-    market_blocks = [indicator_block(key, indicators[key]) for key, _ in INDICATORS if key in indicators]
-    stale = [key for key, item in indicators.items() if (now.date() - datetime.fromisoformat(item["date"]).date()).days > (4 if weekend or now.weekday() == 0 else 3)]
-    if stale:
-        market_blocks.append({"type": "notice", "tone": "warning", "title": "滞后数据", "text": "这些数据晚于最近几个自然日，需打开来源核查更新安排：" + "、".join(stale) + "。"})
-    if failures:
-        market_blocks.append({"type": "notice", "tone": "warning", "title": "缺失的指标", "text": "以下指标未从对应的真实口径获得数据，已留空，不用 ETF 价格代替：" + "、".join(failures) + "。"})
-    news_blocks = [{"type": "explainer", "title": str(i) + ". " + n["topic"], "summary": n["event"],
-                    "paragraphs": ["发生时间：" + n["published"] + "；发布或索引来源：" + n["publisher"] + "。", n["why"],
-                                   "可能影响产业链及收入、成本、利润率、订单或现金流的路径：" + n["mechanism"],
-                                   "持续性与验证：" + n["horizon"] + "观察 " + n["verify"] + "。"],
-                    "links": [{"title": "阅读消息原文或新闻索引", "url": n["url"]}]} for i, n in enumerate(news, 1)]
-    if len(news) < 6:
-        news_blocks.insert(0, {"type": "notice", "tone": "warning", "title": "过去 24 小时来源不足", "text": f"仅核实到 {len(news)} 条符合条件的公开消息；不把旧新闻冒充当天新闻。源站不可用数：{len(news_errors)}。"})
-    # A policy, rate, demand or input-price change can also be a conditional
-    # profit lead. Prefer explicit order/capacity evidence, then other sourced
-    # events from distinct sectors; never describe a hypothesis as realized profit.
-    eligible = [n for n in news if not RADAR_NEGATIVE.search(n["event"])]
-    eligible.sort(key=lambda n: not bool(RADAR_SIGNAL.search(n["event"])))
-    seen_topics = []
-    for n in eligible:
-        if n["topic"] not in seen_topics:
-            seen_topics.append(n["topic"])
-    radar = [radar_block(next(t for t in TOPICS if t[0] == name), [n for n in eligible if n["topic"] == name]) for name in seen_topics[:4]]
-    if len(radar) < 2:
-        radar.insert(0, {"type": "notice", "tone": "warning", "title": "产业线索不足", "text": "可核查新闻不足以支持 2 条不同产业的利润假设，本期不填充未经验证的热门概念。"})
-    gold = indicators.get("gold")
-    gold_fact = f"现货金价 {gold['value']:,.2f} 美元/盎司（{gold['date']}）；相对前一观测日 {signed(gold['changePct'])}%。" if gold else "现货金价本期不可用，不能用黄金 ETF 冒充。"
+    for n in news:
+        validate_event(n, now)
+    reviewed = [n for n in news if n["evidenceLevel"] == "source-reviewed"]
+    radar_events = [n for n in reviewed if n.get("profitLead")][:4]
+    news_blocks = []
+    for n in news:
+        paragraphs = [f"发布时间：{n['published']}；来源：{n['publisher']}。"]
+        if n in reviewed:
+            paragraphs += ["事实：" + n["facts"], "传导分析（假设）：" + n["analysis"],
+                           "持续时间：" + n.get("horizon", "未确定"), "反证：" + n["invalidate"], "验证：" + n["verify"]]
+            paragraphs += [c["name"] + "：" + c["relationship"] for c in n.get("companies", [])]
+        news_blocks.append(block(n["event"], n.get("facts", "新闻标题信息；未核实正文，不扩展利润判断。"), paragraphs,
+                                 [{"title": "新闻来源", "url": n["url"]}]))
+    limited = len(reviewed) < 6 or len(radar_events) < 2
+    if limited:
+        news_blocks.insert(0, notice("本期证据范围", f"有 {len(news)} 条中文消息，其中 {len(reviewed)} 条完成正文核验。标题信息不计为已核实研究；不足的部分留空。"))
+    radar = [block(n["event"], n["facts"], ["利润假设：" + n["analysis"], "反证：" + n["invalidate"], "验证：" + n["verify"]],
+                   [{"title": "支持证据", "url": n["url"]}]) for n in radar_events]
+    if not radar:
+        radar = [notice("没有足够证据的利润线索", "本期未取得已核实的企业订单、收入或成本证据，因此不列受益公司，不生成行业利润模板。")]
+    overview = editorial.get("mainlines", []) if editorial and editorial.get("reviewMode") == "source-reviewed" else []
+    if not overview:
+        overview = [notice("市场主线暂缺", "本期没有足以解释市场因果的正文证据。先看同口径行情与中文消息，暂不把价格同向变化解释为因果。")]
+    markets = [indicator_block(k, indicators[k]) for k, _ in INDICATORS if k in indicators]
+    stale = [k for k, v in indicators.items() if (now.date()-datetime.fromisoformat(v["date"]).date()).days > 4]
+    if stale or failures:
+        markets.append(notice("数据缺口", "滞后：" + "、".join(stale) + "；缺失：" + "、".join(failures)))
+    observation = [n["verify"] for n in reviewed][:5]
+    if not observation:
+        observation = ["核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+                       "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+                       "核对企业公告中的订单金额、交付时间和现金回款：标题不能确认收入。"]
     pages = [
-        {"id": "overview", "eyebrow": "01 · 开篇", "title": "我今天不用自己查指标版", "lead": "先看真实口径与数据日期，再读它怎样可能影响企业赚钱。", "blocks": [
-            {"type": "notice", "tone": "neutral", "title": "阅读方法", "text": "行情是事实，利润传导是待检验的条件推论。价格的变动原因无法从价格本身推出；新闻标题未核实的细节不会被写成事实。"},
-            {"type": "explainer", "title": "今天先看什么", "summary": f"已取得 {len(indicators)} 个真实指标、过去 24 小时 {len(news)} 条消息。" + ("今天是周末，行情沿用最近可用交易日并逐项标注日期。" if weekend else "每项行情逐项标注最近可用观测日。"),
-             "paragraphs": ["美国利率、美元、黄金和原油一起看：它们影响融资成本、以美元计价的收入和原材料成本，但对不同公司利润的方向可能相反。", "今天的研究线索从有时间和链接的消息出发，继续核对订单、售价、毛利率和现金流。"]}]},
-        {"id": "markets", "eyebrow": "02 · 数据", "title": "关键指标与传导", "lead": "最新可靠观测值、上一观测日变化、数据时间和影响范围。", "blocks": market_blocks},
-        {"id": "news", "eyebrow": "03 · 近 24 小时", "title": "过去 24 小时财经新闻梳理", "lead": "优先选有企业利润传导线索的消息；逐条给出原文和核验方向。", "blocks": news_blocks},
-        {"id": "radar", "eyebrow": "04 · 研究", "title": "产业利润增长雷达", "lead": "从需求与成本走到收入、利润和估值，假设须有反证。", "blocks": radar},
-        lesson(indicators),
-        {"id": "goldminers", "eyebrow": "06 · 专题", "title": "159562 黄金矿企观察", "lead": "一个研究小节；不读取或公布持仓、成本和账户信息。", "blocks": [
-            {"type": "explainer", "title": "金价上涨，矿企利润一定上涨吗？", "summary": gold_fact,
-             "paragraphs": ["金价抬高未套保黄金的单位销售收入；美元和人民币汇率改变以人民币计价的收入。美国国债收益率可能影响黄金估值，但单日走势无法单独归因。",
-                            "矿山的柴油、设备、人工、品位与开采量决定单位成本。原油变贵可能提高能源开支；长期销售合同和套期保值会改变金价传导。",
-                            "159562 的价格还受 A 股风险偏好、基金成分与交易溢折价影响。未来核对矿企产量、全部维持成本、套保披露和基金净值；不把 ETF 涨跌当作现货金价。"]}]},
+        {"id": "overview", "eyebrow": "01 · 市场主线", "title": "今天最重要的市场主线", "lead": "有证据才连接事件。", "blocks": overview},
+        {"id": "markets", "eyebrow": "02 · 市场数据", "title": "关键市场数据", "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。", "blocks": markets},
+        {"id": "news", "eyebrow": "03 · 财经新闻", "title": "过去 24 小时财经新闻", "lead": "正文核验与标题信息分开呈现。", "blocks": news_blocks},
+        {"id": "radar", "eyebrow": "04 · 产业研究", "title": "产业利润增长雷达", "lead": "只使用经过正文核验的具体事件。", "blocks": radar},
+        lesson(indicators, now),
+        {"id": "watch", "eyebrow": "06 · 下一步", "title": "接下来重点观察什么", "lead": "用数据检验判断。", "blocks": [{"type": "bullets", "items": observation}]},
     ]
-    if weekend:
-        pages.insert(4, {"id": "weekend", "eyebrow": "周末 · 复盘", "title": "本周验证与下周日历", "lead": "周末不伪造开市行情；新闻仍按过去 24 小时核对。", "blocks": [
-            {"type": "explainer", "title": "本周发生了什么", "summary": "以各指标最近可用交易日的变化和本期来源为起点。", "paragraphs": ["本期未自动重建完整一周的公告与预测，不能声称一条逻辑已经被验证或证伪。", "下周优先核对央行、统计机构和企业投资者关系页面公布的正式日历；自动源未获取具体日期时不虚构事件。", "最值得验证的产业利润线索见前一栏；关注订单、销量、价格、成本和财报是否兑现。"]}]})
-    return {"edition": f"财经晨报 · {today}", "date": f"生成于北京时间 {now:%Y-%m-%d %H:%M}；各数据逐项标注观测日", "reportDate": today,
-            "updatedAt": now.isoformat(timespec="seconds"), "status": "published", "title": "从新闻读到产业利润", "subtitle": "真实指标 · 近 24 小时新闻 · 产业利润线索 · 每日一课",
-            "intro": "面向正在学习金融的读者：先辨认事实，再追踪收入、成本、利润和反证。公开信息仅供研究。",
-            "notification": {"title": f"{today} 财经晨报", "summary": f"{len(indicators)} 项真实指标、{len(news)} 条近 24 小时消息、{len([b for b in radar if b['type']=='explainer'])} 条产业线索；点击阅读因果和反证。"},
-            "pages": pages, "sources": sources,
-            "quality": {"indicatorCount": len(indicators), "news24hCount": len(news), "radarCount": len([b for b in radar if b["type"] == "explainer"]), "staleIndicators": stale, "unavailableIndicators": list(failures), "unavailableNewsSources": news_errors}}
+    sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
+    sources += [{"title": n["event"], "url": n["url"], "asOf": n["published"]} for n in news]
+    summary = f"{len(indicators)} 项行情、{len(news)} 条中文消息、{len(reviewed)} 条正文核验、{len(radar_events)} 条利润线索。"
+    return {"edition": f"财经晨报 · {today}", "date": f"更新于北京时间 {now:%Y-%m-%d %H:%M}", "reportDate": today,
+            "updatedAt": now.isoformat(timespec="seconds"), "status": "published", "generatorVersion": VERSION,
+            "title": "财经晨报" + (" · 证据不足版" if limited else " · 研究版"), "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+            "intro": summary, "notification": {"title": today + (" 财经晨报（研究内容不足）" if limited else " 财经晨报"), "summary": summary},
+            "pages": pages, "sources": sources, "events": news,
+            "quality": {"mode": "limited" if limited else "research", "indicatorCount": len(indicators), "news24hCount": len(news),
+                        "reviewedNewsCount": len(reviewed), "radarCount": len(radar_events), "staleIndicators": stale,
+                        "unavailableIndicators": list(failures), "unavailableNewsSources": news_errors}}
 
 
 def write_outputs(report: dict) -> None:
@@ -393,7 +351,7 @@ def write_outputs(report: dict) -> None:
     except (FileNotFoundError, json.JSONDecodeError):
         index = {"items": []}
     entry = {"date": date, "title": report["title"], "summary": report["notification"]["summary"], "url": f"?date={date}#overview"}
-    items = sorted([entry] + [x for x in index.get("items", []) if x.get("date") != date], key=lambda x: x.get("date", ""), reverse=True)[:120]
+    items = sorted([entry] + [x for x in index.get("items", []) if x.get("date") != date], key=lambda x: x.get("date", ""), reverse=True)
     index_path.write_text(json.dumps({"updatedAt": report["updatedAt"], "items": items}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
@@ -404,7 +362,10 @@ def main() -> None:
     now = datetime.now(TZ)
     indicators, failures = collect_indicators()
     news, errors = collect_news(now)
-    report = build_report(indicators, failures, news, errors, now)
+    editorial = load_editorial(now)
+    if editorial:
+        news = editorial.get("events", [])
+    report = build_report(indicators, failures, news, errors, now, editorial)
     if args.preview:
         folder = ROOT / "preview"
         folder.mkdir(exist_ok=True)
