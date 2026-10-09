@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-10-09",
-  "date": "更新于北京时间 2026-10-09 10:47",
+  "date": "更新于北京时间 2026-10-09 11:13",
   "reportDate": "2026-10-09",
-  "updatedAt": "2026-10-09T10:47:26+08:00",
+  "updatedAt": "2026-10-09T11:13:27+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经晨报",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 7 条财经消息",
+  "intro": "8 项市场数据 · 8 条财经消息",
   "notification": {
     "title": "2026-10-09 财经晨报",
-    "summary": "7 项市场数据 · 7 条财经消息"
+    "summary": "7 项市场数据 · 8 条财经消息"
   },
   "pages": [
     {
@@ -21,43 +21,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "125.44 美元/桶；变化 -0.07 美元/桶",
+          "title": "消费增长要沿着两条利润路径看",
+          "summary": "国内假期消费数据已经有原文支撑：服务企业观察固定成本摊薄，家电企业观察渠道补货与折扣后的利润。",
           "paragraphs": [
-            "观测日 2026-10-06；前值 125.51（2026-10-05）；来源：FRED / 原始发布机构。"
+            "发票销售收入增长不等于上市公司利润同比增长。观察重点是同店经营、产品结构、库存和现金回款。"
           ],
           "links": [
             {
-              "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "5.22 %；变化 -0.06 个百分点",
-          "paragraphs": [
-            "观测日 2026-10-08；前值 5.28（2026-10-07）；来源：美国财政部。"
-          ],
-          "links": [
-            {
-              "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "7,801.77 点；变化 -17.16 点",
-          "paragraphs": [
-            "观测日 2026-10-07；前值 7,818.93（2026-10-06）；来源：Yahoo Finance。"
-          ],
-          "links": [
-            {
-              "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+              "title": "上海证券报原文",
+              "url": "https://www.cnstock.com/commonDetail/799571"
             }
           ]
         }
@@ -183,6 +155,25 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "服务消费“热”，悦己消费“火”——税收大数据透视国庆假期新消费",
+          "summary": "税务总局 10 月 8 日公布的假期发票数据中，服务行业日均销售收入同比增加 19.5%；家电和音像器材销售收入增加 40.1%。补贴资金节前落地，是报道列出的商品消费驱动因素之一。",
+          "paragraphs": [
+            "发布时间：2026-10-09T08:10:00+08:00；来源：上海证券报。",
+            "事实：税务总局 10 月 8 日公布的假期发票数据中，服务行业日均销售收入同比增加 19.5%；家电和音像器材销售收入增加 40.1%。补贴资金节前落地，是报道列出的商品消费驱动因素之一。",
+            "传导分析（假设）：服务消费与补贴推动的商品换新有不同的利润路径。酒店和娱乐场所若在既有容量内增加客流，收入增量可能摊薄租金等固定成本；但增聘员工和促销会消耗这部分收益。家电数据首先体现零售成交，厂家利润还取决于渠道补货、产品结构和折扣承担方。对 A 股、港股消费企业，先研究收入能否转化为现金和利润，再讨论估值；单个假期的数据不能确定全季度业绩。",
+            "持续时间：先观察假期后的四至八周，再核对第四季度经营数据。",
+            "反证：假期后订单明显回落，或客流增加但客单价、毛利率与经营现金流下降，都会削弱利润改善判断。",
+            "验证：比较假期前后同店收入、酒店入住率与平均房价、家电渠道库存、折扣幅度及经营现金流，区分持续需求和提前购买。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/799571"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
           "summary": "",
           "paragraphs": [
@@ -289,10 +280,19 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "今日线索",
-          "summary": "今日暂无新增线索。",
-          "paragraphs": [],
-          "links": []
+          "title": "服务消费“热”，悦己消费“火”——税收大数据透视国庆假期新消费",
+          "summary": "税务总局 10 月 8 日公布的假期发票数据中，服务行业日均销售收入同比增加 19.5%；家电和音像器材销售收入增加 40.1%。补贴资金节前落地，是报道列出的商品消费驱动因素之一。",
+          "paragraphs": [
+            "利润假设：服务消费与补贴推动的商品换新有不同的利润路径。酒店和娱乐场所若在既有容量内增加客流，收入增量可能摊薄租金等固定成本；但增聘员工和促销会消耗这部分收益。家电数据首先体现零售成交，厂家利润还取决于渠道补货、产品结构和折扣承担方。对 A 股、港股消费企业，先研究收入能否转化为现金和利润，再讨论估值；单个假期的数据不能确定全季度业绩。",
+            "反证：假期后订单明显回落，或客流增加但客单价、毛利率与经营现金流下降，都会削弱利润改善判断。",
+            "验证：比较假期前后同店收入、酒店入住率与平均房价、家电渠道库存、折扣幅度及经营现金流，区分持续需求和提前购买。"
+          ],
+          "links": [
+            {
+              "title": "支持证据",
+              "url": "https://www.cnstock.com/commonDetail/799571"
+            }
+          ]
         }
       ]
     },
@@ -323,9 +323,7 @@
         {
           "type": "bullets",
           "items": [
-            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
-            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
-            "核对企业公告中的订单金额、交付时间和现金回款："
+            "比较假期前后同店收入、酒店入住率与平均房价、家电渠道库存、折扣幅度及经营现金流，区分持续需求和提前购买。"
           ]
         }
       ]
@@ -368,6 +366,11 @@
       "asOf": "2026-10-07"
     },
     {
+      "title": "服务消费“热”，悦己消费“火”——税收大数据透视国庆假期新消费",
+      "url": "https://www.cnstock.com/commonDetail/799571",
+      "asOf": "2026-10-09T08:10:00+08:00"
+    },
+    {
       "title": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5",
       "asOf": "2026-10-09T08:05:00+08:00"
@@ -404,6 +407,29 @@
     }
   ],
   "events": [
+    {
+      "event": "服务消费“热”，悦己消费“火”——税收大数据透视国庆假期新消费",
+      "originalTitle": "服务消费“热”，悦己消费“火”——税收大数据透视国庆假期新消费",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/799571",
+      "published": "2026-10-09T08:10:00+08:00",
+      "evidenceLevel": "source-reviewed",
+      "evidence": [
+        {
+          "url": "https://www.cnstock.com/commonDetail/799571",
+          "retrievedAt": "2026-10-09T11:12:43.549289+08:00",
+          "excerpt": "国庆假期，全国服务消费旺盛，相关行业日均销售收入同比增长19.5%。",
+          "sha256": "f834e3e8e5c4eb53ff841254d12263d8d7e917d84244eb4d532509e77b5ce199"
+        }
+      ],
+      "facts": "税务总局 10 月 8 日公布的假期发票数据中，服务行业日均销售收入同比增加 19.5%；家电和音像器材销售收入增加 40.1%。补贴资金节前落地，是报道列出的商品消费驱动因素之一。",
+      "analysis": "服务消费与补贴推动的商品换新有不同的利润路径。酒店和娱乐场所若在既有容量内增加客流，收入增量可能摊薄租金等固定成本；但增聘员工和促销会消耗这部分收益。家电数据首先体现零售成交，厂家利润还取决于渠道补货、产品结构和折扣承担方。对 A 股、港股消费企业，先研究收入能否转化为现金和利润，再讨论估值；单个假期的数据不能确定全季度业绩。",
+      "horizon": "先观察假期后的四至八周，再核对第四季度经营数据。",
+      "invalidate": "假期后订单明显回落，或客流增加但客单价、毛利率与经营现金流下降，都会削弱利润改善判断。",
+      "verify": "比较假期前后同店收入、酒店入住率与平均房价、家电渠道库存、折扣幅度及经营现金流，区分持续需求和提前购买。",
+      "profitLead": true,
+      "companies": []
+    },
     {
       "event": "消息人士称：AI 监控企业 Flock Safety 拟裁减数百个岗位",
       "originalTitle": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
@@ -464,18 +490,13 @@
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 7,
-    "reviewedNewsCount": 0,
-    "radarCount": 0,
+    "news24hCount": 8,
+    "reviewedNewsCount": 1,
+    "radarCount": 1,
     "staleIndicators": [],
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError"
-    ]
+    "unavailableNewsSources": []
   }
 }
