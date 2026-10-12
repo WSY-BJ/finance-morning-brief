@@ -1,0 +1,551 @@
+{
+  "edition": "财经晨报 · 2026-10-12",
+  "date": "更新于北京时间 2026-10-12 08:30",
+  "reportDate": "2026-10-12",
+  "updatedAt": "2026-10-12T08:30:55+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经晨报",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 10 条财经消息",
+  "notification": {
+    "title": "2026-10-12 财经晨报",
+    "summary": "7 项市场数据 · 10 条财经消息"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-09：7,811.54 点；较 2026-10-08 变化 +46.18 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-09：104.72 美元/桶；较 2026-10-08 变化 +0.44 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-09：5.24 %；较 2026-10-08 变化 +0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "104.72 美元/桶；变化 +0.44 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 104.28（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.75 %；变化 -0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-08；前值 4.77（2026-10-07）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.24 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 5.22（2026-10-08）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.21 点；变化 +0.07 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 102.14（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,811.54 点；变化 +46.18 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 7,765.36（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "27,366.17 点；变化 +172.83 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 27,193.34（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.7021 人民币/美元；变化 -0.0024 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 6.7045（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今天打新！航天线缆第一股来了 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-12T00:29:17+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HZ2d4M0piNHdIQy1CVnhUa1RLU0JmS05PTXV3VU93Zi1SMjhvbXpaYXFVVWsxNldoNzBpV2FRcnJXUEV0UGFSVF9BQUJGNEFuYm1BaGdJUGZxdnp6?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "早新闻｜这些重要消息将影响股市 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-12T00:24:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52VlViZUNfWnFyTjRRVnc2VENCNVI0QVR1WjhIbUVmSS1TT1V2SEl1ejJIYnZfSHJiTXEzSl9pNG92UkVDdm5renVvM2RQNGdVeUp3SEIzcXEwUUJW?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "霍尔木兹海峡，有新消息！伊朗称美已接受伊方所提部分条件，“但力度不足” - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-12T00:24:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pel9Mc2Y3bnkyVmphQzNrT3ZRU01VaWdtZjIzME9WS2lTMFU3dGgyMDd1RlVkaHd6cGhtalM1R3RMdmRpU1dhRmR3ZXd0dTdnQktJUUZFdkRwMWUw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑” - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-12T00:24:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DTTlndkdnUUhQNzE1eFNFcWVoM2NtLVdra21UU2o0ekRaRENpM0xmT1N4VXBPT2FNcW9SVWxMc3lkOUZ3eURXS3lPWk5Mdndnb0F4em1vZVNncEl5?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-12T00:03:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUUhJblNNT29sZG1ia01mUWhUQ0hBdFc3LVhPWUZuWTIwc0ZUM29Jd0h6MElPXzZMN2dnTHhhVnFkMEZubHlMdW5xb3k3UWZ6c0o1X0FzYXd2RUpO?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华泰证券：消费级3D打印设备放量有望带动耗材需求持续增长 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-11T23:57:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVm5fSDVibFJqdS0xWmtWLTBoTnJoTDF1dGMzSjY0TU5WMXF1aUJXeVVDcWhoTWFIUkdWYVl1ci1yZUo2Yi1hR19SZVFOUWQwTHllNVhqREhQV3ZO?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "服务新质生产力发展 资本市场体制机制持续优化 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-11T23:52:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNWJKNENfLU9nM3lGdWRDc1F3cUlWRFp5cE85eDNfdmlJQW55NXhqMkR2YVFOUXR5RXp1Z3ZqQ0VHUktQbTRvNG5XQTM3UzVIWlZPSF9URnQzejlB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上游工厂“下沉”终端 食品产业价值链重心迁移 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-11T23:52:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RmRpTkozci1sNlFHZHNDMG5sQ19JNlk2X1V5cTBTdmhFcHdIbmp2TGtrR21DMWFsSG1jUnZXM3cxWTV4dWZsVXNMLXZZVnpTUlE3X2QxcEtUV19p?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "量产提速 人形机器人迎商业化大考 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-11T23:52:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GUU5BNHJ4bFFpeWFkbV9xY0YxNmh5VzV6TEROR0R5NUxON1cwek54UXEwdHRCVmZseFBXZXp3TW85Wlh0NmNCbzdNcDgzTExxa1NZM2E2dXFUOThG?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "农民涌入无人机培训班：田野“飞来”新生产力 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-11T23:52:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAycDR4aHVTWGJfcUZIQ19aNEUzcWVvOVhkNW8ySzVPbGxHNUdqWU91ZEt0czhUR3RuZnlpLVBBci0yT3Y1UTF2N29jVHpSbDlDaGxRWWFJMGxsd0p2?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 4 课：简单收益率与复利",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "简单收益率与复利",
+          "summary": "多期收益需要连乘，不能直接相加。累计收益 = 各期(1+收益率)连乘 − 1。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-08 前值 7765.3599，2026-10-09 现值 7811.5400，变化 +46.1802。",
+            "先涨 10% 再跌 10%，100 元变成 99 元。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-08"
+    },
+    {
+      "title": "今天打新！航天线缆第一股来了 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HZ2d4M0piNHdIQy1CVnhUa1RLU0JmS05PTXV3VU93Zi1SMjhvbXpaYXFVVWsxNldoNzBpV2FRcnJXUEV0UGFSVF9BQUJGNEFuYm1BaGdJUGZxdnp6?oc=5",
+      "asOf": "2026-10-12T00:29:17+00:00"
+    },
+    {
+      "title": "早新闻｜这些重要消息将影响股市 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52VlViZUNfWnFyTjRRVnc2VENCNVI0QVR1WjhIbUVmSS1TT1V2SEl1ejJIYnZfSHJiTXEzSl9pNG92UkVDdm5renVvM2RQNGdVeUp3SEIzcXEwUUJW?oc=5",
+      "asOf": "2026-10-12T00:24:00+00:00"
+    },
+    {
+      "title": "霍尔木兹海峡，有新消息！伊朗称美已接受伊方所提部分条件，“但力度不足” - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pel9Mc2Y3bnkyVmphQzNrT3ZRU01VaWdtZjIzME9WS2lTMFU3dGgyMDd1RlVkaHd6cGhtalM1R3RMdmRpU1dhRmR3ZXd0dTdnQktJUUZFdkRwMWUw?oc=5",
+      "asOf": "2026-10-12T00:24:00+00:00"
+    },
+    {
+      "title": "两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑” - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DTTlndkdnUUhQNzE1eFNFcWVoM2NtLVdra21UU2o0ekRaRENpM0xmT1N4VXBPT2FNcW9SVWxMc3lkOUZ3eURXS3lPWk5Mdndnb0F4em1vZVNncEl5?oc=5",
+      "asOf": "2026-10-12T00:24:00+00:00"
+    },
+    {
+      "title": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUUhJblNNT29sZG1ia01mUWhUQ0hBdFc3LVhPWUZuWTIwc0ZUM29Jd0h6MElPXzZMN2dnTHhhVnFkMEZubHlMdW5xb3k3UWZ6c0o1X0FzYXd2RUpO?oc=5",
+      "asOf": "2026-10-12T00:03:00+00:00"
+    },
+    {
+      "title": "华泰证券：消费级3D打印设备放量有望带动耗材需求持续增长 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVm5fSDVibFJqdS0xWmtWLTBoTnJoTDF1dGMzSjY0TU5WMXF1aUJXeVVDcWhoTWFIUkdWYVl1ci1yZUo2Yi1hR19SZVFOUWQwTHllNVhqREhQV3ZO?oc=5",
+      "asOf": "2026-10-11T23:57:00+00:00"
+    },
+    {
+      "title": "服务新质生产力发展 资本市场体制机制持续优化 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNWJKNENfLU9nM3lGdWRDc1F3cUlWRFp5cE85eDNfdmlJQW55NXhqMkR2YVFOUXR5RXp1Z3ZqQ0VHUktQbTRvNG5XQTM3UzVIWlZPSF9URnQzejlB?oc=5",
+      "asOf": "2026-10-11T23:52:00+00:00"
+    },
+    {
+      "title": "上游工厂“下沉”终端 食品产业价值链重心迁移 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RmRpTkozci1sNlFHZHNDMG5sQ19JNlk2X1V5cTBTdmhFcHdIbmp2TGtrR21DMWFsSG1jUnZXM3cxWTV4dWZsVXNMLXZZVnpTUlE3X2QxcEtUV19p?oc=5",
+      "asOf": "2026-10-11T23:52:00+00:00"
+    },
+    {
+      "title": "量产提速 人形机器人迎商业化大考 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GUU5BNHJ4bFFpeWFkbV9xY0YxNmh5VzV6TEROR0R5NUxON1cwek54UXEwdHRCVmZseFBXZXp3TW85Wlh0NmNCbzdNcDgzTExxa1NZM2E2dXFUOThG?oc=5",
+      "asOf": "2026-10-11T23:52:00+00:00"
+    },
+    {
+      "title": "农民涌入无人机培训班：田野“飞来”新生产力 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAycDR4aHVTWGJfcUZIQ19aNEUzcWVvOVhkNW8ySzVPbGxHNUdqWU91ZEt0czhUR3RuZnlpLVBBci0yT3Y1UTF2N29jVHpSbDlDaGxRWWFJMGxsd0p2?oc=5",
+      "asOf": "2026-10-11T23:52:00+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "今天打新！航天线缆第一股来了 - 证券时报网",
+      "published": "2026-10-12T00:29:17+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HZ2d4M0piNHdIQy1CVnhUa1RLU0JmS05PTXV3VU93Zi1SMjhvbXpaYXFVVWsxNldoNzBpV2FRcnJXUEV0UGFSVF9BQUJGNEFuYm1BaGdJUGZxdnp6?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "今天打新！航天线缆第一股来了 - 证券时报网"
+    },
+    {
+      "event": "早新闻｜这些重要消息将影响股市 - 证券时报网",
+      "published": "2026-10-12T00:24:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52VlViZUNfWnFyTjRRVnc2VENCNVI0QVR1WjhIbUVmSS1TT1V2SEl1ejJIYnZfSHJiTXEzSl9pNG92UkVDdm5renVvM2RQNGdVeUp3SEIzcXEwUUJW?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "早新闻｜这些重要消息将影响股市 - 证券时报网"
+    },
+    {
+      "event": "霍尔木兹海峡，有新消息！伊朗称美已接受伊方所提部分条件，“但力度不足” - 证券时报网",
+      "published": "2026-10-12T00:24:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pel9Mc2Y3bnkyVmphQzNrT3ZRU01VaWdtZjIzME9WS2lTMFU3dGgyMDd1RlVkaHd6cGhtalM1R3RMdmRpU1dhRmR3ZXd0dTdnQktJUUZFdkRwMWUw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "霍尔木兹海峡，有新消息！伊朗称美已接受伊方所提部分条件，“但力度不足” - 证券时报网"
+    },
+    {
+      "event": "两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑” - 证券时报网",
+      "published": "2026-10-12T00:24:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DTTlndkdnUUhQNzE1eFNFcWVoM2NtLVdra21UU2o0ekRaRENpM0xmT1N4VXBPT2FNcW9SVWxMc3lkOUZ3eURXS3lPWk5Mdndnb0F4em1vZVNncEl5?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑” - 证券时报网"
+    },
+    {
+      "event": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向 - 证券时报网",
+      "published": "2026-10-12T00:03:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUUhJblNNT29sZG1ia01mUWhUQ0hBdFc3LVhPWUZuWTIwc0ZUM29Jd0h6MElPXzZMN2dnTHhhVnFkMEZubHlMdW5xb3k3UWZ6c0o1X0FzYXd2RUpO?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向 - 证券时报网"
+    },
+    {
+      "event": "华泰证券：消费级3D打印设备放量有望带动耗材需求持续增长 - 证券时报网",
+      "published": "2026-10-11T23:57:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVm5fSDVibFJqdS0xWmtWLTBoTnJoTDF1dGMzSjY0TU5WMXF1aUJXeVVDcWhoTWFIUkdWYVl1ci1yZUo2Yi1hR19SZVFOUWQwTHllNVhqREhQV3ZO?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "华泰证券：消费级3D打印设备放量有望带动耗材需求持续增长 - 证券时报网"
+    },
+    {
+      "event": "服务新质生产力发展 资本市场体制机制持续优化 - 证券时报网",
+      "published": "2026-10-11T23:52:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNWJKNENfLU9nM3lGdWRDc1F3cUlWRFp5cE85eDNfdmlJQW55NXhqMkR2YVFOUXR5RXp1Z3ZqQ0VHUktQbTRvNG5XQTM3UzVIWlZPSF9URnQzejlB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "服务新质生产力发展 资本市场体制机制持续优化 - 证券时报网"
+    },
+    {
+      "event": "上游工厂“下沉”终端 食品产业价值链重心迁移 - 证券时报网",
+      "published": "2026-10-11T23:52:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RmRpTkozci1sNlFHZHNDMG5sQ19JNlk2X1V5cTBTdmhFcHdIbmp2TGtrR21DMWFsSG1jUnZXM3cxWTV4dWZsVXNMLXZZVnpTUlE3X2QxcEtUV19p?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上游工厂“下沉”终端 食品产业价值链重心迁移 - 证券时报网"
+    },
+    {
+      "event": "量产提速 人形机器人迎商业化大考 - 证券时报网",
+      "published": "2026-10-11T23:52:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GUU5BNHJ4bFFpeWFkbV9xY0YxNmh5VzV6TEROR0R5NUxON1cwek54UXEwdHRCVmZseFBXZXp3TW85Wlh0NmNCbzdNcDgzTExxa1NZM2E2dXFUOThG?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "量产提速 人形机器人迎商业化大考 - 证券时报网"
+    },
+    {
+      "event": "农民涌入无人机培训班：田野“飞来”新生产力 - 证券时报网",
+      "published": "2026-10-11T23:52:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAycDR4aHVTWGJfcUZIQ19aNEUzcWVvOVhkNW8ySzVPbGxHNUdqWU91ZEt0czhUR3RuZnlpLVBBci0yT3Y1UTF2N29jVHpSbDlDaGxRWWFJMGxsd0p2?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "农民涌入无人机培训班：田野“飞来”新生产力 - 证券时报网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
