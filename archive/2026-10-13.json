@@ -1,0 +1,588 @@
+{
+  "edition": "财经晨报 · 2026-10-13",
+  "date": "更新于北京时间 2026-10-13 10:33",
+  "reportDate": "2026-10-13",
+  "updatedAt": "2026-10-13T10:33:51+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经晨报",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 10 条财经消息",
+  "notification": {
+    "title": "2026-10-13 财经晨报",
+    "summary": "7 项市场数据 · 10 条财经消息"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-09：7,811.54 点；较 2026-10-08 变化 +46.18 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-09：104.72 美元/桶；较 2026-10-08 变化 +0.44 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-08：5.22 %；较 2026-10-07 变化 -0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "104.72 美元/桶；变化 +0.44 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 104.28（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.80 %；变化 +0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 4.75（2026-10-08）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.22 %；变化 -0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-08；前值 5.28（2026-10-07）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.21 点；变化 +0.07 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 102.14（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,811.54 点；变化 +46.18 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 7,765.36（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "27,366.17 点；变化 +172.83 点",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 27,193.34（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.7021 人民币/美元；变化 -0.0024 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-09；前值 6.7045（2026-10-08）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：us10y；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "IMF上调2026年世界经济增长预期至3.1%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T10:15:00+08:00；来源：新华社。",
+            "原文摘要：新华社曼谷10月13日电（记者 耿凌楠 刘杨）国际货币基金组织（IMF）13日发布最新一期《世界经济展望报告》，小幅上调今年世界经济增长预期至3.1%，较7月预测值高0.1个百分点。IMF说，人工智能（AI）投资热潮对部分经济体的提振抵消了"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801315"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "天阳科技：签署合同采购20000张英伟达GPU产品",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T09:25:00+08:00；来源：上海证券报·中国证券网。",
+            "原文摘要：上证智讯 10月13日早间，天阳科技发布公告称，公司近日与X公司签署《销售合同》，公司向其采购20000张型号为NVIDIA RTX PRO 5500 Blackwell的英伟达GPU产品。该产品区别于大模型训练用GPU产品，主要用于AI应"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801279"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T08:08:00+08:00；来源：上海证券报。",
+            "原文摘要：2026金融街论坛年会将于10月19日至22日在北京金融街举办。上海证券报记者10月12日从2026金融街论坛年会新闻发布会上获悉，中国人民银行行长潘功胜、金融监管总局局长丁向群、中国证监会主席吴清、国家外汇局局长朱鹤新将出席2026金融街"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801247"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T08:08:00+08:00；来源：上海证券报。",
+            "原文摘要：“十五五”开局之年，“央地和鸣”成为国有企业资产整合的新风向。2026年，已有六组央地国企上市公司的整合案例出现，涵盖央企入主地方国资旗下上市公司、地方国资接棒央企控股上市公司控股权、地方国企反向入股央企，以及不涉及控制权变更的“资产换股权"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801252"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "千行百业乘AI而上 工博会凸显制造业升级新图景",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T07:16:00+08:00；来源：上海证券报。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801236"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T07:14:00+08:00；来源：上海证券报。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://www.cnstock.com/commonDetail/801238"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T02:19:58+00:00；来源：新华网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T02:11:48+00:00；来源：新华网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T02:03:20+00:00；来源：新华网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "赛场之上，每一击都从容掌控 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-13T01:59:41+00:00；来源：新华网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 5 课：对数收益率",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "对数收益率",
+          "summary": "对数收益率 = ln(新值/前值)。跨期可相加，但不是账户实际盈亏百分比。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-08 前值 7765.3599，2026-10-09 现值 7811.5400，变化 +46.1802。",
+            "把本期指数的前值和现值代入；对数收益率与简单收益率在小变动时接近。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-09"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-08"
+    },
+    {
+      "title": "IMF上调2026年世界经济增长预期至3.1%",
+      "url": "https://www.cnstock.com/commonDetail/801315",
+      "asOf": "2026-10-13T10:15:00+08:00"
+    },
+    {
+      "title": "天阳科技：签署合同采购20000张英伟达GPU产品",
+      "url": "https://www.cnstock.com/commonDetail/801279",
+      "asOf": "2026-10-13T09:25:00+08:00"
+    },
+    {
+      "title": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
+      "url": "https://www.cnstock.com/commonDetail/801247",
+      "asOf": "2026-10-13T08:08:00+08:00"
+    },
+    {
+      "title": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
+      "url": "https://www.cnstock.com/commonDetail/801252",
+      "asOf": "2026-10-13T08:08:00+08:00"
+    },
+    {
+      "title": "千行百业乘AI而上 工博会凸显制造业升级新图景",
+      "url": "https://www.cnstock.com/commonDetail/801236",
+      "asOf": "2026-10-13T07:16:00+08:00"
+    },
+    {
+      "title": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
+      "url": "https://www.cnstock.com/commonDetail/801238",
+      "asOf": "2026-10-13T07:14:00+08:00"
+    },
+    {
+      "title": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5",
+      "asOf": "2026-10-13T02:19:58+00:00"
+    },
+    {
+      "title": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5",
+      "asOf": "2026-10-13T02:11:48+00:00"
+    },
+    {
+      "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5",
+      "asOf": "2026-10-13T02:03:20+00:00"
+    },
+    {
+      "title": "赛场之上，每一击都从容掌控 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5",
+      "asOf": "2026-10-13T01:59:41+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "IMF上调2026年世界经济增长预期至3.1%",
+      "originalTitle": "IMF上调2026年世界经济增长预期至3.1%",
+      "published": "2026-10-13T10:15:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/801315",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/801315",
+        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
+        "sha256": "098d0d4a1c0c89147938f902b9c9bbce3c18915189de8683bf5b08d421924df0",
+        "paragraphCount": 8,
+        "excerpt": "新华社曼谷10月13日电（记者 耿凌楠 刘杨）国际货币基金组织（IMF）13日发布最新一期《世界经济展望报告》，小幅上调今年世界经济增长预期至3.1%，较7月预测值高0.1个百分点。IMF说，人工智能（AI）投资热潮对部分经济体的提振抵消了"
+      }
+    },
+    {
+      "event": "天阳科技：签署合同采购20000张英伟达GPU产品",
+      "originalTitle": "天阳科技：签署合同采购20000张英伟达GPU产品",
+      "published": "2026-10-13T09:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/801279",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/801279",
+        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
+        "sha256": "cf9b6a7177371b9972b2e1b40d488d34929418eec971d20d39c13d6926226bba",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月13日早间，天阳科技发布公告称，公司近日与X公司签署《销售合同》，公司向其采购20000张型号为NVIDIA RTX PRO 5500 Blackwell的英伟达GPU产品。该产品区别于大模型训练用GPU产品，主要用于AI应"
+      }
+    },
+    {
+      "event": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
+      "originalTitle": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
+      "published": "2026-10-13T08:08:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/801247",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/801247",
+        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
+        "sha256": "53efcec0730ec6ef8f012e06ce29c6c2e294bf93349f483dc442e03e2316d61a",
+        "paragraphCount": 8,
+        "excerpt": "2026金融街论坛年会将于10月19日至22日在北京金融街举办。上海证券报记者10月12日从2026金融街论坛年会新闻发布会上获悉，中国人民银行行长潘功胜、金融监管总局局长丁向群、中国证监会主席吴清、国家外汇局局长朱鹤新将出席2026金融街"
+      }
+    },
+    {
+      "event": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
+      "originalTitle": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
+      "published": "2026-10-13T08:08:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/801252",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/801252",
+        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
+        "sha256": "987cfd281f724e21721c215826e156e9b6329fd9e4bfe2f083f1c4cdde8e1d6d",
+        "paragraphCount": 17,
+        "excerpt": "“十五五”开局之年，“央地和鸣”成为国有企业资产整合的新风向。2026年，已有六组央地国企上市公司的整合案例出现，涵盖央企入主地方国资旗下上市公司、地方国资接棒央企控股上市公司控股权、地方国企反向入股央企，以及不涉及控制权变更的“资产换股权"
+      }
+    },
+    {
+      "event": "千行百业乘AI而上 工博会凸显制造业升级新图景",
+      "originalTitle": "千行百业乘AI而上 工博会凸显制造业升级新图景",
+      "published": "2026-10-13T07:16:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/801236",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
+      "originalTitle": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
+      "published": "2026-10-13T07:14:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/801238",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
+      "published": "2026-10-13T02:19:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网"
+    },
+    {
+      "event": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
+      "published": "2026-10-13T02:11:48+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "IMF上调2026年世界经济增长预期至3.1% - 新华网"
+    },
+    {
+      "event": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
+      "published": "2026-10-13T02:03:20+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网"
+    },
+    {
+      "event": "赛场之上，每一击都从容掌控 - 新华网",
+      "published": "2026-10-13T01:59:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "赛场之上，每一击都从容掌控 - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [
+      "us10y"
+    ],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
