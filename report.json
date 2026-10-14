@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-13",
-  "date": "更新于北京时间 2026-10-13 10:33",
-  "reportDate": "2026-10-13",
-  "updatedAt": "2026-10-13T10:33:51+08:00",
+  "edition": "财经晨报 · 2026-10-14",
+  "date": "更新于北京时间 2026-10-14 08:16",
+  "reportDate": "2026-10-14",
+  "updatedAt": "2026-10-14T08:16:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经晨报",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 10 条财经消息",
   "notification": {
-    "title": "2026-10-13 财经晨报",
+    "title": "2026-10-14 财经晨报",
     "summary": "7 项市场数据 · 10 条财经消息"
   },
   "pages": [
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-09：7,811.54 点；较 2026-10-08 变化 +46.18 点。",
+          "summary": "2026-10-12：7,807.24 点；较 2026-10-09 变化 -4.30 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-09：104.72 美元/桶；较 2026-10-08 变化 +0.44 美元/桶。",
+          "summary": "2026-10-12：106.65 美元/桶；较 2026-10-09 变化 +1.93 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-08：5.22 %；较 2026-10-07 变化 -0.06 个百分点。",
+          "summary": "2026-10-09：5.24 %；较 2026-10-08 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "104.72 美元/桶；变化 +0.44 美元/桶",
+          "summary": "106.65 美元/桶；变化 +1.93 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-09；前值 104.28（2026-10-08）；来源：Yahoo Finance。"
+            "观测日 2026-10-12；前值 104.72（2026-10-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.80 %；变化 +0.05 个百分点",
+          "summary": "4.79 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-09；前值 4.75（2026-10-08）；来源：美国财政部。"
+            "观测日 2026-10-13；前值 4.80（2026-10-09）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.22 %；变化 -0.06 个百分点",
+          "summary": "5.24 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-08；前值 5.28（2026-10-07）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-09；前值 5.22（2026-10-08）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.21 点；变化 +0.07 点",
+          "summary": "102.58 点；变化 +0.37 点",
           "paragraphs": [
-            "观测日 2026-10-09；前值 102.14（2026-10-08）；来源：Yahoo Finance。"
+            "观测日 2026-10-12；前值 102.21（2026-10-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,811.54 点；变化 +46.18 点",
+          "summary": "7,807.24 点；变化 -4.30 点",
           "paragraphs": [
-            "观测日 2026-10-09；前值 7,765.36（2026-10-08）；来源：Yahoo Finance。"
+            "观测日 2026-10-12；前值 7,811.54（2026-10-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "27,366.17 点；变化 +172.83 点",
+          "summary": "27,245.90 点；变化 -120.27 点",
           "paragraphs": [
-            "观测日 2026-10-09；前值 27,193.34（2026-10-08）；来源：Yahoo Finance。"
+            "观测日 2026-10-12；前值 27,366.17（2026-10-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.7021 人民币/美元；变化 -0.0024 人民币/美元",
+          "summary": "6.6920 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-09；前值 6.7045（2026-10-08）；来源：Yahoo Finance。"
+            "观测日 2026-10-13；前值 6.6920（2026-10-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,145 +177,142 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "IMF上调2026年世界经济增长预期至3.1%",
+          "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T10:15:00+08:00；来源：新华社。",
-            "原文摘要：新华社曼谷10月13日电（记者 耿凌楠 刘杨）国际货币基金组织（IMF）13日发布最新一期《世界经济展望报告》，小幅上调今年世界经济增长预期至3.1%，较7月预测值高0.1个百分点。IMF说，人工智能（AI）投资热潮对部分经济体的提振抵消了"
+            "发布时间：2026-10-14T07:23:00+08:00；来源：上海证券报。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801315"
+              "url": "https://www.cnstock.com/commonDetail/801871"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "天阳科技：签署合同采购20000张英伟达GPU产品",
+          "title": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T09:25:00+08:00；来源：上海证券报·中国证券网。",
-            "原文摘要：上证智讯 10月13日早间，天阳科技发布公告称，公司近日与X公司签署《销售合同》，公司向其采购20000张型号为NVIDIA RTX PRO 5500 Blackwell的英伟达GPU产品。该产品区别于大模型训练用GPU产品，主要用于AI应"
+            "发布时间：2026-10-14T07:22:00+08:00；来源：上海证券报。",
+            "原文摘要：搬箱子、拧螺丝、上下料……第二十六届中国国际工业博览会（简称“工博会”）的机器人展区，宛如一个个临时工厂，ABB机器人、发那科、安川电机等国际机器人巨头悉数设展，与智元、节卡、新松、埃斯顿、汇川技术等本土力量正面交锋，比拼的主题只有一个：谁"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801279"
+              "url": "https://www.cnstock.com/commonDetail/801868"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
+          "title": "“冷”产业遇上了“热”市场 算力散热倒逼技术革新 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T08:08:00+08:00；来源：上海证券报。",
-            "原文摘要：2026金融街论坛年会将于10月19日至22日在北京金融街举办。上海证券报记者10月12日从2026金融街论坛年会新闻发布会上获悉，中国人民银行行长潘功胜、金融监管总局局长丁向群、中国证监会主席吴清、国家外汇局局长朱鹤新将出席2026金融街"
+            "发布时间：2026-10-13T23:58:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801247"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DX2o1bFplb09qekE1SWxkb0pINXRRV3ItZHFlZzEzUmZoOS04Q0dLUnNZTFhiOEFOLUpXc2pESEMwaGk4S1lIN25ET3FJUjlVaVEwMnlENmNKdlBo?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
+          "title": "支付严监管持续 前三季度持牌支付机构罚单超40张 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T08:08:00+08:00；来源：上海证券报。",
-            "原文摘要：“十五五”开局之年，“央地和鸣”成为国有企业资产整合的新风向。2026年，已有六组央地国企上市公司的整合案例出现，涵盖央企入主地方国资旗下上市公司、地方国资接棒央企控股上市公司控股权、地方国企反向入股央企，以及不涉及控制权变更的“资产换股权"
+            "发布时间：2026-10-13T23:57:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801252"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVEtVdlp4ZDRlZV9sd3d1TFdCMW1mVE9GR1dMR2I2WmU3aVB0dVQzckVJY0ZnT1hfc200amNOejhFT3JidU9FbUdRSks2aEtzRmNTVmQtY3RzYy13?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "千行百业乘AI而上 工博会凸显制造业升级新图景",
+          "title": "新一轮硅料产能限制计划正在酝酿 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T07:16:00+08:00；来源：上海证券报。"
+            "发布时间：2026-10-13T23:52:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801236"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xMWtxc2xzNENRRkwxM292cVRtYUwzaUZwWEItZkFDcUFrZzNGbWJVVVAtdktDTjluX01RQkJReUV4RXBKUU5vYkhVMkZYVTQ4eVZJOF8xa0oyMGhw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
+          "title": "年内上市公司获重要股东增持逾550亿元 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T07:14:00+08:00；来源：上海证券报。"
+            "发布时间：2026-10-13T23:32:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/801238"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSmI3dV91RnZtYzdhV1ZJUFhraTlZSXJXMG9OVUhVZ0luRXlBZ0MyOE5aUnc2TklsMGtHV2FfX0xrV2RfSk1hMjh5V3JKNEZXYkRXWG5Eb0Y4WnlK?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
+          "title": "算力租赁大单频现 上市公司发力差异化布局 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T02:19:58+00:00；来源：新华网。"
+            "发布时间：2026-10-13T23:32:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZmFvY0F2ZWUwVUI3bGNFU2xoaEQ2b2hCR2hBMkZ0cFIycXVYbllGZjFLMHhJdlFMY3MxLVVNdUFmWm1RWEljUV8zTW5uNUwyY0hvQmkza2NSdU9v?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
+          "title": "黑色产业链供需格局调整 期现结合助力企业稳健经营 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T02:11:48+00:00；来源：新华网。"
+            "发布时间：2026-10-13T23:23:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12SU1vTktSLTVTTjB3VlVORFFLeEJHTUJxYjFDQzNKaTk2enhKeWlXbktoZmlNejRKbWFSZWlmdVVVNjJsb3RTNzRUUTg3SmEzUUZXOXZPb1F6bVlx?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
+          "title": "政策托底叠加企业盈利上行 A股中长期基本面持续增强 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T02:03:20+00:00；来源：新华网。"
+            "发布时间：2026-10-13T23:11:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdXhxbEMtSThieExaQ1NpNVVWanFIMkNMWWJCeWlTMGJ1R0owSXpjaVJhbXZzZHdSNGNJdno4TWVvZGdBaWx6QlptM1lMZ21UNTI2SWdDLTVwUllh?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "赛场之上，每一击都从容掌控 - 新华网",
+          "title": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-13T01:59:41+00:00；来源：新华网。"
+            "发布时间：2026-10-13T23:11:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4TzhCZ1N1WWhlazUyaWtydkx4NTI1WjNoVHp2SnBZREd5SDVkcFREckVvMzBHOUw2eVM0b3VCYjlENmcwLUROTGt2bExVeXBFRXRobDBBazM4bjBQ?oc=5"
             }
           ]
         }
@@ -339,16 +336,16 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 5 课：对数收益率",
+      "title": "第 6 课：折现与现值",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
           "type": "explainer",
-          "title": "对数收益率",
-          "summary": "对数收益率 = ln(新值/前值)。跨期可相加，但不是账户实际盈亏百分比。",
+          "title": "折现与现值",
+          "summary": "现值 = 未来现金流 ÷ (1+折现率)^期数。利率变化和盈利变化应分开分析。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-08 前值 7765.3599，2026-10-09 现值 7811.5400，变化 +46.1802。",
-            "把本期指数的前值和现值代入；对数收益率与简单收益率在小变动时接近。"
+            "本期实例：美国 10 年期国债收益率，2026-10-08 前值 5.2200，2026-10-09 现值 5.2400，变化 +0.0200。",
+            "一年后 110 元，以 10% 折现得到 100 元。"
           ],
           "links": []
         }
@@ -373,199 +370,178 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-09"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-09"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-09"
+      "asOf": "2026-10-12"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-09"
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-12"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-12"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-09"
+      "asOf": "2026-10-12"
     },
     {
       "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-09"
+      "asOf": "2026-10-13"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-08"
+      "asOf": "2026-10-09"
     },
     {
-      "title": "IMF上调2026年世界经济增长预期至3.1%",
-      "url": "https://www.cnstock.com/commonDetail/801315",
-      "asOf": "2026-10-13T10:15:00+08:00"
+      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎",
+      "url": "https://www.cnstock.com/commonDetail/801871",
+      "asOf": "2026-10-14T07:23:00+08:00"
     },
     {
-      "title": "天阳科技：签署合同采购20000张英伟达GPU产品",
-      "url": "https://www.cnstock.com/commonDetail/801279",
-      "asOf": "2026-10-13T09:25:00+08:00"
+      "title": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐",
+      "url": "https://www.cnstock.com/commonDetail/801868",
+      "asOf": "2026-10-14T07:22:00+08:00"
     },
     {
-      "title": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
-      "url": "https://www.cnstock.com/commonDetail/801247",
-      "asOf": "2026-10-13T08:08:00+08:00"
+      "title": "“冷”产业遇上了“热”市场 算力散热倒逼技术革新 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DX2o1bFplb09qekE1SWxkb0pINXRRV3ItZHFlZzEzUmZoOS04Q0dLUnNZTFhiOEFOLUpXc2pESEMwaGk4S1lIN25ET3FJUjlVaVEwMnlENmNKdlBo?oc=5",
+      "asOf": "2026-10-13T23:58:00+00:00"
     },
     {
-      "title": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
-      "url": "https://www.cnstock.com/commonDetail/801252",
-      "asOf": "2026-10-13T08:08:00+08:00"
+      "title": "支付严监管持续 前三季度持牌支付机构罚单超40张 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVEtVdlp4ZDRlZV9sd3d1TFdCMW1mVE9GR1dMR2I2WmU3aVB0dVQzckVJY0ZnT1hfc200amNOejhFT3JidU9FbUdRSks2aEtzRmNTVmQtY3RzYy13?oc=5",
+      "asOf": "2026-10-13T23:57:00+00:00"
     },
     {
-      "title": "千行百业乘AI而上 工博会凸显制造业升级新图景",
-      "url": "https://www.cnstock.com/commonDetail/801236",
-      "asOf": "2026-10-13T07:16:00+08:00"
+      "title": "新一轮硅料产能限制计划正在酝酿 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xMWtxc2xzNENRRkwxM292cVRtYUwzaUZwWEItZkFDcUFrZzNGbWJVVVAtdktDTjluX01RQkJReUV4RXBKUU5vYkhVMkZYVTQ4eVZJOF8xa0oyMGhw?oc=5",
+      "asOf": "2026-10-13T23:52:00+00:00"
     },
     {
-      "title": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
-      "url": "https://www.cnstock.com/commonDetail/801238",
-      "asOf": "2026-10-13T07:14:00+08:00"
+      "title": "年内上市公司获重要股东增持逾550亿元 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSmI3dV91RnZtYzdhV1ZJUFhraTlZSXJXMG9OVUhVZ0luRXlBZ0MyOE5aUnc2TklsMGtHV2FfX0xrV2RfSk1hMjh5V3JKNEZXYkRXWG5Eb0Y4WnlK?oc=5",
+      "asOf": "2026-10-13T23:32:00+00:00"
     },
     {
-      "title": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5",
-      "asOf": "2026-10-13T02:19:58+00:00"
+      "title": "算力租赁大单频现 上市公司发力差异化布局 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZmFvY0F2ZWUwVUI3bGNFU2xoaEQ2b2hCR2hBMkZ0cFIycXVYbllGZjFLMHhJdlFMY3MxLVVNdUFmWm1RWEljUV8zTW5uNUwyY0hvQmkza2NSdU9v?oc=5",
+      "asOf": "2026-10-13T23:32:00+00:00"
     },
     {
-      "title": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5",
-      "asOf": "2026-10-13T02:11:48+00:00"
+      "title": "黑色产业链供需格局调整 期现结合助力企业稳健经营 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12SU1vTktSLTVTTjB3VlVORFFLeEJHTUJxYjFDQzNKaTk2enhKeWlXbktoZmlNejRKbWFSZWlmdVVVNjJsb3RTNzRUUTg3SmEzUUZXOXZPb1F6bVlx?oc=5",
+      "asOf": "2026-10-13T23:23:00+00:00"
     },
     {
-      "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5",
-      "asOf": "2026-10-13T02:03:20+00:00"
+      "title": "政策托底叠加企业盈利上行 A股中长期基本面持续增强 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdXhxbEMtSThieExaQ1NpNVVWanFIMkNMWWJCeWlTMGJ1R0owSXpjaVJhbXZzZHdSNGNJdno4TWVvZGdBaWx6QlptM1lMZ21UNTI2SWdDLTVwUllh?oc=5",
+      "asOf": "2026-10-13T23:11:00+00:00"
     },
     {
-      "title": "赛场之上，每一击都从容掌控 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5",
-      "asOf": "2026-10-13T01:59:41+00:00"
+      "title": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4TzhCZ1N1WWhlazUyaWtydkx4NTI1WjNoVHp2SnBZREd5SDVkcFREckVvMzBHOUw2eVM0b3VCYjlENmcwLUROTGt2bExVeXBFRXRobDBBazM4bjBQ?oc=5",
+      "asOf": "2026-10-13T23:11:00+00:00"
     }
   ],
   "events": [
     {
-      "event": "IMF上调2026年世界经济增长预期至3.1%",
-      "originalTitle": "IMF上调2026年世界经济增长预期至3.1%",
-      "published": "2026-10-13T10:15:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/801315",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/801315",
-        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
-        "sha256": "098d0d4a1c0c89147938f902b9c9bbce3c18915189de8683bf5b08d421924df0",
-        "paragraphCount": 8,
-        "excerpt": "新华社曼谷10月13日电（记者 耿凌楠 刘杨）国际货币基金组织（IMF）13日发布最新一期《世界经济展望报告》，小幅上调今年世界经济增长预期至3.1%，较7月预测值高0.1个百分点。IMF说，人工智能（AI）投资热潮对部分经济体的提振抵消了"
-      }
-    },
-    {
-      "event": "天阳科技：签署合同采购20000张英伟达GPU产品",
-      "originalTitle": "天阳科技：签署合同采购20000张英伟达GPU产品",
-      "published": "2026-10-13T09:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/801279",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/801279",
-        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
-        "sha256": "cf9b6a7177371b9972b2e1b40d488d34929418eec971d20d39c13d6926226bba",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月13日早间，天阳科技发布公告称，公司近日与X公司签署《销售合同》，公司向其采购20000张型号为NVIDIA RTX PRO 5500 Blackwell的英伟达GPU产品。该产品区别于大模型训练用GPU产品，主要用于AI应"
-      }
-    },
-    {
-      "event": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
-      "originalTitle": "2026金融街论坛年会10月19日开幕 金融监管部门主要负责人将出席并作主题演讲",
-      "published": "2026-10-13T08:08:00+08:00",
+      "event": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎",
+      "originalTitle": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎",
+      "published": "2026-10-14T07:23:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/801247",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/801247",
-        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
-        "sha256": "53efcec0730ec6ef8f012e06ce29c6c2e294bf93349f483dc442e03e2316d61a",
-        "paragraphCount": 8,
-        "excerpt": "2026金融街论坛年会将于10月19日至22日在北京金融街举办。上海证券报记者10月12日从2026金融街论坛年会新闻发布会上获悉，中国人民银行行长潘功胜、金融监管总局局长丁向群、中国证监会主席吴清、国家外汇局局长朱鹤新将出席2026金融街"
-      }
-    },
-    {
-      "event": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
-      "originalTitle": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
-      "published": "2026-10-13T08:08:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/801252",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/801252",
-        "retrievedAt": "2026-10-13T10:33:51.480609+08:00",
-        "sha256": "987cfd281f724e21721c215826e156e9b6329fd9e4bfe2f083f1c4cdde8e1d6d",
-        "paragraphCount": 17,
-        "excerpt": "“十五五”开局之年，“央地和鸣”成为国有企业资产整合的新风向。2026年，已有六组央地国企上市公司的整合案例出现，涵盖央企入主地方国资旗下上市公司、地方国资接棒央企控股上市公司控股权、地方国企反向入股央企，以及不涉及控制权变更的“资产换股权"
-      }
-    },
-    {
-      "event": "千行百业乘AI而上 工博会凸显制造业升级新图景",
-      "originalTitle": "千行百业乘AI而上 工博会凸显制造业升级新图景",
-      "published": "2026-10-13T07:16:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/801236",
+      "url": "https://www.cnstock.com/commonDetail/801871",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
-      "originalTitle": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
-      "published": "2026-10-13T07:14:00+08:00",
+      "event": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐",
+      "originalTitle": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐",
+      "published": "2026-10-14T07:22:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/801238",
-      "evidenceLevel": "headline-only"
+      "url": "https://www.cnstock.com/commonDetail/801868",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/801868",
+        "retrievedAt": "2026-10-14T08:16:47.097170+08:00",
+        "sha256": "b3a65c7a920e577863c7e584297b7f0e8b6c2a764d60ede829a13d5358da05b6",
+        "paragraphCount": 13,
+        "excerpt": "搬箱子、拧螺丝、上下料……第二十六届中国国际工业博览会（简称“工博会”）的机器人展区，宛如一个个临时工厂，ABB机器人、发那科、安川电机等国际机器人巨头悉数设展，与智元、节卡、新松、埃斯顿、汇川技术等本土力量正面交锋，比拼的主题只有一个：谁"
+      }
     },
     {
-      "event": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网",
-      "published": "2026-10-13T02:19:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT3diTzdoR2FfY1k0MV9qdmZtZVdtRGdSTDZObUIyX3B0QkxpMnd1S3F3NU9aQWNSbnQ2M3ZudERweC1weWhGSjQ4bk5sTWt5WURDT1hxWnhiNE9BaXFHR2twWndHckctbGViczI5VWlTdGRKeloxMVFPbUg3dzg?oc=5",
+      "event": "“冷”产业遇上了“热”市场 算力散热倒逼技术革新 - 证券时报网",
+      "published": "2026-10-13T23:58:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DX2o1bFplb09qekE1SWxkb0pINXRRV3ItZHFlZzEzUmZoOS04Q0dLUnNZTFhiOEFOLUpXc2pESEMwaGk4S1lIN25ET3FJUjlVaVEwMnlENmNKdlBo?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "广州—长沙—亚的斯亚贝巴航线首航 - 新华网"
+      "originalTitle": "“冷”产业遇上了“热”市场 算力散热倒逼技术革新 - 证券时报网"
     },
     {
-      "event": "IMF上调2026年世界经济增长预期至3.1% - 新华网",
-      "published": "2026-10-13T02:11:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXcxOF9RTkxEdzFVYVJvc08tQVhCN29BQS0wUzhTb0ZOUUJvWFZhWlltWldqWHFMbkZ3bnFiUFBrZ2hnQ1pVWDVrdlliOVR1Q0FTNEUwQjlBQTB0dGVTS1JGdUc0ZGhPREZ6bjNCNlF0eFY0cGl2X01ubXFLa1F3THB3?oc=5",
+      "event": "支付严监管持续 前三季度持牌支付机构罚单超40张 - 证券时报网",
+      "published": "2026-10-13T23:57:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVEtVdlp4ZDRlZV9sd3d1TFdCMW1mVE9GR1dMR2I2WmU3aVB0dVQzckVJY0ZnT1hfc200amNOejhFT3JidU9FbUdRSks2aEtzRmNTVmQtY3RzYy13?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "IMF上调2026年世界经济增长预期至3.1% - 新华网"
+      "originalTitle": "支付严监管持续 前三季度持牌支付机构罚单超40张 - 证券时报网"
     },
     {
-      "event": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网",
-      "published": "2026-10-13T02:03:20+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ01PSElHQi16bXFvUUZyZDRETThMOUp1NVVjWlVDR0JvOWJzb2Fla0tMZ0NjNzg2TzFiRmhvNGd4WEJjcklycW1JUDZUdDdLaS13bGhIeXZKSDNmVTFDQ1RfNjN6dXZyb2FlU2s0emVubXB3bkF1R3M5c1VUVDNUUGFB?oc=5",
+      "event": "新一轮硅料产能限制计划正在酝酿 - 证券时报网",
+      "published": "2026-10-13T23:52:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xMWtxc2xzNENRRkwxM292cVRtYUwzaUZwWEItZkFDcUFrZzNGbWJVVVAtdktDTjluX01RQkJReUV4RXBKUU5vYkhVMkZYVTQ4eVZJOF8xa0oyMGhw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社快讯：IMF上调2026年世界经济增长预期至3.1% - 新华网"
+      "originalTitle": "新一轮硅料产能限制计划正在酝酿 - 证券时报网"
     },
     {
-      "event": "赛场之上，每一击都从容掌控 - 新华网",
-      "published": "2026-10-13T01:59:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5",
+      "event": "年内上市公司获重要股东增持逾550亿元 - 证券时报网",
+      "published": "2026-10-13T23:32:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSmI3dV91RnZtYzdhV1ZJUFhraTlZSXJXMG9OVUhVZ0luRXlBZ0MyOE5aUnc2TklsMGtHV2FfX0xrV2RfSk1hMjh5V3JKNEZXYkRXWG5Eb0Y4WnlK?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "赛场之上，每一击都从容掌控 - 新华网"
+      "originalTitle": "年内上市公司获重要股东增持逾550亿元 - 证券时报网"
+    },
+    {
+      "event": "算力租赁大单频现 上市公司发力差异化布局 - 证券时报网",
+      "published": "2026-10-13T23:32:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZmFvY0F2ZWUwVUI3bGNFU2xoaEQ2b2hCR2hBMkZ0cFIycXVYbllGZjFLMHhJdlFMY3MxLVVNdUFmWm1RWEljUV8zTW5uNUwyY0hvQmkza2NSdU9v?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "算力租赁大单频现 上市公司发力差异化布局 - 证券时报网"
+    },
+    {
+      "event": "黑色产业链供需格局调整 期现结合助力企业稳健经营 - 证券时报网",
+      "published": "2026-10-13T23:23:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12SU1vTktSLTVTTjB3VlVORFFLeEJHTUJxYjFDQzNKaTk2enhKeWlXbktoZmlNejRKbWFSZWlmdVVVNjJsb3RTNzRUUTg3SmEzUUZXOXZPb1F6bVlx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "黑色产业链供需格局调整 期现结合助力企业稳健经营 - 证券时报网"
+    },
+    {
+      "event": "政策托底叠加企业盈利上行 A股中长期基本面持续增强 - 证券时报网",
+      "published": "2026-10-13T23:11:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdXhxbEMtSThieExaQ1NpNVVWanFIMkNMWWJCeWlTMGJ1R0owSXpjaVJhbXZzZHdSNGNJdno4TWVvZGdBaWx6QlptM1lMZ21UNTI2SWdDLTVwUllh?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "政策托底叠加企业盈利上行 A股中长期基本面持续增强 - 证券时报网"
+    },
+    {
+      "event": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐 - 证券时报网",
+      "published": "2026-10-13T23:11:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4TzhCZ1N1WWhlazUyaWtydkx4NTI1WjNoVHp2SnBZREd5SDVkcFREckVvMzBHOUw2eVM0b3VCYjlENmcwLUROTGt2bExVeXBFRXRobDBBazM4bjBQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中外机器人比拼“干活”能力 具身智能加快“进厂”步伐 - 证券时报网"
     }
   ],
   "quality": {
@@ -581,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError"
     ]
   }
