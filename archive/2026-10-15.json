@@ -1,0 +1,551 @@
+{
+  "edition": "财经晨报 · 2026-10-15",
+  "date": "更新于北京时间 2026-10-15 07:54",
+  "reportDate": "2026-10-15",
+  "updatedAt": "2026-10-15T07:54:12+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经晨报",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 10 条财经消息",
+  "notification": {
+    "title": "2026-10-15 财经晨报",
+    "summary": "7 项市场数据 · 10 条财经消息"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-13：7,805.45 点；较 2026-10-12 变化 -1.79 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-13：105.69 美元/桶；较 2026-10-12 变化 -0.96 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-13：5.21 %；较 2026-10-09 变化 -0.03 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "105.69 美元/桶；变化 -0.96 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 106.65（2026-10-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.79 %；变化 -0.01 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 4.80（2026-10-09）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.21 %；变化 -0.03 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 5.24（2026-10-09）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.18 点；变化 -0.40 点",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 102.58（2026-10-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,805.45 点；变化 -1.79 点",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 7,807.24（2026-10-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "27,204.38 点；变化 -41.52 点",
+          "paragraphs": [
+            "观测日 2026-10-13；前值 27,245.90（2026-10-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6920 人民币/美元；变化 +0.0000 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-14；前值 6.6920（2026-10-13）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "全球智能家居赛道加速转型 国内产业链迎增量机会 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yMXAzWHllUlZsd3E5MjI1dUJrOGt4WXFXQmc0ZUp0WTBscWwwQ3hjOGRYcVRHYVRmT3B2Z1IyMFdOSlh6UzFoZUJ5UXl5cEQ3Sm9pd2ZLRk8tdmpP?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“A+H”扩容打开的不只是融资通道 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fR0oyVjZ1TVdrWU02NU5NOGxSRE40WVJCV0cwSGVSV1pWUU40SENIVHozdWF2XzBKeUFIb0E2N3dzT0RGbEVuenVMSGR6Y2xmU20xaGhsaGJLZDlP?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "AI硬件需求持续兑现 多家算力上市公司三季报预喜 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNllHRnVNUVVUcXFISy1CeXhMWE93Q2lUUklLMGYyRjlSSDZ4MTB6bHlkM0VjNHdLQmRMdXJuN1o5dGNKa0NHNEx3eXNSOE1hT1I4ZTlSanhRNFM5?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "结构优化 AI赋能 券商研究业务加速转型 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zLUVQOFV0MTBiTTFlSll3Tm5vc0ZzdUh2d045X0xpRExPSm9CeWkybHpXaGpiNkZyV3FUZTdnRGNvOEJ2RF9Ed2lxekQ1eFZVOXN1X3FEeG9KX1gx?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上海跨境金融提质增效 护航出海企业扬帆远航 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:50:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92amQzSEF2ekVkWkV3MFIwUFM3a1JUSEs1eWJEVzdVZjlzd0NnbW5kWXdQMkJYb1pxZnF0c3ZJSVJPdVo5bWowRTc2RHVSV2tZRUl6Szlla19KV1FE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“大师”摘牌的三重启示 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:30:25+00:00；来源：新华网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmRvaXQwRWQxZXlRSDZTRTh0SDVnbkFDWnF0Z2M5UEVwVGlRZVVXeUVyV1hnZmIxSVlCcGNFbDU3cElZaUltRU82V1JmdDV4NUxFd1BtbW1JeTFMODc1MWxCT09uZ0JFZWNJeHhtY1Y2UXZUemFNaGY3S2RNNlJENTlITQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "OPC轻资产创业者迎来金融“解渴”时刻 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:21:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dlF2d2RDVHl1RVktN28yN1cyMFRyNmJndUJ3cjNvSW42Sm9Lcy02ajNBT3M0WkpIakxsRVhjRUQ3ZUhwN19rWlU5RnZMQS1Ra3ZoUzhGOHMwTXJZ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "小金属锡，“算力金属”属性驱动价值重估 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:21:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ITVZhODNiZFpQSG9tOEFYeC1LTUwyLVBZRE1acFU4TnpCb0U2TmpRX3FPbG0wRnk1aC05VW1YcU5HVVVhNjFKeHB2RVFUN0RVelZjdEJBNUFtblFC?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "财政部向金融央企注资事项迎新进展 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:21:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wVzNYNkwwQ1F0anNReDFGM1NTNHhyN2F4TUc4MFFZMGJSNDlxbFlkVVpwMlZvZDNsNUYyZjJIX1lmSUdSZGFleXNWeDl0LUdRUEZ4ZmJJNWhZM3E5?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "北向资金三季度调仓 银行、医药板块持仓市值增幅显著 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-14T23:12:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUTBoMS1pVVlqX21ZTERJdWtOVGJUMlloX21IcE5xSjFoMmxMUDNKVjRtUVBjMnhEVTItcDJaYUZDQS1LWmwyWEFybS15N1BEVGpmTG1fRXlDWno2?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 7 课：债券价格与收益率",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "债券价格与收益率",
+          "summary": "固定现金流不变时，市场要求的收益率上升，债券价格下降。",
+          "paragraphs": [
+            "本期实例：美国 10 年期国债收益率，2026-10-09 前值 5.2400，2026-10-13 现值 5.2100，变化 -0.0300。",
+            "国债收益率的上涨不是持有旧债券的价格收益。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-14"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-13"
+    },
+    {
+      "title": "全球智能家居赛道加速转型 国内产业链迎增量机会 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yMXAzWHllUlZsd3E5MjI1dUJrOGt4WXFXQmc0ZUp0WTBscWwwQ3hjOGRYcVRHYVRmT3B2Z1IyMFdOSlh6UzFoZUJ5UXl5cEQ3Sm9pd2ZLRk8tdmpP?oc=5",
+      "asOf": "2026-10-14T23:51:00+00:00"
+    },
+    {
+      "title": "“A+H”扩容打开的不只是融资通道 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fR0oyVjZ1TVdrWU02NU5NOGxSRE40WVJCV0cwSGVSV1pWUU40SENIVHozdWF2XzBKeUFIb0E2N3dzT0RGbEVuenVMSGR6Y2xmU20xaGhsaGJLZDlP?oc=5",
+      "asOf": "2026-10-14T23:51:00+00:00"
+    },
+    {
+      "title": "AI硬件需求持续兑现 多家算力上市公司三季报预喜 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNllHRnVNUVVUcXFISy1CeXhMWE93Q2lUUklLMGYyRjlSSDZ4MTB6bHlkM0VjNHdLQmRMdXJuN1o5dGNKa0NHNEx3eXNSOE1hT1I4ZTlSanhRNFM5?oc=5",
+      "asOf": "2026-10-14T23:51:00+00:00"
+    },
+    {
+      "title": "结构优化 AI赋能 券商研究业务加速转型 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zLUVQOFV0MTBiTTFlSll3Tm5vc0ZzdUh2d045X0xpRExPSm9CeWkybHpXaGpiNkZyV3FUZTdnRGNvOEJ2RF9Ed2lxekQ1eFZVOXN1X3FEeG9KX1gx?oc=5",
+      "asOf": "2026-10-14T23:51:00+00:00"
+    },
+    {
+      "title": "上海跨境金融提质增效 护航出海企业扬帆远航 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92amQzSEF2ekVkWkV3MFIwUFM3a1JUSEs1eWJEVzdVZjlzd0NnbW5kWXdQMkJYb1pxZnF0c3ZJSVJPdVo5bWowRTc2RHVSV2tZRUl6Szlla19KV1FE?oc=5",
+      "asOf": "2026-10-14T23:50:00+00:00"
+    },
+    {
+      "title": "“大师”摘牌的三重启示 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmRvaXQwRWQxZXlRSDZTRTh0SDVnbkFDWnF0Z2M5UEVwVGlRZVVXeUVyV1hnZmIxSVlCcGNFbDU3cElZaUltRU82V1JmdDV4NUxFd1BtbW1JeTFMODc1MWxCT09uZ0JFZWNJeHhtY1Y2UXZUemFNaGY3S2RNNlJENTlITQ?oc=5",
+      "asOf": "2026-10-14T23:30:25+00:00"
+    },
+    {
+      "title": "OPC轻资产创业者迎来金融“解渴”时刻 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dlF2d2RDVHl1RVktN28yN1cyMFRyNmJndUJ3cjNvSW42Sm9Lcy02ajNBT3M0WkpIakxsRVhjRUQ3ZUhwN19rWlU5RnZMQS1Ra3ZoUzhGOHMwTXJZ?oc=5",
+      "asOf": "2026-10-14T23:21:00+00:00"
+    },
+    {
+      "title": "小金属锡，“算力金属”属性驱动价值重估 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ITVZhODNiZFpQSG9tOEFYeC1LTUwyLVBZRE1acFU4TnpCb0U2TmpRX3FPbG0wRnk1aC05VW1YcU5HVVVhNjFKeHB2RVFUN0RVelZjdEJBNUFtblFC?oc=5",
+      "asOf": "2026-10-14T23:21:00+00:00"
+    },
+    {
+      "title": "财政部向金融央企注资事项迎新进展 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wVzNYNkwwQ1F0anNReDFGM1NTNHhyN2F4TUc4MFFZMGJSNDlxbFlkVVpwMlZvZDNsNUYyZjJIX1lmSUdSZGFleXNWeDl0LUdRUEZ4ZmJJNWhZM3E5?oc=5",
+      "asOf": "2026-10-14T23:21:00+00:00"
+    },
+    {
+      "title": "北向资金三季度调仓 银行、医药板块持仓市值增幅显著 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUTBoMS1pVVlqX21ZTERJdWtOVGJUMlloX21IcE5xSjFoMmxMUDNKVjRtUVBjMnhEVTItcDJaYUZDQS1LWmwyWEFybS15N1BEVGpmTG1fRXlDWno2?oc=5",
+      "asOf": "2026-10-14T23:12:00+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "全球智能家居赛道加速转型 国内产业链迎增量机会 - 证券时报网",
+      "published": "2026-10-14T23:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yMXAzWHllUlZsd3E5MjI1dUJrOGt4WXFXQmc0ZUp0WTBscWwwQ3hjOGRYcVRHYVRmT3B2Z1IyMFdOSlh6UzFoZUJ5UXl5cEQ3Sm9pd2ZLRk8tdmpP?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全球智能家居赛道加速转型 国内产业链迎增量机会 - 证券时报网"
+    },
+    {
+      "event": "“A+H”扩容打开的不只是融资通道 - 证券时报网",
+      "published": "2026-10-14T23:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fR0oyVjZ1TVdrWU02NU5NOGxSRE40WVJCV0cwSGVSV1pWUU40SENIVHozdWF2XzBKeUFIb0E2N3dzT0RGbEVuenVMSGR6Y2xmU20xaGhsaGJLZDlP?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“A+H”扩容打开的不只是融资通道 - 证券时报网"
+    },
+    {
+      "event": "AI硬件需求持续兑现 多家算力上市公司三季报预喜 - 证券时报网",
+      "published": "2026-10-14T23:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNllHRnVNUVVUcXFISy1CeXhMWE93Q2lUUklLMGYyRjlSSDZ4MTB6bHlkM0VjNHdLQmRMdXJuN1o5dGNKa0NHNEx3eXNSOE1hT1I4ZTlSanhRNFM5?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "AI硬件需求持续兑现 多家算力上市公司三季报预喜 - 证券时报网"
+    },
+    {
+      "event": "结构优化 AI赋能 券商研究业务加速转型 - 证券时报网",
+      "published": "2026-10-14T23:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zLUVQOFV0MTBiTTFlSll3Tm5vc0ZzdUh2d045X0xpRExPSm9CeWkybHpXaGpiNkZyV3FUZTdnRGNvOEJ2RF9Ed2lxekQ1eFZVOXN1X3FEeG9KX1gx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "结构优化 AI赋能 券商研究业务加速转型 - 证券时报网"
+    },
+    {
+      "event": "上海跨境金融提质增效 护航出海企业扬帆远航 - 证券时报网",
+      "published": "2026-10-14T23:50:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92amQzSEF2ekVkWkV3MFIwUFM3a1JUSEs1eWJEVzdVZjlzd0NnbW5kWXdQMkJYb1pxZnF0c3ZJSVJPdVo5bWowRTc2RHVSV2tZRUl6Szlla19KV1FE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海跨境金融提质增效 护航出海企业扬帆远航 - 证券时报网"
+    },
+    {
+      "event": "“大师”摘牌的三重启示 - 新华网",
+      "published": "2026-10-14T23:30:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmRvaXQwRWQxZXlRSDZTRTh0SDVnbkFDWnF0Z2M5UEVwVGlRZVVXeUVyV1hnZmIxSVlCcGNFbDU3cElZaUltRU82V1JmdDV4NUxFd1BtbW1JeTFMODc1MWxCT09uZ0JFZWNJeHhtY1Y2UXZUemFNaGY3S2RNNlJENTlITQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“大师”摘牌的三重启示 - 新华网"
+    },
+    {
+      "event": "OPC轻资产创业者迎来金融“解渴”时刻 - 证券时报网",
+      "published": "2026-10-14T23:21:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dlF2d2RDVHl1RVktN28yN1cyMFRyNmJndUJ3cjNvSW42Sm9Lcy02ajNBT3M0WkpIakxsRVhjRUQ3ZUhwN19rWlU5RnZMQS1Ra3ZoUzhGOHMwTXJZ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "OPC轻资产创业者迎来金融“解渴”时刻 - 证券时报网"
+    },
+    {
+      "event": "小金属锡，“算力金属”属性驱动价值重估 - 证券时报网",
+      "published": "2026-10-14T23:21:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ITVZhODNiZFpQSG9tOEFYeC1LTUwyLVBZRE1acFU4TnpCb0U2TmpRX3FPbG0wRnk1aC05VW1YcU5HVVVhNjFKeHB2RVFUN0RVelZjdEJBNUFtblFC?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "小金属锡，“算力金属”属性驱动价值重估 - 证券时报网"
+    },
+    {
+      "event": "财政部向金融央企注资事项迎新进展 - 证券时报网",
+      "published": "2026-10-14T23:21:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wVzNYNkwwQ1F0anNReDFGM1NTNHhyN2F4TUc4MFFZMGJSNDlxbFlkVVpwMlZvZDNsNUYyZjJIX1lmSUdSZGFleXNWeDl0LUdRUEZ4ZmJJNWhZM3E5?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "财政部向金融央企注资事项迎新进展 - 证券时报网"
+    },
+    {
+      "event": "北向资金三季度调仓 银行、医药板块持仓市值增幅显著 - 证券时报网",
+      "published": "2026-10-14T23:12:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUTBoMS1pVVlqX21ZTERJdWtOVGJUMlloX21IcE5xSjFoMmxMUDNKVjRtUVBjMnhEVTItcDJaYUZDQS1LWmwyWEFybS15N1BEVGpmTG1fRXlDWno2?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "北向资金三季度调仓 银行、医药板块持仓市值增幅显著 - 证券时报网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
