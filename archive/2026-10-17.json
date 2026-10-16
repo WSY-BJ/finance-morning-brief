@@ -1,0 +1,553 @@
+{
+  "edition": "财经晨报 · 2026-10-17",
+  "date": "更新于北京时间 2026-10-17 07:33",
+  "reportDate": "2026-10-17",
+  "updatedAt": "2026-10-17T07:33:44+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经晨报",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 10 条财经消息",
+  "notification": {
+    "title": "2026-10-17 财经晨报",
+    "summary": "7 项市场数据 · 10 条财经消息"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-14：126.55 美元/桶；较 2026-10-13 变化 +0.77 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-15：7,744.06 点；较 2026-10-14 变化 +25.12 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-15：5.10 %；较 2026-10-14 变化 -0.09 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "126.55 美元/桶；变化 +0.77 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-14；前值 125.78（2026-10-13）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.77 %；变化 -0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-15；前值 4.82（2026-10-14）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.10 %；变化 -0.09 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-15；前值 5.19（2026-10-14）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.00 点；变化 -0.55 点",
+          "paragraphs": [
+            "观测日 2026-10-15；前值 102.55（2026-10-14）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,744.06 点；变化 +25.12 点",
+          "paragraphs": [
+            "观测日 2026-10-15；前值 7,718.94（2026-10-14）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,713.03 点；变化 +20.16 点",
+          "paragraphs": [
+            "观测日 2026-10-15；前值 26,692.87（2026-10-14）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6768 人民币/美元；变化 -0.0141 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-16；前值 6.6909（2026-10-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:16:36+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwY0FYRGNaZ29VU2pKQ1J0cG1ZQ2RDcHBDNlZiNmx1amhERmwxbkZuVlh4WWw5MmpTeTRDTmhtSUFsX1F5WlVJcmJuejc0LVExaEFMcENkMm9WU0gxRGhYTXlLNm8wbjJMcEduQzgtVmR2Zw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "恒通物流股份有限公司关于股份回购进展公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbVVrc25ZNVZyUWo4R0RsWkxPV0RhTXRBSDFybVE5c3NjRVkyNGZYRHVtejNYRnIzbkZ0QUZCOW9MQm13RzdYaWVlLUJoejFuYy1PMWRLOWtNdS01bDhMTTN5T0dPSDJmQzhMb05B?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施的提示性公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjQmhfZ2wyY2xhZ0JqbFhPMU11ajJFa1p1S1JsVG5mZ05rUGhGVXVqTUlpeU1zQXc0MGtKVVdUOThqbnptdWxzMWptWHBKU19OUHV6R09LdHBhSnQ0LUhXY1F4ZFJ6cE9GUHhJUGhR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "重庆华森制药股份有限公司关于公司获得药品注册证书的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdGd5SE9WZ1BwWGpVa19UeFM5VE1JLUpxeU93QUJ6Vmo2d1I1WG1FS1NZNUNYZkJQMHhMUWp5MDNYOTgxS3JPRElhQ2l5WUl4ZWFVT2U3ZTdXRFgteDhBVXpDd2dIN0dOZTdGOXd3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "烟台杰瑞石油服务集团股份有限公司关于奋斗者11号员工持股计划非交易过户完成的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yLXNXZFc0emRBTU9Pc0FpdFNJQWZrLXppQUlxNG1jNXNxeWhzcnVRQ1pNYzBydy03bnAwaXQ4b1BlSkNTd04wY3ZxRG5weU5iQndEYkRIVjZoNjFlLWNzcHQ4dGlwdWVpVHJUV0RR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广西农投糖业集团股份有限公司关于公司及相关当事人收到《行政处罚决定书》的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WdV8xZU4ydXZFUG5wekFQNWVNM2t1SkxzX2paVmNFcXFGeHlXdjZQM0ViTVMtTzBuTm8yWmk5eWp3SFR2bHBzYkNWZC1BN1A5TG9pbXR5TEpiVHhVR0NfNVhxWkpWVE85X2Z5R0l3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "闻泰科技股份有限公司关于重大资产出售的进展公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRTg1NnBxQlVJSzdHQmZtYm1ScmlMOVQ4SThaWkRTbVlSbklJS1F6SURCSElncW5tRzJUS0pRMzc1NnZtMld1b1J4akNNRDd5aExYSkJLbDNRdE4zcWNDdGJZbE9vcDg4a1ItZVl3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "四方光电股份有限公司关于持股5%以上股东部分股份质押的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tU1dIUjgtdXIyWTZGcl9BeFBnM1c1eFdtTFpHc1lvTlBnWEFYTVVBLW5FTnotVmxxR1M1UFktbURNOUpKeVhCS0V5Y1p1NDQ0RTFIMDZsLUk5NmZiWXBBcW1kX1RlakV5QTU4VmlR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江阴江化微电子材料股份有限公司关于收购控股子公司江化微福芯少数股东权益进展暨关联交易完成工商变更登记的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Y25QVVdCRHZnRlJDbWo4WEJ4OUhBSUhsSmRaZ1BiVHYyVXNPVzE3ZnVTclgxRm5mQzNETWJFQWU0NnFVSl96NVlpLWhOR2dNMzdZWkl2eFMyS0tCbjA3Q3pzcG1EbThFRXUwVXRn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "杭州永创智能设备股份有限公司关于控股股东的一致行动人增持股份计划实施完毕暨增持结果的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-16T20:02:04+00:00；来源：上海证券报电子版。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnQ3b3N4NThjSnpRRFBQb0hZRWpaNDlDU1dFdFRMZ1hfNlRhcmxIYUNhbXQzQmJMRktSVEEwZWplcUpXdUgtMi1HendGZkdCVHpWZVJ2U3VULVM4Z0xVaTdDQ2xKWGJYcUdvZ0JR?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 9 课：波动率",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "波动率",
+          "summary": "波动率是收益率的标准差，需多期数据；单日涨跌无法给出可靠波动率。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-14 前值 7718.9399，2026-10-15 现值 7744.0601，变化 +25.1201。",
+            "日波动年化常乘 √252，这依赖交易日及收益独立等假设。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-14"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-16"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-15"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-15"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-15"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-15"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-15"
+    },
+    {
+      "title": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwY0FYRGNaZ29VU2pKQ1J0cG1ZQ2RDcHBDNlZiNmx1amhERmwxbkZuVlh4WWw5MmpTeTRDTmhtSUFsX1F5WlVJcmJuejc0LVExaEFMcENkMm9WU0gxRGhYTXlLNm8wbjJMcEduQzgtVmR2Zw?oc=5",
+      "asOf": "2026-10-16T20:16:36+00:00"
+    },
+    {
+      "title": "恒通物流股份有限公司关于股份回购进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbVVrc25ZNVZyUWo4R0RsWkxPV0RhTXRBSDFybVE5c3NjRVkyNGZYRHVtejNYRnIzbkZ0QUZCOW9MQm13RzdYaWVlLUJoejFuYy1PMWRLOWtNdS01bDhMTTN5T0dPSDJmQzhMb05B?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施的提示性公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjQmhfZ2wyY2xhZ0JqbFhPMU11ajJFa1p1S1JsVG5mZ05rUGhGVXVqTUlpeU1zQXc0MGtKVVdUOThqbnptdWxzMWptWHBKU19OUHV6R09LdHBhSnQ0LUhXY1F4ZFJ6cE9GUHhJUGhR?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "重庆华森制药股份有限公司关于公司获得药品注册证书的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdGd5SE9WZ1BwWGpVa19UeFM5VE1JLUpxeU93QUJ6Vmo2d1I1WG1FS1NZNUNYZkJQMHhMUWp5MDNYOTgxS3JPRElhQ2l5WUl4ZWFVT2U3ZTdXRFgteDhBVXpDd2dIN0dOZTdGOXd3?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "烟台杰瑞石油服务集团股份有限公司关于奋斗者11号员工持股计划非交易过户完成的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yLXNXZFc0emRBTU9Pc0FpdFNJQWZrLXppQUlxNG1jNXNxeWhzcnVRQ1pNYzBydy03bnAwaXQ4b1BlSkNTd04wY3ZxRG5weU5iQndEYkRIVjZoNjFlLWNzcHQ4dGlwdWVpVHJUV0RR?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "广西农投糖业集团股份有限公司关于公司及相关当事人收到《行政处罚决定书》的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WdV8xZU4ydXZFUG5wekFQNWVNM2t1SkxzX2paVmNFcXFGeHlXdjZQM0ViTVMtTzBuTm8yWmk5eWp3SFR2bHBzYkNWZC1BN1A5TG9pbXR5TEpiVHhVR0NfNVhxWkpWVE85X2Z5R0l3?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "闻泰科技股份有限公司关于重大资产出售的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRTg1NnBxQlVJSzdHQmZtYm1ScmlMOVQ4SThaWkRTbVlSbklJS1F6SURCSElncW5tRzJUS0pRMzc1NnZtMld1b1J4akNNRDd5aExYSkJLbDNRdE4zcWNDdGJZbE9vcDg4a1ItZVl3?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "四方光电股份有限公司关于持股5%以上股东部分股份质押的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tU1dIUjgtdXIyWTZGcl9BeFBnM1c1eFdtTFpHc1lvTlBnWEFYTVVBLW5FTnotVmxxR1M1UFktbURNOUpKeVhCS0V5Y1p1NDQ0RTFIMDZsLUk5NmZiWXBBcW1kX1RlakV5QTU4VmlR?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "江阴江化微电子材料股份有限公司关于收购控股子公司江化微福芯少数股东权益进展暨关联交易完成工商变更登记的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Y25QVVdCRHZnRlJDbWo4WEJ4OUhBSUhsSmRaZ1BiVHYyVXNPVzE3ZnVTclgxRm5mQzNETWJFQWU0NnFVSl96NVlpLWhOR2dNMzdZWkl2eFMyS0tCbjA3Q3pzcG1EbThFRXUwVXRn?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    },
+    {
+      "title": "杭州永创智能设备股份有限公司关于控股股东的一致行动人增持股份计划实施完毕暨增持结果的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnQ3b3N4NThjSnpRRFBQb0hZRWpaNDlDU1dFdFRMZ1hfNlRhcmxIYUNhbXQzQmJMRktSVEEwZWplcUpXdUgtMi1HendGZkdCVHpWZVJ2U3VULVM4Z0xVaTdDQ2xKWGJYcUdvZ0JR?oc=5",
+      "asOf": "2026-10-16T20:02:04+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
+      "published": "2026-10-16T20:16:36+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwY0FYRGNaZ29VU2pKQ1J0cG1ZQ2RDcHBDNlZiNmx1amhERmwxbkZuVlh4WWw5MmpTeTRDTmhtSUFsX1F5WlVJcmJuejc0LVExaEFMcENkMm9WU0gxRGhYTXlLNm8wbjJMcEduQzgtVmR2Zw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网"
+    },
+    {
+      "event": "恒通物流股份有限公司关于股份回购进展公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbVVrc25ZNVZyUWo4R0RsWkxPV0RhTXRBSDFybVE5c3NjRVkyNGZYRHVtejNYRnIzbkZ0QUZCOW9MQm13RzdYaWVlLUJoejFuYy1PMWRLOWtNdS01bDhMTTN5T0dPSDJmQzhMb05B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "恒通物流股份有限公司关于股份回购进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施的提示性公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjQmhfZ2wyY2xhZ0JqbFhPMU11ajJFa1p1S1JsVG5mZ05rUGhGVXVqTUlpeU1zQXc0MGtKVVdUOThqbnptdWxzMWptWHBKU19OUHV6R09LdHBhSnQ0LUhXY1F4ZFJ6cE9GUHhJUGhR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施的提示性公告 - 上海证券报电子版"
+    },
+    {
+      "event": "重庆华森制药股份有限公司关于公司获得药品注册证书的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdGd5SE9WZ1BwWGpVa19UeFM5VE1JLUpxeU93QUJ6Vmo2d1I1WG1FS1NZNUNYZkJQMHhMUWp5MDNYOTgxS3JPRElhQ2l5WUl4ZWFVT2U3ZTdXRFgteDhBVXpDd2dIN0dOZTdGOXd3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "重庆华森制药股份有限公司关于公司获得药品注册证书的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "烟台杰瑞石油服务集团股份有限公司关于奋斗者11号员工持股计划非交易过户完成的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yLXNXZFc0emRBTU9Pc0FpdFNJQWZrLXppQUlxNG1jNXNxeWhzcnVRQ1pNYzBydy03bnAwaXQ4b1BlSkNTd04wY3ZxRG5weU5iQndEYkRIVjZoNjFlLWNzcHQ4dGlwdWVpVHJUV0RR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "烟台杰瑞石油服务集团股份有限公司关于奋斗者11号员工持股计划非交易过户完成的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "广西农投糖业集团股份有限公司关于公司及相关当事人收到《行政处罚决定书》的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WdV8xZU4ydXZFUG5wekFQNWVNM2t1SkxzX2paVmNFcXFGeHlXdjZQM0ViTVMtTzBuTm8yWmk5eWp3SFR2bHBzYkNWZC1BN1A5TG9pbXR5TEpiVHhVR0NfNVhxWkpWVE85X2Z5R0l3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广西农投糖业集团股份有限公司关于公司及相关当事人收到《行政处罚决定书》的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "闻泰科技股份有限公司关于重大资产出售的进展公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRTg1NnBxQlVJSzdHQmZtYm1ScmlMOVQ4SThaWkRTbVlSbklJS1F6SURCSElncW5tRzJUS0pRMzc1NnZtMld1b1J4akNNRDd5aExYSkJLbDNRdE4zcWNDdGJZbE9vcDg4a1ItZVl3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "闻泰科技股份有限公司关于重大资产出售的进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "四方光电股份有限公司关于持股5%以上股东部分股份质押的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tU1dIUjgtdXIyWTZGcl9BeFBnM1c1eFdtTFpHc1lvTlBnWEFYTVVBLW5FTnotVmxxR1M1UFktbURNOUpKeVhCS0V5Y1p1NDQ0RTFIMDZsLUk5NmZiWXBBcW1kX1RlakV5QTU4VmlR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "四方光电股份有限公司关于持股5%以上股东部分股份质押的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "江阴江化微电子材料股份有限公司关于收购控股子公司江化微福芯少数股东权益进展暨关联交易完成工商变更登记的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Y25QVVdCRHZnRlJDbWo4WEJ4OUhBSUhsSmRaZ1BiVHYyVXNPVzE3ZnVTclgxRm5mQzNETWJFQWU0NnFVSl96NVlpLWhOR2dNMzdZWkl2eFMyS0tCbjA3Q3pzcG1EbThFRXUwVXRn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江阴江化微电子材料股份有限公司关于收购控股子公司江化微福芯少数股东权益进展暨关联交易完成工商变更登记的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "杭州永创智能设备股份有限公司关于控股股东的一致行动人增持股份计划实施完毕暨增持结果的公告 - 上海证券报电子版",
+      "published": "2026-10-16T20:02:04+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnQ3b3N4NThjSnpRRFBQb0hZRWpaNDlDU1dFdFRMZ1hfNlRhcmxIYUNhbXQzQmJMRktSVEEwZWplcUpXdUgtMi1HendGZkdCVHpWZVJ2U3VULVM4Z0xVaTdDQ2xKWGJYcUdvZ0JR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "杭州永创智能设备股份有限公司关于控股股东的一致行动人增持股份计划实施完毕暨增持结果的公告 - 上海证券报电子版"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中国证券网原文: URLError"
+    ]
+  }
+}
