@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-18",
-  "date": "更新于北京时间 2026-10-18 07:06",
-  "reportDate": "2026-10-18",
-  "updatedAt": "2026-10-18T07:06:35+08:00",
+  "edition": "财经晨报 · 2026-10-19",
+  "date": "更新于北京时间 2026-10-19 07:08",
+  "reportDate": "2026-10-19",
+  "updatedAt": "2026-10-19T07:08:46+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经晨报",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 10 条财经消息",
   "notification": {
-    "title": "2026-10-18 财经晨报",
+    "title": "2026-10-19 财经晨报",
     "summary": "7 项市场数据 · 10 条财经消息"
   },
   "pages": [
@@ -33,25 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-14：126.55 美元/桶；较 2026-10-13 变化 +0.77 美元/桶。",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-16：109.86 美元/桶；较 2026-10-15 变化 +3.94 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-15：5.10 %；较 2026-10-14 变化 -0.09 个百分点。",
+          "summary": "2026-10-16：5.09 %；较 2026-10-15 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -65,43 +65,43 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "126.55 美元/桶；变化 +0.77 美元/桶",
+          "title": "Brent 原油期货",
+          "summary": "109.86 美元/桶；变化 +3.94 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-14；前值 125.78（2026-10-13）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-16；前值 105.92（2026-10-15）；来源：Yahoo Finance。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.77 %；变化 -0.05 个百分点",
+          "summary": "4.74 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-15；前值 4.82（2026-10-14）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-16；前值 4.77（2026-10-15）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.10 %；变化 -0.09 个百分点",
+          "summary": "5.09 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-15；前值 5.19（2026-10-14）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-16；前值 5.10（2026-10-15）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6768 人民币/美元；变化 -0.0141 人民币/美元",
+          "summary": "6.6855 人民币/美元；变化 -0.0054 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-17；前值 6.6909（2026-10-16）；来源：Yahoo Finance。"
+            "观测日 2026-10-18；前值 6.6909（2026-10-16）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,141 +177,141 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "也门胡塞武装称击落一架沙特“阿帕奇”武装直升机 - 新华网",
+          "title": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T22:30:29+00:00；来源：新华网。"
+            "发布时间：2026-10-18T23:00:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tejFVd0dOUGlMajA3ekdzaGpuZUZKay1TdGtaNVZyV19wMUVNbTN1WjZhalpsU01QTDVmNnhBZXhFRGZsZ1hUN3hLY2tEdEdCSmo3RTJvaUVOVS0xaVZNWlhSZ09HdExFbGVBWTNvQXVhdHJNRHpTSTdXYUE4Wkk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "多元文化在马来西亚相遇交融 - 新华网",
+          "title": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T22:05:51+00:00；来源：新华网。"
+            "发布时间：2026-10-18T20:44:05+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpMU16RWg0MzN1eE9hOEtTT0stZ0o0ZFhNYXhBZWJDUzBrdGRxcHRJV2hyMW1qS2dvTlJLSG1GTExJQWF3aGJWd3B3WmNVQS05bEF6RXdOM2JnM2J2M0swWGlVRHNJYmRNVTRLOHByaEppdkNpeTlR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网",
+          "title": "黑山总理斯帕伊奇会见王毅 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T21:48:10+00:00；来源：新华网。"
+            "发布时间：2026-10-18T19:02:35+00:00；来源：新华网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90cFZCeklGeU94c2Y1WHIxaThYU0N0SF9RVWd1Z1dNdGVnM1g4ZHlZTWdzMXlsMWRiUW96aXo3WHRsXzk0TWo5cnktYk05amlwbkJVZGpEWml3ZzZ3QUpUTFFTdEZ6TFQxejZFRHBKQXRPRllCQ2VvOGVjUnNaVTA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网",
+          "title": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T21:32:42+00:00；来源：新华网。"
+            "发布时间：2026-10-18T18:10:27+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQjJDNFNLaEJKQ1ZWVktvSWNMM2FxLVJMZW4tcG9mQWhDbHdXUXhINzc5OXdvaW1yYlo0V0o3X0lMRldybzVaY04tNGs2ajNuNzR1anoyUDhmMTVqYmpURzdJd0J0ZDRXTGhSUzAxSTZnWlF1YXhBbm8tXy1YbFU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "莫桑比克中部交通事故造成13人死亡 - 新华网",
+          "title": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T21:31:58+00:00；来源：新华网。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Qzg5UnhjRGIzVEhmWWl0Z0tHZzV2dTNBTGU2eUM5RE9ocWFsLXdJVWIwMVpNNzdVb1BNV21lNnNXelhnWUF3NVdieVFubHh6Qm9oM3hvQ0t4X1FHQ1k5cThIRk9jcFl1clR3OWpBSlZFbEhiRFVhN1Fua0tWVDQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "巴消息人士：巴基斯坦打击阿富汗武装边境哨所和军营 - 新华网",
+          "title": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T20:20:35+00:00；来源：新华网。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUlphTFc0Rk5XTkp0dUU3Q3Vqa21zb0cxdHRSc0FhUWw3NFJCZWRDRXVWWEs5dEpfTGRzN1VuaktabkZ2cDE3YUQwNHNCZ1YySGFjVVV4STdxdmZYRjhEd1ZnNWVlRWJTdnRQZlM4dHNjTnhTVnFNM0pCaFFIOG8?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
+          "title": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T20:17:16+00:00；来源：证券时报网。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56N1RoY19fNUhETU9nc195VEktcjREdGFVaU1LZElzUXhkZVh3ZFNyTmFIanFqZGc1bldjZV96Y3pNQzdqTzdHZXZsRzhXam5xR1hKLTExRE9GU2tQQXBVNi1VSklMX2F3TW1tWHYxNHloQQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "DeepSeek新模型：更聪明，还更省钱",
+          "title": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T20:11:00+08:00；来源：上海证券报·中国证券网。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/804040"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
+          "title": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T20:10:00+08:00；来源：新华社。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://www.cnstock.com/commonDetail/804039"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "印度东部踩踏事故致17死25伤 - 新华网",
+          "title": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-17T18:23:48+00:00；来源：新华网。"
+            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9seEZ1cEFVMDFzajI2SmlrOWVvUU1LLWV0Z0w4a3gzX21rWGd1dkVmTjNsM2c1MVBjZG4tOG43aUlKX01fWVJUX3pFMkVqNlFLVThQU2tLejhnN3hRZE03VVFlNmRWdnlKS205TTd0SXRBNXZvak9WYVd1blBMd1U?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5"
             }
           ]
         }
@@ -335,16 +335,16 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 10 课：相关性与因果",
+      "title": "第 11 课：协方差与分散化",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
           "type": "explainer",
-          "title": "相关性与因果",
-          "summary": "两个价格同涨不证明互相导致；共同利率冲击或样本选择也能产生相关性。",
+          "title": "协方差与分散化",
+          "summary": "组合风险取决于单项波动和共同变动；持有多个高相关资产未必分散风险。",
           "paragraphs": [
             "本期实例：标普 500 指数，2026-10-15 前值 7744.0601，2026-10-16 现值 7659.4399，变化 -84.6201。",
-            "本期油价与股指的方向可作观察，但标题不能证明因果。"
+            "两资产方差含 2w₁w₂Cov 项，需要同频、同日收益样本。"
           ],
           "links": []
         }
@@ -369,18 +369,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-17"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-16"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-16"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-16"
     },
     {
@@ -389,151 +384,156 @@
       "asOf": "2026-10-16"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-14"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-18"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-15"
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-15"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-16"
     },
     {
-      "title": "也门胡塞武装称击落一架沙特“阿帕奇”武装直升机 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tejFVd0dOUGlMajA3ekdzaGpuZUZKay1TdGtaNVZyV19wMUVNbTN1WjZhalpsU01QTDVmNnhBZXhFRGZsZ1hUN3hLY2tEdEdCSmo3RTJvaUVOVS0xaVZNWlhSZ09HdExFbGVBWTNvQXVhdHJNRHpTSTdXYUE4Wkk?oc=5",
-      "asOf": "2026-10-17T22:30:29+00:00"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-16"
     },
     {
-      "title": "多元文化在马来西亚相遇交融 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpMU16RWg0MzN1eE9hOEtTT0stZ0o0ZFhNYXhBZWJDUzBrdGRxcHRJV2hyMW1qS2dvTlJLSG1GTExJQWF3aGJWd3B3WmNVQS05bEF6RXdOM2JnM2J2M0swWGlVRHNJYmRNVTRLOHByaEppdkNpeTlR?oc=5",
-      "asOf": "2026-10-17T22:05:51+00:00"
+      "title": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5",
+      "asOf": "2026-10-18T23:00:00+00:00"
     },
     {
-      "title": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90cFZCeklGeU94c2Y1WHIxaThYU0N0SF9RVWd1Z1dNdGVnM1g4ZHlZTWdzMXlsMWRiUW96aXo3WHRsXzk0TWo5cnktYk05amlwbkJVZGpEWml3ZzZ3QUpUTFFTdEZ6TFQxejZFRHBKQXRPRllCQ2VvOGVjUnNaVTA?oc=5",
-      "asOf": "2026-10-17T21:48:10+00:00"
+      "title": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5",
+      "asOf": "2026-10-18T20:44:05+00:00"
     },
     {
-      "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQjJDNFNLaEJKQ1ZWVktvSWNMM2FxLVJMZW4tcG9mQWhDbHdXUXhINzc5OXdvaW1yYlo0V0o3X0lMRldybzVaY04tNGs2ajNuNzR1anoyUDhmMTVqYmpURzdJd0J0ZDRXTGhSUzAxSTZnWlF1YXhBbm8tXy1YbFU?oc=5",
-      "asOf": "2026-10-17T21:32:42+00:00"
+      "title": "黑山总理斯帕伊奇会见王毅 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5",
+      "asOf": "2026-10-18T19:02:35+00:00"
     },
     {
-      "title": "莫桑比克中部交通事故造成13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Qzg5UnhjRGIzVEhmWWl0Z0tHZzV2dTNBTGU2eUM5RE9ocWFsLXdJVWIwMVpNNzdVb1BNV21lNnNXelhnWUF3NVdieVFubHh6Qm9oM3hvQ0t4X1FHQ1k5cThIRk9jcFl1clR3OWpBSlZFbEhiRFVhN1Fua0tWVDQ?oc=5",
-      "asOf": "2026-10-17T21:31:58+00:00"
+      "title": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5",
+      "asOf": "2026-10-18T18:10:27+00:00"
     },
     {
-      "title": "巴消息人士：巴基斯坦打击阿富汗武装边境哨所和军营 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUlphTFc0Rk5XTkp0dUU3Q3Vqa21zb0cxdHRSc0FhUWw3NFJCZWRDRXVWWEs5dEpfTGRzN1VuaktabkZ2cDE3YUQwNHNCZ1YySGFjVVV4STdxdmZYRjhEd1ZnNWVlRWJTdnRQZlM4dHNjTnhTVnFNM0pCaFFIOG8?oc=5",
-      "asOf": "2026-10-17T20:20:35+00:00"
+      "title": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
     },
     {
-      "title": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56N1RoY19fNUhETU9nc195VEktcjREdGFVaU1LZElzUXhkZVh3ZFNyTmFIanFqZGc1bldjZV96Y3pNQzdqTzdHZXZsRzhXam5xR1hKLTExRE9GU2tQQXBVNi1VSklMX2F3TW1tWHYxNHloQQ?oc=5",
-      "asOf": "2026-10-17T20:17:16+00:00"
+      "title": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
     },
     {
-      "title": "DeepSeek新模型：更聪明，还更省钱",
-      "url": "https://www.cnstock.com/commonDetail/804040",
-      "asOf": "2026-10-17T20:11:00+08:00"
+      "title": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
     },
     {
-      "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
-      "url": "https://www.cnstock.com/commonDetail/804039",
-      "asOf": "2026-10-17T20:10:00+08:00"
+      "title": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
     },
     {
-      "title": "印度东部踩踏事故致17死25伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9seEZ1cEFVMDFzajI2SmlrOWVvUU1LLWV0Z0w4a3gzX21rWGd1dkVmTjNsM2c1MVBjZG4tOG43aUlKX01fWVJUX3pFMkVqNlFLVThQU2tLejhnN3hRZE03VVFlNmRWdnlKS205TTd0SXRBNXZvak9WYVd1blBMd1U?oc=5",
-      "asOf": "2026-10-17T18:23:48+00:00"
+      "title": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
+    },
+    {
+      "title": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5",
+      "asOf": "2026-10-18T17:27:58+00:00"
     }
   ],
   "events": [
     {
-      "event": "也门胡塞武装称击落一架沙特“阿帕奇”武装直升机 - 新华网",
-      "published": "2026-10-17T22:30:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tejFVd0dOUGlMajA3ekdzaGpuZUZKay1TdGtaNVZyV19wMUVNbTN1WjZhalpsU01QTDVmNnhBZXhFRGZsZ1hUN3hLY2tEdEdCSmo3RTJvaUVOVS0xaVZNWlhSZ09HdExFbGVBWTNvQXVhdHJNRHpTSTdXYUE4Wkk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "也门胡塞武装称击落一架沙特“阿帕奇”武装直升机 - 新华网"
-    },
-    {
-      "event": "多元文化在马来西亚相遇交融 - 新华网",
-      "published": "2026-10-17T22:05:51+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpMU16RWg0MzN1eE9hOEtTT0stZ0o0ZFhNYXhBZWJDUzBrdGRxcHRJV2hyMW1qS2dvTlJLSG1GTExJQWF3aGJWd3B3WmNVQS05bEF6RXdOM2JnM2J2M0swWGlVRHNJYmRNVTRLOHByaEppdkNpeTlR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "多元文化在马来西亚相遇交融 - 新华网"
-    },
-    {
-      "event": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网",
-      "published": "2026-10-17T21:48:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90cFZCeklGeU94c2Y1WHIxaThYU0N0SF9RVWd1Z1dNdGVnM1g4ZHlZTWdzMXlsMWRiUW96aXo3WHRsXzk0TWo5cnktYk05amlwbkJVZGpEWml3ZzZ3QUpUTFFTdEZ6TFQxejZFRHBKQXRPRllCQ2VvOGVjUnNaVTA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网"
-    },
-    {
-      "event": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网",
-      "published": "2026-10-17T21:32:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQjJDNFNLaEJKQ1ZWVktvSWNMM2FxLVJMZW4tcG9mQWhDbHdXUXhINzc5OXdvaW1yYlo0V0o3X0lMRldybzVaY04tNGs2ajNuNzR1anoyUDhmMTVqYmpURzdJd0J0ZDRXTGhSUzAxSTZnWlF1YXhBbm8tXy1YbFU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网"
-    },
-    {
-      "event": "莫桑比克中部交通事故造成13人死亡 - 新华网",
-      "published": "2026-10-17T21:31:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Qzg5UnhjRGIzVEhmWWl0Z0tHZzV2dTNBTGU2eUM5RE9ocWFsLXdJVWIwMVpNNzdVb1BNV21lNnNXelhnWUF3NVdieVFubHh6Qm9oM3hvQ0t4X1FHQ1k5cThIRk9jcFl1clR3OWpBSlZFbEhiRFVhN1Fua0tWVDQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "莫桑比克中部交通事故造成13人死亡 - 新华网"
-    },
-    {
-      "event": "巴消息人士：巴基斯坦打击阿富汗武装边境哨所和军营 - 新华网",
-      "published": "2026-10-17T20:20:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUlphTFc0Rk5XTkp0dUU3Q3Vqa21zb0cxdHRSc0FhUWw3NFJCZWRDRXVWWEs5dEpfTGRzN1VuaktabkZ2cDE3YUQwNHNCZ1YySGFjVVV4STdxdmZYRjhEd1ZnNWVlRWJTdnRQZlM4dHNjTnhTVnFNM0pCaFFIOG8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "巴消息人士：巴基斯坦打击阿富汗武装边境哨所和军营 - 新华网"
-    },
-    {
-      "event": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网",
-      "published": "2026-10-17T20:17:16+00:00",
+      "event": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
+      "published": "2026-10-18T23:00:00+00:00",
       "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56N1RoY19fNUhETU9nc195VEktcjREdGFVaU1LZElzUXhkZVh3ZFNyTmFIanFqZGc1bldjZV96Y3pNQzdqTzdHZXZsRzhXam5xR1hKLTExRE9GU2tQQXBVNi1VSklMX2F3TW1tWHYxNHloQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "证券时报官方网站-中国资本市场信息披露平台 - 证券时报网"
+      "originalTitle": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网"
     },
     {
-      "event": "DeepSeek新模型：更聪明，还更省钱",
-      "originalTitle": "DeepSeek新模型：更聪明，还更省钱",
-      "published": "2026-10-17T20:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/804040",
-      "evidenceLevel": "headline-only"
+      "event": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
+      "published": "2026-10-18T20:44:05+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网"
     },
     {
-      "event": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
-      "originalTitle": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
-      "published": "2026-10-17T20:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/804039",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "印度东部踩踏事故致17死25伤 - 新华网",
-      "published": "2026-10-17T18:23:48+00:00",
+      "event": "黑山总理斯帕伊奇会见王毅 - 新华网",
+      "published": "2026-10-18T19:02:35+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9seEZ1cEFVMDFzajI2SmlrOWVvUU1LLWV0Z0w4a3gzX21rWGd1dkVmTjNsM2c1MVBjZG4tOG43aUlKX01fWVJUX3pFMkVqNlFLVThQU2tLejhnN3hRZE03VVFlNmRWdnlKS205TTd0SXRBNXZvak9WYVd1blBMd1U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "印度东部踩踏事故致17死25伤 - 新华网"
+      "originalTitle": "黑山总理斯帕伊奇会见王毅 - 新华网"
+    },
+    {
+      "event": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
+      "published": "2026-10-18T18:10:27+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网"
+    },
+    {
+      "event": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版"
+    },
+    {
+      "event": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版"
+    },
+    {
+      "event": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
+      "published": "2026-10-18T17:27:58+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -546,9 +546,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
