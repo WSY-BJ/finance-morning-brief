@@ -1,0 +1,551 @@
+{
+  "edition": "财经晨报 · 2026-10-21",
+  "date": "更新于北京时间 2026-10-21 07:51",
+  "reportDate": "2026-10-21",
+  "updatedAt": "2026-10-21T07:51:01+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经晨报",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 10 条财经消息",
+  "notification": {
+    "title": "2026-10-21 财经晨报",
+    "summary": "7 项市场数据 · 10 条财经消息"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-19：7,690.73 点；较 2026-10-16 变化 +31.29 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-19：109.55 美元/桶；较 2026-10-16 变化 -0.31 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-19：5.15 %；较 2026-10-16 变化 +0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "109.55 美元/桶；变化 -0.31 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-19；前值 109.86（2026-10-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.79 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 4.77（2026-10-19）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.15 %；变化 +0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-19；前值 5.09（2026-10-16）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.98 点；变化 +0.14 点",
+          "paragraphs": [
+            "观测日 2026-10-19；前值 101.84（2026-10-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,690.73 点；变化 +31.29 点",
+          "paragraphs": [
+            "观测日 2026-10-19；前值 7,659.44（2026-10-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,430.89 点；变化 +290.86 点",
+          "paragraphs": [
+            "观测日 2026-10-19；前值 26,140.03（2026-10-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6909 人民币/美元；变化 +0.0000 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 6.6909（2026-10-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经新闻",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "把握“时代资产”配置方向 以长配新、向实向新 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:40:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUGdka01Gd09veXYteWtFRFMxeHZ4ajVlVGlXdkRPdXhhNzdhb2VVZFN0ZmJaWWN1cm9fbGxoaEtHanA0eUsyZkVvRWZtX1pkelFHMXpDR3RCX0Ey?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "专访北航教授王田苗：AI发展红利会分多轮释放，家庭场景将带来新一轮增长 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:40:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeEVmZjlTMmkyeFBjTlR3Rlp0M2ZvdHpldFpqRExqM0M2RldiTmgxeXRVb21maDl5SXFwTmJXQy1RRHVONzV1eWYzUE5xVWJJaTQ4enBzdjAzZjdU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "海外供电项目持续推进 燃料电池产业链投资机会受关注 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:39:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSlhIU2N2ZGF3ZXZLdXU0RkhaSHJITTEtRFB4TnVjQkQ2STk3dURoRDF1MG5SUU5paVRIa0ZncFFlWjg4bEpFdHFmcEhWVnI4Z3RKbVFha0I4a19K?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "长盛基金张谊然：穿越市场波动 创新药走向价值重塑 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:29:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Y3BoRmkxUkNnRWluSDliQWNTY1lnYU9oZjI2UUFFU1dUUEplR29FcFlJeXEzdkV6VWxGM2lBRjBCZVhKZ3EtaDlhRDZ3SGI2R19BQU11TUtjWGFD?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国集成电路共保体年度保障逾2万亿元 科技保险从各自为战走向系统集成 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:23:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSy1ySXRITU9DRDM4TXlRX1M0d3BGSG9JaXZ5Wnk3VjE5b3k0ZHZ4OElUaXZsOUJXejFTN1FLc0ZIT0FyVF9HUEU1Q3dEZVBLZW9MMWtTNFJTdy1Z?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "复盘三季度波动行情 基金重提再平衡 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T23:16:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MRXJMOTJIM215OVZLZk5RTnM5VWR1Z1VtTmNZS2ZCaWtPNkc2NTU5bmtVR3NPa1Q4Y3E3ektodU9oOVBleW9KZ0s0SEM4Qmg4Nm9HZ3N2c3l4LTJn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全国首条卫星自动化产线落户 “未来之城”竞速空天赛道 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T22:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscmllY2dWWHZOMEliempiUTZ4dElJZlI3bjJHaDRROGlhSUZlZEJtUmFWZzdrNGdlT2t4eklZZnJjVXFWOWRUZ09Xa3JoRHFWYjNZQzZ1clF5RHlH?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "前三季度规上工业增加值增长5.3% 工信部表示，坚决防范未经充分研发测试验证的汽车产品进入市场 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T22:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfU1V5YlBoLVExYU1KUGZxZGtjNFVpWVBNSjdLMU1YanNEdVNxV0xGMWt0V2FxWE5tcy02ZXU5UXdnMlM1OFFHN2JlUWJNWjkwOGdNdGl1Tk4zUC1M?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "资本市场法治建设思路明晰：包容制度设计 强化投资者保护 - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T22:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0bm1QQmxsdzljd25YNmxfR3RqaXpGd0I1bS1hNkZoenZkVldNc0pOMVFJWWpscldPdVU4QVVHUkZnSTM5clQ3a3FVbE5pYmFDZndfM2tENG9rTldF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从“浦江项目”到钼矿注入项目 联储证券炼成并购“金字招牌” - 证券时报网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-20T22:51:00+00:00；来源：证券时报网。"
+          ],
+          "links": [
+            {
+              "title": "新闻来源",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VT1JOdm84Sl9MU2NGZjNXMHlGRm1hd2x2d0JuZ3JsbFZxbElQbllxY1FiVUZJeTZ2NUJMMkJMYk4yRlVTOTctcFhLOGU3R01vUGRqaWs0a1FNTkVu?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 13 课：现金流与会计利润",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "现金流与会计利润",
+          "summary": "宣布投资先形成支出，订单、交付、收入确认和回款是不同阶段。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-16 前值 7659.4399，2026-10-19 现值 7690.7300，变化 +31.2900。",
+            "裁员消息不等于其他企业的设备订单增长；需要独立订单证据。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-19"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-19"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-19"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-19"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-19"
+    },
+    {
+      "title": "把握“时代资产”配置方向 以长配新、向实向新 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUGdka01Gd09veXYteWtFRFMxeHZ4ajVlVGlXdkRPdXhhNzdhb2VVZFN0ZmJaWWN1cm9fbGxoaEtHanA0eUsyZkVvRWZtX1pkelFHMXpDR3RCX0Ey?oc=5",
+      "asOf": "2026-10-20T23:40:00+00:00"
+    },
+    {
+      "title": "专访北航教授王田苗：AI发展红利会分多轮释放，家庭场景将带来新一轮增长 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeEVmZjlTMmkyeFBjTlR3Rlp0M2ZvdHpldFpqRExqM0M2RldiTmgxeXRVb21maDl5SXFwTmJXQy1RRHVONzV1eWYzUE5xVWJJaTQ4enBzdjAzZjdU?oc=5",
+      "asOf": "2026-10-20T23:40:00+00:00"
+    },
+    {
+      "title": "海外供电项目持续推进 燃料电池产业链投资机会受关注 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSlhIU2N2ZGF3ZXZLdXU0RkhaSHJITTEtRFB4TnVjQkQ2STk3dURoRDF1MG5SUU5paVRIa0ZncFFlWjg4bEpFdHFmcEhWVnI4Z3RKbVFha0I4a19K?oc=5",
+      "asOf": "2026-10-20T23:39:00+00:00"
+    },
+    {
+      "title": "长盛基金张谊然：穿越市场波动 创新药走向价值重塑 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Y3BoRmkxUkNnRWluSDliQWNTY1lnYU9oZjI2UUFFU1dUUEplR29FcFlJeXEzdkV6VWxGM2lBRjBCZVhKZ3EtaDlhRDZ3SGI2R19BQU11TUtjWGFD?oc=5",
+      "asOf": "2026-10-20T23:29:00+00:00"
+    },
+    {
+      "title": "中国集成电路共保体年度保障逾2万亿元 科技保险从各自为战走向系统集成 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSy1ySXRITU9DRDM4TXlRX1M0d3BGSG9JaXZ5Wnk3VjE5b3k0ZHZ4OElUaXZsOUJXejFTN1FLc0ZIT0FyVF9HUEU1Q3dEZVBLZW9MMWtTNFJTdy1Z?oc=5",
+      "asOf": "2026-10-20T23:23:00+00:00"
+    },
+    {
+      "title": "复盘三季度波动行情 基金重提再平衡 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MRXJMOTJIM215OVZLZk5RTnM5VWR1Z1VtTmNZS2ZCaWtPNkc2NTU5bmtVR3NPa1Q4Y3E3ektodU9oOVBleW9KZ0s0SEM4Qmg4Nm9HZ3N2c3l4LTJn?oc=5",
+      "asOf": "2026-10-20T23:16:00+00:00"
+    },
+    {
+      "title": "全国首条卫星自动化产线落户 “未来之城”竞速空天赛道 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscmllY2dWWHZOMEliempiUTZ4dElJZlI3bjJHaDRROGlhSUZlZEJtUmFWZzdrNGdlT2t4eklZZnJjVXFWOWRUZ09Xa3JoRHFWYjNZQzZ1clF5RHlH?oc=5",
+      "asOf": "2026-10-20T22:51:00+00:00"
+    },
+    {
+      "title": "前三季度规上工业增加值增长5.3% 工信部表示，坚决防范未经充分研发测试验证的汽车产品进入市场 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfU1V5YlBoLVExYU1KUGZxZGtjNFVpWVBNSjdLMU1YanNEdVNxV0xGMWt0V2FxWE5tcy02ZXU5UXdnMlM1OFFHN2JlUWJNWjkwOGdNdGl1Tk4zUC1M?oc=5",
+      "asOf": "2026-10-20T22:51:00+00:00"
+    },
+    {
+      "title": "资本市场法治建设思路明晰：包容制度设计 强化投资者保护 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0bm1QQmxsdzljd25YNmxfR3RqaXpGd0I1bS1hNkZoenZkVldNc0pOMVFJWWpscldPdVU4QVVHUkZnSTM5clQ3a3FVbE5pYmFDZndfM2tENG9rTldF?oc=5",
+      "asOf": "2026-10-20T22:51:00+00:00"
+    },
+    {
+      "title": "从“浦江项目”到钼矿注入项目 联储证券炼成并购“金字招牌” - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VT1JOdm84Sl9MU2NGZjNXMHlGRm1hd2x2d0JuZ3JsbFZxbElQbllxY1FiVUZJeTZ2NUJMMkJMYk4yRlVTOTctcFhLOGU3R01vUGRqaWs0a1FNTkVu?oc=5",
+      "asOf": "2026-10-20T22:51:00+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "把握“时代资产”配置方向 以长配新、向实向新 - 证券时报网",
+      "published": "2026-10-20T23:40:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kUGdka01Gd09veXYteWtFRFMxeHZ4ajVlVGlXdkRPdXhhNzdhb2VVZFN0ZmJaWWN1cm9fbGxoaEtHanA0eUsyZkVvRWZtX1pkelFHMXpDR3RCX0Ey?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "把握“时代资产”配置方向 以长配新、向实向新 - 证券时报网"
+    },
+    {
+      "event": "专访北航教授王田苗：AI发展红利会分多轮释放，家庭场景将带来新一轮增长 - 证券时报网",
+      "published": "2026-10-20T23:40:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeEVmZjlTMmkyeFBjTlR3Rlp0M2ZvdHpldFpqRExqM0M2RldiTmgxeXRVb21maDl5SXFwTmJXQy1RRHVONzV1eWYzUE5xVWJJaTQ4enBzdjAzZjdU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访北航教授王田苗：AI发展红利会分多轮释放，家庭场景将带来新一轮增长 - 证券时报网"
+    },
+    {
+      "event": "海外供电项目持续推进 燃料电池产业链投资机会受关注 - 证券时报网",
+      "published": "2026-10-20T23:39:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSlhIU2N2ZGF3ZXZLdXU0RkhaSHJITTEtRFB4TnVjQkQ2STk3dURoRDF1MG5SUU5paVRIa0ZncFFlWjg4bEpFdHFmcEhWVnI4Z3RKbVFha0I4a19K?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "海外供电项目持续推进 燃料电池产业链投资机会受关注 - 证券时报网"
+    },
+    {
+      "event": "长盛基金张谊然：穿越市场波动 创新药走向价值重塑 - 证券时报网",
+      "published": "2026-10-20T23:29:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Y3BoRmkxUkNnRWluSDliQWNTY1lnYU9oZjI2UUFFU1dUUEplR29FcFlJeXEzdkV6VWxGM2lBRjBCZVhKZ3EtaDlhRDZ3SGI2R19BQU11TUtjWGFD?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "长盛基金张谊然：穿越市场波动 创新药走向价值重塑 - 证券时报网"
+    },
+    {
+      "event": "中国集成电路共保体年度保障逾2万亿元 科技保险从各自为战走向系统集成 - 证券时报网",
+      "published": "2026-10-20T23:23:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSy1ySXRITU9DRDM4TXlRX1M0d3BGSG9JaXZ5Wnk3VjE5b3k0ZHZ4OElUaXZsOUJXejFTN1FLc0ZIT0FyVF9HUEU1Q3dEZVBLZW9MMWtTNFJTdy1Z?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国集成电路共保体年度保障逾2万亿元 科技保险从各自为战走向系统集成 - 证券时报网"
+    },
+    {
+      "event": "复盘三季度波动行情 基金重提再平衡 - 证券时报网",
+      "published": "2026-10-20T23:16:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MRXJMOTJIM215OVZLZk5RTnM5VWR1Z1VtTmNZS2ZCaWtPNkc2NTU5bmtVR3NPa1Q4Y3E3ektodU9oOVBleW9KZ0s0SEM4Qmg4Nm9HZ3N2c3l4LTJn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "复盘三季度波动行情 基金重提再平衡 - 证券时报网"
+    },
+    {
+      "event": "全国首条卫星自动化产线落户 “未来之城”竞速空天赛道 - 证券时报网",
+      "published": "2026-10-20T22:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscmllY2dWWHZOMEliempiUTZ4dElJZlI3bjJHaDRROGlhSUZlZEJtUmFWZzdrNGdlT2t4eklZZnJjVXFWOWRUZ09Xa3JoRHFWYjNZQzZ1clF5RHlH?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全国首条卫星自动化产线落户 “未来之城”竞速空天赛道 - 证券时报网"
+    },
+    {
+      "event": "前三季度规上工业增加值增长5.3% 工信部表示，坚决防范未经充分研发测试验证的汽车产品进入市场 - 证券时报网",
+      "published": "2026-10-20T22:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfU1V5YlBoLVExYU1KUGZxZGtjNFVpWVBNSjdLMU1YanNEdVNxV0xGMWt0V2FxWE5tcy02ZXU5UXdnMlM1OFFHN2JlUWJNWjkwOGdNdGl1Tk4zUC1M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前三季度规上工业增加值增长5.3% 工信部表示，坚决防范未经充分研发测试验证的汽车产品进入市场 - 证券时报网"
+    },
+    {
+      "event": "资本市场法治建设思路明晰：包容制度设计 强化投资者保护 - 证券时报网",
+      "published": "2026-10-20T22:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0bm1QQmxsdzljd25YNmxfR3RqaXpGd0I1bS1hNkZoenZkVldNc0pOMVFJWWpscldPdVU4QVVHUkZnSTM5clQ3a3FVbE5pYmFDZndfM2tENG9rTldF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "资本市场法治建设思路明晰：包容制度设计 强化投资者保护 - 证券时报网"
+    },
+    {
+      "event": "从“浦江项目”到钼矿注入项目 联储证券炼成并购“金字招牌” - 证券时报网",
+      "published": "2026-10-20T22:51:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VT1JOdm84Sl9MU2NGZjNXMHlGRm1hd2x2d0JuZ3JsbFZxbElQbllxY1FiVUZJeTZ2NUJMMkJMYk4yRlVTOTctcFhLOGU3R01vUGRqaWs0a1FNTkVu?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“浦江项目”到钼矿注入项目 联储证券炼成并购“金字招牌” - 证券时报网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
