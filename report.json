@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-19",
-  "date": "更新于北京时间 2026-10-19 07:08",
-  "reportDate": "2026-10-19",
-  "updatedAt": "2026-10-19T07:08:46+08:00",
+  "edition": "财经晨报 · 2026-10-20",
+  "date": "更新于北京时间 2026-10-20 08:18",
+  "reportDate": "2026-10-20",
+  "updatedAt": "2026-10-20T08:18:25+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经晨报",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 10 条财经消息",
   "notification": {
-    "title": "2026-10-19 财经晨报",
+    "title": "2026-10-20 财经晨报",
     "summary": "7 项市场数据 · 10 条财经消息"
   },
   "pages": [
@@ -51,7 +51,7 @@
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.74 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-16；前值 4.77（2026-10-15）；来源：美国财政部。"
+            "观测日 2026-10-16；前值 4.77（2026-10-15）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -96,12 +96,12 @@
           "title": "美国 10 年期国债收益率",
           "summary": "5.09 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-16；前值 5.10（2026-10-15）；来源：美国财政部。"
+            "观测日 2026-10-16；前值 5.10（2026-10-15）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6855 人民币/美元；变化 -0.0054 人民币/美元",
+          "summary": "6.6909 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-18；前值 6.6909（2026-10-16）；来源：Yahoo Finance。"
+            "观测日 2026-10-19；前值 6.6909（2026-10-16）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,141 +177,141 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
+          "title": "70载风雨兼程，140届从未间断——广交会“青春常驻”有何秘诀？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T23:00:00+00:00；来源：证券时报网。"
+            "发布时间：2026-10-20T00:10:27+00:00；来源：新华网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3hoNENIdXpQM0JXUmpWS3kyaUlmSGUxZ3ZJTnZMNDV2am9FaHVST0dRMkZhZ3dxczduOGhTSFcydFhyRzhPbm03dHJRNXJ3UWFyTWFsR2dxenF3ZWdncFo4NC01enE4X1UtZFplQkxRa05ReHpfb1ZkTng4YmJkbA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
+          "title": "钟声丨拜靖国神社，日本再次撕下自己的“和平伪装” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T20:44:05+00:00；来源：证券时报网。"
+            "发布时间：2026-10-20T00:10:14+00:00；来源：新华网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWXRlZmZtYlBPUXhRYWpoTTBjYlVyNi1uUUczRXZnbFFhRWRqVU5seWd2OVFmOEVXQUw3LWhrOWtSMndYam4zQUZUUFVIMnp2U1ZiUkVLc3BvTkVScy02RWFCenBQMnJfb3pPbk5wVEczbzBIa2VSbTc5ZzBsV3M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "黑山总理斯帕伊奇会见王毅 - 新华网",
+          "title": "先进制造乘上全球风口 广东三季度外贸首破3万亿元 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T19:02:35+00:00；来源：新华网。"
+            "发布时间：2026-10-20T00:10:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UM0RfUTZDTUgzbjVIV0FPbzlIV2wwbEFGZHRVTWRmdUpiNWd0MGpUTUk2c3dzRDI0ZHhVcmRQMU0zMnBHT3N4UE1wM1RKZjJsXzRCZ3Vyc1R2eGdQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
+          "title": "老牌工业城市的突围：柳州出海启示录 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T18:10:27+00:00；来源：证券时报网。"
+            "发布时间：2026-10-20T00:03:50+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTS1FTXcwOGN5R0V3cmVJb3p2OVBmMTg0SV9Za0dlNEtkYlozUzd2d2F6Qk1STE1xWVZYeEdtZk13VkhXSHFZSTRVRENRd05iT2RiSHROODFSVEdf?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
+          "title": "券商研究所谋变：向内协同、向外出海、向AI提效 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:59:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWTd5eEgyRUlfZDN0a0NZYVk3a2lTd1RUWHJRN2ZtLTdYZVdsZ00taUFjbVB5dGlITldVeGFmSHZsTzRYU3NzTkN3VjhTakp2MWhRMUpROVhiLUFG?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
+          "title": "中方呼吁推动海地政治进程取得实质进展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:58:25+00:00；来源：新华网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Mb0piNHNzMWRyX2VaRDFQcEFoMHNHNC1PM1lvRS1vOFVlYnR3Y1VnUnotLU5vY083YUhhaVVSQkxiQ2dLMHhKQ3RVVFJlRVkyaGNVeTU2QjVnRmxDeDZkR0FmRnVaR3ZRWlF0emlsSGhwamRfcDV4Vzd6UWNzcFU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
+          "title": "A股正转向多元化定价 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:58:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81TDJxcHdCaThUbVFCeWp1cG1vNmZtSzBCNGNfTlhoUW5XVHZjZ1I2ekZ5Q1dpZV95b184a2o2eG95aDJFQzRzQ3BXcDdraFBMd2o2RkNxNmpxSW4w?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
+          "title": "让智能经济更好激发新动能（人民时评） - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:57:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12cEwtcm54TUtGLV9YbmIxY3NOTlptejJuaE5icXhMUVpSRHdscFlQLUNJOG1feUhhaTdMZEx5UFh3UVJ1ZnV3ckVJUTY2ODhrWU1pcWpNZm82aWpz?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
+          "title": "疫苗新贵褪去高光，行业洗牌加速 - 证券时报网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:57:00+00:00；来源：证券时报网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNTRJT2tPRWswQVV0N1JWbXZ4RWhwMWpQZEhleU8xYzBBdjlBMHM3TG1SNmdYWjZZLVVONHdpc1RPUUdka2JuOHliSW96bHFxSXpreHA3czQxT1ZE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
+          "title": "抗衰产品背后的科学真相 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-18T17:27:58+00:00；来源：上海证券报电子版。"
+            "发布时间：2026-10-19T23:56:46+00:00；来源：新华网。"
           ],
           "links": [
             {
               "title": "新闻来源",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3lTNEttVVkyTWpyQW1CTS1iMFJWZXo2WHdxdnVKSlIyZTR6eTFhTmozb0ZyTVQ3SV9IU01tUVRZaXk4dGtocWluYVRtcFMtM19PMkU4LTZLdGhWSW5sRGs5b2NMT0VFTEZ2cHJZMGJDRXZuYmJpcGkxS2ZkVU4wRUhVcw?oc=5"
             }
           ]
         }
@@ -335,16 +335,16 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 11 课：协方差与分散化",
+      "title": "第 12 课：套期保值与基差",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
           "type": "explainer",
-          "title": "协方差与分散化",
-          "summary": "组合风险取决于单项波动和共同变动；持有多个高相关资产未必分散风险。",
+          "title": "套期保值与基差",
+          "summary": "期货和现货不是同一个价格；两者之差叫基差，套保仍可能有基差风险。",
           "paragraphs": [
             "本期实例：标普 500 指数，2026-10-15 前值 7744.0601，2026-10-16 现值 7659.4399，变化 -84.6201。",
-            "两资产方差含 2w₁w₂Cov 项，需要同频、同日收益样本。"
+            "本期 Brent 若为期货，就不能与昨天现货拼接计算涨跌。"
           ],
           "links": []
         }
@@ -369,6 +369,11 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-16"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-16"
@@ -379,14 +384,9 @@
       "asOf": "2026-10-16"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-16"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-18"
+      "asOf": "2026-10-19"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -394,146 +394,146 @@
       "asOf": "2026-10-16"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-16"
     },
     {
-      "title": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5",
-      "asOf": "2026-10-18T23:00:00+00:00"
+      "title": "70载风雨兼程，140届从未间断——广交会“青春常驻”有何秘诀？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3hoNENIdXpQM0JXUmpWS3kyaUlmSGUxZ3ZJTnZMNDV2am9FaHVST0dRMkZhZ3dxczduOGhTSFcydFhyRzhPbm03dHJRNXJ3UWFyTWFsR2dxenF3ZWdncFo4NC01enE4X1UtZFplQkxRa05ReHpfb1ZkTng4YmJkbA?oc=5",
+      "asOf": "2026-10-20T00:10:27+00:00"
     },
     {
-      "title": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5",
-      "asOf": "2026-10-18T20:44:05+00:00"
+      "title": "钟声丨拜靖国神社，日本再次撕下自己的“和平伪装” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWXRlZmZtYlBPUXhRYWpoTTBjYlVyNi1uUUczRXZnbFFhRWRqVU5seWd2OVFmOEVXQUw3LWhrOWtSMndYam4zQUZUUFVIMnp2U1ZiUkVLc3BvTkVScy02RWFCenBQMnJfb3pPbk5wVEczbzBIa2VSbTc5ZzBsV3M?oc=5",
+      "asOf": "2026-10-20T00:10:14+00:00"
     },
     {
-      "title": "黑山总理斯帕伊奇会见王毅 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5",
-      "asOf": "2026-10-18T19:02:35+00:00"
+      "title": "先进制造乘上全球风口 广东三季度外贸首破3万亿元 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UM0RfUTZDTUgzbjVIV0FPbzlIV2wwbEFGZHRVTWRmdUpiNWd0MGpUTUk2c3dzRDI0ZHhVcmRQMU0zMnBHT3N4UE1wM1RKZjJsXzRCZ3Vyc1R2eGdQ?oc=5",
+      "asOf": "2026-10-20T00:10:00+00:00"
     },
     {
-      "title": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5",
-      "asOf": "2026-10-18T18:10:27+00:00"
+      "title": "老牌工业城市的突围：柳州出海启示录 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTS1FTXcwOGN5R0V3cmVJb3p2OVBmMTg0SV9Za0dlNEtkYlozUzd2d2F6Qk1STE1xWVZYeEdtZk13VkhXSHFZSTRVRENRd05iT2RiSHROODFSVEdf?oc=5",
+      "asOf": "2026-10-20T00:03:50+00:00"
     },
     {
-      "title": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "券商研究所谋变：向内协同、向外出海、向AI提效 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWTd5eEgyRUlfZDN0a0NZYVk3a2lTd1RUWHJRN2ZtLTdYZVdsZ00taUFjbVB5dGlITldVeGFmSHZsTzRYU3NzTkN3VjhTakp2MWhRMUpROVhiLUFG?oc=5",
+      "asOf": "2026-10-19T23:59:00+00:00"
     },
     {
-      "title": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "中方呼吁推动海地政治进程取得实质进展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Mb0piNHNzMWRyX2VaRDFQcEFoMHNHNC1PM1lvRS1vOFVlYnR3Y1VnUnotLU5vY083YUhhaVVSQkxiQ2dLMHhKQ3RVVFJlRVkyaGNVeTU2QjVnRmxDeDZkR0FmRnVaR3ZRWlF0emlsSGhwamRfcDV4Vzd6UWNzcFU?oc=5",
+      "asOf": "2026-10-19T23:58:25+00:00"
     },
     {
-      "title": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "A股正转向多元化定价 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81TDJxcHdCaThUbVFCeWp1cG1vNmZtSzBCNGNfTlhoUW5XVHZjZ1I2ekZ5Q1dpZV95b184a2o2eG95aDJFQzRzQ3BXcDdraFBMd2o2RkNxNmpxSW4w?oc=5",
+      "asOf": "2026-10-19T23:58:00+00:00"
     },
     {
-      "title": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "让智能经济更好激发新动能（人民时评） - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12cEwtcm54TUtGLV9YbmIxY3NOTlptejJuaE5icXhMUVpSRHdscFlQLUNJOG1feUhhaTdMZEx5UFh3UVJ1ZnV3ckVJUTY2ODhrWU1pcWpNZm82aWpz?oc=5",
+      "asOf": "2026-10-19T23:57:00+00:00"
     },
     {
-      "title": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "疫苗新贵褪去高光，行业洗牌加速 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNTRJT2tPRWswQVV0N1JWbXZ4RWhwMWpQZEhleU8xYzBBdjlBMHM3TG1SNmdYWjZZLVVONHdpc1RPUUdka2JuOHliSW96bHFxSXpreHA3czQxT1ZE?oc=5",
+      "asOf": "2026-10-19T23:57:00+00:00"
     },
     {
-      "title": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5",
-      "asOf": "2026-10-18T17:27:58+00:00"
+      "title": "抗衰产品背后的科学真相 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3lTNEttVVkyTWpyQW1CTS1iMFJWZXo2WHdxdnVKSlIyZTR6eTFhTmozb0ZyTVQ3SV9IU01tUVRZaXk4dGtocWluYVRtcFMtM19PMkU4LTZLdGhWSW5sRGs5b2NMT0VFTEZ2cHJZMGJDRXZuYmJpcGkxS2ZkVU4wRUhVcw?oc=5",
+      "asOf": "2026-10-19T23:56:46+00:00"
     }
   ],
   "events": [
     {
-      "event": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网",
-      "published": "2026-10-18T23:00:00+00:00",
-      "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hWVNZeUVKS3JleUY0eGlRUlBYcVBXMmdBUFZxZ0RCNzFpNnpTck0xczhRN213M24yYjJ3TENONjJGZVpMMmVycThOZDlUQ2xfb1NDcjVRaElleHFB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "证券时报2026年三季度经济学家问卷调查显示三季度经济运行平稳受访者看好四季度出口投资形势 - 证券时报网"
-    },
-    {
-      "event": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网",
-      "published": "2026-10-18T20:44:05+00:00",
-      "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRcmxnaE15aG1mbVB3YzBGOENGMEtaVjBibEVPU3pMYWNtME9aWEEzUTlMcEYySTlFb0xqR3dZNkFrN1hiS1YxdWVBRU5zSHY3T2RqQWx1cmx4QzVO?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "豫皖两省签署生态环境共保联治备忘录 - 证券时报网"
-    },
-    {
-      "event": "黑山总理斯帕伊奇会见王毅 - 新华网",
-      "published": "2026-10-18T19:02:35+00:00",
+      "event": "70载风雨兼程，140届从未间断——广交会“青春常驻”有何秘诀？ - 新华网",
+      "published": "2026-10-20T00:10:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa00wQjVXUm5HLUlXVFp3TlJ1ejdmRlQ1TC1DSUUwYlRwQjlwZ08tZzl6YUdEZ0lIMk5mdXBwOWFPSzl6NXd4R3hKSVZCS2pVMVcwT2xxUXAzY1FNWGgxRkRYZXcyNWFoRmpyellCVTVtZmNQSnZOWjZjR01nSERSRi15WGJLSUVDSXIxU1RR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3hoNENIdXpQM0JXUmpWS3kyaUlmSGUxZ3ZJTnZMNDV2am9FaHVST0dRMkZhZ3dxczduOGhTSFcydFhyRzhPbm03dHJRNXJ3UWFyTWFsR2dxenF3ZWdncFo4NC01enE4X1UtZFplQkxRa05ReHpfb1ZkTng4YmJkbA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "黑山总理斯帕伊奇会见王毅 - 新华网"
+      "originalTitle": "70载风雨兼程，140届从未间断——广交会“青春常驻”有何秘诀？ - 新华网"
     },
     {
-      "event": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网",
-      "published": "2026-10-18T18:10:27+00:00",
+      "event": "钟声丨拜靖国神社，日本再次撕下自己的“和平伪装” - 新华网",
+      "published": "2026-10-20T00:10:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWXRlZmZtYlBPUXhRYWpoTTBjYlVyNi1uUUczRXZnbFFhRWRqVU5seWd2OVFmOEVXQUw3LWhrOWtSMndYam4zQUZUUFVIMnp2U1ZiUkVLc3BvTkVScy02RWFCenBQMnJfb3pPbk5wVEczbzBIa2VSbTc5ZzBsV3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "钟声丨拜靖国神社，日本再次撕下自己的“和平伪装” - 新华网"
+    },
+    {
+      "event": "先进制造乘上全球风口 广东三季度外贸首破3万亿元 - 证券时报网",
+      "published": "2026-10-20T00:10:00+00:00",
       "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvSzh0TEZqWlFlQ1ZFbS1Oc2s1UktvNTN5TGhIeVFzR18wTGcyVXhfVXJXTlNLOTk2MmlOV0dqYmV0N3A2c0JRNWgtSmlEcFZNc3cxakl0ZVJETlJ1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UM0RfUTZDTUgzbjVIV0FPbzlIV2wwbEFGZHRVTWRmdUpiNWd0MGpUTUk2c3dzRDI0ZHhVcmRQMU0zMnBHT3N4UE1wM1RKZjJsXzRCZ3Vyc1R2eGdQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会 - 证券时报网"
+      "originalTitle": "先进制造乘上全球风口 广东三季度外贸首破3万亿元 - 证券时报网"
     },
     {
-      "event": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVeE5WdXNHOHJCZGNya1BJTmdTNmQ2WERtM2o0bHdGWElfMHBzRm44Umc0bGpYa2FLblZKT1JiNnNjZU15MVg3RGw0QlZPTWdlVjY5RTdiX0ZncmFvN3hkZ1QtR2VFMzJFOEtB?oc=5",
+      "event": "老牌工业城市的突围：柳州出海启示录 - 证券时报网",
+      "published": "2026-10-20T00:03:50+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTS1FTXcwOGN5R0V3cmVJb3p2OVBmMTg0SV9Za0dlNEtkYlozUzd2d2F6Qk1STE1xWVZYeEdtZk13VkhXSHFZSTRVRENRd05iT2RiSHROODFSVEdf?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "上海新华传媒股份有限公司关于发行股份购买资产暨关联交易事项的进展公告 - 上海证券报电子版"
+      "originalTitle": "老牌工业城市的突围：柳州出海启示录 - 证券时报网"
     },
     {
-      "event": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2FuelM2MkJQTk5TNmlPOGRGbk0zMEVIUWRaTDNmWXFMOXVjajQwSWdJeG9jOTVvNWpuLXN6UDRpYlFkY2JCZVRtYTdTeDJCWWt5MjRRX0hTUmtjWklyaU05S0NNTVkxaDZQZUl3?oc=5",
+      "event": "券商研究所谋变：向内协同、向外出海、向AI提效 - 证券时报网",
+      "published": "2026-10-19T23:59:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWTd5eEgyRUlfZDN0a0NZYVk3a2lTd1RUWHJRN2ZtLTdYZVdsZ00taUFjbVB5dGlITldVeGFmSHZsTzRYU3NzTkN3VjhTakp2MWhRMUpROVhiLUFG?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "格科微有限公司关于公司实际控制人、董事长、首席执行官提议公司回购股份的公告 - 上海证券报电子版"
+      "originalTitle": "券商研究所谋变：向内协同、向外出海、向AI提效 - 证券时报网"
     },
     {
-      "event": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeWIwdlJEQnhwWGZuMmFlR1JEelFaYzFzMlR3dDRORy1MeENtNWZ0LXM1WGpyVmQ5R3hDNDVkLUdqbnZwclYta182bjgzZDVHR0FuQ1FIMjZBOW5RV3NJZkREbTFzS1dxMEliQkNR?oc=5",
+      "event": "中方呼吁推动海地政治进程取得实质进展 - 新华网",
+      "published": "2026-10-19T23:58:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Mb0piNHNzMWRyX2VaRDFQcEFoMHNHNC1PM1lvRS1vOFVlYnR3Y1VnUnotLU5vY083YUhhaVVSQkxiQ2dLMHhKQ3RVVFJlRVkyaGNVeTU2QjVnRmxDeDZkR0FmRnVaR3ZRWlF0emlsSGhwamRfcDV4Vzd6UWNzcFU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "渤海汽车系统股份有限公司关于间接控股股东增持股份进展暨首次增持公司股份的公告 - 上海证券报电子版"
+      "originalTitle": "中方呼吁推动海地政治进程取得实质进展 - 新华网"
     },
     {
-      "event": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJT1lJUkYyRXY4aWpKby12NkgzTXFGejVHQ0paWV81SDlBRHI1RHZKVElSYmpsTG5hOUZGeVJwZ0c5LVlGZ01EN09YTGFvZ3d4bEFYdTJ5YjRrM1V4NEZycURXNnVHd1YxY0hDbTJB?oc=5",
+      "event": "A股正转向多元化定价 - 证券时报网",
+      "published": "2026-10-19T23:58:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81TDJxcHdCaThUbVFCeWp1cG1vNmZtSzBCNGNfTlhoUW5XVHZjZ1I2ekZ5Q1dpZV95b184a2o2eG95aDJFQzRzQ3BXcDdraFBMd2o2RkNxNmpxSW4w?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "广东生益科技股份有限公司关于董事长提议公司回购股份的提示性公告 - 上海证券报电子版"
+      "originalTitle": "A股正转向多元化定价 - 证券时报网"
     },
     {
-      "event": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQkRKSVBORUdKY1U1bVlXcjk0ekpjMndUX21MSWFIV1R1TGFkcFdKaTZUTy03WmpXMm1ZM0lEMlRGSF9vMjZ6d3dvRF9Mak9zbVpILXZ4OHVUYmt3LW0zbjgtWUdPZjV1Z2dNdTN3?oc=5",
+      "event": "让智能经济更好激发新动能（人民时评） - 证券时报网",
+      "published": "2026-10-19T23:57:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12cEwtcm54TUtGLV9YbmIxY3NOTlptejJuaE5icXhMUVpSRHdscFlQLUNJOG1feUhhaTdMZEx5UFh3UVJ1ZnV3ckVJUTY2ODhrWU1pcWpNZm82aWpz?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "唐山三友化工股份有限公司 2026年度第二期中期票据发行结果公告 - 上海证券报电子版"
+      "originalTitle": "让智能经济更好激发新动能（人民时评） - 证券时报网"
     },
     {
-      "event": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版",
-      "published": "2026-10-18T17:27:58+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiazZZc0tRNWtMdmJ0R2lua1pLcFQ2SlRuaGh2WHAwdkJLeVhEZnNHMWM1MmExaVh6WnJpcGJVbU5RSXBiRm04QVNzNExFeER1WExDSjR1eVcxQnpTdTdNV0o4aWQtSmFGcVYwbE9n?oc=5",
+      "event": "疫苗新贵褪去高光，行业洗牌加速 - 证券时报网",
+      "published": "2026-10-19T23:57:00+00:00",
+      "publisher": "证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNTRJT2tPRWswQVV0N1JWbXZ4RWhwMWpQZEhleU8xYzBBdjlBMHM3TG1SNmdYWjZZLVVONHdpc1RPUUdka2JuOHliSW96bHFxSXpreHA3czQxT1ZE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "澜起科技股份有限公司关于独立董事提议公司回购A股股份的公告 - 上海证券报电子版"
+      "originalTitle": "疫苗新贵褪去高光，行业洗牌加速 - 证券时报网"
+    },
+    {
+      "event": "抗衰产品背后的科学真相 - 新华网",
+      "published": "2026-10-19T23:56:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3lTNEttVVkyTWpyQW1CTS1iMFJWZXo2WHdxdnVKSlIyZTR6eTFhTmozb0ZyTVQ3SV9IU01tUVRZaXk4dGtocWluYVRtcFMtM19PMkU4LTZLdGhWSW5sRGs5b2NMT0VFTEZ2cHJZMGJDRXZuYmJpcGkxS2ZkVU4wRUhVcw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "抗衰产品背后的科学真相 - 新华网"
     }
   ],
   "quality": {
