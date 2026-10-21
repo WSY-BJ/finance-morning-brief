@@ -38,7 +38,7 @@ function renderBlock(block, page){
 }
 function render(){
   byId('edition').textContent=report.edition||'晨报';
-  byId('state').textContent=report.status==='published'?'已发布 · 逐项标注数据时点':'测试版 · 不触发微信';
+  byId('state').textContent=report.quality?.mode==='limited'?'资料版 · 未通过深度研究核验':report.status==='published'?'已发布 · 逐项标注数据时点':'测试版 · 不触发微信';
   byId('date').textContent=report.date||'非正式行情版本';
   byId('headline').textContent=report.title||'今日晨报';
   byId('subtitle').textContent=report.subtitle||'';
@@ -61,7 +61,7 @@ function loadHistory(){
     items.forEach(item=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(item.date||''))return;const a=make('a','history-link',item.date+' · '+(item.title||'财经晨报'));a.href='?date='+encodeURIComponent(item.date)+'#overview';list.append(a);});holder.append(list);
   }).catch(()=>holder.replaceChildren());
 }
-function go(index,scroll=true){if(!report)return;current=Math.max(0,Math.min(index,report.pages.length-1));const tabs=[...byId('tabs').children];[...byId('pages').children].forEach((p,i)=>{p.hidden=i!==current;tabs[i].setAttribute('aria-selected',String(i===current));});tabs[current].scrollIntoView({block:'nearest',inline:'nearest'});byId('progress-label').textContent=String(current+1).padStart(2,'0')+' / '+String(report.pages.length).padStart(2,'0');byId('progress-fill').style.width=((current+1)/report.pages.length*100)+'%';byId('previous').disabled=current===0;byId('next').disabled=current===report.pages.length-1;history.replaceState(null,'','#'+report.pages[current].id);if(scroll)window.scrollTo({top:0,behavior:'smooth'});}
+function go(index,scroll=true){if(!report)return;current=Math.max(0,Math.min(index,report.pages.length-1));const tabs=[...byId('tabs').children];[...byId('pages').children].forEach((p,i)=>{p.hidden=i!==current;tabs[i].setAttribute('aria-selected',String(i===current));});{const selected=tabs[current], bar=byId('tabs'); if(selected.offsetLeft < bar.scrollLeft)bar.scrollLeft=selected.offsetLeft;else if(selected.offsetLeft+selected.offsetWidth>bar.scrollLeft+bar.clientWidth)bar.scrollLeft=selected.offsetLeft+selected.offsetWidth-bar.clientWidth;}byId('progress-label').textContent=String(current+1).padStart(2,'0')+' / '+String(report.pages.length).padStart(2,'0');byId('progress-fill').style.width=((current+1)/report.pages.length*100)+'%';byId('previous').disabled=current===0;byId('next').disabled=current===report.pages.length-1;history.replaceState(null,'','#'+report.pages[current].id);if(scroll){const reader=byId('reader');const y=reader.getBoundingClientRect().top+window.scrollY;window.scrollTo({top:y,behavior:'auto'});}}
 byId('previous').addEventListener('click',()=>go(current-1));byId('next').addEventListener('click',()=>go(current+1));
 document.addEventListener('keydown',event=>{if(event.target.closest('input,textarea,select,button,a,[contenteditable]'))return;if(event.key==='ArrowRight')go(current+1);if(event.key==='ArrowLeft')go(current-1);});
 const params=new URLSearchParams(location.search), requestedDate=params.get('date'), requestedPreview=params.get('preview');
