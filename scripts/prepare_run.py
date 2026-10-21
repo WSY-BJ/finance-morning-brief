@@ -19,7 +19,7 @@ if not generate:
     quality = report.get("quality", {})
     # An incomplete edition is not a successful daily run. Retry collection on
     # the next cron, without touching the existing notification claim.
-    generate = report.get("generatorVersion") != 3
+    generate = report.get("generatorVersion") != 3 or (quality.get("mode") != "research" and os.environ.get("RETRY_LIMITED", "0") == "1")
     if not generate:
         (root / "report.json").write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
 
