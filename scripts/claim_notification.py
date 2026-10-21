@@ -11,6 +11,11 @@ today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
 report = json.loads((root / "report.json").read_text(encoding="utf-8"))
 if report.get("reportDate") != today:
     raise SystemExit("Not today's report; cannot claim notification")
+if report.get("quality", {}).get("mode") != "research":
+    print("Research quality gate not met; no daily notification claimed")
+    with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+        output.write("claimed=false\\n".replace("\\n", "\n"))
+    raise SystemExit(0)
 path = root / ".state" / "notifications" / f"{today}.json"
 if path.exists():
     print(f"Notification already claimed for {today}; no second push")
