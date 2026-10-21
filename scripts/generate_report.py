@@ -371,7 +371,7 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
     return {"edition": f"财经晨报 · {today}", "date": f"更新于北京时间 {now:%Y-%m-%d %H:%M}", "reportDate": today,
             "updatedAt": now.isoformat(timespec="seconds"), "status": "published", "generatorVersion": VERSION,
             "title": "财经晨报" if not limited else "财经数据与待核验线索", "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-            "intro": summary, "notification": {"title": today + " 财经晨报", "summary": summary},
+            "intro": summary, "notification": {"title": today + (" 财经晨报" if not limited else " 财经资料（待核验）"), "summary": summary},
             "pages": pages, "sources": sources, "events": news,
             "quality": {"mode": "limited" if limited else "research", "indicatorCount": len(indicators), "news24hCount": len(news),
                         "reviewedNewsCount": len(reviewed), "radarCount": len(radar_events), "staleIndicators": stale,
