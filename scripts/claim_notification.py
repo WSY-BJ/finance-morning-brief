@@ -11,6 +11,12 @@ today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
 report = json.loads((root / "report.json").read_text(encoding="utf-8"))
 if report.get("reportDate") != today:
     raise SystemExit("Not today's report; cannot claim notification")
+now = datetime.now(ZoneInfo("Asia/Shanghai"))
+if now.hour < 8:
+    raise SystemExit("Before 08:00 Beijing time; cannot claim notification")
+published_at = datetime.fromisoformat(report["updatedAt"]).astimezone(ZoneInfo("Asia/Shanghai"))
+if published_at.hour < 8:
+    raise SystemExit("Edition was generated before 08:00; refresh required before notification")
 path = root / ".state" / "notifications" / f"{today}.json"
 if path.exists():
     print(f"Notification already claimed for {today}; no second push")
