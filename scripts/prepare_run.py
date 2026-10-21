@@ -17,9 +17,14 @@ if not generate:
     if report.get("reportDate") != today or report.get("status") != "published":
         raise SystemExit("Existing archive has invalid date/status")
     quality = report.get("quality", {})
-    # An incomplete edition is not a successful daily run. Retry collection on
-    # the next cron, without touching the existing notification claim.
-    generate = report.get("generatorVersion") != 3
+    # Pre-08:00 editions are previews for the morning run, not the final 08:00 snapshot.
+    # Retry incomplete editions after 08:00, even if generator code is unchanged.
+    published_at = datetime.fromisoformat(report["updatedAt"]).astimezone(ZoneInfo("Asia/Shanghai"))
+    now_bj = datetime.now(ZoneInfo("Asia/Shanghai"))
+    generated_before_8 = published_at.hour < 8
+    low_quality = quality.get("mode") != "research"
+    generate = (report.get("generatorVersion") != 3 or
+                (now_bj.hour >= 8 and (generated_before_8 or low_quality)))
     if not generate:
         (root / "report.json").write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
 
