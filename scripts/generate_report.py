@@ -339,7 +339,7 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
                            "持续时间：" + n.get("horizon", "未确定"), "反证：" + n["invalidate"], "验证：" + n["verify"]]
             paragraphs += [c["name"] + "：" + c["relationship"] for c in n.get("companies", [])]
         news_blocks.append(block(n["event"], n.get("facts", ""), paragraphs,
-                                 [{"title": "新闻来源", "url": n["url"]}]))
+                                 [{"title": "新闻原文" if n.get("articleEvidence") else "新闻索引（原文未核实）", "url": n.get("articleEvidence", {}).get("url", n["url"])}]))
     limited = len(reviewed) < 6 or len(radar_events) < 2
     radar = [block(n["event"], n["facts"], ["利润假设：" + n["analysis"], "反证：" + n["invalidate"], "验证：" + n["verify"]],
                    [{"title": "支持证据", "url": n["url"]}]) for n in radar_events]
@@ -366,7 +366,7 @@ def build_report(indicators, failures, news, news_errors, now, editorial=None):
         {"id": "watch", "eyebrow": "06 · 下一步", "title": "接下来重点观察什么", "lead": "用数据检验判断。", "blocks": [{"type": "bullets", "items": observation}]},
     ]
     sources = [{"title": v["label"] + " · " + v["provider"], "url": v["source"], "asOf": v["date"]} for v in indicators.values()]
-    sources += [{"title": n["event"], "url": n["url"], "asOf": n["published"]} for n in news]
+    sources += [{"title": n["event"], "url": n.get("articleEvidence", {}).get("url", n["url"]), "asOf": n["published"]} for n in news]
     summary = f"{len(indicators)} 项市场数据 · {len(reviewed)} 条正文审核事件 · {len(news)-len(reviewed)} 条待核验线索"
     return {"edition": f"财经晨报 · {today}", "date": f"更新于北京时间 {now:%Y-%m-%d %H:%M}", "reportDate": today,
             "updatedAt": now.isoformat(timespec="seconds"), "status": "published", "generatorVersion": VERSION,
