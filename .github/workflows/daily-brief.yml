@@ -34,6 +34,7 @@ jobs:
     env:
       TZ: Asia/Shanghai
       SITE_URL: https://wsy-bj.github.io/finance-morning-brief/
+      RETRY_LIMITED: "1"
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
