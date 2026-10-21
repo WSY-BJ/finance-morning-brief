@@ -2,11 +2,12 @@ name: Daily finance brief
 
 on:
   schedule:
-    # Beijing 05:17, 06:43, 07:31, 08:17. GitHub may delay or drop any one run.
+    # Beijing 05:17, 06:43, 07:31 prewarm; 08:00 target and 08:17 retry. GitHub scheduling is best effort.
     - cron: "17 21 * * *"
     - cron: "43 22 * * *"
     - cron: "31 23 * * *"
     - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       send_notification:
@@ -100,9 +101,15 @@ jobs:
           EXPECTED_DATE: ${{ steps.state.outputs.date }}
         run: python scripts/verify_live.py
 
+      - name: Enforce 08:00 Beijing notification window
+        id: window
+        run: |
+          hour=$(TZ=Asia/Shanghai date +%H)
+          if [ "$hour" -ge 8 ]; then echo 'ready=true' >> "$GITHUB_OUTPUT"; else echo 'ready=false' >> "$GITHUB_OUTPUT"; fi
+
       - name: Claim daily notification before request
         id: claim
-        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification) }}
+        if: ${{ steps.window.outputs.ready == 'true' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification)) }}
         run: |
           python scripts/claim_notification.py
           git add .state/notifications/
