@@ -18,6 +18,8 @@ report = json.loads((ROOT / "report.json").read_text(encoding="utf-8"))
 today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
 if report.get("reportDate") != today:
     raise SystemExit("Local report is not today's Beijing edition; notification blocked")
+if report.get("quality", {}).get("mode") != "research":
+    raise SystemExit("Research quality gate not met; unverified edition cannot be sent as a morning brief")
 receipt = ROOT / ".state" / "notifications" / f"{today}.json"
 test_mode = os.environ.get("SERVERCHAN_TEST") == "1"
 if not test_mode and (not receipt.exists() or json.loads(receipt.read_text(encoding="utf-8")).get("status") != "pending"):
