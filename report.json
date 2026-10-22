@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-22",
-  "date": "更新于北京时间 2026-10-22 10:19",
+  "date": "更新于北京时间 2026-10-22 12:48",
   "reportDate": "2026-10-22",
-  "updatedAt": "2026-10-22T10:19:56+08:00",
+  "updatedAt": "2026-10-22T12:48:45+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-20：7,712.57 点；较 2026-10-19 变化 +21.84 点。",
+          "summary": "2026-10-21：7,757.17 点；较 2026-10-20 变化 +44.60 点。",
           "paragraphs": [],
           "links": [
             {
@@ -33,8 +33,20 @@
         },
         {
           "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-20：108.79 美元/桶；较 2026-10-19 变化 -0.76 美元/桶。",
+          "summary": "2026-10-21：108.82 美元/桶；较 2026-10-20 变化 +0.03 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -54,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "108.79 美元/桶；变化 -0.76 美元/桶",
+          "summary": "108.82 美元/桶；变化 +0.03 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-20；前值 109.55（2026-10-19）；来源：Yahoo Finance。"
+            "观测日 2026-10-21；前值 108.79（2026-10-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -67,10 +79,10 @@
         },
         {
           "type": "explainer",
-          "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；变化 +0.02 个百分点",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.13 %；变化 +0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -82,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.73 点；变化 -0.25 点",
+          "summary": "101.78 点；变化 +0.05 点",
           "paragraphs": [
-            "观测日 2026-10-20；前值 101.98（2026-10-19）；来源：Yahoo Finance。"
+            "观测日 2026-10-21；前值 101.73（2026-10-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -96,9 +108,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,712.57 点；变化 +21.84 点",
+          "summary": "7,757.17 点；变化 +44.60 点",
           "paragraphs": [
-            "观测日 2026-10-20；前值 7,690.73（2026-10-19）；来源：Yahoo Finance。"
+            "观测日 2026-10-21；前值 7,712.57（2026-10-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -110,9 +122,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,424.82 点；变化 -6.07 点",
+          "summary": "26,702.86 点；变化 +278.04 点",
           "paragraphs": [
-            "观测日 2026-10-20；前值 26,430.89（2026-10-19）；来源：Yahoo Finance。"
+            "观测日 2026-10-21；前值 26,424.82（2026-10-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -139,7 +151,7 @@
           "type": "notice",
           "tone": "warning",
           "title": "数据缺口",
-          "text": "滞后：；缺失：gold、us10y"
+          "text": "滞后：；缺失：gold、us2y"
         }
       ]
     },
@@ -149,6 +161,53 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806325"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月22日，中材国际发布2026年第三季度报告称，本报告期公司实现营业收入约106.79亿元，同比下降5.68%；利润总额约4.41亿元，下降43.69%；归属于上市公司股东的净利润约3.54亿元，下降45.75%；扣非后净利润"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/806358"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月22日晚间，视源股份发布2026年第三季度报告称，公司前三季度实现营业收入约252.52亿元，同比增长39.61%；归属于上市公司股东的净利润约24.77亿元，同比增长185.63%；扣除非经常性损益后的净利润约19.77亿"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/806327"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "纪念长征胜利90周年大会隆重举行",
@@ -166,64 +225,16 @@
         },
         {
           "type": "explainer",
-          "title": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
+          "title": "产业基础能力提升“十五五”规划发布",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月22日，生益科技发布关于以集中竞价交易方式回购股份方案的公告称，公司拟使用自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司部分股份，回购资金总额不低于2亿元（含），不超过3亿元（含），回购价格上限为2"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806340"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月22日，宝光股份发布2026年第三季度报告称，公司前三季度实现营业收入约10.35亿元，同比增长8.66%；归属于上市公司股东的净利润约5966万元，同比增长20.59%；归属于上市公司股东的扣除非经常性损益的净利润约586"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806347"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月22日，中科信息发布2026年第三季度报告称，本报告期公司实现营业收入约2.85亿元，比上年同期增长446.96%；归属于上市公司股东的净利润约397.72万元，同比增长433.27%；扣除非经常性损益后的净利润约362.4"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806357"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "四大指数开盘涨跌不一 科创综指涨0.24%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T09:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-22T10:17:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806291"
+              "url": "https://www.cnstock.com/commonDetail/806469"
             }
           ]
         },
@@ -233,11 +244,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-22T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/806249"
             }
           ]
@@ -263,42 +275,43 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-22T06:58:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/806237"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
+          "title": "南非下调经济增长预期 临时削减燃油税 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T02:12:19+00:00；来源：新华网。",
+            "发布时间：2026-10-22T03:47:11+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
+          "title": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T02:12:14+00:00；来源：新华网。",
+            "发布时间：2026-10-22T03:32:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5"
             }
           ]
         }
@@ -330,7 +343,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-19 前值 7690.7300，2026-10-20 现值 7712.5698，变化 +21.8398。",
+            "本期实例：标普 500 指数，2026-10-20 前值 7712.5698，2026-10-21 现值 7757.1699，变化 +44.6001。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -356,14 +369,14 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-20"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-21"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-20"
+      "asOf": "2026-10-21"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -371,19 +384,34 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-20"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-21"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-20"
+      "asOf": "2026-10-21"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-21"
+      "title": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
+      "url": "https://www.cnstock.com/commonDetail/806325",
+      "asOf": "2026-10-22T10:21:00+08:00"
+    },
+    {
+      "title": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
+      "url": "https://www.cnstock.com/commonDetail/806358",
+      "asOf": "2026-10-22T10:21:00+08:00"
+    },
+    {
+      "title": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
+      "url": "https://www.cnstock.com/commonDetail/806327",
+      "asOf": "2026-10-22T10:21:00+08:00"
     },
     {
       "title": "纪念长征胜利90周年大会隆重举行",
@@ -391,24 +419,9 @@
       "asOf": "2026-10-22T10:17:00+08:00"
     },
     {
-      "title": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
-      "url": "https://www.cnstock.com/commonDetail/806340",
+      "title": "产业基础能力提升“十五五”规划发布",
+      "url": "https://www.cnstock.com/commonDetail/806469",
       "asOf": "2026-10-22T10:17:00+08:00"
-    },
-    {
-      "title": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
-      "url": "https://www.cnstock.com/commonDetail/806347",
-      "asOf": "2026-10-22T10:17:00+08:00"
-    },
-    {
-      "title": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
-      "url": "https://www.cnstock.com/commonDetail/806357",
-      "asOf": "2026-10-22T10:17:00+08:00"
-    },
-    {
-      "title": "四大指数开盘涨跌不一 科创综指涨0.24%",
-      "url": "https://www.cnstock.com/commonDetail/806291",
-      "asOf": "2026-10-22T09:33:00+08:00"
     },
     {
       "title": "国家数据集团为何落子雄安",
@@ -426,17 +439,55 @@
       "asOf": "2026-10-22T06:58:00+08:00"
     },
     {
-      "title": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5",
-      "asOf": "2026-10-22T02:12:19+00:00"
+      "title": "南非下调经济增长预期 临时削减燃油税 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5",
+      "asOf": "2026-10-22T03:47:11+00:00"
     },
     {
-      "title": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5",
-      "asOf": "2026-10-22T02:12:14+00:00"
+      "title": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5",
+      "asOf": "2026-10-22T03:32:47+00:00"
     }
   ],
   "events": [
+    {
+      "event": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
+      "originalTitle": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
+      "published": "2026-10-22T10:21:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806325",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
+      "originalTitle": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
+      "published": "2026-10-22T10:21:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806358",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/806358",
+        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
+        "sha256": "91e3400d38a07c738e029d8222ab222f1d155aafa3d3ab14bbc38438ab76756f",
+        "paragraphCount": 4,
+        "excerpt": "上证智讯 10月22日，中材国际发布2026年第三季度报告称，本报告期公司实现营业收入约106.79亿元，同比下降5.68%；利润总额约4.41亿元，下降43.69%；归属于上市公司股东的净利润约3.54亿元，下降45.75%；扣非后净利润"
+      }
+    },
+    {
+      "event": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
+      "originalTitle": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
+      "published": "2026-10-22T10:21:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806327",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/806327",
+        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
+        "sha256": "9a20dee83bb61a6213394969c5b98ee52bd1b4c5112bc3068359cc4d29e32e11",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月22日晚间，视源股份发布2026年第三季度报告称，公司前三季度实现营业收入约252.52亿元，同比增长39.61%；归属于上市公司股东的净利润约24.77亿元，同比增长185.63%；扣除非经常性损益后的净利润约19.77亿"
+      }
+    },
     {
       "event": "纪念长征胜利90周年大会隆重举行",
       "originalTitle": "纪念长征胜利90周年大会隆重举行",
@@ -446,56 +497,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
-      "originalTitle": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
+      "event": "产业基础能力提升“十五五”规划发布",
+      "originalTitle": "产业基础能力提升“十五五”规划发布",
       "published": "2026-10-22T10:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806340",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806340",
-        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
-        "sha256": "0943cb7d2e44ef752c03ab81f4d92f268ae157d63b7ff5b54bc7587e9e82337a",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 10月22日，生益科技发布关于以集中竞价交易方式回购股份方案的公告称，公司拟使用自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司部分股份，回购资金总额不低于2亿元（含），不超过3亿元（含），回购价格上限为2"
-      }
-    },
-    {
-      "event": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
-      "originalTitle": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
-      "published": "2026-10-22T10:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806347",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806347",
-        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
-        "sha256": "760aedd87b231205bf11a293675df3d8b40b0e3591bb17d65d0e8b112ab3e54e",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月22日，宝光股份发布2026年第三季度报告称，公司前三季度实现营业收入约10.35亿元，同比增长8.66%；归属于上市公司股东的净利润约5966万元，同比增长20.59%；归属于上市公司股东的扣除非经常性损益的净利润约586"
-      }
-    },
-    {
-      "event": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
-      "originalTitle": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
-      "published": "2026-10-22T10:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806357",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806357",
-        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
-        "sha256": "576360fcebfca492a13f1d26fdb6c26cdd2eda5c261f28f641c40225c2a07400",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月22日，中科信息发布2026年第三季度报告称，本报告期公司实现营业收入约2.85亿元，比上年同期增长446.96%；归属于上市公司股东的净利润约397.72万元，同比增长433.27%；扣除非经常性损益后的净利润约362.4"
-      }
-    },
-    {
-      "event": "四大指数开盘涨跌不一 科创综指涨0.24%",
-      "originalTitle": "四大指数开盘涨跌不一 科创综指涨0.24%",
-      "published": "2026-10-22T09:33:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806291",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/806469",
       "evidenceLevel": "headline-only"
     },
     {
@@ -504,7 +510,14 @@
       "published": "2026-10-22T07:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/806249",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/806249",
+        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
+        "sha256": "14df17f74d8d44ee3add0b5b93af321ca527a3196488602b79aba97be6937ddc",
+        "paragraphCount": 13,
+        "excerpt": "上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
+      }
     },
     {
       "event": "光互联走向全链路协同 光纤产业链机遇多",
@@ -520,23 +533,30 @@
       "published": "2026-10-22T06:58:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/806237",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/806237",
+        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
+        "sha256": "c01de175eb93c05fce2cd83efcf0046a70337cd550176fbfd47ade87474b9df4",
+        "paragraphCount": 32,
+        "excerpt": "深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
+      }
     },
     {
-      "event": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
-      "published": "2026-10-22T02:12:19+00:00",
+      "event": "南非下调经济增长预期 临时削减燃油税 - 新华网",
+      "published": "2026-10-22T03:47:11+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网"
+      "originalTitle": "南非下调经济增长预期 临时削减燃油税 - 新华网"
     },
     {
-      "event": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
-      "published": "2026-10-22T02:12:14+00:00",
+      "event": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
+      "published": "2026-10-22T03:32:47+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网"
+      "originalTitle": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网"
     }
   ],
   "quality": {
@@ -548,10 +568,9 @@
     "staleIndicators": [],
     "unavailableIndicators": [
       "gold",
-      "us10y"
+      "us2y"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
