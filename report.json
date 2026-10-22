@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-22",
-  "date": "更新于北京时间 2026-10-22 09:41",
+  "date": "更新于北京时间 2026-10-22 10:19",
   "reportDate": "2026-10-22",
-  "updatedAt": "2026-10-22T09:41:54+08:00",
+  "updatedAt": "2026-10-22T10:19:56+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -151,33 +151,79 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "我们的长征路丨走好今天的长征路",
+          "title": "纪念长征胜利90周年大会隆重举行",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T09:14:00+08:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：【学习进行时】“每一代人有每一代人的长征路，每一代人都要走好自己的长征路。”2016年10月，习近平总书记在纪念红军长征胜利80周年大会上深刻指出，不论我们的事业发展到哪一步，不论我们取得了多大成就，我们都要大力弘扬伟大长征精神，在新的长征"
+            "发布时间：2026-10-22T10:17:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806281"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806459"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上证早知道｜600110，第三季度净利润同比增超775%；300006，机构净买入9272.56万元；688836，举办具身智能生态大会",
+          "title": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T08:35:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：10月27日—29日，2026卫星互联网产业生态大会将在上海举行。大会主论坛将发布《上海市卫星互联网产业创新发展行动方案（2027—2030年）》，明确“十五五”时期在星座组网、网络承载能力、核心产业规模以及标杆应用场景打造等方面的发展目标"
+            "原文摘要：上证智讯 10月22日，生益科技发布关于以集中竞价交易方式回购股份方案的公告称，公司拟使用自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司部分股份，回购资金总额不低于2亿元（含），不超过3亿元（含），回购价格上限为2"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806260"
+              "url": "https://www.cnstock.com/commonDetail/806340"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月22日，宝光股份发布2026年第三季度报告称，公司前三季度实现营业收入约10.35亿元，同比增长8.66%；归属于上市公司股东的净利润约5966万元，同比增长20.59%；归属于上市公司股东的扣除非经常性损益的净利润约586"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/806347"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T10:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月22日，中科信息发布2026年第三季度报告称，本报告期公司实现营业收入约2.85亿元，比上年同期增长446.96%；归属于上市公司股东的净利润约397.72万元，同比增长433.27%；扣除非经常性损益后的净利润约362.4"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/806357"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "四大指数开盘涨跌不一 科创综指涨0.24%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T09:33:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806291"
             }
           ]
         },
@@ -187,12 +233,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-22T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/806249"
             }
           ]
@@ -203,12 +248,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-22T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：在日前举行的2026全球光纤光缆大会上，多名行业人士表示，今年数通用光纤占光纤总需求量已超过30%。光模块的需求快速增长，带动光纤的需求，也使光纤逐渐成为算力基建交付的瓶颈部件。随着速率不断提升，高端的多模、保偏、超低损、空芯、多芯等特种光"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/806247"
             }
           ]
@@ -219,88 +263,42 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-22T06:58:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/806237"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "274只港股获南向资金大比例持有 - 证券时报",
+          "title": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T01:26:00+00:00；来源：证券时报。",
+            "发布时间：2026-10-22T02:12:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZlVVLW5ZZGk5LUtUQWtiYkRUNW5ZN3drRTBsV0dHbjdVM29maXVZLXFsbDk0Zm5BdEM0dDhjUVJWbWhyYVBmeEJDWjFlZUpjdy1RLWZJT2s1MHk4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "伊朗最高领袖会见议长 讨论战争影响 - 新华网",
+          "title": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T01:23:20+00:00；来源：新华网。",
+            "发布时间：2026-10-22T02:12:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yRnM1aDdBUXBaOTZHYldJSnhrcEZTRHJ2bS1DaTlGWVBQUjZHVzl5VUgzRkprakFxSk5uTVV0RFpZbGdyRTZCVDRybVhYb0I2NzJhR0VtZG43RUdmbnVwNk9obXNhWDhTYWdXenQ3U0tia2FwT1FJ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "两部门派工作组赴浙江协助指导防汛防台风工作 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T01:16:30+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXNNRFFFNXN0cHlBUm81TVM4MTN0bjh1MEJGbURhRmlIanNob1NVNHJSMDFYaDEtVjJuRFktRHNnTDYtNmw1SC1MeEdHWFdJeTAwNlR4VzMtOUt5cmhDbHE1N0lSdXR3Vm00QTJ5ckxfZWFIVTJFT3N0dFpNeVQtYndGbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“在大陆发展安心、暖心、有信心”——桂台经贸文化合作论坛上的台企之声 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T01:08:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWY1MS1sZEIycjFyajRaSXRKeU1xVy1XM1dqeTlJQWhBNnNwc24xRzZVbjVZUDZGNzNfcWhuY3B3LUZwbnY0VVhHVXhlaUlkZkZ5UWNLTkNMbXBlVVp0ZjVCNThBVndUY19ma2h0WXNOd28tTjJtV3Rn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "韩国央行将政策利率维持在3%不变 - 证券时报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T01:01:00+00:00；来源：证券时报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GMmVfcDRWMmxUNGR6ZXRBbzdoVlBXUm1Ma3FZUHVNcmp4cWZmXzltek85ZFUtNnFHbmV5ZE1MaG0xdW1yc05mdXhZMzZzZVZ1dTJ0NW93aVRIYUtB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5"
             }
           ]
         }
@@ -358,8 +356,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-20"
     },
     {
@@ -373,8 +371,8 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-20"
     },
     {
@@ -388,14 +386,29 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "我们的长征路丨走好今天的长征路",
-      "url": "https://www.cnstock.com/commonDetail/806281",
-      "asOf": "2026-10-22T09:14:00+08:00"
+      "title": "纪念长征胜利90周年大会隆重举行",
+      "url": "https://www.cnstock.com/commonDetail/806459",
+      "asOf": "2026-10-22T10:17:00+08:00"
     },
     {
-      "title": "上证早知道｜600110，第三季度净利润同比增超775%；300006，机构净买入9272.56万元；688836，举办具身智能生态大会",
-      "url": "https://www.cnstock.com/commonDetail/806260",
-      "asOf": "2026-10-22T08:35:00+08:00"
+      "title": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
+      "url": "https://www.cnstock.com/commonDetail/806340",
+      "asOf": "2026-10-22T10:17:00+08:00"
+    },
+    {
+      "title": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
+      "url": "https://www.cnstock.com/commonDetail/806347",
+      "asOf": "2026-10-22T10:17:00+08:00"
+    },
+    {
+      "title": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
+      "url": "https://www.cnstock.com/commonDetail/806357",
+      "asOf": "2026-10-22T10:17:00+08:00"
+    },
+    {
+      "title": "四大指数开盘涨跌不一 科创综指涨0.24%",
+      "url": "https://www.cnstock.com/commonDetail/806291",
+      "asOf": "2026-10-22T09:33:00+08:00"
     },
     {
       "title": "国家数据集团为何落子雄安",
@@ -413,61 +426,77 @@
       "asOf": "2026-10-22T06:58:00+08:00"
     },
     {
-      "title": "274只港股获南向资金大比例持有 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZlVVLW5ZZGk5LUtUQWtiYkRUNW5ZN3drRTBsV0dHbjdVM29maXVZLXFsbDk0Zm5BdEM0dDhjUVJWbWhyYVBmeEJDWjFlZUpjdy1RLWZJT2s1MHk4?oc=5",
-      "asOf": "2026-10-22T01:26:00+00:00"
+      "title": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5",
+      "asOf": "2026-10-22T02:12:19+00:00"
     },
     {
-      "title": "伊朗最高领袖会见议长 讨论战争影响 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yRnM1aDdBUXBaOTZHYldJSnhrcEZTRHJ2bS1DaTlGWVBQUjZHVzl5VUgzRkprakFxSk5uTVV0RFpZbGdyRTZCVDRybVhYb0I2NzJhR0VtZG43RUdmbnVwNk9obXNhWDhTYWdXenQ3U0tia2FwT1FJ?oc=5",
-      "asOf": "2026-10-22T01:23:20+00:00"
-    },
-    {
-      "title": "两部门派工作组赴浙江协助指导防汛防台风工作 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXNNRFFFNXN0cHlBUm81TVM4MTN0bjh1MEJGbURhRmlIanNob1NVNHJSMDFYaDEtVjJuRFktRHNnTDYtNmw1SC1MeEdHWFdJeTAwNlR4VzMtOUt5cmhDbHE1N0lSdXR3Vm00QTJ5ckxfZWFIVTJFT3N0dFpNeVQtYndGbw?oc=5",
-      "asOf": "2026-10-22T01:16:30+00:00"
-    },
-    {
-      "title": "“在大陆发展安心、暖心、有信心”——桂台经贸文化合作论坛上的台企之声 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWY1MS1sZEIycjFyajRaSXRKeU1xVy1XM1dqeTlJQWhBNnNwc24xRzZVbjVZUDZGNzNfcWhuY3B3LUZwbnY0VVhHVXhlaUlkZkZ5UWNLTkNMbXBlVVp0ZjVCNThBVndUY19ma2h0WXNOd28tTjJtV3Rn?oc=5",
-      "asOf": "2026-10-22T01:08:08+00:00"
-    },
-    {
-      "title": "韩国央行将政策利率维持在3%不变 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GMmVfcDRWMmxUNGR6ZXRBbzdoVlBXUm1Ma3FZUHVNcmp4cWZmXzltek85ZFUtNnFHbmV5ZE1MaG0xdW1yc05mdXhZMzZzZVZ1dTJ0NW93aVRIYUtB?oc=5",
-      "asOf": "2026-10-22T01:01:00+00:00"
+      "title": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5",
+      "asOf": "2026-10-22T02:12:14+00:00"
     }
   ],
   "events": [
     {
-      "event": "我们的长征路丨走好今天的长征路",
-      "originalTitle": "我们的长征路丨走好今天的长征路",
-      "published": "2026-10-22T09:14:00+08:00",
-      "publisher": "新华网",
-      "url": "https://www.cnstock.com/commonDetail/806281",
+      "event": "纪念长征胜利90周年大会隆重举行",
+      "originalTitle": "纪念长征胜利90周年大会隆重举行",
+      "published": "2026-10-22T10:17:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/806459",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
+      "originalTitle": "生益科技：拟斥资2亿至3亿元回购占总0.04%至0.06%公司股份",
+      "published": "2026-10-22T10:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806340",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806281",
-        "retrievedAt": "2026-10-22T09:41:54.074914+08:00",
-        "sha256": "4119a7e0873818d6abbd8c45c6df95b071960e2e2d42fa0a71383482d3e53e07",
-        "paragraphCount": 13,
-        "excerpt": "【学习进行时】“每一代人有每一代人的长征路，每一代人都要走好自己的长征路。”2016年10月，习近平总书记在纪念红军长征胜利80周年大会上深刻指出，不论我们的事业发展到哪一步，不论我们取得了多大成就，我们都要大力弘扬伟大长征精神，在新的长征"
+        "url": "https://www.cnstock.com/commonDetail/806340",
+        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
+        "sha256": "0943cb7d2e44ef752c03ab81f4d92f268ae157d63b7ff5b54bc7587e9e82337a",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月22日，生益科技发布关于以集中竞价交易方式回购股份方案的公告称，公司拟使用自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司部分股份，回购资金总额不低于2亿元（含），不超过3亿元（含），回购价格上限为2"
       }
     },
     {
-      "event": "上证早知道｜600110，第三季度净利润同比增超775%；300006，机构净买入9272.56万元；688836，举办具身智能生态大会",
-      "originalTitle": "上证早知道｜600110，第三季度净利润同比增超775%；300006，机构净买入9272.56万元；688836，举办具身智能生态大会",
-      "published": "2026-10-22T08:35:00+08:00",
+      "event": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
+      "originalTitle": "宝光股份：前三季度净利润约5966万元 同比增长20.59%",
+      "published": "2026-10-22T10:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806260",
+      "url": "https://www.cnstock.com/commonDetail/806347",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806260",
-        "retrievedAt": "2026-10-22T09:41:54.074914+08:00",
-        "sha256": "dc2d65561277b3cacc46987136b7c4b70f29e464f43b185c4aacdef00811f857",
-        "paragraphCount": 38,
-        "excerpt": "10月27日—29日，2026卫星互联网产业生态大会将在上海举行。大会主论坛将发布《上海市卫星互联网产业创新发展行动方案（2027—2030年）》，明确“十五五”时期在星座组网、网络承载能力、核心产业规模以及标杆应用场景打造等方面的发展目标"
+        "url": "https://www.cnstock.com/commonDetail/806347",
+        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
+        "sha256": "760aedd87b231205bf11a293675df3d8b40b0e3591bb17d65d0e8b112ab3e54e",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月22日，宝光股份发布2026年第三季度报告称，公司前三季度实现营业收入约10.35亿元，同比增长8.66%；归属于上市公司股东的净利润约5966万元，同比增长20.59%；归属于上市公司股东的扣除非经常性损益的净利润约586"
       }
+    },
+    {
+      "event": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
+      "originalTitle": "中科信息：前三季度净利润约959.51万元 同比增长112.59%",
+      "published": "2026-10-22T10:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806357",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/806357",
+        "retrievedAt": "2026-10-22T10:19:56.432753+08:00",
+        "sha256": "576360fcebfca492a13f1d26fdb6c26cdd2eda5c261f28f641c40225c2a07400",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月22日，中科信息发布2026年第三季度报告称，本报告期公司实现营业收入约2.85亿元，比上年同期增长446.96%；归属于上市公司股东的净利润约397.72万元，同比增长433.27%；扣除非经常性损益后的净利润约362.4"
+      }
+    },
+    {
+      "event": "四大指数开盘涨跌不一 科创综指涨0.24%",
+      "originalTitle": "四大指数开盘涨跌不一 科创综指涨0.24%",
+      "published": "2026-10-22T09:33:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806291",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国家数据集团为何落子雄安",
@@ -475,14 +504,7 @@
       "published": "2026-10-22T07:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/806249",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806249",
-        "retrievedAt": "2026-10-22T09:41:54.074914+08:00",
-        "sha256": "b0f77e6f4385f52a4a0f2983b2c432974e66ba3915ef920523d953a2e885eed7",
-        "paragraphCount": 13,
-        "excerpt": "上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "光互联走向全链路协同 光纤产业链机遇多",
@@ -490,14 +512,7 @@
       "published": "2026-10-22T07:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/806247",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806247",
-        "retrievedAt": "2026-10-22T09:41:54.074914+08:00",
-        "sha256": "801799b970c32b67b5ce951d113f4c570c9d8ca03376d74e6ca57fcb37b84f6c",
-        "paragraphCount": 14,
-        "excerpt": "在日前举行的2026全球光纤光缆大会上，多名行业人士表示，今年数通用光纤占光纤总需求量已超过30%。光模块的需求快速增长，带动光纤的需求，也使光纤逐渐成为算力基建交付的瓶颈部件。随着速率不断提升，高端的多模、保偏、超低损、空芯、多芯等特种光"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "资源兴基 向新发力 科技攀高 兴发集团迈向千亿级新材料平台",
@@ -505,54 +520,23 @@
       "published": "2026-10-22T06:58:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/806237",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806237",
-        "retrievedAt": "2026-10-22T09:41:54.074914+08:00",
-        "sha256": "4c6611b003200a82392abc3b55a236e27f68d6956f0fc864e2f758666c4d0fb4",
-        "paragraphCount": 32,
-        "excerpt": "深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "274只港股获南向资金大比例持有 - 证券时报",
-      "published": "2026-10-22T01:26:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZlVVLW5ZZGk5LUtUQWtiYkRUNW5ZN3drRTBsV0dHbjdVM29maXVZLXFsbDk0Zm5BdEM0dDhjUVJWbWhyYVBmeEJDWjFlZUpjdy1RLWZJT2s1MHk4?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "274只港股获南向资金大比例持有 - 证券时报"
-    },
-    {
-      "event": "伊朗最高领袖会见议长 讨论战争影响 - 新华网",
-      "published": "2026-10-22T01:23:20+00:00",
+      "event": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网",
+      "published": "2026-10-22T02:12:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yRnM1aDdBUXBaOTZHYldJSnhrcEZTRHJ2bS1DaTlGWVBQUjZHVzl5VUgzRkprakFxSk5uTVV0RFpZbGdyRTZCVDRybVhYb0I2NzJhR0VtZG43RUdmbnVwNk9obXNhWDhTYWdXenQ3U0tia2FwT1FJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMllVdGZjYUNfcjdZZVA3M3hEaUlQMDY1MzczWVhFbkJSNmlFQk1SSEVaVEdKTEpNWGxzVXVfS0NOSWZBMVEwX0VMLWJDV25jSXJGY0xoQ2I2QVh0azdLQXFkOWJnU21rMkxwUUxjbWVfdFZsbGNxdFpOZ1NEWXlQdQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗最高领袖会见议长 讨论战争影响 - 新华网"
+      "originalTitle": "亚残运会｜田径——女子400米T54决赛：中国选手包揽前三名 - 新华网"
     },
     {
-      "event": "两部门派工作组赴浙江协助指导防汛防台风工作 - 新华网",
-      "published": "2026-10-22T01:16:30+00:00",
+      "event": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网",
+      "published": "2026-10-22T02:12:14+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXNNRFFFNXN0cHlBUm81TVM4MTN0bjh1MEJGbURhRmlIanNob1NVNHJSMDFYaDEtVjJuRFktRHNnTDYtNmw1SC1MeEdHWFdJeTAwNlR4VzMtOUt5cmhDbHE1N0lSdXR3Vm00QTJ5ckxfZWFIVTJFT3N0dFpNeVQtYndGbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkRVU01rM3lFay14RnJhc3ZudHlyT240Nm5wSXJCLVBjUEo4OEJETVVpazRvVTVuMzVpY2x0Z3FHTnZURUtnMXItdktrQ2MwcVdtNDF0ejFUUEZLOGJPWlhscFd6T3BiUWVZWjVnY3FHOXEwdVdjNTd6VE5rOGszWg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "两部门派工作组赴浙江协助指导防汛防台风工作 - 新华网"
-    },
-    {
-      "event": "“在大陆发展安心、暖心、有信心”——桂台经贸文化合作论坛上的台企之声 - 新华网",
-      "published": "2026-10-22T01:08:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbWY1MS1sZEIycjFyajRaSXRKeU1xVy1XM1dqeTlJQWhBNnNwc24xRzZVbjVZUDZGNzNfcWhuY3B3LUZwbnY0VVhHVXhlaUlkZkZ5UWNLTkNMbXBlVVp0ZjVCNThBVndUY19ma2h0WXNOd28tTjJtV3Rn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“在大陆发展安心、暖心、有信心”——桂台经贸文化合作论坛上的台企之声 - 新华网"
-    },
-    {
-      "event": "韩国央行将政策利率维持在3%不变 - 证券时报",
-      "published": "2026-10-22T01:01:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GMmVfcDRWMmxUNGR6ZXRBbzdoVlBXUm1Ma3FZUHVNcmp4cWZmXzltek85ZFUtNnFHbmV5ZE1MaG0xdW1yc05mdXhZMzZzZVZ1dTJ0NW93aVRIYUtB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "韩国央行将政策利率维持在3%不变 - 证券时报"
+      "originalTitle": "亚残运会｜田径——女子100米T13决赛赛况 - 新华网"
     }
   ],
   "quality": {
@@ -566,6 +550,12 @@
       "gold",
       "us10y"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
   }
 }
