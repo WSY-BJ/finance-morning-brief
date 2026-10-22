@@ -1,16 +1,16 @@
 {
-  "edition": "财经晨报 · 2026-10-22",
-  "date": "更新于北京时间 2026-10-22 12:48",
-  "reportDate": "2026-10-22",
-  "updatedAt": "2026-10-22T12:48:45+08:00",
+  "edition": "财经晨报 · 2026-10-23",
+  "date": "更新于北京时间 2026-10-23 07:58",
+  "reportDate": "2026-10-23",
+  "updatedAt": "2026-10-23T07:58:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-22 财经资料（待核验）",
-    "summary": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "title": "2026-10-23 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
     {
@@ -19,6 +19,18 @@
       "title": "今天最重要的市场主线",
       "lead": "",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "标普 500 指数",
@@ -39,19 +51,7 @@
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "2026-10-21：108.82 美元/桶；较 2026-10-20 变化 +0.03 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -65,15 +65,29 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "108.82 美元/桶；变化 +0.03 美元/桶",
+          "title": "Brent 原油现货",
+          "summary": "115.22 美元/桶；变化 -3.60 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-21；前值 108.79（2026-10-20）；来源：Yahoo Finance。"
+            "观测日 2026-10-20；前值 118.82（2026-10-19）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.81 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -82,12 +96,12 @@
           "title": "美国 10 年期国债收益率",
           "summary": "5.13 %；变化 +0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -136,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6779 人民币/美元；变化 -0.0130 人民币/美元",
+          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-21；前值 6.6909（2026-10-20）；来源：Yahoo Finance。"
+            "观测日 2026-10-22；前值 6.6779（2026-10-21）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -151,7 +165,7 @@
           "type": "notice",
           "tone": "warning",
           "title": "数据缺口",
-          "text": "滞后：；缺失：gold、us2y"
+          "text": "滞后：；缺失：gold"
         }
       ]
     },
@@ -163,155 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
+          "title": "土耳其央行宣布降息100个基点",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-22T23:10:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806325"
+              "url": "https://www.cnstock.com/commonDetail/807321"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
+          "title": "10月，回购增持“接力”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月22日，中材国际发布2026年第三季度报告称，本报告期公司实现营业收入约106.79亿元，同比下降5.68%；利润总额约4.41亿元，下降43.69%；归属于上市公司股东的净利润约3.54亿元，下降45.75%；扣非后净利润"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806358"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T10:21:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月22日晚间，视源股份发布2026年第三季度报告称，公司前三季度实现营业收入约252.52亿元，同比增长39.61%；归属于上市公司股东的净利润约24.77亿元，同比增长185.63%；扣除非经常性损益后的净利润约19.77亿"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806327"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "纪念长征胜利90周年大会隆重举行",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T10:17:00+08:00；来源：新华社。",
+            "发布时间：2026-10-22T22:05:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806459"
+              "url": "https://www.cnstock.com/commonDetail/807303"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "产业基础能力提升“十五五”规划发布",
+          "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T10:17:00+08:00；来源：新华社。",
+            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806469"
+              "url": "https://www.cnstock.com/commonDetail/806975"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家数据集团为何落子雄安",
+          "title": "主动ETF整装待发 多家公募“真金白银”自购",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806249"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "光互联走向全链路协同 光纤产业链机遇多",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T07:18:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806247"
+              "url": "https://www.cnstock.com/commonDetail/806928"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "资源兴基 向新发力 科技攀高 兴发集团迈向千亿级新材料平台",
+          "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T06:58:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/806237"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "南非下调经济增长预期 临时削减燃油税 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T03:47:11+00:00；来源：新华网。",
+            "发布时间：2026-10-22T18:54:24+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
+          "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T03:32:47+00:00；来源：新华网。",
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5"
             }
           ]
         }
@@ -335,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 14 课：情景分析",
+      "title": "第 15 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -369,6 +379,21 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-21"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-21"
@@ -379,196 +404,157 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-21"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-21"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-21"
+      "title": "土耳其央行宣布降息100个基点",
+      "url": "https://www.cnstock.com/commonDetail/807321",
+      "asOf": "2026-10-22T23:10:00+08:00"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-21"
+      "title": "10月，回购增持“接力”",
+      "url": "https://www.cnstock.com/commonDetail/807303",
+      "asOf": "2026-10-22T22:05:00+08:00"
     },
     {
-      "title": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
-      "url": "https://www.cnstock.com/commonDetail/806325",
-      "asOf": "2026-10-22T10:21:00+08:00"
+      "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "url": "https://www.cnstock.com/commonDetail/806975",
+      "asOf": "2026-10-22T19:09:00+08:00"
     },
     {
-      "title": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
-      "url": "https://www.cnstock.com/commonDetail/806358",
-      "asOf": "2026-10-22T10:21:00+08:00"
+      "title": "主动ETF整装待发 多家公募“真金白银”自购",
+      "url": "https://www.cnstock.com/commonDetail/806928",
+      "asOf": "2026-10-22T19:09:00+08:00"
     },
     {
-      "title": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
-      "url": "https://www.cnstock.com/commonDetail/806327",
-      "asOf": "2026-10-22T10:21:00+08:00"
+      "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
+      "asOf": "2026-10-22T18:54:24+00:00"
     },
     {
-      "title": "纪念长征胜利90周年大会隆重举行",
-      "url": "https://www.cnstock.com/commonDetail/806459",
-      "asOf": "2026-10-22T10:17:00+08:00"
+      "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
     },
     {
-      "title": "产业基础能力提升“十五五”规划发布",
-      "url": "https://www.cnstock.com/commonDetail/806469",
-      "asOf": "2026-10-22T10:17:00+08:00"
+      "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
     },
     {
-      "title": "国家数据集团为何落子雄安",
-      "url": "https://www.cnstock.com/commonDetail/806249",
-      "asOf": "2026-10-22T07:18:00+08:00"
+      "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
     },
     {
-      "title": "光互联走向全链路协同 光纤产业链机遇多",
-      "url": "https://www.cnstock.com/commonDetail/806247",
-      "asOf": "2026-10-22T07:18:00+08:00"
+      "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
     },
     {
-      "title": "资源兴基 向新发力 科技攀高 兴发集团迈向千亿级新材料平台",
-      "url": "https://www.cnstock.com/commonDetail/806237",
-      "asOf": "2026-10-22T06:58:00+08:00"
-    },
-    {
-      "title": "南非下调经济增长预期 临时削减燃油税 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5",
-      "asOf": "2026-10-22T03:47:11+00:00"
-    },
-    {
-      "title": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5",
-      "asOf": "2026-10-22T03:32:47+00:00"
+      "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
-      "originalTitle": "多氟多：前三季度净利润约5.92亿元 同比增长658.72%",
-      "published": "2026-10-22T10:21:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806325",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
-      "originalTitle": "中材国际：前三季度净利润12.88亿元 同比下降37.91%",
-      "published": "2026-10-22T10:21:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806358",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806358",
-        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
-        "sha256": "91e3400d38a07c738e029d8222ab222f1d155aafa3d3ab14bbc38438ab76756f",
-        "paragraphCount": 4,
-        "excerpt": "上证智讯 10月22日，中材国际发布2026年第三季度报告称，本报告期公司实现营业收入约106.79亿元，同比下降5.68%；利润总额约4.41亿元，下降43.69%；归属于上市公司股东的净利润约3.54亿元，下降45.75%；扣非后净利润"
-      }
-    },
-    {
-      "event": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
-      "originalTitle": "视源股份：前三季度净利润约24.77亿元 同比增长185.63%",
-      "published": "2026-10-22T10:21:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806327",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806327",
-        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
-        "sha256": "9a20dee83bb61a6213394969c5b98ee52bd1b4c5112bc3068359cc4d29e32e11",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月22日晚间，视源股份发布2026年第三季度报告称，公司前三季度实现营业收入约252.52亿元，同比增长39.61%；归属于上市公司股东的净利润约24.77亿元，同比增长185.63%；扣除非经常性损益后的净利润约19.77亿"
-      }
-    },
-    {
-      "event": "纪念长征胜利90周年大会隆重举行",
-      "originalTitle": "纪念长征胜利90周年大会隆重举行",
-      "published": "2026-10-22T10:17:00+08:00",
+      "event": "土耳其央行宣布降息100个基点",
+      "originalTitle": "土耳其央行宣布降息100个基点",
+      "published": "2026-10-22T23:10:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/806459",
+      "url": "https://www.cnstock.com/commonDetail/807321",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "产业基础能力提升“十五五”规划发布",
-      "originalTitle": "产业基础能力提升“十五五”规划发布",
-      "published": "2026-10-22T10:17:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/806469",
+      "event": "10月，回购增持“接力”",
+      "originalTitle": "10月，回购增持“接力”",
+      "published": "2026-10-22T22:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807303",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "国家数据集团为何落子雄安",
-      "originalTitle": "国家数据集团为何落子雄安",
-      "published": "2026-10-22T07:18:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/806249",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806249",
-        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
-        "sha256": "14df17f74d8d44ee3add0b5b93af321ca527a3196488602b79aba97be6937ddc",
-        "paragraphCount": 13,
-        "excerpt": "上海证券报记者了解到，未来，国家数据集团将深度融入雄安新区建设发展，依托雄安新区的创新场景，打造全国数据授权运营标杆、数据科技创新高地、数据产业集聚中心，以高质量数据供给和高水平安全保障助力经济社会高质量发展。"
-      }
-    },
-    {
-      "event": "光互联走向全链路协同 光纤产业链机遇多",
-      "originalTitle": "光互联走向全链路协同 光纤产业链机遇多",
-      "published": "2026-10-22T07:18:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/806247",
+      "event": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "originalTitle": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "published": "2026-10-22T19:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806975",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "资源兴基 向新发力 科技攀高 兴发集团迈向千亿级新材料平台",
-      "originalTitle": "资源兴基 向新发力 科技攀高 兴发集团迈向千亿级新材料平台",
-      "published": "2026-10-22T06:58:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/806237",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/806237",
-        "retrievedAt": "2026-10-22T12:48:45.458015+08:00",
-        "sha256": "c01de175eb93c05fce2cd83efcf0046a70337cd550176fbfd47ade87474b9df4",
-        "paragraphCount": 32,
-        "excerpt": "深秋时节，长江之畔。兴发集团宜昌新材料产业园里，智能化生产装置24小时不停运转；江边自有码头上，磷化工产品装船外运，产销两旺。"
-      }
+      "event": "主动ETF整装待发 多家公募“真金白银”自购",
+      "originalTitle": "主动ETF整装待发 多家公募“真金白银”自购",
+      "published": "2026-10-22T19:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806928",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "南非下调经济增长预期 临时削减燃油税 - 新华网",
-      "published": "2026-10-22T03:47:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMFhjaTNaRDZnZFRLZ2FQckE1dlNtVVNTRTdTUHBOUjNOaWp2U2FUcjlKUUR6MTNma2JYLTBFajVCdl9qUmYxWnVLekhORnlENTlkMS1GRFhscWZORlpMeldTNlB2d1VXWGt0c1g3THo1STlfRTRGUjBDWVZnWVU?oc=5",
+      "event": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:54:24+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "南非下调经济增长预期 临时削减燃油税 - 新华网"
+      "originalTitle": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
     },
     {
-      "event": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网",
-      "published": "2026-10-22T03:32:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRlc2VHJGWFFDV2VyWUs0bFBfU2VBOXhpUDM5bUl5N2VfcktyTF9QT0Nja253YnBCYTZNUHU3UkVseG92LTJnbC00RXNQMDdVSV9yR0NlV3Y4bnN5aXVoOEczNnAwcl9zUTZ0TGJiUjJwSVFLMm9r?oc=5",
+      "event": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报丨中欧班列累计开行突破14万列 - 新华网"
+      "originalTitle": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版"
+    },
+    {
+      "event": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版"
+    },
+    {
+      "event": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版"
+    },
+    {
+      "event": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版"
     }
   ],
   "quality": {
     "mode": "limited",
-    "indicatorCount": 6,
+    "indicatorCount": 7,
     "news24hCount": 10,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
     "unavailableIndicators": [
-      "gold",
-      "us2y"
+      "gold"
     ],
     "unavailableNewsSources": [
       "article: ValueError",

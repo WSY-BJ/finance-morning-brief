@@ -1,0 +1,566 @@
+{
+  "edition": "财经晨报 · 2026-10-23",
+  "date": "更新于北京时间 2026-10-23 07:58",
+  "reportDate": "2026-10-23",
+  "updatedAt": "2026-10-23T07:58:33+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-23 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-21：7,757.17 点；较 2026-10-20 变化 +44.60 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "115.22 美元/桶；变化 -3.60 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 118.82（2026-10-19）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.81 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.13 %；变化 +0.01 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.78 点；变化 +0.05 点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 101.73（2026-10-20）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,757.17 点；变化 +44.60 点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 7,712.57（2026-10-20）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,702.86 点；变化 +278.04 点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 26,424.82（2026-10-20）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-22；前值 6.6779（2026-10-21）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "土耳其央行宣布降息100个基点",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T23:10:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807321"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10月，回购增持“接力”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T22:05:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807303"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806975"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "主动ETF整装待发 多家公募“真金白银”自购",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806928"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:54:24+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 15 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-20 前值 7712.5698，2026-10-21 现值 7757.1699，变化 +44.6001。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "土耳其央行宣布降息100个基点",
+      "url": "https://www.cnstock.com/commonDetail/807321",
+      "asOf": "2026-10-22T23:10:00+08:00"
+    },
+    {
+      "title": "10月，回购增持“接力”",
+      "url": "https://www.cnstock.com/commonDetail/807303",
+      "asOf": "2026-10-22T22:05:00+08:00"
+    },
+    {
+      "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "url": "https://www.cnstock.com/commonDetail/806975",
+      "asOf": "2026-10-22T19:09:00+08:00"
+    },
+    {
+      "title": "主动ETF整装待发 多家公募“真金白银”自购",
+      "url": "https://www.cnstock.com/commonDetail/806928",
+      "asOf": "2026-10-22T19:09:00+08:00"
+    },
+    {
+      "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
+      "asOf": "2026-10-22T18:54:24+00:00"
+    },
+    {
+      "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
+    },
+    {
+      "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
+    },
+    {
+      "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
+    },
+    {
+      "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
+    },
+    {
+      "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
+      "asOf": "2026-10-22T18:44:16+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "土耳其央行宣布降息100个基点",
+      "originalTitle": "土耳其央行宣布降息100个基点",
+      "published": "2026-10-22T23:10:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/807321",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "10月，回购增持“接力”",
+      "originalTitle": "10月，回购增持“接力”",
+      "published": "2026-10-22T22:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807303",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "originalTitle": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+      "published": "2026-10-22T19:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806975",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "主动ETF整装待发 多家公募“真金白银”自购",
+      "originalTitle": "主动ETF整装待发 多家公募“真金白银”自购",
+      "published": "2026-10-22T19:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806928",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:54:24+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
+    },
+    {
+      "event": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版"
+    },
+    {
+      "event": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版"
+    },
+    {
+      "event": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版"
+    },
+    {
+      "event": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-22T18:44:16+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
