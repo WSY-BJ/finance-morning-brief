@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-22",
-  "date": "更新于北京时间 2026-10-22 07:59",
+  "date": "更新于北京时间 2026-10-22 08:53",
   "reportDate": "2026-10-22",
-  "updatedAt": "2026-10-22T07:59:43+08:00",
+  "updatedAt": "2026-10-22T08:53:41+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -42,6 +42,18 @@
               "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
         }
       ]
     },
@@ -67,10 +79,10 @@
         },
         {
           "type": "explainer",
-          "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；变化 +0.02 个百分点",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.13 %；变化 +0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -139,7 +151,7 @@
           "type": "notice",
           "tone": "warning",
           "title": "数据缺口",
-          "text": "滞后：；缺失：gold、us10y"
+          "text": "滞后：；缺失：gold、us2y"
         }
       ]
     },
@@ -149,6 +161,66 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T00:18:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wb0FoTTUyZUpmM1ZKNFRRdnN4S0E4NFZJS0J3TmgxMjBoLTN4a3B6cmpmTktoNTd6T19aX2lHbFJvRkZIcGd3TGtoMnlSYWpsTUNfNHhzMm55Vzdn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中信证券：社会服务板块分化之中寻机遇，行业龙头经营仍具韧性 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T00:05:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lc3A5UllsbFNGd0NvRkFpeEV0RXB0OGV6SENLaUtqZFd4WFVzblNleWZqWV9IS0gxb3VyTDUzSFBGZG5KRUhQckMyTlNCb1VjNk5VdURQdURGNU1t?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "股票ETF12天吸金超2000亿元，A股四重支撑渐次显现 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T00:05:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcjlyNlFVOUppY0lscUk2XzQzSnRyeG92S08zNkhGXzk2ZlRjYkE4M01qUWZNSWpLeDh5MGkzN190bkZaRDF2eGFtSVdGX3ZROE9CNDRvTmd4VjQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "21专访丨北京绿色交易所董事长王乃祥：探索自然人参与CCER交易 2030年与国际接轨 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:56:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDMXF1bjBFU1FhaUkxaVZMWk1fMUsxTUZ5QmRGNndLNmJQSGI1Nk5EY2w4OS15YnFFZktBcTdQUjRfMGZwLVVqUXl0cHlDU1VfNnNOQndaMWZmWHN3?oc=5"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
@@ -238,66 +310,6 @@
               "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T23:34:00+00:00；来源：证券时报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -353,8 +365,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-20"
     },
     {
@@ -363,13 +380,8 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-20"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-20"
     },
     {
@@ -378,9 +390,29 @@
       "asOf": "2026-10-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-21"
+    },
+    {
+      "title": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wb0FoTTUyZUpmM1ZKNFRRdnN4S0E4NFZJS0J3TmgxMjBoLTN4a3B6cmpmTktoNTd6T19aX2lHbFJvRkZIcGd3TGtoMnlSYWpsTUNfNHhzMm55Vzdn?oc=5",
+      "asOf": "2026-10-22T00:18:00+00:00"
+    },
+    {
+      "title": "中信证券：社会服务板块分化之中寻机遇，行业龙头经营仍具韧性 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lc3A5UllsbFNGd0NvRkFpeEV0RXB0OGV6SENLaUtqZFd4WFVzblNleWZqWV9IS0gxb3VyTDUzSFBGZG5KRUhQckMyTlNCb1VjNk5VdURQdURGNU1t?oc=5",
+      "asOf": "2026-10-22T00:05:00+00:00"
+    },
+    {
+      "title": "股票ETF12天吸金超2000亿元，A股四重支撑渐次显现 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcjlyNlFVOUppY0lscUk2XzQzSnRyeG92S08zNkhGXzk2ZlRjYkE4M01qUWZNSWpLeDh5MGkzN190bkZaRDF2eGFtSVdGX3ZROE9CNDRvTmd4VjQ?oc=5",
+      "asOf": "2026-10-22T00:05:00+00:00"
+    },
+    {
+      "title": "21专访丨北京绿色交易所董事长王乃祥：探索自然人参与CCER交易 2030年与国际接轨 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDMXF1bjBFU1FhaUkxaVZMWk1fMUsxTUZ5QmRGNndLNmJQSGI1Nk5EY2w4OS15YnFFZktBcTdQUjRfMGZwLVVqUXl0cHlDU1VfNnNOQndaMWZmWHN3?oc=5",
+      "asOf": "2026-10-21T23:56:00+00:00"
     },
     {
       "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
@@ -411,29 +443,41 @@
       "title": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
       "asOf": "2026-10-21T23:48:00+00:00"
-    },
-    {
-      "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
-      "asOf": "2026-10-21T23:34:00+00:00"
-    },
-    {
-      "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
-      "asOf": "2026-10-21T23:27:00+00:00"
-    },
-    {
-      "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
-      "asOf": "2026-10-21T23:27:00+00:00"
-    },
-    {
-      "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
-      "asOf": "2026-10-21T23:27:00+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 - 证券时报",
+      "published": "2026-10-22T00:18:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wb0FoTTUyZUpmM1ZKNFRRdnN4S0E4NFZJS0J3TmgxMjBoLTN4a3B6cmpmTktoNTd6T19aX2lHbFJvRkZIcGd3TGtoMnlSYWpsTUNfNHhzMm55Vzdn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中信证券：看好机器人产业的量产和应用前景，建议关注产业链核心厂商 - 证券时报"
+    },
+    {
+      "event": "中信证券：社会服务板块分化之中寻机遇，行业龙头经营仍具韧性 - 证券时报",
+      "published": "2026-10-22T00:05:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lc3A5UllsbFNGd0NvRkFpeEV0RXB0OGV6SENLaUtqZFd4WFVzblNleWZqWV9IS0gxb3VyTDUzSFBGZG5KRUhQckMyTlNCb1VjNk5VdURQdURGNU1t?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中信证券：社会服务板块分化之中寻机遇，行业龙头经营仍具韧性 - 证券时报"
+    },
+    {
+      "event": "股票ETF12天吸金超2000亿元，A股四重支撑渐次显现 - 证券时报",
+      "published": "2026-10-22T00:05:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcjlyNlFVOUppY0lscUk2XzQzSnRyeG92S08zNkhGXzk2ZlRjYkE4M01qUWZNSWpLeDh5MGkzN190bkZaRDF2eGFtSVdGX3ZROE9CNDRvTmd4VjQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "股票ETF12天吸金超2000亿元，A股四重支撑渐次显现 - 证券时报"
+    },
+    {
+      "event": "21专访丨北京绿色交易所董事长王乃祥：探索自然人参与CCER交易 2030年与国际接轨 - 证券时报",
+      "published": "2026-10-21T23:56:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDMXF1bjBFU1FhaUkxaVZMWk1fMUsxTUZ5QmRGNndLNmJQSGI1Nk5EY2w4OS15YnFFZktBcTdQUjRfMGZwLVVqUXl0cHlDU1VfNnNOQndaMWZmWHN3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "21专访丨北京绿色交易所董事长王乃祥：探索自然人参与CCER交易 2030年与国际接轨 - 证券时报"
+    },
     {
       "event": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
       "published": "2026-10-21T23:50:18+00:00",
@@ -481,38 +525,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报"
-    },
-    {
-      "event": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
-      "published": "2026-10-21T23:34:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报"
-    },
-    {
-      "event": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
-      "published": "2026-10-21T23:27:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报"
-    },
-    {
-      "event": "A股冲高回落 科技板块局部回暖 - 证券时报",
-      "published": "2026-10-21T23:27:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "A股冲高回落 科技板块局部回暖 - 证券时报"
-    },
-    {
-      "event": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
-      "published": "2026-10-21T23:27:00+00:00",
-      "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "消费市场扩容升级 迈向60万亿元规模 - 证券时报"
     }
   ],
   "quality": {
@@ -524,8 +536,10 @@
     "staleIndicators": [],
     "unavailableIndicators": [
       "gold",
-      "us10y"
+      "us2y"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "中国证券网原文: URLError"
+    ]
   }
 }
