@@ -1,0 +1,531 @@
+{
+  "edition": "财经晨报 · 2026-10-22",
+  "date": "更新于北京时间 2026-10-22 07:59",
+  "reportDate": "2026-10-22",
+  "updatedAt": "2026-10-22T07:59:43+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-22 财经资料（待核验）",
+    "summary": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-20：7,712.57 点；较 2026-10-19 变化 +21.84 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-20：108.79 美元/桶；较 2026-10-19 变化 -0.76 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "108.79 美元/桶；变化 -0.76 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 109.55（2026-10-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.81 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.73 点；变化 -0.25 点",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 101.98（2026-10-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,712.57 点；变化 +21.84 点",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 7,690.73（2026-10-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,424.82 点；变化 -6.07 点",
+          "paragraphs": [
+            "观测日 2026-10-20；前值 26,430.89（2026-10-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6779 人民币/美元；变化 -0.0130 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-21；前值 6.6909（2026-10-20）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold、us10y"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:50:18+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "丰富市场指数基金产品 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:50:12+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:49:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:34:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 14 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-19 前值 7690.7300，2026-10-20 现值 7712.5698，变化 +21.8398。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5",
+      "asOf": "2026-10-21T23:50:18+00:00"
+    },
+    {
+      "title": "丰富市场指数基金产品 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5",
+      "asOf": "2026-10-21T23:50:12+00:00"
+    },
+    {
+      "title": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5",
+      "asOf": "2026-10-21T23:49:00+00:00"
+    },
+    {
+      "title": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
+    },
+    {
+      "title": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
+    },
+    {
+      "title": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
+    },
+    {
+      "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
+      "asOf": "2026-10-21T23:34:00+00:00"
+    },
+    {
+      "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
+    },
+    {
+      "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
+    },
+    {
+      "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
+      "published": "2026-10-21T23:50:18+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报"
+    },
+    {
+      "event": "丰富市场指数基金产品 - 证券时报",
+      "published": "2026-10-21T23:50:12+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "丰富市场指数基金产品 - 证券时报"
+    },
+    {
+      "event": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
+      "published": "2026-10-21T23:49:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报"
+    },
+    {
+      "event": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报"
+    },
+    {
+      "event": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报"
+    },
+    {
+      "event": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报"
+    },
+    {
+      "event": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+      "published": "2026-10-21T23:34:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报"
+    },
+    {
+      "event": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报"
+    },
+    {
+      "event": "A股冲高回落 科技板块局部回暖 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "A股冲高回落 科技板块局部回暖 - 证券时报"
+    },
+    {
+      "event": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "消费市场扩容升级 迈向60万亿元规模 - 证券时报"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 6,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold",
+      "us10y"
+    ],
+    "unavailableNewsSources": []
+  }
+}

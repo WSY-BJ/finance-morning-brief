@@ -1,16 +1,16 @@
 {
-  "edition": "财经晨报 · 2026-10-21",
-  "date": "更新于北京时间 2026-10-21 12:49",
-  "reportDate": "2026-10-21",
-  "updatedAt": "2026-10-21T12:49:57+08:00",
+  "edition": "财经晨报 · 2026-10-22",
+  "date": "更新于北京时间 2026-10-22 07:59",
+  "reportDate": "2026-10-22",
+  "updatedAt": "2026-10-22T07:59:43+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-21 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "title": "2026-10-22 财经资料（待核验）",
+    "summary": "6 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
     {
@@ -42,18 +42,6 @@
               "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-19：5.15 %；较 2026-10-16 变化 +0.06 个百分点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
-            }
-          ]
         }
       ]
     },
@@ -80,28 +68,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.77 %；变化 +0.03 个百分点",
+          "summary": "4.81 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-19；前值 4.74（2026-10-16）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "5.15 %；变化 +0.06 个百分点",
-          "paragraphs": [
-            "观测日 2026-10-19；前值 5.09（2026-10-16）；来源：FRED / 原始发布机构。"
-          ],
-          "links": [
-            {
-              "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +124,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6909 人民币/美元；变化 +0.0000 人民币/美元",
+          "summary": "6.6779 人民币/美元；变化 -0.0130 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-20；前值 6.6909（2026-10-19）；来源：Yahoo Finance。"
+            "观测日 2026-10-21；前值 6.6909（2026-10-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -165,7 +139,7 @@
           "type": "notice",
           "tone": "warning",
           "title": "数据缺口",
-          "text": "滞后：；缺失：gold"
+          "text": "滞后：；缺失：gold、us10y"
         }
       ]
     },
@@ -177,156 +151,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "生态环境部：实施应对气候变化一揽子重大工程",
+          "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-21T12:06:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 李苑）生态环境部副部长李高21日在国新办新闻发布会上介绍，“十五五”时期，生态环境部将与相关部门共同发力，抓住加快推进绿色低碳发展这一条主线，协同推进降碳减污扩绿增长，持续推动重点领域绿色低碳转型，推动煤炭和石油消"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/805846"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新风光：股东许琳减持计划届满 共减持占总0.0416%公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T10:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月20日晚间，新风光发布特定股东减持股份结果公告称，公司特定股东许琳本次减持计划时间区间已届满，减持计划未提前终止。许琳不属于公司控股股东、实际控制人及其一致行动人，亦非直接持股5%以上股东或董事、监事、高级管理人员，本次减持"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/805351"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "ST合力泰：前三季度净利润约406.38万元 同比下降77.18%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T10:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月20日晚间，ST合力泰发布2026年第三季度报告称，公司前三季度实现营业收入约14.15亿元，同比增长12.35%；归属于上市公司股东的净利润约406.38万元，同比下降77.18%；扣非后净利润约985.17万元，同比下降"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/805536"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "天岳先进：前三季度净利润约2722万元 同比增长2330.24%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T10:16:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月20日晚间，天岳先进发布2026年第三季度报告称，公司第三季度实现营业收入约6.46亿元，同比增长102.89%；归属于上市公司股东的净利润约8583万元，同比扭亏为盈；扣除非经常性损益的净利润约9617万元。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/805530"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平总书记心中的伟大远征",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T09:20:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：当时间的指针划过90个春秋，回首长征——那场威武雄壮的战争活剧、气吞山河的人间奇迹，仍然震撼人心、启迪世人、激励后人。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/805791"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "江苏省高院发布7件金融商事审判典型案例 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-21T04:27:05+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-10-21T23:50:18+00:00；来源：证券时报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9paHN1ZmI4d0dXZHY4TzVRUVBFS3hTVGxiX0Jfcy1mU2RLU0d3SWhCOTdJcWFFMkllZHRzRFA0aWN6aVpaQUJuUlRIOEhpQTFJYjhTbDlNWHBpalZvRVdyYk1OMzE0bmM1UVpXRzJJQjNIN3pR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "北交所、新三板服务专区在2026金融街论坛年会上发布 - 证券时报",
+          "title": "丰富市场指数基金产品 - 证券时报",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-21T04:10:00+00:00；来源：证券时报。",
+            "发布时间：2026-10-21T23:50:12+00:00；来源：证券时报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SZmY0QVQ1YmRiaFhpbC1jeVV2X0VScHY5STZuNXBOZWxDeFpiV2MyUGdaR3VpYlBNby1kSWhuM0pVeGtkTC1xSk8yZzlvN1lFOERhc0thcVNrQmVf?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "专访空天信息联盟秘书长丁进军：统筹星箭供需匹配，助力发射“航班化” - 证券时报",
+          "title": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-21T04:07:00+00:00；来源：证券时报。",
+            "发布时间：2026-10-21T23:49:00+00:00；来源：证券时报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQ01LRjdIQlgwLVdQWS1Pd3BvT3d6ZzJOOVFuaU51a3NsclJnSFVEbmVHbUNYQllGZDJXMGxTc2Q0QVZUM3REN05aRl8waFZjcDIxUWt4RWt1dnhT?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "专访范式智能曾慈雯：AI规模化落地拐点下，异构算力中间层的生存逻辑 - 证券时报",
+          "title": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-21T04:05:00+00:00；来源：证券时报。",
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVjZxeV8zb2Q1Tk9Va1ZlWXhpSFphb2xad003bzAxYWg4X3RCZk8tT3RoWElNS3hNQm5WOEw1LWZiX1N1dnZoSDA2TDJMeEVrU1Y0Vl9sUF9pdGxZ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "北交所董事长鲁颂宾：完善发行承销制度，推进引入新股发行市值配售 - 证券时报",
+          "title": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-21T03:51:00+00:00；来源：证券时报。",
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdTBwVEcwVUVhUE56V1U2Sm9hUDduU2Jrd0ZtZ2ZQYVdDRzFnal96Zmk4enlwbHlvS1p6aHFNS1JuVW1oeC1qTnlGa1BjNWFLZjI3bXMzdEZZcXFo?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:48:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:34:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-21T23:27:00+00:00；来源：证券时报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5"
             }
           ]
         }
@@ -350,16 +319,16 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 13 课：现金流与会计利润",
+      "title": "第 14 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
           "type": "explainer",
-          "title": "现金流与会计利润",
-          "summary": "宣布投资先形成支出，订单、交付、收入确认和回款是不同阶段。",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
             "本期实例：标普 500 指数，2026-10-19 前值 7690.7300，2026-10-20 现值 7712.5698，变化 +21.8398。",
-            "裁员消息不等于其他企业的设备订单增长；需要独立订单证据。"
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
         }
@@ -384,8 +353,18 @@
   ],
   "sources": [
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-20"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-21"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-20"
     },
     {
@@ -394,207 +373,158 @@
       "asOf": "2026-10-20"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-20"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-20"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-19"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-21"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-19"
+      "title": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5",
+      "asOf": "2026-10-21T23:50:18+00:00"
     },
     {
-      "title": "生态环境部：实施应对气候变化一揽子重大工程",
-      "url": "https://www.cnstock.com/commonDetail/805846",
-      "asOf": "2026-10-21T12:06:00+08:00"
+      "title": "丰富市场指数基金产品 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5",
+      "asOf": "2026-10-21T23:50:12+00:00"
     },
     {
-      "title": "新风光：股东许琳减持计划届满 共减持占总0.0416%公司股份",
-      "url": "https://www.cnstock.com/commonDetail/805351",
-      "asOf": "2026-10-21T10:17:00+08:00"
+      "title": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5",
+      "asOf": "2026-10-21T23:49:00+00:00"
     },
     {
-      "title": "ST合力泰：前三季度净利润约406.38万元 同比下降77.18%",
-      "url": "https://www.cnstock.com/commonDetail/805536",
-      "asOf": "2026-10-21T10:17:00+08:00"
+      "title": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
     },
     {
-      "title": "天岳先进：前三季度净利润约2722万元 同比增长2330.24%",
-      "url": "https://www.cnstock.com/commonDetail/805530",
-      "asOf": "2026-10-21T10:16:00+08:00"
+      "title": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
     },
     {
-      "title": "习近平总书记心中的伟大远征",
-      "url": "https://www.cnstock.com/commonDetail/805791",
-      "asOf": "2026-10-21T09:20:00+08:00"
+      "title": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
+      "asOf": "2026-10-21T23:48:00+00:00"
     },
     {
-      "title": "江苏省高院发布7件金融商事审判典型案例 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9paHN1ZmI4d0dXZHY4TzVRUVBFS3hTVGxiX0Jfcy1mU2RLU0d3SWhCOTdJcWFFMkllZHRzRFA0aWN6aVpaQUJuUlRIOEhpQTFJYjhTbDlNWHBpalZvRVdyYk1OMzE0bmM1UVpXRzJJQjNIN3pR?oc=5",
-      "asOf": "2026-10-21T04:27:05+00:00"
+      "title": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
+      "asOf": "2026-10-21T23:34:00+00:00"
     },
     {
-      "title": "北交所、新三板服务专区在2026金融街论坛年会上发布 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SZmY0QVQ1YmRiaFhpbC1jeVV2X0VScHY5STZuNXBOZWxDeFpiV2MyUGdaR3VpYlBNby1kSWhuM0pVeGtkTC1xSk8yZzlvN1lFOERhc0thcVNrQmVf?oc=5",
-      "asOf": "2026-10-21T04:10:00+00:00"
+      "title": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
     },
     {
-      "title": "专访空天信息联盟秘书长丁进军：统筹星箭供需匹配，助力发射“航班化” - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQ01LRjdIQlgwLVdQWS1Pd3BvT3d6ZzJOOVFuaU51a3NsclJnSFVEbmVHbUNYQllGZDJXMGxTc2Q0QVZUM3REN05aRl8waFZjcDIxUWt4RWt1dnhT?oc=5",
-      "asOf": "2026-10-21T04:07:00+00:00"
+      "title": "A股冲高回落 科技板块局部回暖 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
     },
     {
-      "title": "专访范式智能曾慈雯：AI规模化落地拐点下，异构算力中间层的生存逻辑 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVjZxeV8zb2Q1Tk9Va1ZlWXhpSFphb2xad003bzAxYWg4X3RCZk8tT3RoWElNS3hNQm5WOEw1LWZiX1N1dnZoSDA2TDJMeEVrU1Y0Vl9sUF9pdGxZ?oc=5",
-      "asOf": "2026-10-21T04:05:00+00:00"
-    },
-    {
-      "title": "北交所董事长鲁颂宾：完善发行承销制度，推进引入新股发行市值配售 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdTBwVEcwVUVhUE56V1U2Sm9hUDduU2Jrd0ZtZ2ZQYVdDRzFnal96Zmk4enlwbHlvS1p6aHFNS1JuVW1oeC1qTnlGa1BjNWFLZjI3bXMzdEZZcXFo?oc=5",
-      "asOf": "2026-10-21T03:51:00+00:00"
+      "title": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
+      "asOf": "2026-10-21T23:27:00+00:00"
     }
   ],
   "events": [
     {
-      "event": "生态环境部：实施应对气候变化一揽子重大工程",
-      "originalTitle": "生态环境部：实施应对气候变化一揽子重大工程",
-      "published": "2026-10-21T12:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/805846",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/805846",
-        "retrievedAt": "2026-10-21T12:49:57.328768+08:00",
-        "sha256": "e70d57384a895fe8fc8287751c6717e7335293a487ed45dad2e646a2a6bdac85",
-        "paragraphCount": 1,
-        "excerpt": "上证报中国证券网讯（记者 李苑）生态环境部副部长李高21日在国新办新闻发布会上介绍，“十五五”时期，生态环境部将与相关部门共同发力，抓住加快推进绿色低碳发展这一条主线，协同推进降碳减污扩绿增长，持续推动重点领域绿色低碳转型，推动煤炭和石油消"
-      }
-    },
-    {
-      "event": "新风光：股东许琳减持计划届满 共减持占总0.0416%公司股份",
-      "originalTitle": "新风光：股东许琳减持计划届满 共减持占总0.0416%公司股份",
-      "published": "2026-10-21T10:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/805351",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/805351",
-        "retrievedAt": "2026-10-21T12:49:57.328768+08:00",
-        "sha256": "37a73f4920fa9c3f1ea5903e55e2897e180210437569d779673247420a77c0de",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月20日晚间，新风光发布特定股东减持股份结果公告称，公司特定股东许琳本次减持计划时间区间已届满，减持计划未提前终止。许琳不属于公司控股股东、实际控制人及其一致行动人，亦非直接持股5%以上股东或董事、监事、高级管理人员，本次减持"
-      }
-    },
-    {
-      "event": "ST合力泰：前三季度净利润约406.38万元 同比下降77.18%",
-      "originalTitle": "ST合力泰：前三季度净利润约406.38万元 同比下降77.18%",
-      "published": "2026-10-21T10:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/805536",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/805536",
-        "retrievedAt": "2026-10-21T12:49:57.328768+08:00",
-        "sha256": "d9aa7b261036dcb126358b8f653b81c0091ed9b17858a5b334f510ebeff44162",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月20日晚间，ST合力泰发布2026年第三季度报告称，公司前三季度实现营业收入约14.15亿元，同比增长12.35%；归属于上市公司股东的净利润约406.38万元，同比下降77.18%；扣非后净利润约985.17万元，同比下降"
-      }
-    },
-    {
-      "event": "天岳先进：前三季度净利润约2722万元 同比增长2330.24%",
-      "originalTitle": "天岳先进：前三季度净利润约2722万元 同比增长2330.24%",
-      "published": "2026-10-21T10:16:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/805530",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/805530",
-        "retrievedAt": "2026-10-21T12:49:57.328768+08:00",
-        "sha256": "ec399ded218d498bc9ab7c094cf41373cee97732c07d860a654204d7bf482c42",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月20日晚间，天岳先进发布2026年第三季度报告称，公司第三季度实现营业收入约6.46亿元，同比增长102.89%；归属于上市公司股东的净利润约8583万元，同比扭亏为盈；扣除非经常性损益的净利润约9617万元。"
-      }
-    },
-    {
-      "event": "习近平总书记心中的伟大远征",
-      "originalTitle": "习近平总书记心中的伟大远征",
-      "published": "2026-10-21T09:20:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/805791",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/805791",
-        "retrievedAt": "2026-10-21T12:49:57.328768+08:00",
-        "sha256": "300d4f379a2eef0c7c5d339a06173b9f3a4ddee9d5b65dcfd8457c7b4d592e8e",
-        "paragraphCount": 79,
-        "excerpt": "当时间的指针划过90个春秋，回首长征——那场威武雄壮的战争活剧、气吞山河的人间奇迹，仍然震撼人心、启迪世人、激励后人。"
-      }
-    },
-    {
-      "event": "江苏省高院发布7件金融商事审判典型案例 - 新华网江苏频道",
-      "published": "2026-10-21T04:27:05+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9paHN1ZmI4d0dXZHY4TzVRUVBFS3hTVGxiX0Jfcy1mU2RLU0d3SWhCOTdJcWFFMkllZHRzRFA0aWN6aVpaQUJuUlRIOEhpQTFJYjhTbDlNWHBpalZvRVdyYk1OMzE0bmM1UVpXRzJJQjNIN3pR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "江苏省高院发布7件金融商事审判典型案例 - 新华网江苏频道"
-    },
-    {
-      "event": "北交所、新三板服务专区在2026金融街论坛年会上发布 - 证券时报",
-      "published": "2026-10-21T04:10:00+00:00",
+      "event": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报",
+      "published": "2026-10-21T23:50:18+00:00",
       "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SZmY0QVQ1YmRiaFhpbC1jeVV2X0VScHY5STZuNXBOZWxDeFpiV2MyUGdaR3VpYlBNby1kSWhuM0pVeGtkTC1xSk8yZzlvN1lFOERhc0thcVNrQmVf?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Zl9JMXEyVnByRlgxblZDN21qc3lZcWJTaVp2U042cWc3N19wTDVranYxMmp1WWhtQVM4UVlaVDQzd2h3Q2ZJcFVwVGswWWljY1ZVMGtxNzgzQkZB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "北交所、新三板服务专区在2026金融街论坛年会上发布 - 证券时报"
+      "originalTitle": "从“用AI”到“被AI重构”，资管业站在范式转换点 - 证券时报"
     },
     {
-      "event": "专访空天信息联盟秘书长丁进军：统筹星箭供需匹配，助力发射“航班化” - 证券时报",
-      "published": "2026-10-21T04:07:00+00:00",
+      "event": "丰富市场指数基金产品 - 证券时报",
+      "published": "2026-10-21T23:50:12+00:00",
       "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQ01LRjdIQlgwLVdQWS1Pd3BvT3d6ZzJOOVFuaU51a3NsclJnSFVEbmVHbUNYQllGZDJXMGxTc2Q0QVZUM3REN05aRl8waFZjcDIxUWt4RWt1dnhT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HeFBGWW1VU0tkbGp4Y2lhWGxTNF94c3lXZGk1TzF1MDdzbGdPREE3bWJTbk0wRHRXRnc1dllDdlQ3djNCMnRQb3JOblJCanhoZlhhWDhOakZ4NnM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "专访空天信息联盟秘书长丁进军：统筹星箭供需匹配，助力发射“航班化” - 证券时报"
+      "originalTitle": "丰富市场指数基金产品 - 证券时报"
     },
     {
-      "event": "专访范式智能曾慈雯：AI规模化落地拐点下，异构算力中间层的生存逻辑 - 证券时报",
-      "published": "2026-10-21T04:05:00+00:00",
+      "event": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报",
+      "published": "2026-10-21T23:49:00+00:00",
       "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVjZxeV8zb2Q1Tk9Va1ZlWXhpSFphb2xad003bzAxYWg4X3RCZk8tT3RoWElNS3hNQm5WOEw1LWZiX1N1dnZoSDA2TDJMeEVrU1Y0Vl9sUF9pdGxZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wam5XU0c1XzdjMHB6aVYyNG1lbjB3T2F0YWJMRnYyamtTU1BPSllQUTZkNDVUTV9IRHJNakxiQXhoMjV4dGczS0l2dmtEMHlUODBTbjVaYTlPYTlu?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "专访范式智能曾慈雯：AI规模化落地拐点下，异构算力中间层的生存逻辑 - 证券时报"
+      "originalTitle": "21专访丨秘鲁能源和矿业部部长吉列尔莫·新野：秘鲁布局清洁能源，期待中国经验助力 - 证券时报"
     },
     {
-      "event": "北交所董事长鲁颂宾：完善发行承销制度，推进引入新股发行市值配售 - 证券时报",
-      "published": "2026-10-21T03:51:00+00:00",
+      "event": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
       "publisher": "证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdTBwVEcwVUVhUE56V1U2Sm9hUDduU2Jrd0ZtZ2ZQYVdDRzFnal96Zmk4enlwbHlvS1p6aHFNS1JuVW1oeC1qTnlGa1BjNWFLZjI3bXMzdEZZcXFo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWWg1MUN6LTNLVlFPLWd1ZVoydVN2NUp5Q0JIWlFmZVgxXy14TjNjeXJkUVJkdmprRzA0cnhwOFlTcDU2TEFEbUx6MTJzOUt5Tno1WC1NVWFVZElh?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "北交所董事长鲁颂宾：完善发行承销制度，推进引入新股发行市值配售 - 证券时报"
+      "originalTitle": "前三季度我国期市新增客户91万个，机构客户增长动能强劲！解读来了 - 证券时报"
+    },
+    {
+      "event": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaGFfdk14R2tCRVhLWGJQTWdxVW84NjM1bXFZTTBId2s4UXBvN1AzOWFfVElDYTZmRXhMUVRGSGxPQlE4VVR5b0NDZkFDWXJRUE1yNHMzUFBfNmZE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "北交所董事长鲁颂宾：引入新股发行市值配售 推进北证50 ETF落地 - 证券时报"
+    },
+    {
+      "event": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报",
+      "published": "2026-10-21T23:48:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERU40WEpJSENTZmdoWE1vRjlqMTEtbjRJQlgtSnFEeGhEazFDcUJxbmFzdWVDaVhGTlFyS3FFeEdsZmJiSmowaWh6TFoxZXpwTnNzMkpPeGNFX2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全国碳市场配额累计成交逾10亿吨 规模扩容推动产业绿色转型 - 证券时报"
+    },
+    {
+      "event": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报",
+      "published": "2026-10-21T23:34:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXpfZUYyZDVkMXV0YWhrbmp3TU9aVWRHazhhYnFmeEJHdTFpZURxb3Q4ZE5GMjlUQWMwbmFEakdMNEUtZXp4UmpMQkQ5YWJfM19zcGJwUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "加拿大宣布战略产业援助计划应对美国关税冲击 - 证券时报"
+    },
+    {
+      "event": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wbi0wOVU4RktxYnh5ZVFuaG1zdTFJR1A5Qm9DRWZuTXdHYTUwSnJ3M1FrR2xfMUZ0ZUN3RzFvdXFIZlZFVUhmbmZmN2hQR0JJeWhwWldtVENwYVh4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "海外新需求旺盛 机器人产业链企业积极对接 - 证券时报"
+    },
+    {
+      "event": "A股冲高回落 科技板块局部回暖 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmU0cnIxV2dMeXNfZG9NTDdmZWFGQl8xXzlLYlZEN2lJblJ3aVU1bVB3cGlRbmtqRTJ4cjBfVWlvV1EyVE5mRzhubHZJbVU4RVRkN00zaXhYY0xx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "A股冲高回落 科技板块局部回暖 - 证券时报"
+    },
+    {
+      "event": "消费市场扩容升级 迈向60万亿元规模 - 证券时报",
+      "published": "2026-10-21T23:27:00+00:00",
+      "publisher": "证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yX2FsekI4NDZKQW9NRnpJbkNkOTNQMmM2OHV0OXctblRWVmU0MUt5RGRnRUtxSG1kMXhDUnkwR0tYUEtnTVFTbHFJSUJqc2hRaXhCSTZMZlN4NGs4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "消费市场扩容升级 迈向60万亿元规模 - 证券时报"
     }
   ],
   "quality": {
     "mode": "limited",
-    "indicatorCount": 7,
+    "indicatorCount": 6,
     "news24hCount": 10,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
     "unavailableIndicators": [
-      "gold"
+      "gold",
+      "us10y"
     ],
     "unavailableNewsSources": []
   }
