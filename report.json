@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-23",
-  "date": "更新于北京时间 2026-10-23 12:51",
-  "reportDate": "2026-10-23",
-  "updatedAt": "2026-10-23T12:51:22+08:00",
+  "edition": "财经晨报 · 2026-10-24",
+  "date": "更新于北京时间 2026-10-24 07:51",
+  "reportDate": "2026-10-24",
+  "updatedAt": "2026-10-24T07:51:03+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-23 财经资料（待核验）",
+    "title": "2026-10-24 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -19,18 +19,6 @@
       "title": "今天最重要的市场主线",
       "lead": "",
       "blocks": [
-        {
-          "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
         {
           "type": "explainer",
           "title": "Brent 原油现货",
@@ -45,8 +33,20 @@
         },
         {
           "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
+          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；变化 +0.02 个百分点",
+          "summary": "4.65 %；变化 -0.16 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.13 %；变化 +0.01 个百分点",
+          "summary": "4.96 %；变化 -0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "summary": "6.6606 人民币/美元；变化 -0.0173 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-22；前值 6.6779（2026-10-21）；来源：Yahoo Finance。"
+            "观测日 2026-10-23；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
+          "title": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T23:13:11+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807477"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
+          "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T21:53:20+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807463"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T21:43:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807481"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家统计局：2025年中国创新指数比上年增长6.4%",
+          "title": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T10:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807454"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "A股震荡调整，科技企业发声",
+          "title": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T10:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807455"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+          "title": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807271"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+          "title": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807273"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+          "title": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807332"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+          "title": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T07:55:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807410"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "记者手记丨英国消费者为何青睐中国车 - 新华网",
+          "title": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T04:05:19+00:00；来源：新华网。",
+            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 15 课：情景分析",
+      "title": "第 16 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,8 +379,18 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-22"
     },
     {
@@ -389,161 +399,151 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-22"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-22"
-    },
-    {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-20"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-21"
+      "asOf": "2026-10-22"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-21"
+      "asOf": "2026-10-22"
     },
     {
-      "title": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
-      "url": "https://www.cnstock.com/commonDetail/807477",
-      "asOf": "2026-10-23T11:22:00+08:00"
+      "title": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5",
+      "asOf": "2026-10-23T23:13:11+00:00"
     },
     {
-      "title": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
-      "url": "https://www.cnstock.com/commonDetail/807463",
-      "asOf": "2026-10-23T11:22:00+08:00"
+      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5",
+      "asOf": "2026-10-23T21:53:20+00:00"
     },
     {
-      "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
-      "url": "https://www.cnstock.com/commonDetail/807481",
-      "asOf": "2026-10-23T11:22:00+08:00"
+      "title": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
+      "asOf": "2026-10-23T21:43:03+00:00"
     },
     {
-      "title": "国家统计局：2025年中国创新指数比上年增长6.4%",
-      "url": "https://www.cnstock.com/commonDetail/807454",
-      "asOf": "2026-10-23T10:13:00+08:00"
+      "title": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "A股震荡调整，科技企业发声",
-      "url": "https://www.cnstock.com/commonDetail/807455",
-      "asOf": "2026-10-23T10:13:00+08:00"
+      "title": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
-      "url": "https://www.cnstock.com/commonDetail/807271",
-      "asOf": "2026-10-23T09:15:00+08:00"
+      "title": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
-      "url": "https://www.cnstock.com/commonDetail/807273",
-      "asOf": "2026-10-23T09:15:00+08:00"
+      "title": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
-      "url": "https://www.cnstock.com/commonDetail/807332",
-      "asOf": "2026-10-23T09:15:00+08:00"
+      "title": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
-      "url": "https://www.cnstock.com/commonDetail/807410",
-      "asOf": "2026-10-23T07:55:00+08:00"
+      "title": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     },
     {
-      "title": "记者手记丨英国消费者为何青睐中国车 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5",
-      "asOf": "2026-10-23T04:05:19+00:00"
+      "title": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5",
+      "asOf": "2026-10-23T19:04:37+00:00"
     }
   ],
   "events": [
     {
-      "event": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
-      "originalTitle": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
-      "published": "2026-10-23T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807477",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
-      "originalTitle": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
-      "published": "2026-10-23T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807463",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
-      "originalTitle": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
-      "published": "2026-10-23T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807481",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家统计局：2025年中国创新指数比上年增长6.4%",
-      "originalTitle": "国家统计局：2025年中国创新指数比上年增长6.4%",
-      "published": "2026-10-23T10:13:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807454",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "A股震荡调整，科技企业发声",
-      "originalTitle": "A股震荡调整，科技企业发声",
-      "published": "2026-10-23T10:13:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807455",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
-      "originalTitle": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
-      "published": "2026-10-23T09:15:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807271",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
-      "originalTitle": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
-      "published": "2026-10-23T09:15:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807273",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
-      "originalTitle": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
-      "published": "2026-10-23T09:15:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807332",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
-      "originalTitle": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
-      "published": "2026-10-23T07:55:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/807410",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "记者手记丨英国消费者为何青睐中国车 - 新华网",
-      "published": "2026-10-23T04:05:19+00:00",
+      "event": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
+      "published": "2026-10-23T23:13:11+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "记者手记丨英国消费者为何青睐中国车 - 新华网"
+      "originalTitle": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网"
+    },
+    {
+      "event": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
+      "published": "2026-10-23T21:53:20+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网"
+    },
+    {
+      "event": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
+      "published": "2026-10-23T21:43:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网"
+    },
+    {
+      "event": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
+    },
+    {
+      "event": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
+      "published": "2026-10-23T19:04:37+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,15 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
