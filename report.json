@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-23",
-  "date": "更新于北京时间 2026-10-23 07:58",
+  "date": "更新于北京时间 2026-10-23 08:56",
   "reportDate": "2026-10-23",
-  "updatedAt": "2026-10-23T07:58:33+08:00",
+  "updatedAt": "2026-10-23T08:56:07+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-21：7,757.17 点；较 2026-10-20 变化 +44.60 点。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.81 %；变化 +0.02 个百分点",
+          "summary": "4.65 %；变化 -0.16 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.13 %；变化 +0.01 个百分点",
+          "summary": "4.96 %；变化 -0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,61 +177,139 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "土耳其央行宣布降息100个基点",
+          "title": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T23:10:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-23T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•*ST康佳A股票将于10月23日摘牌，摘牌后45个交易日内转入全国股转公司代为管理的退市板块转让。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807321"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/807427"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "10月，回购增持“接力”",
+          "title": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T22:05:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T07:56:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807303"
+              "url": "https://www.cnstock.com/commonDetail/807400"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
+          "title": "锂矿三季报业绩高增背后隐现预期分歧",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-23T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：赣锋锂业前三季度净利润大增195倍，天齐锂业最高预增32倍……10月中下旬以来，锂矿企业三季报及前三季度业绩预告密集报喜。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806975"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/807398"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "主动ETF整装待发 多家公募“真金白银”自购",
+          "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T19:09:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T07:55:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：中国证监会主席吴清近日在2026金融街论坛年会上表示，推动进一步健全适配长期投资的长周期考核机制，扩大中长期资金来源、渠道和入市方式，持续深化公募基金改革，壮大市场稳定力量。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/807410"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "A股回购增持潮起 硬科技公司密集出手",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T06:58:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806928"
+              "url": "https://www.cnstock.com/commonDetail/807382"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特斯拉和SpaceX合并要迈过哪些障碍？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T06:47:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807384"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807012"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807021"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/806991"
             }
           ]
         },
@@ -247,81 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5"
             }
           ]
         }
@@ -379,14 +382,9 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-20"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-22"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-21"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -394,9 +392,9 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-21"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-22"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
@@ -404,97 +402,163 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-21"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-20"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-21"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-22"
     },
     {
-      "title": "土耳其央行宣布降息100个基点",
-      "url": "https://www.cnstock.com/commonDetail/807321",
-      "asOf": "2026-10-22T23:10:00+08:00"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-22"
     },
     {
-      "title": "10月，回购增持“接力”",
-      "url": "https://www.cnstock.com/commonDetail/807303",
-      "asOf": "2026-10-22T22:05:00+08:00"
+      "title": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
+      "url": "https://www.cnstock.com/commonDetail/807427",
+      "asOf": "2026-10-23T08:41:00+08:00"
     },
     {
-      "title": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
-      "url": "https://www.cnstock.com/commonDetail/806975",
-      "asOf": "2026-10-22T19:09:00+08:00"
+      "title": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
+      "url": "https://www.cnstock.com/commonDetail/807400",
+      "asOf": "2026-10-23T07:56:00+08:00"
     },
     {
-      "title": "主动ETF整装待发 多家公募“真金白银”自购",
-      "url": "https://www.cnstock.com/commonDetail/806928",
-      "asOf": "2026-10-22T19:09:00+08:00"
+      "title": "锂矿三季报业绩高增背后隐现预期分歧",
+      "url": "https://www.cnstock.com/commonDetail/807398",
+      "asOf": "2026-10-23T07:56:00+08:00"
+    },
+    {
+      "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "url": "https://www.cnstock.com/commonDetail/807410",
+      "asOf": "2026-10-23T07:55:00+08:00"
+    },
+    {
+      "title": "A股回购增持潮起 硬科技公司密集出手",
+      "url": "https://www.cnstock.com/commonDetail/807382",
+      "asOf": "2026-10-23T06:58:00+08:00"
+    },
+    {
+      "title": "特斯拉和SpaceX合并要迈过哪些障碍？",
+      "url": "https://www.cnstock.com/commonDetail/807384",
+      "asOf": "2026-10-23T06:47:00+08:00"
+    },
+    {
+      "title": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
+      "url": "https://www.cnstock.com/commonDetail/807012",
+      "asOf": "2026-10-22T23:09:00+08:00"
+    },
+    {
+      "title": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
+      "url": "https://www.cnstock.com/commonDetail/807021",
+      "asOf": "2026-10-22T23:09:00+08:00"
+    },
+    {
+      "title": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
+      "url": "https://www.cnstock.com/commonDetail/806991",
+      "asOf": "2026-10-22T23:09:00+08:00"
     },
     {
       "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
       "asOf": "2026-10-22T18:54:24+00:00"
-    },
-    {
-      "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
-    },
-    {
-      "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
-    },
-    {
-      "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
-    },
-    {
-      "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
-    },
-    {
-      "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "土耳其央行宣布降息100个基点",
-      "originalTitle": "土耳其央行宣布降息100个基点",
-      "published": "2026-10-22T23:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/807321",
+      "event": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
+      "originalTitle": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
+      "published": "2026-10-23T08:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807427",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/807427",
+        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
+        "sha256": "8b63e13d959dffc072c4476a5e6e401c68a3ae79d150f6e8e609a0b42d06ce70",
+        "paragraphCount": 34,
+        "excerpt": "•*ST康佳A股票将于10月23日摘牌，摘牌后45个交易日内转入全国股转公司代为管理的退市板块转让。"
+      }
+    },
+    {
+      "event": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
+      "originalTitle": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
+      "published": "2026-10-23T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807400",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "10月，回购增持“接力”",
-      "originalTitle": "10月，回购增持“接力”",
-      "published": "2026-10-22T22:05:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807303",
+      "event": "锂矿三季报业绩高增背后隐现预期分歧",
+      "originalTitle": "锂矿三季报业绩高增背后隐现预期分歧",
+      "published": "2026-10-23T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807398",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/807398",
+        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
+        "sha256": "04a25048d2b9f5deef011d11e8779d0552d862384e559ef6849941952ac34201",
+        "paragraphCount": 21,
+        "excerpt": "赣锋锂业前三季度净利润大增195倍，天齐锂业最高预增32倍……10月中下旬以来，锂矿企业三季报及前三季度业绩预告密集报喜。"
+      }
+    },
+    {
+      "event": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "originalTitle": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "published": "2026-10-23T07:55:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807410",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/807410",
+        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
+        "sha256": "23520f1d747d48e7691aedb0b2fd56c0dcbe9405347778acb4b0c11d1f006c1a",
+        "paragraphCount": 13,
+        "excerpt": "中国证监会主席吴清近日在2026金融街论坛年会上表示，推动进一步健全适配长期投资的长周期考核机制，扩大中长期资金来源、渠道和入市方式，持续深化公募基金改革，壮大市场稳定力量。"
+      }
+    },
+    {
+      "event": "A股回购增持潮起 硬科技公司密集出手",
+      "originalTitle": "A股回购增持潮起 硬科技公司密集出手",
+      "published": "2026-10-23T06:58:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807382",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
-      "originalTitle": "川财证券陈雳：科技创新正从单点突破转向体系化跃升",
-      "published": "2026-10-22T19:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806975",
+      "event": "特斯拉和SpaceX合并要迈过哪些障碍？",
+      "originalTitle": "特斯拉和SpaceX合并要迈过哪些障碍？",
+      "published": "2026-10-23T06:47:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807384",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "主动ETF整装待发 多家公募“真金白银”自购",
-      "originalTitle": "主动ETF整装待发 多家公募“真金白银”自购",
-      "published": "2026-10-22T19:09:00+08:00",
+      "event": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
+      "originalTitle": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
+      "published": "2026-10-22T23:09:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806928",
+      "url": "https://www.cnstock.com/commonDetail/807012",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
+      "originalTitle": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
+      "published": "2026-10-22T23:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807021",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
+      "originalTitle": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
+      "published": "2026-10-22T23:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/806991",
       "evidenceLevel": "headline-only"
     },
     {
@@ -504,46 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
-    },
-    {
-      "event": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版"
-    },
-    {
-      "event": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版"
-    },
-    {
-      "event": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版"
-    },
-    {
-      "event": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版"
-    },
-    {
-      "event": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,6 +581,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
