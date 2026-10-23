@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-23",
-  "date": "更新于北京时间 2026-10-23 10:25",
+  "date": "更新于北京时间 2026-10-23 12:51",
   "reportDate": "2026-10-23",
-  "updatedAt": "2026-10-23T10:25:38+08:00",
+  "updatedAt": "2026-10-23T12:51:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-21：7,757.17 点；较 2026-10-20 变化 +44.60 点。",
+          "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,37 +80,37 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.65 %；变化 -0.16 个百分点",
+          "summary": "4.81 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.96 %；变化 -0.17 个百分点",
+          "summary": "5.13 %；变化 +0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.78 点；变化 +0.05 点",
+          "summary": "101.61 点；变化 -0.17 点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 101.73（2026-10-20）；来源：Yahoo Finance。"
+            "观测日 2026-10-22；前值 101.78（2026-10-21）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,757.17 点；变化 +44.60 点",
+          "summary": "7,663.43 点；变化 -93.74 点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 7,712.57（2026-10-20）；来源：Yahoo Finance。"
+            "观测日 2026-10-22；前值 7,757.17（2026-10-21）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,702.86 点；变化 +278.04 点",
+          "summary": "26,008.86 点；变化 -694.00 点",
           "paragraphs": [
-            "观测日 2026-10-21；前值 26,424.82（2026-10-20）；来源：Yahoo Finance。"
+            "观测日 2026-10-22；前值 26,702.86（2026-10-21）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "2025年中国创新指数比上年增长6.4% - 新华网",
+          "title": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T01:31:35+00:00；来源：新华网。",
+            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlllcmtVNWNEMl81TVFZa1pjWmMzd3F6dnNtQ0sxblFZSFlSclo1akhFOWRWeDBfVEdZdjljVWJWNHhIS1EtcUlQalFSc1NLOUJzRnhxNzR5RHlmalg1WkpWaHlIbTBPVGdzejhMUUV4X0tmeW5rUUZTTjczd3lxaWl3?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807477"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
+          "title": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T01:17:36+00:00；来源：新华网。",
+            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807463"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "秘鲁政府将追加开支应对厄尔尼诺等挑战 - 新华网",
+          "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T01:16:12+00:00；来源：新华网。",
+            "发布时间：2026-10-23T11:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yVzBqWmlaQVBNSDFzb3VlV29oQnVPNkdnalhoYUtHYzdJU2ZDYkN1SkdtWXhFZ1UzUjItbW1OaXMtckxpN2lCaTdSMmZjV255MTZxeUlCS2hmR053eDktWk5GbDBNdDRvZ19ndjBvaktWNlN6TXNONDZ4T0liaFU?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807481"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "包头市昆都仑区“一单”走全程多式联运赋能实体经济 - 新华网",
+          "title": "国家统计局：2025年中国创新指数比上年增长6.4%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T00:56:50+00:00；来源：新华网。",
+            "发布时间：2026-10-23T10:13:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTTZPZGxJU1EtR3RuTHBXZDkzR3ZXSnhjRlh6SXhKc3phUTRLclBoUkZ2VXo0YzZNYm1maTRYWE03VmJVbS1jajRnbTdmX2FjazVlN19HZWt2QmNHTXVvOE9TTi1pY3hqZmx2N3Jneks3bWdwNUE?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807454"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+          "title": "A股震荡调整，科技企业发声",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:54:24+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T10:13:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807455"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
+          "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807271"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
+          "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807273"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
+          "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807332"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T07:55:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/807410"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "title": "记者手记丨英国消费者为何青睐中国车 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T18:44:16+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-23T04:05:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5"
             }
           ]
         }
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-20 前值 7712.5698，2026-10-21 现值 7757.1699，变化 +44.6001。",
+            "本期实例：标普 500 指数，2026-10-21 前值 7757.1699，2026-10-22 现值 7663.4302，变化 -93.7397。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,19 +379,19 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-22"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-21"
+      "asOf": "2026-10-22"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-21"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-21"
+      "asOf": "2026-10-22"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -404,146 +404,146 @@
       "asOf": "2026-10-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-22"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-21"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-22"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-21"
     },
     {
-      "title": "2025年中国创新指数比上年增长6.4% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlllcmtVNWNEMl81TVFZa1pjWmMzd3F6dnNtQ0sxblFZSFlSclo1akhFOWRWeDBfVEdZdjljVWJWNHhIS1EtcUlQalFSc1NLOUJzRnhxNzR5RHlmalg1WkpWaHlIbTBPVGdzejhMUUV4X0tmeW5rUUZTTjczd3lxaWl3?oc=5",
-      "asOf": "2026-10-23T01:31:35+00:00"
+      "title": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
+      "url": "https://www.cnstock.com/commonDetail/807477",
+      "asOf": "2026-10-23T11:22:00+08:00"
     },
     {
-      "title": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5",
-      "asOf": "2026-10-23T01:17:36+00:00"
+      "title": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
+      "url": "https://www.cnstock.com/commonDetail/807463",
+      "asOf": "2026-10-23T11:22:00+08:00"
     },
     {
-      "title": "秘鲁政府将追加开支应对厄尔尼诺等挑战 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yVzBqWmlaQVBNSDFzb3VlV29oQnVPNkdnalhoYUtHYzdJU2ZDYkN1SkdtWXhFZ1UzUjItbW1OaXMtckxpN2lCaTdSMmZjV255MTZxeUlCS2hmR053eDktWk5GbDBNdDRvZ19ndjBvaktWNlN6TXNONDZ4T0liaFU?oc=5",
-      "asOf": "2026-10-23T01:16:12+00:00"
+      "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
+      "url": "https://www.cnstock.com/commonDetail/807481",
+      "asOf": "2026-10-23T11:22:00+08:00"
     },
     {
-      "title": "包头市昆都仑区“一单”走全程多式联运赋能实体经济 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTTZPZGxJU1EtR3RuTHBXZDkzR3ZXSnhjRlh6SXhKc3phUTRLclBoUkZ2VXo0YzZNYm1maTRYWE03VmJVbS1jajRnbTdmX2FjazVlN19HZWt2QmNHTXVvOE9TTi1pY3hqZmx2N3Jneks3bWdwNUE?oc=5",
-      "asOf": "2026-10-23T00:56:50+00:00"
+      "title": "国家统计局：2025年中国创新指数比上年增长6.4%",
+      "url": "https://www.cnstock.com/commonDetail/807454",
+      "asOf": "2026-10-23T10:13:00+08:00"
     },
     {
-      "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
-      "asOf": "2026-10-22T18:54:24+00:00"
+      "title": "A股震荡调整，科技企业发声",
+      "url": "https://www.cnstock.com/commonDetail/807455",
+      "asOf": "2026-10-23T10:13:00+08:00"
     },
     {
-      "title": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
+      "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "url": "https://www.cnstock.com/commonDetail/807271",
+      "asOf": "2026-10-23T09:15:00+08:00"
     },
     {
-      "title": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
+      "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "url": "https://www.cnstock.com/commonDetail/807273",
+      "asOf": "2026-10-23T09:15:00+08:00"
     },
     {
-      "title": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
+      "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "url": "https://www.cnstock.com/commonDetail/807332",
+      "asOf": "2026-10-23T09:15:00+08:00"
     },
     {
-      "title": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
+      "title": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "url": "https://www.cnstock.com/commonDetail/807410",
+      "asOf": "2026-10-23T07:55:00+08:00"
     },
     {
-      "title": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
-      "asOf": "2026-10-22T18:44:16+00:00"
+      "title": "记者手记丨英国消费者为何青睐中国车 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5",
+      "asOf": "2026-10-23T04:05:19+00:00"
     }
   ],
   "events": [
     {
-      "event": "2025年中国创新指数比上年增长6.4% - 新华网",
-      "published": "2026-10-23T01:31:35+00:00",
+      "event": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
+      "originalTitle": "实施1500个重大工程项目 多部门联合发文推进老旧街区厂区改造提升",
+      "published": "2026-10-23T11:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807477",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
+      "originalTitle": "商务部消费促进司负责人谈2026年前三季度我国消费市场情况",
+      "published": "2026-10-23T11:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807463",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
+      "originalTitle": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
+      "published": "2026-10-23T11:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807481",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国家统计局：2025年中国创新指数比上年增长6.4%",
+      "originalTitle": "国家统计局：2025年中国创新指数比上年增长6.4%",
+      "published": "2026-10-23T10:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807454",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "A股震荡调整，科技企业发声",
+      "originalTitle": "A股震荡调整，科技企业发声",
+      "published": "2026-10-23T10:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807455",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "originalTitle": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "published": "2026-10-23T09:15:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807271",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "originalTitle": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "published": "2026-10-23T09:15:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807273",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "originalTitle": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "published": "2026-10-23T09:15:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807332",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "originalTitle": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
+      "published": "2026-10-23T07:55:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/807410",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "记者手记丨英国消费者为何青睐中国车 - 新华网",
+      "published": "2026-10-23T04:05:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlllcmtVNWNEMl81TVFZa1pjWmMzd3F6dnNtQ0sxblFZSFlSclo1akhFOWRWeDBfVEdZdjljVWJWNHhIS1EtcUlQalFSc1NLOUJzRnhxNzR5RHlmalg1WkpWaHlIbTBPVGdzejhMUUV4X0tmeW5rUUZTTjczd3lxaWl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTFBtWkR5SzEtenlFZHlYUWN5QU5MRmt5aE1rcTJ0cVB2TmxtLV9JZWpXRHRzRHFMQzFhYjBaN3M5QTZjT3FBb1pSeTVMX05JaTJURGdfU0wwaWpxM2Nwa21OazlaVHkwTlhFTFZObHdzRHlOcV8zaTMxc1ZmUU0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2025年中国创新指数比上年增长6.4% - 新华网"
-    },
-    {
-      "event": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
-      "published": "2026-10-23T01:17:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网"
-    },
-    {
-      "event": "秘鲁政府将追加开支应对厄尔尼诺等挑战 - 新华网",
-      "published": "2026-10-23T01:16:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yVzBqWmlaQVBNSDFzb3VlV29oQnVPNkdnalhoYUtHYzdJU2ZDYkN1SkdtWXhFZ1UzUjItbW1OaXMtckxpN2lCaTdSMmZjV255MTZxeUlCS2hmR053eDktWk5GbDBNdDRvZ19ndjBvaktWNlN6TXNONDZ4T0liaFU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秘鲁政府将追加开支应对厄尔尼诺等挑战 - 新华网"
-    },
-    {
-      "event": "包头市昆都仑区“一单”走全程多式联运赋能实体经济 - 新华网",
-      "published": "2026-10-23T00:56:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTTZPZGxJU1EtR3RuTHBXZDkzR3ZXSnhjRlh6SXhKc3phUTRLclBoUkZ2VXo0YzZNYm1maTRYWE03VmJVbS1jajRnbTdmX2FjazVlN19HZWt2QmNHTXVvOE9TTi1pY3hqZmx2N3Jneks3bWdwNUE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "包头市昆都仑区“一单”走全程多式联运赋能实体经济 - 新华网"
-    },
-    {
-      "event": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:54:24+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
-    },
-    {
-      "event": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc3ZFdE1KZWtReGhrWjU2bmZVRExRV3FCLUl2YVRaNm5ZTm05NXpuZ2lhQlR2RzVHdzNPdXFBSWlXVmQ0cFlRRVdwVmdvNndlc1o5YVBhNjBlTGNndl8wcUh5eElnOUJKVGV1Rmp3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "太平洋证券股份有限公司涉诉案件相关公告 - 上海证券报电子版"
-    },
-    {
-      "event": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14aGp3NzQ0VlZGUkFlQ3gxY3R0djRneXdmV3NGWVFZdGREdi1MLXRlMXA2ZjFXTzFsMW1vQ2M2MG1mMG9FRHA1dEpBWDhMV2Jya3N1Yng0X1lycldNNkxrdHA3dnNLZmpxTlI4Q2xn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "苏州光格科技股份有限公司 2025年员工持股计划部分股票回购注销实施公告 - 上海证券报电子版"
-    },
-    {
-      "event": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RVE3LWJYRGhwcEhxeTcySG1Fb3Z2ZWs2WVRCNmhlRzhjN1EyR2tUTk1OLWhmZ25ZTk1BNm5nZkNUbno0QU91ZFY0LUZ4RER0cmoySmZjaUQyZU0tRUVBNkpkeE10S3V6Q1g1eEJB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "湖北三峡新型建材股份有限公司股票交易风险提示公告 - 上海证券报电子版"
-    },
-    {
-      "event": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSjF4T3RkSU85SzJJWjBqaU9pQzEtVWVsLVVDZ1lDbWk5TkdhWnlEa045Q01XNVA4STNxMDZVQ3BQdk5Sb3JqeXZUWVROZHd2SXBuVWJwYkRINGFYd193eFpTNWc5RTY3Y0ZMb1lB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "浙江昂利康制药股份有限公司股票交易异常波动公告 - 上海证券报电子版"
-    },
-    {
-      "event": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:44:16+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTVUtuTzZacjBBVk1iSUIwdENhQXVrUlRHZlBoQjRjNkgwc3RJTEVZSWRyMmNLSjBZWFQ2LXNWb3VnR3o5T1lxM1lGUHdpTHZ1c0NWTTEyUjBNRlplVk5hcjFUVmtKWmRDdUtCM0Jn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海九百股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+      "originalTitle": "记者手记丨英国消费者为何青睐中国车 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,15 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
