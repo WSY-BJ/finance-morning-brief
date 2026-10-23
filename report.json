@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-23",
-  "date": "更新于北京时间 2026-10-23 08:56",
+  "date": "更新于北京时间 2026-10-23 09:45",
   "reportDate": "2026-10-23",
-  "updatedAt": "2026-10-23T08:56:07+08:00",
+  "updatedAt": "2026-10-23T09:45:02+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "summary": "2026-10-21：5.13 %；较 2026-10-20 变化 +0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.65 %；变化 -0.16 个百分点",
+          "summary": "4.81 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 4.79（2026-10-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.96 %；变化 -0.17 个百分点",
+          "summary": "5.13 %；变化 +0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：美国财政部。"
+            "观测日 2026-10-21；前值 5.12（2026-10-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,17 +177,46 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
+          "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T08:41:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：•*ST康佳A股票将于10月23日摘牌，摘牌后45个交易日内转入全国股转公司代为管理的退市板块转让。"
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/807427"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807273"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807332"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T09:15:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807271"
             }
           ]
         },
@@ -212,12 +241,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-23T07:56:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：赣锋锂业前三季度净利润大增195倍，天齐锂业最高预增32倍……10月中下旬以来，锂矿企业三季报及前三季度业绩预告密集报喜。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/807398"
             }
           ]
@@ -228,12 +256,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-23T07:55:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：中国证监会主席吴清近日在2026金融街论坛年会上表示，推动进一步健全适配长期投资的长周期考核机制，扩大中长期资金来源、渠道和入市方式，持续深化公募基金改革，壮大市场稳定力量。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/807410"
             }
           ]
@@ -270,61 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
+          "title": "国家统计局社科文司统计师林梅解读2025年中国创新指数 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T01:39:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807012"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEVocjh1ampoc2FnYmlOTDJFOTYzejNMY0RTQ25aSnJWTUZzYnJOWjY0VkhTRUl2WDZ5ZFQ2UF9PM09QYjNkdVhzc2Y3NUpQYndsQ0pPdHJSUHJhdkVHSlJMdlVJZ0kzMGRhcERDUFpLMVNRaVpXcGE0Y05GOVVpVVF3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
+          "title": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-23T01:17:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807021"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T23:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/806991"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-22T18:54:24+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5"
             }
           ]
         }
@@ -387,11 +384,6 @@
       "asOf": "2026-10-21"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-21"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-22"
@@ -402,24 +394,39 @@
       "asOf": "2026-10-21"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-21"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-22"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-21"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-22"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-21"
     },
     {
-      "title": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
-      "url": "https://www.cnstock.com/commonDetail/807427",
-      "asOf": "2026-10-23T08:41:00+08:00"
+      "title": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "url": "https://www.cnstock.com/commonDetail/807273",
+      "asOf": "2026-10-23T09:15:00+08:00"
+    },
+    {
+      "title": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "url": "https://www.cnstock.com/commonDetail/807332",
+      "asOf": "2026-10-23T09:15:00+08:00"
+    },
+    {
+      "title": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "url": "https://www.cnstock.com/commonDetail/807271",
+      "asOf": "2026-10-23T09:15:00+08:00"
     },
     {
       "title": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
@@ -447,41 +454,40 @@
       "asOf": "2026-10-23T06:47:00+08:00"
     },
     {
-      "title": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
-      "url": "https://www.cnstock.com/commonDetail/807012",
-      "asOf": "2026-10-22T23:09:00+08:00"
+      "title": "国家统计局社科文司统计师林梅解读2025年中国创新指数 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEVocjh1ampoc2FnYmlOTDJFOTYzejNMY0RTQ25aSnJWTUZzYnJOWjY0VkhTRUl2WDZ5ZFQ2UF9PM09QYjNkdVhzc2Y3NUpQYndsQ0pPdHJSUHJhdkVHSlJMdlVJZ0kzMGRhcERDUFpLMVNRaVpXcGE0Y05GOVVpVVF3?oc=5",
+      "asOf": "2026-10-23T01:39:46+00:00"
     },
     {
-      "title": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
-      "url": "https://www.cnstock.com/commonDetail/807021",
-      "asOf": "2026-10-22T23:09:00+08:00"
-    },
-    {
-      "title": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
-      "url": "https://www.cnstock.com/commonDetail/806991",
-      "asOf": "2026-10-22T23:09:00+08:00"
-    },
-    {
-      "title": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
-      "asOf": "2026-10-22T18:54:24+00:00"
+      "title": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5",
+      "asOf": "2026-10-23T01:17:36+00:00"
     }
   ],
   "events": [
     {
-      "event": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
-      "originalTitle": "上证早知道｜603186，第三季度净利大增超30倍；688368，第三季度净利大增超20倍",
-      "published": "2026-10-23T08:41:00+08:00",
+      "event": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "originalTitle": "硅宝科技：前三季度净利润约1.37亿元 同比下降40.13%",
+      "published": "2026-10-23T09:15:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807427",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/807427",
-        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
-        "sha256": "8b63e13d959dffc072c4476a5e6e401c68a3ae79d150f6e8e609a0b42d06ce70",
-        "paragraphCount": 34,
-        "excerpt": "•*ST康佳A股票将于10月23日摘牌，摘牌后45个交易日内转入全国股转公司代为管理的退市板块转让。"
-      }
+      "url": "https://www.cnstock.com/commonDetail/807273",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "originalTitle": "华宏科技：控股股东及部分董高减持计划实施完毕 共减持占总1.98%股份",
+      "published": "2026-10-23T09:15:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807332",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "originalTitle": "中信特钢：前三季度净利润约41.60亿元 同比下降3.94%",
+      "published": "2026-10-23T09:15:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/807271",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "八部门印发《产业基础能力提升“十五五”规划》 到2030年产业基础能力总体进入国际先进行列",
@@ -497,14 +503,7 @@
       "published": "2026-10-23T07:56:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/807398",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/807398",
-        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
-        "sha256": "04a25048d2b9f5deef011d11e8779d0552d862384e559ef6849941952ac34201",
-        "paragraphCount": 21,
-        "excerpt": "赣锋锂业前三季度净利润大增195倍，天齐锂业最高预增32倍……10月中下旬以来，锂矿企业三季报及前三季度业绩预告密集报喜。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "引长钱更须稳长钱 持续壮大资本市场稳定力量",
@@ -512,14 +511,7 @@
       "published": "2026-10-23T07:55:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/807410",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/807410",
-        "retrievedAt": "2026-10-23T08:56:07.897759+08:00",
-        "sha256": "23520f1d747d48e7691aedb0b2fd56c0dcbe9405347778acb4b0c11d1f006c1a",
-        "paragraphCount": 13,
-        "excerpt": "中国证监会主席吴清近日在2026金融街论坛年会上表示，推动进一步健全适配长期投资的长周期考核机制，扩大中长期资金来源、渠道和入市方式，持续深化公募基金改革，壮大市场稳定力量。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "A股回购增持潮起 硬科技公司密集出手",
@@ -538,36 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
-      "originalTitle": "七彩化学：前三季度净利润约9570.37万元，同比增长30.41%",
-      "published": "2026-10-22T23:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807012",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
-      "originalTitle": "湖南黄金：前三季度净利润约11.61亿元，同比增长12.87%",
-      "published": "2026-10-22T23:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/807021",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
-      "originalTitle": "光正眼科：前三季度净利润2265.10万元，同比增长12961.50%",
-      "published": "2026-10-22T23:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/806991",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "published": "2026-10-22T18:54:24+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc095RllfZXdWV2tjQ0c4RV9YM2FLeFN0WFRtbWotaVdlR3ZGeU1pVDJOUngwRWRGS3VPcXNxUFZ5dVJTOWd1M0dhcy04d2RqckxTZTJTMHdDS2toOWNlWlVUbjhtR1AwYWFQWjFB?oc=5",
+      "event": "国家统计局社科文司统计师林梅解读2025年中国创新指数 - 新华网",
+      "published": "2026-10-23T01:39:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEVocjh1ampoc2FnYmlOTDJFOTYzejNMY0RTQ25aSnJWTUZzYnJOWjY0VkhTRUl2WDZ5ZFQ2UF9PM09QYjNkdVhzc2Y3NUpQYndsQ0pPdHJSUHJhdkVHSlJMdlVJZ0kzMGRhcERDUFpLMVNRaVpXcGE0Y05GOVVpVVF3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东大业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
+      "originalTitle": "国家统计局社科文司统计师林梅解读2025年中国创新指数 - 新华网"
+    },
+    {
+      "event": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网",
+      "published": "2026-10-23T01:17:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OTHNkN1V5WGZYYnhjbDg5SGJ5LXJiOXlfR0JqM2dwTVVQbGhSSWVLYXgySm1vLVgwT0U2SEV6Uk14OUJpeDhKRERrbUlTU2MydEJGTjRJcG5kQ0xyY0ZLcUxWVEJoWTA5UlZkUFRjLVc1MGhRb1oxT29R?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +557,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
