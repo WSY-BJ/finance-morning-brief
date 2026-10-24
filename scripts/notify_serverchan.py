@@ -46,10 +46,10 @@ for item in blocks("markets"):
         lines.append("• " + short(item.get("title", "") + "：" + item.get("summary", "") + " " + (item.get("paragraphs") or [""])[0], 125))
 lines += ["", "过去 24 小时财经新闻："]
 news = [item for item in blocks("news") if item.get("type") == "explainer"]
-lines += ["• " + short(item.get("summary", ""), 120) for item in news[:10]] or ["• 本期可核实新闻不足，请勿将空白当作没有事件。"]
+lines += ["• " + short(item.get("summary") or item.get("title") or "未提供新闻摘要", 120) for item in news[:10]] or ["• 本期可核实新闻不足，请勿将空白当作没有事件。"]
 lines += ["", "产业利润线索："]
 radar = [item for item in blocks("radar") if item.get("type") == "explainer"]
-lines += ["• " + short(item.get("title", "") + "：" + (item.get("paragraphs") or [""])[1], 175) for item in radar[:4]] or ["• 本期线索不足，未填充未经验证的结论。"]
+lines += ["• " + short(item.get("title", "") + "：" + " ".join((item.get("paragraphs") or [])[:2]), 175) for item in radar[:4]] or ["• 本期线索不足，未填充未经验证的结论。"]
 lines += ["", "完整因果、原文来源和历史归档：", f"[打开 {today} 晨报]({daily_url})", daily_url]
 desp = "\n\n".join(lines)
 endpoint = f"https://sctapi.ftqq.com/{sendkey}.send"
