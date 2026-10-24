@@ -1,0 +1,563 @@
+{
+  "edition": "财经晨报 · 2026-10-25",
+  "date": "更新于北京时间 2026-10-25 07:10",
+  "reportDate": "2026-10-25",
+  "updatedAt": "2026-10-25T07:10:08+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-25 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-23：7,623.68 点；较 2026-10-22 变化 -39.75 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.65 %；变化 -0.16 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.96 %；变化 -0.17 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.81 点；变化 +0.20 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 101.61（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,623.68 点；变化 -39.75 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 7,663.43（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "25,955.34 点；变化 -53.52 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 26,008.86（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6606 人民币/美元；变化 -0.0173 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-24；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T21:34:29+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T20:06:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808547"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T19:44:39+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026年10月24日 电子报 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T18:48:30+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T17:17:13+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T17:01:17+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "法国示威活动致多地文化场所临时关闭 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T16:09:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T16:09:25+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T15:10:11+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T15:09:15+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 17 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-22 前值 7663.4302，2026-10-23 现值 7623.6802，变化 -39.7500。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-24"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
+      "asOf": "2026-10-24T21:34:29+00:00"
+    },
+    {
+      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "url": "https://www.cnstock.com/commonDetail/808547",
+      "asOf": "2026-10-24T20:06:00+08:00"
+    },
+    {
+      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5",
+      "asOf": "2026-10-24T19:44:39+00:00"
+    },
+    {
+      "title": "2026年10月24日 电子报 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "asOf": "2026-10-24T18:48:30+00:00"
+    },
+    {
+      "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
+      "asOf": "2026-10-24T17:17:13+00:00"
+    },
+    {
+      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
+      "asOf": "2026-10-24T17:01:17+00:00"
+    },
+    {
+      "title": "法国示威活动致多地文化场所临时关闭 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5",
+      "asOf": "2026-10-24T16:09:38+00:00"
+    },
+    {
+      "title": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
+      "asOf": "2026-10-24T16:09:25+00:00"
+    },
+    {
+      "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
+      "asOf": "2026-10-24T15:10:11+00:00"
+    },
+    {
+      "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5",
+      "asOf": "2026-10-24T15:09:15+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
+      "published": "2026-10-24T21:34:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "马里军方在梅纳卡市附近发现54具遗体 - 新华网"
+    },
+    {
+      "event": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "originalTitle": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "published": "2026-10-24T20:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/808547",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
+      "published": "2026-10-24T19:44:39+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网"
+    },
+    {
+      "event": "2026年10月24日 电子报 - 上海证券报电子版",
+      "published": "2026-10-24T18:48:30+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年10月24日 电子报 - 上海证券报电子版"
+    },
+    {
+      "event": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
+      "published": "2026-10-24T17:17:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网"
+    },
+    {
+      "event": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "published": "2026-10-24T17:01:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网"
+    },
+    {
+      "event": "法国示威活动致多地文化场所临时关闭 - 新华网",
+      "published": "2026-10-24T16:09:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国示威活动致多地文化场所临时关闭 - 新华网"
+    },
+    {
+      "event": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
+      "published": "2026-10-24T16:09:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网"
+    },
+    {
+      "event": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+      "published": "2026-10-24T15:10:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网"
+    },
+    {
+      "event": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+      "published": "2026-10-24T15:09:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError"
+    ]
+  }
+}

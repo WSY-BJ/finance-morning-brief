@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-24",
-  "date": "更新于北京时间 2026-10-24 12:38",
-  "reportDate": "2026-10-24",
-  "updatedAt": "2026-10-24T12:38:24+08:00",
+  "edition": "财经晨报 · 2026-10-25",
+  "date": "更新于北京时间 2026-10-25 07:10",
+  "reportDate": "2026-10-25",
+  "updatedAt": "2026-10-25T07:10:08+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-24 财经资料（待核验）",
+    "title": "2026-10-25 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,13 +33,13 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "115.22 美元/桶；变化 -3.60 美元/桶",
+          "title": "Brent 原油期货",
+          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-20；前值 118.82（2026-10-19）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "summary": "6.6606 人民币/美元；变化 -0.0173 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-23；前值 6.6779（2026-10-22）；来源：Yahoo Finance。"
+            "观测日 2026-10-24；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,153 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+          "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T09:38:00+08:00；来源：新华社。",
+            "发布时间：2026-10-24T21:34:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808502"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从全球视野看A股硬科技产业景气度",
+          "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T08:49:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-24T20:06:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808490"
+              "url": "https://www.cnstock.com/commonDetail/808547"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "花旗证券（中国）获批设立 外资独资券商增至七家",
+          "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：10月23日，中国证监会正式发布批复，核准设立花旗证券（中国）有限公司（简称“花旗中国”）。批复显示，花旗中国注册地为上海市，注册资本为人民币12亿元，业务范围为证券经纪、证券投资咨询、证券承销与保荐、证券自营。股东及出资比例方面，花旗环球"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/808479"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：财政部债务管理司副司长赵则永10月23日在财政部新闻发布会上表示，下一步，财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作，指导各地早谋划、早准备，抓紧履行预算编制等相关程序，确保明年1月尽早启动债券发行。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/808478"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-24T19:44:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808476"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+          "title": "2026年10月24日 电子报 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-24T18:48:30+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808477"
+              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《红军长征档案史料选编》出版发行 - 新华网",
+          "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T04:12:28+00:00；来源：新华网。",
+            "发布时间：2026-10-24T17:17:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkVZc1FCVTlYdFBTb0U2X2h6YTk5M0NJX3MyQVdXcnVjOFNoU2w5YVZ2NXlNdTBWU0xMUUVCYTJJOXhFTjNNU21QWE1uNTJXQUtCQVQtQ2hUOS0xMWx4VldwVWxHSERPMTV0R3ByWjVuNHF3c2hiWENidDN5M2JDN1FGZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "刚果（金）一关键性埃博拉疫苗临床试验启动接种 - 新华网",
+          "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T03:57:24+00:00；来源：新华网。",
+            "发布时间：2026-10-24T17:01:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRXpZNVVDYWZUem9jTHpYTDd6VjhaUDlEeV9SWEppX2dGanp6eHdnOWpwVThsMVB3SldKSVoxczdQck15c3hQVmF4a2hXUlllbDgyOTM1TU1CRHBXZ3BaOFFLN3JrUzFJZVhXMWxlV0FHYTl5YXlrLTR3WWVud1E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "述评：揭露日本在台殖民罪行 捍卫历史正义 - 新华网",
+          "title": "法国示威活动致多地文化场所临时关闭 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T03:15:54+00:00；来源：新华网。",
+            "发布时间：2026-10-24T16:09:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NemxiZXFEbzYtNDdjOExMbEJ5WVZNM3hJVWpKT3VkOEl5WG5WSDZuUjQteUdlT09rc3BYZkR1WjgxdnFERnZuVHNrUmNpRG0zSjJ1VUdYeDhsQW1TWmtWZTRnR2ZYeHlKRDlIUFFVWVVTUi1lX096NW1qVEFybjA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "各地持之以恒推进全面从严治党 - 新华网",
+          "title": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T02:55:02+00:00；来源：新华网。",
+            "发布时间：2026-10-24T16:09:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3huLVVRVFppTE1WdWJxREtGV0IwUU5KMjM0SzR2STRpMUpIMDdwMUQ0c2dWS0Z1RHdBS0ljV0pTSTBIYVBpWHlZRGJHUTdFVkNmOWtoRFIyc2Q0V01lQlk4Mm1ib0dsXzF2UUVOYWJ0MjVrSFJsX19mMi1feDlCMU1KTXE2ZmIx?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T15:10:11+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T15:09:15+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5"
             }
           ]
         }
@@ -347,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 16 课：情景分析",
+      "title": "第 17 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -383,11 +381,11 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-24"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-23"
     },
     {
@@ -396,19 +394,14 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-23"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-20"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-22"
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-23"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -416,150 +409,141 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-      "url": "https://www.cnstock.com/commonDetail/808502",
-      "asOf": "2026-10-24T09:38:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-22"
     },
     {
-      "title": "从全球视野看A股硬科技产业景气度",
-      "url": "https://www.cnstock.com/commonDetail/808490",
-      "asOf": "2026-10-24T08:49:00+08:00"
+      "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
+      "asOf": "2026-10-24T21:34:29+00:00"
     },
     {
-      "title": "花旗证券（中国）获批设立 外资独资券商增至七家",
-      "url": "https://www.cnstock.com/commonDetail/808479",
-      "asOf": "2026-10-24T08:39:00+08:00"
+      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "url": "https://www.cnstock.com/commonDetail/808547",
+      "asOf": "2026-10-24T20:06:00+08:00"
     },
     {
-      "title": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
-      "url": "https://www.cnstock.com/commonDetail/808478",
-      "asOf": "2026-10-24T08:39:00+08:00"
+      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5",
+      "asOf": "2026-10-24T19:44:39+00:00"
     },
     {
-      "title": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
-      "url": "https://www.cnstock.com/commonDetail/808476",
-      "asOf": "2026-10-24T08:39:00+08:00"
+      "title": "2026年10月24日 电子报 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "asOf": "2026-10-24T18:48:30+00:00"
     },
     {
-      "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
-      "url": "https://www.cnstock.com/commonDetail/808477",
-      "asOf": "2026-10-24T08:39:00+08:00"
+      "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
+      "asOf": "2026-10-24T17:17:13+00:00"
     },
     {
-      "title": "《红军长征档案史料选编》出版发行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkVZc1FCVTlYdFBTb0U2X2h6YTk5M0NJX3MyQVdXcnVjOFNoU2w5YVZ2NXlNdTBWU0xMUUVCYTJJOXhFTjNNU21QWE1uNTJXQUtCQVQtQ2hUOS0xMWx4VldwVWxHSERPMTV0R3ByWjVuNHF3c2hiWENidDN5M2JDN1FGZw?oc=5",
-      "asOf": "2026-10-24T04:12:28+00:00"
+      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
+      "asOf": "2026-10-24T17:01:17+00:00"
     },
     {
-      "title": "刚果（金）一关键性埃博拉疫苗临床试验启动接种 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRXpZNVVDYWZUem9jTHpYTDd6VjhaUDlEeV9SWEppX2dGanp6eHdnOWpwVThsMVB3SldKSVoxczdQck15c3hQVmF4a2hXUlllbDgyOTM1TU1CRHBXZ3BaOFFLN3JrUzFJZVhXMWxlV0FHYTl5YXlrLTR3WWVud1E?oc=5",
-      "asOf": "2026-10-24T03:57:24+00:00"
+      "title": "法国示威活动致多地文化场所临时关闭 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5",
+      "asOf": "2026-10-24T16:09:38+00:00"
     },
     {
-      "title": "述评：揭露日本在台殖民罪行 捍卫历史正义 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NemxiZXFEbzYtNDdjOExMbEJ5WVZNM3hJVWpKT3VkOEl5WG5WSDZuUjQteUdlT09rc3BYZkR1WjgxdnFERnZuVHNrUmNpRG0zSjJ1VUdYeDhsQW1TWmtWZTRnR2ZYeHlKRDlIUFFVWVVTUi1lX096NW1qVEFybjA?oc=5",
-      "asOf": "2026-10-24T03:15:54+00:00"
+      "title": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
+      "asOf": "2026-10-24T16:09:25+00:00"
     },
     {
-      "title": "各地持之以恒推进全面从严治党 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3huLVVRVFppTE1WdWJxREtGV0IwUU5KMjM0SzR2STRpMUpIMDdwMUQ0c2dWS0Z1RHdBS0ljV0pTSTBIYVBpWHlZRGJHUTdFVkNmOWtoRFIyc2Q0V01lQlk4Mm1ib0dsXzF2UUVOYWJ0MjVrSFJsX19mMi1feDlCMU1KTXE2ZmIx?oc=5",
-      "asOf": "2026-10-24T02:55:02+00:00"
+      "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
+      "asOf": "2026-10-24T15:10:11+00:00"
+    },
+    {
+      "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5",
+      "asOf": "2026-10-24T15:09:15+00:00"
     }
   ],
   "events": [
     {
-      "event": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-      "originalTitle": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-      "published": "2026-10-24T09:38:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/808502",
+      "event": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
+      "published": "2026-10-24T21:34:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "马里军方在梅纳卡市附近发现54具遗体 - 新华网"
+    },
+    {
+      "event": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "originalTitle": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "published": "2026-10-24T20:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/808547",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "从全球视野看A股硬科技产业景气度",
-      "originalTitle": "从全球视野看A股硬科技产业景气度",
-      "published": "2026-10-24T08:49:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808490",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "花旗证券（中国）获批设立 外资独资券商增至七家",
-      "originalTitle": "花旗证券（中国）获批设立 外资独资券商增至七家",
-      "published": "2026-10-24T08:39:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808479",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/808479",
-        "retrievedAt": "2026-10-24T12:38:24.359280+08:00",
-        "sha256": "d379a138bb706eb0e18c8295861461a308c603b025c6e4a0932ff3ac4843ebaf",
-        "paragraphCount": 8,
-        "excerpt": "10月23日，中国证监会正式发布批复，核准设立花旗证券（中国）有限公司（简称“花旗中国”）。批复显示，花旗中国注册地为上海市，注册资本为人民币12亿元，业务范围为证券经纪、证券投资咨询、证券承销与保荐、证券自营。股东及出资比例方面，花旗环球"
-      }
-    },
-    {
-      "event": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
-      "originalTitle": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
-      "published": "2026-10-24T08:39:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808478",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/808478",
-        "retrievedAt": "2026-10-24T12:38:24.359280+08:00",
-        "sha256": "0a0a9539f6f579ca262b4fa2fb483a69253c1c0de39de2a63c7bbc99f6991a34",
-        "paragraphCount": 13,
-        "excerpt": "财政部债务管理司副司长赵则永10月23日在财政部新闻发布会上表示，下一步，财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作，指导各地早谋划、早准备，抓紧履行预算编制等相关程序，确保明年1月尽早启动债券发行。"
-      }
-    },
-    {
-      "event": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
-      "originalTitle": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
-      "published": "2026-10-24T08:39:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808476",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
-      "originalTitle": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
-      "published": "2026-10-24T08:39:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808477",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "《红军长征档案史料选编》出版发行 - 新华网",
-      "published": "2026-10-24T04:12:28+00:00",
+      "event": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
+      "published": "2026-10-24T19:44:39+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkVZc1FCVTlYdFBTb0U2X2h6YTk5M0NJX3MyQVdXcnVjOFNoU2w5YVZ2NXlNdTBWU0xMUUVCYTJJOXhFTjNNU21QWE1uNTJXQUtCQVQtQ2hUOS0xMWx4VldwVWxHSERPMTV0R3ByWjVuNHF3c2hiWENidDN5M2JDN1FGZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wNDZkYzlzS3FJQjFNaVZfRjNfLV9NSnB1T3p1Y0h0R203a01qYXRLOUN2dHBNRnpaZUhHOFVKOW00QmhqWVExYkd1N0xUVFo1YV92U3J5ckhaeVN2SXo1V2FRUm5aM2plbjZMLTVyNm5nTDFHV2pv?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "《红军长征档案史料选编》出版发行 - 新华网"
+      "originalTitle": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网"
     },
     {
-      "event": "刚果（金）一关键性埃博拉疫苗临床试验启动接种 - 新华网",
-      "published": "2026-10-24T03:57:24+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRXpZNVVDYWZUem9jTHpYTDd6VjhaUDlEeV9SWEppX2dGanp6eHdnOWpwVThsMVB3SldKSVoxczdQck15c3hQVmF4a2hXUlllbDgyOTM1TU1CRHBXZ3BaOFFLN3JrUzFJZVhXMWxlV0FHYTl5YXlrLTR3WWVud1E?oc=5",
+      "event": "2026年10月24日 电子报 - 上海证券报电子版",
+      "published": "2026-10-24T18:48:30+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "刚果（金）一关键性埃博拉疫苗临床试验启动接种 - 新华网"
+      "originalTitle": "2026年10月24日 电子报 - 上海证券报电子版"
     },
     {
-      "event": "述评：揭露日本在台殖民罪行 捍卫历史正义 - 新华网",
-      "published": "2026-10-24T03:15:54+00:00",
+      "event": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
+      "published": "2026-10-24T17:17:13+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NemxiZXFEbzYtNDdjOExMbEJ5WVZNM3hJVWpKT3VkOEl5WG5WSDZuUjQteUdlT09rc3BYZkR1WjgxdnFERnZuVHNrUmNpRG0zSjJ1VUdYeDhsQW1TWmtWZTRnR2ZYeHlKRDlIUFFVWVVTUi1lX096NW1qVEFybjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "述评：揭露日本在台殖民罪行 捍卫历史正义 - 新华网"
+      "originalTitle": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网"
     },
     {
-      "event": "各地持之以恒推进全面从严治党 - 新华网",
-      "published": "2026-10-24T02:55:02+00:00",
+      "event": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "published": "2026-10-24T17:01:17+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3huLVVRVFppTE1WdWJxREtGV0IwUU5KMjM0SzR2STRpMUpIMDdwMUQ0c2dWS0Z1RHdBS0ljV0pTSTBIYVBpWHlZRGJHUTdFVkNmOWtoRFIyc2Q0V01lQlk4Mm1ib0dsXzF2UUVOYWJ0MjVrSFJsX19mMi1feDlCMU1KTXE2ZmIx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "各地持之以恒推进全面从严治党 - 新华网"
+      "originalTitle": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网"
+    },
+    {
+      "event": "法国示威活动致多地文化场所临时关闭 - 新华网",
+      "published": "2026-10-24T16:09:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXIxV05DYVVJQVBqUjE2MVdNNTI4bWJUWUlyeDJ0X3ZGa1hjZy1DbDhQRk96NXVDOERKSFJ3MTVzb1RQdkJUWXZGRFZEakhUV3VxWXVGZ2h5WkV4Wlh2UFJWMkdnQk9STURQZmx4dXR0d2RfNEhES0J0V1NhbFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国示威活动致多地文化场所临时关闭 - 新华网"
+    },
+    {
+      "event": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
+      "published": "2026-10-24T16:09:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网"
+    },
+    {
+      "event": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
+      "published": "2026-10-24T15:10:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网"
+    },
+    {
+      "event": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
+      "published": "2026-10-24T15:09:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySDFtNkNGYkRjcGc5VnlRMVNTQXloR3hQQXdBQXlFdE9MSFdodFJyX0NqS1dRU21TTEYyOUpRQTZwOTdmd00tb0VFMVlfSGgtdGRlQ0tJWlBuOUpTOTc0R3NSR1pwVGt6U3B2dXhJekk1SEMxeFpn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网"
     }
   ],
   "quality": {
@@ -573,9 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError"
     ]
   }
