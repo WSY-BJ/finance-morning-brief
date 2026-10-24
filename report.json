@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-24",
-  "date": "更新于北京时间 2026-10-24 07:51",
+  "date": "更新于北京时间 2026-10-24 09:03",
   "reportDate": "2026-10-24",
-  "updatedAt": "2026-10-24T07:51:03+08:00",
+  "updatedAt": "2026-10-24T09:03:46+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.65 %；变化 -0.16 个百分点",
+          "summary": "4.69 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.96 %；变化 -0.17 个百分点",
+          "summary": "5.00 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,31 +177,46 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
+          "title": "前三季度全省经济运行稳中有升 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T23:13:11+00:00；来源：新华网。",
+            "发布时间：2026-10-24T00:49:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
+          "title": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-23T21:53:20+00:00；来源：新华网。",
+            "发布时间：2026-10-23T23:23:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/808188"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T23:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808190"
             }
           ]
         },
@@ -217,6 +232,51 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T21:42:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T19:48:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808056"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平向2026全球治理论坛（雄安）致信",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-23T19:34:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/807997"
             }
           ]
         },
@@ -262,66 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5"
             }
           ]
         }
@@ -379,9 +379,9 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-20"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-22"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -394,9 +394,9 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-22"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-20"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -404,29 +404,49 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-22"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-22"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-23"
     },
     {
-      "title": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5",
-      "asOf": "2026-10-23T23:13:11+00:00"
+      "title": "前三季度全省经济运行稳中有升 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5",
+      "asOf": "2026-10-24T00:49:32+00:00"
     },
     {
-      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5",
-      "asOf": "2026-10-23T21:53:20+00:00"
+      "title": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
+      "url": "https://www.cnstock.com/commonDetail/808188",
+      "asOf": "2026-10-23T23:23:00+08:00"
+    },
+    {
+      "title": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
+      "url": "https://www.cnstock.com/commonDetail/808190",
+      "asOf": "2026-10-23T23:23:00+08:00"
     },
     {
       "title": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
       "asOf": "2026-10-23T21:43:03+00:00"
+    },
+    {
+      "title": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5",
+      "asOf": "2026-10-23T21:42:59+00:00"
+    },
+    {
+      "title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
+      "url": "https://www.cnstock.com/commonDetail/808056",
+      "asOf": "2026-10-23T19:48:00+08:00"
+    },
+    {
+      "title": "习近平向2026全球治理论坛（雄安）致信",
+      "url": "https://www.cnstock.com/commonDetail/807997",
+      "asOf": "2026-10-23T19:34:00+08:00"
     },
     {
       "title": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
@@ -442,44 +462,32 @@
       "title": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
       "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
     }
   ],
   "events": [
     {
-      "event": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网",
-      "published": "2026-10-23T23:13:11+00:00",
+      "event": "前三季度全省经济运行稳中有升 - 新华网",
+      "published": "2026-10-24T00:49:32+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU09RQVNIOHNJVy1pbDBrVjNtZlJPbFVtYVllYUNmOVdGRF9jY25Wd2RSeGZLTzExR08zbHZ2QTVpU1A1bHBvLUNIbTc1ZWEzMlhoenVwREdSWGptZTdNczNaYnlYTGxqaG5CVmZNTUVqVmJUc2lEQVpaVzRmRTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "马里军方称5个多月来近五千恐怖分子“丧失战斗力” - 新华网"
+      "originalTitle": "前三季度全省经济运行稳中有升 - 新华网"
     },
     {
-      "event": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网",
-      "published": "2026-10-23T21:53:20+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbFBIRGNCeU9ueUVEX2R3UjVBdy1sWTJKTlNLU0w3aDBYaVNfNmEwNjl2ZEZzREh2RVZ2WlV4UVM0TTJyUUVJZkZQWTNrdm9XYmh3elVQNU5uaFVTZGpGNUhEdmtja1QycWxnRWVWQk5mbXVoZmpEeFVaaHhKdnc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降 - 新华网"
+      "event": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
+      "originalTitle": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
+      "published": "2026-10-23T23:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/808188",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
+      "originalTitle": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
+      "published": "2026-10-23T23:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/808190",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
@@ -488,6 +496,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网"
+    },
+    {
+      "event": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
+      "published": "2026-10-23T21:42:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网"
+    },
+    {
+      "event": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
+      "originalTitle": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
+      "published": "2026-10-23T19:48:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/808056",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "习近平向2026全球治理论坛（雄安）致信",
+      "originalTitle": "习近平向2026全球治理论坛（雄安）致信",
+      "published": "2026-10-23T19:34:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/807997",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
@@ -512,38 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTWo5WG43MUVGaEIxSHNBZi1KY0xFQXdxZVVwX1B1T1FRY0tlVVZ4Rm9hYzV4aGZvb05uRHY5VEttVVM3WE5xSXJFd2pZWHQ4RkxnbjF0N2JGcTcwaWtPUWU1dS1ILWh0cUhCX0xn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海鸣志电器股份有限公司股票交易异常波动公告 - 上海证券报电子版"
-    },
-    {
-      "event": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIV0ZUN0UtVjBQcG1RSXctV3V4UWp5eGR4aXBFQkZoaE5LZEVUT3RqTFE5SUY1VHZzYVpWNHIzc3FXcjk1bWt5dkdlMERxV1ZITDRhQVU4OVJ5cEdlTDZKTHlJUVNURjhQTWU5bHl3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "邦彦技术股份有限公司 2025年员工持股计划第一个锁定期届满的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wb2lJc3kzWnVCaVp4ZDUwTGZaWDVXLVMwcE9iM0xINWJuWXZzS041U28xaG5TWU4tdHA5WS1mdXVBZzlQRFh6WmVxbWZhclBPV2xnYWVRV0NKYnpJWC0ydFFfeEllbTdoN0hBNkpR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "广东依顿电子科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单（修订稿）的公示情况及核查意见的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQjlHQ1Fub3JERTNNV29aUDV3QWNuRFNnUUhaQjl2YlFYemZkRV8wV05PZUtuSnUxd2UyZWpReE5DSXBORUctUUJoMjJLcUJmZVpFYzJSandJYS11akRxejhQeFNXcUk4UUpCQVJB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "湖北江瀚新材料股份有限公司关于未来三年（2026年一2028年） 分红回报规划的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,7 +557,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
