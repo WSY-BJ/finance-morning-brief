@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-24",
-  "date": "更新于北京时间 2026-10-24 09:48",
+  "date": "更新于北京时间 2026-10-24 10:23",
   "reportDate": "2026-10-24",
-  "updatedAt": "2026-10-24T09:48:46+08:00",
+  "updatedAt": "2026-10-24T10:23:14+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.69 %；变化 +0.04 个百分点",
+          "summary": "4.65 %；变化 -0.16 个百分点",
           "paragraphs": [
-            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：美国财政部。"
+            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T09:38:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808502"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "从全球视野看A股硬科技产业景气度",
           "summary": "",
           "paragraphs": [
@@ -187,21 +202,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/808490"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808480"
             }
           ]
         },
@@ -222,7 +222,7 @@
         },
         {
           "type": "explainer",
-          "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+          "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
@@ -231,7 +231,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808477"
+              "url": "https://www.cnstock.com/commonDetail/808480"
             }
           ]
         },
@@ -247,6 +247,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/808478"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808477"
             }
           ]
         },
@@ -307,21 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T23:23:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808188"
             }
           ]
         }
@@ -389,6 +389,11 @@
       "asOf": "2026-10-22"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-22"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-23"
@@ -399,19 +404,19 @@
       "asOf": "2026-10-20"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-22"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-23"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-22"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+      "url": "https://www.cnstock.com/commonDetail/808502",
+      "asOf": "2026-10-24T09:38:00+08:00"
     },
     {
       "title": "从全球视野看A股硬科技产业景气度",
@@ -419,23 +424,23 @@
       "asOf": "2026-10-24T08:49:00+08:00"
     },
     {
-      "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
-      "url": "https://www.cnstock.com/commonDetail/808480",
-      "asOf": "2026-10-24T08:39:00+08:00"
-    },
-    {
       "title": "花旗证券（中国）获批设立 外资独资券商增至七家",
       "url": "https://www.cnstock.com/commonDetail/808479",
       "asOf": "2026-10-24T08:39:00+08:00"
     },
     {
-      "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
-      "url": "https://www.cnstock.com/commonDetail/808477",
+      "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
+      "url": "https://www.cnstock.com/commonDetail/808480",
       "asOf": "2026-10-24T08:39:00+08:00"
     },
     {
       "title": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
       "url": "https://www.cnstock.com/commonDetail/808478",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "url": "https://www.cnstock.com/commonDetail/808477",
       "asOf": "2026-10-24T08:39:00+08:00"
     },
     {
@@ -457,28 +462,23 @@
       "title": "前三季度全省经济运行稳中有升 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5",
       "asOf": "2026-10-24T00:49:32+00:00"
-    },
-    {
-      "title": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
-      "url": "https://www.cnstock.com/commonDetail/808188",
-      "asOf": "2026-10-23T23:23:00+08:00"
     }
   ],
   "events": [
+    {
+      "event": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+      "originalTitle": "新华全媒头条 | 永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+      "published": "2026-10-24T09:38:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/808502",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "从全球视野看A股硬科技产业景气度",
       "originalTitle": "从全球视野看A股硬科技产业景气度",
       "published": "2026-10-24T08:49:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/808490",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家外汇局拟进一步优化跨境投融资便利化政策",
-      "originalTitle": "国家外汇局拟进一步优化跨境投融资便利化政策",
-      "published": "2026-10-24T08:39:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808480",
       "evidenceLevel": "headline-only"
     },
     {
@@ -490,11 +490,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
-      "originalTitle": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "event": "国家外汇局拟进一步优化跨境投融资便利化政策",
+      "originalTitle": "国家外汇局拟进一步优化跨境投融资便利化政策",
       "published": "2026-10-24T08:39:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/808477",
+      "url": "https://www.cnstock.com/commonDetail/808480",
       "evidenceLevel": "headline-only"
     },
     {
@@ -503,6 +503,14 @@
       "published": "2026-10-24T08:39:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/808478",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "originalTitle": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808477",
       "evidenceLevel": "headline-only"
     },
     {
@@ -536,14 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbGF4ZUlqUDNlMUZpXzZIMk1BZGxPMFhjcXducWxvMnZWTVdZSzg4RnQzdGFMRG54LVk5Q2t0T2YwZkdnRHMxX2lpN1ZYSzFKLTNNcV9TWEtPNjJfd0hUeWUxMHdNa2hucGkxemhjb3pEajZiTWFyaXRhRQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "前三季度全省经济运行稳中有升 - 新华网"
-    },
-    {
-      "event": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
-      "originalTitle": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
-      "published": "2026-10-23T23:23:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/808188",
-      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
