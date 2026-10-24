@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-24",
-  "date": "更新于北京时间 2026-10-24 09:03",
+  "date": "更新于北京时间 2026-10-24 09:48",
   "reportDate": "2026-10-24",
-  "updatedAt": "2026-10-24T09:03:46+08:00",
+  "updatedAt": "2026-10-24T09:48:46+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-10-20：115.22 美元/桶；较 2026-10-19 变化 -3.60 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-10-22：7,663.43 点；较 2026-10-21 变化 -93.74 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.04 个百分点",
+          "summary": "4.96 %；变化 -0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：美国财政部。"
+            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,126 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "从全球视野看A股硬科技产业景气度",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:49:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808490"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808480"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "花旗证券（中国）获批设立 外资独资券商增至七家",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808479"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808477"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808478"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T08:39:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808476"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "古巴国家主席：古巴人民决心捍卫独立 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T01:29:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZTc4cTE3eDlWcFJnUkhNbUFfVVZhdHMzV3NUNVJqOHF2TkFEb2Y5em5UWExKOGIzSjQzcEdnNEFTTnZtVy1UMWhYQjBjS014QkM0dmNSZTBNOS1WZWxUcldwT05qRHd3V0NMMm94RkowN003Q3BIcDZ6WGZlXzA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第29届京港洽谈会将于11月在北京举行 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T01:05:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWFpEUkNXblJMNGhXNTluZzBmbDZoQXFNeE5aNWo5a00ycGI0Y24tS3ZiTG11d3pldDZWVHpScGptUHBKbk05QXZiV0RBVmpRZ08zaG5kclkydE52Z2sxQXdnWlBuNXdZYWYyakh5TTdQVWo2?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "前三季度全省经济运行稳中有升 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -202,126 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/808188"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T23:23:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808190"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T21:43:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T21:42:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:48:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808056"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平向2026全球治理论坛（雄安）致信",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:34:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/807997"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-23T19:04:37+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5"
             }
           ]
         }
@@ -384,14 +384,14 @@
       "asOf": "2026-10-22"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-22"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-23"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-22"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -399,8 +399,8 @@
       "asOf": "2026-10-20"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-22"
     },
     {
@@ -409,9 +409,49 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-23"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "从全球视野看A股硬科技产业景气度",
+      "url": "https://www.cnstock.com/commonDetail/808490",
+      "asOf": "2026-10-24T08:49:00+08:00"
+    },
+    {
+      "title": "国家外汇局拟进一步优化跨境投融资便利化政策",
+      "url": "https://www.cnstock.com/commonDetail/808480",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "花旗证券（中国）获批设立 外资独资券商增至七家",
+      "url": "https://www.cnstock.com/commonDetail/808479",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "url": "https://www.cnstock.com/commonDetail/808477",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
+      "url": "https://www.cnstock.com/commonDetail/808478",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
+      "url": "https://www.cnstock.com/commonDetail/808476",
+      "asOf": "2026-10-24T08:39:00+08:00"
+    },
+    {
+      "title": "古巴国家主席：古巴人民决心捍卫独立 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZTc4cTE3eDlWcFJnUkhNbUFfVVZhdHMzV3NUNVJqOHF2TkFEb2Y5em5UWExKOGIzSjQzcEdnNEFTTnZtVy1UMWhYQjBjS014QkM0dmNSZTBNOS1WZWxUcldwT05qRHd3V0NMMm94RkowN003Q3BIcDZ6WGZlXzA?oc=5",
+      "asOf": "2026-10-24T01:29:55+00:00"
+    },
+    {
+      "title": "第29届京港洽谈会将于11月在北京举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWFpEUkNXblJMNGhXNTluZzBmbDZoQXFNeE5aNWo5a00ycGI0Y24tS3ZiTG11d3pldDZWVHpScGptUHBKbk05QXZiV0RBVmpRZ08zaG5kclkydE52Z2sxQXdnWlBuNXdZYWYyakh5TTdQVWo2?oc=5",
+      "asOf": "2026-10-24T01:05:45+00:00"
     },
     {
       "title": "前三季度全省经济运行稳中有升 - 新华网",
@@ -422,49 +462,73 @@
       "title": "商络电子：前三季度净利润约7.95亿元，同比增长462.64%",
       "url": "https://www.cnstock.com/commonDetail/808188",
       "asOf": "2026-10-23T23:23:00+08:00"
-    },
-    {
-      "title": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
-      "url": "https://www.cnstock.com/commonDetail/808190",
-      "asOf": "2026-10-23T23:23:00+08:00"
-    },
-    {
-      "title": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
-      "asOf": "2026-10-23T21:43:03+00:00"
-    },
-    {
-      "title": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5",
-      "asOf": "2026-10-23T21:42:59+00:00"
-    },
-    {
-      "title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
-      "url": "https://www.cnstock.com/commonDetail/808056",
-      "asOf": "2026-10-23T19:48:00+08:00"
-    },
-    {
-      "title": "习近平向2026全球治理论坛（雄安）致信",
-      "url": "https://www.cnstock.com/commonDetail/807997",
-      "asOf": "2026-10-23T19:34:00+08:00"
-    },
-    {
-      "title": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
-    },
-    {
-      "title": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
-      "asOf": "2026-10-23T19:04:37+00:00"
     }
   ],
   "events": [
+    {
+      "event": "从全球视野看A股硬科技产业景气度",
+      "originalTitle": "从全球视野看A股硬科技产业景气度",
+      "published": "2026-10-24T08:49:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808490",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国家外汇局拟进一步优化跨境投融资便利化政策",
+      "originalTitle": "国家外汇局拟进一步优化跨境投融资便利化政策",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808480",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "花旗证券（中国）获批设立 外资独资券商增至七家",
+      "originalTitle": "花旗证券（中国）获批设立 外资独资券商增至七家",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808479",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "originalTitle": "证监会就私募投资母基金新规征求意见 对长期资金投资设置差异化投资比例要求",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808477",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
+      "originalTitle": "财政部将抓紧做好提前下达2027年部分新增地方政府债务限额工作",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808478",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
+      "originalTitle": "国办发文拓展新兴领域人工智能就业新空间 减缓人工智能应用就业替代影响 实施人工智能专项培训计划",
+      "published": "2026-10-24T08:39:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/808476",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "古巴国家主席：古巴人民决心捍卫独立 - 新华网",
+      "published": "2026-10-24T01:29:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZTc4cTE3eDlWcFJnUkhNbUFfVVZhdHMzV3NUNVJqOHF2TkFEb2Y5em5UWExKOGIzSjQzcEdnNEFTTnZtVy1UMWhYQjBjS014QkM0dmNSZTBNOS1WZWxUcldwT05qRHd3V0NMMm94RkowN003Q3BIcDZ6WGZlXzA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "古巴国家主席：古巴人民决心捍卫独立 - 新华网"
+    },
+    {
+      "event": "第29届京港洽谈会将于11月在北京举行 - 新华网",
+      "published": "2026-10-24T01:05:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWFpEUkNXblJMNGhXNTluZzBmbDZoQXFNeE5aNWo5a00ycGI0Y24tS3ZiTG11d3pldDZWVHpScGptUHBKbk05QXZiV0RBVmpRZ08zaG5kclkydE52Z2sxQXdnWlBuNXdZYWYyakh5TTdQVWo2?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第29届京港洽谈会将于11月在北京举行 - 新华网"
+    },
     {
       "event": "前三季度全省经济运行稳中有升 - 新华网",
       "published": "2026-10-24T00:49:32+00:00",
@@ -480,70 +544,6 @@
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/808188",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
-      "originalTitle": "金风科技：前三季度净利润约28.75亿元，同比增长11.25%",
-      "published": "2026-10-23T23:23:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/808190",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网",
-      "published": "2026-10-23T21:43:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcE1lbkFLaURjRXVFYkNzbUMycGdmZEI4bmlQMHZZNWM5VGcyWG1YSlprZG8yVEJya3g3QTY1M1FmMkNvTldBR3g2MW1sR24zUy1xaDFXeFRZdnFyZm9jZ2w5QnBpbVpzOUNOTWk0TlRUc1pXQzd4c3pmZU9XNXc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "古巴外长驳斥特朗普“顺道解决古巴”言论 - 新华网"
-    },
-    {
-      "event": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网",
-      "published": "2026-10-23T21:42:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMmpUNHJYZXZTV1dueXdEYl9FOXNRUm84VHdtM1NmQjA5SGhDaW0tNEFzaEFmR1RRMjVLUlI2OWtOYmEtSXJrckJNU29pY3dzV1lfNG9LaER0bFFpUXNpX1lhMGsxcUItazYxQURQQ3RiWjBpZ2tkaXRMWkpXUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "以色列总理有关应对国际制裁言论引发国内担忧 - 新华网"
-    },
-    {
-      "event": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
-      "originalTitle": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
-      "published": "2026-10-23T19:48:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/808056",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "习近平向2026全球治理论坛（雄安）致信",
-      "originalTitle": "习近平向2026全球治理论坛（雄安）致信",
-      "published": "2026-10-23T19:34:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/807997",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZ295cW1OdnczY3JFbjF3b1RXbURIaTBuMG1LNTNEUXZVd2dzaFlqTXlZa1BTUkFfTVNFRENQcVN5UHp1bDlHODVLdFBZWnd3OTBTR0w2Z1FhMVNYUUo2MGFDZnBjeFAwakotdXdB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海洗霸科技股份有限公司委托理财进展公告 - 上海证券报电子版"
-    },
-    {
-      "event": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeWZQS2kwOHJ0ZnZQNFlzU21yc2ZiYnZERGVLYllSN28wM043cWUwREtHOE9BOEdfYk9Qb2VyUEpEYlhDaWx3TlFEWVBJdHU0T3U4QUREVzM2OFB3dU1CMVB4UTBTZEJnVFBFdU13?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "浙江正裕工业股份有限公司股票交易风险提示公告 - 上海证券报电子版"
-    },
-    {
-      "event": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版",
-      "published": "2026-10-23T19:04:37+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CU3RhM1NDZVd2c3hyZVZwcFlrQTREcVZlZGJpbURsNktSV0FQMC02UlFOTXRpZTg4eE9qUnVuUndOcGE0ZTZ0T0dQbk5uQ3dLSnMzZkRDcjd4cE1QakZIT3MxaG9SXzZCQVN3bE9R?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "格尔软件股份有限公司关于公司涉及诉讼的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,6 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
