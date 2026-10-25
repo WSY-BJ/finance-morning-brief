@@ -1,0 +1,581 @@
+{
+  "edition": "财经晨报 · 2026-10-26",
+  "date": "更新于北京时间 2026-10-26 07:14",
+  "reportDate": "2026-10-26",
+  "updatedAt": "2026-10-26T07:14:05+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-26 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-23：7,623.68 点；较 2026-10-22 变化 -39.75 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-22：4.96 %；较 2026-10-21 变化 -0.17 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.65 %；变化 -0.16 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.96 %；变化 -0.17 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-22；前值 5.13（2026-10-21）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.81 点；变化 +0.20 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 101.61（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,623.68 点；变化 -39.75 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 7,663.43（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "25,955.34 点；变化 -53.52 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 26,008.86（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 6.6779（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "巴西总统选举第二轮投票结束 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T22:48:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "富创精密：每10股派2元，股权登记日为10月29日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月25日，富创精密发布2026年半年度权益分派实施公告称，本次权益分派以权益分派股权登记日登记的总股本扣除回购专用证券账户中股份数量为基数，向全体股东每10股派发现金红利2.00元（含税），不送红股，不实施资本公积转增股本。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/809720"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/809716"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月25日，广钢气体发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约13.19亿股扣除库存股37.12万股后的约13.19亿股为基数，向全体股东每10股派发现金红利0.78元（含税），对应每股现金红利0.078"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/809715"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T22:04:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T21:39:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "科技龙头齐发声！向投资者传递信心",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T21:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/810011"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T21:10:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T20:58:27+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T20:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/809970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 18 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-22 前值 7663.4302，2026-10-23 现值 7623.6802，变化 -39.7500。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-22"
+    },
+    {
+      "title": "巴西总统选举第二轮投票结束 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5",
+      "asOf": "2026-10-25T22:48:54+00:00"
+    },
+    {
+      "title": "富创精密：每10股派2元，股权登记日为10月29日",
+      "url": "https://www.cnstock.com/commonDetail/809720",
+      "asOf": "2026-10-25T22:39:00+08:00"
+    },
+    {
+      "title": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "url": "https://www.cnstock.com/commonDetail/809716",
+      "asOf": "2026-10-25T22:39:00+08:00"
+    },
+    {
+      "title": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "url": "https://www.cnstock.com/commonDetail/809715",
+      "asOf": "2026-10-25T22:39:00+08:00"
+    },
+    {
+      "title": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5",
+      "asOf": "2026-10-25T22:04:05+00:00"
+    },
+    {
+      "title": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5",
+      "asOf": "2026-10-25T21:39:19+00:00"
+    },
+    {
+      "title": "科技龙头齐发声！向投资者传递信心",
+      "url": "https://www.cnstock.com/commonDetail/810011",
+      "asOf": "2026-10-25T21:23:00+08:00"
+    },
+    {
+      "title": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5",
+      "asOf": "2026-10-25T21:10:40+00:00"
+    },
+    {
+      "title": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5",
+      "asOf": "2026-10-25T20:58:27+00:00"
+    },
+    {
+      "title": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "url": "https://www.cnstock.com/commonDetail/809970",
+      "asOf": "2026-10-25T20:31:00+08:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "巴西总统选举第二轮投票结束 - 新华网",
+      "published": "2026-10-25T22:48:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴西总统选举第二轮投票结束 - 新华网"
+    },
+    {
+      "event": "富创精密：每10股派2元，股权登记日为10月29日",
+      "originalTitle": "富创精密：每10股派2元，股权登记日为10月29日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809720",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/809720",
+        "retrievedAt": "2026-10-26T07:14:05.698799+08:00",
+        "sha256": "5346a1862cf8fdfafe58a4d54268ed3768740cea39b228393213af30f02365b8",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月25日，富创精密发布2026年半年度权益分派实施公告称，本次权益分派以权益分派股权登记日登记的总股本扣除回购专用证券账户中股份数量为基数，向全体股东每10股派发现金红利2.00元（含税），不送红股，不实施资本公积转增股本。"
+      }
+    },
+    {
+      "event": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "originalTitle": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809716",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "originalTitle": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809715",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/809715",
+        "retrievedAt": "2026-10-26T07:14:05.698799+08:00",
+        "sha256": "1593ad5cbf0cc2c15c300ebb4bddd063742efb42a01efc607d5c00ff84f036db",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月25日，广钢气体发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约13.19亿股扣除库存股37.12万股后的约13.19亿股为基数，向全体股东每10股派发现金红利0.78元（含税），对应每股现金红利0.078"
+      }
+    },
+    {
+      "event": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
+      "published": "2026-10-25T22:04:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网"
+    },
+    {
+      "event": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
+      "published": "2026-10-25T21:39:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网"
+    },
+    {
+      "event": "科技龙头齐发声！向投资者传递信心",
+      "originalTitle": "科技龙头齐发声！向投资者传递信心",
+      "published": "2026-10-25T21:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/810011",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
+      "published": "2026-10-25T21:10:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网"
+    },
+    {
+      "event": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
+      "published": "2026-10-25T20:58:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网"
+    },
+    {
+      "event": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "originalTitle": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "published": "2026-10-25T20:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809970",
+      "evidenceLevel": "headline-only"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}

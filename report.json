@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-25",
-  "date": "更新于北京时间 2026-10-25 12:42",
-  "reportDate": "2026-10-25",
-  "updatedAt": "2026-10-25T12:42:56+08:00",
+  "edition": "财经晨报 · 2026-10-26",
+  "date": "更新于北京时间 2026-10-26 07:14",
+  "reportDate": "2026-10-26",
+  "updatedAt": "2026-10-26T07:14:05+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-25 财经资料（待核验）",
+    "title": "2026-10-26 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-23：111.70 美元/桶；较 2026-10-22 变化 -1.47 美元/桶。",
+          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "111.70 美元/桶；变化 -1.47 美元/桶",
+          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
           "paragraphs": [
             "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
           ],
@@ -177,151 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
+          "title": "巴西总统选举第二轮投票结束 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T10:34:00+08:00；来源：新华社。",
+            "发布时间：2026-10-25T22:48:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808774"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "不能忘，常思量——歌声里的光复记忆 - 新华网",
+          "title": "富创精密：每10股派2元，股权登记日为10月29日",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T04:27:48+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月25日，富创精密发布2026年半年度权益分派实施公告称，本次权益分派以权益分派股权登记日登记的总股本扣除回购专用证券账户中股份数量为基数，向全体股东每10股派发现金红利2.00元（含税），不送红股，不实施资本公积转增股本。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/809720"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
+          "title": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T04:23:08+00:00；来源：新华网。",
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/809716"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
+          "title": "广钢气体：每10股派0.78元，股权登记日为10月30日",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T04:14:52+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-25T22:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月25日，广钢气体发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约13.19亿股扣除库存股37.12万股后的约13.19亿股为基数，向全体股东每10股派发现金红利0.78元（含税），对应每股现金红利0.078"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/809715"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江苏泗洪：农田托管 省心增收 - 新华网",
+          "title": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T02:27:31+00:00；来源：新华网。",
+            "发布时间：2026-10-25T22:04:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "多家德企何以重仓中国 - 新华网",
+          "title": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T01:55:02+00:00；来源：新华网。",
+            "发布时间：2026-10-25T21:39:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYXhhNTZJVG1OYms3WnZqZmJ6NW5kYjRldDJSYWgxdHdIT1NGQXY4X2pvZ3ZUelhXakVleUExbk0ta1lpQmlKZk9sSUZHcTh6MC0wNzJMX2NsYmZDbkJnZGZrdFVJeHotUzhJYWtRUU5Rc1hucGhEaWtNWEU4OUE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "烟霾遮蔽 吉隆坡双子塔在哪里 - 新华网",
+          "title": "科技龙头齐发声！向投资者传递信心",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T01:53:25+00:00；来源：新华网。",
+            "发布时间：2026-10-25T21:23:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSGVLVHpaeko5akRUMExuRDhXNlBwczJfWGlvamJNQm9kczB2WEpzU1ZjcFFXSFV4eXllMUVDLVB6bURac1A0eFlLWDlHQWlnTXlUaThHZVhqTzNYNVUtOU1lcUFuM2paLWo0d0lyM1ljN2o0UmpMTWhRamp4ZkE?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/810011"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
+          "title": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T01:48:15+00:00；来源：新华网。",
+            "发布时间：2026-10-25T21:10:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
+          "title": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T01:45:18+00:00；来源：新华网重庆。",
+            "发布时间：2026-10-25T20:58:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "权威数读·观中国【10月18日—10月24日】 - 新华网",
+          "title": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T01:24:03+00:00；来源：新华网。",
+            "发布时间：2026-10-25T20:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/809970"
             }
           ]
         }
@@ -345,7 +347,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 17 课：情景分析",
+      "title": "第 18 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -414,136 +416,150 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
-      "url": "https://www.cnstock.com/commonDetail/808774",
-      "asOf": "2026-10-25T10:34:00+08:00"
+      "title": "巴西总统选举第二轮投票结束 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5",
+      "asOf": "2026-10-25T22:48:54+00:00"
     },
     {
-      "title": "不能忘，常思量——歌声里的光复记忆 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5",
-      "asOf": "2026-10-25T04:27:48+00:00"
+      "title": "富创精密：每10股派2元，股权登记日为10月29日",
+      "url": "https://www.cnstock.com/commonDetail/809720",
+      "asOf": "2026-10-25T22:39:00+08:00"
     },
     {
-      "title": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5",
-      "asOf": "2026-10-25T04:23:08+00:00"
+      "title": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "url": "https://www.cnstock.com/commonDetail/809716",
+      "asOf": "2026-10-25T22:39:00+08:00"
     },
     {
-      "title": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5",
-      "asOf": "2026-10-25T04:14:52+00:00"
+      "title": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "url": "https://www.cnstock.com/commonDetail/809715",
+      "asOf": "2026-10-25T22:39:00+08:00"
     },
     {
-      "title": "江苏泗洪：农田托管 省心增收 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5",
-      "asOf": "2026-10-25T02:27:31+00:00"
+      "title": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5",
+      "asOf": "2026-10-25T22:04:05+00:00"
     },
     {
-      "title": "多家德企何以重仓中国 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYXhhNTZJVG1OYms3WnZqZmJ6NW5kYjRldDJSYWgxdHdIT1NGQXY4X2pvZ3ZUelhXakVleUExbk0ta1lpQmlKZk9sSUZHcTh6MC0wNzJMX2NsYmZDbkJnZGZrdFVJeHotUzhJYWtRUU5Rc1hucGhEaWtNWEU4OUE?oc=5",
-      "asOf": "2026-10-25T01:55:02+00:00"
+      "title": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5",
+      "asOf": "2026-10-25T21:39:19+00:00"
     },
     {
-      "title": "烟霾遮蔽 吉隆坡双子塔在哪里 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSGVLVHpaeko5akRUMExuRDhXNlBwczJfWGlvamJNQm9kczB2WEpzU1ZjcFFXSFV4eXllMUVDLVB6bURac1A0eFlLWDlHQWlnTXlUaThHZVhqTzNYNVUtOU1lcUFuM2paLWo0d0lyM1ljN2o0UmpMTWhRamp4ZkE?oc=5",
-      "asOf": "2026-10-25T01:53:25+00:00"
+      "title": "科技龙头齐发声！向投资者传递信心",
+      "url": "https://www.cnstock.com/commonDetail/810011",
+      "asOf": "2026-10-25T21:23:00+08:00"
     },
     {
-      "title": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5",
-      "asOf": "2026-10-25T01:48:15+00:00"
+      "title": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5",
+      "asOf": "2026-10-25T21:10:40+00:00"
     },
     {
-      "title": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5",
-      "asOf": "2026-10-25T01:45:18+00:00"
+      "title": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5",
+      "asOf": "2026-10-25T20:58:27+00:00"
     },
     {
-      "title": "权威数读·观中国【10月18日—10月24日】 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5",
-      "asOf": "2026-10-25T01:24:03+00:00"
+      "title": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "url": "https://www.cnstock.com/commonDetail/809970",
+      "asOf": "2026-10-25T20:31:00+08:00"
     }
   ],
   "events": [
     {
-      "event": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
-      "originalTitle": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
-      "published": "2026-10-25T10:34:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/808774",
+      "event": "巴西总统选举第二轮投票结束 - 新华网",
+      "published": "2026-10-25T22:48:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbGZPM0hJN3R0LThtNmM5Y2ItcHBTVElXYXFwZWItaGgyS05qSG9LbXN4UkNaWGpJV0dHekZPSkVSUlJ5cDVQa096RFVLZVRobV9TWU5zTjVzZjJ5eW5saUcwYndBZWFQb2ltRXUxZUQtdFQzb3RTUDdmSjQwWFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴西总统选举第二轮投票结束 - 新华网"
+    },
+    {
+      "event": "富创精密：每10股派2元，股权登记日为10月29日",
+      "originalTitle": "富创精密：每10股派2元，股权登记日为10月29日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809720",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/809720",
+        "retrievedAt": "2026-10-26T07:14:05.698799+08:00",
+        "sha256": "5346a1862cf8fdfafe58a4d54268ed3768740cea39b228393213af30f02365b8",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月25日，富创精密发布2026年半年度权益分派实施公告称，本次权益分派以权益分派股权登记日登记的总股本扣除回购专用证券账户中股份数量为基数，向全体股东每10股派发现金红利2.00元（含税），不送红股，不实施资本公积转增股本。"
+      }
+    },
+    {
+      "event": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "originalTitle": "一鸣食品：每10股派0.30元，股权登记日为11月2日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809716",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "不能忘，常思量——歌声里的光复记忆 - 新华网",
-      "published": "2026-10-25T04:27:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5",
+      "event": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "originalTitle": "广钢气体：每10股派0.78元，股权登记日为10月30日",
+      "published": "2026-10-25T22:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809715",
       "evidenceLevel": "headline-only",
-      "originalTitle": "不能忘，常思量——歌声里的光复记忆 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/809715",
+        "retrievedAt": "2026-10-26T07:14:05.698799+08:00",
+        "sha256": "1593ad5cbf0cc2c15c300ebb4bddd063742efb42a01efc607d5c00ff84f036db",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月25日，广钢气体发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约13.19亿股扣除库存股37.12万股后的约13.19亿股为基数，向全体股东每10股派发现金红利0.78元（含税），对应每股现金红利0.078"
+      }
     },
     {
-      "event": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
-      "published": "2026-10-25T04:23:08+00:00",
+      "event": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网",
+      "published": "2026-10-25T22:04:05+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZlBPLWI0WmdnckQ3cDBIc3lhMmNQeWhRcmJQVXR0bDNBRlBlbkFSSTVpdC1yNmw4RzltZDVZTmpiWWxDcGN6akttMkw1TnhDX19wd2xUVm9IaEI4RDJJTXdZVFpOTElaNlRlX3dLd21BN3RJTm90X0NvTXpkSzg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网"
+      "originalTitle": "武契奇承认前进党在塞尔维亚议会选举中败选 - 新华网"
     },
     {
-      "event": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
-      "published": "2026-10-25T04:14:52+00:00",
+      "event": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
+      "published": "2026-10-25T21:39:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网"
+      "originalTitle": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网"
     },
     {
-      "event": "江苏泗洪：农田托管 省心增收 - 新华网",
-      "published": "2026-10-25T02:27:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "江苏泗洪：农田托管 省心增收 - 新华网"
+      "event": "科技龙头齐发声！向投资者传递信心",
+      "originalTitle": "科技龙头齐发声！向投资者传递信心",
+      "published": "2026-10-25T21:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/810011",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "多家德企何以重仓中国 - 新华网",
-      "published": "2026-10-25T01:55:02+00:00",
+      "event": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网",
+      "published": "2026-10-25T21:10:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYXhhNTZJVG1OYms3WnZqZmJ6NW5kYjRldDJSYWgxdHdIT1NGQXY4X2pvZ3ZUelhXakVleUExbk0ta1lpQmlKZk9sSUZHcTh6MC0wNzJMX2NsYmZDbkJnZGZrdFVJeHotUzhJYWtRUU5Rc1hucGhEaWtNWEU4OUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTi13TkFyUnR3RmpNTVdTYm9lczF6bk9mUTVfUGxJUUVrdE4tYmxSLXdzZy1GVm45TkdhakRwUlVMU2pzWHdfWjU2U3FpZThXb0MwQk5zNjFMYmlENDliUzB0Z1pjckZGbmpaWl9YX0Nxb0hUSmk1UXd4LUVfV2c?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "多家德企何以重仓中国 - 新华网"
+      "originalTitle": "因交通及天气原因巴西总统选举二轮投票时间延长 - 新华网"
     },
     {
-      "event": "烟霾遮蔽 吉隆坡双子塔在哪里 - 新华网",
-      "published": "2026-10-25T01:53:25+00:00",
+      "event": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网",
+      "published": "2026-10-25T20:58:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSGVLVHpaeko5akRUMExuRDhXNlBwczJfWGlvamJNQm9kczB2WEpzU1ZjcFFXSFV4eXllMUVDLVB6bURac1A0eFlLWDlHQWlnTXlUaThHZVhqTzNYNVUtOU1lcUFuM2paLWo0d0lyM1ljN2o0UmpMTWhRamp4ZkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRDB6c0lJUnJWRFpDWUx4ZUFnOXQ1dVdmYWozMXM1aUVZSGRhQTJjYjdneWFud3N5b0ExWm5CNDlsdW5DT0d6LUlyeGY2WjFKelFsY3YtR1hQbUtVMUFMRzVfQTVMOTJvV2dHOUF0UngtUThRX0I0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "烟霾遮蔽 吉隆坡双子塔在哪里 - 新华网"
+      "originalTitle": "巴西总统选举第二轮投票结束时间将延后两小时 - 新华网"
     },
     {
-      "event": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
-      "published": "2026-10-25T01:48:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网"
-    },
-    {
-      "event": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
-      "published": "2026-10-25T01:45:18+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆"
-    },
-    {
-      "event": "权威数读·观中国【10月18日—10月24日】 - 新华网",
-      "published": "2026-10-25T01:24:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "权威数读·观中国【10月18日—10月24日】 - 新华网"
+      "event": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "originalTitle": "AI需求支撑高景气度 PCB产业链三季度业绩向好",
+      "published": "2026-10-25T20:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/809970",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
@@ -557,6 +573,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
