@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-25",
-  "date": "更新于北京时间 2026-10-25 08:31",
+  "date": "更新于北京时间 2026-10-25 09:25",
   "reportDate": "2026-10-25",
-  "updatedAt": "2026-10-25T08:31:11+08:00",
+  "updatedAt": "2026-10-25T09:25:29+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.65 %；变化 -0.16 个百分点",
+          "summary": "4.69 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-22；前值 4.81（2026-10-21）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "靳伟同志任中共湖南省委副书记 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T00:35:09+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -237,6 +252,21 @@
         },
         {
           "type": "explainer",
+          "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T17:51:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -247,6 +277,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-24T17:01:17+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5"
             }
           ]
         },
@@ -277,51 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T15:10:11+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T15:09:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc05QYmU1OXlFTmV4WjdUWGFtdUlFb0g5a0x6U3FySTFISFN5ZUI1N202SWlvbDgwa0xuU3lLRllvTHQ0d2d0OEJXdWFqaGxmREdGSk51YlJBTU5fdWFvYTN4Q2FVeUNxdFlIUHd1bkR5ejBXbXlWdEdvbWQyUU0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "青藏铁路受地震影响区段全面取消限速 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T15:08:53+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FTV9jeG1Ba0ZPMGxWQVA1a2tTbFdvSGtNNm9QczBsMEM5UXJCMjJfM2FRQ3RQWnZZWXkxSWNTNFNibGxLXzVVd1pwbHhEb1pRWkxmVzhRTzl0bllvWlV0YkJQTklKTWpHSmJYSTFpTkIyM2VucmJv?oc=5"
             }
           ]
         }
@@ -379,14 +379,14 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-23"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-23"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-24"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
@@ -394,9 +394,9 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-24"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-23"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -409,9 +409,14 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-22"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "靳伟同志任中共湖南省委副书记 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5",
+      "asOf": "2026-10-25T00:35:09+00:00"
     },
     {
       "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
@@ -434,9 +439,19 @@
       "asOf": "2026-10-24T18:48:30+00:00"
     },
     {
+      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5",
+      "asOf": "2026-10-24T17:51:41+00:00"
+    },
+    {
       "title": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
       "asOf": "2026-10-24T17:17:13+00:00"
+    },
+    {
+      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
+      "asOf": "2026-10-24T17:01:17+00:00"
     },
     {
       "title": "法国示威活动致多地文化场所临时关闭 - 新华网",
@@ -447,24 +462,17 @@
       "title": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
       "asOf": "2026-10-24T16:09:25+00:00"
-    },
-    {
-      "title": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
-      "asOf": "2026-10-24T15:10:11+00:00"
-    },
-    {
-      "title": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc05QYmU1OXlFTmV4WjdUWGFtdUlFb0g5a0x6U3FySTFISFN5ZUI1N202SWlvbDgwa0xuU3lLRllvTHQ0d2d0OEJXdWFqaGxmREdGSk51YlJBTU5fdWFvYTN4Q2FVeUNxdFlIUHd1bkR5ejBXbXlWdEdvbWQyUU0?oc=5",
-      "asOf": "2026-10-24T15:09:16+00:00"
-    },
-    {
-      "title": "青藏铁路受地震影响区段全面取消限速 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FTV9jeG1Ba0ZPMGxWQVA1a2tTbFdvSGtNNm9QczBsMEM5UXJCMjJfM2FRQ3RQWnZZWXkxSWNTNFNibGxLXzVVd1pwbHhEb1pRWkxmVzhRTzl0bllvWlV0YkJQTklKTWpHSmJYSTFpTkIyM2VucmJv?oc=5",
-      "asOf": "2026-10-24T15:08:53+00:00"
     }
   ],
   "events": [
+    {
+      "event": "靳伟同志任中共湖南省委副书记 - 新华网",
+      "published": "2026-10-25T00:35:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "靳伟同志任中共湖南省委副书记 - 新华网"
+    },
     {
       "event": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
       "published": "2026-10-24T21:34:29+00:00",
@@ -498,12 +506,28 @@
       "originalTitle": "2026年10月24日 电子报 - 上海证券报电子版"
     },
     {
+      "event": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
+      "published": "2026-10-24T17:51:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网"
+    },
+    {
       "event": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网",
       "published": "2026-10-24T17:17:13+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZ1VHMUgxWGM4SV9kN0ctRTVWREp1UlpOWFFBSTV6eUlnblo3ODFmSDBKME45MnJiNVJrdTBsZU1xUnYydDZRMjVWbHB0WlpSR21ZaFJvbVpNV0RFWktBVTlLdDJJQnlVQTdRV2EtTjFCVGxiWUM4?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "锚定强国建设目标 铺就高质量发展路径——“十五五”专项规划观察之三 - 新华网"
+    },
+    {
+      "event": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网",
+      "published": "2026-10-24T17:01:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFBOU1dCS3lIRkY0d1JucFA1eFhISVJKWV9YdWozRHJoUUdvZDE5VUQ1ck9Uc0tHdHhXZFhLVlBiaGk1RkN5QWpaNmNLYkNIWGlDaURTMnpqdjc0SEhTeWlxLWNyZXAyYTVjRkpXcThjZWktaWtNTko0NlBxTms?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击 - 新华网"
     },
     {
       "event": "法国示威活动致多地文化场所临时关闭 - 新华网",
@@ -520,30 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSzAtS05xNDFta1BrYzNKbmxUdW9sZ3JmeFktOWhWNnNwWHR6LVN6WTZ1NTJLQndlcjY3TDkyOUQ1eHRfRF9yWXlXemIwS3d2RURfMXVPTVc5aDRHQWF0OWpRTjBSX3ZCQ01tbUVqSUFFbmlnOVhaNFVPVmo3QQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "泽连斯基：不会为结束冲突放弃更多领土 - 新华网"
-    },
-    {
-      "event": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网",
-      "published": "2026-10-24T15:10:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ1pzN28wUU5IYUthV252aG9oVWJTZ24tTGFvRlh2dW9wQVM4UlN6YVhab0k3bEZDOTJtbWtvUUNYaVhrWks5VXVRcW1tRkVBaFQ0enNxdkhNaXRTalM5LWp3SFg3TG9ScFpJN3YyeUJiLUM3Q3Iwck9RTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "Vlog丨两岸记者登岳阳楼，品忧乐精神 - 新华网"
-    },
-    {
-      "event": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网",
-      "published": "2026-10-24T15:09:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc05QYmU1OXlFTmV4WjdUWGFtdUlFb0g5a0x6U3FySTFISFN5ZUI1N202SWlvbDgwa0xuU3lLRllvTHQ0d2d0OEJXdWFqaGxmREdGSk51YlJBTU5fdWFvYTN4Q2FVeUNxdFlIUHd1bkR5ejBXbXlWdEdvbWQyUU0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "以军将希伯伦1500名巴勒斯坦人驱离住所 - 新华网"
-    },
-    {
-      "event": "青藏铁路受地震影响区段全面取消限速 - 新华网",
-      "published": "2026-10-24T15:08:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FTV9jeG1Ba0ZPMGxWQVA1a2tTbFdvSGtNNm9QczBsMEM5UXJCMjJfM2FRQ3RQWnZZWXkxSWNTNFNibGxLXzVVd1pwbHhEb1pRWkxmVzhRTzl0bllvWlV0YkJQTklKTWpHSmJYSTFpTkIyM2VucmJv?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "青藏铁路受地震影响区段全面取消限速 - 新华网"
     }
   ],
   "quality": {
