@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-25",
-  "date": "更新于北京时间 2026-10-25 10:10",
+  "date": "更新于北京时间 2026-10-25 12:42",
   "reportDate": "2026-10-25",
-  "updatedAt": "2026-10-25T10:10:27+08:00",
+  "updatedAt": "2026-10-25T12:42:56+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
+          "summary": "2026-10-23：111.70 美元/桶；较 2026-10-22 变化 -1.47 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
+          "summary": "111.70 美元/桶；变化 -1.47 美元/桶",
           "paragraphs": [
             "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
           ],
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6606 人民币/美元；变化 -0.0173 人民币/美元",
+          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-24；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-23；前值 6.6779（2026-10-22）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -175,6 +175,81 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T10:34:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/808774"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "不能忘，常思量——歌声里的光复记忆 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T04:27:48+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T04:23:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T04:14:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江苏泗洪：农田托管 省心增收 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-25T02:27:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "多家德企何以重仓中国 - 新华网",
@@ -207,121 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "海外“银发族”来华，爱上中国的烟火日常 - 新华网",
+          "title": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T00:39:21+00:00；来源：新华网。",
+            "发布时间：2026-10-25T01:48:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQTV5R2hFUkJDcWc2cG9GOWtGLVRCLWxGVHBsSXZMNWhidndHTjhrc3FFWWxQQVlacGJQMnprbm8tNEhGNUgwdzNyZTJNcnA1MmNzV05KT0hwcWVkUHdqbTZmUDMwZ3VfX0RMRk1MdmVYTFAwY2J3V2p1WXNCdkU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "靳伟同志任中共湖南省委副书记 - 新华网",
+          "title": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-25T00:35:09+00:00；来源：新华网。",
+            "发布时间：2026-10-25T01:45:18+00:00；来源：新华网重庆。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "法国数十万人参与新一轮示威游行 约千人被捕 - 新华网",
+          "title": "权威数读·观中国【10月18日—10月24日】 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-24T22:42:17+00:00；来源：新华网。",
+            "发布时间：2026-10-25T01:24:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YeV9nMW01RlVlcnIwY01UZWFHZXBtaExVRFVvUWFpN2xFanJvYWxmXzBjUXRMbjR4STNqY2NGS1h5Q3oxemYxV0xESXJvMkJzaThxdUdfNHA1NHFLanNEcl83eG5LWllqSm1MX1JWVmEwZ0gxcmQ2eU10a0FlNUk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T21:34:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T20:06:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/808547"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T19:44:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNndRUVo3R0NQLXpjeG4tNzN1YjRRSVJRNGpoX3p4TTExU2FCV2I2OVVYWG8wblZKRTZVUjVpS0tjNlRHb2hFcTc2TFZLVDhCOGdPZHVtdExyeU9VcTZ6RTUyUHhpNjMzSmlyMENYSVVRVTBJbFdnS21STXp0SWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026年10月24日 电子报 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T18:48:30+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-24T17:51:41+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5"
             }
           ]
         }
@@ -381,16 +381,16 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-24"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-23"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-23"
     },
     {
@@ -414,6 +414,31 @@
       "asOf": "2026-10-22"
     },
     {
+      "title": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
+      "url": "https://www.cnstock.com/commonDetail/808774",
+      "asOf": "2026-10-25T10:34:00+08:00"
+    },
+    {
+      "title": "不能忘，常思量——歌声里的光复记忆 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5",
+      "asOf": "2026-10-25T04:27:48+00:00"
+    },
+    {
+      "title": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5",
+      "asOf": "2026-10-25T04:23:08+00:00"
+    },
+    {
+      "title": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5",
+      "asOf": "2026-10-25T04:14:52+00:00"
+    },
+    {
+      "title": "江苏泗洪：农田托管 省心增收 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5",
+      "asOf": "2026-10-25T02:27:31+00:00"
+    },
+    {
       "title": "多家德企何以重仓中国 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYXhhNTZJVG1OYms3WnZqZmJ6NW5kYjRldDJSYWgxdHdIT1NGQXY4X2pvZ3ZUelhXakVleUExbk0ta1lpQmlKZk9sSUZHcTh6MC0wNzJMX2NsYmZDbkJnZGZrdFVJeHotUzhJYWtRUU5Rc1hucGhEaWtNWEU4OUE?oc=5",
       "asOf": "2026-10-25T01:55:02+00:00"
@@ -424,47 +449,62 @@
       "asOf": "2026-10-25T01:53:25+00:00"
     },
     {
-      "title": "海外“银发族”来华，爱上中国的烟火日常 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQTV5R2hFUkJDcWc2cG9GOWtGLVRCLWxGVHBsSXZMNWhidndHTjhrc3FFWWxQQVlacGJQMnprbm8tNEhGNUgwdzNyZTJNcnA1MmNzV05KT0hwcWVkUHdqbTZmUDMwZ3VfX0RMRk1MdmVYTFAwY2J3V2p1WXNCdkU?oc=5",
-      "asOf": "2026-10-25T00:39:21+00:00"
+      "title": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5",
+      "asOf": "2026-10-25T01:48:15+00:00"
     },
     {
-      "title": "靳伟同志任中共湖南省委副书记 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5",
-      "asOf": "2026-10-25T00:35:09+00:00"
+      "title": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5",
+      "asOf": "2026-10-25T01:45:18+00:00"
     },
     {
-      "title": "法国数十万人参与新一轮示威游行 约千人被捕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YeV9nMW01RlVlcnIwY01UZWFHZXBtaExVRFVvUWFpN2xFanJvYWxmXzBjUXRMbjR4STNqY2NGS1h5Q3oxemYxV0xESXJvMkJzaThxdUdfNHA1NHFLanNEcl83eG5LWllqSm1MX1JWVmEwZ0gxcmQ2eU10a0FlNUk?oc=5",
-      "asOf": "2026-10-24T22:42:17+00:00"
-    },
-    {
-      "title": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
-      "asOf": "2026-10-24T21:34:29+00:00"
-    },
-    {
-      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-      "url": "https://www.cnstock.com/commonDetail/808547",
-      "asOf": "2026-10-24T20:06:00+08:00"
-    },
-    {
-      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNndRUVo3R0NQLXpjeG4tNzN1YjRRSVJRNGpoX3p4TTExU2FCV2I2OVVYWG8wblZKRTZVUjVpS0tjNlRHb2hFcTc2TFZLVDhCOGdPZHVtdExyeU9VcTZ6RTUyUHhpNjMzSmlyMENYSVVRVTBJbFdnS21STXp0SWs?oc=5",
-      "asOf": "2026-10-24T19:44:40+00:00"
-    },
-    {
-      "title": "2026年10月24日 电子报 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-10-24T18:48:30+00:00"
-    },
-    {
-      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5",
-      "asOf": "2026-10-24T17:51:41+00:00"
+      "title": "权威数读·观中国【10月18日—10月24日】 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5",
+      "asOf": "2026-10-25T01:24:03+00:00"
     }
   ],
   "events": [
+    {
+      "event": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
+      "originalTitle": "新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话精神",
+      "published": "2026-10-25T10:34:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/808774",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "不能忘，常思量——歌声里的光复记忆 - 新华网",
+      "published": "2026-10-25T04:27:48+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkc2bjlXYUtzTWJ5ZXJpTGxMazl0VVNyZWRCRE9KZFU0c1VkQ1I3TkF0dXpKMVBLXzJQQ0xaeHEwU1VUOG1tQ3hCUnNBSDhoaV9ha3lfU0E5dGtvNFFGNGw5bzlTTnlBWjBOSzhJUWFrQ2cteVBDWm10SDNuaExfNkhNWQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "不能忘，常思量——歌声里的光复记忆 - 新华网"
+    },
+    {
+      "event": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网",
+      "published": "2026-10-25T04:23:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VM1hCNFh5LVBua3J2RTdTNGVSejJBbm83VDA4UVNSSVE2dVltb25kc25RWjNFa3piTldNOVkzMmZFN3lGYzU1UW9mMnlmNW1JWE8zd0lCR0xyRmh1TC1jLVdmRHZleVFIaDYtSGNHWHQ1SXVsX3N6ZHNrNWpJb00?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华视点丨西藏巴青震后48小时：海拔4800米的生命救援 - 新华网"
+    },
+    {
+      "event": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网",
+      "published": "2026-10-25T04:14:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZGlVRU5WS0FudE9VUVBBREZMUGZoU1JvdC0xVkh3d2ZpUDNlNnBwS2NsbEZXaVVBQmxEU0JwVnlkUTZUTWtMT2xZX1NyUDBaV2UwN1lRTjlTQ0JsNHZGam1DVVFTNllIb1BjbHB3eC1jX21QbmZsbDduZlVadFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新疆双口岸今年已通行中欧（亚）班列超1.5万列 - 新华网"
+    },
+    {
+      "event": "江苏泗洪：农田托管 省心增收 - 新华网",
+      "published": "2026-10-25T02:27:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzk0YlNlUzA4U21pUVhFeUt2VV9qQmRiM1F0dEdIMzlxdUJuRjZ4Mjl3WG1PZEY0T0ttazZQME9FLWF5ZXlBM3V1cGNaelo4emppZmVJaW1iZ1BWOEdLdHU2SWNXbWZxT29xaF9TTm94N2ZHWndfeWNGUUpMSWc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江苏泗洪：农田托管 省心增收 - 新华网"
+    },
     {
       "event": "多家德企何以重仓中国 - 新华网",
       "published": "2026-10-25T01:55:02+00:00",
@@ -482,68 +522,28 @@
       "originalTitle": "烟霾遮蔽 吉隆坡双子塔在哪里 - 新华网"
     },
     {
-      "event": "海外“银发族”来华，爱上中国的烟火日常 - 新华网",
-      "published": "2026-10-25T00:39:21+00:00",
+      "event": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网",
+      "published": "2026-10-25T01:48:15+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQTV5R2hFUkJDcWc2cG9GOWtGLVRCLWxGVHBsSXZMNWhidndHTjhrc3FFWWxQQVlacGJQMnprbm8tNEhGNUgwdzNyZTJNcnA1MmNzV05KT0hwcWVkUHdqbTZmUDMwZ3VfX0RMRk1MdmVYTFAwY2J3V2p1WXNCdkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRvX0ZUNGkxSXhkMUdiTWFnNjkzamduTmZTdVJFV05YaWRJbmNNQWhvSGtzSG9wbVVJdFk3TkNSeXhocUppb3ZjSzlMZXN2Q2N4QmcwZHNkdldWWXFsaXhXNVY0UFA3MXhIMzBZLWNTN3hFNzdVVjJkelFWRzJueQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "海外“银发族”来华，爱上中国的烟火日常 - 新华网"
+      "originalTitle": "短池全锦赛：老将徐嘉余连破亚洲、世界纪录 - 新华网"
     },
     {
-      "event": "靳伟同志任中共湖南省委副书记 - 新华网",
-      "published": "2026-10-25T00:35:09+00:00",
+      "event": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆",
+      "published": "2026-10-25T01:45:18+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rV3lMRExRVlBCRlhRTDMzYmlLeno0NTE1bjdJTl9YZ2xETnJuX2dQTnZxMG5reUxza0RLRV9LZWxlcDc1dWZ5S3l1Umx4Xy1fenZpbGpOSV9jN0hyM3QyaHRpcDM4WXhNb3pFc0pBa3Y0LUFXc0E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "护航民营经济高质量发展 重庆民企“一企一策”试点见成效 - 新华网重庆"
+    },
+    {
+      "event": "权威数读·观中国【10月18日—10月24日】 - 新华网",
+      "published": "2026-10-25T01:24:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdZMUctODBpUWQzYzEtSzl0TnFNYW8tNzN2TS1Ic1NDZzFQSVRPXy1wcnA4b0JGMDh4UGsyam15a2QzS3FXaUl4Qi1NS2Y0QVUyQXk5RDdiZVYtQk9oUlJ4b3VPQko4QUZMdy1keWUxcFhERS1sTmFVUzM4aGU1elh3OA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHRDMURTZHhHcFZlelE2X2M3a3lKREdKSXI5NGhLcTZNZWh3SnE3aXJENnU0WURVYkJhZG03RHg2YVFZd1ZtNUlraEV4NW1HYXpjbzg1N1VBLVAwdkFKZlAwRHd4M3lHSEt5Qnh5U3gxdi13SkFrYkt2S2hBVzhQc3Yybw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "靳伟同志任中共湖南省委副书记 - 新华网"
-    },
-    {
-      "event": "法国数十万人参与新一轮示威游行 约千人被捕 - 新华网",
-      "published": "2026-10-24T22:42:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YeV9nMW01RlVlcnIwY01UZWFHZXBtaExVRFVvUWFpN2xFanJvYWxmXzBjUXRMbjR4STNqY2NGS1h5Q3oxemYxV0xESXJvMkJzaThxdUdfNHA1NHFLanNEcl83eG5LWllqSm1MX1JWVmEwZ0gxcmQ2eU10a0FlNUk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "法国数十万人参与新一轮示威游行 约千人被捕 - 新华网"
-    },
-    {
-      "event": "马里军方在梅纳卡市附近发现54具遗体 - 新华网",
-      "published": "2026-10-24T21:34:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRmdSUjQwejI2T1lfeWRBVXBPQ3Ffd2sxRzQ2c3B5Ty1MdnBmemM1dnY4MlhibDhndnJjcWhobThjMFRHdm56M24ybUZxdWZZWm1LbWNqNGpkUnI0aG5veXhoN1RFQ1Jia2hPY3NqckxPQUxSRml5eTBnRDlCQ3M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "马里军方在梅纳卡市附近发现54具遗体 - 新华网"
-    },
-    {
-      "event": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-      "originalTitle": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-      "published": "2026-10-24T20:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/808547",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网",
-      "published": "2026-10-24T19:44:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNndRUVo3R0NQLXpjeG4tNzN1YjRRSVJRNGpoX3p4TTExU2FCV2I2OVVYWG8wblZKRTZVUjVpS0tjNlRHb2hFcTc2TFZLVDhCOGdPZHVtdExyeU9VcTZ6RTUyUHhpNjMzSmlyMENYSVVRVTBJbFdnS21STXp0SWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空 - 新华网"
-    },
-    {
-      "event": "2026年10月24日 电子报 - 上海证券报电子版",
-      "published": "2026-10-24T18:48:30+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026年10月24日 电子报 - 上海证券报电子版"
-    },
-    {
-      "event": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网",
-      "published": "2026-10-24T17:51:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYkJDcHp0REpxN2dUNHJGamhkREEyQlptTnF0Q2JwTVdIeFo1YWV1SFRUbGlXTHBQYWl2UzI3aVo0bkVsaVhBbVpvSTZGQTIxcGd6bk1TaTlTUHlsN1U0NFFWdFpPcV9TQjVwUWVFTERVNDcyaW9zVWZSZmhXZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判 - 新华网"
+      "originalTitle": "权威数读·观中国【10月18日—10月24日】 - 新华网"
     }
   ],
   "quality": {
