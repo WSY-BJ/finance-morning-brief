@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-26",
-  "date": "更新于北京时间 2026-10-26 09:29",
+  "date": "更新于北京时间 2026-10-26 10:11",
   "reportDate": "2026-10-26",
-  "updatedAt": "2026-10-26T09:29:14+08:00",
+  "updatedAt": "2026-10-26T10:11:11+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,22 +177,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "上证早知道｜688836，获机构席位净买入2.41亿元；300394，拟最高1.5亿元回购",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-26T08:13:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：•2026国际算电协同产业链展览会暨2026国际人工智能数据中心建设展览会将于10月26日至28日举行。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/810094"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
           "summary": "",
           "paragraphs": [
@@ -213,11 +197,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-26T08:02:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：今年以来，公募基金产品的创新备受瞩目。主动ETF实现突破性落地，指数工具向细分行业持续下沉，新模式浮动管理费基金从试点探索走向常态化供给。在业内人士看来，以产品创新为抓手，以费率改革理顺利益机制，公募行业正告别规模扩张的模式，迎来投资生态的"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/810089"
             }
           ]
@@ -244,12 +229,73 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-26T07:33:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：时至四季度，冲刺全年经济目标进入关键时期。近期，北京、陕西、云南等地密集部署重大项目推进工作，成为四季度扩投资、稳增长的重要抓手。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/810082"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "邹敬园成就体操世锦赛双杠“五冠王” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T01:55:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/810082"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTV4b3B1S2htVEsxOWxZVGpzQnBwYmU3LXVnV2ZpcXE2NXJBQU1fWHZ5eDJ3Z3ZYNER3NmlxS1ZKemJxUmp1UlRXQ0h4NEF3UnJqeHBHZjNfZFdMLXQxbmRrQjl4YVlrV29KOXRia2dxeW1vZzZsWnZPZEd4NkYwRQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "要素保障 准入破障 监管适配 国常会加力推进服务业扩能提质 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T01:49:15+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmJ0MVhJd1YySlJvNHVwNlhPMWQwWGhJN242bDRrQm1BdVFXRVBpY0FidWM0QUVGYnJ1OE93d0picHF5cDlNVGhPbUtzZV96amtkNEpydmdGN21uQUF0R0sxUmcxS1l6dDdpNDJnZ2NuZWZWY25HMEg4WjZ4cFNCWW5kTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宁波网球公开赛：卫冕冠军莱巴金娜闯进决赛 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T01:31:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlZLY3NNOGIxa1lyaFhpRTBJSU9UbExRS0Q5dFpBSG9sTmRrSzlYSjZtVmJ5TkdxV2ZZc2p5Nnd2eG1xZXJXbmViSDFGS25SckR4RENLaUFocGtvdHZsM3VwRWVYRlJnZVZVMnlmYWdzbUJnQkx1QkduWjYwOXNHRA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "澳女篮联赛悉尼火焰队三连胜 杨舒予首发未得分 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T01:28:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmlxLTh3N2E0ZWFxUEtiVzg3aURqMU1ReHZ1aUV6UEFVVkU3cHVUYlNTLUVISG1JRVJwTHRSSXB1NWgzNDZTVFFlVFR0LTVUckI1QXA5eXNudVR5M25LWlpwYnp0Nmh1bWNNMVRrRDhlaEF0NGExbXZILTRGcXFlZA?oc=5"
             }
           ]
         },
@@ -270,61 +316,16 @@
         },
         {
           "type": "explainer",
-          "title": "评剧《人世间》本月底上演 梁晓声原著改编 打造当代评剧 - 新华网",
+          "title": "中国人民银行将发行2027版熊猫贵金属纪念币 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-26T01:19:53+00:00；来源：新华网。",
+            "发布时间：2026-10-26T01:17:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMml5ZjJ1VTd6VDZ3S2pmYUx3dlBMaFp2UFM3aUhaVzNRdHFMRE44Q0tyVmJZQlNJNXV3cDRJVVNPMVQ2WTJhZ0NFaGtHS2h0NnlMaGx3dmF5VHpPcGhTRzd0OTNxQjk1bjVkZGRmUVY1STdMTXBrVFNYYw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第四届“中外戏剧交流与合作论坛”在京启幕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-26T01:19:48+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FY1I5aGlSOE5tc3NRUDBfQjFHNTFTZjZQbVFMY2dTSFBJVGlpRW8zZnpnZGtLSm1HYlE1clNncmxNZ1JTQmFiQWl0T3RoLWVsVUV2cnpya3hJbGtoOVMxWkZyR1hEZEhwS0N0SlVscmFHcHlXb3JKSUdudw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "《风声》百场 阿云嘎重现72小时迷局 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-26T01:19:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWlBpT004SEVyenZhd0FYMGN4NUlPVVVQSUJBbVZVc3hoMHNFcG81SjlqUkF4V3otMDJCckVkZ0V1Q1RJX3Noejl2TjBSMVVqZlVyUW9ZYWdRVXRVbGcxdHRXbHduZHYySlliWTFQMlRRcko1NWRHYnMyQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "委内瑞拉反对派重要人物回国 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-26T01:17:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5R2lwanlaLWNMNmF2bVZOZG4yZnR3Tnd3bEwxd0l0d2xZQzBkWTBuNGtDY0hIek90R0hGa0Vua1dyX0lVU3Y0dWxWZi16cWZScmpjM0xQWURLby1GbklCOXhwcnkyejdscGkyd0hLOFZ5dlJFX29YZ0dqdnNuRzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZHVkRWVDI0bmxBZVZlQTczUmJjN0RqOXBVRnRlbHM3MEtWX0dmS0c5aFVBd3V0ZVREOTJwX190dkZkZ0c0VzdIczktU3MxVmZiWVNIU1BGaE5CVnVLQ2d2aHEtck5kZ1hzVUN0bjhrS2tlOEI1NU1qQ3ZkVHN5Yg?oc=5"
             }
           ]
         }
@@ -382,8 +383,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-23"
     },
     {
@@ -392,8 +393,8 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-23"
     },
     {
@@ -417,11 +418,6 @@
       "asOf": "2026-10-22"
     },
     {
-      "title": "上证早知道｜688836，获机构席位净买入2.41亿元；300394，拟最高1.5亿元回购",
-      "url": "https://www.cnstock.com/commonDetail/810094",
-      "asOf": "2026-10-26T08:13:00+08:00"
-    },
-    {
       "title": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
       "url": "https://www.cnstock.com/commonDetail/810084",
       "asOf": "2026-10-26T08:02:00+08:00"
@@ -442,47 +438,37 @@
       "asOf": "2026-10-26T07:33:00+08:00"
     },
     {
+      "title": "邹敬园成就体操世锦赛双杠“五冠王” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTV4b3B1S2htVEsxOWxZVGpzQnBwYmU3LXVnV2ZpcXE2NXJBQU1fWHZ5eDJ3Z3ZYNER3NmlxS1ZKemJxUmp1UlRXQ0h4NEF3UnJqeHBHZjNfZFdMLXQxbmRrQjl4YVlrV29KOXRia2dxeW1vZzZsWnZPZEd4NkYwRQ?oc=5",
+      "asOf": "2026-10-26T01:55:05+00:00"
+    },
+    {
+      "title": "要素保障 准入破障 监管适配 国常会加力推进服务业扩能提质 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmJ0MVhJd1YySlJvNHVwNlhPMWQwWGhJN242bDRrQm1BdVFXRVBpY0FidWM0QUVGYnJ1OE93d0picHF5cDlNVGhPbUtzZV96amtkNEpydmdGN21uQUF0R0sxUmcxS1l6dDdpNDJnZ2NuZWZWY25HMEg4WjZ4cFNCWW5kTQ?oc=5",
+      "asOf": "2026-10-26T01:49:15+00:00"
+    },
+    {
+      "title": "宁波网球公开赛：卫冕冠军莱巴金娜闯进决赛 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlZLY3NNOGIxa1lyaFhpRTBJSU9UbExRS0Q5dFpBSG9sTmRrSzlYSjZtVmJ5TkdxV2ZZc2p5Nnd2eG1xZXJXbmViSDFGS25SckR4RENLaUFocGtvdHZsM3VwRWVYRlJnZVZVMnlmYWdzbUJnQkx1QkduWjYwOXNHRA?oc=5",
+      "asOf": "2026-10-26T01:31:45+00:00"
+    },
+    {
+      "title": "澳女篮联赛悉尼火焰队三连胜 杨舒予首发未得分 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmlxLTh3N2E0ZWFxUEtiVzg3aURqMU1ReHZ1aUV6UEFVVkU3cHVUYlNTLUVISG1JRVJwTHRSSXB1NWgzNDZTVFFlVFR0LTVUckI1QXA5eXNudVR5M25LWlpwYnp0Nmh1bWNNMVRrRDhlaEF0NGExbXZILTRGcXFlZA?oc=5",
+      "asOf": "2026-10-26T01:28:14+00:00"
+    },
+    {
       "title": "“首演效应”激活北京文化动能 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YWEZ0NWlBZFpvWUVLbFFwalZnTUo3WlVTc0cwU1dqQkhHeTZaUFNueXJyektVOWozNzhOaFRZdVRoRVE1MmxfTTJhM1dQUDV4NGgwbklRRUQzVG4xdEpodjQ4SXp2VzQ2RFpmVWZLSC1NSzJqSTlBT1V6Zw?oc=5",
       "asOf": "2026-10-26T01:20:29+00:00"
     },
     {
-      "title": "评剧《人世间》本月底上演 梁晓声原著改编 打造当代评剧 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMml5ZjJ1VTd6VDZ3S2pmYUx3dlBMaFp2UFM3aUhaVzNRdHFMRE44Q0tyVmJZQlNJNXV3cDRJVVNPMVQ2WTJhZ0NFaGtHS2h0NnlMaGx3dmF5VHpPcGhTRzd0OTNxQjk1bjVkZGRmUVY1STdMTXBrVFNYYw?oc=5",
-      "asOf": "2026-10-26T01:19:53+00:00"
-    },
-    {
-      "title": "第四届“中外戏剧交流与合作论坛”在京启幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FY1I5aGlSOE5tc3NRUDBfQjFHNTFTZjZQbVFMY2dTSFBJVGlpRW8zZnpnZGtLSm1HYlE1clNncmxNZ1JTQmFiQWl0T3RoLWVsVUV2cnpya3hJbGtoOVMxWkZyR1hEZEhwS0N0SlVscmFHcHlXb3JKSUdudw?oc=5",
-      "asOf": "2026-10-26T01:19:48+00:00"
-    },
-    {
-      "title": "《风声》百场 阿云嘎重现72小时迷局 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWlBpT004SEVyenZhd0FYMGN4NUlPVVVQSUJBbVZVc3hoMHNFcG81SjlqUkF4V3otMDJCckVkZ0V1Q1RJX3Noejl2TjBSMVVqZlVyUW9ZYWdRVXRVbGcxdHRXbHduZHYySlliWTFQMlRRcko1NWRHYnMyQQ?oc=5",
-      "asOf": "2026-10-26T01:19:46+00:00"
-    },
-    {
-      "title": "委内瑞拉反对派重要人物回国 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5R2lwanlaLWNMNmF2bVZOZG4yZnR3Tnd3bEwxd0l0d2xZQzBkWTBuNGtDY0hIek90R0hGa0Vua1dyX0lVU3Y0dWxWZi16cWZScmpjM0xQWURLby1GbklCOXhwcnkyejdscGkyd0hLOFZ5dlJFX29YZ0dqdnNuRzg?oc=5",
-      "asOf": "2026-10-26T01:17:35+00:00"
+      "title": "中国人民银行将发行2027版熊猫贵金属纪念币 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZHVkRWVDI0bmxBZVZlQTczUmJjN0RqOXBVRnRlbHM3MEtWX0dmS0c5aFVBd3V0ZVREOTJwX190dkZkZ0c0VzdIczktU3MxVmZiWVNIU1BGaE5CVnVLQ2d2aHEtck5kZ1hzVUN0bjhrS2tlOEI1NU1qQ3ZkVHN5Yg?oc=5",
+      "asOf": "2026-10-26T01:17:46+00:00"
     }
   ],
   "events": [
-    {
-      "event": "上证早知道｜688836，获机构席位净买入2.41亿元；300394，拟最高1.5亿元回购",
-      "originalTitle": "上证早知道｜688836，获机构席位净买入2.41亿元；300394，拟最高1.5亿元回购",
-      "published": "2026-10-26T08:13:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/810094",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/810094",
-        "retrievedAt": "2026-10-26T09:29:14.630224+08:00",
-        "sha256": "b46a71fbab8cb063b09059553913cee5f8848273f2c9d0b6080271e0744023a2",
-        "paragraphCount": 33,
-        "excerpt": "•2026国际算电协同产业链展览会暨2026国际人工智能数据中心建设展览会将于10月26日至28日举行。"
-      }
-    },
     {
       "event": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
       "originalTitle": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
@@ -492,7 +478,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/810084",
-        "retrievedAt": "2026-10-26T09:29:14.630224+08:00",
+        "retrievedAt": "2026-10-26T10:11:11.212055+08:00",
         "sha256": "3b3eb2214a4ed27253e827bcdf9fbc04f7f301e58d82d7dfd1e5d98683c00b00",
         "paragraphCount": 15,
         "excerpt": "近年来，中国债券市场对外开放稳步推进，中国债券在WGBI中市值稳步走高。记者了解到，截至今年9月末，中国以11.9%的权重占比成为该指数第二大市场，仅次于美国；WGBI指数所涵盖的中国国债市值约4.2万亿美元"
@@ -504,7 +490,14 @@
       "published": "2026-10-26T08:02:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/810089",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/810089",
+        "retrievedAt": "2026-10-26T10:11:11.212055+08:00",
+        "sha256": "4a9c348f4e72632b4b1cad039f89c068fda4199ceed94a90daddc7256c95922d",
+        "paragraphCount": 20,
+        "excerpt": "今年以来，公募基金产品的创新备受瞩目。主动ETF实现突破性落地，指数工具向细分行业持续下沉，新模式浮动管理费基金从试点探索走向常态化供给。在业内人士看来，以产品创新为抓手，以费率改革理顺利益机制，公募行业正告别规模扩张的模式，迎来投资生态的"
+      }
     },
     {
       "event": "多位券商首席最新研判：调整不改基本面 多重数据印证A股长期价值",
@@ -515,7 +508,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/810085",
-        "retrievedAt": "2026-10-26T09:29:14.630224+08:00",
+        "retrievedAt": "2026-10-26T10:11:11.212055+08:00",
         "sha256": "fbc4823c9195137c14dbcdcce9d794da456240e17e90d2cbad7015f99ed74fd7",
         "paragraphCount": 13,
         "excerpt": "证监会主席吴清日前在2026金融街论坛年会上表示，中国经济向新向优、长期向好的支撑条件和基本趋势依然强劲，资本市场运行底层逻辑已悄然发生深刻变化，中国资产的配置价值更加凸显。"
@@ -527,7 +520,46 @@
       "published": "2026-10-26T07:33:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/810082",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/810082",
+        "retrievedAt": "2026-10-26T10:11:11.212055+08:00",
+        "sha256": "6607af938cb260a0043c0b324953f59d83271d828b727bd0c76c0d00af0661f3",
+        "paragraphCount": 15,
+        "excerpt": "时至四季度，冲刺全年经济目标进入关键时期。近期，北京、陕西、云南等地密集部署重大项目推进工作，成为四季度扩投资、稳增长的重要抓手。"
+      }
+    },
+    {
+      "event": "邹敬园成就体操世锦赛双杠“五冠王” - 新华网",
+      "published": "2026-10-26T01:55:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTV4b3B1S2htVEsxOWxZVGpzQnBwYmU3LXVnV2ZpcXE2NXJBQU1fWHZ5eDJ3Z3ZYNER3NmlxS1ZKemJxUmp1UlRXQ0h4NEF3UnJqeHBHZjNfZFdMLXQxbmRrQjl4YVlrV29KOXRia2dxeW1vZzZsWnZPZEd4NkYwRQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "邹敬园成就体操世锦赛双杠“五冠王” - 新华网"
+    },
+    {
+      "event": "要素保障 准入破障 监管适配 国常会加力推进服务业扩能提质 - 新华网",
+      "published": "2026-10-26T01:49:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmJ0MVhJd1YySlJvNHVwNlhPMWQwWGhJN242bDRrQm1BdVFXRVBpY0FidWM0QUVGYnJ1OE93d0picHF5cDlNVGhPbUtzZV96amtkNEpydmdGN21uQUF0R0sxUmcxS1l6dDdpNDJnZ2NuZWZWY25HMEg4WjZ4cFNCWW5kTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "要素保障 准入破障 监管适配 国常会加力推进服务业扩能提质 - 新华网"
+    },
+    {
+      "event": "宁波网球公开赛：卫冕冠军莱巴金娜闯进决赛 - 新华网",
+      "published": "2026-10-26T01:31:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlZLY3NNOGIxa1lyaFhpRTBJSU9UbExRS0Q5dFpBSG9sTmRrSzlYSjZtVmJ5TkdxV2ZZc2p5Nnd2eG1xZXJXbmViSDFGS25SckR4RENLaUFocGtvdHZsM3VwRWVYRlJnZVZVMnlmYWdzbUJnQkx1QkduWjYwOXNHRA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "宁波网球公开赛：卫冕冠军莱巴金娜闯进决赛 - 新华网"
+    },
+    {
+      "event": "澳女篮联赛悉尼火焰队三连胜 杨舒予首发未得分 - 新华网",
+      "published": "2026-10-26T01:28:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmlxLTh3N2E0ZWFxUEtiVzg3aURqMU1ReHZ1aUV6UEFVVkU3cHVUYlNTLUVISG1JRVJwTHRSSXB1NWgzNDZTVFFlVFR0LTVUckI1QXA5eXNudVR5M25LWlpwYnp0Nmh1bWNNMVRrRDhlaEF0NGExbXZILTRGcXFlZA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "澳女篮联赛悉尼火焰队三连胜 杨舒予首发未得分 - 新华网"
     },
     {
       "event": "“首演效应”激活北京文化动能 - 新华网",
@@ -538,36 +570,12 @@
       "originalTitle": "“首演效应”激活北京文化动能 - 新华网"
     },
     {
-      "event": "评剧《人世间》本月底上演 梁晓声原著改编 打造当代评剧 - 新华网",
-      "published": "2026-10-26T01:19:53+00:00",
+      "event": "中国人民银行将发行2027版熊猫贵金属纪念币 - 新华网",
+      "published": "2026-10-26T01:17:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMml5ZjJ1VTd6VDZ3S2pmYUx3dlBMaFp2UFM3aUhaVzNRdHFMRE44Q0tyVmJZQlNJNXV3cDRJVVNPMVQ2WTJhZ0NFaGtHS2h0NnlMaGx3dmF5VHpPcGhTRzd0OTNxQjk1bjVkZGRmUVY1STdMTXBrVFNYYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZHVkRWVDI0bmxBZVZlQTczUmJjN0RqOXBVRnRlbHM3MEtWX0dmS0c5aFVBd3V0ZVREOTJwX190dkZkZ0c0VzdIczktU3MxVmZiWVNIU1BGaE5CVnVLQ2d2aHEtck5kZ1hzVUN0bjhrS2tlOEI1NU1qQ3ZkVHN5Yg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "评剧《人世间》本月底上演 梁晓声原著改编 打造当代评剧 - 新华网"
-    },
-    {
-      "event": "第四届“中外戏剧交流与合作论坛”在京启幕 - 新华网",
-      "published": "2026-10-26T01:19:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FY1I5aGlSOE5tc3NRUDBfQjFHNTFTZjZQbVFMY2dTSFBJVGlpRW8zZnpnZGtLSm1HYlE1clNncmxNZ1JTQmFiQWl0T3RoLWVsVUV2cnpya3hJbGtoOVMxWkZyR1hEZEhwS0N0SlVscmFHcHlXb3JKSUdudw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第四届“中外戏剧交流与合作论坛”在京启幕 - 新华网"
-    },
-    {
-      "event": "《风声》百场 阿云嘎重现72小时迷局 - 新华网",
-      "published": "2026-10-26T01:19:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWlBpT004SEVyenZhd0FYMGN4NUlPVVVQSUJBbVZVc3hoMHNFcG81SjlqUkF4V3otMDJCckVkZ0V1Q1RJX3Noejl2TjBSMVVqZlVyUW9ZYWdRVXRVbGcxdHRXbHduZHYySlliWTFQMlRRcko1NWRHYnMyQQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "《风声》百场 阿云嘎重现72小时迷局 - 新华网"
-    },
-    {
-      "event": "委内瑞拉反对派重要人物回国 - 新华网",
-      "published": "2026-10-26T01:17:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5R2lwanlaLWNMNmF2bVZOZG4yZnR3Tnd3bEwxd0l0d2xZQzBkWTBuNGtDY0hIek90R0hGa0Vua1dyX0lVU3Y0dWxWZi16cWZScmpjM0xQWURLby1GbklCOXhwcnkyejdscGkyd0hLOFZ5dlJFX29YZ0dqdnNuRzg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "委内瑞拉反对派重要人物回国 - 新华网"
+      "originalTitle": "中国人民银行将发行2027版熊猫贵金属纪念币 - 新华网"
     }
   ],
   "quality": {
@@ -580,9 +588,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
