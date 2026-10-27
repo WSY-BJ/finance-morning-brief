@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-27",
-  "date": "更新于北京时间 2026-10-27 13:07",
+  "date": "更新于北京时间 2026-10-27 17:49",
   "reportDate": "2026-10-27",
-  "updatedAt": "2026-10-27T13:07:18+08:00",
+  "updatedAt": "2026-10-27T17:49:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.68 %；变化 -0.01 个百分点",
+          "summary": "4.69 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 4.69（2026-10-23）；来源：美国财政部。"
+            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,153 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "亚太股份：前三季度净利润约4.30亿元 同比增长31.00%",
+          "title": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T11:22:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月27日，亚太股份发布2026年第三季度报告称，公司前三季度实现营业收入约41.38亿元，同比增长4.14%；归属于上市公司股东的净利润约4.30亿元，同比增长31.00%；扣除非经常性损益后的净利润约4.02亿元，同比增长3"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/811700"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "奥普光电：前三季度净利润约9256.89万元 同比增长143.28%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T11:08:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T09:04:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/811689"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "赛腾股份：前三季度净利润约5.14亿元 同比增长28.29%",
+          "title": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T10:57:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月27日，赛腾股份发布2026年第三季度报告称，公司前三季度实现营业收入约28.46亿元，同比增长12.26%；利润总额约5.69亿元，同比增长13.17%；归属于上市公司股东的净利润约5.14亿元，同比增长28.29%；扣除"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/811688"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T09:49:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T09:01:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/811966"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "1—9月份全国规模以上工业企业利润增长15.5%",
+          "title": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T09:37:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T08:59:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/812078"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中金公司吸并东兴证券、信达证券顺利完成交割",
+          "title": "前三季度新疆经济运行稳步向好 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T07:50:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-27T08:54:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/811814"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "应急不兜底 央行创设稳债市新工具",
+          "title": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T07:34:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-27T08:44:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/811809"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "以色列议会选举开始投票 - 新华网",
+          "title": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T05:03:40+00:00；来源：新华网。",
+            "发布时间：2026-10-27T08:42:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nakdSNmlGRzRybWc3aGh3MWFPc2N2NjVaVndDMFRsa3ZDQjhkcWMzUEd5dnF6dU90LUJ5bWZZcXh1aVZ2cHExLXh3a3lEMl85ZEN3MGR2OUVYQUMyWWQ2YkdWSHhDX09EaXRXNGxxS2FISl9OQmRobFR0cFlENzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "蒙古国总理将东部保护区大火定性为严重生态事件 - 新华网",
+          "title": "肉牛业仍需强筋健骨 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T04:29:20+00:00；来源：新华网。",
+            "发布时间：2026-10-27T08:05:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVDFwUFVpSndMa0ZsVkRrUmdGelV0NUlLV0ZhRGI0LThaQlgwdWlsRTJzeUhCWkZXNmRHbnNUNy1oU0F0dHFYUy1sVHBvU2t1STFubEF3NGZJdkU1S3VtT0J5RnZWUEl4NE5FdTBRdEswaFFOWld6NzcxZHJfUEk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "博索纳罗阵营承认选举结果 巴副总统驳斥特朗普言论 - 新华网",
+          "title": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T04:02:44+00:00；来源：新华网。",
+            "发布时间：2026-10-27T07:53:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMVU4YV82bTN1RlJGTmpRcDdBV2ZyZjF0ZUhvaFZrR1lWU0t6LXc2MUtfTE9JcDhydXBRLWRBVG9EUEF0LVA3X2RKVVFKX3JRanl4QjFSeUduQWphMEEwcGNRVWEteVBKQmRkMzAtR0x4QmoxWmxYZkFLX0dfRGs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T07:51:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "慢火车不挣钱，为什么还要开？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T07:46:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5"
             }
           ]
         }
@@ -381,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-26"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-26"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-26"
     },
     {
@@ -401,14 +389,24 @@
       "asOf": "2026-10-26"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-26"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-26"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-26"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-23"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -416,150 +414,136 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "亚太股份：前三季度净利润约4.30亿元 同比增长31.00%",
-      "url": "https://www.cnstock.com/commonDetail/811700",
-      "asOf": "2026-10-27T11:22:00+08:00"
+      "title": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5",
+      "asOf": "2026-10-27T09:04:22+00:00"
     },
     {
-      "title": "奥普光电：前三季度净利润约9256.89万元 同比增长143.28%",
-      "url": "https://www.cnstock.com/commonDetail/811689",
-      "asOf": "2026-10-27T11:08:00+08:00"
+      "title": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5",
+      "asOf": "2026-10-27T09:01:26+00:00"
     },
     {
-      "title": "赛腾股份：前三季度净利润约5.14亿元 同比增长28.29%",
-      "url": "https://www.cnstock.com/commonDetail/811688",
-      "asOf": "2026-10-27T10:57:00+08:00"
+      "title": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5",
+      "asOf": "2026-10-27T08:59:43+00:00"
     },
     {
-      "title": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
-      "url": "https://www.cnstock.com/commonDetail/811966",
-      "asOf": "2026-10-27T09:49:00+08:00"
+      "title": "前三季度新疆经济运行稳步向好 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5",
+      "asOf": "2026-10-27T08:54:19+00:00"
     },
     {
-      "title": "1—9月份全国规模以上工业企业利润增长15.5%",
-      "url": "https://www.cnstock.com/commonDetail/812078",
-      "asOf": "2026-10-27T09:37:00+08:00"
+      "title": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5",
+      "asOf": "2026-10-27T08:44:58+00:00"
     },
     {
-      "title": "中金公司吸并东兴证券、信达证券顺利完成交割",
-      "url": "https://www.cnstock.com/commonDetail/811814",
-      "asOf": "2026-10-27T07:50:00+08:00"
+      "title": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5",
+      "asOf": "2026-10-27T08:42:47+00:00"
     },
     {
-      "title": "应急不兜底 央行创设稳债市新工具",
-      "url": "https://www.cnstock.com/commonDetail/811809",
-      "asOf": "2026-10-27T07:34:00+08:00"
+      "title": "肉牛业仍需强筋健骨 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5",
+      "asOf": "2026-10-27T08:05:46+00:00"
     },
     {
-      "title": "以色列议会选举开始投票 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nakdSNmlGRzRybWc3aGh3MWFPc2N2NjVaVndDMFRsa3ZDQjhkcWMzUEd5dnF6dU90LUJ5bWZZcXh1aVZ2cHExLXh3a3lEMl85ZEN3MGR2OUVYQUMyWWQ2YkdWSHhDX09EaXRXNGxxS2FISl9OQmRobFR0cFlENzg?oc=5",
-      "asOf": "2026-10-27T05:03:40+00:00"
+      "title": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5",
+      "asOf": "2026-10-27T07:53:23+00:00"
     },
     {
-      "title": "蒙古国总理将东部保护区大火定性为严重生态事件 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVDFwUFVpSndMa0ZsVkRrUmdGelV0NUlLV0ZhRGI0LThaQlgwdWlsRTJzeUhCWkZXNmRHbnNUNy1oU0F0dHFYUy1sVHBvU2t1STFubEF3NGZJdkU1S3VtT0J5RnZWUEl4NE5FdTBRdEswaFFOWld6NzcxZHJfUEk?oc=5",
-      "asOf": "2026-10-27T04:29:20+00:00"
+      "title": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5",
+      "asOf": "2026-10-27T07:51:01+00:00"
     },
     {
-      "title": "博索纳罗阵营承认选举结果 巴副总统驳斥特朗普言论 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMVU4YV82bTN1RlJGTmpRcDdBV2ZyZjF0ZUhvaFZrR1lWU0t6LXc2MUtfTE9JcDhydXBRLWRBVG9EUEF0LVA3X2RKVVFKX3JRanl4QjFSeUduQWphMEEwcGNRVWEteVBKQmRkMzAtR0x4QmoxWmxYZkFLX0dfRGs?oc=5",
-      "asOf": "2026-10-27T04:02:44+00:00"
+      "title": "慢火车不挣钱，为什么还要开？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5",
+      "asOf": "2026-10-27T07:46:38+00:00"
     }
   ],
   "events": [
     {
-      "event": "亚太股份：前三季度净利润约4.30亿元 同比增长31.00%",
-      "originalTitle": "亚太股份：前三季度净利润约4.30亿元 同比增长31.00%",
-      "published": "2026-10-27T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811700",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811700",
-        "retrievedAt": "2026-10-27T13:07:18.801656+08:00",
-        "sha256": "9108574429af28007948d4d5a833f3e79c6f6ef493d4c801ee994b7afdde0c42",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月27日，亚太股份发布2026年第三季度报告称，公司前三季度实现营业收入约41.38亿元，同比增长4.14%；归属于上市公司股东的净利润约4.30亿元，同比增长31.00%；扣除非经常性损益后的净利润约4.02亿元，同比增长3"
-      }
-    },
-    {
-      "event": "奥普光电：前三季度净利润约9256.89万元 同比增长143.28%",
-      "originalTitle": "奥普光电：前三季度净利润约9256.89万元 同比增长143.28%",
-      "published": "2026-10-27T11:08:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811689",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "赛腾股份：前三季度净利润约5.14亿元 同比增长28.29%",
-      "originalTitle": "赛腾股份：前三季度净利润约5.14亿元 同比增长28.29%",
-      "published": "2026-10-27T10:57:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811688",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811688",
-        "retrievedAt": "2026-10-27T13:07:18.801656+08:00",
-        "sha256": "30abf1846f84a98ef8a6f08d5417401ac88af95e327bf61484332ed76d32239d",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 10月27日，赛腾股份发布2026年第三季度报告称，公司前三季度实现营业收入约28.46亿元，同比增长12.26%；利润总额约5.69亿元，同比增长13.17%；归属于上市公司股东的净利润约5.14亿元，同比增长28.29%；扣除"
-      }
-    },
-    {
-      "event": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
-      "originalTitle": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
-      "published": "2026-10-27T09:49:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811966",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "1—9月份全国规模以上工业企业利润增长15.5%",
-      "originalTitle": "1—9月份全国规模以上工业企业利润增长15.5%",
-      "published": "2026-10-27T09:37:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/812078",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中金公司吸并东兴证券、信达证券顺利完成交割",
-      "originalTitle": "中金公司吸并东兴证券、信达证券顺利完成交割",
-      "published": "2026-10-27T07:50:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/811814",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "应急不兜底 央行创设稳债市新工具",
-      "originalTitle": "应急不兜底 央行创设稳债市新工具",
-      "published": "2026-10-27T07:34:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/811809",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "以色列议会选举开始投票 - 新华网",
-      "published": "2026-10-27T05:03:40+00:00",
+      "event": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
+      "published": "2026-10-27T09:04:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nakdSNmlGRzRybWc3aGh3MWFPc2N2NjVaVndDMFRsa3ZDQjhkcWMzUEd5dnF6dU90LUJ5bWZZcXh1aVZ2cHExLXh3a3lEMl85ZEN3MGR2OUVYQUMyWWQ2YkdWSHhDX09EaXRXNGxxS2FISl9OQmRobFR0cFlENzg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "以色列议会选举开始投票 - 新华网"
+      "originalTitle": "全视程 | 全程爱，让TA清晰无忧 - 新华网"
     },
     {
-      "event": "蒙古国总理将东部保护区大火定性为严重生态事件 - 新华网",
-      "published": "2026-10-27T04:29:20+00:00",
+      "event": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
+      "published": "2026-10-27T09:01:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVDFwUFVpSndMa0ZsVkRrUmdGelV0NUlLV0ZhRGI0LThaQlgwdWlsRTJzeUhCWkZXNmRHbnNUNy1oU0F0dHFYUy1sVHBvU2t1STFubEF3NGZJdkU1S3VtT0J5RnZWUEl4NE5FdTBRdEswaFFOWld6NzcxZHJfUEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "蒙古国总理将东部保护区大火定性为严重生态事件 - 新华网"
+      "originalTitle": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网"
     },
     {
-      "event": "博索纳罗阵营承认选举结果 巴副总统驳斥特朗普言论 - 新华网",
-      "published": "2026-10-27T04:02:44+00:00",
+      "event": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
+      "published": "2026-10-27T08:59:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMVU4YV82bTN1RlJGTmpRcDdBV2ZyZjF0ZUhvaFZrR1lWU0t6LXc2MUtfTE9JcDhydXBRLWRBVG9EUEF0LVA3X2RKVVFKX3JRanl4QjFSeUduQWphMEEwcGNRVWEteVBKQmRkMzAtR0x4QmoxWmxYZkFLX0dfRGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "博索纳罗阵营承认选举结果 巴副总统驳斥特朗普言论 - 新华网"
+      "originalTitle": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网"
+    },
+    {
+      "event": "前三季度新疆经济运行稳步向好 - 新华网",
+      "published": "2026-10-27T08:54:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前三季度新疆经济运行稳步向好 - 新华网"
+    },
+    {
+      "event": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
+      "published": "2026-10-27T08:44:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从赛场到场景：机器人如何回应产业真实需求 - 新华网"
+    },
+    {
+      "event": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
+      "published": "2026-10-27T08:42:47+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网"
+    },
+    {
+      "event": "肉牛业仍需强筋健骨 - 新华网",
+      "published": "2026-10-27T08:05:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "肉牛业仍需强筋健骨 - 新华网"
+    },
+    {
+      "event": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
+      "published": "2026-10-27T07:53:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网"
+    },
+    {
+      "event": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
+      "published": "2026-10-27T07:51:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网"
+    },
+    {
+      "event": "慢火车不挣钱，为什么还要开？ - 新华网",
+      "published": "2026-10-27T07:46:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "慢火车不挣钱，为什么还要开？ - 新华网"
     }
   ],
   "quality": {
@@ -573,11 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
