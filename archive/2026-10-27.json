@@ -1,0 +1,597 @@
+{
+  "edition": "财经晨报 · 2026-10-27",
+  "date": "更新于北京时间 2026-10-27 08:24",
+  "reportDate": "2026-10-27",
+  "updatedAt": "2026-10-27T08:24:18+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-27 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-23：7,623.68 点；较 2026-10-22 变化 -39.75 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-23：116.72 美元/桶；较 2026-10-22 变化 +3.55 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "116.72 美元/桶；变化 +3.55 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 113.17（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.69 %；变化 +0.04 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.00 %；变化 +0.04 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.81 点；变化 +0.20 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 101.61（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,623.68 点；变化 -39.75 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 7,663.43（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "25,955.34 点；变化 -53.52 点",
+          "paragraphs": [
+            "观测日 2026-10-23；前值 26,008.86（2026-10-22）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-26；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T08:12:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•2026智能机器人博览会10月27日在深圳举办，以“具身智能与全产业链协同”为核心主题，聚焦工业、商业、特种三大应用场景。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811812"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中金公司吸并东兴证券、信达证券顺利完成交割",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T07:50:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：中金公司10月26日晚发布公告称，公司换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行A股31.04亿股，其中11.36亿股将于10月29日上市流通。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811814"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "应急不兜底 央行创设稳债市新工具",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T07:34:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：债市稳市再添利器！中国人民银行10月26日宣布，设立债市非银大额赎回互换便利（Bond Market NBFI Swap Facility，简称“BNSF”）。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811809"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "央地密集部署推进服务业扩能提质 释放服务消费潜力和服务业投资空间",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T07:34:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近段时间，央地密集部署加力推进服务业扩能提质，进一步激发服务业发展新动能，释放服务消费潜力和服务业投资空间。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811810"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "观天下·人物丨卢拉：踏过苦难 续写传奇 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T00:16:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmREU3l1ZEhMa1hvYkItQWtGUXVEdl9RYk5RaFVYVTF0NC15eEY2elh2a1VnNUh1Z3pZRWxzZjZscU1GblJLdE9Rcll0NEpPNHRCWGRMc004d2lZWmhGTzJkNDBxR0ExMjdCdmtUVGJ5cGh4bXBlaDBENmxjMm8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "贝泰妮：前三季度净利润约3.10亿元，同比增长13.95%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T23:00:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/811388"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "透景生命：前三季度净利润约2102万元，同比增长263.97%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T23:00:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/811382"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "强一股份：前三季度净利润约3.72亿元，同比增长49.12%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T23:00:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/811333"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伦敦股市26日上涨 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T19:26:36+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WFFCTGhDWWFnMENkVzI5N042QVQ2bDNGN1c0cy1GQ29IMGhHUWIyZmh5TF9DbVhRd2t4bDJQVVpzU0k1Z3FiQ0FqbXIwVDZ6R2F0dGxRRW50N29TX3QxTG1oTWRzY3o1NzJ1OW1fZ2ZNSWotS2hR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "浙江宏鑫科技股份有限公司第三届董事会第二次会议决议公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-26T18:28:55+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTUDRvanphWUw1YlVwTXpYSkQwZVBDODRrdVNpdmtvZFhkNXZHdTZUb0xxN2djRlJ6dkRLUk15bkEzckg2ZjV1V3NGUUxBWGMxM3hsdDNfWWZCZS1penRrXzBjVlJHaXlCSWh5WWNn?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 19 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-22 前值 7663.4302，2026-10-23 现值 7623.6802，变化 -39.7500。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-23"
+    },
+    {
+      "title": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
+      "url": "https://www.cnstock.com/commonDetail/811812",
+      "asOf": "2026-10-27T08:12:00+08:00"
+    },
+    {
+      "title": "中金公司吸并东兴证券、信达证券顺利完成交割",
+      "url": "https://www.cnstock.com/commonDetail/811814",
+      "asOf": "2026-10-27T07:50:00+08:00"
+    },
+    {
+      "title": "应急不兜底 央行创设稳债市新工具",
+      "url": "https://www.cnstock.com/commonDetail/811809",
+      "asOf": "2026-10-27T07:34:00+08:00"
+    },
+    {
+      "title": "央地密集部署推进服务业扩能提质 释放服务消费潜力和服务业投资空间",
+      "url": "https://www.cnstock.com/commonDetail/811810",
+      "asOf": "2026-10-27T07:34:00+08:00"
+    },
+    {
+      "title": "观天下·人物丨卢拉：踏过苦难 续写传奇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmREU3l1ZEhMa1hvYkItQWtGUXVEdl9RYk5RaFVYVTF0NC15eEY2elh2a1VnNUh1Z3pZRWxzZjZscU1GblJLdE9Rcll0NEpPNHRCWGRMc004d2lZWmhGTzJkNDBxR0ExMjdCdmtUVGJ5cGh4bXBlaDBENmxjMm8?oc=5",
+      "asOf": "2026-10-27T00:16:14+00:00"
+    },
+    {
+      "title": "贝泰妮：前三季度净利润约3.10亿元，同比增长13.95%",
+      "url": "https://www.cnstock.com/commonDetail/811388",
+      "asOf": "2026-10-26T23:00:00+08:00"
+    },
+    {
+      "title": "透景生命：前三季度净利润约2102万元，同比增长263.97%",
+      "url": "https://www.cnstock.com/commonDetail/811382",
+      "asOf": "2026-10-26T23:00:00+08:00"
+    },
+    {
+      "title": "强一股份：前三季度净利润约3.72亿元，同比增长49.12%",
+      "url": "https://www.cnstock.com/commonDetail/811333",
+      "asOf": "2026-10-26T23:00:00+08:00"
+    },
+    {
+      "title": "伦敦股市26日上涨 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WFFCTGhDWWFnMENkVzI5N042QVQ2bDNGN1c0cy1GQ29IMGhHUWIyZmh5TF9DbVhRd2t4bDJQVVpzU0k1Z3FiQ0FqbXIwVDZ6R2F0dGxRRW50N29TX3QxTG1oTWRzY3o1NzJ1OW1fZ2ZNSWotS2hR?oc=5",
+      "asOf": "2026-10-26T19:26:36+00:00"
+    },
+    {
+      "title": "浙江宏鑫科技股份有限公司第三届董事会第二次会议决议公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTUDRvanphWUw1YlVwTXpYSkQwZVBDODRrdVNpdmtvZFhkNXZHdTZUb0xxN2djRlJ6dkRLUk15bkEzckg2ZjV1V3NGUUxBWGMxM3hsdDNfWWZCZS1penRrXzBjVlJHaXlCSWh5WWNn?oc=5",
+      "asOf": "2026-10-26T18:28:55+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
+      "originalTitle": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
+      "published": "2026-10-27T08:12:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811812",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811812",
+        "retrievedAt": "2026-10-27T08:24:18.487437+08:00",
+        "sha256": "e7c194a9215a4f77955649b9181d155ccfab76570613fd88cb513b71112786ea",
+        "paragraphCount": 37,
+        "excerpt": "•2026智能机器人博览会10月27日在深圳举办，以“具身智能与全产业链协同”为核心主题，聚焦工业、商业、特种三大应用场景。"
+      }
+    },
+    {
+      "event": "中金公司吸并东兴证券、信达证券顺利完成交割",
+      "originalTitle": "中金公司吸并东兴证券、信达证券顺利完成交割",
+      "published": "2026-10-27T07:50:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/811814",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811814",
+        "retrievedAt": "2026-10-27T08:24:18.487437+08:00",
+        "sha256": "34f4204e4982746b011b9d793f0fcc384bcfaeb362c3e5e987f7a30608d1fc87",
+        "paragraphCount": 10,
+        "excerpt": "中金公司10月26日晚发布公告称，公司换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行A股31.04亿股，其中11.36亿股将于10月29日上市流通。"
+      }
+    },
+    {
+      "event": "应急不兜底 央行创设稳债市新工具",
+      "originalTitle": "应急不兜底 央行创设稳债市新工具",
+      "published": "2026-10-27T07:34:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/811809",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811809",
+        "retrievedAt": "2026-10-27T08:24:18.487437+08:00",
+        "sha256": "e3edb8d71313b42c7d7df648be77067d4e07af3c0398d77d69adfa077c895193",
+        "paragraphCount": 14,
+        "excerpt": "债市稳市再添利器！中国人民银行10月26日宣布，设立债市非银大额赎回互换便利（Bond Market NBFI Swap Facility，简称“BNSF”）。"
+      }
+    },
+    {
+      "event": "央地密集部署推进服务业扩能提质 释放服务消费潜力和服务业投资空间",
+      "originalTitle": "央地密集部署推进服务业扩能提质 释放服务消费潜力和服务业投资空间",
+      "published": "2026-10-27T07:34:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/811810",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811810",
+        "retrievedAt": "2026-10-27T08:24:18.487437+08:00",
+        "sha256": "05a0ec3deb1989eb7a92fdfbeb999f16505d3c0b9d19302dc73d8d1f36ec5488",
+        "paragraphCount": 13,
+        "excerpt": "近段时间，央地密集部署加力推进服务业扩能提质，进一步激发服务业发展新动能，释放服务消费潜力和服务业投资空间。"
+      }
+    },
+    {
+      "event": "观天下·人物丨卢拉：踏过苦难 续写传奇 - 新华网",
+      "published": "2026-10-27T00:16:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmREU3l1ZEhMa1hvYkItQWtGUXVEdl9RYk5RaFVYVTF0NC15eEY2elh2a1VnNUh1Z3pZRWxzZjZscU1GblJLdE9Rcll0NEpPNHRCWGRMc004d2lZWmhGTzJkNDBxR0ExMjdCdmtUVGJ5cGh4bXBlaDBENmxjMm8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "观天下·人物丨卢拉：踏过苦难 续写传奇 - 新华网"
+    },
+    {
+      "event": "贝泰妮：前三季度净利润约3.10亿元，同比增长13.95%",
+      "originalTitle": "贝泰妮：前三季度净利润约3.10亿元，同比增长13.95%",
+      "published": "2026-10-26T23:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811388",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "透景生命：前三季度净利润约2102万元，同比增长263.97%",
+      "originalTitle": "透景生命：前三季度净利润约2102万元，同比增长263.97%",
+      "published": "2026-10-26T23:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811382",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "强一股份：前三季度净利润约3.72亿元，同比增长49.12%",
+      "originalTitle": "强一股份：前三季度净利润约3.72亿元，同比增长49.12%",
+      "published": "2026-10-26T23:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811333",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "伦敦股市26日上涨 - 新华网",
+      "published": "2026-10-26T19:26:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WFFCTGhDWWFnMENkVzI5N042QVQ2bDNGN1c0cy1GQ29IMGhHUWIyZmh5TF9DbVhRd2t4bDJQVVpzU0k1Z3FiQ0FqbXIwVDZ6R2F0dGxRRW50N29TX3QxTG1oTWRzY3o1NzJ1OW1fZ2ZNSWotS2hR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伦敦股市26日上涨 - 新华网"
+    },
+    {
+      "event": "浙江宏鑫科技股份有限公司第三届董事会第二次会议决议公告 - 上海证券报电子版",
+      "published": "2026-10-26T18:28:55+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTUDRvanphWUw1YlVwTXpYSkQwZVBDODRrdVNpdmtvZFhkNXZHdTZUb0xxN2djRlJ6dkRLUk15bkEzckg2ZjV1V3NGUUxBWGMxM3hsdDNfWWZCZS1penRrXzBjVlJHaXlCSWh5WWNn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙江宏鑫科技股份有限公司第三届董事会第二次会议决议公告 - 上海证券报电子版"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
