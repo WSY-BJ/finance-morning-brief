@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-27",
-  "date": "更新于北京时间 2026-10-27 09:53",
+  "date": "更新于北京时间 2026-10-27 10:18",
   "reportDate": "2026-10-27",
-  "updatedAt": "2026-10-27T09:53:35+08:00",
+  "updatedAt": "2026-10-27T10:18:32+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
+          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.00 个百分点",
+          "summary": "5.00 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：美国财政部。"
+            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,32 +177,65 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
+          "title": "康泰生物：前三季度净利润约0.95亿元 同比增长93.97%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T09:52:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T10:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月26日，立中集团发布2026年第三季度报告称，公司前三季度实现营业收入约288.49亿元，同比增长25.86%；归属于上市公司股东的净利润约9.29亿元，同比增长48.47%；扣除非经常性损益后的净利润约9.01亿元，同比增"
+            "原文摘要：上证智讯 10月27日，深圳康泰生物制品股份有限公司（以下简称“康泰生物”）发布2026年第三季度报告称，公司前三季度实现营业收入约18.41亿元，同比下降10.79%；归属于上市公司股东的净利润约0.95亿元，同比增长93.97%；扣除非"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/811421"
+              "url": "https://www.cnstock.com/commonDetail/811736"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
+          "title": "盘古智能：前三季度净利润约8029万元 同比增长32.45%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T09:52:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-27T10:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月27日，盘古智能发布2026年第三季度报告称，公司前三季度实现营业收入约6.10亿元，同比增长28.87%；归属于上市公司股东的净利润约8029万元，同比增长32.45%；扣除非经常性损益后的净利润约6959万元，同比增长5"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/811417"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811740"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "武汉天源：联合体中标36.40亿元储能项目",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T10:13:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月26日晚间，武汉天源发布公告称，公司近日收到灵武市华新综合能源服务有限公司发来的《中标通知书》，确定由公司（联合体牵头人）、内蒙古银河电力安装工程有限公司（联合体成员一）和宁夏交通建设股份有限公司（联合体成员二）组成的联合体"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811505"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T09:49:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 比起储能设备成本，全球储能投资方正越发看重一个指标：可融资性（bankability）。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/811966"
             }
           ]
         },
@@ -212,12 +245,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-27T09:37:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国家统计局10月27日消息，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/812078"
             }
           ]
@@ -228,12 +260,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-27T07:50:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：中金公司10月26日晚发布公告称，公司换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行A股31.04亿股，其中11.36亿股将于10月29日上市流通。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/811814"
             }
           ]
@@ -270,61 +301,31 @@
         },
         {
           "type": "explainer",
-          "title": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
+          "title": "游泳——全国锦标赛（25米）：女子50米仰泳决赛赛况 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T01:40:04+00:00；来源：新华网。",
+            "发布时间：2026-10-27T02:09:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOEFRc0ZWNG1vLWNvZ1VtZmFlbU9icVAtcWVTeEdxUGxpdnRuOU5PTm83cG0tc1NYQVBDNktTLU1ibmFiZ1VyWC1pN0l4S1VseURZNC1jNjBYWm9tTXlYWW16VnhJalNCM1RaVm9VZDZnZHpfNjRjNkp0QkZ6VmM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
+          "title": "游泳——全国锦标赛（25米）：男子100米个人混合泳决赛赛况 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T01:28:52+00:00；来源：新华网。",
+            "发布时间：2026-10-27T02:08:55+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:28:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeGFUWGpSUWZsem5OT2ZRM0haWm5JLURSZmkteWQ2Zm9PWUEwZXU2bkFDLXFzR0pheGx0a3lpYzU4bzhra3dSRnhRTzE1Q01zc0hnbkg4RFlyNFp4TmJPNzZoVlNWc1lDbmNkaXU0cGdudGtzc3Rsb1lLdzg4Qmc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:27:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWmJtYnBURk5zcGNzc3lHamJoUDVtZ2pUNUtwZzF0RktPNnAxWXcxN0tja2ZteTc1Y3owTTVIejVodTlVckhuSkhCb3dIU3lFUnNHYzVYV1ItbUNhY0Z4akVPTlY4clpwMTFZWTNwb0xPODFsOWxtTzhxV0dlSUE?oc=5"
             }
           ]
         }
@@ -382,9 +383,9 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-23"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-26"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -392,9 +393,9 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-26"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-23"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
@@ -407,24 +408,34 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-26"
-    },
-    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-23"
     },
     {
-      "title": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
-      "url": "https://www.cnstock.com/commonDetail/811421",
-      "asOf": "2026-10-27T09:52:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-23"
     },
     {
-      "title": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
-      "url": "https://www.cnstock.com/commonDetail/811417",
-      "asOf": "2026-10-27T09:52:00+08:00"
+      "title": "康泰生物：前三季度净利润约0.95亿元 同比增长93.97%",
+      "url": "https://www.cnstock.com/commonDetail/811736",
+      "asOf": "2026-10-27T10:17:00+08:00"
+    },
+    {
+      "title": "盘古智能：前三季度净利润约8029万元 同比增长32.45%",
+      "url": "https://www.cnstock.com/commonDetail/811740",
+      "asOf": "2026-10-27T10:17:00+08:00"
+    },
+    {
+      "title": "武汉天源：联合体中标36.40亿元储能项目",
+      "url": "https://www.cnstock.com/commonDetail/811505",
+      "asOf": "2026-10-27T10:13:00+08:00"
+    },
+    {
+      "title": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
+      "url": "https://www.cnstock.com/commonDetail/811966",
+      "asOf": "2026-10-27T09:49:00+08:00"
     },
     {
       "title": "1—9月份全国规模以上工业企业利润增长15.5%",
@@ -447,49 +458,76 @@
       "asOf": "2026-10-27T07:34:00+08:00"
     },
     {
-      "title": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5",
-      "asOf": "2026-10-27T01:40:04+00:00"
+      "title": "游泳——全国锦标赛（25米）：女子50米仰泳决赛赛况 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOEFRc0ZWNG1vLWNvZ1VtZmFlbU9icVAtcWVTeEdxUGxpdnRuOU5PTm83cG0tc1NYQVBDNktTLU1ibmFiZ1VyWC1pN0l4S1VseURZNC1jNjBYWm9tTXlYWW16VnhJalNCM1RaVm9VZDZnZHpfNjRjNkp0QkZ6VmM?oc=5",
+      "asOf": "2026-10-27T02:09:00+00:00"
     },
     {
-      "title": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5",
-      "asOf": "2026-10-27T01:28:52+00:00"
-    },
-    {
-      "title": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeGFUWGpSUWZsem5OT2ZRM0haWm5JLURSZmkteWQ2Zm9PWUEwZXU2bkFDLXFzR0pheGx0a3lpYzU4bzhra3dSRnhRTzE1Q01zc0hnbkg4RFlyNFp4TmJPNzZoVlNWc1lDbmNkaXU0cGdudGtzc3Rsb1lLdzg4Qmc?oc=5",
-      "asOf": "2026-10-27T01:28:01+00:00"
-    },
-    {
-      "title": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5",
-      "asOf": "2026-10-27T01:27:58+00:00"
+      "title": "游泳——全国锦标赛（25米）：男子100米个人混合泳决赛赛况 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWmJtYnBURk5zcGNzc3lHamJoUDVtZ2pUNUtwZzF0RktPNnAxWXcxN0tja2ZteTc1Y3owTTVIejVodTlVckhuSkhCb3dIU3lFUnNHYzVYV1ItbUNhY0Z4akVPTlY4clpwMTFZWTNwb0xPODFsOWxtTzhxV0dlSUE?oc=5",
+      "asOf": "2026-10-27T02:08:55+00:00"
     }
   ],
   "events": [
     {
-      "event": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
-      "originalTitle": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
-      "published": "2026-10-27T09:52:00+08:00",
+      "event": "康泰生物：前三季度净利润约0.95亿元 同比增长93.97%",
+      "originalTitle": "康泰生物：前三季度净利润约0.95亿元 同比增长93.97%",
+      "published": "2026-10-27T10:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811421",
+      "url": "https://www.cnstock.com/commonDetail/811736",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811421",
-        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
-        "sha256": "024f61d9a0cc912e1cdafd30b8cba9a5f744c6779165cb81c205aeff8ddc8a7a",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月26日，立中集团发布2026年第三季度报告称，公司前三季度实现营业收入约288.49亿元，同比增长25.86%；归属于上市公司股东的净利润约9.29亿元，同比增长48.47%；扣除非经常性损益后的净利润约9.01亿元，同比增"
+        "url": "https://www.cnstock.com/commonDetail/811736",
+        "retrievedAt": "2026-10-27T10:18:32.258881+08:00",
+        "sha256": "fb0507e85ca1105073bc73c59debdc5a096bd7a97126bf5e3008b5713e31fc86",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月27日，深圳康泰生物制品股份有限公司（以下简称“康泰生物”）发布2026年第三季度报告称，公司前三季度实现营业收入约18.41亿元，同比下降10.79%；归属于上市公司股东的净利润约0.95亿元，同比增长93.97%；扣除非"
       }
     },
     {
-      "event": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
-      "originalTitle": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
-      "published": "2026-10-27T09:52:00+08:00",
+      "event": "盘古智能：前三季度净利润约8029万元 同比增长32.45%",
+      "originalTitle": "盘古智能：前三季度净利润约8029万元 同比增长32.45%",
+      "published": "2026-10-27T10:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811417",
-      "evidenceLevel": "headline-only"
+      "url": "https://www.cnstock.com/commonDetail/811740",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811740",
+        "retrievedAt": "2026-10-27T10:18:32.258881+08:00",
+        "sha256": "0e706bc76daa5211a1b570b4add397488880ac034514b8a609d8875cc9cf7baa",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月27日，盘古智能发布2026年第三季度报告称，公司前三季度实现营业收入约6.10亿元，同比增长28.87%；归属于上市公司股东的净利润约8029万元，同比增长32.45%；扣除非经常性损益后的净利润约6959万元，同比增长5"
+      }
+    },
+    {
+      "event": "武汉天源：联合体中标36.40亿元储能项目",
+      "originalTitle": "武汉天源：联合体中标36.40亿元储能项目",
+      "published": "2026-10-27T10:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811505",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811505",
+        "retrievedAt": "2026-10-27T10:18:32.258881+08:00",
+        "sha256": "5f81d3ad0e40f8a2a8766340f72a3210cbfc19f7c5b6205efda8acb9a7068e8f",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月26日晚间，武汉天源发布公告称，公司近日收到灵武市华新综合能源服务有限公司发来的《中标通知书》，确定由公司（联合体牵头人）、内蒙古银河电力安装工程有限公司（联合体成员一）和宁夏交通建设股份有限公司（联合体成员二）组成的联合体"
+      }
+    },
+    {
+      "event": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
+      "originalTitle": "全球仅两家AAA！宁德时代储能可融资性评级“登顶”，储能竞争逻辑变了",
+      "published": "2026-10-27T09:49:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811966",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/811966",
+        "retrievedAt": "2026-10-27T10:18:32.258881+08:00",
+        "sha256": "4ba4d97f6abd8bc0f21cb3830444353f7d5a0b2c4d3ba8655b9ae5482fca622a",
+        "paragraphCount": 27,
+        "excerpt": "上证报中国证券网讯 比起储能设备成本，全球储能投资方正越发看重一个指标：可融资性（bankability）。"
+      }
     },
     {
       "event": "1—9月份全国规模以上工业企业利润增长15.5%",
@@ -497,14 +535,7 @@
       "published": "2026-10-27T09:37:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/812078",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/812078",
-        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
-        "sha256": "4ac92e23b4af05b13a8c05f6d25216e175235ad21bb81e4b4ddf11dd6506a476",
-        "paragraphCount": 9,
-        "excerpt": "上证报中国证券网讯 据国家统计局10月27日消息，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "中金公司吸并东兴证券、信达证券顺利完成交割",
@@ -512,14 +543,7 @@
       "published": "2026-10-27T07:50:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/811814",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811814",
-        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
-        "sha256": "8ebec9c6636043580b84240a08268c33e852655cd9b5ca12c15c750102b33994",
-        "paragraphCount": 10,
-        "excerpt": "中金公司10月26日晚发布公告称，公司换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行A股31.04亿股，其中11.36亿股将于10月29日上市流通。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "应急不兜底 央行创设稳债市新工具",
@@ -538,36 +562,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
-      "published": "2026-10-27T01:40:04+00:00",
+      "event": "游泳——全国锦标赛（25米）：女子50米仰泳决赛赛况 - 新华网",
+      "published": "2026-10-27T02:09:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOEFRc0ZWNG1vLWNvZ1VtZmFlbU9icVAtcWVTeEdxUGxpdnRuOU5PTm83cG0tc1NYQVBDNktTLU1ibmFiZ1VyWC1pN0l4S1VseURZNC1jNjBYWm9tTXlYWW16VnhJalNCM1RaVm9VZDZnZHpfNjRjNkp0QkZ6VmM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网"
+      "originalTitle": "游泳——全国锦标赛（25米）：女子50米仰泳决赛赛况 - 新华网"
     },
     {
-      "event": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
-      "published": "2026-10-27T01:28:52+00:00",
+      "event": "游泳——全国锦标赛（25米）：男子100米个人混合泳决赛赛况 - 新华网",
+      "published": "2026-10-27T02:08:55+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWmJtYnBURk5zcGNzc3lHamJoUDVtZ2pUNUtwZzF0RktPNnAxWXcxN0tja2ZteTc1Y3owTTVIejVodTlVckhuSkhCb3dIU3lFUnNHYzVYV1ItbUNhY0Z4akVPTlY4clpwMTFZWTNwb0xPODFsOWxtTzhxV0dlSUE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网"
-    },
-    {
-      "event": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网",
-      "published": "2026-10-27T01:28:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeGFUWGpSUWZsem5OT2ZRM0haWm5JLURSZmkteWQ2Zm9PWUEwZXU2bkFDLXFzR0pheGx0a3lpYzU4bzhra3dSRnhRTzE1Q01zc0hnbkg4RFlyNFp4TmJPNzZoVlNWc1lDbmNkaXU0cGdudGtzc3Rsb1lLdzg4Qmc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网"
-    },
-    {
-      "event": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网",
-      "published": "2026-10-27T01:27:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网"
+      "originalTitle": "游泳——全国锦标赛（25米）：男子100米个人混合泳决赛赛况 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +589,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
