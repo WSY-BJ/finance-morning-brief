@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-27",
-  "date": "更新于北京时间 2026-10-27 09:36",
+  "date": "更新于北京时间 2026-10-27 09:53",
   "reportDate": "2026-10-27",
-  "updatedAt": "2026-10-27T09:36:55+08:00",
+  "updatedAt": "2026-10-27T09:53:35+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
+          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.68 %；变化 -0.01 个百分点",
+          "summary": "4.69 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 4.69（2026-10-23）；来源：美国财政部。"
+            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.04 个百分点",
+          "summary": "5.00 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,17 +177,48 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
+          "title": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:12:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T09:52:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：•2026智能机器人博览会10月27日在深圳举办，以“具身智能与全产业链协同”为核心主题，聚焦工业、商业、特种三大应用场景。"
+            "原文摘要：上证智讯 10月26日，立中集团发布2026年第三季度报告称，公司前三季度实现营业收入约288.49亿元，同比增长25.86%；归属于上市公司股东的净利润约9.29亿元，同比增长48.47%；扣除非经常性损益后的净利润约9.01亿元，同比增"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/811812"
+              "url": "https://www.cnstock.com/commonDetail/811421"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T09:52:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/811417"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "1—9月份全国规模以上工业企业利润增长15.5%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T09:37:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据国家统计局10月27日消息，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/812078"
             }
           ]
         },
@@ -213,12 +244,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-27T07:34:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：债市稳市再添利器！中国人民银行10月26日宣布，设立债市非银大额赎回互换便利（Bond Market NBFI Swap Facility，简称“BNSF”）。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/811809"
             }
           ]
@@ -229,13 +259,42 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-27T07:34:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近段时间，央地密集部署加力推进服务业扩能提质，进一步激发服务业发展新动能，释放服务消费潜力和服务业投资空间。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/811810"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T01:40:04+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T01:28:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5"
             }
           ]
         },
@@ -266,66 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026攀岩世界杯收官 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:26:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NDYzb3NWb3kzUW9HRVNwbTF0a05KWVE3VWhsZmRjeTA4bWM3T2FOZDRDeDdRZmxvT0E5NFdOblBiMVBzV1lTam5HYkpMQlV5eUNtZ3lMa0tYVW8yNkR6SktTWVl4TGRJZkZIZDYxWG5KZDdydk94MjE5bndfS0U?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "CBA一周综述：北京队大胜创纪录 宁波队主帅“下课” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:25:11+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mdGxUMTJYTk1OT2JNaUUxZ2Q3dUxlTkRXV2ppcll3blVkdUNVRHlpdlpOdEVrVVdSMmtzdFVLX3V5VGI2ZnR0aUtKdHJXcDJRM3FpMTBpcTl4UFhFSi1IbWszSUEzTHo2OGR6MWwzUF95dzRCM2VwNFFoMnYzclE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "意甲综合：补时连入两球 国米逆转佛罗伦萨 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:22:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVXJ5aW9SeUpicFEtMWFsQmEzVFBEN0VsWUpoUDNjcUpJUkx0aEJ3ZWhSb1RwWVhyQjZ6STExWEFvUWRQcGk5WWJnT1V0T2paNXdmS2gtZDJsVGk2el9TZHNObk5QTWE4RUxjX0ZFOFdXcDFnMmpfTnpjYnZ4Tms?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "亚洲大学生篮球联赛新赛季引入主客场制 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T01:21:11+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUJtMksyWkJDdGRKczJsQlVIYmRYQkcyUTAyOE55Mm1TZmU5TzNwWW9GSVo0d25rdXhjMXBoa0V3N1J2elo4dkUxSXlmZ0pHMFhjSUdZYlh1WDkyZUFYYlNyNUM3U0hUeDFJX2V4OFE0VFBwTmNhaG10Z3ZGQW01bA?oc=5"
             }
           ]
         }
@@ -408,19 +407,29 @@
       "asOf": "2026-10-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-26"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-23"
     },
     {
-      "title": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
-      "url": "https://www.cnstock.com/commonDetail/811812",
-      "asOf": "2026-10-27T08:12:00+08:00"
+      "title": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
+      "url": "https://www.cnstock.com/commonDetail/811421",
+      "asOf": "2026-10-27T09:52:00+08:00"
+    },
+    {
+      "title": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
+      "url": "https://www.cnstock.com/commonDetail/811417",
+      "asOf": "2026-10-27T09:52:00+08:00"
+    },
+    {
+      "title": "1—9月份全国规模以上工业企业利润增长15.5%",
+      "url": "https://www.cnstock.com/commonDetail/812078",
+      "asOf": "2026-10-27T09:37:00+08:00"
     },
     {
       "title": "中金公司吸并东兴证券、信达证券顺利完成交割",
@@ -438,6 +447,16 @@
       "asOf": "2026-10-27T07:34:00+08:00"
     },
     {
+      "title": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5",
+      "asOf": "2026-10-27T01:40:04+00:00"
+    },
+    {
+      "title": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5",
+      "asOf": "2026-10-27T01:28:52+00:00"
+    },
+    {
       "title": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeGFUWGpSUWZsem5OT2ZRM0haWm5JLURSZmkteWQ2Zm9PWUEwZXU2bkFDLXFzR0pheGx0a3lpYzU4bzhra3dSRnhRTzE1Q01zc0hnbkg4RFlyNFp4TmJPNzZoVlNWc1lDbmNkaXU0cGdudGtzc3Rsb1lLdzg4Qmc?oc=5",
       "asOf": "2026-10-27T01:28:01+00:00"
@@ -446,42 +465,45 @@
       "title": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5",
       "asOf": "2026-10-27T01:27:58+00:00"
-    },
-    {
-      "title": "2026攀岩世界杯收官 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NDYzb3NWb3kzUW9HRVNwbTF0a05KWVE3VWhsZmRjeTA4bWM3T2FOZDRDeDdRZmxvT0E5NFdOblBiMVBzV1lTam5HYkpMQlV5eUNtZ3lMa0tYVW8yNkR6SktTWVl4TGRJZkZIZDYxWG5KZDdydk94MjE5bndfS0U?oc=5",
-      "asOf": "2026-10-27T01:26:33+00:00"
-    },
-    {
-      "title": "CBA一周综述：北京队大胜创纪录 宁波队主帅“下课” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mdGxUMTJYTk1OT2JNaUUxZ2Q3dUxlTkRXV2ppcll3blVkdUNVRHlpdlpOdEVrVVdSMmtzdFVLX3V5VGI2ZnR0aUtKdHJXcDJRM3FpMTBpcTl4UFhFSi1IbWszSUEzTHo2OGR6MWwzUF95dzRCM2VwNFFoMnYzclE?oc=5",
-      "asOf": "2026-10-27T01:25:11+00:00"
-    },
-    {
-      "title": "意甲综合：补时连入两球 国米逆转佛罗伦萨 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVXJ5aW9SeUpicFEtMWFsQmEzVFBEN0VsWUpoUDNjcUpJUkx0aEJ3ZWhSb1RwWVhyQjZ6STExWEFvUWRQcGk5WWJnT1V0T2paNXdmS2gtZDJsVGk2el9TZHNObk5QTWE4RUxjX0ZFOFdXcDFnMmpfTnpjYnZ4Tms?oc=5",
-      "asOf": "2026-10-27T01:22:01+00:00"
-    },
-    {
-      "title": "亚洲大学生篮球联赛新赛季引入主客场制 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUJtMksyWkJDdGRKczJsQlVIYmRYQkcyUTAyOE55Mm1TZmU5TzNwWW9GSVo0d25rdXhjMXBoa0V3N1J2elo4dkUxSXlmZ0pHMFhjSUdZYlh1WDkyZUFYYlNyNUM3U0hUeDFJX2V4OFE0VFBwTmNhaG10Z3ZGQW01bA?oc=5",
-      "asOf": "2026-10-27T01:21:11+00:00"
     }
   ],
   "events": [
     {
-      "event": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
-      "originalTitle": "上证早知道｜300672，第三季度净利大增1903.77%；003015，最高拟回购2亿元；301660，机构净买入2.49亿元",
-      "published": "2026-10-27T08:12:00+08:00",
+      "event": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
+      "originalTitle": "立中集团：前三季度净利润约9.29亿元，同比增长48.47%",
+      "published": "2026-10-27T09:52:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/811812",
+      "url": "https://www.cnstock.com/commonDetail/811421",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811812",
-        "retrievedAt": "2026-10-27T09:36:55.242365+08:00",
-        "sha256": "e7c194a9215a4f77955649b9181d155ccfab76570613fd88cb513b71112786ea",
-        "paragraphCount": 37,
-        "excerpt": "•2026智能机器人博览会10月27日在深圳举办，以“具身智能与全产业链协同”为核心主题，聚焦工业、商业、特种三大应用场景。"
+        "url": "https://www.cnstock.com/commonDetail/811421",
+        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
+        "sha256": "024f61d9a0cc912e1cdafd30b8cba9a5f744c6779165cb81c205aeff8ddc8a7a",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月26日，立中集团发布2026年第三季度报告称，公司前三季度实现营业收入约288.49亿元，同比增长25.86%；归属于上市公司股东的净利润约9.29亿元，同比增长48.47%；扣除非经常性损益后的净利润约9.01亿元，同比增"
+      }
+    },
+    {
+      "event": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
+      "originalTitle": "国民技术：前三季度净利润约899.05万元，同比增长112.19%",
+      "published": "2026-10-27T09:52:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/811417",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "1—9月份全国规模以上工业企业利润增长15.5%",
+      "originalTitle": "1—9月份全国规模以上工业企业利润增长15.5%",
+      "published": "2026-10-27T09:37:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/812078",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/812078",
+        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
+        "sha256": "4ac92e23b4af05b13a8c05f6d25216e175235ad21bb81e4b4ddf11dd6506a476",
+        "paragraphCount": 9,
+        "excerpt": "上证报中国证券网讯 据国家统计局10月27日消息，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。"
       }
     },
     {
@@ -493,8 +515,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/811814",
-        "retrievedAt": "2026-10-27T09:36:55.242365+08:00",
-        "sha256": "ad6f6dad0293b1c48e087aae33b101642546d6c63113e4a2084334959a679a10",
+        "retrievedAt": "2026-10-27T09:53:35.079703+08:00",
+        "sha256": "8ebec9c6636043580b84240a08268c33e852655cd9b5ca12c15c750102b33994",
         "paragraphCount": 10,
         "excerpt": "中金公司10月26日晚发布公告称，公司换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行A股31.04亿股，其中11.36亿股将于10月29日上市流通。"
       }
@@ -505,14 +527,7 @@
       "published": "2026-10-27T07:34:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/811809",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811809",
-        "retrievedAt": "2026-10-27T09:36:55.242365+08:00",
-        "sha256": "e3edb8d71313b42c7d7df648be77067d4e07af3c0398d77d69adfa077c895193",
-        "paragraphCount": 14,
-        "excerpt": "债市稳市再添利器！中国人民银行10月26日宣布，设立债市非银大额赎回互换便利（Bond Market NBFI Swap Facility，简称“BNSF”）。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "央地密集部署推进服务业扩能提质 释放服务消费潜力和服务业投资空间",
@@ -520,14 +535,23 @@
       "published": "2026-10-27T07:34:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/811810",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网",
+      "published": "2026-10-27T01:40:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDhqTnZzUlMwUEVWd0ZfSVAwYUhaVi1TVG5FSHJzeG5GQ0NmdG9jczhYSV90RzRaMFdoNHdYMDM3b094QW91Sy1FSHk5S0xUeW9OZXF6T2xKMmJtZWY4UUZhLWdHTlVzd3R5dWE3OElLVzlGQ1F0aFN6NE9TeUNiN1FR?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/811810",
-        "retrievedAt": "2026-10-27T09:36:55.242365+08:00",
-        "sha256": "05a0ec3deb1989eb7a92fdfbeb999f16505d3c0b9d19302dc73d8d1f36ec5488",
-        "paragraphCount": 13,
-        "excerpt": "近段时间，央地密集部署加力推进服务业扩能提质，进一步激发服务业发展新动能，释放服务消费潜力和服务业投资空间。"
-      }
+      "originalTitle": "价格从几百元到几千元！都是冲锋衣，差哪里了 - 新华网"
+    },
+    {
+      "event": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网",
+      "published": "2026-10-27T01:28:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRBV09Va09Oa3o3b2JMLXhUZjlsMGU5a2V1MHBwc0JaWU5mT1JsNGRWdlk0akgyZnE1VV95X1NIUnZMQnhyTnFFbXlaUUZTWWRjSmZ6Q0xyNFBzakJGcVZ1OVM2WGMwQ1VTZ2pGM0hGc1R4bG1zdWtMWC1CNUFLTDVTOA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "今明天冷空气影响北方多地 后天青藏高原将现较强雨雪 - 新华网"
     },
     {
       "event": "5400余名青少年角逐首届全国无人机创新教育竞赛 - 新华网",
@@ -544,38 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc2JZY1FVVnJFaWxyNDhrOUNVZnQtX0NqVHdza0ZZdGZnQlhpWDhlSHI0aS1fbW03aTZ4Y2I4TXFiRE1DTkM4OFJXSjFnX0NFYmpmOHJmWF9kRmZpR1Q3Y3hUYkpnMHVrMEJuVGFVZ25YTjlFbEtQU3lrQVNmcWs?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "逾340家绿色科技展商汇聚香港第21届国际环保博览 - 新华网"
-    },
-    {
-      "event": "2026攀岩世界杯收官 - 新华网",
-      "published": "2026-10-27T01:26:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NDYzb3NWb3kzUW9HRVNwbTF0a05KWVE3VWhsZmRjeTA4bWM3T2FOZDRDeDdRZmxvT0E5NFdOblBiMVBzV1lTam5HYkpMQlV5eUNtZ3lMa0tYVW8yNkR6SktTWVl4TGRJZkZIZDYxWG5KZDdydk94MjE5bndfS0U?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026攀岩世界杯收官 - 新华网"
-    },
-    {
-      "event": "CBA一周综述：北京队大胜创纪录 宁波队主帅“下课” - 新华网",
-      "published": "2026-10-27T01:25:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mdGxUMTJYTk1OT2JNaUUxZ2Q3dUxlTkRXV2ppcll3blVkdUNVRHlpdlpOdEVrVVdSMmtzdFVLX3V5VGI2ZnR0aUtKdHJXcDJRM3FpMTBpcTl4UFhFSi1IbWszSUEzTHo2OGR6MWwzUF95dzRCM2VwNFFoMnYzclE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "CBA一周综述：北京队大胜创纪录 宁波队主帅“下课” - 新华网"
-    },
-    {
-      "event": "意甲综合：补时连入两球 国米逆转佛罗伦萨 - 新华网",
-      "published": "2026-10-27T01:22:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVXJ5aW9SeUpicFEtMWFsQmEzVFBEN0VsWUpoUDNjcUpJUkx0aEJ3ZWhSb1RwWVhyQjZ6STExWEFvUWRQcGk5WWJnT1V0T2paNXdmS2gtZDJsVGk2el9TZHNObk5QTWE4RUxjX0ZFOFdXcDFnMmpfTnpjYnZ4Tms?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "意甲综合：补时连入两球 国米逆转佛罗伦萨 - 新华网"
-    },
-    {
-      "event": "亚洲大学生篮球联赛新赛季引入主客场制 - 新华网",
-      "published": "2026-10-27T01:21:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUJtMksyWkJDdGRKczJsQlVIYmRYQkcyUTAyOE55Mm1TZmU5TzNwWW9GSVo0d25rdXhjMXBoa0V3N1J2elo4dkUxSXlmZ0pHMFhjSUdZYlh1WDkyZUFYYlNyNUM3U0hUeDFJX2V4OFE0VFBwTmNhaG10Z3ZGQW01bA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "亚洲大学生篮球联赛新赛季引入主客场制 - 新华网"
     }
   ],
   "quality": {
@@ -588,6 +580,10 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
   }
 }
