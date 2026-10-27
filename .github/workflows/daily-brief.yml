@@ -8,6 +8,15 @@ on:
     - cron: "31 23 * * *"
     - cron: "17 0 * * *"
     - cron: "0 0 * * *"
+    - cron: "7 0 * * *"
+    - cron: "37 0 * * *"
+    - cron: "17 1 * * *"
+    - cron: "17 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - scripts/daily_delivery.py
+      - .github/workflows/daily-brief.yml
   workflow_dispatch:
     inputs:
       send_notification:
@@ -102,42 +111,27 @@ jobs:
           EXPECTED_DATE: ${{ steps.state.outputs.date }}
         run: python scripts/verify_live.py
 
-      - name: Enforce 08:00 Beijing notification window
-        id: window
-        run: |
-          hour=$(TZ=Asia/Shanghai date +%H)
-          if [ "$hour" -ge 8 ]; then echo 'ready=true' >> "$GITHUB_OUTPUT"; else echo 'ready=false' >> "$GITHUB_OUTPUT"; fi
 
-      - name: Claim daily notification before request
-        id: claim
-        if: ${{ steps.window.outputs.ready == 'true' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send_notification)) }}
+  notify:
+    name: Deliver daily message even when publication fails
+    needs: publish
+    if: ${{ always() && (github.event_name == 'schedule' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.send_notification)) }}
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+      SITE_URL: https://wsy-bj.github.io/finance-morning-brief/
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Configure delivery identity
         run: |
-          python scripts/claim_notification.py
-          git add .state/notifications/
-          if ! git diff --cached --quiet; then
-            git commit -m "Claim notification ${{ steps.state.outputs.date }}"
-            git push
-          fi
-
-      - name: Send ServerChan WeChat notification
-        id: notify
-        if: steps.claim.outputs.claimed == 'true'
-        continue-on-error: true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Send normal, limited or outage daily message
         env:
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
-        run: python scripts/notify_serverchan.py
-
-      - name: Record notification outcome
-        if: steps.claim.outputs.claimed == 'true'
-        run: |
-          git add .state/notifications/
-          if ! git diff --cached --quiet; then
-            git commit -m "Record notification acceptance ${{ steps.state.outputs.date }}"
-            git push
-          fi
-
-      - name: Surface notification failure
-        if: steps.notify.outcome == 'failure'
-        run: |
-          echo 'ServerChan request failed or was rejected; website remains published. Daily claim retained to prevent duplicate delivery.' >&2
-          exit 1
+        run: python scripts/daily_delivery.py
