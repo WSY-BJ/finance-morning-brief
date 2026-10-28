@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-27",
-  "date": "更新于北京时间 2026-10-27 17:49",
-  "reportDate": "2026-10-27",
-  "updatedAt": "2026-10-27T17:49:33+08:00",
+  "edition": "财经晨报 · 2026-10-28",
+  "date": "更新于北京时间 2026-10-28 08:29",
+  "reportDate": "2026-10-28",
+  "updatedAt": "2026-10-28T08:29:21+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-27 财经资料（待核验）",
+    "title": "2026-10-28 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-23：5.00 %；较 2026-10-22 变化 +0.04 个百分点。",
+          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.69 %；变化 +0.04 个百分点",
+          "summary": "4.70 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-23；前值 4.65（2026-10-22）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.04 个百分点",
+          "summary": "4.99 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-23；前值 4.96（2026-10-22）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6779 人民币/美元；变化 +0.0000 人民币/美元",
+          "summary": "6.6700 人民币/美元；变化 -0.0079 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-26；前值 6.6779（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 6.6779（2026-10-26）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,152 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
+          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T09:04:22+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/814739"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
+          "title": "章建平夫妇，大手笔买入601208、600601",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T09:01:26+00:00；来源：新华网。",
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/813938"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
+          "title": "国际金价，再度失守",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:59:43+00:00；来源：新华网。",
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/813929"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "前三季度新疆经济运行稳步向好 - 新华网",
+          "title": "近一个月，净流入近3500亿元！",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:54:19+00:00；来源：新华网。",
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/813750"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
+          "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:44:58+00:00；来源：新华网。",
+            "发布时间：2026-10-27T20:40:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
+          "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:42:47+00:00；来源：新华网。",
+            "发布时间：2026-10-27T19:45:01+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "肉牛业仍需强筋健骨 - 新华网",
+          "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T08:05:46+00:00；来源：新华网。",
+            "发布时间：2026-10-27T19:41:55+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
+          "title": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T07:53:23+00:00；来源：新华网。",
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
+          "title": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T07:51:01+00:00；来源：新华网。",
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "慢火车不挣钱，为什么还要开？ - 新华网",
+          "title": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T07:46:38+00:00；来源：新华网。",
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5"
             }
           ]
         }
@@ -345,7 +346,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 19 课：情景分析",
+      "title": "第 20 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,6 +380,11 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-27"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-26"
@@ -389,161 +395,163 @@
       "asOf": "2026-10-26"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-26"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-26"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-26"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-23"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-26"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-23"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-27"
     },
     {
-      "title": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5",
-      "asOf": "2026-10-27T09:04:22+00:00"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-27"
     },
     {
-      "title": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5",
-      "asOf": "2026-10-27T09:01:26+00:00"
+      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "url": "https://www.cnstock.com/commonDetail/814739",
+      "asOf": "2026-10-28T08:10:00+08:00"
     },
     {
-      "title": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5",
-      "asOf": "2026-10-27T08:59:43+00:00"
+      "title": "章建平夫妇，大手笔买入601208、600601",
+      "url": "https://www.cnstock.com/commonDetail/813938",
+      "asOf": "2026-10-27T21:26:00+08:00"
     },
     {
-      "title": "前三季度新疆经济运行稳步向好 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5",
-      "asOf": "2026-10-27T08:54:19+00:00"
+      "title": "国际金价，再度失守",
+      "url": "https://www.cnstock.com/commonDetail/813929",
+      "asOf": "2026-10-27T21:26:00+08:00"
     },
     {
-      "title": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5",
-      "asOf": "2026-10-27T08:44:58+00:00"
+      "title": "近一个月，净流入近3500亿元！",
+      "url": "https://www.cnstock.com/commonDetail/813750",
+      "asOf": "2026-10-27T21:26:00+08:00"
     },
     {
-      "title": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5",
-      "asOf": "2026-10-27T08:42:47+00:00"
+      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
+      "asOf": "2026-10-27T20:40:00+00:00"
     },
     {
-      "title": "肉牛业仍需强筋健骨 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5",
-      "asOf": "2026-10-27T08:05:46+00:00"
+      "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
+      "asOf": "2026-10-27T19:45:01+00:00"
     },
     {
-      "title": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5",
-      "asOf": "2026-10-27T07:53:23+00:00"
+      "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
+      "asOf": "2026-10-27T19:41:55+00:00"
     },
     {
-      "title": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5",
-      "asOf": "2026-10-27T07:51:01+00:00"
+      "title": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
     },
     {
-      "title": "慢火车不挣钱，为什么还要开？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5",
-      "asOf": "2026-10-27T07:46:38+00:00"
+      "title": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
+    },
+    {
+      "title": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
     }
   ],
   "events": [
     {
-      "event": "全视程 | 全程爱，让TA清晰无忧 - 新华网",
-      "published": "2026-10-27T09:04:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1RoOHMwWTRDQWVSbi1yZjBhbjhqNHpUU2tuNTRPczVOVnlYcEpLZDdzenM3bDQtT3hFUUl1Nnlra0NTblB1T0VzWUZvRjlhTnU0VHNaWmdrQ2JOa2MzM2VFRG1iQ0pLOEpRelE2a1o2SDBSdS0tbjgzMHBJejlOZA?oc=5",
+      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "published": "2026-10-28T08:10:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/814739",
       "evidenceLevel": "headline-only",
-      "originalTitle": "全视程 | 全程爱，让TA清晰无忧 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/814739",
+        "retrievedAt": "2026-10-28T08:29:21.096634+08:00",
+        "sha256": "17d8e40ded60b8814cf2007c82c5bd946b8b40f7d90d8781c6a5170497cee226",
+        "paragraphCount": 37,
+        "excerpt": "新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
+      }
     },
     {
-      "event": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网",
-      "published": "2026-10-27T09:01:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZakdZUGF0Q2o3T2d3MlZnY2o2T3MtY2JmVlNiM2NPYW5hWEg2SVM1MklYMm5pVnJQMUF1Q2NZOUREeElDN2JKb2FtUjlKTDN6U0s3eURHa1VfM2pPT2IxOTFzLV9RQ1NEaUEwMFB1RWF1Zmxqc3Bz?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济样本观察·企业样本篇丨一粒玉米胚芽的产业蝶变——吉林旭鑫油脂扎根黑土闯出玉米精深加工新路 - 新华网"
+      "event": "章建平夫妇，大手笔买入601208、600601",
+      "originalTitle": "章建平夫妇，大手笔买入601208、600601",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813938",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网",
-      "published": "2026-10-27T08:59:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hM1Q2YTNWSVpuQWlld3VMS2QtMC12N1BUbXNiV1pTT3JDX2kzY0NOVmJVS3B5SjBEYlFCUVhFOWlXT3BfZUg3cDNVUkwtUlpMWTB1LWoxT0hEeDJBVmE0ZHlsbW9xSV9LSWcxSXZ4LW12VGRJZTJZdy1Va0JEUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026钙基新材料产业高质量发展暨产业链对接大会在江西永丰举行 - 新华网"
+      "event": "国际金价，再度失守",
+      "originalTitle": "国际金价，再度失守",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813929",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "前三季度新疆经济运行稳步向好 - 新华网",
-      "published": "2026-10-27T08:54:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVEVvZ0VONHVpR3VVNUpMa1J4eHRZektacHE0Q0c2VTAta2EtVXREMjFZM2JlU29zVHF1T0VlQlc4bWhLRDJvV2p4SUNhcUdNV0tPalNOeWZac2d2UHFpWGJucDFQT2lxOGRTUjlyQlJBTnAxUEZZTjFrbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "前三季度新疆经济运行稳步向好 - 新华网"
+      "event": "近一个月，净流入近3500亿元！",
+      "originalTitle": "近一个月，净流入近3500亿元！",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813750",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "从赛场到场景：机器人如何回应产业真实需求 - 新华网",
-      "published": "2026-10-27T08:44:58+00:00",
+      "event": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+      "published": "2026-10-27T20:40:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUlRS0oxM3VVT0U3NEFsVG81UkFkYTdVLW1ta0QtZ2dZOUszQ0ZsRnBXdDhhVG16RDB2d2t2akUxMHlmWXk2clAxcnJULWhidEphT0JYY1dzb1RNbFFuSU5xVWVBT3RtYl9aSjhmZFpfdDVPeURua3lydjRjdFpib1Nn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "从赛场到场景：机器人如何回应产业真实需求 - 新华网"
+      "originalTitle": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网"
     },
     {
-      "event": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网",
-      "published": "2026-10-27T08:42:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON08xLU5fdVlDQ21kNlctdDh4V0hNSEtGZGJNZGRJc2ZxTzJQaHZ4Zm9TbkV0aG5zU3BqNVFSdHNQQmsyS094TzFxNnJBNDEwbVRiTmZGbGZSN3kyNHFNMG5CWW1HQU1NUkpJRFFMVUN3NkVtUVlwcjhscnJFSnA4cUF3?oc=5",
+      "event": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:45:01+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华视点丨从广交会爆款展品看中国外贸新图景 - 新华网"
+      "originalTitle": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版"
     },
     {
-      "event": "肉牛业仍需强筋健骨 - 新华网",
-      "published": "2026-10-27T08:05:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51cEszOU00NkZvYUhZMGw2Nl9PRGVlU2pkM3NUcGFsM2pOM1VCdWw3MVlaRmJzckdTc0VYVTd3YmY3T3piYi12RlczRWpmdzUyUGJzTkxsbldZa0pkS2hyaHU1UnFkeXRWWlJsdGhIdElJX2o0dXBOTXdQelg?oc=5",
+      "event": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:41:55+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "肉牛业仍需强筋健骨 - 新华网"
+      "originalTitle": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版"
     },
     {
-      "event": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网",
-      "published": "2026-10-27T07:53:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEVnTFpIUEhTTHVMcDJDZ0xjYUxZYnRveHYzYXB6Z2FmaUk5WnQ2SG5udk1FX0lOZVVGcDVlOXhWUlJhcFN4cm9UbnFlTFJMY2ZSNURYQ3gxOXJneU9Nc2k1NzFEUFFQUkhDV3poWlpUVzBUUmpsaUFlcVdEanhHSEpIVQ?oc=5",
+      "event": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "《长江向新》系列片第二集丨逐“绿”而行 峡岸新生 - 新华网"
+      "originalTitle": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版"
     },
     {
-      "event": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网",
-      "published": "2026-10-27T07:51:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maW0xVHR2cDExajhBelhPQ2hkS05fR0lEZk1HZlBlYlhxc1g4Y2hoTm9BX0hmb2hOS0FGZThyYUJQUGpfN0hGZEZQNFhiRElJTnhfTktrT0VDQ0phUWUyLVhwZ1VGSXlJR3pzeld3TnlGbEUxQUp5c1l4TVg1Zw?oc=5",
+      "event": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华网“书香同行·阅见未来”全民阅读公益活动落地黑龙江省勃利县 - 新华网"
+      "originalTitle": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版"
     },
     {
-      "event": "慢火车不挣钱，为什么还要开？ - 新华网",
-      "published": "2026-10-27T07:46:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSk53czZKNkZ6ZHFnTGl5dm8ycFF2SFZ0akppSzdNRlZVbE1KMm9raXF0eDU0VWV6TUdBUTFXOXE5V1FWOGpOakl6VWUzb285bVY3WDRjcTdMb3hPRDIxQTVvdEN4NW9WYWhBcU5tZnIxMHFHM1AzMTNhU0lTaFhfeWRUNA?oc=5",
+      "event": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "慢火车不挣钱，为什么还要开？ - 新华网"
+      "originalTitle": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,7 +565,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }

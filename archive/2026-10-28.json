@@ -1,0 +1,573 @@
+{
+  "edition": "财经晨报 · 2026-10-28",
+  "date": "更新于北京时间 2026-10-28 08:29",
+  "reportDate": "2026-10-28",
+  "updatedAt": "2026-10-28T08:29:21+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-28 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-26：7,676.77 点；较 2026-10-23 变化 +53.09 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-26：115.81 美元/桶；较 2026-10-23 变化 -0.91 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "115.81 美元/桶；变化 -0.91 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-26；前值 116.72（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.70 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.99 %；变化 -0.01 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.96 点；变化 +0.15 点",
+          "paragraphs": [
+            "观测日 2026-10-26；前值 101.81（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,676.77 点；变化 +53.09 点",
+          "paragraphs": [
+            "观测日 2026-10-26；前值 7,623.68（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,169.38 点；变化 +214.04 点",
+          "paragraphs": [
+            "观测日 2026-10-26；前值 25,955.34（2026-10-23）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6700 人民币/美元；变化 -0.0079 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-27；前值 6.6779（2026-10-26）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/814739"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "章建平夫妇，大手笔买入601208、600601",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/813938"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国际金价，再度失守",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/813929"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "近一个月，净流入近3500亿元！",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/813750"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T20:40:00+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:45:01+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:41:55+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 20 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-23 前值 7623.6802，2026-10-26 现值 7676.7700，变化 +53.0898。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "url": "https://www.cnstock.com/commonDetail/814739",
+      "asOf": "2026-10-28T08:10:00+08:00"
+    },
+    {
+      "title": "章建平夫妇，大手笔买入601208、600601",
+      "url": "https://www.cnstock.com/commonDetail/813938",
+      "asOf": "2026-10-27T21:26:00+08:00"
+    },
+    {
+      "title": "国际金价，再度失守",
+      "url": "https://www.cnstock.com/commonDetail/813929",
+      "asOf": "2026-10-27T21:26:00+08:00"
+    },
+    {
+      "title": "近一个月，净流入近3500亿元！",
+      "url": "https://www.cnstock.com/commonDetail/813750",
+      "asOf": "2026-10-27T21:26:00+08:00"
+    },
+    {
+      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
+      "asOf": "2026-10-27T20:40:00+00:00"
+    },
+    {
+      "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
+      "asOf": "2026-10-27T19:45:01+00:00"
+    },
+    {
+      "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
+      "asOf": "2026-10-27T19:41:55+00:00"
+    },
+    {
+      "title": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
+    },
+    {
+      "title": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
+    },
+    {
+      "title": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "published": "2026-10-28T08:10:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/814739",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/814739",
+        "retrievedAt": "2026-10-28T08:29:21.096634+08:00",
+        "sha256": "17d8e40ded60b8814cf2007c82c5bd946b8b40f7d90d8781c6a5170497cee226",
+        "paragraphCount": 37,
+        "excerpt": "新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
+      }
+    },
+    {
+      "event": "章建平夫妇，大手笔买入601208、600601",
+      "originalTitle": "章建平夫妇，大手笔买入601208、600601",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813938",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国际金价，再度失守",
+      "originalTitle": "国际金价，再度失守",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813929",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "近一个月，净流入近3500亿元！",
+      "originalTitle": "近一个月，净流入近3500亿元！",
+      "published": "2026-10-27T21:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/813750",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+      "published": "2026-10-27T20:40:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网"
+    },
+    {
+      "event": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:45:01+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:41:55+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRF84ejZjbWh1Y2x0WEZEVE1NMUhLVlJUWVlpbGkweHFTc2xZbzBCYW9YTTFhb2dpUHlLZ2NmY2xfLTVFemdkMTA3YTNSbFBxWVR5WlJxM19CYi0zUnBOTzhqeHM3aFlaRFpGZXJ3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国国际金融股份有限公司关于直接持股全资子公司为间接持股全资子公司境外美元债券提供担保的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJS2xBVkhTdjlmVUJxQkNRWkZ0QVRIM3JOOS0xdFdQdEw5cmNmVWxUdVVJUzU0eGk0Z29sYUNXeGYzU1JQdEpESWIzdHhrNXBJZW9aVFZWaV9YLXN1VWRwVllDWjN6ZmpwOWJVVnd3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "常州澳弘电子股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
