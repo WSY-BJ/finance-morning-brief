@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-28",
-  "date": "更新于北京时间 2026-10-28 13:44",
+  "date": "更新于北京时间 2026-10-28 14:14",
   "reportDate": "2026-10-28",
-  "updatedAt": "2026-10-28T13:44:23+08:00",
+  "updatedAt": "2026-10-28T14:14:59+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
+          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.00 个百分点",
+          "summary": "4.99 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,153 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "4500股飘红，80股涨停",
+          "title": "特朗普称普京与泽连斯基的会晤将“很快”安排 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T13:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T06:07:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816263"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBham1HT1hnWm5zZy1OVF9ieEtvOFA3SjYtcU01SldoU09GNFpnQlJFZk1BZEgzOVd3QmpvQUN1TTF0UnBOTUl2MVVwdWk4UDdXc3ZGLVJOQ1owODdlTlY1dE9jZjNodEFQSXg3c2dESUVMMDhWMDdpY21CQ3hKdnM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
+          "title": "广东清远长隆黑白疣猴种群累计繁育13只 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T12:51:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何昕怡）10月27日晚间，沪市共102家公司披露利好公告，包括63份三季度业绩喜报、21份增持回购类公告、9份中期分红公告、6份承诺不减持或提前终止减持计划、及3份其他经营性利好，持续向市场传递积极信号。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/816176"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新进超70家公司 险资三季度调仓换股路线曝光",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T12:13:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何奎）随着上市公司2026年三季度报告逐渐披露，保险资金调仓换股动向也随之浮现。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/815247"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T06:04:04+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814622"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMmpFVDlaYnJoRWpBYzNXa1JuVDFLcUhYcEdjWVRsWUctVnlDT2kzZ1V6YlNhN0t3X2trNDYwRHRtTV9vSFM0dUYtbGdSU1lBcndXUHZsNjBMTmpQZTRZRm4xS2N1LVpqN1p5dDhYTV9CM2hobnJ0YWM3NTdnZXc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
+          "title": "中国与冈比亚在世贸组织联合举办经验分享活动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T05:22:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814629"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYlJNbHp5N0pFUkd4cEdHY2pVOW9kb0ZQTW5HRm00WmFNa19NMWZDRHZJLVQ4M0hoVWRpLXh1VW0wM0dkUjA0aXF0UUIya25OTW1ydWFfbEllak5DMzJVN1dOaWxOcXoxM1FJRHN2RjhZSnJTNHhVQ191bHZvUWM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
+          "title": "博索纳罗败选后赴美 卢拉称逃离巴西“可耻” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T04:59:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814633"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNTVoanZ2dVJVOGZIbEMzWmluM3lSS181c21JdmtSbWpVZXhvNzM2Q3VKTlhiMVZpWEpDRVh5akRhQUZkVlV3cmpBUzFxREpzNjFibWtCVnFIcGRucDdSaFRXRjBfVjFYQUlZZF9IT2Y3R3FXYnZvd2w3b1RtRnM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+          "title": "一场教与学的“精准奔赴”——解码重庆财经学院“新强师工程” - 新华网重庆",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
+            "发布时间：2026-10-28T04:27:15+00:00；来源：新华网重庆。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814739"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0N1dvYmU0cFlpNGY4b09EdkNwYWR4RUlZMHFXNzFmTUEtTjhXVmI3Slh6eHpMT0p6b0VCWDNvRjlsZG9mMGxNaFdxVDRJY1AzRnp3VVZUMWczU0lfaFJuNnA2SkVLRUxWZ3pHMVJfVWoxbkdpT1E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
+          "title": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-28T04:00:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814722"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
+          "title": "奔“县”游｜山西榆次：一个能让人“发呆”的地方 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-28T02:56:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814721"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lc29MYWxySVg2MTZld1dFcy0tc0ZHS2gzM3I5VVB6S1Z4ZVJPX3NOMk5YRXZabWNfS1hrMFVLd0o4Zl9vbGt1T3hNUzZjRWpxaWJtbzNaaUpxeWNfRER0elN2UEZCTFJPZlNRcFJwMHN1UWhpQXpN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "物理AI迎落地拐点 产业链公司抢抓机遇",
+          "title": "我国首个智慧货运枢纽领域国标发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-28T02:55:35+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814724"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkNiZG9ITU56SWdsdF9KTTkzNC04VzhNOVlhM0phZ211WThGQUNSaW81bDg0M2o1UWdYOUtwcmQ2Q3hPbGNxWlA2ZXlOaWdQZWdDenZaUW5KNWt6WmZuQVZSdWZ1dTVpcjMyWUhvRUxER2QybWlyNE9NYlYxeGhtWllxcw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "前9月规上工业企业利润同比增15.5% 电子行业贡献显著 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T02:55:22+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2xFUmROdU1xVFNiUmJrWXloSmRmZWlfUkNGSVlnbk9sUVFEc0RBMVhwem9mclk4OVpucWc4TGxtSTJlQzFIYjhJbzFnd1czWXh0eFBTc0xrMEVVTWEwVlFpOUhTU21OMmdicldsYUZpODZFR2JCbHZsTm1lbmJ4OQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "多省推出“十五五”就业规划 力促产业就业双向奔赴 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T02:55:17+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeGFGUWwxUFNwRHpubG9qcHR3QXhzc2NEZVZlWExPQ3hQbFh3WVJ0QmZHUjBhcmZtRkZHVkJfMEl3TDBEWWhsREcxNVpvS2MxX1Jfd2dTRVJnR0RRMVJKVm1STWtQOG16VG0xSTMwNjZMbFFmR3JJMm03dGNoel9tWm9B?oc=5"
             }
           ]
         }
@@ -381,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-27"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-27"
@@ -393,6 +386,11 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-27"
     },
     {
@@ -406,160 +404,146 @@
       "asOf": "2026-10-27"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-27"
+    },
+    {
       "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-26"
+      "title": "特朗普称普京与泽连斯基的会晤将“很快”安排 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBham1HT1hnWm5zZy1OVF9ieEtvOFA3SjYtcU01SldoU09GNFpnQlJFZk1BZEgzOVd3QmpvQUN1TTF0UnBOTUl2MVVwdWk4UDdXc3ZGLVJOQ1owODdlTlY1dE9jZjNodEFQSXg3c2dESUVMMDhWMDdpY21CQ3hKdnM?oc=5",
+      "asOf": "2026-10-28T06:07:45+00:00"
     },
     {
-      "title": "4500股飘红，80股涨停",
-      "url": "https://www.cnstock.com/commonDetail/816263",
-      "asOf": "2026-10-28T13:30:00+08:00"
+      "title": "广东清远长隆黑白疣猴种群累计繁育13只 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMmpFVDlaYnJoRWpBYzNXa1JuVDFLcUhYcEdjWVRsWUctVnlDT2kzZ1V6YlNhN0t3X2trNDYwRHRtTV9vSFM0dUYtbGdSU1lBcndXUHZsNjBMTmpQZTRZRm4xS2N1LVpqN1p5dDhYTV9CM2hobnJ0YWM3NTdnZXc?oc=5",
+      "asOf": "2026-10-28T06:04:04+00:00"
     },
     {
-      "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "url": "https://www.cnstock.com/commonDetail/816176",
-      "asOf": "2026-10-28T12:51:00+08:00"
+      "title": "中国与冈比亚在世贸组织联合举办经验分享活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYlJNbHp5N0pFUkd4cEdHY2pVOW9kb0ZQTW5HRm00WmFNa19NMWZDRHZJLVQ4M0hoVWRpLXh1VW0wM0dkUjA0aXF0UUIya25OTW1ydWFfbEllak5DMzJVN1dOaWxOcXoxM1FJRHN2RjhZSnJTNHhVQ191bHZvUWM?oc=5",
+      "asOf": "2026-10-28T05:22:03+00:00"
     },
     {
-      "title": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "url": "https://www.cnstock.com/commonDetail/815247",
-      "asOf": "2026-10-28T12:13:00+08:00"
+      "title": "博索纳罗败选后赴美 卢拉称逃离巴西“可耻” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNTVoanZ2dVJVOGZIbEMzWmluM3lSS181c21JdmtSbWpVZXhvNzM2Q3VKTlhiMVZpWEpDRVh5akRhQUZkVlV3cmpBUzFxREpzNjFibWtCVnFIcGRucDdSaFRXRjBfVjFYQUlZZF9IT2Y3R3FXYnZvd2w3b1RtRnM?oc=5",
+      "asOf": "2026-10-28T04:59:39+00:00"
     },
     {
-      "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "url": "https://www.cnstock.com/commonDetail/814622",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "一场教与学的“精准奔赴”——解码重庆财经学院“新强师工程” - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0N1dvYmU0cFlpNGY4b09EdkNwYWR4RUlZMHFXNzFmTUEtTjhXVmI3Slh6eHpMT0p6b0VCWDNvRjlsZG9mMGxNaFdxVDRJY1AzRnp3VVZUMWczU0lfaFJuNnA2SkVLRUxWZ3pHMVJfVWoxbkdpT1E?oc=5",
+      "asOf": "2026-10-28T04:27:15+00:00"
     },
     {
-      "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "url": "https://www.cnstock.com/commonDetail/814629",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5",
+      "asOf": "2026-10-28T04:00:54+00:00"
     },
     {
-      "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "url": "https://www.cnstock.com/commonDetail/814633",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "奔“县”游｜山西榆次：一个能让人“发呆”的地方 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lc29MYWxySVg2MTZld1dFcy0tc0ZHS2gzM3I5VVB6S1Z4ZVJPX3NOMk5YRXZabWNfS1hrMFVLd0o4Zl9vbGt1T3hNUzZjRWpxaWJtbzNaaUpxeWNfRER0elN2UEZCTFJPZlNRcFJwMHN1UWhpQXpN?oc=5",
+      "asOf": "2026-10-28T02:56:34+00:00"
     },
     {
-      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "asOf": "2026-10-28T08:10:00+08:00"
+      "title": "我国首个智慧货运枢纽领域国标发布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkNiZG9ITU56SWdsdF9KTTkzNC04VzhNOVlhM0phZ211WThGQUNSaW81bDg0M2o1UWdYOUtwcmQ2Q3hPbGNxWlA2ZXlOaWdQZWdDenZaUW5KNWt6WmZuQVZSdWZ1dTVpcjMyWUhvRUxER2QybWlyNE9NYlYxeGhtWllxcw?oc=5",
+      "asOf": "2026-10-28T02:55:35+00:00"
     },
     {
-      "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "url": "https://www.cnstock.com/commonDetail/814722",
-      "asOf": "2026-10-28T07:30:00+08:00"
+      "title": "前9月规上工业企业利润同比增15.5% 电子行业贡献显著 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2xFUmROdU1xVFNiUmJrWXloSmRmZWlfUkNGSVlnbk9sUVFEc0RBMVhwem9mclk4OVpucWc4TGxtSTJlQzFIYjhJbzFnd1czWXh0eFBTc0xrMEVVTWEwVlFpOUhTU21OMmdicldsYUZpODZFR2JCbHZsTm1lbmJ4OQ?oc=5",
+      "asOf": "2026-10-28T02:55:22+00:00"
     },
     {
-      "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "url": "https://www.cnstock.com/commonDetail/814721",
-      "asOf": "2026-10-28T07:30:00+08:00"
-    },
-    {
-      "title": "物理AI迎落地拐点 产业链公司抢抓机遇",
-      "url": "https://www.cnstock.com/commonDetail/814724",
-      "asOf": "2026-10-28T07:30:00+08:00"
+      "title": "多省推出“十五五”就业规划 力促产业就业双向奔赴 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeGFGUWwxUFNwRHpubG9qcHR3QXhzc2NEZVZlWExPQ3hQbFh3WVJ0QmZHUjBhcmZtRkZHVkJfMEl3TDBEWWhsREcxNVpvS2MxX1Jfd2dTRVJnR0RRMVJKVm1STWtQOG16VG0xSTMwNjZMbFFmR3JJMm03dGNoel9tWm9B?oc=5",
+      "asOf": "2026-10-28T02:55:17+00:00"
     }
   ],
   "events": [
     {
-      "event": "4500股飘红，80股涨停",
-      "originalTitle": "4500股飘红，80股涨停",
-      "published": "2026-10-28T13:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816263",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "originalTitle": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "published": "2026-10-28T12:51:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816176",
+      "event": "特朗普称普京与泽连斯基的会晤将“很快”安排 - 新华网",
+      "published": "2026-10-28T06:07:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBham1HT1hnWm5zZy1OVF9ieEtvOFA3SjYtcU01SldoU09GNFpnQlJFZk1BZEgzOVd3QmpvQUN1TTF0UnBOTUl2MVVwdWk4UDdXc3ZGLVJOQ1owODdlTlY1dE9jZjNodEFQSXg3c2dESUVMMDhWMDdpY21CQ3hKdnM?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/816176",
-        "retrievedAt": "2026-10-28T13:44:23.314116+08:00",
-        "sha256": "516002aaff9b1ec727a36ba38adef199a142aa5383e0b7a535e0a2c2288fb9a7",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯（记者 何昕怡）10月27日晚间，沪市共102家公司披露利好公告，包括63份三季度业绩喜报、21份增持回购类公告、9份中期分红公告、6份承诺不减持或提前终止减持计划、及3份其他经营性利好，持续向市场传递积极信号。"
-      }
+      "originalTitle": "特朗普称普京与泽连斯基的会晤将“很快”安排 - 新华网"
     },
     {
-      "event": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "originalTitle": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "published": "2026-10-28T12:13:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/815247",
+      "event": "广东清远长隆黑白疣猴种群累计繁育13只 - 新华网",
+      "published": "2026-10-28T06:04:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMmpFVDlaYnJoRWpBYzNXa1JuVDFLcUhYcEdjWVRsWUctVnlDT2kzZ1V6YlNhN0t3X2trNDYwRHRtTV9vSFM0dUYtbGdSU1lBcndXUHZsNjBMTmpQZTRZRm4xS2N1LVpqN1p5dDhYTV9CM2hobnJ0YWM3NTdnZXc?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/815247",
-        "retrievedAt": "2026-10-28T13:44:23.314116+08:00",
-        "sha256": "8af5a8dbf89908940841e5181d5678881c6b5e98d6a4f06f0aa540b94487eb42",
-        "paragraphCount": 11,
-        "excerpt": "上证报中国证券网讯（记者 何奎）随着上市公司2026年三季度报告逐渐披露，保险资金调仓换股动向也随之浮现。"
-      }
+      "originalTitle": "广东清远长隆黑白疣猴种群累计繁育13只 - 新华网"
     },
     {
-      "event": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "originalTitle": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814622",
-      "evidenceLevel": "headline-only"
+      "event": "中国与冈比亚在世贸组织联合举办经验分享活动 - 新华网",
+      "published": "2026-10-28T05:22:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYlJNbHp5N0pFUkd4cEdHY2pVOW9kb0ZQTW5HRm00WmFNa19NMWZDRHZJLVQ4M0hoVWRpLXh1VW0wM0dkUjA0aXF0UUIya25OTW1ydWFfbEllak5DMzJVN1dOaWxOcXoxM1FJRHN2RjhZSnJTNHhVQ191bHZvUWM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国与冈比亚在世贸组织联合举办经验分享活动 - 新华网"
     },
     {
-      "event": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "originalTitle": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814629",
-      "evidenceLevel": "headline-only"
+      "event": "博索纳罗败选后赴美 卢拉称逃离巴西“可耻” - 新华网",
+      "published": "2026-10-28T04:59:39+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNTVoanZ2dVJVOGZIbEMzWmluM3lSS181c21JdmtSbWpVZXhvNzM2Q3VKTlhiMVZpWEpDRVh5akRhQUZkVlV3cmpBUzFxREpzNjFibWtCVnFIcGRucDdSaFRXRjBfVjFYQUlZZF9IT2Y3R3FXYnZvd2w3b1RtRnM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "博索纳罗败选后赴美 卢拉称逃离巴西“可耻” - 新华网"
     },
     {
-      "event": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "originalTitle": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814633",
-      "evidenceLevel": "headline-only"
+      "event": "一场教与学的“精准奔赴”——解码重庆财经学院“新强师工程” - 新华网重庆",
+      "published": "2026-10-28T04:27:15+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0N1dvYmU0cFlpNGY4b09EdkNwYWR4RUlZMHFXNzFmTUEtTjhXVmI3Slh6eHpMT0p6b0VCWDNvRjlsZG9mMGxNaFdxVDRJY1AzRnp3VVZUMWczU0lfaFJuNnA2SkVLRUxWZ3pHMVJfVWoxbkdpT1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "一场教与学的“精准奔赴”——解码重庆财经学院“新强师工程” - 新华网重庆"
     },
     {
-      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "published": "2026-10-28T08:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "evidenceLevel": "headline-only"
+      "event": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
+      "published": "2026-10-28T04:00:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中企携新技术和产品亮相马尔代夫博览会 - 新华网"
     },
     {
-      "event": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "originalTitle": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "published": "2026-10-28T07:30:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/814722",
-      "evidenceLevel": "headline-only"
+      "event": "奔“县”游｜山西榆次：一个能让人“发呆”的地方 - 新华网",
+      "published": "2026-10-28T02:56:34+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lc29MYWxySVg2MTZld1dFcy0tc0ZHS2gzM3I5VVB6S1Z4ZVJPX3NOMk5YRXZabWNfS1hrMFVLd0o4Zl9vbGt1T3hNUzZjRWpxaWJtbzNaaUpxeWNfRER0elN2UEZCTFJPZlNRcFJwMHN1UWhpQXpN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "奔“县”游｜山西榆次：一个能让人“发呆”的地方 - 新华网"
     },
     {
-      "event": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "originalTitle": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "published": "2026-10-28T07:30:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/814721",
-      "evidenceLevel": "headline-only"
+      "event": "我国首个智慧货运枢纽领域国标发布 - 新华网",
+      "published": "2026-10-28T02:55:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkNiZG9ITU56SWdsdF9KTTkzNC04VzhNOVlhM0phZ211WThGQUNSaW81bDg0M2o1UWdYOUtwcmQ2Q3hPbGNxWlA2ZXlOaWdQZWdDenZaUW5KNWt6WmZuQVZSdWZ1dTVpcjMyWUhvRUxER2QybWlyNE9NYlYxeGhtWllxcw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "我国首个智慧货运枢纽领域国标发布 - 新华网"
     },
     {
-      "event": "物理AI迎落地拐点 产业链公司抢抓机遇",
-      "originalTitle": "物理AI迎落地拐点 产业链公司抢抓机遇",
-      "published": "2026-10-28T07:30:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/814724",
-      "evidenceLevel": "headline-only"
+      "event": "前9月规上工业企业利润同比增15.5% 电子行业贡献显著 - 新华网",
+      "published": "2026-10-28T02:55:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2xFUmROdU1xVFNiUmJrWXloSmRmZWlfUkNGSVlnbk9sUVFEc0RBMVhwem9mclk4OVpucWc4TGxtSTJlQzFIYjhJbzFnd1czWXh0eFBTc0xrMEVVTWEwVlFpOUhTU21OMmdicldsYUZpODZFR2JCbHZsTm1lbmJ4OQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前9月规上工业企业利润同比增15.5% 电子行业贡献显著 - 新华网"
+    },
+    {
+      "event": "多省推出“十五五”就业规划 力促产业就业双向奔赴 - 新华网",
+      "published": "2026-10-28T02:55:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeGFGUWwxUFNwRHpubG9qcHR3QXhzc2NEZVZlWExPQ3hQbFh3WVJ0QmZHUjBhcmZtRkZHVkJfMEl3TDBEWWhsREcxNVpvS2MxX1Jfd2dTRVJnR0RRMVJKVm1STWtQOG16VG0xSTMwNjZMbFFmR3JJMm03dGNoel9tWm9B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "多省推出“十五五”就业规划 力促产业就业双向奔赴 - 新华网"
     }
   ],
   "quality": {
@@ -573,14 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
