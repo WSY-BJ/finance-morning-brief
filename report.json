@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-28",
-  "date": "更新于北京时间 2026-10-28 14:50",
+  "date": "更新于北京时间 2026-10-28 18:35",
   "reportDate": "2026-10-28",
-  "updatedAt": "2026-10-28T14:50:42+08:00",
+  "updatedAt": "2026-10-28T18:35:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
+          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.68 %；变化 -0.01 个百分点",
+          "summary": "4.70 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 4.69（2026-10-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.99 %；变化 -0.01 个百分点",
+          "summary": "5.00 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：美国财政部。"
+            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,154 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "微软、谷歌、亚马逊即将放榜，市场“紧盯”三大信号",
+          "title": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T13:56:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/816544"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：美东时间10月28日盘后，微软和谷歌母公司Alphabet将公布最新业绩，亚马逊于29日接棒。随着AI投资规模持续扩大，三大云厂商能否延续高增长、资本开支是否进一步上修、AI投资回报等成为市场关注焦点。"
+            "原文摘要：上证智讯 10月28日，菲利华发布2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售股份上市流通提示性公告称，公司本次解除限售的限制性股票上市流通日为2026年11月2日，解除限售数量为54.88万股，占公司目前总股本的0.1"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/816259"
+              "url": "https://www.cnstock.com/commonDetail/816558"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "长鑫科技已纳入上证综指、科创综指 成为两大指数第一大权重股",
+          "title": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T13:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816269"
+              "url": "https://www.cnstock.com/commonDetail/816545"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
+          "title": "资金涌向科技方向两大赛道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T12:51:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何昕怡）10月27日晚间，沪市共102家公司披露利好公告，包括63份三季度业绩喜报、21份增持回购类公告、9份中期分红公告、6份承诺不减持或提前终止减持计划、及3份其他经营性利好，持续向市场传递积极信号。"
+            "原文摘要：10月28日，科技板块表现活跃，机器人相关ETF集体走强，5只机器人ETF早盘一度涨超7%，午后涨幅有所收窄。与此同时，多只芯片相关ETF午后快速拉升。多个科技板块细分方向受市场关注。业内人士认为，科技产业中长期发展逻辑尚未发生明显变化，但"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/816176"
+              "url": "https://www.cnstock.com/commonDetail/816559"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新进超70家公司 险资三季度调仓换股路线曝光",
+          "title": "HBM将持续涨价，或撬动DRAM全局",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T12:13:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何奎）随着上市公司2026年三季度报告逐渐披露，保险资金调仓换股动向也随之浮现。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/815247"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814622"
+              "url": "https://www.cnstock.com/commonDetail/816567"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
+          "title": "“95后”丁少翔，进了始祖鸟母公司董事会",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814629"
+              "url": "https://www.cnstock.com/commonDetail/816568"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
+          "title": "美国向俄方抛经济合作提议 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T09:52:28+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814633"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+          "title": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
+            "发布时间：2026-10-28T09:28:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814739"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
+          "title": "上海浦东“新三样”提质扩量 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-28T09:23:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814722"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
+          "title": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-28T08:45:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/814721"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5"
             }
           ]
         }
@@ -382,8 +381,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-27"
     },
     {
@@ -392,13 +391,13 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-27"
     },
     {
@@ -407,167 +406,160 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-26"
     },
     {
-      "title": "微软、谷歌、亚马逊即将放榜，市场“紧盯”三大信号",
-      "url": "https://www.cnstock.com/commonDetail/816259",
-      "asOf": "2026-10-28T13:56:00+08:00"
+      "title": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
+      "url": "https://www.cnstock.com/commonDetail/816544",
+      "asOf": "2026-10-28T18:33:00+08:00"
     },
     {
-      "title": "长鑫科技已纳入上证综指、科创综指 成为两大指数第一大权重股",
-      "url": "https://www.cnstock.com/commonDetail/816269",
-      "asOf": "2026-10-28T13:44:00+08:00"
+      "title": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
+      "url": "https://www.cnstock.com/commonDetail/816558",
+      "asOf": "2026-10-28T18:33:00+08:00"
     },
     {
-      "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "url": "https://www.cnstock.com/commonDetail/816176",
-      "asOf": "2026-10-28T12:51:00+08:00"
+      "title": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
+      "url": "https://www.cnstock.com/commonDetail/816545",
+      "asOf": "2026-10-28T18:33:00+08:00"
     },
     {
-      "title": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "url": "https://www.cnstock.com/commonDetail/815247",
-      "asOf": "2026-10-28T12:13:00+08:00"
+      "title": "资金涌向科技方向两大赛道",
+      "url": "https://www.cnstock.com/commonDetail/816559",
+      "asOf": "2026-10-28T18:05:00+08:00"
     },
     {
-      "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "url": "https://www.cnstock.com/commonDetail/814622",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "HBM将持续涨价，或撬动DRAM全局",
+      "url": "https://www.cnstock.com/commonDetail/816567",
+      "asOf": "2026-10-28T18:05:00+08:00"
     },
     {
-      "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "url": "https://www.cnstock.com/commonDetail/814629",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "“95后”丁少翔，进了始祖鸟母公司董事会",
+      "url": "https://www.cnstock.com/commonDetail/816568",
+      "asOf": "2026-10-28T18:05:00+08:00"
     },
     {
-      "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "url": "https://www.cnstock.com/commonDetail/814633",
-      "asOf": "2026-10-28T10:06:00+08:00"
+      "title": "美国向俄方抛经济合作提议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5",
+      "asOf": "2026-10-28T09:52:28+00:00"
     },
     {
-      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "asOf": "2026-10-28T08:10:00+08:00"
+      "title": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5",
+      "asOf": "2026-10-28T09:28:32+00:00"
     },
     {
-      "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "url": "https://www.cnstock.com/commonDetail/814722",
-      "asOf": "2026-10-28T07:30:00+08:00"
+      "title": "上海浦东“新三样”提质扩量 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5",
+      "asOf": "2026-10-28T09:23:37+00:00"
     },
     {
-      "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "url": "https://www.cnstock.com/commonDetail/814721",
-      "asOf": "2026-10-28T07:30:00+08:00"
+      "title": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5",
+      "asOf": "2026-10-28T08:45:43+00:00"
     }
   ],
   "events": [
     {
-      "event": "微软、谷歌、亚马逊即将放榜，市场“紧盯”三大信号",
-      "originalTitle": "微软、谷歌、亚马逊即将放榜，市场“紧盯”三大信号",
-      "published": "2026-10-28T13:56:00+08:00",
+      "event": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
+      "originalTitle": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
+      "published": "2026-10-28T18:33:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816259",
+      "url": "https://www.cnstock.com/commonDetail/816544",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
+      "originalTitle": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
+      "published": "2026-10-28T18:33:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/816558",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/816259",
-        "retrievedAt": "2026-10-28T14:50:42.156633+08:00",
-        "sha256": "1be0a99ec33a3ce9855d951772dc6848a1b697faa916bcb453449cf792917484",
-        "paragraphCount": 15,
-        "excerpt": "美东时间10月28日盘后，微软和谷歌母公司Alphabet将公布最新业绩，亚马逊于29日接棒。随着AI投资规模持续扩大，三大云厂商能否延续高增长、资本开支是否进一步上修、AI投资回报等成为市场关注焦点。"
+        "url": "https://www.cnstock.com/commonDetail/816558",
+        "retrievedAt": "2026-10-28T18:35:47.495672+08:00",
+        "sha256": "6552856c3ae7523d0eea82c3cfae830d153ade7aa0543c01cb42c6d98dbad4dc",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月28日，菲利华发布2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售股份上市流通提示性公告称，公司本次解除限售的限制性股票上市流通日为2026年11月2日，解除限售数量为54.88万股，占公司目前总股本的0.1"
       }
     },
     {
-      "event": "长鑫科技已纳入上证综指、科创综指 成为两大指数第一大权重股",
-      "originalTitle": "长鑫科技已纳入上证综指、科创综指 成为两大指数第一大权重股",
-      "published": "2026-10-28T13:44:00+08:00",
+      "event": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
+      "originalTitle": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
+      "published": "2026-10-28T18:33:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816269",
+      "url": "https://www.cnstock.com/commonDetail/816545",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "originalTitle": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
-      "published": "2026-10-28T12:51:00+08:00",
+      "event": "资金涌向科技方向两大赛道",
+      "originalTitle": "资金涌向科技方向两大赛道",
+      "published": "2026-10-28T18:05:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816176",
+      "url": "https://www.cnstock.com/commonDetail/816559",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/816176",
-        "retrievedAt": "2026-10-28T14:50:42.156633+08:00",
-        "sha256": "71232359f62908a97611ee4512a0e555de498bb4c1ec7556a2bdee28ae316087",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯（记者 何昕怡）10月27日晚间，沪市共102家公司披露利好公告，包括63份三季度业绩喜报、21份增持回购类公告、9份中期分红公告、6份承诺不减持或提前终止减持计划、及3份其他经营性利好，持续向市场传递积极信号。"
+        "url": "https://www.cnstock.com/commonDetail/816559",
+        "retrievedAt": "2026-10-28T18:35:47.495672+08:00",
+        "sha256": "db8ce8142e0c2d18ede0c8308a161bea284ca843b5a52beb227655c1dade5c43",
+        "paragraphCount": 8,
+        "excerpt": "10月28日，科技板块表现活跃，机器人相关ETF集体走强，5只机器人ETF早盘一度涨超7%，午后涨幅有所收窄。与此同时，多只芯片相关ETF午后快速拉升。多个科技板块细分方向受市场关注。业内人士认为，科技产业中长期发展逻辑尚未发生明显变化，但"
       }
     },
     {
-      "event": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "originalTitle": "新进超70家公司 险资三季度调仓换股路线曝光",
-      "published": "2026-10-28T12:13:00+08:00",
+      "event": "HBM将持续涨价，或撬动DRAM全局",
+      "originalTitle": "HBM将持续涨价，或撬动DRAM全局",
+      "published": "2026-10-28T18:05:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/815247",
+      "url": "https://www.cnstock.com/commonDetail/816567",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "“95后”丁少翔，进了始祖鸟母公司董事会",
+      "originalTitle": "“95后”丁少翔，进了始祖鸟母公司董事会",
+      "published": "2026-10-28T18:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/816568",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "美国向俄方抛经济合作提议 - 新华网",
+      "published": "2026-10-28T09:52:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/815247",
-        "retrievedAt": "2026-10-28T14:50:42.156633+08:00",
-        "sha256": "c0eff16dd94971d5c72943880424705c767492e9dff49c079926312a09765f1e",
-        "paragraphCount": 11,
-        "excerpt": "上证报中国证券网讯（记者 何奎）随着上市公司2026年三季度报告逐渐披露，保险资金调仓换股动向也随之浮现。"
-      }
+      "originalTitle": "美国向俄方抛经济合作提议 - 新华网"
     },
     {
-      "event": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "originalTitle": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814622",
-      "evidenceLevel": "headline-only"
+      "event": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
+      "published": "2026-10-28T09:28:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网"
     },
     {
-      "event": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "originalTitle": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814629",
-      "evidenceLevel": "headline-only"
+      "event": "上海浦东“新三样”提质扩量 - 新华网",
+      "published": "2026-10-28T09:23:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海浦东“新三样”提质扩量 - 新华网"
     },
     {
-      "event": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "originalTitle": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
-      "published": "2026-10-28T10:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/814633",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "published": "2026-10-28T08:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "originalTitle": "真正的考验不在“飞” 航天技术“上车”机遇何在",
-      "published": "2026-10-28T07:30:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/814722",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "originalTitle": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
-      "published": "2026-10-28T07:30:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/814721",
-      "evidenceLevel": "headline-only"
+      "event": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
+      "published": "2026-10-28T08:45:43+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网"
     }
   ],
   "quality": {
@@ -581,9 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
