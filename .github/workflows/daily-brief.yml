@@ -3,6 +3,7 @@ name: Daily finance brief
 on:
   schedule:
     # Beijing 05:17, 06:43, 07:31 prewarm; 08:00 target and 08:17 retry. GitHub scheduling is best effort.
+    # 2026-10-28 08:21 CST: recovery trigger for missing scheduled run; no workflow behavior change.
     - cron: "17 21 * * *"
     - cron: "43 22 * * *"
     - cron: "31 23 * * *"
