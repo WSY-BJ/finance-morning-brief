@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-28",
-  "date": "更新于北京时间 2026-10-28 08:29",
+  "date": "更新于北京时间 2026-10-28 09:42",
   "reportDate": "2026-10-28",
-  "updatedAt": "2026-10-28T08:29:21+08:00",
+  "updatedAt": "2026-10-28T09:42:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.70 %；变化 +0.02 个百分点",
+          "summary": "4.68 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：美国财政部。"
+            "观测日 2026-10-26；前值 4.69（2026-10-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,77 +177,46 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+          "title": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/814739"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "章建平夫妇，大手笔买入601208、600601",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T01:07:33+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/813938"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国际金价，再度失守",
+          "title": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T00:54:55+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/813929"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "近一个月，净流入近3500亿元！",
+          "title": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T21:26:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-27T23:16:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/813750"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-27T20:40:00+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5"
             }
           ]
         },
@@ -325,6 +294,36 @@
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5"
             }
           ]
+        },
+        {
+          "type": "explainer",
+          "title": "百大集团股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xVncxWmVOMnZYRVdveGtPMG9QOTdLUjNjdHA1a0xDNlhFeVhVU1ZlUlc2elBxS2IzUndTa3lYV2tzQ0UyeUlUM1VWeDh0S0VQWlJpSXo5ODZUR01Yd3NEMWxJclhuTmFiMnFVblh3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "湖北兴福电子材料股份有限公司关于2026年员工持股计划完成股票购买的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-27T19:40:15+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSml4aExqSG9IeG1RX2xXRkRxbGdCYUxfV1YwVEM2SXVaSEVXdjdOZktiSHlKdUxHQ3R6UmRQdl9qV2w0VjZzS3FtXzIyR0R0bEt0QnpmenhSdmZNVXJmLWh2Wm4ybDZzTkdDY1Zn?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -385,18 +384,8 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-26"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-26"
-    },
-    {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-26"
     },
     {
@@ -405,39 +394,39 @@
       "asOf": "2026-10-26"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-26"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-26"
+    },
+    {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-27"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-26"
     },
     {
-      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "asOf": "2026-10-28T08:10:00+08:00"
+      "title": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5",
+      "asOf": "2026-10-28T01:07:33+00:00"
     },
     {
-      "title": "章建平夫妇，大手笔买入601208、600601",
-      "url": "https://www.cnstock.com/commonDetail/813938",
-      "asOf": "2026-10-27T21:26:00+08:00"
+      "title": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5",
+      "asOf": "2026-10-28T00:54:55+00:00"
     },
     {
-      "title": "国际金价，再度失守",
-      "url": "https://www.cnstock.com/commonDetail/813929",
-      "asOf": "2026-10-27T21:26:00+08:00"
-    },
-    {
-      "title": "近一个月，净流入近3500亿元！",
-      "url": "https://www.cnstock.com/commonDetail/813750",
-      "asOf": "2026-10-27T21:26:00+08:00"
-    },
-    {
-      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
-      "asOf": "2026-10-27T20:40:00+00:00"
+      "title": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5",
+      "asOf": "2026-10-27T23:16:41+00:00"
     },
     {
       "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
@@ -463,55 +452,42 @@
       "title": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
       "asOf": "2026-10-27T19:40:15+00:00"
+    },
+    {
+      "title": "百大集团股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xVncxWmVOMnZYRVdveGtPMG9QOTdLUjNjdHA1a0xDNlhFeVhVU1ZlUlc2elBxS2IzUndTa3lYV2tzQ0UyeUlUM1VWeDh0S0VQWlJpSXo5ODZUR01Yd3NEMWxJclhuTmFiMnFVblh3?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
+    },
+    {
+      "title": "湖北兴福电子材料股份有限公司关于2026年员工持股计划完成股票购买的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSml4aExqSG9IeG1RX2xXRkRxbGdCYUxfV1YwVEM2SXVaSEVXdjdOZktiSHlKdUxHQ3R6UmRQdl9qV2w0VjZzS3FtXzIyR0R0bEt0QnpmenhSdmZNVXJmLWh2Wm4ybDZzTkdDY1Zn?oc=5",
+      "asOf": "2026-10-27T19:40:15+00:00"
     }
   ],
   "events": [
     {
-      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
-      "published": "2026-10-28T08:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/814739",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/814739",
-        "retrievedAt": "2026-10-28T08:29:21.096634+08:00",
-        "sha256": "17d8e40ded60b8814cf2007c82c5bd946b8b40f7d90d8781c6a5170497cee226",
-        "paragraphCount": 37,
-        "excerpt": "新华社北京10月27日电 题：不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三"
-      }
-    },
-    {
-      "event": "章建平夫妇，大手笔买入601208、600601",
-      "originalTitle": "章建平夫妇，大手笔买入601208、600601",
-      "published": "2026-10-27T21:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/813938",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国际金价，再度失守",
-      "originalTitle": "国际金价，再度失守",
-      "published": "2026-10-27T21:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/813929",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "近一个月，净流入近3500亿元！",
-      "originalTitle": "近一个月，净流入近3500亿元！",
-      "published": "2026-10-27T21:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/813750",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
-      "published": "2026-10-27T20:40:00+00:00",
+      "event": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
+      "published": "2026-10-28T01:07:33+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网"
+      "originalTitle": "我国首个智慧货运枢纽领域 国标发布 - 新华网"
+    },
+    {
+      "event": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
+      "published": "2026-10-28T00:54:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网"
+    },
+    {
+      "event": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
+      "published": "2026-10-27T23:16:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国要求美国立即停止对古巴的封锁和施压 - 新华网"
     },
     {
       "event": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
@@ -552,6 +528,22 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pbDJyaHN4Z053Z2ItRXdHSGI0c1NLUkRsRnhVOG1JMG5BQUIxUzlSZUtfaF9PWWtZdF9wVnJQM25TeU55R2FNUGt4WUU0YzhCX1RxWTBUdXNWV3pqNnEyZVZyeExZRTVCS2hzcWNn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "杰克科技股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "百大集团股份有限公司股票交易异常波动公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xVncxWmVOMnZYRVdveGtPMG9QOTdLUjNjdHA1a0xDNlhFeVhVU1ZlUlc2elBxS2IzUndTa3lYV2tzQ0UyeUlUM1VWeDh0S0VQWlJpSXo5ODZUR01Yd3NEMWxJclhuTmFiMnFVblh3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "百大集团股份有限公司股票交易异常波动公告 - 上海证券报电子版"
+    },
+    {
+      "event": "湖北兴福电子材料股份有限公司关于2026年员工持股计划完成股票购买的公告 - 上海证券报电子版",
+      "published": "2026-10-27T19:40:15+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSml4aExqSG9IeG1RX2xXRkRxbGdCYUxfV1YwVEM2SXVaSEVXdjdOZktiSHlKdUxHQ3R6UmRQdl9qV2w0VjZzS3FtXzIyR0R0bEt0QnpmenhSdmZNVXJmLWh2Wm4ybDZzTkdDY1Zn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "湖北兴福电子材料股份有限公司关于2026年员工持股计划完成股票购买的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -565,9 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
