@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-28",
-  "date": "更新于北京时间 2026-10-28 10:55",
+  "date": "更新于北京时间 2026-10-28 13:26",
   "reportDate": "2026-10-28",
-  "updatedAt": "2026-10-28T10:55:54+08:00",
+  "updatedAt": "2026-10-28T13:26:12+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-26：7,676.77 点；较 2026-10-23 变化 +53.09 点。",
+          "summary": "2026-10-27：7,722.60 点；较 2026-10-26 变化 +45.83 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-26：115.81 美元/桶；较 2026-10-23 变化 -0.91 美元/桶。",
+          "summary": "2026-10-27：113.88 美元/桶；较 2026-10-26 变化 -1.93 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
+          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "115.81 美元/桶；变化 -0.91 美元/桶",
+          "summary": "113.88 美元/桶；变化 -1.93 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-26；前值 116.72（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 115.81（2026-10-26）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -94,23 +94,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.99 %；变化 -0.01 个百分点",
+          "summary": "5.00 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：美国财政部。"
+            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.96 点；变化 +0.15 点",
+          "summary": "102.32 点；变化 +0.36 点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 101.81（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 101.96（2026-10-26）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,676.77 点；变化 +53.09 点",
+          "summary": "7,722.60 点；变化 +45.83 点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 7,623.68（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 7,676.77（2026-10-26）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,169.38 点；变化 +214.04 点",
+          "summary": "26,477.81 点；变化 +308.43 点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 25,955.34（2026-10-23）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 26,169.38（2026-10-26）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中国人寿利明光：寿险经营是一场跨越周期的长跑 - 新华网",
+          "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T02:23:35+00:00；来源：新华网。",
+            "发布时间：2026-10-28T12:51:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSWU0QnBubjFIX0x3VXB5VjJtSGFXZm9nNzlrUUVNa3lDbHRJZFg1eDRtenloSi03QU5SRmpyWmF0Si1iVmlLNEUzMVFoTGVSajdCV1FNd1lzNEZ2cl8zcmUwcVN5Zkw4cDJzYlA5X2dtUEVJMUc3NzkydEc5NzQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/816176"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "风雨难羁燕初回——广东经济增速追平全国的背后 - 新华网",
+          "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T02:06:46+00:00；来源：新华网。",
+            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaWFYN0F2T3ZXZDhYNTluVEJHYXBXZ1NZREJuUDJZdVM1TDVVNjZGUEw1dmZYVXdNb0E0UE1GZkYtMDlfTW5pWTh4ZUtXQm5Jc1EzOTMyWWVjWG1CNmtHZXJ4VHZJRU9sUDgtMjF3SFFFWDVucGkxRmppd2tWdTQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/814622"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
+          "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T01:07:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月28日，博济医药发布2026年第三季度报告称，公司前三季度实现营业收入约7.32亿元，同比增长25.24%；归属于上市公司股东的净利润约4929.55万元，同比增长124.95%；扣除非经常性损益后的净利润约3230.26万"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/814629"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
+          "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T00:54:55+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-28T10:06:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月28日，江顺科技发布2026年第三季度报告称，公司前三季度实现营业收入7.90亿元，同比增长10.79%；归属于上市公司股东的净利润约7250万元，同比增长10.77%；扣除非经常性损益后的净利润6936.34万元，同比增长"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/814633"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "迎战“双11”快递高峰 AI加速渗透物流业 - 新华网",
+          "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T00:49:38+00:00；来源：新华网。",
+            "发布时间：2026-10-28T08:10:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdUpNbWxKLWtkWjlSeGItUzNaZVF6ekRYT0xvVkhDUkxMZE95LURqUk9IVmlzN1hEdzljOFJvRFNpaVhvTmtsc0xlNzRyNlhNOUhfV1FuWUs1VFc0UzlfR25DNFc5bi1JZXQtUkVveGRvWWlJRVlod1NheGpGZw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/814739"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "今年前三季度甘肃省金融运行“成绩单”出炉 - 新华网-甘肃",
+          "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T00:45:51+00:00；来源：新华网-甘肃。",
+            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42ZXEtbi1JbG5XSVBLdnRIS1JuSG9Sc1VGSEw3aG5iaVdRZDFjSS0yMzdqTFViZF9ScUIxampIQlNZWVFiRG1RZi00cm8xVGJYQXZ5N3hUNDJWbFY3UE5VLVE2amh5V1Z6UVFBVnFCQ3paZUVf?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/814722"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
+          "title": "物理AI迎落地拐点 产业链公司抢抓机遇",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T23:16:41+00:00；来源：新华网。",
+            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/814724"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
+          "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T20:40:00+00:00；来源：新华网。",
+            "发布时间：2026-10-28T07:30:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/814721"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+          "title": "恒丰银行镇江分行与镇江市山东商会开展座谈交流 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T19:45:01+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-28T04:30:08+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HU05VblpsOXZkdjFiY2ZRNlRZa05CWEMxNFJjeHlNY0dydXYzVEtIZVlOYWh6NFk2VW16WXpNMk9nWEtNLUh2Y254cGFRRi1QVEdqYTNLSEN4ZWNhSDMzZ0JaWllmanZYblRmVjVSc3FHeWFl?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
+          "title": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-27T19:41:55+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-10-28T04:00:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5"
             }
           ]
         }
@@ -353,7 +355,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-23 前值 7623.6802，2026-10-26 现值 7676.7700，变化 +53.0898。",
+            "本期实例：标普 500 指数，2026-10-26 前值 7676.7700，2026-10-27 现值 7722.6001，变化 +45.8301。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -386,26 +388,21 @@
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-26"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-27"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-26"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-27"
     },
     {
@@ -414,136 +411,155 @@
       "asOf": "2026-10-26"
     },
     {
-      "title": "中国人寿利明光：寿险经营是一场跨越周期的长跑 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSWU0QnBubjFIX0x3VXB5VjJtSGFXZm9nNzlrUUVNa3lDbHRJZFg1eDRtenloSi03QU5SRmpyWmF0Si1iVmlLNEUzMVFoTGVSajdCV1FNd1lzNEZ2cl8zcmUwcVN5Zkw4cDJzYlA5X2dtUEVJMUc3NzkydEc5NzQ?oc=5",
-      "asOf": "2026-10-28T02:23:35+00:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-26"
     },
     {
-      "title": "风雨难羁燕初回——广东经济增速追平全国的背后 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaWFYN0F2T3ZXZDhYNTluVEJHYXBXZ1NZREJuUDJZdVM1TDVVNjZGUEw1dmZYVXdNb0E0UE1GZkYtMDlfTW5pWTh4ZUtXQm5Jc1EzOTMyWWVjWG1CNmtHZXJ4VHZJRU9sUDgtMjF3SFFFWDVucGkxRmppd2tWdTQ?oc=5",
-      "asOf": "2026-10-28T02:06:46+00:00"
+      "title": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
+      "url": "https://www.cnstock.com/commonDetail/816176",
+      "asOf": "2026-10-28T12:51:00+08:00"
     },
     {
-      "title": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5",
-      "asOf": "2026-10-28T01:07:33+00:00"
+      "title": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
+      "url": "https://www.cnstock.com/commonDetail/814622",
+      "asOf": "2026-10-28T10:06:00+08:00"
     },
     {
-      "title": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5",
-      "asOf": "2026-10-28T00:54:55+00:00"
+      "title": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
+      "url": "https://www.cnstock.com/commonDetail/814629",
+      "asOf": "2026-10-28T10:06:00+08:00"
     },
     {
-      "title": "迎战“双11”快递高峰 AI加速渗透物流业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdUpNbWxKLWtkWjlSeGItUzNaZVF6ekRYT0xvVkhDUkxMZE95LURqUk9IVmlzN1hEdzljOFJvRFNpaVhvTmtsc0xlNzRyNlhNOUhfV1FuWUs1VFc0UzlfR25DNFc5bi1JZXQtUkVveGRvWWlJRVlod1NheGpGZw?oc=5",
-      "asOf": "2026-10-28T00:49:38+00:00"
+      "title": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
+      "url": "https://www.cnstock.com/commonDetail/814633",
+      "asOf": "2026-10-28T10:06:00+08:00"
     },
     {
-      "title": "今年前三季度甘肃省金融运行“成绩单”出炉 - 新华网-甘肃",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42ZXEtbi1JbG5XSVBLdnRIS1JuSG9Sc1VGSEw3aG5iaVdRZDFjSS0yMzdqTFViZF9ScUIxampIQlNZWVFiRG1RZi00cm8xVGJYQXZ5N3hUNDJWbFY3UE5VLVE2amh5V1Z6UVFBVnFCQ3paZUVf?oc=5",
-      "asOf": "2026-10-28T00:45:51+00:00"
+      "title": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "url": "https://www.cnstock.com/commonDetail/814739",
+      "asOf": "2026-10-28T08:10:00+08:00"
     },
     {
-      "title": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5",
-      "asOf": "2026-10-27T23:16:41+00:00"
+      "title": "真正的考验不在“飞” 航天技术“上车”机遇何在",
+      "url": "https://www.cnstock.com/commonDetail/814722",
+      "asOf": "2026-10-28T07:30:00+08:00"
     },
     {
-      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
-      "asOf": "2026-10-27T20:40:00+00:00"
+      "title": "物理AI迎落地拐点 产业链公司抢抓机遇",
+      "url": "https://www.cnstock.com/commonDetail/814724",
+      "asOf": "2026-10-28T07:30:00+08:00"
     },
     {
-      "title": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
-      "asOf": "2026-10-27T19:45:01+00:00"
+      "title": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
+      "url": "https://www.cnstock.com/commonDetail/814721",
+      "asOf": "2026-10-28T07:30:00+08:00"
     },
     {
-      "title": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
-      "asOf": "2026-10-27T19:41:55+00:00"
+      "title": "恒丰银行镇江分行与镇江市山东商会开展座谈交流 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HU05VblpsOXZkdjFiY2ZRNlRZa05CWEMxNFJjeHlNY0dydXYzVEtIZVlOYWh6NFk2VW16WXpNMk9nWEtNLUh2Y254cGFRRi1QVEdqYTNLSEN4ZWNhSDMzZ0JaWllmanZYblRmVjVSc3FHeWFl?oc=5",
+      "asOf": "2026-10-28T04:30:08+00:00"
+    },
+    {
+      "title": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5",
+      "asOf": "2026-10-28T04:00:54+00:00"
     }
   ],
   "events": [
     {
-      "event": "中国人寿利明光：寿险经营是一场跨越周期的长跑 - 新华网",
-      "published": "2026-10-28T02:23:35+00:00",
+      "event": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
+      "originalTitle": "一天102家沪市公司现增量利好 10家公司将展开新一轮增持回购",
+      "published": "2026-10-28T12:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/816176",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
+      "originalTitle": "利安隆：前三季度净利润约4.75亿元 同比增长21.06%",
+      "published": "2026-10-28T10:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/814622",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
+      "originalTitle": "博济医药：前三季度净利润约4929.55万元 同比增长124.95%",
+      "published": "2026-10-28T10:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/814629",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/814629",
+        "retrievedAt": "2026-10-28T13:26:12.833930+08:00",
+        "sha256": "ed0298eb734da8b1326cb950176f19f71d3b3d2f75eef837797101436733ae37",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月28日，博济医药发布2026年第三季度报告称，公司前三季度实现营业收入约7.32亿元，同比增长25.24%；归属于上市公司股东的净利润约4929.55万元，同比增长124.95%；扣除非经常性损益后的净利润约3230.26万"
+      }
+    },
+    {
+      "event": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
+      "originalTitle": "江顺科技：前三季度净利润约7250万元 同比增长10.77%",
+      "published": "2026-10-28T10:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/814633",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/814633",
+        "retrievedAt": "2026-10-28T13:26:12.833930+08:00",
+        "sha256": "741ee0359f935de47f77aa6151117f510b29ab4893858903f178cf55a391a62a",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月28日，江顺科技发布2026年第三季度报告称，公司前三季度实现营业收入7.90亿元，同比增长10.79%；归属于上市公司股东的净利润约7250万元，同比增长10.77%；扣除非经常性损益后的净利润6936.34万元，同比增长"
+      }
+    },
+    {
+      "event": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "originalTitle": "不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三",
+      "published": "2026-10-28T08:10:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/814739",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "真正的考验不在“飞” 航天技术“上车”机遇何在",
+      "originalTitle": "真正的考验不在“飞” 航天技术“上车”机遇何在",
+      "published": "2026-10-28T07:30:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/814722",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "物理AI迎落地拐点 产业链公司抢抓机遇",
+      "originalTitle": "物理AI迎落地拐点 产业链公司抢抓机遇",
+      "published": "2026-10-28T07:30:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/814724",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
+      "originalTitle": "投研业务迭代 赋能地方发展——“十五五”券业新使命调研之华源证券样本",
+      "published": "2026-10-28T07:30:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/814721",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "恒丰银行镇江分行与镇江市山东商会开展座谈交流 - 新华网江苏频道",
+      "published": "2026-10-28T04:30:08+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HU05VblpsOXZkdjFiY2ZRNlRZa05CWEMxNFJjeHlNY0dydXYzVEtIZVlOYWh6NFk2VW16WXpNMk9nWEtNLUh2Y254cGFRRi1QVEdqYTNLSEN4ZWNhSDMzZ0JaWllmanZYblRmVjVSc3FHeWFl?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "恒丰银行镇江分行与镇江市山东商会开展座谈交流 - 新华网江苏频道"
+    },
+    {
+      "event": "中企携新技术和产品亮相马尔代夫博览会 - 新华网",
+      "published": "2026-10-28T04:00:54+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSWU0QnBubjFIX0x3VXB5VjJtSGFXZm9nNzlrUUVNa3lDbHRJZFg1eDRtenloSi03QU5SRmpyWmF0Si1iVmlLNEUzMVFoTGVSajdCV1FNd1lzNEZ2cl8zcmUwcVN5Zkw4cDJzYlA5X2dtUEVJMUc3NzkydEc5NzQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndXcyTTdVdjgycUpCOV9QbkdhcUR2WmlTZjdYd1dRdmNZMzhsZDhmMy10Zkw3RW92czFCSm1IblV1eXVPWG80a2w4ald5SkFYbW56WGdmY1lLTnBPNlo2eTh4S3A3ZlVSUF92cm9vbDBjUnA2M1h4aTZIc2pBdlE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国人寿利明光：寿险经营是一场跨越周期的长跑 - 新华网"
-    },
-    {
-      "event": "风雨难羁燕初回——广东经济增速追平全国的背后 - 新华网",
-      "published": "2026-10-28T02:06:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaWFYN0F2T3ZXZDhYNTluVEJHYXBXZ1NZREJuUDJZdVM1TDVVNjZGUEw1dmZYVXdNb0E0UE1GZkYtMDlfTW5pWTh4ZUtXQm5Jc1EzOTMyWWVjWG1CNmtHZXJ4VHZJRU9sUDgtMjF3SFFFWDVucGkxRmppd2tWdTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "风雨难羁燕初回——广东经济增速追平全国的背后 - 新华网"
-    },
-    {
-      "event": "我国首个智慧货运枢纽领域 国标发布 - 新华网",
-      "published": "2026-10-28T01:07:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mLUNBTV82Tjhab1hzYTBxX213UEZfZkx1aHhBTG43d00taS14QjhWM0VaT3hVYlZoWWpVU0tXZGx0c1F4aFBfVVZKYzVxSHZhZFBCdzUzQnp3cG5jWU1DeHFJdmJsXzlOUmZJYnNhS0ExczRNcHVjbzRqMEU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "我国首个智慧货运枢纽领域 国标发布 - 新华网"
-    },
-    {
-      "event": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网",
-      "published": "2026-10-28T00:54:55+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMXY1Z283eTJvS1lIclgzcHhqYW5tTW92U0hwcmNyR2R4SGFwcWh4XzhNeGJaTk4zS2l0N2hzUWtoZUVjaEswODF3bnk3UnYzXzVUU0JNZ2VjV1lGZnUyeThqTUhFVVVWa0dkVllqN2xvUTJyaXZWNHdzTmo?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "累计开放176个应用场景 广西柳州机器人产业集聚成链 - 新华网"
-    },
-    {
-      "event": "迎战“双11”快递高峰 AI加速渗透物流业 - 新华网",
-      "published": "2026-10-28T00:49:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdUpNbWxKLWtkWjlSeGItUzNaZVF6ekRYT0xvVkhDUkxMZE95LURqUk9IVmlzN1hEdzljOFJvRFNpaVhvTmtsc0xlNzRyNlhNOUhfV1FuWUs1VFc0UzlfR25DNFc5bi1JZXQtUkVveGRvWWlJRVlod1NheGpGZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "迎战“双11”快递高峰 AI加速渗透物流业 - 新华网"
-    },
-    {
-      "event": "今年前三季度甘肃省金融运行“成绩单”出炉 - 新华网-甘肃",
-      "published": "2026-10-28T00:45:51+00:00",
-      "publisher": "新华网-甘肃",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42ZXEtbi1JbG5XSVBLdnRIS1JuSG9Sc1VGSEw3aG5iaVdRZDFjSS0yMzdqTFViZF9ScUIxampIQlNZWVFiRG1RZi00cm8xVGJYQXZ5N3hUNDJWbFY3UE5VLVE2amh5V1Z6UVFBVnFCQ3paZUVf?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "今年前三季度甘肃省金融运行“成绩单”出炉 - 新华网-甘肃"
-    },
-    {
-      "event": "中国要求美国立即停止对古巴的封锁和施压 - 新华网",
-      "published": "2026-10-27T23:16:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUkxsaVZyOVlyVmJmWmFMc280djc0MHpJZGNheUFQd1BKS1NuSEI1bllsZ09ZUjVKams3WVZGNlQyejdJbGtlU05uUFpaVy1wUTJnUkVNVWRHNFBSNDZaS3piZzF3SkljaXRzY2wxZVByX0tEaHktQnIwNjM0UDg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国要求美国立即停止对古巴的封锁和施压 - 新华网"
-    },
-    {
-      "event": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网",
-      "published": "2026-10-27T20:40:00+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBR0dXcXNzTVR0aEVMVi1tX0Jac19qbjJUelRmOFdjTkZTSGFiaUJibjA3Q0FzRV92bXktbkZxSURqUWNqRzBlWEJieGVUb0hLWG1nM0cwQ2ZEV3BMVWpBTVNRakJDRk9ldEltb3Y1VmYwTmc4VFlYbVAxUDc3elk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "天然气出口国论坛第八次峰会发表《莫斯科宣言》 - 新华网"
-    },
-    {
-      "event": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
-      "published": "2026-10-27T19:45:01+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMEhkb1pHb0QtdDNPQl9oOXZYVXBvWXRDOHp1MUM0YU9tZ1JfV01lSy0ydlI0VWhwWFBLTDlDOEFTaG9HTHVFQ3JOVldQWXBDV1ZOcENwRFB4RjF6YXNKUjlZZzNSVkZHWHl5VDNn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中贝通信集团股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版",
-      "published": "2026-10-27T19:41:55+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQ2xZMWpCbFU0dGJzNmFaZ19qSjBkZ3E1cVNHTk5nbG5UMTMwdHBnOUs0WkFhRE9uY0dxNnEzV1pkSzdERlBySk5qUFdHVG5wUGpmRTJLMGFDN3dkRjhwY0RTclh5ejdiWFV5ZVVR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "河南豫光金铅股份有限公司关于向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 上海证券报电子版"
+      "originalTitle": "中企携新技术和产品亮相马尔代夫博览会 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +573,12 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
