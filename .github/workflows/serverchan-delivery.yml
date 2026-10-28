@@ -1,0 +1,43 @@
+name: ServerChan delivery fallback
+
+on:
+  schedule:
+    # Independent of report generation, deployment and the main workflow.
+    # Beijing 08:15, 08:30, 09:00, 10:00, 12:00, 18:00 and 21:00.
+    - cron: "15,30 0 * * *"
+    - cron: "0 1,2,4,10,13 * * *"
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/serverchan-delivery.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: serverchan-delivery-fallback
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TZ: Asia/Shanghai
+      SITE_URL: https://wsy-bj.github.io/finance-morning-brief/
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Configure delivery identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Send daily edition, limited edition, or outage notification
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: python scripts/daily_delivery.py
