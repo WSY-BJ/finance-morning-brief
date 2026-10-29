@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-28",
-  "date": "更新于北京时间 2026-10-28 18:35",
-  "reportDate": "2026-10-28",
-  "updatedAt": "2026-10-28T18:35:47+08:00",
+  "edition": "财经晨报 · 2026-10-29",
+  "date": "更新于北京时间 2026-10-29 08:17",
+  "reportDate": "2026-10-29",
+  "updatedAt": "2026-10-29T08:17:06+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-28 财经资料（待核验）",
+    "title": "2026-10-29 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,20 +33,20 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "2026-10-27：113.88 美元/桶；较 2026-10-26 变化 -1.93 美元/桶。",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-26：5.00 %；较 2026-10-23 变化 +0.00 个百分点。",
+          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "113.88 美元/桶；变化 -1.93 美元/桶",
+          "title": "Brent 原油现货",
+          "summary": "123.10 美元/桶；变化 -5.02 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-27；前值 115.81（2026-10-26）；来源：Yahoo Finance。"
+            "观测日 2026-10-27；前值 128.12（2026-10-26）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -82,21 +82,21 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.70 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：美国财政部。"
+            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.00 %；变化 +0.00 个百分点",
+          "summary": "4.99 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-10-26；前值 5.00（2026-10-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6700 人民币/美元；变化 -0.0079 人民币/美元",
+          "summary": "6.6680 人民币/美元；变化 -0.0020 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-27；前值 6.6779（2026-10-26）；来源：Yahoo Finance。"
+            "观测日 2026-10-28；前值 6.6700（2026-10-27）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,153 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
+          "title": "人工智能，加速融入你我生活 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T23:58:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816544"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
+          "title": "AI叩门之后，地信技术走向更多场景 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月28日，菲利华发布2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售股份上市流通提示性公告称，公司本次解除限售的限制性股票上市流通日为2026年11月2日，解除限售数量为54.88万股，占公司目前总股本的0.1"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/816558"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T18:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T23:47:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816545"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "资金涌向科技方向两大赛道",
+          "title": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：10月28日，科技板块表现活跃，机器人相关ETF集体走强，5只机器人ETF早盘一度涨超7%，午后涨幅有所收窄。与此同时，多只芯片相关ETF午后快速拉升。多个科技板块细分方向受市场关注。业内人士认为，科技产业中长期发展逻辑尚未发生明显变化，但"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/816559"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "HBM将持续涨价，或撬动DRAM全局",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T23:32:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816567"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RWN6ajRWMW5lWlpaOU5mRkRQUWM0MzgtZVU3bS1zYWV2ZElCZC1zMHJ5TWVpNjJ3ZldvZHM4NnBTNGJGdm9YMGdlaDA0QTFhMkJVZnptQ0VTQVJYRkMzQVROcG9ZcjNkWVRpSjM5UXNGRnZWaTRF?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“95后”丁少翔，进了始祖鸟母公司董事会",
+          "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T18:05:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-28T23:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/816568"
+              "url": "https://www.cnstock.com/commonDetail/817385"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美国向俄方抛经济合作提议 - 新华网",
+          "title": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T09:52:28+00:00；来源：新华网。",
+            "发布时间：2026-10-28T23:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/817371"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
+          "title": "IMF总裁提议廖岷接任副总裁",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T09:28:32+00:00；来源：新华网。",
+            "发布时间：2026-10-28T22:44:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/817429"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上海浦东“新三样”提质扩量 - 新华网",
+          "title": "英国宣布对乌克兰追加百亿英镑援助 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T09:23:37+00:00；来源：新华网。",
+            "发布时间：2026-10-28T22:14:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04c25PRWxnZ3dhUEo0NmstSUFya0JfOC1ISktFcVU4TlV1Sl9rZVY2NEtzREJFbVgwdkNmRmNCZU5NRDdBb3UtY0Z5cjE0NlkzOFBPVlAwMGFlc1Y0UElGc2FhV1l2blpOTnc4bFNaSUhOVkh1aHdTQk9TX3NfNzQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
+          "title": "中国诚通、中国国新，三季度加仓这些A股",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T08:45:43+00:00；来源：新华网。",
+            "发布时间：2026-10-28T22:10:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/817226"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美联储宣布维持利率不变 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T21:15:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T21:07:03+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5"
             }
           ]
         }
@@ -347,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 20 课：情景分析",
+      "title": "第 21 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -391,175 +389,161 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-27"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-27"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-27"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
-      "title": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
-      "url": "https://www.cnstock.com/commonDetail/816544",
-      "asOf": "2026-10-28T18:33:00+08:00"
+      "title": "人工智能，加速融入你我生活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5",
+      "asOf": "2026-10-28T23:58:38+00:00"
     },
     {
-      "title": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
-      "url": "https://www.cnstock.com/commonDetail/816558",
-      "asOf": "2026-10-28T18:33:00+08:00"
+      "title": "AI叩门之后，地信技术走向更多场景 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5",
+      "asOf": "2026-10-28T23:47:16+00:00"
     },
     {
-      "title": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
-      "url": "https://www.cnstock.com/commonDetail/816545",
-      "asOf": "2026-10-28T18:33:00+08:00"
+      "title": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RWN6ajRWMW5lWlpaOU5mRkRQUWM0MzgtZVU3bS1zYWV2ZElCZC1zMHJ5TWVpNjJ3ZldvZHM4NnBTNGJGdm9YMGdlaDA0QTFhMkJVZnptQ0VTQVJYRkMzQVROcG9ZcjNkWVRpSjM5UXNGRnZWaTRF?oc=5",
+      "asOf": "2026-10-28T23:32:02+00:00"
     },
     {
-      "title": "资金涌向科技方向两大赛道",
-      "url": "https://www.cnstock.com/commonDetail/816559",
-      "asOf": "2026-10-28T18:05:00+08:00"
+      "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "url": "https://www.cnstock.com/commonDetail/817385",
+      "asOf": "2026-10-28T23:17:00+08:00"
     },
     {
-      "title": "HBM将持续涨价，或撬动DRAM全局",
-      "url": "https://www.cnstock.com/commonDetail/816567",
-      "asOf": "2026-10-28T18:05:00+08:00"
+      "title": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
+      "url": "https://www.cnstock.com/commonDetail/817371",
+      "asOf": "2026-10-28T23:17:00+08:00"
     },
     {
-      "title": "“95后”丁少翔，进了始祖鸟母公司董事会",
-      "url": "https://www.cnstock.com/commonDetail/816568",
-      "asOf": "2026-10-28T18:05:00+08:00"
+      "title": "IMF总裁提议廖岷接任副总裁",
+      "url": "https://www.cnstock.com/commonDetail/817429",
+      "asOf": "2026-10-28T22:44:00+08:00"
     },
     {
-      "title": "美国向俄方抛经济合作提议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5",
-      "asOf": "2026-10-28T09:52:28+00:00"
+      "title": "英国宣布对乌克兰追加百亿英镑援助 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04c25PRWxnZ3dhUEo0NmstSUFya0JfOC1ISktFcVU4TlV1Sl9rZVY2NEtzREJFbVgwdkNmRmNCZU5NRDdBb3UtY0Z5cjE0NlkzOFBPVlAwMGFlc1Y0UElGc2FhV1l2blpOTnc4bFNaSUhOVkh1aHdTQk9TX3NfNzQ?oc=5",
+      "asOf": "2026-10-28T22:14:12+00:00"
     },
     {
-      "title": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5",
-      "asOf": "2026-10-28T09:28:32+00:00"
+      "title": "中国诚通、中国国新，三季度加仓这些A股",
+      "url": "https://www.cnstock.com/commonDetail/817226",
+      "asOf": "2026-10-28T22:10:00+08:00"
     },
     {
-      "title": "上海浦东“新三样”提质扩量 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5",
-      "asOf": "2026-10-28T09:23:37+00:00"
+      "title": "美联储宣布维持利率不变 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5",
+      "asOf": "2026-10-28T21:15:46+00:00"
     },
     {
-      "title": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5",
-      "asOf": "2026-10-28T08:45:43+00:00"
+      "title": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5",
+      "asOf": "2026-10-28T21:07:03+00:00"
     }
   ],
   "events": [
     {
-      "event": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
-      "originalTitle": "药康生物：前三季度净利润约1.70亿元，同比增长54.79%",
-      "published": "2026-10-28T18:33:00+08:00",
+      "event": "人工智能，加速融入你我生活 - 新华网",
+      "published": "2026-10-28T23:58:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "人工智能，加速融入你我生活 - 新华网"
+    },
+    {
+      "event": "AI叩门之后，地信技术走向更多场景 - 新华网",
+      "published": "2026-10-28T23:47:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "AI叩门之后，地信技术走向更多场景 - 新华网"
+    },
+    {
+      "event": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
+      "published": "2026-10-28T23:32:02+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RWN6ajRWMW5lWlpaOU5mRkRQUWM0MzgtZVU3bS1zYWV2ZElCZC1zMHJ5TWVpNjJ3ZldvZHM4NnBTNGJGdm9YMGdlaDA0QTFhMkJVZnptQ0VTQVJYRkMzQVROcG9ZcjNkWVRpSjM5UXNGRnZWaTRF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网"
+    },
+    {
+      "event": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "originalTitle": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "published": "2026-10-28T23:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816544",
+      "url": "https://www.cnstock.com/commonDetail/817385",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
-      "originalTitle": "菲利华：限制性股票解除限售54.88万股，11月2日将上市流通",
-      "published": "2026-10-28T18:33:00+08:00",
+      "event": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
+      "originalTitle": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
+      "published": "2026-10-28T23:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816558",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/816558",
-        "retrievedAt": "2026-10-28T18:35:47.495672+08:00",
-        "sha256": "6552856c3ae7523d0eea82c3cfae830d153ade7aa0543c01cb42c6d98dbad4dc",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月28日，菲利华发布2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售股份上市流通提示性公告称，公司本次解除限售的限制性股票上市流通日为2026年11月2日，解除限售数量为54.88万股，占公司目前总股本的0.1"
-      }
-    },
-    {
-      "event": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
-      "originalTitle": "汉朔科技：前三季度净利润约4.82亿元，同比增长53.41%",
-      "published": "2026-10-28T18:33:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816545",
+      "url": "https://www.cnstock.com/commonDetail/817371",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "资金涌向科技方向两大赛道",
-      "originalTitle": "资金涌向科技方向两大赛道",
-      "published": "2026-10-28T18:05:00+08:00",
+      "event": "IMF总裁提议廖岷接任副总裁",
+      "originalTitle": "IMF总裁提议廖岷接任副总裁",
+      "published": "2026-10-28T22:44:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816559",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/816559",
-        "retrievedAt": "2026-10-28T18:35:47.495672+08:00",
-        "sha256": "db8ce8142e0c2d18ede0c8308a161bea284ca843b5a52beb227655c1dade5c43",
-        "paragraphCount": 8,
-        "excerpt": "10月28日，科技板块表现活跃，机器人相关ETF集体走强，5只机器人ETF早盘一度涨超7%，午后涨幅有所收窄。与此同时，多只芯片相关ETF午后快速拉升。多个科技板块细分方向受市场关注。业内人士认为，科技产业中长期发展逻辑尚未发生明显变化，但"
-      }
-    },
-    {
-      "event": "HBM将持续涨价，或撬动DRAM全局",
-      "originalTitle": "HBM将持续涨价，或撬动DRAM全局",
-      "published": "2026-10-28T18:05:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816567",
+      "url": "https://www.cnstock.com/commonDetail/817429",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "“95后”丁少翔，进了始祖鸟母公司董事会",
-      "originalTitle": "“95后”丁少翔，进了始祖鸟母公司董事会",
-      "published": "2026-10-28T18:05:00+08:00",
+      "event": "英国宣布对乌克兰追加百亿英镑援助 - 新华网",
+      "published": "2026-10-28T22:14:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04c25PRWxnZ3dhUEo0NmstSUFya0JfOC1ISktFcVU4TlV1Sl9rZVY2NEtzREJFbVgwdkNmRmNCZU5NRDdBb3UtY0Z5cjE0NlkzOFBPVlAwMGFlc1Y0UElGc2FhV1l2blpOTnc4bFNaSUhOVkh1aHdTQk9TX3NfNzQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "英国宣布对乌克兰追加百亿英镑援助 - 新华网"
+    },
+    {
+      "event": "中国诚通、中国国新，三季度加仓这些A股",
+      "originalTitle": "中国诚通、中国国新，三季度加仓这些A股",
+      "published": "2026-10-28T22:10:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/816568",
+      "url": "https://www.cnstock.com/commonDetail/817226",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "美国向俄方抛经济合作提议 - 新华网",
-      "published": "2026-10-28T09:52:28+00:00",
+      "event": "美联储宣布维持利率不变 - 新华网",
+      "published": "2026-10-28T21:15:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVjhKX19vRWo3Nms4NlVhZG11RjFvcFB6bGhVTHFqZzR1UmJla0dUeHJCbk0wNWt2UFhuWml3QmZVRXRxNzNvc1hSNC1Oem80bVptT2NGQjhLMExyeDVvZVAzRXVzblk4OHExVlRsbkdTREI2NE9v?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美国向俄方抛经济合作提议 - 新华网"
+      "originalTitle": "美联储宣布维持利率不变 - 新华网"
     },
     {
-      "event": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网",
-      "published": "2026-10-28T09:28:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXBRcHh2djBJeElHR3VyRWhtc1p3WDIzT2NldjRucm9SSnQ5cUk0SE5nekplR09nLV9Wa0owT29rek03ZFZjLWhIMmZQNG5rLWNGNTQwemw0dlVpVUFTZUh0czhjR2F6RldZSVhZNVNQRnVSM015Z3JreFJlc0dEMA?oc=5",
+      "event": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版",
+      "published": "2026-10-28T21:07:03+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "远景张雷获评路透社2026全球可持续发展大奖“可持续发展先锋” - 新华网"
-    },
-    {
-      "event": "上海浦东“新三样”提质扩量 - 新华网",
-      "published": "2026-10-28T09:23:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2U2syZ1lTcXpSSmttNDh4QlVqUTBiald1NmRQV254amVSMlBVa3lBdjczMWRVeF83YU5xemROYTJKX1dLLUN2b3NPT0Qzb0VWVDZ3VEJhLVBaRGdmZmgtNTJwTVhoVFVnZllPVzBva0hLcGNpQTNr?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海浦东“新三样”提质扩量 - 新华网"
-    },
-    {
-      "event": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网",
-      "published": "2026-10-28T08:45:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VzdzWk9ZVi1odHdFdkdqQkU2dkdYVWFnYUhOaE5SWWozbmlSNWNaRWFnZm84NmswZjJZZzdaWkdkSkFQVHl5VkVfUHRvNUdHeHJLUlBXMkVNNS1qSWtvZmg5cXZkeXo1TGJ6eDlqVUNGbEkzRlZ2Y2wyVFRvdTA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "综述丨COP17进入关键阶段 仍有难题待解 - 新华网"
+      "originalTitle": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
