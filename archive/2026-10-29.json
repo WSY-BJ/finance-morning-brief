@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-29",
-  "date": "更新于北京时间 2026-10-29 09:56",
+  "date": "更新于北京时间 2026-10-29 10:39",
   "reportDate": "2026-10-29",
-  "updatedAt": "2026-10-29T09:56:24+08:00",
+  "updatedAt": "2026-10-29T10:39:11+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-27：7,722.60 点；较 2026-10-26 变化 +45.83 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.70 %；变化 +0.02 个百分点",
+          "summary": "4.67 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,68 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "巴比食品：中期拟10派2元 合计派现约4791.33万元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T10:32:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/817825"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "大地熊：中期拟10派1元 合计派现约1124.25万元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T10:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/817824"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "成都先导：前三季度净利约1.39亿元 同比增长50.11%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T10:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月29日，成都先导药物开发股份有限公司发布公告称，2026年第三季度实现营业收入约2.04亿元，同比增长42.88%；归属于上市公司股东的净利润约5873.98万元，同比增长37.15%；归属于上市公司股东的扣除非经常性损益的"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/817781"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T09:33:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/817965"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
           "summary": "",
           "paragraphs": [
@@ -187,21 +249,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/817964"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/817970"
             }
           ]
         },
@@ -222,6 +269,21 @@
         },
         {
           "type": "explainer",
+          "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T09:10:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/817970"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
           "summary": "",
           "paragraphs": [
@@ -232,21 +294,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/817969"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T09:06:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818008"
             }
           ]
         },
@@ -267,61 +314,16 @@
         },
         {
           "type": "explainer",
-          "title": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题 - 新华网",
+          "title": "河北秋粮收获接近尾声 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T01:35:40+00:00；来源：新华网。",
+            "发布时间：2026-10-29T02:12:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZktrWWJKUXBhSnNwZ01ScVk1QjhaQnRiNldlYlRBOE9aZm1TWTNrdkZMNEJlVFMzNUItRXlfSlBYYTZKRGJVclZpVldrdWIyMzlJaFhiUmtIMHE5d0NUSHRROUY3S3V5bmxQUjNkbm5oMTd1VHlJVFY0MlFSRmdXeA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "直播，一种文化新消费 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T01:14:39+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3FqMmNwMlZsUGFCUEZJbDhjTzN4MVhiMVhIWGZJcmxsaUpySVZhc1lMOW1jWFJYSkN3WEpyZTdlNkFaVXZlRGRQLVZUd2NmaWFNcmZPcEc0dXJhQzJENWRoWjBVZDRFWU9GNk1BZjktclRIblR3Q2lhMFdnVVZ3ZQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "可当“工资卡”，数字人民币全面升级 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T00:47:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yOHptTldrdUIxMTI5LXY2cjZZZjEtMktNWllqNjZIZHpJUERxTDdGVEl6UDhWYXY4d19kRTdwcGdzRVo1eU85N0xZV2k0dFp1QnFOdXJBOEtoTEt6V01xMXllSk12SE5kbGUzZUlxQm0xazZpRVM1eEhiUFYydw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "人工智能，加速融入你我生活 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T23:58:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRlVLV2lQZ1cxMFNFMlAtZWprT0RFX3BBSnNFU0kwVUJVazZnM3hIT1lCWmRWaW5FUHBtYXh3WG9OQU5paHFYdFlYSS0wRm1SRFpUWUl1WFZLVTllc082UDE2YXRYTVFNVS1QX3lIaEs1X3dfVzNpTlFpREJpdnM?oc=5"
             }
           ]
         }
@@ -379,8 +381,8 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-27"
     },
     {
@@ -389,18 +391,23 @@
       "asOf": "2026-10-27"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-28"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-27"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-27"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-28"
     },
     {
@@ -409,9 +416,24 @@
       "asOf": "2026-10-28"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-27"
+      "title": "巴比食品：中期拟10派2元 合计派现约4791.33万元",
+      "url": "https://www.cnstock.com/commonDetail/817825",
+      "asOf": "2026-10-29T10:32:00+08:00"
+    },
+    {
+      "title": "大地熊：中期拟10派1元 合计派现约1124.25万元",
+      "url": "https://www.cnstock.com/commonDetail/817824",
+      "asOf": "2026-10-29T10:31:00+08:00"
+    },
+    {
+      "title": "成都先导：前三季度净利约1.39亿元 同比增长50.11%",
+      "url": "https://www.cnstock.com/commonDetail/817781",
+      "asOf": "2026-10-29T10:31:00+08:00"
+    },
+    {
+      "title": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
+      "url": "https://www.cnstock.com/commonDetail/817965",
+      "asOf": "2026-10-29T09:33:00+08:00"
     },
     {
       "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
@@ -419,13 +441,13 @@
       "asOf": "2026-10-29T09:18:00+08:00"
     },
     {
-      "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "url": "https://www.cnstock.com/commonDetail/817970",
+      "title": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
+      "url": "https://www.cnstock.com/commonDetail/817971",
       "asOf": "2026-10-29T09:10:00+08:00"
     },
     {
-      "title": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
-      "url": "https://www.cnstock.com/commonDetail/817971",
+      "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
+      "url": "https://www.cnstock.com/commonDetail/817970",
       "asOf": "2026-10-29T09:10:00+08:00"
     },
     {
@@ -434,51 +456,69 @@
       "asOf": "2026-10-29T09:10:00+08:00"
     },
     {
-      "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
-      "url": "https://www.cnstock.com/commonDetail/818008",
-      "asOf": "2026-10-29T09:06:00+08:00"
-    },
-    {
       "title": "美联储宣布维持利率不变",
       "url": "https://www.cnstock.com/commonDetail/817961",
       "asOf": "2026-10-29T07:25:00+08:00"
     },
     {
-      "title": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZktrWWJKUXBhSnNwZ01ScVk1QjhaQnRiNldlYlRBOE9aZm1TWTNrdkZMNEJlVFMzNUItRXlfSlBYYTZKRGJVclZpVldrdWIyMzlJaFhiUmtIMHE5d0NUSHRROUY3S3V5bmxQUjNkbm5oMTd1VHlJVFY0MlFSRmdXeA?oc=5",
-      "asOf": "2026-10-29T01:35:40+00:00"
-    },
-    {
-      "title": "直播，一种文化新消费 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3FqMmNwMlZsUGFCUEZJbDhjTzN4MVhiMVhIWGZJcmxsaUpySVZhc1lMOW1jWFJYSkN3WEpyZTdlNkFaVXZlRGRQLVZUd2NmaWFNcmZPcEc0dXJhQzJENWRoWjBVZDRFWU9GNk1BZjktclRIblR3Q2lhMFdnVVZ3ZQ?oc=5",
-      "asOf": "2026-10-29T01:14:39+00:00"
-    },
-    {
-      "title": "可当“工资卡”，数字人民币全面升级 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yOHptTldrdUIxMTI5LXY2cjZZZjEtMktNWllqNjZIZHpJUERxTDdGVEl6UDhWYXY4d19kRTdwcGdzRVo1eU85N0xZV2k0dFp1QnFOdXJBOEtoTEt6V01xMXllSk12SE5kbGUzZUlxQm0xazZpRVM1eEhiUFYydw?oc=5",
-      "asOf": "2026-10-29T00:47:32+00:00"
-    },
-    {
-      "title": "人工智能，加速融入你我生活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5",
-      "asOf": "2026-10-28T23:58:38+00:00"
+      "title": "河北秋粮收获接近尾声 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRlVLV2lQZ1cxMFNFMlAtZWprT0RFX3BBSnNFU0kwVUJVazZnM3hIT1lCWmRWaW5FUHBtYXh3WG9OQU5paHFYdFlYSS0wRm1SRFpUWUl1WFZLVTllc082UDE2YXRYTVFNVS1QX3lIaEs1X3dfVzNpTlFpREJpdnM?oc=5",
+      "asOf": "2026-10-29T02:12:36+00:00"
     }
   ],
   "events": [
+    {
+      "event": "巴比食品：中期拟10派2元 合计派现约4791.33万元",
+      "originalTitle": "巴比食品：中期拟10派2元 合计派现约4791.33万元",
+      "published": "2026-10-29T10:32:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/817825",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "大地熊：中期拟10派1元 合计派现约1124.25万元",
+      "originalTitle": "大地熊：中期拟10派1元 合计派现约1124.25万元",
+      "published": "2026-10-29T10:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/817824",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "成都先导：前三季度净利约1.39亿元 同比增长50.11%",
+      "originalTitle": "成都先导：前三季度净利约1.39亿元 同比增长50.11%",
+      "published": "2026-10-29T10:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/817781",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/817781",
+        "retrievedAt": "2026-10-29T10:39:11.831950+08:00",
+        "sha256": "f1eca7de35fc36dfd9e8a2a647f051299dd6c058d0538df86390313d97b4bdf1",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月29日，成都先导药物开发股份有限公司发布公告称，2026年第三季度实现营业收入约2.04亿元，同比增长42.88%；归属于上市公司股东的净利润约5873.98万元，同比增长37.15%；归属于上市公司股东的扣除非经常性损益的"
+      }
+    },
+    {
+      "event": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
+      "originalTitle": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
+      "published": "2026-10-29T09:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/817965",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/817965",
+        "retrievedAt": "2026-10-29T10:39:11.831950+08:00",
+        "sha256": "9c5545ec5361723cba94de6cf73a8c2071603b9b08da76fa1af2f92317991121",
+        "paragraphCount": 29,
+        "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
+      }
+    },
     {
       "event": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
       "originalTitle": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
       "published": "2026-10-29T09:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/817964",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "originalTitle": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "published": "2026-10-29T09:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/817970",
       "evidenceLevel": "headline-only"
     },
     {
@@ -490,19 +530,19 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
+      "originalTitle": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
+      "published": "2026-10-29T09:10:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/817970",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
       "originalTitle": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
       "published": "2026-10-29T09:10:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/817969",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
-      "originalTitle": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
-      "published": "2026-10-29T09:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/818008",
       "evidenceLevel": "headline-only"
     },
     {
@@ -514,36 +554,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题 - 新华网",
-      "published": "2026-10-29T01:35:40+00:00",
+      "event": "河北秋粮收获接近尾声 - 新华网",
+      "published": "2026-10-29T02:12:36+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZktrWWJKUXBhSnNwZ01ScVk1QjhaQnRiNldlYlRBOE9aZm1TWTNrdkZMNEJlVFMzNUItRXlfSlBYYTZKRGJVclZpVldrdWIyMzlJaFhiUmtIMHE5d0NUSHRROUY3S3V5bmxQUjNkbm5oMTd1VHlJVFY0MlFSRmdXeA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRlVLV2lQZ1cxMFNFMlAtZWprT0RFX3BBSnNFU0kwVUJVazZnM3hIT1lCWmRWaW5FUHBtYXh3WG9OQU5paHFYdFlYSS0wRm1SRFpUWUl1WFZLVTllc082UDE2YXRYTVFNVS1QX3lIaEs1X3dfVzNpTlFpREJpdnM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题 - 新华网"
-    },
-    {
-      "event": "直播，一种文化新消费 - 新华网",
-      "published": "2026-10-29T01:14:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3FqMmNwMlZsUGFCUEZJbDhjTzN4MVhiMVhIWGZJcmxsaUpySVZhc1lMOW1jWFJYSkN3WEpyZTdlNkFaVXZlRGRQLVZUd2NmaWFNcmZPcEc0dXJhQzJENWRoWjBVZDRFWU9GNk1BZjktclRIblR3Q2lhMFdnVVZ3ZQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "直播，一种文化新消费 - 新华网"
-    },
-    {
-      "event": "可当“工资卡”，数字人民币全面升级 - 新华网",
-      "published": "2026-10-29T00:47:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yOHptTldrdUIxMTI5LXY2cjZZZjEtMktNWllqNjZIZHpJUERxTDdGVEl6UDhWYXY4d19kRTdwcGdzRVo1eU85N0xZV2k0dFp1QnFOdXJBOEtoTEt6V01xMXllSk12SE5kbGUzZUlxQm0xazZpRVM1eEhiUFYydw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "可当“工资卡”，数字人民币全面升级 - 新华网"
-    },
-    {
-      "event": "人工智能，加速融入你我生活 - 新华网",
-      "published": "2026-10-28T23:58:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZV9lbzN5YkhidDZwbVo1YjEwZUFDUUI2bmdCU3dtNnRUM1NQdU9qS29sLWN6djBVOXFyRzU2eXkzUXJxQTFGRWtlamhQQWtvdlc3N1ZGMVRnMTBBOTFzRk1GcnM2S1ZEYmw0aU82cmNXdFpwc1dHNXB3Ym8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "人工智能，加速融入你我生活 - 新华网"
+      "originalTitle": "河北秋粮收获接近尾声 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +573,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
