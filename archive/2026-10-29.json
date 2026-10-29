@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-29",
-  "date": "更新于北京时间 2026-10-29 14:25",
+  "date": "更新于北京时间 2026-10-29 15:02",
   "reportDate": "2026-10-29",
-  "updatedAt": "2026-10-29T14:25:21+08:00",
+  "updatedAt": "2026-10-29T15:02:02+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "迦南智能：中标约3253.42万元南方电网智能电能表采购项目",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T14:58:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/818122"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "凯格精机：前三季度净利润约1.97亿元 同比增长62.20%",
           "summary": "",
           "paragraphs": [
@@ -209,22 +224,6 @@
         },
         {
           "type": "explainer",
-          "title": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T10:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，诺唯赞发布2026年第三季度报告称，公司前三季度实现营业收入约11.31亿元，同比增长18.77%；归属于上市公司股东的净利润约2422万元，同比增长266.15%；扣除非经常性损益后的净利润为亏损约2981万元；经"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817936"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
           "summary": "",
           "paragraphs": [
@@ -245,11 +244,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-29T09:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：最新披露的公募基金三季报显示，新进重仓股明显向投资品、医药和信息技术等板块集中，科技含量显著提升。从投资逻辑看，基金经理更加聚焦产业趋势，也更加看重公司质地。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/817964"
             }
           ]
@@ -260,11 +260,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-29T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：中国人民银行10月28日发布的2026年三季度金融机构贷款投向统计报告显示，三季度末，金融机构人民币各项贷款余额283.44万亿元，同比增长4.8%。业内专家表示，信贷结构呈现积极变化，其中科技领域信贷表现尤为亮眼。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/817970"
             }
           ]
@@ -275,11 +276,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-29T09:10:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京10月28日电 题：探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/817969"
             }
           ]
@@ -316,16 +318,16 @@
         },
         {
           "type": "explainer",
-          "title": "京津冀长城守护与村落振兴公益行动启动天津项目 - 新华网",
+          "title": "中欧班列“东通道”口岸段最长桥梁铺轨完成 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T06:10:26+00:00；来源：新华网。",
+            "发布时间：2026-10-29T06:50:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VGl5cTE3VHluSkhPejRRc1RtdXpFX2R4REdyckFIQmtmTWR6ZWdrY2tJalVXVjNKN29CSUpHZ1daOEw4b1RPOFdMU1VhY250d2xqYXptYjdzdXZOWVpaWmdUeXV1amhzODR4VzJZd0FpbmlWcXR2YjlzZGZlaGs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUGNOaEV0b3Y5LWtwRUhMMF9UY19xckloeVdkSXpjWlJ6b0dqNDhnLWM2SFpLMzJfc1YtMDZaTklmdTZxRHdnOHZGTVpTeXFPNTJORjZvMTZGcWZLRzhKNkVaZmVReGlEN2c1S3ZEeDhBdFE3bzJYMlN0RHd0U1E?oc=5"
             }
           ]
         }
@@ -383,16 +385,6 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-28"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-28"
@@ -408,14 +400,29 @@
       "asOf": "2026-10-28"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-27"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-27"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "迦南智能：中标约3253.42万元南方电网智能电能表采购项目",
+      "url": "https://www.cnstock.com/commonDetail/818122",
+      "asOf": "2026-10-29T14:58:00+08:00"
     },
     {
       "title": "凯格精机：前三季度净利润约1.97亿元 同比增长62.20%",
@@ -425,11 +432,6 @@
     {
       "title": "浙商证券：前三季度净利润约22.86亿元 同比增长20.82%",
       "url": "https://www.cnstock.com/commonDetail/817782",
-      "asOf": "2026-10-29T10:45:00+08:00"
-    },
-    {
-      "title": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "url": "https://www.cnstock.com/commonDetail/817936",
       "asOf": "2026-10-29T10:45:00+08:00"
     },
     {
@@ -463,12 +465,20 @@
       "asOf": "2026-10-29T07:25:00+08:00"
     },
     {
-      "title": "京津冀长城守护与村落振兴公益行动启动天津项目 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VGl5cTE3VHluSkhPejRRc1RtdXpFX2R4REdyckFIQmtmTWR6ZWdrY2tJalVXVjNKN29CSUpHZ1daOEw4b1RPOFdMU1VhY250d2xqYXptYjdzdXZOWVpaWmdUeXV1amhzODR4VzJZd0FpbmlWcXR2YjlzZGZlaGs?oc=5",
-      "asOf": "2026-10-29T06:10:26+00:00"
+      "title": "中欧班列“东通道”口岸段最长桥梁铺轨完成 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUGNOaEV0b3Y5LWtwRUhMMF9UY19xckloeVdkSXpjWlJ6b0dqNDhnLWM2SFpLMzJfc1YtMDZaTklmdTZxRHdnOHZGTVpTeXFPNTJORjZvMTZGcWZLRzhKNkVaZmVReGlEN2c1S3ZEeDhBdFE3bzJYMlN0RHd0U1E?oc=5",
+      "asOf": "2026-10-29T06:50:54+00:00"
     }
   ],
   "events": [
+    {
+      "event": "迦南智能：中标约3253.42万元南方电网智能电能表采购项目",
+      "originalTitle": "迦南智能：中标约3253.42万元南方电网智能电能表采购项目",
+      "published": "2026-10-29T14:58:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/818122",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "凯格精机：前三季度净利润约1.97亿元 同比增长62.20%",
       "originalTitle": "凯格精机：前三季度净利润约1.97亿元 同比增长62.20%",
@@ -478,8 +488,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/818057",
-        "retrievedAt": "2026-10-29T14:25:21.261762+08:00",
-        "sha256": "e5f5383bd55ea4390c0a4f6b99fe0ae95c03f429cf4586a35493209e7a504c80",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "1653108f0f16c12065bacd599976f9f43ddd0569c859920e6f8cadafe21b2906",
         "paragraphCount": 3,
         "excerpt": "上证智讯 10月29日，凯格精机发布2026年第三季度报告称，公司前三季度实现营业收入约10.75亿元，同比增长38.77%；归属于上市公司股东的净利润约1.97亿元，同比增长62.20%；扣除非经常性损益后的净利润约1.91亿元，同比增长"
       }
@@ -493,25 +503,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/817782",
-        "retrievedAt": "2026-10-29T14:25:21.261762+08:00",
-        "sha256": "7f476812c13e3189ccb9169e4c9e1d80bf8abe9edafd696f752b5862f82ad9a4",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "e98699970d04b36c42b7237c93c239c190ae14d1e11ffe190e82083eab56f436",
         "paragraphCount": 4,
         "excerpt": "上证智讯 10月29日，浙商证券发布2026年第三季度报告称，前三季度公司实现营业收入约79.27亿元，同比增长16.77%；归属于上市公司股东的净利润约22.86亿元，同比增长20.82%；归属于上市公司股东的扣除非经常性损益的净利润约2"
-      }
-    },
-    {
-      "event": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "originalTitle": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "published": "2026-10-29T10:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/817936",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817936",
-        "retrievedAt": "2026-10-29T14:25:21.261762+08:00",
-        "sha256": "12d1fda5a6676459e086588599ec37fe15e85482853119ab7884e57578eace3a",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月29日，诺唯赞发布2026年第三季度报告称，公司前三季度实现营业收入约11.31亿元，同比增长18.77%；归属于上市公司股东的净利润约2422万元，同比增长266.15%；扣除非经常性损益后的净利润为亏损约2981万元；经"
       }
     },
     {
@@ -523,8 +518,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/817965",
-        "retrievedAt": "2026-10-29T14:25:21.261762+08:00",
-        "sha256": "c39c49e7aadac64f1922440ecad952379fceebfb65d9795ca6a8397803b98990",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "20ef47e2beff2278c8dd28b0f1edfb42623db709165283d76379e27bfb6dbaf1",
         "paragraphCount": 29,
         "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
       }
@@ -535,7 +530,14 @@
       "published": "2026-10-29T09:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/817964",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/817964",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "7229239b9e967f4a0060791e5ff8a94a221238f3d6423f30fe786e16d1f741d2",
+        "paragraphCount": 13,
+        "excerpt": "最新披露的公募基金三季报显示，新进重仓股明显向投资品、医药和信息技术等板块集中，科技含量显著提升。从投资逻辑看，基金经理更加聚焦产业趋势，也更加看重公司质地。"
+      }
     },
     {
       "event": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
@@ -543,7 +545,14 @@
       "published": "2026-10-29T09:10:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/817970",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/817970",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "ca530478c2fb5886ac9255cce1c200ade211dbf09f9e2456a879804a3ad23f6c",
+        "paragraphCount": 11,
+        "excerpt": "中国人民银行10月28日发布的2026年三季度金融机构贷款投向统计报告显示，三季度末，金融机构人民币各项贷款余额283.44万亿元，同比增长4.8%。业内专家表示，信贷结构呈现积极变化，其中科技领域信贷表现尤为亮眼。"
+      }
     },
     {
       "event": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
@@ -551,7 +560,14 @@
       "published": "2026-10-29T09:10:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/817969",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/817969",
+        "retrievedAt": "2026-10-29T15:02:02.013446+08:00",
+        "sha256": "ae094997968e4548a0ec1c655becb2cb300903f22219cd7b55148e61b03c48f9",
+        "paragraphCount": 49,
+        "excerpt": "新华社北京10月28日电 题：探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪"
+      }
     },
     {
       "event": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
@@ -570,12 +586,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "京津冀长城守护与村落振兴公益行动启动天津项目 - 新华网",
-      "published": "2026-10-29T06:10:26+00:00",
+      "event": "中欧班列“东通道”口岸段最长桥梁铺轨完成 - 新华网",
+      "published": "2026-10-29T06:50:54+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VGl5cTE3VHluSkhPejRRc1RtdXpFX2R4REdyckFIQmtmTWR6ZWdrY2tJalVXVjNKN29CSUpHZ1daOEw4b1RPOFdMU1VhY250d2xqYXptYjdzdXZOWVpaWmdUeXV1amhzODR4VzJZd0FpbmlWcXR2YjlzZGZlaGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUGNOaEV0b3Y5LWtwRUhMMF9UY19xckloeVdkSXpjWlJ6b0dqNDhnLWM2SFpLMzJfc1YtMDZaTklmdTZxRHdnOHZGTVpTeXFPNTJORjZvMTZGcWZLRzhKNkVaZmVReGlEN2c1S3ZEeDhBdFE3bzJYMlN0RHd0U1E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "京津冀长城守护与村落振兴公益行动启动天津项目 - 新华网"
+      "originalTitle": "中欧班列“东通道”口岸段最长桥梁铺轨完成 - 新华网"
     }
   ],
   "quality": {
@@ -589,8 +605,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
