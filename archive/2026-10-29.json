@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-29",
-  "date": "更新于北京时间 2026-10-29 08:17",
+  "date": "更新于北京时间 2026-10-29 08:52",
   "reportDate": "2026-10-29",
-  "updatedAt": "2026-10-29T08:17:06+08:00",
+  "updatedAt": "2026-10-29T08:52:57+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.70 %；变化 +0.02 个百分点",
+          "summary": "4.67 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -192,21 +192,6 @@
         },
         {
           "type": "explainer",
-          "title": "AI叩门之后，地信技术走向更多场景 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T23:47:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -222,21 +207,6 @@
         },
         {
           "type": "explainer",
-          "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-28T23:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/817385"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
           "summary": "",
           "paragraphs": [
@@ -247,6 +217,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/817371"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T23:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/817385"
             }
           ]
         },
@@ -297,16 +282,16 @@
         },
         {
           "type": "explainer",
-          "title": "美联储宣布维持利率不变 - 新华网",
+          "title": "美联储主席宣布将减少议息频次 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-28T21:15:46+00:00；来源：新华网。",
+            "发布时间：2026-10-28T21:15:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sMkoyeVdfX3hEeGxNRUc4YkkzVjlzdnFKdzFrRzFvdVpHWm5VYTlZb1FJUUR6UE92S3Y5WVFQSHQwakNDQUF2TEtkbUtQelB4UDRvVkxDM19LMXFFa3IzOUxJSXNzRE1jYWlSa2lDSkRPQXNTR2U4N3hfT0dwQQ?oc=5"
             }
           ]
         },
@@ -322,6 +307,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广西东方智造科技股份有限公司关于出售控股子公司股权的进展公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-28T21:07:03+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQkxLLWw0UVlFN25LNDdqMFB1NUhjQXVPODBYRS1yc2FsNVBTTmdGVVZSbmkwSXhPTTkwdWF0SjlBLTRlazU5MVhraElXN3hybkhnV0dnSGZJNG5Oc3RQVzUtYmtmaUxIeXNINndn?oc=5"
             }
           ]
         }
@@ -379,8 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-27"
     },
     {
@@ -389,14 +394,9 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-28"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -404,9 +404,9 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-27"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-28"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -419,23 +419,18 @@
       "asOf": "2026-10-28T23:58:38+00:00"
     },
     {
-      "title": "AI叩门之后，地信技术走向更多场景 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5",
-      "asOf": "2026-10-28T23:47:16+00:00"
-    },
-    {
       "title": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RWN6ajRWMW5lWlpaOU5mRkRQUWM0MzgtZVU3bS1zYWV2ZElCZC1zMHJ5TWVpNjJ3ZldvZHM4NnBTNGJGdm9YMGdlaDA0QTFhMkJVZnptQ0VTQVJYRkMzQVROcG9ZcjNkWVRpSjM5UXNGRnZWaTRF?oc=5",
       "asOf": "2026-10-28T23:32:02+00:00"
     },
     {
-      "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
-      "url": "https://www.cnstock.com/commonDetail/817385",
+      "title": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
+      "url": "https://www.cnstock.com/commonDetail/817371",
       "asOf": "2026-10-28T23:17:00+08:00"
     },
     {
-      "title": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
-      "url": "https://www.cnstock.com/commonDetail/817371",
+      "title": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "url": "https://www.cnstock.com/commonDetail/817385",
       "asOf": "2026-10-28T23:17:00+08:00"
     },
     {
@@ -454,13 +449,18 @@
       "asOf": "2026-10-28T22:10:00+08:00"
     },
     {
-      "title": "美联储宣布维持利率不变 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5",
-      "asOf": "2026-10-28T21:15:46+00:00"
+      "title": "美联储主席宣布将减少议息频次 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sMkoyeVdfX3hEeGxNRUc4YkkzVjlzdnFKdzFrRzFvdVpHWm5VYTlZb1FJUUR6UE92S3Y5WVFQSHQwakNDQUF2TEtkbUtQelB4UDRvVkxDM19LMXFFa3IzOUxJSXNzRE1jYWlSa2lDSkRPQXNTR2U4N3hfT0dwQQ?oc=5",
+      "asOf": "2026-10-28T21:15:52+00:00"
     },
     {
       "title": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5",
+      "asOf": "2026-10-28T21:07:03+00:00"
+    },
+    {
+      "title": "广西东方智造科技股份有限公司关于出售控股子公司股权的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQkxLLWw0UVlFN25LNDdqMFB1NUhjQXVPODBYRS1yc2FsNVBTTmdGVVZSbmkwSXhPTTkwdWF0SjlBLTRlazU5MVhraElXN3hybkhnV0dnSGZJNG5Oc3RQVzUtYmtmaUxIeXNINndn?oc=5",
       "asOf": "2026-10-28T21:07:03+00:00"
     }
   ],
@@ -474,14 +474,6 @@
       "originalTitle": "人工智能，加速融入你我生活 - 新华网"
     },
     {
-      "event": "AI叩门之后，地信技术走向更多场景 - 新华网",
-      "published": "2026-10-28T23:47:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1JuTTZhVXNVMzhsWHRraERFRjc1b0hNbmNnUjJCZjRjOV9kOEFfZWxyd21zN1pIWVBiRFRxM3VYLWFBbUxhcU1OUlVoT1NQWjF5RmtVOGswaUo3MExqQkxHY2tXUk5oRGR2ODVWenMtOWJwYjZtUml3dXdZdnFQSzdDSQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "AI叩门之后，地信技术走向更多场景 - 新华网"
-    },
-    {
       "event": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网",
       "published": "2026-10-28T23:32:02+00:00",
       "publisher": "新华网",
@@ -490,19 +482,19 @@
       "originalTitle": "多地拓展“车票+门票”等一站式出行服务 交通票根链接消费新场景 - 新华网"
     },
     {
-      "event": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
-      "originalTitle": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
-      "published": "2026-10-28T23:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/817385",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
       "originalTitle": "长春一东：前三季度净利润约1526万元，同比增长86.74%",
       "published": "2026-10-28T23:17:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/817371",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "originalTitle": "新凤鸣：前三季度净利润约26.12亿元，同比增长200.65%",
+      "published": "2026-10-28T23:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/817385",
       "evidenceLevel": "headline-only"
     },
     {
@@ -530,12 +522,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "美联储宣布维持利率不变 - 新华网",
-      "published": "2026-10-28T21:15:46+00:00",
+      "event": "美联储主席宣布将减少议息频次 - 新华网",
+      "published": "2026-10-28T21:15:52+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFR5SDczSUQ5ODNxYXZTR2pyUTlqbTN3VEZZeUJUNXBqRDNvYV92OGJ5Z09BSFBHWHpxYlQyNTEtbU9OQUZsUDNlZkJDMzlCdVRXdWtjNjZ3VFkwOFFRa1ctVmZUQ2w3NFdEVExUVEtaQ0xPdXlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sMkoyeVdfX3hEeGxNRUc4YkkzVjlzdnFKdzFrRzFvdVpHWm5VYTlZb1FJUUR6UE92S3Y5WVFQSHQwakNDQUF2TEtkbUtQelB4UDRvVkxDM19LMXFFa3IzOUxJSXNzRE1jYWlSa2lDSkRPQXNTR2U4N3hfT0dwQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美联储宣布维持利率不变 - 新华网"
+      "originalTitle": "美联储主席宣布将减少议息频次 - 新华网"
     },
     {
       "event": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版",
@@ -544,6 +536,14 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMGRTdFBZRkJmUjNiU285YVV3bk93eE5oVHU5bmgtNTZZS3B0REdJMEV6akU3MllYTklpV0FEMWZpZk84WGRFRmozT3EtU3NCaDRPZUppUEFsOUdoLVh2d3VZU2gwdnRHSWRmQml3?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "江苏长龄液压股份有限公司关于公司股东及董事、高级管理人员未减持公司股份并提前终止减持计划的公告 - 上海证券报电子版"
+    },
+    {
+      "event": "广西东方智造科技股份有限公司关于出售控股子公司股权的进展公告 - 上海证券报电子版",
+      "published": "2026-10-28T21:07:03+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQkxLLWw0UVlFN25LNDdqMFB1NUhjQXVPODBYRS1yc2FsNVBTTmdGVVZSbmkwSXhPTTkwdWF0SjlBLTRlazU5MVhraElXN3hybkhnV0dnSGZJNG5Oc3RQVzUtYmtmaUxIeXNINndn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广西东方智造科技股份有限公司关于出售控股子公司股权的进展公告 - 上海证券报电子版"
     }
   ],
   "quality": {
