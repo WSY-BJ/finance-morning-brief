@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-29",
-  "date": "更新于北京时间 2026-10-29 11:21",
+  "date": "更新于北京时间 2026-10-29 13:35",
   "reportDate": "2026-10-29",
-  "updatedAt": "2026-10-29T11:21:21+08:00",
+  "updatedAt": "2026-10-29T13:35:18+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-27：7,722.60 点；较 2026-10-26 变化 +45.83 点。",
+          "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
+          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,9 +80,23 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.67 %；变化 -0.03 个百分点",
+          "summary": "4.70 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：美国财政部。"
+            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.05 %；变化 +0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -93,24 +107,10 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "4.99 %；变化 -0.01 个百分点",
-          "paragraphs": [
-            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：FRED / 原始发布机构。"
-          ],
-          "links": [
-            {
-              "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.32 点；变化 +0.36 点",
+          "summary": "102.19 点；变化 -0.13 点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 101.96（2026-10-26）；来源：Yahoo Finance。"
+            "观测日 2026-10-28；前值 102.32（2026-10-27）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,722.60 点；变化 +45.83 点",
+          "summary": "7,743.98 点；变化 +21.38 点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 7,676.77（2026-10-26）；来源：Yahoo Finance。"
+            "观测日 2026-10-28；前值 7,722.60（2026-10-27）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,477.81 点；变化 +308.43 点",
+          "summary": "26,549.85 点；变化 +72.04 点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 26,169.38（2026-10-26）；来源：Yahoo Finance。"
+            "观测日 2026-10-28；前值 26,477.81（2026-10-27）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,157 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "浙商证券：前三季度净利润约22.86亿元 同比增长20.82%",
+          "title": "中国—马尔代夫投资合作论坛助力双边经贸发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T10:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，浙商证券发布2026年第三季度报告称，前三季度公司实现营业收入约79.27亿元，同比增长16.77%；归属于上市公司股东的净利润约22.86亿元，同比增长20.82%；归属于上市公司股东的扣除非经常性损益的净利润约2"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817782"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T10:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，诺唯赞发布2026年第三季度报告称，公司前三季度实现营业收入约11.31亿元，同比增长18.77%；归属于上市公司股东的净利润约2422万元，同比增长266.15%；扣除非经常性损益后的净利润为亏损约2981万元；经"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817936"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "翔丰华：前三季度净利约8756.06万元 同比增338.96%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T10:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，翔丰华发布2026年第三季度报告称，公司前三季度实现营业收入约16.78亿元，同比增长48.36%；归属于上市公司股东的净利润约8756.06万元，同比增长338.96%；扣除非经常性损益的净利润约6963.68万元"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817932"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T09:33:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817965"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T09:18:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-29T04:54:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/817964"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tSTExWlBxcnNwSWJxMmRLNDlZZHg0OWlRNnUxQmtJYjNVekhsc3Y4RFFibmIzSEdMaXFsdlNDVk9JVGp0cEJoX0NEQnBXWG53eTB4RHVHX3RVUXBiTjFDa3pwblBIeFAwY3NscUJhVzFFWU5yTmdB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
+          "title": "前三季度无锡经济稳中向新 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：截至10月28日，2026年8000亿元新型政策性金融工具全部完成投放，支持了一批重点领域项目建设，服务扩大有效投资。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817971"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T09:10:00+08:00；来源：新华社。",
+            "发布时间：2026-10-29T03:53:48+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/817969"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05YmQ5c3NYSW5DQzBIMGptc2tnNXhiUEZLYVd1cnVPMnBXRDZGQUVuUm5zdTNhY05tUGUwbFUwdjBnbWQxZGdBQ0c5RVhmTDRRSkxYYW0xMExhdEE5OERUY1ZOQ3NvNGNfODVnZFVUY0pNYmcx?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
+          "title": "培育新质生产力 国家级园区在行动丨博鳌乐城：“医”路向新 让“特区红利”惠及大众 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：中国人民银行10月28日发布的2026年三季度金融机构贷款投向统计报告显示，三季度末，金融机构人民币各项贷款余额283.44万亿元，同比增长4.8%。业内专家表示，信贷结构呈现积极变化，其中科技领域信贷表现尤为亮眼。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/817970"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美联储宣布维持利率不变",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T07:25:00+08:00；来源：新华社。",
+            "发布时间：2026-10-29T03:51:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/817961"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oWGxLNVlIM295RVV0WEJjM1N2ZXJaNVZxNHhVOW9JU2RTYWpkTm9yLTBqblJkUWVZRjZkdmRHRl9vVzRHdTkyaEN3Y1piNmhwbHQ0RTZCNnJyaXZkTjZjR09qdGJkVHJqLUJQemdzS21HLTRZZ3c?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "解码济南前三季度经济答卷的深层逻辑 - 新华网",
+          "title": "六张网里的“硬科技”丨一道“量子安全锁”守护电网脉动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T03:03:29+00:00；来源：新华网。",
+            "发布时间：2026-10-29T03:44:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYzRvRlktY3oxTlBwZUQ3WXU2RGdpbzRWTnVZSE9RWHZaRERFZnhqUWg2RF9JUjQtV2EySzA5VXFVTURYQ0tFQUdnOTI1NFMzd3FmanZFejJUc2tPQllmMFFoZmN3T2EzWkFWWWZCeTh1NUdL?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV3EwcVlEWEVvc1FWNDhjaW12LTZEMHpDaFkzV0FXQzA1T25XWHJYcHh5dHNTaEkyMzJSTDhieU1mVzVYam9VZFUyN2d5R2dSN1UtemdnTUtNY21INkhnSTQxWF9yeWtFa0RMbzFpTkRSWUlKVnc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "五年期公司债利率创历史新低 广西国控集团成功发行5亿元公司债券 - 新华社广西分社",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:36:24+00:00；来源：新华社广西分社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZkdaajlDRjVtbllZMEYteEd5bkU4MG5LOGgySUM2a0prSzNqR3NwcVQ5S3VvYW8yZVpjUktOTnJ2Vm8wVXBvY3Q1UFhMeHZTYjEwODRzWHA1ZEgtRFNVeFllWGxzYWc4NWZ0NzhsMlMyN1hNYlZvcEE0OA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "润泽科技扣非盈利稳健增长，算力扩容与全球化并进 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:27:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRUaFA2OTdtVzAwbnRteGFfNVlEV3B6Znk1a1NGOUIzdDNiNmtTUVFyWmlJSnVPalpnT3VLVlBONVBfRG5xam5rbGJua002NF8tTXB3WG5za3U3SF9ySHdGeVVVY0ZoTGdnQVBiYWRtS1RtdkFvTUdTXzlBZlJrWQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "京东11.11举办实木家具行业峰会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:24:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FWnR1S2NzeFF0enMtNUxQNzJkcDQxUktpOGdVUU5DU2FBTXNoTVdOcDNKanhuR1VfV0ZUYzVETjhMSEVSZW9zSWsxdXhfN0RYaGRvRkZVWXEtdjFTdWI4cFVxSzBIV1hoaTJyNDdKM1JYS3NhTWFZdGFjSFdCdmc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“中国智造”手记：一辆新能源车的“德国朋友圈” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:23:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQUN3MWZIY2dYSWJfSTlpZHY0QnZEWGc4RVFSWXgwRUFxZVd1alc2UHV1VUNSeDF1aENwbEttZnNRX3N3MFU5THZfSWFwb3lhWS1ENWtyYWhIcUtLbXQ3b0FjNFI1T203WEpEZ0xFWi16YlN4N0hXZU5aMW4?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "委内瑞拉代总统要求英格兰银行归还黄金储备 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:18:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ob0E5U25fSEUzSnFnQUVfSmpibVVCRTFfTXY2WTVycC1yZENJUHNneU81YW0xN1d0Z0Z4VnRYTTVVaHVsS21pckp6OXVNOFJ0ZU96Vzdlby1fZE96Y0ljclNaOFlxNzBqOWY4R3d5akotZVN0bzM4MkFwZElvTnM?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "文化中国行丨方寸书屋蕴书香 以文惠民润民心 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T03:11:28+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xa1VDem04YzRWeVhfQWVabXFLbGNuSFpZYkVRQVo3THdqODVlU211YTBDenN1MkhuM0VGQi1mQUlWVE9zNVd0Ti14RU1KYm5pNnhYRlZ5QUtUVFBjSG1hWnJSc2hHem1HREszZm0zRk5HaXM3MXNWMl81TnFKcVE?oc=5"
             }
           ]
         }
@@ -359,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-26 前值 7676.7700，2026-10-27 现值 7722.6001，变化 +45.8301。",
+            "本期实例：标普 500 指数，2026-10-27 前值 7722.6001，2026-10-28 现值 7743.9800，变化 +21.3799。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -385,24 +379,9 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-28"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-27"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-27"
+      "asOf": "2026-10-28"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -410,188 +389,161 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-28"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-27"
     },
     {
-      "title": "浙商证券：前三季度净利润约22.86亿元 同比增长20.82%",
-      "url": "https://www.cnstock.com/commonDetail/817782",
-      "asOf": "2026-10-29T10:45:00+08:00"
+      "title": "中国—马尔代夫投资合作论坛助力双边经贸发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tSTExWlBxcnNwSWJxMmRLNDlZZHg0OWlRNnUxQmtJYjNVekhsc3Y4RFFibmIzSEdMaXFsdlNDVk9JVGp0cEJoX0NEQnBXWG53eTB4RHVHX3RVUXBiTjFDa3pwblBIeFAwY3NscUJhVzFFWU5yTmdB?oc=5",
+      "asOf": "2026-10-29T04:54:38+00:00"
     },
     {
-      "title": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "url": "https://www.cnstock.com/commonDetail/817936",
-      "asOf": "2026-10-29T10:45:00+08:00"
+      "title": "前三季度无锡经济稳中向新 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05YmQ5c3NYSW5DQzBIMGptc2tnNXhiUEZLYVd1cnVPMnBXRDZGQUVuUm5zdTNhY05tUGUwbFUwdjBnbWQxZGdBQ0c5RVhmTDRRSkxYYW0xMExhdEE5OERUY1ZOQ3NvNGNfODVnZFVUY0pNYmcx?oc=5",
+      "asOf": "2026-10-29T03:53:48+00:00"
     },
     {
-      "title": "翔丰华：前三季度净利约8756.06万元 同比增338.96%",
-      "url": "https://www.cnstock.com/commonDetail/817932",
-      "asOf": "2026-10-29T10:45:00+08:00"
+      "title": "培育新质生产力 国家级园区在行动丨博鳌乐城：“医”路向新 让“特区红利”惠及大众 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oWGxLNVlIM295RVV0WEJjM1N2ZXJaNVZxNHhVOW9JU2RTYWpkTm9yLTBqblJkUWVZRjZkdmRHRl9vVzRHdTkyaEN3Y1piNmhwbHQ0RTZCNnJyaXZkTjZjR09qdGJkVHJqLUJQemdzS21HLTRZZ3c?oc=5",
+      "asOf": "2026-10-29T03:51:58+00:00"
     },
     {
-      "title": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
-      "url": "https://www.cnstock.com/commonDetail/817965",
-      "asOf": "2026-10-29T09:33:00+08:00"
+      "title": "六张网里的“硬科技”丨一道“量子安全锁”守护电网脉动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV3EwcVlEWEVvc1FWNDhjaW12LTZEMHpDaFkzV0FXQzA1T25XWHJYcHh5dHNTaEkyMzJSTDhieU1mVzVYam9VZFUyN2d5R2dSN1UtemdnTUtNY21INkhnSTQxWF9yeWtFa0RMbzFpTkRSWUlKVnc?oc=5",
+      "asOf": "2026-10-29T03:44:53+00:00"
     },
     {
-      "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
-      "url": "https://www.cnstock.com/commonDetail/817964",
-      "asOf": "2026-10-29T09:18:00+08:00"
+      "title": "五年期公司债利率创历史新低 广西国控集团成功发行5亿元公司债券 - 新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZkdaajlDRjVtbllZMEYteEd5bkU4MG5LOGgySUM2a0prSzNqR3NwcVQ5S3VvYW8yZVpjUktOTnJ2Vm8wVXBvY3Q1UFhMeHZTYjEwODRzWHA1ZEgtRFNVeFllWGxzYWc4NWZ0NzhsMlMyN1hNYlZvcEE0OA?oc=5",
+      "asOf": "2026-10-29T03:36:24+00:00"
     },
     {
-      "title": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
-      "url": "https://www.cnstock.com/commonDetail/817971",
-      "asOf": "2026-10-29T09:10:00+08:00"
+      "title": "润泽科技扣非盈利稳健增长，算力扩容与全球化并进 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRUaFA2OTdtVzAwbnRteGFfNVlEV3B6Znk1a1NGOUIzdDNiNmtTUVFyWmlJSnVPalpnT3VLVlBONVBfRG5xam5rbGJua002NF8tTXB3WG5za3U3SF9ySHdGeVVVY0ZoTGdnQVBiYWRtS1RtdkFvTUdTXzlBZlJrWQ?oc=5",
+      "asOf": "2026-10-29T03:27:46+00:00"
     },
     {
-      "title": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
-      "url": "https://www.cnstock.com/commonDetail/817969",
-      "asOf": "2026-10-29T09:10:00+08:00"
+      "title": "京东11.11举办实木家具行业峰会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FWnR1S2NzeFF0enMtNUxQNzJkcDQxUktpOGdVUU5DU2FBTXNoTVdOcDNKanhuR1VfV0ZUYzVETjhMSEVSZW9zSWsxdXhfN0RYaGRvRkZVWXEtdjFTdWI4cFVxSzBIV1hoaTJyNDdKM1JYS3NhTWFZdGFjSFdCdmc?oc=5",
+      "asOf": "2026-10-29T03:24:42+00:00"
     },
     {
-      "title": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "url": "https://www.cnstock.com/commonDetail/817970",
-      "asOf": "2026-10-29T09:10:00+08:00"
+      "title": "“中国智造”手记：一辆新能源车的“德国朋友圈” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQUN3MWZIY2dYSWJfSTlpZHY0QnZEWGc4RVFSWXgwRUFxZVd1alc2UHV1VUNSeDF1aENwbEttZnNRX3N3MFU5THZfSWFwb3lhWS1ENWtyYWhIcUtLbXQ3b0FjNFI1T203WEpEZ0xFWi16YlN4N0hXZU5aMW4?oc=5",
+      "asOf": "2026-10-29T03:23:51+00:00"
     },
     {
-      "title": "美联储宣布维持利率不变",
-      "url": "https://www.cnstock.com/commonDetail/817961",
-      "asOf": "2026-10-29T07:25:00+08:00"
+      "title": "委内瑞拉代总统要求英格兰银行归还黄金储备 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ob0E5U25fSEUzSnFnQUVfSmpibVVCRTFfTXY2WTVycC1yZENJUHNneU81YW0xN1d0Z0Z4VnRYTTVVaHVsS21pckp6OXVNOFJ0ZU96Vzdlby1fZE96Y0ljclNaOFlxNzBqOWY4R3d5akotZVN0bzM4MkFwZElvTnM?oc=5",
+      "asOf": "2026-10-29T03:18:54+00:00"
     },
     {
-      "title": "解码济南前三季度经济答卷的深层逻辑 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYzRvRlktY3oxTlBwZUQ3WXU2RGdpbzRWTnVZSE9RWHZaRERFZnhqUWg2RF9JUjQtV2EySzA5VXFVTURYQ0tFQUdnOTI1NFMzd3FmanZFejJUc2tPQllmMFFoZmN3T2EzWkFWWWZCeTh1NUdL?oc=5",
-      "asOf": "2026-10-29T03:03:29+00:00"
+      "title": "文化中国行丨方寸书屋蕴书香 以文惠民润民心 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xa1VDem04YzRWeVhfQWVabXFLbGNuSFpZYkVRQVo3THdqODVlU211YTBDenN1MkhuM0VGQi1mQUlWVE9zNVd0Ti14RU1KYm5pNnhYRlZ5QUtUVFBjSG1hWnJSc2hHem1HREszZm0zRk5HaXM3MXNWMl81TnFKcVE?oc=5",
+      "asOf": "2026-10-29T03:11:28+00:00"
     }
   ],
   "events": [
     {
-      "event": "浙商证券：前三季度净利润约22.86亿元 同比增长20.82%",
-      "originalTitle": "浙商证券：前三季度净利润约22.86亿元 同比增长20.82%",
-      "published": "2026-10-29T10:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/817782",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817782",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "d67666b67fc7d263a0ea1d254fd026260b85271d1c8103d8c5ceb86cdff87eb9",
-        "paragraphCount": 4,
-        "excerpt": "上证智讯 10月29日，浙商证券发布2026年第三季度报告称，前三季度公司实现营业收入约79.27亿元，同比增长16.77%；归属于上市公司股东的净利润约22.86亿元，同比增长20.82%；归属于上市公司股东的扣除非经常性损益的净利润约2"
-      }
-    },
-    {
-      "event": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "originalTitle": "诺唯赞：前三季度净利润约2422万元 同比增266.15%",
-      "published": "2026-10-29T10:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/817936",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817936",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "83012702ea7cb6645dc78267e470c355080023cf55635e192f30fda1c4e76bb9",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月29日，诺唯赞发布2026年第三季度报告称，公司前三季度实现营业收入约11.31亿元，同比增长18.77%；归属于上市公司股东的净利润约2422万元，同比增长266.15%；扣除非经常性损益后的净利润为亏损约2981万元；经"
-      }
-    },
-    {
-      "event": "翔丰华：前三季度净利约8756.06万元 同比增338.96%",
-      "originalTitle": "翔丰华：前三季度净利约8756.06万元 同比增338.96%",
-      "published": "2026-10-29T10:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/817932",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817932",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "7fed334213ac642490876059ba7395acb487b89b4713980cd927c6188ae52b03",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月29日，翔丰华发布2026年第三季度报告称，公司前三季度实现营业收入约16.78亿元，同比增长48.36%；归属于上市公司股东的净利润约8756.06万元，同比增长338.96%；扣除非经常性损益的净利润约6963.68万元"
-      }
-    },
-    {
-      "event": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
-      "originalTitle": "把风、光、水装进REITs——“十五五”券业新使命调研之中航证券样本",
-      "published": "2026-10-29T09:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/817965",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817965",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "9c5545ec5361723cba94de6cf73a8c2071603b9b08da76fa1af2f92317991121",
-        "paragraphCount": 29,
-        "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
-      }
-    },
-    {
-      "event": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
-      "originalTitle": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
-      "published": "2026-10-29T09:18:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/817964",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
-      "originalTitle": "8000亿元新型政策性金融工具投放完成 资金到位节奏快于预期，成为稳投资扩内需关键抓手",
-      "published": "2026-10-29T09:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/817971",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817971",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "8638dcd927c5fa1af0e4f2669e4a285636e117550e79d2ae5154a520accb9bbe",
-        "paragraphCount": 12,
-        "excerpt": "截至10月28日，2026年8000亿元新型政策性金融工具全部完成投放，支持了一批重点领域项目建设，服务扩大有效投资。"
-      }
-    },
-    {
-      "event": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
-      "originalTitle": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
-      "published": "2026-10-29T09:10:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/817969",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "originalTitle": "央行发布三季度金融机构贷款投向统计报告 信贷结构呈现积极变化 科技领域信贷表现亮眼",
-      "published": "2026-10-29T09:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/817970",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/817970",
-        "retrievedAt": "2026-10-29T11:21:21.931885+08:00",
-        "sha256": "a40c3e695c1dd223f1970f5ef4b798d8483886d61b8a45485a29b5a07de73b45",
-        "paragraphCount": 11,
-        "excerpt": "中国人民银行10月28日发布的2026年三季度金融机构贷款投向统计报告显示，三季度末，金融机构人民币各项贷款余额283.44万亿元，同比增长4.8%。业内专家表示，信贷结构呈现积极变化，其中科技领域信贷表现尤为亮眼。"
-      }
-    },
-    {
-      "event": "美联储宣布维持利率不变",
-      "originalTitle": "美联储宣布维持利率不变",
-      "published": "2026-10-29T07:25:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/817961",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "解码济南前三季度经济答卷的深层逻辑 - 新华网",
-      "published": "2026-10-29T03:03:29+00:00",
+      "event": "中国—马尔代夫投资合作论坛助力双边经贸发展 - 新华网",
+      "published": "2026-10-29T04:54:38+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYzRvRlktY3oxTlBwZUQ3WXU2RGdpbzRWTnVZSE9RWHZaRERFZnhqUWg2RF9JUjQtV2EySzA5VXFVTURYQ0tFQUdnOTI1NFMzd3FmanZFejJUc2tPQllmMFFoZmN3T2EzWkFWWWZCeTh1NUdL?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tSTExWlBxcnNwSWJxMmRLNDlZZHg0OWlRNnUxQmtJYjNVekhsc3Y4RFFibmIzSEdMaXFsdlNDVk9JVGp0cEJoX0NEQnBXWG53eTB4RHVHX3RVUXBiTjFDa3pwblBIeFAwY3NscUJhVzFFWU5yTmdB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "解码济南前三季度经济答卷的深层逻辑 - 新华网"
+      "originalTitle": "中国—马尔代夫投资合作论坛助力双边经贸发展 - 新华网"
+    },
+    {
+      "event": "前三季度无锡经济稳中向新 - 新华网江苏频道",
+      "published": "2026-10-29T03:53:48+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05YmQ5c3NYSW5DQzBIMGptc2tnNXhiUEZLYVd1cnVPMnBXRDZGQUVuUm5zdTNhY05tUGUwbFUwdjBnbWQxZGdBQ0c5RVhmTDRRSkxYYW0xMExhdEE5OERUY1ZOQ3NvNGNfODVnZFVUY0pNYmcx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前三季度无锡经济稳中向新 - 新华网江苏频道"
+    },
+    {
+      "event": "培育新质生产力 国家级园区在行动丨博鳌乐城：“医”路向新 让“特区红利”惠及大众 - 新华网",
+      "published": "2026-10-29T03:51:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oWGxLNVlIM295RVV0WEJjM1N2ZXJaNVZxNHhVOW9JU2RTYWpkTm9yLTBqblJkUWVZRjZkdmRHRl9vVzRHdTkyaEN3Y1piNmhwbHQ0RTZCNnJyaXZkTjZjR09qdGJkVHJqLUJQemdzS21HLTRZZ3c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "培育新质生产力 国家级园区在行动丨博鳌乐城：“医”路向新 让“特区红利”惠及大众 - 新华网"
+    },
+    {
+      "event": "六张网里的“硬科技”丨一道“量子安全锁”守护电网脉动 - 新华网",
+      "published": "2026-10-29T03:44:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV3EwcVlEWEVvc1FWNDhjaW12LTZEMHpDaFkzV0FXQzA1T25XWHJYcHh5dHNTaEkyMzJSTDhieU1mVzVYam9VZFUyN2d5R2dSN1UtemdnTUtNY21INkhnSTQxWF9yeWtFa0RMbzFpTkRSWUlKVnc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "六张网里的“硬科技”丨一道“量子安全锁”守护电网脉动 - 新华网"
+    },
+    {
+      "event": "五年期公司债利率创历史新低 广西国控集团成功发行5亿元公司债券 - 新华社广西分社",
+      "published": "2026-10-29T03:36:24+00:00",
+      "publisher": "新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZkdaajlDRjVtbllZMEYteEd5bkU4MG5LOGgySUM2a0prSzNqR3NwcVQ5S3VvYW8yZVpjUktOTnJ2Vm8wVXBvY3Q1UFhMeHZTYjEwODRzWHA1ZEgtRFNVeFllWGxzYWc4NWZ0NzhsMlMyN1hNYlZvcEE0OA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "五年期公司债利率创历史新低 广西国控集团成功发行5亿元公司债券 - 新华社广西分社"
+    },
+    {
+      "event": "润泽科技扣非盈利稳健增长，算力扩容与全球化并进 - 新华网",
+      "published": "2026-10-29T03:27:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRUaFA2OTdtVzAwbnRteGFfNVlEV3B6Znk1a1NGOUIzdDNiNmtTUVFyWmlJSnVPalpnT3VLVlBONVBfRG5xam5rbGJua002NF8tTXB3WG5za3U3SF9ySHdGeVVVY0ZoTGdnQVBiYWRtS1RtdkFvTUdTXzlBZlJrWQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "润泽科技扣非盈利稳健增长，算力扩容与全球化并进 - 新华网"
+    },
+    {
+      "event": "京东11.11举办实木家具行业峰会 - 新华网",
+      "published": "2026-10-29T03:24:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FWnR1S2NzeFF0enMtNUxQNzJkcDQxUktpOGdVUU5DU2FBTXNoTVdOcDNKanhuR1VfV0ZUYzVETjhMSEVSZW9zSWsxdXhfN0RYaGRvRkZVWXEtdjFTdWI4cFVxSzBIV1hoaTJyNDdKM1JYS3NhTWFZdGFjSFdCdmc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "京东11.11举办实木家具行业峰会 - 新华网"
+    },
+    {
+      "event": "“中国智造”手记：一辆新能源车的“德国朋友圈” - 新华网",
+      "published": "2026-10-29T03:23:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQUN3MWZIY2dYSWJfSTlpZHY0QnZEWGc4RVFSWXgwRUFxZVd1alc2UHV1VUNSeDF1aENwbEttZnNRX3N3MFU5THZfSWFwb3lhWS1ENWtyYWhIcUtLbXQ3b0FjNFI1T203WEpEZ0xFWi16YlN4N0hXZU5aMW4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“中国智造”手记：一辆新能源车的“德国朋友圈” - 新华网"
+    },
+    {
+      "event": "委内瑞拉代总统要求英格兰银行归还黄金储备 - 新华网",
+      "published": "2026-10-29T03:18:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ob0E5U25fSEUzSnFnQUVfSmpibVVCRTFfTXY2WTVycC1yZENJUHNneU81YW0xN1d0Z0Z4VnRYTTVVaHVsS21pckp6OXVNOFJ0ZU96Vzdlby1fZE96Y0ljclNaOFlxNzBqOWY4R3d5akotZVN0bzM4MkFwZElvTnM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "委内瑞拉代总统要求英格兰银行归还黄金储备 - 新华网"
+    },
+    {
+      "event": "文化中国行丨方寸书屋蕴书香 以文惠民润民心 - 新华网",
+      "published": "2026-10-29T03:11:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xa1VDem04YzRWeVhfQWVabXFLbGNuSFpZYkVRQVo3THdqODVlU211YTBDenN1MkhuM0VGQi1mQUlWVE9zNVd0Ti14RU1KYm5pNnhYRlZ5QUtUVFBjSG1hWnJSc2hHem1HREszZm0zRk5HaXM3MXNWMl81TnFKcVE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "文化中国行丨方寸书屋蕴书香 以文惠民润民心 - 新华网"
     }
   ],
   "quality": {
@@ -605,9 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
