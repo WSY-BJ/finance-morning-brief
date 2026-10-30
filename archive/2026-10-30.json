@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 13:34",
+  "date": "更新于北京时间 2026-10-30 13:50",
   "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T13:34:32+08:00",
+  "updatedAt": "2026-10-30T13:50:48+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-29：7,720.39 点；较 2026-10-28 变化 -23.59 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -224,22 +224,6 @@
         },
         {
           "type": "explainer",
-          "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/819306"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
           "summary": "",
           "paragraphs": [
@@ -256,6 +240,22 @@
         },
         {
           "type": "explainer",
+          "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/819306"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
           "summary": "",
           "paragraphs": [
@@ -266,6 +266,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/819270"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T05:37:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQmZJLW1EZVdoRTI5OHBMRHVIVmlnTV9lUDkxS2k4QnVnbzJrR3RKeGRSUnUwVEhvNndFVXhBOWtIVlFjWThNNXVrUFh4X3k1OXdyeUFNQ2NWWEw1dFFFcFBQQUxmNEEwN2lGbWhvc3ZoeUtFUzJkNFRxOUhiblU?oc=5"
             }
           ]
         },
@@ -311,21 +326,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "广州天桥变身“空中花海”引客来 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T02:58:52+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5"
             }
           ]
         }
@@ -383,23 +383,13 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-29"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-29"
     },
     {
@@ -408,13 +398,23 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-28"
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-28"
     },
     {
@@ -433,19 +433,24 @@
       "asOf": "2026-10-30T11:06:00+08:00"
     },
     {
-      "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "url": "https://www.cnstock.com/commonDetail/819306",
+      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "url": "https://www.cnstock.com/commonDetail/819436",
       "asOf": "2026-10-30T08:31:00+08:00"
     },
     {
-      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "url": "https://www.cnstock.com/commonDetail/819436",
+      "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "url": "https://www.cnstock.com/commonDetail/819306",
       "asOf": "2026-10-30T08:31:00+08:00"
     },
     {
       "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
       "url": "https://www.cnstock.com/commonDetail/819270",
       "asOf": "2026-10-30T08:30:00+08:00"
+    },
+    {
+      "title": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQmZJLW1EZVdoRTI5OHBMRHVIVmlnTV9lUDkxS2k4QnVnbzJrR3RKeGRSUnUwVEhvNndFVXhBOWtIVlFjWThNNXVrUFh4X3k1OXdyeUFNQ2NWWEw1dFFFcFBQQUxmNEEwN2lGbWhvc3ZoeUtFUzJkNFRxOUhiblU?oc=5",
+      "asOf": "2026-10-30T05:37:37+00:00"
     },
     {
       "title": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网",
@@ -461,11 +466,6 @@
       "title": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "asOf": "2026-10-30T02:59:53+00:00"
-    },
-    {
-      "title": "广州天桥变身“空中花海”引客来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5",
-      "asOf": "2026-10-30T02:58:52+00:00"
     }
   ],
   "events": [
@@ -478,7 +478,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/820313",
-        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
         "sha256": "f7bb9c3b07c3ca877dd5dd756b8a92e89ca0bf266244937206042da94590eab1",
         "paragraphCount": 5,
         "excerpt": "上证报中国证券网讯（记者 何昕怡）截至10月29日19时，沪市当晚共101家公司披露利好公告，涵盖回购增持、经营业绩、分红等。"
@@ -501,25 +501,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/820282",
-        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
         "sha256": "34a5911c01bf6938e42b87edc4dc6adf55d5c59786741ad18996ef823d47510e",
         "paragraphCount": 6,
         "excerpt": "上证报中国证券网讯 据国家能源局10月30日消息，国家能源局、工业和信息化部、国务院国资委、市场监管总局联合印发关于促进燃气轮机创新发展的指导意见（以下简称“指导意见”）。"
-      }
-    },
-    {
-      "event": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "originalTitle": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "published": "2026-10-30T08:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/819306",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/819306",
-        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
-        "sha256": "146933ea20f9d8e64f71bcad8413d790d69130e8d55b533aef84ad275609f238",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
       }
     },
     {
@@ -531,10 +516,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/819436",
-        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
         "sha256": "1ceef33727c6adcdd2b233ace0fe2c48c134349eee5d5e957f03998fddcedb4d",
         "paragraphCount": 3,
         "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
+      }
+    },
+    {
+      "event": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "originalTitle": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "published": "2026-10-30T08:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/819306",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/819306",
+        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
+        "sha256": "146933ea20f9d8e64f71bcad8413d790d69130e8d55b533aef84ad275609f238",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
       }
     },
     {
@@ -544,6 +544,14 @@
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/819270",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网",
+      "published": "2026-10-30T05:37:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQmZJLW1EZVdoRTI5OHBMRHVIVmlnTV9lUDkxS2k4QnVnbzJrR3RKeGRSUnUwVEhvNndFVXhBOWtIVlFjWThNNXVrUFh4X3k1OXdyeUFNQ2NWWEw1dFFFcFBQQUxmNEEwN2lGbWhvc3ZoeUtFUzJkNFRxOUhiblU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网"
     },
     {
       "event": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网",
@@ -568,14 +576,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网"
-    },
-    {
-      "event": "广州天桥变身“空中花海”引客来 - 新华网",
-      "published": "2026-10-30T02:58:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "广州天桥变身“空中花海”引客来 - 新华网"
     }
   ],
   "quality": {
