@@ -82,7 +82,20 @@ jobs:
           git add report.json archive/
           if ! git diff --cached --quiet; then
             git commit -m "Daily brief ${{ steps.state.outputs.date }}"
-            git push
+            # The independent notifier may push a receipt while generation runs.
+            # Rebase preserves that receipt and never force-pushes over it.
+            for attempt in 1 2 3 4; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                break
+              fi
+              if [ "$attempt" -eq 4 ]; then
+                echo "Daily report push failed after four non-destructive retries" >&2
+                exit 1
+              fi
+              sleep 3
+            done
           fi
 
       - name: Prepare public site artifact
