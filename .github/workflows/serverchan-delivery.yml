@@ -41,3 +41,5 @@ jobs:
         env:
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
         run: python scripts/daily_delivery.py
+
+# 2026-10-30 08:35 CST: safe recovery trigger; delivery logic unchanged.
