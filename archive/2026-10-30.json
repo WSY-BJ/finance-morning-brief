@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 13:50",
+  "date": "更新于北京时间 2026-10-30 14:24",
   "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T13:50:48+08:00",
+  "updatedAt": "2026-10-30T14:24:16+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,95 +177,46 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "利好公告密集披露 10月29日沪市公司频频报喜",
+          "title": "拉加德宣布提前离任 欧洲央行将走向何方？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T11:36:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何昕怡）截至10月29日19时，沪市当晚共101家公司披露利好公告，涵盖回购增持、经营业绩、分红等。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/820313"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "企业公平竞争座谈会在京召开",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T11:32:00+08:00；来源：上海证券报微信公众号。",
+            "发布时间：2026-10-30T06:12:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/820306"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbVJZV2FEMnpGLWx4QU93TnNqaGYtOFNvel8zcy14TlN6MUxYNFBjdnAyMjVRZDdCMFIzajBoNTdVcHpTX1NpMFFIRlZqdURsVHJ6VGQtRFNkaHBZaVU3OUtLREh3OHZkakZHdUstV09DT3N1aW9seUM5UkpkVFE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
+          "title": "人工智能，加速融入你我生活 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T11:06:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国家能源局10月30日消息，国家能源局、工业和信息化部、国务院国资委、市场监管总局联合印发关于促进燃气轮机创新发展的指导意见（以下简称“指导意见”）。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/820282"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/819436"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/819306"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T08:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-30T05:52:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/819270"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTBUMzhkYUlySWQteUZEU0VrNG5jeERVdThhSHk2QUtTbFZMdlBPMUFzV2FuVk5NamdoTXJSZFlSZ21DQWpWYzJyRkRwMU4yajA3VUdfQjhwek83VWN4QV9oTl91ZUQxT1U5bE1uZTBwQlB2Z0w1UEpWdEF3cFppVXZB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一道“量子安全锁”守护电网脉动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T05:49:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVpmbnlFTWVRaU56b3RrMnlYUHBQQTNuTDc5d2lrcXd2YXBkUE40V1hxVEpQZmh5XzZZTGMtSFJzcE9idVZJQmV1SzVCS1VlemNxdHluUXRZR0tjbUxfVjdmaFVRRnh0NjhIWkktbEVHWTZSTG53bkxXUkdiMXBhbE53?oc=5"
             }
           ]
         },
@@ -301,6 +252,36 @@
         },
         {
           "type": "explainer",
+          "title": "通讯丨一颗巧克力连中奥——进博会“全勤生”珍得对中国市场充满信心 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T04:32:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT3hYLVc4ZDZ0SXdtYUxpSzBTb3hVd3htbUNuUkQxSXZ2NEZGVkt4c1l0QWdJN1laa0lfV09Nd2lvRUNhVjRmb2NyY2xxSnkxcmcwZkhIWEJ4Zk1OelVBTlpRRHZsM2ptcl9XTkJ1M09ieW0tbjl1bXJSd2lXSEE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "苍洱舞韵展风采 恒丰银行大理分行举办第五届广场舞大赛 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T03:36:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYktYa3h1OG0tRjJDbExDOEtFdkdHUGc3WHp4RDhXN3ZESGVZalJ1QzlCc3hRbTk3eWNLMmlCN3p5czBHOEFBM3VuOVhXbkY2dzIwSGZlblZncS14MzFMSWNJZGp1ZlRKejV2X3UxQWlZYWt1bXRXT1J3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中国向古巴捐赠生活物资 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -326,6 +307,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第三届俄罗斯－非洲峰会聚焦发展多领域合作 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T02:50:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdV9YQkFEdTRwRWczUTBvWHM4MUJzWHc5YzdEZUlnLUlWd1lUcF82WXNRNVg1VnNGRU9BQkIwelJFM3ItMzFYc2RKMFZPVDVBR05aWmhiVXhpQUxtNGFYdWczQ050ZVJRa2JVcVN6TkoxUFVSRG9DSEFzalp1QQ?oc=5"
             }
           ]
         }
@@ -393,13 +389,13 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-29"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-29"
     },
     {
@@ -418,34 +414,19 @@
       "asOf": "2026-10-28"
     },
     {
-      "title": "利好公告密集披露 10月29日沪市公司频频报喜",
-      "url": "https://www.cnstock.com/commonDetail/820313",
-      "asOf": "2026-10-30T11:36:00+08:00"
+      "title": "拉加德宣布提前离任 欧洲央行将走向何方？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbVJZV2FEMnpGLWx4QU93TnNqaGYtOFNvel8zcy14TlN6MUxYNFBjdnAyMjVRZDdCMFIzajBoNTdVcHpTX1NpMFFIRlZqdURsVHJ6VGQtRFNkaHBZaVU3OUtLREh3OHZkakZHdUstV09DT3N1aW9seUM5UkpkVFE?oc=5",
+      "asOf": "2026-10-30T06:12:53+00:00"
     },
     {
-      "title": "企业公平竞争座谈会在京召开",
-      "url": "https://www.cnstock.com/commonDetail/820306",
-      "asOf": "2026-10-30T11:32:00+08:00"
+      "title": "人工智能，加速融入你我生活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTBUMzhkYUlySWQteUZEU0VrNG5jeERVdThhSHk2QUtTbFZMdlBPMUFzV2FuVk5NamdoTXJSZFlSZ21DQWpWYzJyRkRwMU4yajA3VUdfQjhwek83VWN4QV9oTl91ZUQxT1U5bE1uZTBwQlB2Z0w1UEpWdEF3cFppVXZB?oc=5",
+      "asOf": "2026-10-30T05:52:46+00:00"
     },
     {
-      "title": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
-      "url": "https://www.cnstock.com/commonDetail/820282",
-      "asOf": "2026-10-30T11:06:00+08:00"
-    },
-    {
-      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "url": "https://www.cnstock.com/commonDetail/819436",
-      "asOf": "2026-10-30T08:31:00+08:00"
-    },
-    {
-      "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "url": "https://www.cnstock.com/commonDetail/819306",
-      "asOf": "2026-10-30T08:31:00+08:00"
-    },
-    {
-      "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
-      "url": "https://www.cnstock.com/commonDetail/819270",
-      "asOf": "2026-10-30T08:30:00+08:00"
+      "title": "一道“量子安全锁”守护电网脉动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVpmbnlFTWVRaU56b3RrMnlYUHBQQTNuTDc5d2lrcXd2YXBkUE40V1hxVEpQZmh5XzZZTGMtSFJzcE9idVZJQmV1SzVCS1VlemNxdHluUXRZR0tjbUxfVjdmaFVRRnh0NjhIWkktbEVHWTZSTG53bkxXUkdiMXBhbE53?oc=5",
+      "asOf": "2026-10-30T05:49:49+00:00"
     },
     {
       "title": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网",
@@ -458,6 +439,16 @@
       "asOf": "2026-10-30T05:11:36+00:00"
     },
     {
+      "title": "通讯丨一颗巧克力连中奥——进博会“全勤生”珍得对中国市场充满信心 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT3hYLVc4ZDZ0SXdtYUxpSzBTb3hVd3htbUNuUkQxSXZ2NEZGVkt4c1l0QWdJN1laa0lfV09Nd2lvRUNhVjRmb2NyY2xxSnkxcmcwZkhIWEJ4Zk1OelVBTlpRRHZsM2ptcl9XTkJ1M09ieW0tbjl1bXJSd2lXSEE?oc=5",
+      "asOf": "2026-10-30T04:32:58+00:00"
+    },
+    {
+      "title": "苍洱舞韵展风采 恒丰银行大理分行举办第五届广场舞大赛 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYktYa3h1OG0tRjJDbExDOEtFdkdHUGc3WHp4RDhXN3ZESGVZalJ1QzlCc3hRbTk3eWNLMmlCN3p5czBHOEFBM3VuOVhXbkY2dzIwSGZlblZncS14MzFMSWNJZGp1ZlRKejV2X3UxQWlZYWt1bXRXT1J3?oc=5",
+      "asOf": "2026-10-30T03:36:58+00:00"
+    },
+    {
       "title": "中国向古巴捐赠生活物资 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fRDNZVC1RaUlQeXFsQ1lOWTJGWURtSlhLczJCQkkxbVFwZzFVenU1T05NNll5STEzSjhWWFljMjg2YkNQX1dtLXBMbzdxc0lQM2preWlhcFpFQUN5a2xkZjdiVWFLa2M0VGpKMy1SUXJTV3QxWDBmcm9zWUJaeFE?oc=5",
       "asOf": "2026-10-30T03:11:17+00:00"
@@ -466,84 +457,37 @@
       "title": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "asOf": "2026-10-30T02:59:53+00:00"
+    },
+    {
+      "title": "第三届俄罗斯－非洲峰会聚焦发展多领域合作 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdV9YQkFEdTRwRWczUTBvWHM4MUJzWHc5YzdEZUlnLUlWd1lUcF82WXNRNVg1VnNGRU9BQkIwelJFM3ItMzFYc2RKMFZPVDVBR05aWmhiVXhpQUxtNGFYdWczQ050ZVJRa2JVcVN6TkoxUFVSRG9DSEFzalp1QQ?oc=5",
+      "asOf": "2026-10-30T02:50:52+00:00"
     }
   ],
   "events": [
     {
-      "event": "利好公告密集披露 10月29日沪市公司频频报喜",
-      "originalTitle": "利好公告密集披露 10月29日沪市公司频频报喜",
-      "published": "2026-10-30T11:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/820313",
+      "event": "拉加德宣布提前离任 欧洲央行将走向何方？ - 新华网",
+      "published": "2026-10-30T06:12:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbVJZV2FEMnpGLWx4QU93TnNqaGYtOFNvel8zcy14TlN6MUxYNFBjdnAyMjVRZDdCMFIzajBoNTdVcHpTX1NpMFFIRlZqdURsVHJ6VGQtRFNkaHBZaVU3OUtLREh3OHZkakZHdUstV09DT3N1aW9seUM5UkpkVFE?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/820313",
-        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
-        "sha256": "f7bb9c3b07c3ca877dd5dd756b8a92e89ca0bf266244937206042da94590eab1",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯（记者 何昕怡）截至10月29日19时，沪市当晚共101家公司披露利好公告，涵盖回购增持、经营业绩、分红等。"
-      }
+      "originalTitle": "拉加德宣布提前离任 欧洲央行将走向何方？ - 新华网"
     },
     {
-      "event": "企业公平竞争座谈会在京召开",
-      "originalTitle": "企业公平竞争座谈会在京召开",
-      "published": "2026-10-30T11:32:00+08:00",
-      "publisher": "上海证券报微信公众号",
-      "url": "https://www.cnstock.com/commonDetail/820306",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
-      "originalTitle": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
-      "published": "2026-10-30T11:06:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/820282",
+      "event": "人工智能，加速融入你我生活 - 新华网",
+      "published": "2026-10-30T05:52:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTBUMzhkYUlySWQteUZEU0VrNG5jeERVdThhSHk2QUtTbFZMdlBPMUFzV2FuVk5NamdoTXJSZFlSZ21DQWpWYzJyRkRwMU4yajA3VUdfQjhwek83VWN4QV9oTl91ZUQxT1U5bE1uZTBwQlB2Z0w1UEpWdEF3cFppVXZB?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/820282",
-        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
-        "sha256": "34a5911c01bf6938e42b87edc4dc6adf55d5c59786741ad18996ef823d47510e",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯 据国家能源局10月30日消息，国家能源局、工业和信息化部、国务院国资委、市场监管总局联合印发关于促进燃气轮机创新发展的指导意见（以下简称“指导意见”）。"
-      }
+      "originalTitle": "人工智能，加速融入你我生活 - 新华网"
     },
     {
-      "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "published": "2026-10-30T08:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/819436",
+      "event": "一道“量子安全锁”守护电网脉动 - 新华网",
+      "published": "2026-10-30T05:49:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVpmbnlFTWVRaU56b3RrMnlYUHBQQTNuTDc5d2lrcXd2YXBkUE40V1hxVEpQZmh5XzZZTGMtSFJzcE9idVZJQmV1SzVCS1VlemNxdHluUXRZR0tjbUxfVjdmaFVRRnh0NjhIWkktbEVHWTZSTG53bkxXUkdiMXBhbE53?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/819436",
-        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
-        "sha256": "1ceef33727c6adcdd2b233ace0fe2c48c134349eee5d5e957f03998fddcedb4d",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
-      }
-    },
-    {
-      "event": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "originalTitle": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
-      "published": "2026-10-30T08:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/819306",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/819306",
-        "retrievedAt": "2026-10-30T13:50:48.105614+08:00",
-        "sha256": "146933ea20f9d8e64f71bcad8413d790d69130e8d55b533aef84ad275609f238",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
-      }
-    },
-    {
-      "event": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
-      "originalTitle": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
-      "published": "2026-10-30T08:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/819270",
-      "evidenceLevel": "headline-only"
+      "originalTitle": "一道“量子安全锁”守护电网脉动 - 新华网"
     },
     {
       "event": "经济政策一线微观察丨老瓷厂的新生：工业废墟“长”出新产业 - 新华网",
@@ -562,6 +506,22 @@
       "originalTitle": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网"
     },
     {
+      "event": "通讯丨一颗巧克力连中奥——进博会“全勤生”珍得对中国市场充满信心 - 新华网",
+      "published": "2026-10-30T04:32:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT3hYLVc4ZDZ0SXdtYUxpSzBTb3hVd3htbUNuUkQxSXZ2NEZGVkt4c1l0QWdJN1laa0lfV09Nd2lvRUNhVjRmb2NyY2xxSnkxcmcwZkhIWEJ4Zk1OelVBTlpRRHZsM2ptcl9XTkJ1M09ieW0tbjl1bXJSd2lXSEE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "通讯丨一颗巧克力连中奥——进博会“全勤生”珍得对中国市场充满信心 - 新华网"
+    },
+    {
+      "event": "苍洱舞韵展风采 恒丰银行大理分行举办第五届广场舞大赛 - 新华网",
+      "published": "2026-10-30T03:36:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYktYa3h1OG0tRjJDbExDOEtFdkdHUGc3WHp4RDhXN3ZESGVZalJ1QzlCc3hRbTk3eWNLMmlCN3p5czBHOEFBM3VuOVhXbkY2dzIwSGZlblZncS14MzFMSWNJZGp1ZlRKejV2X3UxQWlZYWt1bXRXT1J3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "苍洱舞韵展风采 恒丰银行大理分行举办第五届广场舞大赛 - 新华网"
+    },
+    {
       "event": "中国向古巴捐赠生活物资 - 新华网",
       "published": "2026-10-30T03:11:17+00:00",
       "publisher": "新华网",
@@ -576,6 +536,14 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网"
+    },
+    {
+      "event": "第三届俄罗斯－非洲峰会聚焦发展多领域合作 - 新华网",
+      "published": "2026-10-30T02:50:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdV9YQkFEdTRwRWczUTBvWHM4MUJzWHc5YzdEZUlnLUlWd1lUcF82WXNRNVg1VnNGRU9BQkIwelJFM3ItMzFYc2RKMFZPVDVBR05aWmhiVXhpQUxtNGFYdWczQ050ZVJRa2JVcVN6TkoxUFVSRG9DSEFzalp1QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第三届俄罗斯－非洲峰会聚焦发展多领域合作 - 新华网"
     }
   ],
   "quality": {
@@ -589,8 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
