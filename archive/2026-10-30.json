@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 08:56",
+  "date": "更新于北京时间 2026-10-30 10:08",
   "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T08:56:49+08:00",
+  "updatedAt": "2026-10-30T10:08:36+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
+          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.05 %；变化 +0.06 个百分点",
+          "summary": "4.98 %；变化 -0.07 个百分点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T10:03:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/820268"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
           "summary": "",
           "paragraphs": [
@@ -213,11 +228,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-30T08:30:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月29日，ST人福发布2026年第三季度报告称，前三季度公司实现营业收入约184.12亿元，同比增长2.96%；归属于上市公司股东的净利润约24.15亿元，同比增长43.01%；归属于上市公司股东的扣除非经常性损益的净利润约1"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/819270"
             }
           ]
@@ -244,87 +260,73 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-30T08:06:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：10月28日晚间，易方达、摩根、富国基金发布公告称，旗下主动ETF基金合同正式生效，合计募集资金60亿元，合计有效认购户数近4.8万户。上海证券报记者从多家基金公司处获悉：继发行首日“一日售罄”的3只产品成立之后，其余数只提前结束募集的主动"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/820159"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
+          "title": "盘活存量空间 城市更新撬动万亿投资新赛道 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T00:34:05+00:00；来源：新华网。",
+            "发布时间：2026-10-30T01:33:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4NmJfNk5qZF9OMGttZ3Zxdi1oN1g3bHgxSnFiS0ctamRYLWFITlJHTnNUdkNnYkpENXFGdVFuZmkwV2F4dWE1SU4wa2RsR0x0ZDZDRGNhYVp5SUFoR1JwZVZObGxQSDBxQkFEdmFfLWg5Q0h6THc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+          "title": "首批展品进馆 全球企业竞相赴约——透过进博会看中国市场引力 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T00:07:47+00:00；来源：新华网。",
+            "发布时间：2026-10-30T01:30:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1lZbDFiaXJJRUtnUzFYS3NiVWlaVVZBS0dlZncyTWJkeVVzc3ZCOThZZ1VTUV82Vm9FSUJLNUxiUDJRQ3lJOUk4MnZGdEhvX1A3OTVnUk5taG9INUwwUjlta2ZwTUcyeTNsVTBDY0ttX3FMLTZQQTlsTmZDbV9YVQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+          "title": "一个万卡智算集群构建“超级大脑” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T00:01:03+00:00；来源：新华网。",
+            "发布时间：2026-10-30T01:06:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUWVRQkhzV0o5eWdSaTk5YjZJTTd2VHRLSnhZc0ktVDI2Rnl0cVNwRlBsQ3c0ekdoTGdYbDlRNDd5aENadXVnUnRoM2NrQXhXWXc1dW5tczFUMHUtS3RFWlFjdXJYeDg0cjBKZFk4Uy1KRVFSQ3B6TzdjZE5HZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "党建+业务，激发新经济组织活力 - 新华网",
+          "title": "第四届中国抗衰老大会暨2026抗衰老产业博览会在京举办 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T23:50:19+00:00；来源：新华网。",
+            "发布时间：2026-10-30T01:06:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "法国今夏发生逾1500起溺水事件 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:39:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRW80eTF3OEItYWdnNy1JTlcxZDFrN0tIejhOeGwzUS1oZWt2YkZsUGpyY1VtdTdtaExYUXBLc0pKUnhkOGZmNTRxLUF6aUJJdzFlUF9nVC1XRVh1VTZlQXJhUFJZUDJ6WXk5c0FaZUwtTGt1aGlueW82b2NXZWFwRG13?oc=5"
             }
           ]
         }
@@ -382,19 +384,9 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-28"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
@@ -407,14 +399,29 @@
       "asOf": "2026-10-28"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-29"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-28"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-28"
+      "title": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+      "url": "https://www.cnstock.com/commonDetail/820268",
+      "asOf": "2026-10-30T10:03:00+08:00"
     },
     {
       "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
@@ -442,32 +449,35 @@
       "asOf": "2026-10-30T08:06:00+08:00"
     },
     {
-      "title": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5",
-      "asOf": "2026-10-30T00:34:05+00:00"
+      "title": "盘活存量空间 城市更新撬动万亿投资新赛道 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4NmJfNk5qZF9OMGttZ3Zxdi1oN1g3bHgxSnFiS0ctamRYLWFITlJHTnNUdkNnYkpENXFGdVFuZmkwV2F4dWE1SU4wa2RsR0x0ZDZDRGNhYVp5SUFoR1JwZVZObGxQSDBxQkFEdmFfLWg5Q0h6THc?oc=5",
+      "asOf": "2026-10-30T01:33:21+00:00"
     },
     {
-      "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
-      "asOf": "2026-10-30T00:07:47+00:00"
+      "title": "首批展品进馆 全球企业竞相赴约——透过进博会看中国市场引力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1lZbDFiaXJJRUtnUzFYS3NiVWlaVVZBS0dlZncyTWJkeVVzc3ZCOThZZ1VTUV82Vm9FSUJLNUxiUDJRQ3lJOUk4MnZGdEhvX1A3OTVnUk5taG9INUwwUjlta2ZwTUcyeTNsVTBDY0ttX3FMLTZQQTlsTmZDbV9YVQ?oc=5",
+      "asOf": "2026-10-30T01:30:05+00:00"
     },
     {
-      "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5",
-      "asOf": "2026-10-30T00:01:03+00:00"
+      "title": "一个万卡智算集群构建“超级大脑” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUWVRQkhzV0o5eWdSaTk5YjZJTTd2VHRLSnhZc0ktVDI2Rnl0cVNwRlBsQ3c0ekdoTGdYbDlRNDd5aENadXVnUnRoM2NrQXhXWXc1dW5tczFUMHUtS3RFWlFjdXJYeDg0cjBKZFk4Uy1KRVFSQ3B6TzdjZE5HZw?oc=5",
+      "asOf": "2026-10-30T01:06:34+00:00"
     },
     {
-      "title": "党建+业务，激发新经济组织活力 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5",
-      "asOf": "2026-10-29T23:50:19+00:00"
-    },
-    {
-      "title": "法国今夏发生逾1500起溺水事件 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
-      "asOf": "2026-10-29T23:39:46+00:00"
+      "title": "第四届中国抗衰老大会暨2026抗衰老产业博览会在京举办 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRW80eTF3OEItYWdnNy1JTlcxZDFrN0tIejhOeGwzUS1oZWt2YkZsUGpyY1VtdTdtaExYUXBLc0pKUnhkOGZmNTRxLUF6aUJJdzFlUF9nVC1XRVh1VTZlQXJhUFJZUDJ6WXk5c0FaZUwtTGt1aGlueW82b2NXZWFwRG13?oc=5",
+      "asOf": "2026-10-30T01:06:25+00:00"
     }
   ],
   "events": [
+    {
+      "event": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+      "originalTitle": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+      "published": "2026-10-30T10:03:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/820268",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
       "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
@@ -477,7 +487,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/819436",
-        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "retrievedAt": "2026-10-30T10:08:36.583623+08:00",
         "sha256": "022c3eb92f3f19a58ce5ec456482a2984e0b4938b558779e159c4cd2d519b75d",
         "paragraphCount": 3,
         "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
@@ -492,7 +502,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/819306",
-        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "retrievedAt": "2026-10-30T10:08:36.583623+08:00",
         "sha256": "61c1fff1261a3d5126eeaafc8241fe4c3ab5b3c599229f654973fa8e19563df6",
         "paragraphCount": 3,
         "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
@@ -504,7 +514,14 @@
       "published": "2026-10-30T08:30:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/819270",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/819270",
+        "retrievedAt": "2026-10-30T10:08:36.583623+08:00",
+        "sha256": "0ad56ec6197f5989a823730da896c4d83a038844b683a8a43ae30b67add91d82",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 10月29日，ST人福发布2026年第三季度报告称，前三季度公司实现营业收入约184.12亿元，同比增长2.96%；归属于上市公司股东的净利润约24.15亿元，同比增长43.01%；归属于上市公司股东的扣除非经常性损益的净利润约1"
+      }
     },
     {
       "event": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
@@ -515,7 +532,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/820185",
-        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "retrievedAt": "2026-10-30T10:08:36.583623+08:00",
         "sha256": "9f879a3316831d1f6a363f03b72d59037b822e3e78c03efcd661064f2c3766f2",
         "paragraphCount": 20,
         "excerpt": "近期，不少A股上市公司明显加快“瘦身健体”的步伐。据上海证券报记者不完全统计，9月至今，有201家上市公司披露资产或股权出售事宜，交易标的涉及土地厂房、闲置物业、金融资产及子公司股权等，总金额超过240亿元，其中部分项目交易金额超过10亿元"
@@ -527,47 +544,46 @@
       "published": "2026-10-30T08:06:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/820159",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/820159",
+        "retrievedAt": "2026-10-30T10:08:36.583623+08:00",
+        "sha256": "2de839a20e8563dc8f00b5815ae05394a2aadf4f4b09fe7c7051ae4f9a9999c4",
+        "paragraphCount": 11,
+        "excerpt": "10月28日晚间，易方达、摩根、富国基金发布公告称，旗下主动ETF基金合同正式生效，合计募集资金60亿元，合计有效认购户数近4.8万户。上海证券报记者从多家基金公司处获悉：继发行首日“一日售罄”的3只产品成立之后，其余数只提前结束募集的主动"
+      }
     },
     {
-      "event": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
-      "published": "2026-10-30T00:34:05+00:00",
+      "event": "盘活存量空间 城市更新撬动万亿投资新赛道 - 新华网",
+      "published": "2026-10-30T01:33:21+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4NmJfNk5qZF9OMGttZ3Zxdi1oN1g3bHgxSnFiS0ctamRYLWFITlJHTnNUdkNnYkpENXFGdVFuZmkwV2F4dWE1SU4wa2RsR0x0ZDZDRGNhYVp5SUFoR1JwZVZObGxQSDBxQkFEdmFfLWg5Q0h6THc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网"
+      "originalTitle": "盘活存量空间 城市更新撬动万亿投资新赛道 - 新华网"
     },
     {
-      "event": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
-      "published": "2026-10-30T00:07:47+00:00",
+      "event": "首批展品进馆 全球企业竞相赴约——透过进博会看中国市场引力 - 新华网",
+      "published": "2026-10-30T01:30:05+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1lZbDFiaXJJRUtnUzFYS3NiVWlaVVZBS0dlZncyTWJkeVVzc3ZCOThZZ1VTUV82Vm9FSUJLNUxiUDJRQ3lJOUk4MnZGdEhvX1A3OTVnUk5taG9INUwwUjlta2ZwTUcyeTNsVTBDY0ttX3FMLTZQQTlsTmZDbV9YVQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网"
+      "originalTitle": "首批展品进馆 全球企业竞相赴约——透过进博会看中国市场引力 - 新华网"
     },
     {
-      "event": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
-      "published": "2026-10-30T00:01:03+00:00",
+      "event": "一个万卡智算集群构建“超级大脑” - 新华网",
+      "published": "2026-10-30T01:06:34+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUWVRQkhzV0o5eWdSaTk5YjZJTTd2VHRLSnhZc0ktVDI2Rnl0cVNwRlBsQ3c0ekdoTGdYbDlRNDd5aENadXVnUnRoM2NrQXhXWXc1dW5tczFUMHUtS3RFWlFjdXJYeDg0cjBKZFk4Uy1KRVFSQ3B6TzdjZE5HZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "俄证实与美磋商解除对俄主权基金制裁 - 新华网"
+      "originalTitle": "一个万卡智算集群构建“超级大脑” - 新华网"
     },
     {
-      "event": "党建+业务，激发新经济组织活力 - 新华网",
-      "published": "2026-10-29T23:50:19+00:00",
+      "event": "第四届中国抗衰老大会暨2026抗衰老产业博览会在京举办 - 新华网",
+      "published": "2026-10-30T01:06:25+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRW80eTF3OEItYWdnNy1JTlcxZDFrN0tIejhOeGwzUS1oZWt2YkZsUGpyY1VtdTdtaExYUXBLc0pKUnhkOGZmNTRxLUF6aUJJdzFlUF9nVC1XRVh1VTZlQXJhUFJZUDJ6WXk5c0FaZUwtTGt1aGlueW82b2NXZWFwRG13?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "党建+业务，激发新经济组织活力 - 新华网"
-    },
-    {
-      "event": "法国今夏发生逾1500起溺水事件 - 新华网",
-      "published": "2026-10-29T23:39:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "法国今夏发生逾1500起溺水事件 - 新华网"
+      "originalTitle": "第四届中国抗衰老大会暨2026抗衰老产业博览会在京举办 - 新华网"
     }
   ],
   "quality": {
@@ -581,7 +597,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError"
     ]
   }
