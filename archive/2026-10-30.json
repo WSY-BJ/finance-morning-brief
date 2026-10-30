@@ -1,0 +1,563 @@
+{
+  "edition": "财经晨报 · 2026-10-30",
+  "date": "更新于北京时间 2026-10-30 08:37",
+  "reportDate": "2026-10-30",
+  "updatedAt": "2026-10-30T08:37:14+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-10-30 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "123.10 美元/桶；变化 -5.02 美元/桶",
+          "paragraphs": [
+            "观测日 2026-10-27；前值 128.12（2026-10-26）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.67 %；变化 -0.03 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.05 %；变化 +0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.19 点；变化 -0.13 点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 102.32（2026-10-27）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,743.98 点；变化 +21.38 点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 7,722.60（2026-10-27）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "26,549.85 点；变化 +72.04 点",
+          "paragraphs": [
+            "观测日 2026-10-28；前值 26,477.81（2026-10-27）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6660 人民币/美元；变化 -0.0020 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-10-29；前值 6.6680（2026-10-28）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/819436"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T00:07:47+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T00:01:03+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "法国今夏发生逾1500起溺水事件 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:39:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:39:43+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:15:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 22 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-10-27 前值 7722.6001，2026-10-28 现值 7743.9800，变化 +21.3799。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-28"
+    },
+    {
+      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "url": "https://www.cnstock.com/commonDetail/819436",
+      "asOf": "2026-10-30T08:31:00+08:00"
+    },
+    {
+      "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
+      "asOf": "2026-10-30T00:07:47+00:00"
+    },
+    {
+      "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
+      "asOf": "2026-10-30T00:01:03+00:00"
+    },
+    {
+      "title": "法国今夏发生逾1500起溺水事件 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
+      "asOf": "2026-10-29T23:39:46+00:00"
+    },
+    {
+      "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
+      "asOf": "2026-10-29T23:39:43+00:00"
+    },
+    {
+      "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
+      "asOf": "2026-10-29T23:15:07+00:00"
+    },
+    {
+      "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
+    },
+    {
+      "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
+    },
+    {
+      "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
+    },
+    {
+      "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "published": "2026-10-30T08:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/819436",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+      "published": "2026-10-30T00:07:47+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网"
+    },
+    {
+      "event": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+      "published": "2026-10-30T00:01:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "俄证实与美磋商解除对俄主权基金制裁 - 新华网"
+    },
+    {
+      "event": "法国今夏发生逾1500起溺水事件 - 新华网",
+      "published": "2026-10-29T23:39:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国今夏发生逾1500起溺水事件 - 新华网"
+    },
+    {
+      "event": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
+      "published": "2026-10-29T23:39:43+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网"
+    },
+    {
+      "event": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
+      "published": "2026-10-29T23:15:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网"
+    },
+    {
+      "event": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版"
+    },
+    {
+      "event": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版"
+    },
+    {
+      "event": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError"
+    ]
+  }
+}

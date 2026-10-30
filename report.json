@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-29",
-  "date": "更新于北京时间 2026-10-29 18:54",
-  "reportDate": "2026-10-29",
-  "updatedAt": "2026-10-29T18:54:10+08:00",
+  "edition": "财经晨报 · 2026-10-30",
+  "date": "更新于北京时间 2026-10-30 08:37",
+  "reportDate": "2026-10-30",
+  "updatedAt": "2026-10-30T08:37:14+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-29 财经资料（待核验）",
+    "title": "2026-10-30 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-27：4.99 %；较 2026-10-26 变化 -0.01 个百分点。",
+          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.70 %；变化 +0.02 个百分点",
+          "summary": "4.67 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 4.68（2026-10-26）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.99 %；变化 -0.01 个百分点",
+          "summary": "5.05 %；变化 +0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-10-27；前值 5.00（2026-10-26）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6680 人民币/美元；变化 -0.0020 人民币/美元",
+          "summary": "6.6660 人民币/美元；变化 -0.0020 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-28；前值 6.6700（2026-10-27）；来源：Yahoo Finance。"
+            "观测日 2026-10-29；前值 6.6680（2026-10-28）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "科创板半导体公司踊跃回购 10月新发计划金额上限超60亿元",
+          "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T18:03:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818367"
+              "url": "https://www.cnstock.com/commonDetail/819436"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "受权发布 | 中国共产党第二十届中央委员会第五次全体会议公报",
+          "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T17:50:00+08:00；来源：新华社。",
+            "发布时间：2026-10-30T00:07:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818347"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
+          "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T17:50:00+08:00；来源：新华社。",
+            "发布时间：2026-10-30T00:01:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818353"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上海市委金融办陶昌盛答上证报：将进一步加强中小企业首贷和信用贷供给",
+          "title": "法国今夏发生逾1500起溺水事件 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T17:11:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-29T23:39:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818271"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：坚决反对美将中国企业列入所谓涉疆法案实体清单",
+          "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T15:40:00+08:00；来源：新华社。",
+            "发布时间：2026-10-29T23:39:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818183"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上海发布九大行动推动中小企业高质量发展",
+          "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T14:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-29T23:15:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/818135"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "通讯丨“吉祥方舟”情暖加纳民众 - 新华网",
+          "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T10:48:30+00:00；来源：新华网。",
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VkNodlBXWndlSHJVbXNtNmZubm5ZNHEzN0JBMU1pU1BFcHlfcDJNZGNNUzhhQXY4WkxRdXBra3NnNDZhUHJ2eXVRcFNrOVg4V2xGdlc3YzFyUnJaUkN4SkM2S19sUE5aVGJNMmRrSkFpOTBwUmpkTkgxcklFUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "改革创新激活开放动能——江苏自贸试验区一线观察 - 新华网",
+          "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T10:41:58+00:00；来源：新华网。",
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekZmU0hpdTZMX0lkQXd2MXZwNDk1X1Y4bERRbTVNQ2tRMER3WWNtTDRjWjl3VXFzcjZickcxWExqalRwQm92UFpQdnJjUHJlN01GZ0hteGp2WHFLYzJRZXN0V2lIa1VLWHF0bjMzYmxjYXVGZjRz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026年中国创新健康原料品牌展亮相美国 - 新华网",
+          "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T10:37:02+00:00；来源：新华网。",
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cXBQckpVOHN5dnpyTXdaUHo2cTZ1YjQ4Zjh3eXkxS0ZlN25PUWtWNzhCSG5TdG1KTF9tVW03WjJXVzFZQjFIVk0zUlZaSm1oUUtNMVhLYUhfUmdjeXhwOHh3SGZRLVFxQmVORl93NzZfX0U1TGRQZkpZcUoyZms?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "欧洲央行行长拉加德将于明年2月卸任 - 新华网",
+          "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-29T10:34:44+00:00；来源：新华网。",
+            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Y3JiWjJ3S2JjZjAwSklKbVhobTFxWE0xX1FRdGw2X2NCUmw4MWxRUU9VWmd4SVp5S2ZPYzRkZmxQajQ5ODA5dlA3RmcwRTBMM3BWRGJRaWlta0lUUmVuejZKY1Z6aXI2Q3RBWVN6R05jTjdoR1hQMmkxaFJDVzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 21 课：情景分析",
+      "title": "第 22 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -394,156 +394,156 @@
       "asOf": "2026-10-28"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-28"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-10-27"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-29"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-27"
+      "asOf": "2026-10-28"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-27"
+      "asOf": "2026-10-28"
     },
     {
-      "title": "科创板半导体公司踊跃回购 10月新发计划金额上限超60亿元",
-      "url": "https://www.cnstock.com/commonDetail/818367",
-      "asOf": "2026-10-29T18:03:00+08:00"
+      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "url": "https://www.cnstock.com/commonDetail/819436",
+      "asOf": "2026-10-30T08:31:00+08:00"
     },
     {
-      "title": "受权发布 | 中国共产党第二十届中央委员会第五次全体会议公报",
-      "url": "https://www.cnstock.com/commonDetail/818347",
-      "asOf": "2026-10-29T17:50:00+08:00"
+      "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
+      "asOf": "2026-10-30T00:07:47+00:00"
     },
     {
-      "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
-      "url": "https://www.cnstock.com/commonDetail/818353",
-      "asOf": "2026-10-29T17:50:00+08:00"
+      "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
+      "asOf": "2026-10-30T00:01:03+00:00"
     },
     {
-      "title": "上海市委金融办陶昌盛答上证报：将进一步加强中小企业首贷和信用贷供给",
-      "url": "https://www.cnstock.com/commonDetail/818271",
-      "asOf": "2026-10-29T17:11:00+08:00"
+      "title": "法国今夏发生逾1500起溺水事件 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
+      "asOf": "2026-10-29T23:39:46+00:00"
     },
     {
-      "title": "商务部：坚决反对美将中国企业列入所谓涉疆法案实体清单",
-      "url": "https://www.cnstock.com/commonDetail/818183",
-      "asOf": "2026-10-29T15:40:00+08:00"
+      "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
+      "asOf": "2026-10-29T23:39:43+00:00"
     },
     {
-      "title": "上海发布九大行动推动中小企业高质量发展",
-      "url": "https://www.cnstock.com/commonDetail/818135",
-      "asOf": "2026-10-29T14:25:00+08:00"
+      "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
+      "asOf": "2026-10-29T23:15:07+00:00"
     },
     {
-      "title": "通讯丨“吉祥方舟”情暖加纳民众 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VkNodlBXWndlSHJVbXNtNmZubm5ZNHEzN0JBMU1pU1BFcHlfcDJNZGNNUzhhQXY4WkxRdXBra3NnNDZhUHJ2eXVRcFNrOVg4V2xGdlc3YzFyUnJaUkN4SkM2S19sUE5aVGJNMmRrSkFpOTBwUmpkTkgxcklFUQ?oc=5",
-      "asOf": "2026-10-29T10:48:30+00:00"
+      "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
     },
     {
-      "title": "改革创新激活开放动能——江苏自贸试验区一线观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekZmU0hpdTZMX0lkQXd2MXZwNDk1X1Y4bERRbTVNQ2tRMER3WWNtTDRjWjl3VXFzcjZickcxWExqalRwQm92UFpQdnJjUHJlN01GZ0hteGp2WHFLYzJRZXN0V2lIa1VLWHF0bjMzYmxjYXVGZjRz?oc=5",
-      "asOf": "2026-10-29T10:41:58+00:00"
+      "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
     },
     {
-      "title": "2026年中国创新健康原料品牌展亮相美国 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cXBQckpVOHN5dnpyTXdaUHo2cTZ1YjQ4Zjh3eXkxS0ZlN25PUWtWNzhCSG5TdG1KTF9tVW03WjJXVzFZQjFIVk0zUlZaSm1oUUtNMVhLYUhfUmdjeXhwOHh3SGZRLVFxQmVORl93NzZfX0U1TGRQZkpZcUoyZms?oc=5",
-      "asOf": "2026-10-29T10:37:02+00:00"
+      "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
     },
     {
-      "title": "欧洲央行行长拉加德将于明年2月卸任 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Y3JiWjJ3S2JjZjAwSklKbVhobTFxWE0xX1FRdGw2X2NCUmw4MWxRUU9VWmd4SVp5S2ZPYzRkZmxQajQ5ODA5dlA3RmcwRTBMM3BWRGJRaWlta0lUUmVuejZKY1Z6aXI2Q3RBWVN6R05jTjdoR1hQMmkxaFJDVzg?oc=5",
-      "asOf": "2026-10-29T10:34:44+00:00"
+      "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
+      "asOf": "2026-10-29T23:03:45+00:00"
     }
   ],
   "events": [
     {
-      "event": "科创板半导体公司踊跃回购 10月新发计划金额上限超60亿元",
-      "originalTitle": "科创板半导体公司踊跃回购 10月新发计划金额上限超60亿元",
-      "published": "2026-10-29T18:03:00+08:00",
+      "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "published": "2026-10-30T08:31:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/818367",
+      "url": "https://www.cnstock.com/commonDetail/819436",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "受权发布 | 中国共产党第二十届中央委员会第五次全体会议公报",
-      "originalTitle": "受权发布 | 中国共产党第二十届中央委员会第五次全体会议公报",
-      "published": "2026-10-29T17:50:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/818347",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
-      "originalTitle": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
-      "published": "2026-10-29T17:50:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/818353",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上海市委金融办陶昌盛答上证报：将进一步加强中小企业首贷和信用贷供给",
-      "originalTitle": "上海市委金融办陶昌盛答上证报：将进一步加强中小企业首贷和信用贷供给",
-      "published": "2026-10-29T17:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/818271",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "商务部：坚决反对美将中国企业列入所谓涉疆法案实体清单",
-      "originalTitle": "商务部：坚决反对美将中国企业列入所谓涉疆法案实体清单",
-      "published": "2026-10-29T15:40:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/818183",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上海发布九大行动推动中小企业高质量发展",
-      "originalTitle": "上海发布九大行动推动中小企业高质量发展",
-      "published": "2026-10-29T14:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/818135",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "通讯丨“吉祥方舟”情暖加纳民众 - 新华网",
-      "published": "2026-10-29T10:48:30+00:00",
+      "event": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
+      "published": "2026-10-30T00:07:47+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VkNodlBXWndlSHJVbXNtNmZubm5ZNHEzN0JBMU1pU1BFcHlfcDJNZGNNUzhhQXY4WkxRdXBra3NnNDZhUHJ2eXVRcFNrOVg4V2xGdlc3YzFyUnJaUkN4SkM2S19sUE5aVGJNMmRrSkFpOTBwUmpkTkgxcklFUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FYmpoVUJ0SWZPamU2cDlfVFRXV041b3p4YngtWG1VWXlFRjBxVjFQNVdvbWV5MFVZUjZvX3F6RjZVWVlQQmFXS0RYLVpBUTkzRTVvRXRVQmtyRENpaHJpTHNqNkVKVS13YUw2Q09VTG1NMzk2c1pQcVBfS0s?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨“吉祥方舟”情暖加纳民众 - 新华网"
+      "originalTitle": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网"
     },
     {
-      "event": "改革创新激活开放动能——江苏自贸试验区一线观察 - 新华网",
-      "published": "2026-10-29T10:41:58+00:00",
+      "event": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
+      "published": "2026-10-30T00:01:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekZmU0hpdTZMX0lkQXd2MXZwNDk1X1Y4bERRbTVNQ2tRMER3WWNtTDRjWjl3VXFzcjZickcxWExqalRwQm92UFpQdnJjUHJlN01GZ0hteGp2WHFLYzJRZXN0V2lIa1VLWHF0bjMzYmxjYXVGZjRz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "改革创新激活开放动能——江苏自贸试验区一线观察 - 新华网"
+      "originalTitle": "俄证实与美磋商解除对俄主权基金制裁 - 新华网"
     },
     {
-      "event": "2026年中国创新健康原料品牌展亮相美国 - 新华网",
-      "published": "2026-10-29T10:37:02+00:00",
+      "event": "法国今夏发生逾1500起溺水事件 - 新华网",
+      "published": "2026-10-29T23:39:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cXBQckpVOHN5dnpyTXdaUHo2cTZ1YjQ4Zjh3eXkxS0ZlN25PUWtWNzhCSG5TdG1KTF9tVW03WjJXVzFZQjFIVk0zUlZaSm1oUUtNMVhLYUhfUmdjeXhwOHh3SGZRLVFxQmVORl93NzZfX0U1TGRQZkpZcUoyZms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026年中国创新健康原料品牌展亮相美国 - 新华网"
+      "originalTitle": "法国今夏发生逾1500起溺水事件 - 新华网"
     },
     {
-      "event": "欧洲央行行长拉加德将于明年2月卸任 - 新华网",
-      "published": "2026-10-29T10:34:44+00:00",
+      "event": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
+      "published": "2026-10-29T23:39:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Y3JiWjJ3S2JjZjAwSklKbVhobTFxWE0xX1FRdGw2X2NCUmw4MWxRUU9VWmd4SVp5S2ZPYzRkZmxQajQ5ODA5dlA3RmcwRTBMM3BWRGJRaWlta0lUUmVuejZKY1Z6aXI2Q3RBWVN6R05jTjdoR1hQMmkxaFJDVzg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "欧洲央行行长拉加德将于明年2月卸任 - 新华网"
+      "originalTitle": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网"
+    },
+    {
+      "event": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
+      "published": "2026-10-29T23:15:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网"
+    },
+    {
+      "event": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版"
+    },
+    {
+      "event": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版"
+    },
+    {
+      "event": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版"
+    },
+    {
+      "event": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
+      "published": "2026-10-29T23:03:45+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,11 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError"
     ]
   }
