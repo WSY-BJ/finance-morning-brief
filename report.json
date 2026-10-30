@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 08:37",
+  "date": "更新于北京时间 2026-10-30 08:56",
   "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T08:37:14+08:00",
+  "updatedAt": "2026-10-30T08:56:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -181,12 +181,90 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/819436"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/819306"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:30:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/819436"
+              "url": "https://www.cnstock.com/commonDetail/819270"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:07:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，不少A股上市公司明显加快“瘦身健体”的步伐。据上海证券报记者不完全统计，9月至今，有201家上市公司披露资产或股权出售事宜，交易标的涉及土地厂房、闲置物业、金融资产及子公司股权等，总金额超过240亿元，其中部分项目交易金额超过10亿元"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/820185"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "紧抓低位布局机会 首批主动ETF按下上市加速键",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:06:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/820159"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T00:34:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5"
             }
           ]
         },
@@ -216,7 +294,22 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "党建+业务，激发新经济组织活力 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-29T23:50:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5"
             }
           ]
         },
@@ -232,96 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:39:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:15:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-29T23:03:45+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5"
             }
           ]
         }
@@ -379,13 +382,18 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-28"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-29"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-28"
     },
     {
@@ -394,18 +402,8 @@
       "asOf": "2026-10-28"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-29"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-28"
     },
     {
@@ -414,9 +412,39 @@
       "asOf": "2026-10-28"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-28"
+    },
+    {
       "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
       "url": "https://www.cnstock.com/commonDetail/819436",
       "asOf": "2026-10-30T08:31:00+08:00"
+    },
+    {
+      "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "url": "https://www.cnstock.com/commonDetail/819306",
+      "asOf": "2026-10-30T08:31:00+08:00"
+    },
+    {
+      "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+      "url": "https://www.cnstock.com/commonDetail/819270",
+      "asOf": "2026-10-30T08:30:00+08:00"
+    },
+    {
+      "title": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
+      "url": "https://www.cnstock.com/commonDetail/820185",
+      "asOf": "2026-10-30T08:07:00+08:00"
+    },
+    {
+      "title": "紧抓低位布局机会 首批主动ETF按下上市加速键",
+      "url": "https://www.cnstock.com/commonDetail/820159",
+      "asOf": "2026-10-30T08:06:00+08:00"
+    },
+    {
+      "title": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5",
+      "asOf": "2026-10-30T00:34:05+00:00"
     },
     {
       "title": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
@@ -425,43 +453,18 @@
     },
     {
       "title": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5",
       "asOf": "2026-10-30T00:01:03+00:00"
+    },
+    {
+      "title": "党建+业务，激发新经济组织活力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5",
+      "asOf": "2026-10-29T23:50:19+00:00"
     },
     {
       "title": "法国今夏发生逾1500起溺水事件 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
       "asOf": "2026-10-29T23:39:46+00:00"
-    },
-    {
-      "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
-      "asOf": "2026-10-29T23:39:43+00:00"
-    },
-    {
-      "title": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
-      "asOf": "2026-10-29T23:15:07+00:00"
-    },
-    {
-      "title": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
-      "asOf": "2026-10-29T23:03:45+00:00"
-    },
-    {
-      "title": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
-      "asOf": "2026-10-29T23:03:45+00:00"
-    },
-    {
-      "title": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
-      "asOf": "2026-10-29T23:03:45+00:00"
-    },
-    {
-      "title": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
-      "asOf": "2026-10-29T23:03:45+00:00"
     }
   ],
   "events": [
@@ -471,7 +474,68 @@
       "published": "2026-10-30T08:31:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/819436",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/819436",
+        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "sha256": "022c3eb92f3f19a58ce5ec456482a2984e0b4938b558779e159c4cd2d519b75d",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
+      }
+    },
+    {
+      "event": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "originalTitle": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
+      "published": "2026-10-30T08:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/819306",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/819306",
+        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "sha256": "61c1fff1261a3d5126eeaafc8241fe4c3ab5b3c599229f654973fa8e19563df6",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
+      }
+    },
+    {
+      "event": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+      "originalTitle": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+      "published": "2026-10-30T08:30:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/819270",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
+      "originalTitle": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
+      "published": "2026-10-30T08:07:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/820185",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/820185",
+        "retrievedAt": "2026-10-30T08:56:49.265981+08:00",
+        "sha256": "9f879a3316831d1f6a363f03b72d59037b822e3e78c03efcd661064f2c3766f2",
+        "paragraphCount": 20,
+        "excerpt": "近期，不少A股上市公司明显加快“瘦身健体”的步伐。据上海证券报记者不完全统计，9月至今，有201家上市公司披露资产或股权出售事宜，交易标的涉及土地厂房、闲置物业、金融资产及子公司股权等，总金额超过240亿元，其中部分项目交易金额超过10亿元"
+      }
+    },
+    {
+      "event": "紧抓低位布局机会 首批主动ETF按下上市加速键",
+      "originalTitle": "紧抓低位布局机会 首批主动ETF按下上市加速键",
+      "published": "2026-10-30T08:06:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/820159",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网",
+      "published": "2026-10-30T00:34:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONDVKSVpvVEZadDh5V3E0X2xKSzhCUXQ4N1BLcTZ0M1RmT0tzZmdseW9kMVlmS2hOaGl0T0dITVY4VjZ5MFQ1OHM4WWRXblFxTm5iNmprQUtYQ3BNdkI3djR3SG9mREJhc041WmtyV21nUVVQZjE4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "经济大省挑大梁 新动能增长强劲——透视31省份经济“三季报” - 新华网"
     },
     {
       "event": "60秒看国产新一代医用重离子加速器首台示范装置 - 新华网",
@@ -485,9 +549,17 @@
       "event": "俄证实与美磋商解除对俄主权基金制裁 - 新华网",
       "published": "2026-10-30T00:01:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WTNnZW53NGRUdDJ5M2xYMmY5NjB4aVVrWEpkcjkxVlJPaktLQkdETDhnN1p5V3ZqZUUxcmtuZzJvOFY4aDAyWGJaQUs2b1FqdDJEM0t4OTc2YTc2bXFSZzJLZ2w0S1FUclFPN3UtMGZQTUo4NTJMSlQ4b2ItdFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZGJEbVE4bm5IVlhoXzVVcEZtMy1nTGdKd1d3bFZoV0l2cDNGQm1EZDNrOWF5ZUstcUp3bFJsNmlpRFJHM1FqbG83Tk1TcmxncTZPYXJFbjRpZ0hWaWR2dkZ1RG0tNWFRbl9Kcnh5RnF4VUJzb0Fma2ZNZWsxUQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "俄证实与美磋商解除对俄主权基金制裁 - 新华网"
+    },
+    {
+      "event": "党建+业务，激发新经济组织活力 - 新华网",
+      "published": "2026-10-29T23:50:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc01zOFZmcmRYT1cxS0JpczFOZkdHSTF0elZwMUVKV1gtZFRxeGpWbTdSSENVblVYTjJ0c2tQb3kweWtSWlh6Q3gteWtBblMwVks4NjZLZmF5cFZnZUxyamdONXlxTWxIaVFrb1ViRTljOUIzNWdzUVRtcjgtVEk1X2d3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "党建+业务，激发新经济组织活力 - 新华网"
     },
     {
       "event": "法国今夏发生逾1500起溺水事件 - 新华网",
@@ -496,54 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b1hGQUVLak5pOUs1YWpaNUVmMHZRUjdfU256ai0ydUZDOXpCN0YyR1E4VTVMZnpnM1oyeHBXRTlJN0xqbzNlb003cmdpOVpmQ3hHdFJ3bkhDYWlxTXM2RVAwMVNEMXBjTDFZOGE3SG1scWRqS25wUDBtSFkyRlU?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "法国今夏发生逾1500起溺水事件 - 新华网"
-    },
-    {
-      "event": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网",
-      "published": "2026-10-29T23:39:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaWJaSVc0MmI0U2VyLVRRVVFQM0ZocWxOQVRoR2F2TVZ1NkpTR2x5YW4zMmN1Q1JKVVg5MW55aWg4cFZmOEJ3TGtKRGd4ejZKT3BWUF81QmdsZkdqYW03RTE0TmlGSFR5cVgxSXhaWExxNWF5NVVZRmJtX3VBbm8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "金正恩出席朝鲜“无人航空技术发展－2026”展览会 - 新华网"
-    },
-    {
-      "event": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网",
-      "published": "2026-10-29T23:15:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2I2YXBWVW8yWDZIaWhRR25JbmpJU2JNRHdHWVZxVHBndkNSb1h4SWxlZVVtbFFNTlBzeWZIUUFOTXBjVmxlRU1rZVpDTEtQZ1llZlpEU1VhQ2lRb19XQlZlTk94b2kzUFZlYmtGZEwyVU40cWthemxaSUVLTE0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中方呼吁推动新兴科技更好服务于海上安全和人民福祉 - 新华网"
-    },
-    {
-      "event": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版",
-      "published": "2026-10-29T23:03:45+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOWtwS1pFcmJINEhlbWpSSkdKNnVaQTZZY0swZG4tWjFyWTNEbExBSkxRR21ZZFp1bUNzd0Fyb2VkQ0JoT3k5UnlnbjllZ1NEOHJzdnB4UnBvRnFOUC1BaC1EbEdheE0zRDB6WlZn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "神州数码集团股份有限公司关于中标候选人公示的提示性公告 - 上海证券报电子版"
-    },
-    {
-      "event": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版",
-      "published": "2026-10-29T23:03:45+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZnJsNnlIRFhaQWpmZDVMSXRwQ2xmT0F3RmN5dklCR1NIOTlDeDFrRFVaNk5HaFFXUTJ6WTlCTkFqeDZVdUpHSmtBWlFPWVZRZHh1QlZielBXSUVSMWNuZURCZjV0ZGpmZjdvWTRB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "财信地产发展集团股份有限公司关于控股股东部分股份将被第三次司法拍卖暨司法拍卖的进展公告 - 上海证券报电子版"
-    },
-    {
-      "event": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版",
-      "published": "2026-10-29T23:03:45+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bHVLdXA0bkE2VHBpSllPY2tiREdlb2paTGEtX19kWGQwalBvRmNFMTVMalZldEZvZDdGMEJoWVNDY2JlWUtEUWE3ZnVTSnVjdzJDUDVONnU1SXJxWGRHRlJ1TExTTWhrWG56d2N3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国国检测试控股集团股份有限公司 2026年第三季度报告 - 上海证券报电子版"
-    },
-    {
-      "event": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版",
-      "published": "2026-10-29T23:03:45+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ISWlsN2p0VE03TVVOeHhvYjBFM1FZcDVuMzd4cVVFd3dYblBhVFRmYmF3VnVYN2FQQXJ5NDRiaWIxMWJGSzhJUlJZYnI3QUpuSF9tUFItdF93S0dLdmlkRHRNV3ItMTJueGVmUklR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "江苏华西村股份有限公司2026年第三季度报告 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,6 +581,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError"
     ]
   }
