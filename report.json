@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 11:23",
+  "date": "更新于北京时间 2026-10-30 13:34",
   "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T11:23:28+08:00",
+  "updatedAt": "2026-10-30T13:34:32+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-28：7,743.98 点；较 2026-10-27 变化 +21.38 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-10-29：7,720.39 点；较 2026-10-28 变化 -23.59 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,37 +80,37 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 -0.06 个百分点",
+          "summary": "4.67 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：美国财政部。"
+            "观测日 2026-10-28；前值 4.70（2026-10-27）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 -0.07 个百分点",
+          "summary": "5.05 %；变化 +0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：美国财政部。"
+            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.19 点；变化 -0.13 点",
+          "summary": "102.04 点；变化 -0.15 点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 102.32（2026-10-27）；来源：Yahoo Finance。"
+            "观测日 2026-10-29；前值 102.19（2026-10-28）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,743.98 点；变化 +21.38 点",
+          "summary": "7,720.39 点；变化 -23.59 点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 7,722.60（2026-10-27）；来源：Yahoo Finance。"
+            "观测日 2026-10-29；前值 7,743.98（2026-10-28）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,549.85 点；变化 +72.04 点",
+          "summary": "26,184.72 点；变化 -365.13 点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 26,477.81（2026-10-27）；来源：Yahoo Finance。"
+            "观测日 2026-10-29；前值 26,549.85（2026-10-28）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,32 +177,48 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+          "title": "利好公告密集披露 10月29日沪市公司频频报喜",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T10:03:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-10-30T11:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 何昕怡）截至10月29日19时，沪市当晚共101家公司披露利好公告，涵盖回购增持、经营业绩、分红等。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/820268"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/820313"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+          "title": "企业公平竞争座谈会在京召开",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-30T11:32:00+08:00；来源：上海证券报微信公众号。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/820306"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T11:06:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
+            "原文摘要：上证报中国证券网讯 据国家能源局10月30日消息，国家能源局、工业和信息化部、国务院国资委、市场监管总局联合印发关于促进燃气轮机创新发展的指导意见（以下简称“指导意见”）。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/819436"
+              "url": "https://www.cnstock.com/commonDetail/820282"
             }
           ]
         },
@@ -224,48 +240,47 @@
         },
         {
           "type": "explainer",
-          "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+          "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-10-30T08:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 10月29日，ST人福发布2026年第三季度报告称，前三季度公司实现营业收入约184.12亿元，同比增长2.96%；归属于上市公司股东的净利润约24.15亿元，同比增长43.01%；归属于上市公司股东的扣除非经常性损益的净利润约1"
+            "原文摘要：上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
           ],
           "links": [
             {
               "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/819436"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "ST人福：前三季度净利润约24.15亿元，同比增长43.01%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T08:30:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/819270"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
+          "title": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:07:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，不少A股上市公司明显加快“瘦身健体”的步伐。据上海证券报记者不完全统计，9月至今，有201家上市公司披露资产或股权出售事宜，交易标的涉及土地厂房、闲置物业、金融资产及子公司股权等，总金额超过240亿元，其中部分项目交易金额超过10亿元"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/820185"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "紧抓低位布局机会 首批主动ETF按下上市加速键",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T08:06:00+08:00；来源：上海证券报。",
+            "发布时间：2026-10-30T05:11:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/820159"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FnU0dnNGsxVU03LWdZdzQ2WTdXMUwzcDFuSFRRb0JfbjRKeHFWWFhGVld3T1F0VjNPX0lIZVFwXzRpUWlyVnVrU0Q3cG5ZTjJ0OV8zd0ZidUNnaWp1VHdwUkdHbEUwUGFGbzRGMmdkN3pUY1ZyWWMteUpsVW4tdQ?oc=5"
             }
           ]
         },
@@ -295,7 +310,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZFFwaWxxLTVYZW1raUNTX3d3aVZQNUFJVjJNRXJhV29ONUlLM2s3dFdrYm5VM3dTX0Mzc01LWEtDMkxRUTVPMUNUN1BIV3JzRUtoVGpxRDJrMXl3OVdwVWZIemV5RF90SHd1TUtOMDhqNDNnbTlWXzIzZmVvUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5"
             }
           ]
         },
@@ -311,21 +326,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "促进药品精益生产 业界推进生物制药设备全过程运维管理 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T02:27:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZk9GaGdFUDUtcFZCYzh3R0N3alNDNnoxRHdPcHVmeWtPRkxNN05QVUlYR0JCNHFYa0dEWUFrWE1zMy02SmhkZ0FVVkZCVjJIMUdxcTRYMlNUNWtsNnp4YlN0Snp4NW16ZXE4M2NycUI3VkpCanZxMGZUSENubzg?oc=5"
             }
           ]
         }
@@ -357,7 +357,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-27 前值 7722.6001，2026-10-28 现值 7743.9800，变化 +21.3799。",
+            "本期实例：标普 500 指数，2026-10-28 前值 7743.9800，2026-10-29 现值 7720.3901，变化 -23.5898。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -383,9 +383,24 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-29"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-28"
+      "asOf": "2026-10-29"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -393,43 +408,38 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-28"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-28"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-29"
+      "title": "利好公告密集披露 10月29日沪市公司频频报喜",
+      "url": "https://www.cnstock.com/commonDetail/820313",
+      "asOf": "2026-10-30T11:36:00+08:00"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-29"
+      "title": "企业公平竞争座谈会在京召开",
+      "url": "https://www.cnstock.com/commonDetail/820306",
+      "asOf": "2026-10-30T11:32:00+08:00"
     },
     {
-      "title": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
-      "url": "https://www.cnstock.com/commonDetail/820268",
-      "asOf": "2026-10-30T10:03:00+08:00"
-    },
-    {
-      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "url": "https://www.cnstock.com/commonDetail/819436",
-      "asOf": "2026-10-30T08:31:00+08:00"
+      "title": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
+      "url": "https://www.cnstock.com/commonDetail/820282",
+      "asOf": "2026-10-30T11:06:00+08:00"
     },
     {
       "title": "双英集团：前三季度净利约5286.14万元，同比增15.94%",
       "url": "https://www.cnstock.com/commonDetail/819306",
+      "asOf": "2026-10-30T08:31:00+08:00"
+    },
+    {
+      "title": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "url": "https://www.cnstock.com/commonDetail/819436",
       "asOf": "2026-10-30T08:31:00+08:00"
     },
     {
@@ -438,14 +448,9 @@
       "asOf": "2026-10-30T08:30:00+08:00"
     },
     {
-      "title": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
-      "url": "https://www.cnstock.com/commonDetail/820185",
-      "asOf": "2026-10-30T08:07:00+08:00"
-    },
-    {
-      "title": "紧抓低位布局机会 首批主动ETF按下上市加速键",
-      "url": "https://www.cnstock.com/commonDetail/820159",
-      "asOf": "2026-10-30T08:06:00+08:00"
+      "title": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FnU0dnNGsxVU03LWdZdzQ2WTdXMUwzcDFuSFRRb0JfbjRKeHFWWFhGVld3T1F0VjNPX0lIZVFwXzRpUWlyVnVrU0Q3cG5ZTjJ0OV8zd0ZidUNnaWp1VHdwUkdHbEUwUGFGbzRGMmdkN3pUY1ZyWWMteUpsVW4tdQ?oc=5",
+      "asOf": "2026-10-30T05:11:36+00:00"
     },
     {
       "title": "中国向古巴捐赠生活物资 - 新华网",
@@ -454,42 +459,52 @@
     },
     {
       "title": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZFFwaWxxLTVYZW1raUNTX3d3aVZQNUFJVjJNRXJhV29ONUlLM2s3dFdrYm5VM3dTX0Mzc01LWEtDMkxRUTVPMUNUN1BIV3JzRUtoVGpxRDJrMXl3OVdwVWZIemV5RF90SHd1TUtOMDhqNDNnbTlWXzIzZmVvUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "asOf": "2026-10-30T02:59:53+00:00"
     },
     {
       "title": "广州天桥变身“空中花海”引客来 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5",
       "asOf": "2026-10-30T02:58:52+00:00"
-    },
-    {
-      "title": "促进药品精益生产 业界推进生物制药设备全过程运维管理 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZk9GaGdFUDUtcFZCYzh3R0N3alNDNnoxRHdPcHVmeWtPRkxNN05QVUlYR0JCNHFYa0dEWUFrWE1zMy02SmhkZ0FVVkZCVjJIMUdxcTRYMlNUNWtsNnp4YlN0Snp4NW16ZXE4M2NycUI3VkpCanZxMGZUSENubzg?oc=5",
-      "asOf": "2026-10-30T02:27:28+00:00"
     }
   ],
   "events": [
     {
-      "event": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
-      "originalTitle": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
-      "published": "2026-10-30T10:03:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/820268",
+      "event": "利好公告密集披露 10月29日沪市公司频频报喜",
+      "originalTitle": "利好公告密集披露 10月29日沪市公司频频报喜",
+      "published": "2026-10-30T11:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/820313",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/820313",
+        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "sha256": "f7bb9c3b07c3ca877dd5dd756b8a92e89ca0bf266244937206042da94590eab1",
+        "paragraphCount": 5,
+        "excerpt": "上证报中国证券网讯（记者 何昕怡）截至10月29日19时，沪市当晚共101家公司披露利好公告，涵盖回购增持、经营业绩、分红等。"
+      }
+    },
+    {
+      "event": "企业公平竞争座谈会在京召开",
+      "originalTitle": "企业公平竞争座谈会在京召开",
+      "published": "2026-10-30T11:32:00+08:00",
+      "publisher": "上海证券报微信公众号",
+      "url": "https://www.cnstock.com/commonDetail/820306",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
-      "published": "2026-10-30T08:31:00+08:00",
+      "event": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
+      "originalTitle": "四部门：到2030年我国燃气轮机自主创新能力显著增强 具备整机和关键部件研发制造能力",
+      "published": "2026-10-30T11:06:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/819436",
+      "url": "https://www.cnstock.com/commonDetail/820282",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/819436",
-        "retrievedAt": "2026-10-30T11:23:28.833347+08:00",
-        "sha256": "4dda0eae8dc2e50435d4d8b794e9f495fc23c7e1bd8e22fd3a2aa61d7ee34e85",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
+        "url": "https://www.cnstock.com/commonDetail/820282",
+        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "sha256": "34a5911c01bf6938e42b87edc4dc6adf55d5c59786741ad18996ef823d47510e",
+        "paragraphCount": 6,
+        "excerpt": "上证报中国证券网讯 据国家能源局10月30日消息，国家能源局、工业和信息化部、国务院国资委、市场监管总局联合印发关于促进燃气轮机创新发展的指导意见（以下简称“指导意见”）。"
       }
     },
     {
@@ -501,10 +516,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/819306",
-        "retrievedAt": "2026-10-30T11:23:28.833347+08:00",
-        "sha256": "61efc3342d40aadc3fd2d1f3952afbc23a4f519fa9ace02c2b01b6133dc8e5e3",
+        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "sha256": "146933ea20f9d8e64f71bcad8413d790d69130e8d55b533aef84ad275609f238",
         "paragraphCount": 3,
         "excerpt": "上证智讯 10月29日，双英集团发布2026年三季度报告称，年初至报告期末公司实现营业收入约26.16亿元，同比增长3.84%；归属于上市公司股东的净利润约5286.14万元，同比增长15.94%；扣除非经常性损益后的净利润约4493.27"
+      }
+    },
+    {
+      "event": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "originalTitle": "达梦数据：前三季度净利润约3.44亿元，同比增长4.22%",
+      "published": "2026-10-30T08:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/819436",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/819436",
+        "retrievedAt": "2026-10-30T13:34:32.759889+08:00",
+        "sha256": "1ceef33727c6adcdd2b233ace0fe2c48c134349eee5d5e957f03998fddcedb4d",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 10月30日，达梦数据发布2026年第三季度报告称，公司前三季度实现营业收入约11.14亿元，同比增长34.22%；归属于上市公司股东的净利润约3.44亿元，同比增长4.22%；归属于上市公司股东的扣除非经常性损益的净利润约3.2"
       }
     },
     {
@@ -513,37 +543,15 @@
       "published": "2026-10-30T08:30:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/819270",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/819270",
-        "retrievedAt": "2026-10-30T11:23:28.833347+08:00",
-        "sha256": "a2b8ddddbfa6f7e03f8a15ab4cde08f022751b10881e33656e36d2e2663a779a",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 10月29日，ST人福发布2026年第三季度报告称，前三季度公司实现营业收入约184.12亿元，同比增长2.96%；归属于上市公司股东的净利润约24.15亿元，同比增长43.01%；归属于上市公司股东的扣除非经常性损益的净利润约1"
-      }
-    },
-    {
-      "event": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
-      "originalTitle": "盘活存量增厚业绩 A股公司多元化“瘦身”提质量",
-      "published": "2026-10-30T08:07:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/820185",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/820185",
-        "retrievedAt": "2026-10-30T11:23:28.833347+08:00",
-        "sha256": "fb11e9e8bdffba34fa20686649aa5a1773ee821da3080caf61b795c20cbe8e13",
-        "paragraphCount": 20,
-        "excerpt": "近期，不少A股上市公司明显加快“瘦身健体”的步伐。据上海证券报记者不完全统计，9月至今，有201家上市公司披露资产或股权出售事宜，交易标的涉及土地厂房、闲置物业、金融资产及子公司股权等，总金额超过240亿元，其中部分项目交易金额超过10亿元"
-      }
-    },
-    {
-      "event": "紧抓低位布局机会 首批主动ETF按下上市加速键",
-      "originalTitle": "紧抓低位布局机会 首批主动ETF按下上市加速键",
-      "published": "2026-10-30T08:06:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/820159",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网",
+      "published": "2026-10-30T05:11:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FnU0dnNGsxVU03LWdZdzQ2WTdXMUwzcDFuSFRRb0JfbjRKeHFWWFhGVld3T1F0VjNPX0lIZVFwXzRpUWlyVnVrU0Q3cG5ZTjJ0OV8zd0ZidUNnaWp1VHdwUkdHbEUwUGFGbzRGMmdkN3pUY1ZyWWMteUpsVW4tdQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“一江碧水·十年蝶变”长江大保护网络宣传活动在渝启动 - 新华网"
     },
     {
       "event": "中国向古巴捐赠生活物资 - 新华网",
@@ -557,7 +565,7 @@
       "event": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网",
       "published": "2026-10-30T02:59:53+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZFFwaWxxLTVYZW1raUNTX3d3aVZQNUFJVjJNRXJhV29ONUlLM2s3dFdrYm5VM3dTX0Mzc01LWEtDMkxRUTVPMUNUN1BIV3JzRUtoVGpxRDJrMXl3OVdwVWZIemV5RF90SHd1TUtOMDhqNDNnbTlWXzIzZmVvUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM2ZkamRqVnljc0VmN1JxckNwT3IyOXpDaGZNcXZMN25Gb3JtM2E3RFYxb3ROU0FJbUQ5ZjM5blkxbVp4RWxYT0VqV0xDWFlzVEtJeEdaR05JbDRSeWhHdU9Ya1RaMWhRZXlwWHkxb3hpNEVLOFE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "工信部：完善投资机制 推动新一代通信网重点任务落地 - 新华网"
     },
@@ -568,14 +576,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX19nM2lIRkE5X19IbWFjR2FUU2RTNS1UbDc0bjlDcE1aU01jcHJwUHUwQWR5eXJWX2ZhUkFEdkV5YV9adl9aNVFLbVQ1enNlZUE2WF80VGtoRjRpT3ZKdU5pNGtpNDc4bXUtdFlVM3NtRFZMX05J?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "广州天桥变身“空中花海”引客来 - 新华网"
-    },
-    {
-      "event": "促进药品精益生产 业界推进生物制药设备全过程运维管理 - 新华网",
-      "published": "2026-10-30T02:27:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZk9GaGdFUDUtcFZCYzh3R0N3alNDNnoxRHdPcHVmeWtPRkxNN05QVUlYR0JCNHFYa0dEWUFrWE1zMy02SmhkZ0FVVkZCVjJIMUdxcTRYMlNUNWtsNnp4YlN0Snp4NW16ZXE4M2NycUI3VkpCanZxMGZUSENubzg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "促进药品精益生产 业界推进生物制药设备全过程运维管理 - 新华网"
     }
   ],
   "quality": {
