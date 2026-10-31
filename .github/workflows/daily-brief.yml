@@ -152,3 +152,4 @@ jobs:
 # 2026-10-29 08:17 CST: recovery trigger after missing morning scheduled runs; workflow logic unchanged.
 
 # 2026-10-30 08:36 CST: recovery trigger for missing daily generation; logic unchanged.
+# 2026-10-31 08:18 CST: recovery trigger for missing morning generation; workflow logic unchanged.
