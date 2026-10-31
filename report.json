@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-30",
-  "date": "更新于北京时间 2026-10-30 18:52",
-  "reportDate": "2026-10-30",
-  "updatedAt": "2026-10-30T18:52:30+08:00",
+  "edition": "财经晨报 · 2026-10-31",
+  "date": "更新于北京时间 2026-10-31 08:17",
+  "reportDate": "2026-10-31",
+  "updatedAt": "2026-10-31T08:17:51+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-30 财经资料（待核验）",
+    "title": "2026-10-31 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -19,18 +19,6 @@
       "title": "今天最重要的市场主线",
       "lead": "",
       "blocks": [
-        {
-          "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-29：7,720.39 点；较 2026-10-28 变化 -23.59 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
         {
           "type": "explainer",
           "title": "Brent 原油现货",
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-28：5.05 %；较 2026-10-27 变化 +0.06 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-10-29：7,720.39 点；较 2026-10-28 变化 -23.59 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -82,26 +82,26 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.61 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.05 %；变化 +0.06 个百分点",
+          "summary": "4.94 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-28；前值 4.99（2026-10-27）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6660 人民币/美元；变化 -0.0020 人民币/美元",
+          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-29；前值 6.6680（2026-10-28）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "2026第三届工业数据要素大会在南宁举行 - 新华网",
+          "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T09:24:04+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:58:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMHJBX3JMYmNfVVJUNW1RU29XQm9VSnNJdktJTm1PX1hiT2FJWVhHd3BiR2t0anNwVXVzWE90djlsdVJXeTJvNGtOUHJHWEYxWDNZM0FPeDVPSW83Q3R4MloxN2xWWk1TRWZfZTh0Vm9ITW5HZVMySGM3Qnc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM1VQLVZ3dkxvbndsd0tDYnZhTklDbkZDRFZiaXR2WFVfempPNnV3RE5xajhzeFV0VXlTQXViTHptUVdTV3NEVXE4eWZwc19FSVBFUF9qdGhyNlo2aTJ2LUFfem8tV2VoSWFBWEY1SXhIdHhObHRzV3kyb3lXQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "世界数据组织航运贸易数字化专业委员会成立 - 新华网",
+          "title": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T09:07:35+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:58:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1Q2eW9Qbk93blZKNmZITWZ5d3FQZG9EczJ1ZDVHSzEzdWFfOXZKY3FfQURJTzk4Mkd1enJBal9mcDNrSEpPWE56YXo2OTcxZUFFM2NSc0hnTXhCWngzUkFVQWRzc0E5QVpTZlRSUV91b2s3cG1tMXFOWUJnM1UtTlVHdw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "建行苏州工业园区支行书写科技与金融双向奔赴生动答卷 - 新华网江苏频道",
+          "title": "中方呼吁持续推进哥伦比亚和平进程 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:53:30+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-10-30T22:58:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uRGZIaERpN1JhcDlGSVNHZXd1SkNUaGZ6ajE2all5WUN3VXYyTkFfbHRVaWVDbVpPd3RORXRncy00cWNKMWhhU3JObTJBRW8xdkFsLWFGUG9ZUTMxQ01HeU1PZDVVdmhBZ1BQb0xYMkRoSzFw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfa1ZvYVItbVZBQURkRDN6MTFKMzliLTc5ekJuVkFBYWQ3NXJFYkl0SjZnTXF5dGgyU0s2cjNVOGszclBuc2VLdXlLVk84NEF1SFJyLWhuRndUelpYNllGTGFBX2JpVVpQd2dRM3BTZG1WSWY4SmVucklMNHlzdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "交通银行广西区分行启动“九九敬老月”主题活动 把养老金融服务送到长者身边 - 新华网",
+          "title": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:47:07+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSUJZbFhMYTFSZGVMMXZCek16bk1LTHM2WVNlQV9BRDhPV1JmUEMzZF82NEIxU1U4dWs0MHVFMUhmb0M3aGFRaEZrYzZwNE9nVm5mX2RhN3dVaHphbGVmTjZ5VzlGZnFfZEhSUTVNQTdyd1NFRXJaTlN4bkVkTzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“乐LINK”政产学研平台：一个民间公益组织的银发经济实践 - 新华网",
+          "title": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T08:20:09+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Z2djbUZ2WGVmZ3JnVHlSY2VhZFZVaUtxV2Z2QUdqdTN6S1U0Qko5Tko3S3NlWXJOQUVGeUZzQWR2dzRSSFh4SDJRUl90WXBZenF5QVdRSnFTam1RRnFjaWtvYVNFeGtWU0pKVHkzTEwtTzNCMkFLMlJBWEhUWTA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "强合规防风险 金融安全底线再夯实 - 新华网",
+          "title": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T07:52:23+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tNTl5UDd4RjBOQXBMMzhmQ1EwdnRjMWUydlJTVlpFeXpiVlRRbDNOWTkyYVJ1V25HaHQtdHpTMlhCNE9SSS1RZl80Z0hFYzZVOTRIek9sQ3lxYkFlLVdYcGVXcFI2VWhjWXltYUY2SDNaeEVTYkFkRVJ3MzJ6TlE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "金融价值观丨华美银行傅怡娜：为文化产业高质量发展贡献金融力量 - 新华网",
+          "title": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T07:44:00+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM3QtOThvOHBvdjAwN1N2SmRaM1JUbDRRM05tVklUR3A3Z0lnZl9DckNEdk5INVkxRjdXaHdKcmNuMTVRTXVudkItZ2pTOHdYNzRtaDdUV2E5YmRSTzVvZGdja2RPZ2lCZnJBX2FaYndLQVVBM0hza1RTVy1JcUk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "金融力量护航实体经济行稳致远 - 新华网江苏频道",
+          "title": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T07:43:12+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWjRhekJqd2lzU1lYdWItRWQ3NEYtMDl3V1kyRTdZeUEwTFozV1dSNlVBaVN4QWVRY2FqWGptRUh2dlMtaTAweEhtZk15bEg4OTNrRi1Dbk9ibGpxUWEzTUVvOHJoUzRyemlxOG5DdVNLa196?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "外交部：中方支持南非继续参与G20框架内相关活动 - 新华网",
+          "title": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T07:22:52+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbE9INHBHTWs2Uzd3cWRTUDFySERPdVVyZVhNU3VrY2FmNVNDYzdmNWo1b1pFMHRKclcyVl9WOFZfdVcwRk15eEVtb2VjbU5aYzBfLXcycVB2ZGNKd0FWekk5dWJQbURFMjluMGNXTkIwRzU3Z0h2cnhpUjJYdw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "最高法发布人民法院服务保障冬季供热典型案例 - 新华网",
+          "title": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T07:04:36+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RTm5Pek9jRmxpMDZSakFGbXg3OTVUdWN0Wm1NRWlUaXg2MTJqcEVtOGtLdEppYXVmMFQzU3Vmcl9hLXI3MF9JTXZzdFE2cUZmM2xnblVKajFsTDRXTDRVTEx4dEx4TUJYMGtaSVBtVE9PSUZxNGdDREtlS2FkRUk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 22 课：情景分析",
+      "title": "第 23 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,9 +379,14 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-29"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
@@ -389,8 +394,8 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-29"
     },
     {
@@ -399,151 +404,146 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-28"
+      "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM1VQLVZ3dkxvbndsd0tDYnZhTklDbkZDRFZiaXR2WFVfempPNnV3RE5xajhzeFV0VXlTQXViTHptUVdTV3NEVXE4eWZwc19FSVBFUF9qdGhyNlo2aTJ2LUFfem8tV2VoSWFBWEY1SXhIdHhObHRzV3kyb3lXQQ?oc=5",
+      "asOf": "2026-10-30T22:58:57+00:00"
     },
     {
-      "title": "2026第三届工业数据要素大会在南宁举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMHJBX3JMYmNfVVJUNW1RU29XQm9VSnNJdktJTm1PX1hiT2FJWVhHd3BiR2t0anNwVXVzWE90djlsdVJXeTJvNGtOUHJHWEYxWDNZM0FPeDVPSW83Q3R4MloxN2xWWk1TRWZfZTh0Vm9ITW5HZVMySGM3Qnc?oc=5",
-      "asOf": "2026-10-30T09:24:04+00:00"
+      "title": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5",
+      "asOf": "2026-10-30T22:58:52+00:00"
     },
     {
-      "title": "世界数据组织航运贸易数字化专业委员会成立 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1Q2eW9Qbk93blZKNmZITWZ5d3FQZG9EczJ1ZDVHSzEzdWFfOXZKY3FfQURJTzk4Mkd1enJBal9mcDNrSEpPWE56YXo2OTcxZUFFM2NSc0hnTXhCWngzUkFVQWRzc0E5QVpTZlRSUV91b2s3cG1tMXFOWUJnM1UtTlVHdw?oc=5",
-      "asOf": "2026-10-30T09:07:35+00:00"
+      "title": "中方呼吁持续推进哥伦比亚和平进程 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfa1ZvYVItbVZBQURkRDN6MTFKMzliLTc5ekJuVkFBYWQ3NXJFYkl0SjZnTXF5dGgyU0s2cjNVOGszclBuc2VLdXlLVk84NEF1SFJyLWhuRndUelpYNllGTGFBX2JpVVpQd2dRM3BTZG1WSWY4SmVucklMNHlzdw?oc=5",
+      "asOf": "2026-10-30T22:58:48+00:00"
     },
     {
-      "title": "建行苏州工业园区支行书写科技与金融双向奔赴生动答卷 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uRGZIaERpN1JhcDlGSVNHZXd1SkNUaGZ6ajE2all5WUN3VXYyTkFfbHRVaWVDbVpPd3RORXRncy00cWNKMWhhU3JObTJBRW8xdkFsLWFGUG9ZUTMxQ01HeU1PZDVVdmhBZ1BQb0xYMkRoSzFw?oc=5",
-      "asOf": "2026-10-30T08:53:30+00:00"
+      "title": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "交通银行广西区分行启动“九九敬老月”主题活动 把养老金融服务送到长者身边 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSUJZbFhMYTFSZGVMMXZCek16bk1LTHM2WVNlQV9BRDhPV1JmUEMzZF82NEIxU1U4dWs0MHVFMUhmb0M3aGFRaEZrYzZwNE9nVm5mX2RhN3dVaHphbGVmTjZ5VzlGZnFfZEhSUTVNQTdyd1NFRXJaTlN4bkVkTzg?oc=5",
-      "asOf": "2026-10-30T08:47:07+00:00"
+      "title": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "“乐LINK”政产学研平台：一个民间公益组织的银发经济实践 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Z2djbUZ2WGVmZ3JnVHlSY2VhZFZVaUtxV2Z2QUdqdTN6S1U0Qko5Tko3S3NlWXJOQUVGeUZzQWR2dzRSSFh4SDJRUl90WXBZenF5QVdRSnFTam1RRnFjaWtvYVNFeGtWU0pKVHkzTEwtTzNCMkFLMlJBWEhUWTA?oc=5",
-      "asOf": "2026-10-30T08:20:09+00:00"
+      "title": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "强合规防风险 金融安全底线再夯实 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tNTl5UDd4RjBOQXBMMzhmQ1EwdnRjMWUydlJTVlpFeXpiVlRRbDNOWTkyYVJ1V25HaHQtdHpTMlhCNE9SSS1RZl80Z0hFYzZVOTRIek9sQ3lxYkFlLVdYcGVXcFI2VWhjWXltYUY2SDNaeEVTYkFkRVJ3MzJ6TlE?oc=5",
-      "asOf": "2026-10-30T07:52:23+00:00"
+      "title": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "金融价值观丨华美银行傅怡娜：为文化产业高质量发展贡献金融力量 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM3QtOThvOHBvdjAwN1N2SmRaM1JUbDRRM05tVklUR3A3Z0lnZl9DckNEdk5INVkxRjdXaHdKcmNuMTVRTXVudkItZ2pTOHdYNzRtaDdUV2E5YmRSTzVvZGdja2RPZ2lCZnJBX2FaYndLQVVBM0hza1RTVy1JcUk?oc=5",
-      "asOf": "2026-10-30T07:44:00+00:00"
+      "title": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "金融力量护航实体经济行稳致远 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWjRhekJqd2lzU1lYdWItRWQ3NEYtMDl3V1kyRTdZeUEwTFozV1dSNlVBaVN4QWVRY2FqWGptRUh2dlMtaTAweEhtZk15bEg4OTNrRi1Dbk9ibGpxUWEzTUVvOHJoUzRyemlxOG5DdVNLa196?oc=5",
-      "asOf": "2026-10-30T07:43:12+00:00"
+      "title": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     },
     {
-      "title": "外交部：中方支持南非继续参与G20框架内相关活动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbE9INHBHTWs2Uzd3cWRTUDFySERPdVVyZVhNU3VrY2FmNVNDYzdmNWo1b1pFMHRKclcyVl9WOFZfdVcwRk15eEVtb2VjbU5aYzBfLXcycVB2ZGNKd0FWekk5dWJQbURFMjluMGNXTkIwRzU3Z0h2cnhpUjJYdw?oc=5",
-      "asOf": "2026-10-30T07:22:52+00:00"
-    },
-    {
-      "title": "最高法发布人民法院服务保障冬季供热典型案例 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RTm5Pek9jRmxpMDZSakFGbXg3OTVUdWN0Wm1NRWlUaXg2MTJqcEVtOGtLdEppYXVmMFQzU3Vmcl9hLXI3MF9JTXZzdFE2cUZmM2xnblVKajFsTDRXTDRVTEx4dEx4TUJYMGtaSVBtVE9PSUZxNGdDREtlS2FkRUk?oc=5",
-      "asOf": "2026-10-30T07:04:36+00:00"
+      "title": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5",
+      "asOf": "2026-10-30T22:15:48+00:00"
     }
   ],
   "events": [
     {
-      "event": "2026第三届工业数据要素大会在南宁举行 - 新华网",
-      "published": "2026-10-30T09:24:04+00:00",
+      "event": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
+      "published": "2026-10-30T22:58:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMHJBX3JMYmNfVVJUNW1RU29XQm9VSnNJdktJTm1PX1hiT2FJWVhHd3BiR2t0anNwVXVzWE90djlsdVJXeTJvNGtOUHJHWEYxWDNZM0FPeDVPSW83Q3R4MloxN2xWWk1TRWZfZTh0Vm9ITW5HZVMySGM3Qnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM1VQLVZ3dkxvbndsd0tDYnZhTklDbkZDRFZiaXR2WFVfempPNnV3RE5xajhzeFV0VXlTQXViTHptUVdTV3NEVXE4eWZwc19FSVBFUF9qdGhyNlo2aTJ2LUFfem8tV2VoSWFBWEY1SXhIdHhObHRzV3kyb3lXQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026第三届工业数据要素大会在南宁举行 - 新华网"
+      "originalTitle": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网"
     },
     {
-      "event": "世界数据组织航运贸易数字化专业委员会成立 - 新华网",
-      "published": "2026-10-30T09:07:35+00:00",
+      "event": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
+      "published": "2026-10-30T22:58:52+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1Q2eW9Qbk93blZKNmZITWZ5d3FQZG9EczJ1ZDVHSzEzdWFfOXZKY3FfQURJTzk4Mkd1enJBal9mcDNrSEpPWE56YXo2OTcxZUFFM2NSc0hnTXhCWngzUkFVQWRzc0E5QVpTZlRSUV91b2s3cG1tMXFOWUJnM1UtTlVHdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "世界数据组织航运贸易数字化专业委员会成立 - 新华网"
+      "originalTitle": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网"
     },
     {
-      "event": "建行苏州工业园区支行书写科技与金融双向奔赴生动答卷 - 新华网江苏频道",
-      "published": "2026-10-30T08:53:30+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uRGZIaERpN1JhcDlGSVNHZXd1SkNUaGZ6ajE2all5WUN3VXYyTkFfbHRVaWVDbVpPd3RORXRncy00cWNKMWhhU3JObTJBRW8xdkFsLWFGUG9ZUTMxQ01HeU1PZDVVdmhBZ1BQb0xYMkRoSzFw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "建行苏州工业园区支行书写科技与金融双向奔赴生动答卷 - 新华网江苏频道"
-    },
-    {
-      "event": "交通银行广西区分行启动“九九敬老月”主题活动 把养老金融服务送到长者身边 - 新华网",
-      "published": "2026-10-30T08:47:07+00:00",
+      "event": "中方呼吁持续推进哥伦比亚和平进程 - 新华网",
+      "published": "2026-10-30T22:58:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSUJZbFhMYTFSZGVMMXZCek16bk1LTHM2WVNlQV9BRDhPV1JmUEMzZF82NEIxU1U4dWs0MHVFMUhmb0M3aGFRaEZrYzZwNE9nVm5mX2RhN3dVaHphbGVmTjZ5VzlGZnFfZEhSUTVNQTdyd1NFRXJaTlN4bkVkTzg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfa1ZvYVItbVZBQURkRDN6MTFKMzliLTc5ekJuVkFBYWQ3NXJFYkl0SjZnTXF5dGgyU0s2cjNVOGszclBuc2VLdXlLVk84NEF1SFJyLWhuRndUelpYNllGTGFBX2JpVVpQd2dRM3BTZG1WSWY4SmVucklMNHlzdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "交通银行广西区分行启动“九九敬老月”主题活动 把养老金融服务送到长者身边 - 新华网"
+      "originalTitle": "中方呼吁持续推进哥伦比亚和平进程 - 新华网"
     },
     {
-      "event": "“乐LINK”政产学研平台：一个民间公益组织的银发经济实践 - 新华网",
-      "published": "2026-10-30T08:20:09+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Z2djbUZ2WGVmZ3JnVHlSY2VhZFZVaUtxV2Z2QUdqdTN6S1U0Qko5Tko3S3NlWXJOQUVGeUZzQWR2dzRSSFh4SDJRUl90WXBZenF5QVdRSnFTam1RRnFjaWtvYVNFeGtWU0pKVHkzTEwtTzNCMkFLMlJBWEhUWTA?oc=5",
+      "event": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“乐LINK”政产学研平台：一个民间公益组织的银发经济实践 - 新华网"
+      "originalTitle": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版"
     },
     {
-      "event": "强合规防风险 金融安全底线再夯实 - 新华网",
-      "published": "2026-10-30T07:52:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tNTl5UDd4RjBOQXBMMzhmQ1EwdnRjMWUydlJTVlpFeXpiVlRRbDNOWTkyYVJ1V25HaHQtdHpTMlhCNE9SSS1RZl80Z0hFYzZVOTRIek9sQ3lxYkFlLVdYcGVXcFI2VWhjWXltYUY2SDNaeEVTYkFkRVJ3MzJ6TlE?oc=5",
+      "event": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "强合规防风险 金融安全底线再夯实 - 新华网"
+      "originalTitle": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版"
     },
     {
-      "event": "金融价值观丨华美银行傅怡娜：为文化产业高质量发展贡献金融力量 - 新华网",
-      "published": "2026-10-30T07:44:00+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM3QtOThvOHBvdjAwN1N2SmRaM1JUbDRRM05tVklUR3A3Z0lnZl9DckNEdk5INVkxRjdXaHdKcmNuMTVRTXVudkItZ2pTOHdYNzRtaDdUV2E5YmRSTzVvZGdja2RPZ2lCZnJBX2FaYndLQVVBM0hza1RTVy1JcUk?oc=5",
+      "event": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "金融价值观丨华美银行傅怡娜：为文化产业高质量发展贡献金融力量 - 新华网"
+      "originalTitle": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版"
     },
     {
-      "event": "金融力量护航实体经济行稳致远 - 新华网江苏频道",
-      "published": "2026-10-30T07:43:12+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWjRhekJqd2lzU1lYdWItRWQ3NEYtMDl3V1kyRTdZeUEwTFozV1dSNlVBaVN4QWVRY2FqWGptRUh2dlMtaTAweEhtZk15bEg4OTNrRi1Dbk9ibGpxUWEzTUVvOHJoUzRyemlxOG5DdVNLa196?oc=5",
+      "event": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "金融力量护航实体经济行稳致远 - 新华网江苏频道"
+      "originalTitle": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版"
     },
     {
-      "event": "外交部：中方支持南非继续参与G20框架内相关活动 - 新华网",
-      "published": "2026-10-30T07:22:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbE9INHBHTWs2Uzd3cWRTUDFySERPdVVyZVhNU3VrY2FmNVNDYzdmNWo1b1pFMHRKclcyVl9WOFZfdVcwRk15eEVtb2VjbU5aYzBfLXcycVB2ZGNKd0FWekk5dWJQbURFMjluMGNXTkIwRzU3Z0h2cnhpUjJYdw?oc=5",
+      "event": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "外交部：中方支持南非继续参与G20框架内相关活动 - 新华网"
+      "originalTitle": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版"
     },
     {
-      "event": "最高法发布人民法院服务保障冬季供热典型案例 - 新华网",
-      "published": "2026-10-30T07:04:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RTm5Pek9jRmxpMDZSakFGbXg3OTVUdWN0Wm1NRWlUaXg2MTJqcEVtOGtLdEppYXVmMFQzU3Vmcl9hLXI3MF9JTXZzdFE2cUZmM2xnblVKajFsTDRXTDRVTEx4dEx4TUJYMGtaSVBtVE9PSUZxNGdDREtlS2FkRUk?oc=5",
+      "event": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "最高法发布人民法院服务保障冬季供热典型案例 - 新华网"
+      "originalTitle": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版"
+    },
+    {
+      "event": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
+      "published": "2026-10-30T22:15:48+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
