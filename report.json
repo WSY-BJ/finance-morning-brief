@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 09:47",
+  "date": "更新于北京时间 2026-10-31 10:38",
   "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T09:47:05+08:00",
+  "updatedAt": "2026-10-31T10:38:40+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.56 %；变化 -0.05 个百分点",
+          "summary": "4.61 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 4.61（2026-10-29）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,16 +177,31 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+          "title": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T01:32:17+00:00；来源：新华网。",
+            "发布时间：2026-10-31T02:08:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T01:32:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5"
             }
           ]
         },
@@ -202,6 +217,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "1—9月重庆社会融资规模新增4287亿元 - 新华网重庆",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T23:35:50+00:00；来源：新华网重庆。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb3I3NHYzX3ZVREEzaDE2c0xUcUxXTUtuOHZrams4SFQ1Rmk5NVRaNDhSUEk2NmxWSXNIcHlsaUFxYk5fUF9fdGNqT0l0TTFGcjZqOHptcWs0YWRFUEJMT3ZPSkY2MllINXUyRndNbU0zNXhvdVE?oc=5"
             }
           ]
         },
@@ -294,36 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-29"
@@ -394,9 +389,9 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-29"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -404,8 +399,8 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-30"
     },
     {
@@ -414,14 +409,29 @@
       "asOf": "2026-10-29"
     },
     {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5",
+      "asOf": "2026-10-31T02:08:43+00:00"
+    },
+    {
       "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
-      "asOf": "2026-10-31T01:32:17+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5",
+      "asOf": "2026-10-31T01:32:16+00:00"
     },
     {
       "title": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5",
       "asOf": "2026-10-30T23:59:28+00:00"
+    },
+    {
+      "title": "1—9月重庆社会融资规模新增4287亿元 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb3I3NHYzX3ZVREEzaDE2c0xUcUxXTUtuOHZrams4SFQ1Rmk5NVRaNDhSUEk2NmxWSXNIcHlsaUFxYk5fUF9fdGNqT0l0TTFGcjZqOHptcWs0YWRFUEJMT3ZPSkY2MllINXUyRndNbU0zNXhvdVE?oc=5",
+      "asOf": "2026-10-30T23:35:50+00:00"
     },
     {
       "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
@@ -452,24 +462,22 @@
       "title": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
       "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
     }
   ],
   "events": [
     {
-      "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
-      "published": "2026-10-31T01:32:17+00:00",
+      "event": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
+      "published": "2026-10-31T02:08:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网"
+    },
+    {
+      "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+      "published": "2026-10-31T01:32:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网"
     },
@@ -480,6 +488,14 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网"
+    },
+    {
+      "event": "1—9月重庆社会融资规模新增4287亿元 - 新华网重庆",
+      "published": "2026-10-30T23:35:50+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb3I3NHYzX3ZVREEzaDE2c0xUcUxXTUtuOHZrams4SFQ1Rmk5NVRaNDhSUEk2NmxWSXNIcHlsaUFxYk5fUF9fdGNqT0l0TTFGcjZqOHptcWs0YWRFUEJMT3ZPSkY2MllINXUyRndNbU0zNXhvdVE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "1—9月重庆社会融资规模新增4287亿元 - 新华网重庆"
     },
     {
       "event": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
@@ -528,22 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWjdPVmM0T1ZhNnhOVTBKYThRVUd1cjFINGNZbHNGU05CMHVjc1I3VlJzOW5jX0NRSE1KUXF2UGo1MUxvNWJuNXViSl8wY2ZVb2YwZWdLY0lHZlE4R0RsUU5mVm4yT3BndG91UWZR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "浙江鼎龙科技股份有限公司关于与专业机构共同投资的进展公告 - 上海证券报电子版"
-    },
-    {
-      "event": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
