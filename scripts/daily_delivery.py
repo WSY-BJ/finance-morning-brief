@@ -66,7 +66,16 @@ def checkpoint(root, path, state):
     changed = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=root).returncode
     if changed:
         subprocess.run(['git', 'commit', '-m', f"Daily delivery {state['date']} {state['status']}"], cwd=root, check=True)
-        subprocess.run(['git', 'push', 'origin', 'HEAD:main'], cwd=root, check=True)
+        # Another workflow can commit between checkout and this checkpoint.
+        # Rebase the receipt commit on current main, then retry without force pushes.
+        for attempt in range(5):
+            subprocess.run(['git', 'fetch', 'origin', 'main'], cwd=root, check=True)
+            subprocess.run(['git', 'rebase', 'origin/main'], cwd=root, check=True)
+            result = subprocess.run(['git', 'push', 'origin', 'HEAD:main'], cwd=root)
+            if result.returncode == 0:
+                break
+            if attempt == 4:
+                raise RuntimeError('Could not persist notification receipt after five safe retries')
 
 
 def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
