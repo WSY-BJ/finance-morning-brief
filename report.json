@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 11:07",
+  "date": "更新于北京时间 2026-10-31 13:23",
   "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T11:07:58+08:00",
+  "updatedAt": "2026-10-31T13:23:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-10-29：7,720.39 点；较 2026-10-28 变化 -23.59 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-10-30：7,580.07 点；较 2026-10-29 变化 -140.32 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,37 +80,37 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.56 %；变化 -0.05 个百分点",
+          "summary": "4.61 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 4.61（2026-10-29）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.94 %；变化 -0.04 个百分点",
+          "summary": "4.98 %；变化 -0.07 个百分点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.04 点；变化 -0.15 点",
+          "summary": "101.88 点；变化 -0.16 点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 102.19（2026-10-28）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 102.04（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,720.39 点；变化 -23.59 点",
+          "summary": "7,580.07 点；变化 -140.32 点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 7,743.98（2026-10-28）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 7,720.39（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "26,184.72 点；变化 -365.13 点",
+          "summary": "25,437.00 点；变化 -747.72 点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 26,549.85（2026-10-28）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 26,184.72（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,16 +177,61 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+          "title": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T01:32:17+00:00；来源：新华网。",
+            "发布时间：2026-10-31T04:35:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T04:00:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T01:44:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T01:32:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5"
             }
           ]
         },
@@ -279,51 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUkRPVE00V1pqSTBhVmdHRmFpclhRT21yR2dpLWlsQlNSZ1A5TFVQcmM2MS1KWldkaHgxV01QbDhCdHlVSkYwY0IwUXBrWkFlZWRzblpTS0J3VWhLMTB0NHptMWM1N2ZCY0dlUGRTRF9vdHVQU3Iwa3A4d0lRT0E?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-28 前值 7743.9800，2026-10-29 现值 7720.3901，变化 -23.5898。",
+            "本期实例：标普 500 指数，2026-10-29 前值 7720.3901，2026-10-30 现值 7580.0698，变化 -140.3203。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,14 +379,24 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -394,29 +404,34 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-29"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-29"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-30"
+      "title": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5",
+      "asOf": "2026-10-31T04:35:58+00:00"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-30"
+      "title": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5",
+      "asOf": "2026-10-31T04:00:31+00:00"
+    },
+    {
+      "title": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5",
+      "asOf": "2026-10-31T01:44:16+00:00"
     },
     {
       "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
-      "asOf": "2026-10-31T01:32:17+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5",
+      "asOf": "2026-10-31T01:32:16+00:00"
     },
     {
       "title": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网",
@@ -447,29 +462,38 @@
       "title": "中方呼吁持续推进哥伦比亚和平进程 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUkRPVE00V1pqSTBhVmdHRmFpclhRT21yR2dpLWlsQlNSZ1A5TFVQcmM2MS1KWldkaHgxV01QbDhCdHlVSkYwY0IwUXBrWkFlZWRzblpTS0J3VWhLMTB0NHptMWM1N2ZCY0dlUGRTRF9vdHVQU3Iwa3A4d0lRT0E?oc=5",
       "asOf": "2026-10-30T22:58:48+00:00"
-    },
-    {
-      "title": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
     }
   ],
   "events": [
     {
-      "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
-      "published": "2026-10-31T01:32:17+00:00",
+      "event": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
+      "published": "2026-10-31T04:35:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国常驻联合国代表团举办发展权主题边会 - 新华网"
+    },
+    {
+      "event": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
+      "published": "2026-10-31T04:00:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网"
+    },
+    {
+      "event": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
+      "published": "2026-10-31T01:44:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网"
+    },
+    {
+      "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+      "published": "2026-10-31T01:32:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX0dzLW5mS2pEYU9nNmNDd3JCOU1zejF0dno5NHhZUGNzU1hzSnFFUmRGWmJmdDdfZkE5Z3NwblFESjAtSmt0RjRoUmFkUWI4eEVQSHNqOXdfbG10VXFycE11OTFkbUxZOVVqalVLUlN2cnJSeWJR?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网"
     },
@@ -520,30 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUkRPVE00V1pqSTBhVmdHRmFpclhRT21yR2dpLWlsQlNSZ1A5TFVQcmM2MS1KWldkaHgxV01QbDhCdHlVSkYwY0IwUXBrWkFlZWRzblpTS0J3VWhLMTB0NHptMWM1N2ZCY0dlUGRTRF9vdHVQU3Iwa3A4d0lRT0E?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中方呼吁持续推进哥伦比亚和平进程 - 新华网"
-    },
-    {
-      "event": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lV1hmVmRkRHNDU25TWl8yd0JiNXF6QnEteEhNcjk4dUJNTTlUQnFpSHE0cXRGUjZCeFl4bTdUclFpTjJxRjBYc09GQXVXRUhyX09VTWtlaFc2dUdFYmt2ZTN4MkdmMmhjVUdUQWlR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "铜陵精达特种电磁线股份有限公司关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1od3Z6UTlIaWlORENqb01LS2pIUnAybU5COXNicVBsMmNhYlo3RWxuQVIzTHNHclhSZnZNMWl6WS1oWTdMdlhiaHRma0c2LXhFbjhOSF80dldlaEZ3Q0RqemFuZXZuVjNZQVVyWG53?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "山东道恩高分子材料股份有限公司关于签署收购境外公司股权协议的进展公告 - 上海证券报电子版"
-    },
-    {
-      "event": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWkMtVi1NdFdiWHNkTmdCWHk1SFZYRlRtVHFiRlpmRkVObW9NbWlSTXRBek9JT2FwRXdNMXhsdVBSOXA0ZG1vQ1Rld3BfdVQ0alNxYzZRRW9aUmJlbXRIZnRZNWhuTmV3ai1zV2Zn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "内蒙古兴业银锡矿业股份有限公司关于子公司发生安全事故的进展暨采区复产的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
