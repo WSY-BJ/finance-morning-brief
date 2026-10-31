@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 08:44",
+  "date": "更新于北京时间 2026-10-31 09:47",
   "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T08:44:54+08:00",
+  "updatedAt": "2026-10-31T09:47:05+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
+          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.94 %；变化 -0.04 个百分点",
+          "summary": "4.98 %；变化 -0.07 个百分点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -175,6 +175,36 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T01:32:17+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-30T23:59:28+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
@@ -294,36 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T22:15:48+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-29"
@@ -391,6 +386,11 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-29"
     },
     {
@@ -404,14 +404,24 @@
       "asOf": "2026-10-27"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-10-30"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
+      "asOf": "2026-10-31T01:32:17+00:00"
+    },
+    {
+      "title": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5",
+      "asOf": "2026-10-30T23:59:28+00:00"
     },
     {
       "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
@@ -452,19 +462,25 @@
       "title": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
       "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
-    },
-    {
-      "title": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5",
-      "asOf": "2026-10-30T22:15:48+00:00"
     }
   ],
   "events": [
+    {
+      "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
+      "published": "2026-10-31T01:32:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFRFUHZ5T2hxX0U1R056bFlpanBxTDZWdHcyelgxRk1YVDBWZFZmdlpXaEhEUVFsVkpubjNoUnBQSnducFZocFNCR3ZxbHJhXzY4TzgyVFE2Snh1enlqR0xlQ2xQc0Npd0t4dG9pbm92TlE2UnNoeGFneUJwMGgyLUFFcw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网"
+    },
+    {
+      "event": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网",
+      "published": "2026-10-30T23:59:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SMVZWbUdLSnpuallHMTA2RXhyQW1sRTdlbnZ5R1hjZ0UzQkhHMzdhd3IteTFaTWN1Rlhuc0k1YTJXdWc5VjRCbDYyQXVBbF83SWlScEZ0OWsxa3ZTOGZJdENHVkI1a051MTdRYlFyWjVJdVRWZVBR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "经济观察丨算力网建设为中国西部撑起数字未来 - 新华网"
+    },
     {
       "event": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
       "published": "2026-10-30T22:58:57+00:00",
@@ -528,22 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMHN1TlJtLUtXcXA1V0E3Y3FqOUlNQW5ETE1nMC11OGp1RFNqOXJkZDExSnJXS21Jazl6SEZxY2VYVmltdXZMQk43U2tMeEw1NExwaGVSUTVUbXJZWkhZVWFsQVdkaXVFZmFPWWV3?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中复神鹰碳纤维股份有限公司关于独立董事任期满六年辞任的公告 - 上海证券报电子版"
-    },
-    {
-      "event": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zU1ZJZ1VwQUVqS0pCejZHSS1nSHFYYXlYbXhLQUhFZlpKRzJRbkVTdERfUVJNT3pyLUg5TEVMR1Focnh1c1cwenRqTnZreU5HVTIzcXlGRGpqMGFwZC1JV0VPLUZlaEpqbld5ekJB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "恒天海龙股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展及风险提示性公告 - 上海证券报电子版"
-    },
-    {
-      "event": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版",
-      "published": "2026-10-30T22:15:48+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWXlKOHM4V3h5N3J1WDFQWGNlZHJnaTZYTVhmLUt6bFNhQnJ1ZV9YT1oxS2c4bnRMTjUtWkh3Z09GaVdFU1ZLQzRzUS1CcVJRWk83d3IwVjZVS3NpT1NUMUIxVjhRckpJcVZJYV9B?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "展鹏科技股份有限公司关于副总经理、财务总监离任暨总经理代行财务总监职责的公告 - 上海证券报电子版"
     }
   ],
   "quality": {
