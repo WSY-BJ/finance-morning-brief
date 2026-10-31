@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 14:58",
+  "date": "更新于北京时间 2026-10-31 18:24",
   "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T14:58:06+08:00",
+  "updatedAt": "2026-10-31T18:24:08+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
+          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 -0.07 个百分点",
+          "summary": "4.94 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "射阳港经济开发区走出零碳园区智慧能碳平台建设新路径 - 新华网",
+          "title": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T05:22:08+00:00；来源：新华网。",
+            "发布时间：2026-10-31T10:06:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXVTcWYyaWxFSnB1eGJRWllQbmRVU0ZpRUh5RHNhcEh1YUowRExvOVNOTTlnWmpBWGNSeUE3VE4wT1pzbXNTQ05rTExMWFBRS1ItbUNVczk2NGxFYUN2aGNDYVRjX2xOcnRKMko3XzlGUkRmeDlZdVdCS1FBaHVZYQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "云汉芯城发布2026年三季报：前三季度营收45.2亿同比增102.99%，平台规模效应持续释放 - 新华网",
+          "title": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T05:21:54+00:00；来源：新华网。",
+            "发布时间：2026-10-31T10:00:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnc5TWpJRzFmazhlM0UzRVdLdDVCbmxsamJPZ1czbG1Vck1GTE1BQzBXbDN0U0RVNkJUWjd4Mkt0Z0VqMWY4ZDFiZ0s3VUZNVkpMdTNWdW9BUjJwZlJnc01uZUlUTnhQcGFrVmVqaU9HRGE2LUVIYUdGUDRZNFVSRg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
+          "title": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T04:35:58+00:00；来源：新华网。",
+            "发布时间：2026-10-31T09:13:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社消息丨哈工大研制出或能在月球“烧砖盖房”的“太阳炉” - 新华网",
+          "title": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T04:01:43+00:00；来源：新华网。",
+            "发布时间：2026-10-31T08:33:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ09LUUVVeXpuejlLVjVndWNnYnM2WUZwLTI1Q0NoY05pUFBudUxycEZMVUhPTk9KQWJmTGRlcEluQVNIWXpXcUxjLXpuWDUxUzZuUWN6OFVyNlZaRVlkOHdPc0kwQUhBZU5TYnF2a1ZaUGd2X002YnBaRlQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
+          "title": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T04:00:31+00:00；来源：新华网。",
+            "发布时间：2026-10-31T08:21:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
+          "title": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T03:40:48+00:00；来源：新华网。",
+            "发布时间：2026-10-31T08:03:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "福州：老社区“针灸式”改造暖民心 - 新华网",
+          "title": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T03:14:43+00:00；来源：新华网。",
+            "发布时间：2026-10-31T08:03:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYndlV25JS294YUZpSkhUZ01hMm0tMmxoUml1cTZKeVA3a3RLVWRhbmhhUU9UaXJHT05Fbkc1bUtULVdBXy1Dd2Z6TUVBQXlMRU9qbUEwWkNVcGZpZnFKMjhRUDNIN0xZQ3ZaVTFQTDBIUl9KV29Tc1VMeVdzVVk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "原创MV《重光》发布：循先辈足迹，听山河回响 - 新华网",
+          "title": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T02:49:05+00:00；来源：新华网。",
+            "发布时间：2026-10-31T08:01:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVm55TlhvRng4QzhwbGE4dTBaTm5vVjVUSi1rWHhGU18ya3h0NjU1WV9yY21jZ1VyeDJ4a3RMN0oySklFQ1JNdFlNeGwzdHUydU05SjBJYnVIMlo1S1ZZcFZXNEppN2E1TE1uME5iT0lmMVBnenhxR2JjelZRdFE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "气壮山河・重走征途｜昊铂 S600 伴我们踏上寻访之旅 - 新华网",
+          "title": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T02:44:45+00:00；来源：新华网。",
+            "发布时间：2026-10-31T07:53:06+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5laVlvekxiUjAwUDNGbERSVmlkZi1wUlBzVXBOSUk0SzJCaWhWVHl1WUZWcTdzR3gzcjYyT0xQRm1PUklzMUdXamNHTXFoa0YtZjVvMmJZV0ZSRmh0a3FtaWVwYndOSXRnQ2t1VE1RZWI4Y09sdWVGSjJqYmI?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国 - 新华网",
+          "title": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T02:08:52+00:00；来源：新华网。",
+            "发布时间：2026-10-31T07:50:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUGRkWEV4ekdpVEZHVDRJeGpFZ29ORndzcVpPQ3phdnJSSXl4Z1gzalNMT2VrNGZfMlBHNVppRzBLSnlrVXZvRjRwTmtGeWoyVDB4YTMyM1JsbVdUMlZ6dG1uTTI5RGt0UVZmMnZRMkplZ0FRZ3JMd2tzZjhWTlU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5"
             }
           ]
         }
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
@@ -394,14 +389,24 @@
       "asOf": "2026-10-30"
     },
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -409,141 +414,136 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "title": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5",
+      "asOf": "2026-10-31T10:06:16+00:00"
     },
     {
-      "title": "射阳港经济开发区走出零碳园区智慧能碳平台建设新路径 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXVTcWYyaWxFSnB1eGJRWllQbmRVU0ZpRUh5RHNhcEh1YUowRExvOVNOTTlnWmpBWGNSeUE3VE4wT1pzbXNTQ05rTExMWFBRS1ItbUNVczk2NGxFYUN2aGNDYVRjX2xOcnRKMko3XzlGUkRmeDlZdVdCS1FBaHVZYQ?oc=5",
-      "asOf": "2026-10-31T05:22:08+00:00"
+      "title": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5",
+      "asOf": "2026-10-31T10:00:00+00:00"
     },
     {
-      "title": "云汉芯城发布2026年三季报：前三季度营收45.2亿同比增102.99%，平台规模效应持续释放 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnc5TWpJRzFmazhlM0UzRVdLdDVCbmxsamJPZ1czbG1Vck1GTE1BQzBXbDN0U0RVNkJUWjd4Mkt0Z0VqMWY4ZDFiZ0s3VUZNVkpMdTNWdW9BUjJwZlJnc01uZUlUTnhQcGFrVmVqaU9HRGE2LUVIYUdGUDRZNFVSRg?oc=5",
-      "asOf": "2026-10-31T05:21:54+00:00"
+      "title": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5",
+      "asOf": "2026-10-31T09:13:19+00:00"
     },
     {
-      "title": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5",
-      "asOf": "2026-10-31T04:35:58+00:00"
+      "title": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5",
+      "asOf": "2026-10-31T08:33:02+00:00"
     },
     {
-      "title": "新华社消息丨哈工大研制出或能在月球“烧砖盖房”的“太阳炉” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ09LUUVVeXpuejlLVjVndWNnYnM2WUZwLTI1Q0NoY05pUFBudUxycEZMVUhPTk9KQWJmTGRlcEluQVNIWXpXcUxjLXpuWDUxUzZuUWN6OFVyNlZaRVlkOHdPc0kwQUhBZU5TYnF2a1ZaUGd2X002YnBaRlQ?oc=5",
-      "asOf": "2026-10-31T04:01:43+00:00"
+      "title": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5",
+      "asOf": "2026-10-31T08:21:02+00:00"
     },
     {
-      "title": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5",
-      "asOf": "2026-10-31T04:00:31+00:00"
+      "title": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5",
+      "asOf": "2026-10-31T08:03:44+00:00"
     },
     {
-      "title": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5",
-      "asOf": "2026-10-31T03:40:48+00:00"
+      "title": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5",
+      "asOf": "2026-10-31T08:03:27+00:00"
     },
     {
-      "title": "福州：老社区“针灸式”改造暖民心 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYndlV25JS294YUZpSkhUZ01hMm0tMmxoUml1cTZKeVA3a3RLVWRhbmhhUU9UaXJHT05Fbkc1bUtULVdBXy1Dd2Z6TUVBQXlMRU9qbUEwWkNVcGZpZnFKMjhRUDNIN0xZQ3ZaVTFQTDBIUl9KV29Tc1VMeVdzVVk?oc=5",
-      "asOf": "2026-10-31T03:14:43+00:00"
+      "title": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5",
+      "asOf": "2026-10-31T08:01:23+00:00"
     },
     {
-      "title": "原创MV《重光》发布：循先辈足迹，听山河回响 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVm55TlhvRng4QzhwbGE4dTBaTm5vVjVUSi1rWHhGU18ya3h0NjU1WV9yY21jZ1VyeDJ4a3RMN0oySklFQ1JNdFlNeGwzdHUydU05SjBJYnVIMlo1S1ZZcFZXNEppN2E1TE1uME5iT0lmMVBnenhxR2JjelZRdFE?oc=5",
-      "asOf": "2026-10-31T02:49:05+00:00"
+      "title": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5",
+      "asOf": "2026-10-31T07:53:06+00:00"
     },
     {
-      "title": "气壮山河・重走征途｜昊铂 S600 伴我们踏上寻访之旅 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5laVlvekxiUjAwUDNGbERSVmlkZi1wUlBzVXBOSUk0SzJCaWhWVHl1WUZWcTdzR3gzcjYyT0xQRm1PUklzMUdXamNHTXFoa0YtZjVvMmJZV0ZSRmh0a3FtaWVwYndOSXRnQ2t1VE1RZWI4Y09sdWVGSjJqYmI?oc=5",
-      "asOf": "2026-10-31T02:44:45+00:00"
-    },
-    {
-      "title": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUGRkWEV4ekdpVEZHVDRJeGpFZ29ORndzcVpPQ3phdnJSSXl4Z1gzalNMT2VrNGZfMlBHNVppRzBLSnlrVXZvRjRwTmtGeWoyVDB4YTMyM1JsbVdUMlZ6dG1uTTI5RGt0UVZmMnZRMkplZ0FRZ3JMd2tzZjhWTlU?oc=5",
-      "asOf": "2026-10-31T02:08:52+00:00"
+      "title": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5",
+      "asOf": "2026-10-31T07:50:52+00:00"
     }
   ],
   "events": [
     {
-      "event": "射阳港经济开发区走出零碳园区智慧能碳平台建设新路径 - 新华网",
-      "published": "2026-10-31T05:22:08+00:00",
+      "event": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
+      "published": "2026-10-31T10:06:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXVTcWYyaWxFSnB1eGJRWllQbmRVU0ZpRUh5RHNhcEh1YUowRExvOVNOTTlnWmpBWGNSeUE3VE4wT1pzbXNTQ05rTExMWFBRS1ItbUNVczk2NGxFYUN2aGNDYVRjX2xOcnRKMko3XzlGUkRmeDlZdVdCS1FBaHVZYQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "射阳港经济开发区走出零碳园区智慧能碳平台建设新路径 - 新华网"
+      "originalTitle": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网"
     },
     {
-      "event": "云汉芯城发布2026年三季报：前三季度营收45.2亿同比增102.99%，平台规模效应持续释放 - 新华网",
-      "published": "2026-10-31T05:21:54+00:00",
+      "event": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
+      "published": "2026-10-31T10:00:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnc5TWpJRzFmazhlM0UzRVdLdDVCbmxsamJPZ1czbG1Vck1GTE1BQzBXbDN0U0RVNkJUWjd4Mkt0Z0VqMWY4ZDFiZ0s3VUZNVkpMdTNWdW9BUjJwZlJnc01uZUlUTnhQcGFrVmVqaU9HRGE2LUVIYUdGUDRZNFVSRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "云汉芯城发布2026年三季报：前三季度营收45.2亿同比增102.99%，平台规模效应持续释放 - 新华网"
+      "originalTitle": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网"
     },
     {
-      "event": "中国常驻联合国代表团举办发展权主题边会 - 新华网",
-      "published": "2026-10-31T04:35:58+00:00",
+      "event": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
+      "published": "2026-10-31T09:13:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fendyWHVTaGhBaDliUk9PZ2ZrTHdMeGhKbzNDWGtUdXJGNTJsOFVoTElCS0ZORkxOV091Y3Q1Qi1qMHhqSlhicjhaN2NmWVUzWmRFaWJ2ZzFIcHowUHJzcFluNERVS3ppTndCTmNhUTVRR2s0M2VocGFBQ3BLam8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国常驻联合国代表团举办发展权主题边会 - 新华网"
+      "originalTitle": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网"
     },
     {
-      "event": "新华社消息丨哈工大研制出或能在月球“烧砖盖房”的“太阳炉” - 新华网",
-      "published": "2026-10-31T04:01:43+00:00",
+      "event": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
+      "published": "2026-10-31T08:33:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ09LUUVVeXpuejlLVjVndWNnYnM2WUZwLTI1Q0NoY05pUFBudUxycEZMVUhPTk9KQWJmTGRlcEluQVNIWXpXcUxjLXpuWDUxUzZuUWN6OFVyNlZaRVlkOHdPc0kwQUhBZU5TYnF2a1ZaUGd2X002YnBaRlQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨哈工大研制出或能在月球“烧砖盖房”的“太阳炉” - 新华网"
+      "originalTitle": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网"
     },
     {
-      "event": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网",
-      "published": "2026-10-31T04:00:31+00:00",
+      "event": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
+      "published": "2026-10-31T08:21:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ1JPdURhRzJDMTJ6MW4yTEN1b081S0ZYclZWeFRVNmJwUk56VmNoTThXYWQwZUZMSHNmRWpYZEwyNnhjeW9GM3NKTFYtNHU4WTJaZjlYcUdldk4xUEdaZVUydjdGX3d2TGVjZEJCcVQwcENY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网"
+      "originalTitle": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网"
     },
     {
-      "event": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
-      "published": "2026-10-31T03:40:48+00:00",
+      "event": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
+      "published": "2026-10-31T08:03:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网"
+      "originalTitle": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网"
     },
     {
-      "event": "福州：老社区“针灸式”改造暖民心 - 新华网",
-      "published": "2026-10-31T03:14:43+00:00",
+      "event": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
+      "published": "2026-10-31T08:03:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYndlV25JS294YUZpSkhUZ01hMm0tMmxoUml1cTZKeVA3a3RLVWRhbmhhUU9UaXJHT05Fbkc1bUtULVdBXy1Dd2Z6TUVBQXlMRU9qbUEwWkNVcGZpZnFKMjhRUDNIN0xZQ3ZaVTFQTDBIUl9KV29Tc1VMeVdzVVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "福州：老社区“针灸式”改造暖民心 - 新华网"
+      "originalTitle": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网"
     },
     {
-      "event": "原创MV《重光》发布：循先辈足迹，听山河回响 - 新华网",
-      "published": "2026-10-31T02:49:05+00:00",
+      "event": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
+      "published": "2026-10-31T08:01:23+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVm55TlhvRng4QzhwbGE4dTBaTm5vVjVUSi1rWHhGU18ya3h0NjU1WV9yY21jZ1VyeDJ4a3RMN0oySklFQ1JNdFlNeGwzdHUydU05SjBJYnVIMlo1S1ZZcFZXNEppN2E1TE1uME5iT0lmMVBnenhxR2JjelZRdFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "原创MV《重光》发布：循先辈足迹，听山河回响 - 新华网"
+      "originalTitle": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网"
     },
     {
-      "event": "气壮山河・重走征途｜昊铂 S600 伴我们踏上寻访之旅 - 新华网",
-      "published": "2026-10-31T02:44:45+00:00",
+      "event": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
+      "published": "2026-10-31T07:53:06+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5laVlvekxiUjAwUDNGbERSVmlkZi1wUlBzVXBOSUk0SzJCaWhWVHl1WUZWcTdzR3gzcjYyT0xQRm1PUklzMUdXamNHTXFoa0YtZjVvMmJZV0ZSRmh0a3FtaWVwYndOSXRnQ2t1VE1RZWI4Y09sdWVGSjJqYmI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "气壮山河・重走征途｜昊铂 S600 伴我们踏上寻访之旅 - 新华网"
+      "originalTitle": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网"
     },
     {
-      "event": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国 - 新华网",
-      "published": "2026-10-31T02:08:52+00:00",
+      "event": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
+      "published": "2026-10-31T07:50:52+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUGRkWEV4ekdpVEZHVDRJeGpFZ29ORndzcVpPQ3phdnJSSXl4Z1gzalNMT2VrNGZfMlBHNVppRzBLSnlrVXZvRjRwTmtGeWoyVDB4YTMyM1JsbVdUMlZ6dG1uTTI5RGt0UVZmMnZRMkplZ0FRZ3JMd2tzZjhWTlU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国 - 新华网"
+      "originalTitle": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网"
     }
   ],
   "quality": {
