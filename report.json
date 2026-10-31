@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 13:23",
+  "date": "更新于北京时间 2026-10-31 13:43",
   "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T13:23:22+08:00",
+  "updatedAt": "2026-10-31T13:43:11+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-10-30：7,580.07 点；较 2026-10-29 变化 -140.32 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -207,16 +207,31 @@
         },
         {
           "type": "explainer",
-          "title": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
+          "title": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T01:44:16+00:00；来源：新华网。",
+            "发布时间：2026-10-31T03:40:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T02:08:43+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5"
             }
           ]
         },
@@ -267,21 +282,6 @@
         },
         {
           "type": "explainer",
-          "title": "党的二十届五中全会精神在全市广大党员干部群众中引发强烈反响 - 新华网重庆",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-30T23:33:37+00:00；来源：新华网重庆。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Id19BRHVxR2l6VGdjM3Z0SU1KRV93WVczUnhWYlF6Zkg0WVZTcklMNGRqQThHZzQ4d1JnM0R6TjBOYUxsWWtfWW1RN0pHdWpQaXp3MlVmOUpuTk1sa1RaOVl6S1dnUU03cHNnbzNENUZva09nQXc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -300,13 +300,13 @@
           "title": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-30T22:58:52+00:00；来源：新华网。",
+            "发布时间：2026-10-30T22:58:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bEdqSWtUaThVYXJvZTQ2dFE0a2MzX09YZW9lbThOMzBjUjJZWFUzTHVQeTN5b0RsV3NqNXdyZlZIZFVPOXVxYnVrZGRpLVpLWmxmVmRTV1dCSFhNbjlJeG45Tk5wUjBONE9DY3NCMlpzMnZRQzhJ?oc=5"
             }
           ]
         },
@@ -379,13 +379,8 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-30"
     },
     {
@@ -399,18 +394,23 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-10-27"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-29"
     },
     {
@@ -424,9 +424,14 @@
       "asOf": "2026-10-31T04:00:31+00:00"
     },
     {
-      "title": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5",
-      "asOf": "2026-10-31T01:44:16+00:00"
+      "title": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5",
+      "asOf": "2026-10-31T03:40:48+00:00"
+    },
+    {
+      "title": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5",
+      "asOf": "2026-10-31T02:08:43+00:00"
     },
     {
       "title": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
@@ -444,19 +449,14 @@
       "asOf": "2026-10-30T23:35:50+00:00"
     },
     {
-      "title": "党的二十届五中全会精神在全市广大党员干部群众中引发强烈反响 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Id19BRHVxR2l6VGdjM3Z0SU1KRV93WVczUnhWYlF6Zkg0WVZTcklMNGRqQThHZzQ4d1JnM0R6TjBOYUxsWWtfWW1RN0pHdWpQaXp3MlVmOUpuTk1sa1RaOVl6S1dnUU03cHNnbzNENUZva09nQXc?oc=5",
-      "asOf": "2026-10-30T23:33:37+00:00"
-    },
-    {
       "title": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM1VQLVZ3dkxvbndsd0tDYnZhTklDbkZDRFZiaXR2WFVfempPNnV3RE5xajhzeFV0VXlTQXViTHptUVdTV3NEVXE4eWZwc19FSVBFUF9qdGhyNlo2aTJ2LUFfem8tV2VoSWFBWEY1SXhIdHhObHRzV3kyb3lXQQ?oc=5",
       "asOf": "2026-10-30T22:58:57+00:00"
     },
     {
       "title": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5",
-      "asOf": "2026-10-30T22:58:52+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bEdqSWtUaThVYXJvZTQ2dFE0a2MzX09YZW9lbThOMzBjUjJZWFUzTHVQeTN5b0RsV3NqNXdyZlZIZFVPOXVxYnVrZGRpLVpLWmxmVmRTV1dCSFhNbjlJeG45Tk5wUjBONE9DY3NCMlpzMnZRQzhJ?oc=5",
+      "asOf": "2026-10-30T22:58:50+00:00"
     },
     {
       "title": "中方呼吁持续推进哥伦比亚和平进程 - 新华网",
@@ -482,12 +482,20 @@
       "originalTitle": "深化政企协同 共筑枢纽引擎 湖北港口集团与鄂州市共商武汉都市圈一体化协同融合发展 - 新华网"
     },
     {
-      "event": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网",
-      "published": "2026-10-31T01:44:16+00:00",
+      "event": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网",
+      "published": "2026-10-31T03:40:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTDh2YzVBVGg4WnRFQ1l3NzZ1YjRsZUdOX3NPaTlXWHBibWlKTG1ISXNnaUpNclpGVkh2a1JtS3k3aXpnZUpmbUQxZWREYUFwOWNhZDJVRWVnSVNUTHVGY01KVVFoeV9uYlV5RnlGaXNVWU5TV1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdUtSaW1hakg1d3BiNVhLQ2llbGk0VmxLRzloR0pkWEZnYlV2LVRIdEZsVXYyalNFU3FSck9UdEtiV2dhRk13d2FYdS1QTjVLdkprMURVWm4tcXFxS1ZWS0tQT21pUkV4d0FGYkxiWkJ4elY4aEE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "建管并重 长效运维 守护高标准农田“长久效益” - 新华网"
+      "originalTitle": "前三季度内蒙古金融机构存贷款实现双增长 - 新华网"
+    },
+    {
+      "event": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网",
+      "published": "2026-10-31T02:08:43+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR2tDNXN6ZEhrbkdoV09wLWg2cGhCNm13T0FVVGt6THdlWlotaTRXVnVWMGpVLXdIWjJzRzREaUJhSWdTVEdCLXdXZjlPdnFqNjNnRXc1LVJBZGlTYVM1cDBtM0Z1dDgxQXNtZjkzSFU4Qlp4LTVDQkxYNXMzOVNUZ05nNA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "我国铼、金、镍、锆等保有资源量大幅增加 - 新华网"
     },
     {
       "event": "新华时评·中国经济新观察丨焕“新”城市赋能美好生活 - 新华网",
@@ -514,14 +522,6 @@
       "originalTitle": "1—9月重庆社会融资规模新增4287亿元 - 新华网重庆"
     },
     {
-      "event": "党的二十届五中全会精神在全市广大党员干部群众中引发强烈反响 - 新华网重庆",
-      "published": "2026-10-30T23:33:37+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Id19BRHVxR2l6VGdjM3Z0SU1KRV93WVczUnhWYlF6Zkg0WVZTcklMNGRqQThHZzQ4d1JnM0R6TjBOYUxsWWtfWW1RN0pHdWpQaXp3MlVmOUpuTk1sa1RaOVl6S1dnUU03cHNnbzNENUZva09nQXc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "党的二十届五中全会精神在全市广大党员干部群众中引发强烈反响 - 新华网重庆"
-    },
-    {
       "event": "加拿大欧盟启动构建“未来联盟”以实现共同繁荣 - 新华网",
       "published": "2026-10-30T22:58:57+00:00",
       "publisher": "新华网",
@@ -531,9 +531,9 @@
     },
     {
       "event": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网",
-      "published": "2026-10-30T22:58:52+00:00",
+      "published": "2026-10-30T22:58:50+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mam5xd2g0ZXgwZzUwVUFxaHJOS2Vpck1jamlOQlJsTm5WOHJ5YXBkUVFObTRTcU50TUc0dnc4V19BVzBGVVl1RlRfN3JhRFh3VkdsdEtRbzR2Wk9pbXZod09SWEl1YnBJZXU4MENTZmg2N2xwYkJXODhTSTdmQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bEdqSWtUaThVYXJvZTQ2dFE0a2MzX09YZW9lbThOMzBjUjJZWFUzTHVQeTN5b0RsV3NqNXdyZlZIZFVPOXVxYnVrZGRpLVpLWmxmVmRTV1dCSFhNbjlJeG45Tk5wUjBONE9DY3NCMlpzMnZRQzhJ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中方呼吁波黑各界共同维护国家政治社会稳定 - 新华网"
     },
