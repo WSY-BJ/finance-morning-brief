@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-10-31",
-  "date": "更新于北京时间 2026-10-31 18:24",
-  "reportDate": "2026-10-31",
-  "updatedAt": "2026-10-31T18:24:08+08:00",
+  "edition": "财经晨报 · 2026-11-01",
+  "date": "更新于北京时间 2026-11-01 08:06",
+  "reportDate": "2026-11-01",
+  "updatedAt": "2026-11-01T08:06:12+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-10-31 财经资料（待核验）",
+    "title": "2026-11-01 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,25 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-10-27：123.10 美元/桶；较 2026-10-26 变化 -5.02 美元/桶。",
+          "title": "Brent 原油期货",
+          "summary": "2026-10-30：117.64 美元/桶；较 2026-10-29 变化 +2.76 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
+          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "123.10 美元/桶；变化 -5.02 美元/桶",
+          "title": "Brent 原油期货",
+          "summary": "117.64 美元/桶；变化 +2.76 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-27；前值 128.12（2026-10-26）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-30；前值 114.88（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.94 %；变化 -0.04 个百分点",
+          "summary": "4.98 %；变化 -0.07 个百分点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：美国财政部。"
+            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
+          "summary": "6.6449 人民币/美元；变化 -0.0161 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-10-31；前值 6.6610（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
+          "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T10:06:16+00:00；来源：新华网。",
+            "发布时间：2026-10-31T22:22:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
+          "title": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T10:00:00+00:00；来源：新华网。",
+            "发布时间：2026-10-31T21:32:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
+          "title": "伊朗外长称目前没有与美方会谈计划 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T09:13:19+00:00；来源：新华网。",
+            "发布时间：2026-10-31T15:05:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
+          "title": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T08:33:02+00:00；来源：新华网。",
+            "发布时间：2026-10-31T14:50:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
+          "title": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T08:21:02+00:00；来源：新华网。",
+            "发布时间：2026-10-31T14:36:01+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
+          "title": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T08:03:44+00:00；来源：新华网。",
+            "发布时间：2026-10-31T14:28:36+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
+          "title": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T08:03:27+00:00；来源：新华网。",
+            "发布时间：2026-10-31T14:26:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
+          "title": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T08:01:23+00:00；来源：新华网。",
+            "发布时间：2026-10-31T13:56:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
+          "title": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T07:53:06+00:00；来源：新华网。",
+            "发布时间：2026-10-31T13:51:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
+          "title": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-10-31T07:50:52+00:00；来源：新华网。",
+            "发布时间：2026-10-31T13:39:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 23 课：情景分析",
+      "title": "第 24 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-31"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
@@ -389,23 +394,13 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-10-27"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-30"
     },
     {
@@ -414,136 +409,141 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5",
-      "asOf": "2026-10-31T10:06:16+00:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
     },
     {
-      "title": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5",
-      "asOf": "2026-10-31T10:00:00+00:00"
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
+      "asOf": "2026-10-31T22:22:37+00:00"
     },
     {
-      "title": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5",
-      "asOf": "2026-10-31T09:13:19+00:00"
+      "title": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
+      "asOf": "2026-10-31T21:32:51+00:00"
     },
     {
-      "title": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5",
-      "asOf": "2026-10-31T08:33:02+00:00"
+      "title": "伊朗外长称目前没有与美方会谈计划 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5",
+      "asOf": "2026-10-31T15:05:44+00:00"
     },
     {
-      "title": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5",
-      "asOf": "2026-10-31T08:21:02+00:00"
+      "title": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5",
+      "asOf": "2026-10-31T14:50:34+00:00"
     },
     {
-      "title": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5",
-      "asOf": "2026-10-31T08:03:44+00:00"
+      "title": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5",
+      "asOf": "2026-10-31T14:36:01+00:00"
     },
     {
-      "title": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5",
-      "asOf": "2026-10-31T08:03:27+00:00"
+      "title": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
+      "asOf": "2026-10-31T14:28:36+00:00"
     },
     {
-      "title": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5",
-      "asOf": "2026-10-31T08:01:23+00:00"
+      "title": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5",
+      "asOf": "2026-10-31T14:26:19+00:00"
     },
     {
-      "title": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5",
-      "asOf": "2026-10-31T07:53:06+00:00"
+      "title": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5",
+      "asOf": "2026-10-31T13:56:23+00:00"
     },
     {
-      "title": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5",
-      "asOf": "2026-10-31T07:50:52+00:00"
+      "title": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5",
+      "asOf": "2026-10-31T13:51:44+00:00"
+    },
+    {
+      "title": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5",
+      "asOf": "2026-10-31T13:39:45+00:00"
     }
   ],
   "events": [
     {
-      "event": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网",
-      "published": "2026-10-31T10:06:16+00:00",
+      "event": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
+      "published": "2026-10-31T22:22:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaWs4NDF4NVRMY28wUzlYWU5pVEFiZERsbnFTU3J4UFNzTE54UkJ3alN4d1lDNmp0OXhhbmhQcVJVTERTZV9QNTU3XzlqT01JejVKM2tWdWExWi1IejlwZ3NwNk9GT0Q2TEJoUHFZQ3dvXzV1Yi1QZzBpbk1UQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "【看见·大国旗技】红旗G919：硬功夫，筑牢每一道安全防线 - 新华网"
+      "originalTitle": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网"
     },
     {
-      "event": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网",
-      "published": "2026-10-31T10:00:00+00:00",
+      "event": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
+      "published": "2026-10-31T21:32:51+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUh1TENMV19oQ1hDZldGa1ptbC1LaXp3Xy04XzByTjdpRjBWMUlLVjJNcnFBMkl1ZEExV1lwVUYzQVZNemxmT295Uk1CV2d0UHYwdnJVY1FQQ0ViX3NnaWdfTm52Q1VVQkwwa0tocVpWb2QtdzU5SjlJV3pNeHBydQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "廉洁文化微短剧《表面之下》之二：资金穿透查出贪污链，苏雨桐松口指认保护伞？ - 新华网"
+      "originalTitle": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网"
     },
     {
-      "event": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网",
-      "published": "2026-10-31T09:13:19+00:00",
+      "event": "伊朗外长称目前没有与美方会谈计划 - 新华网",
+      "published": "2026-10-31T15:05:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ0VhSnBZQlRGY1FlWktzbDNkWU1CTFNjQWJaa0VMMFNnV2wxRUtvalFkM0p4Ry1SNXVqZHFfdDJibHJYUVRkSDBPYjMzS2VOa2EzZVVtQl9OOVlZUlVtUlZrbi1EMERsYlhuYi1qTjk2VDByRWlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "记者手记：发展乡村体育，这份“乡土味”弥足珍贵 - 新华网"
+      "originalTitle": "伊朗外长称目前没有与美方会谈计划 - 新华网"
     },
     {
-      "event": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网",
-      "published": "2026-10-31T08:33:02+00:00",
+      "event": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
+      "published": "2026-10-31T14:50:34+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMlJOX3MwM0FnWkVMUEpRTDlkdVZYOVhUeWlteURGRERpbFgyakFhZjlCa0FTYnJGaldNZ2lLeUJUczQtdHF3NG4zZWFFaVRiVE40TEUzR0NHUEx2aHZhclAxQ0htM2w4Ty1CTmlDcF9GcEdwbEs0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网"
+      "originalTitle": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网"
     },
     {
-      "event": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网",
-      "published": "2026-10-31T08:21:02+00:00",
+      "event": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
+      "published": "2026-10-31T14:36:01+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3FwaDVUZG8xaDA5bG1XQmJybkV1dmd1QjZ6eHBxNDdZVDdxYmMwSGpBZjYwMXg5LXc2enpUOXpka1A3XzFMSVlzYURianJJc0h2a3d3bnphbjRTVUNMU2J2TWxhLWxuUzBlRE50ejdNcDdCcnI3R0hhZkN5RlI4bHVJcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "科学健身周周练丨护膝四件套，巧练有门道 - 新华网"
+      "originalTitle": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网"
     },
     {
-      "event": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网",
-      "published": "2026-10-31T08:03:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzY2N4RGliUG5IT083Ukk2U0JmSUFJVkc1Y2llc1Z4ajRLY25fMG1naTlWQjRPYWZOS0wzbkkxdnBudkp1OExpWTlmZHdjU1Q3Z2tENUp1QUxTTG5sRXZJRDByOVBnV3ZNTjBkNEgyYlA0QzVZQlJF?oc=5",
+      "event": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
+      "published": "2026-10-31T14:28:36+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“毛泽东号”机车实现连续安全走行1300万公里 - 新华网"
+      "originalTitle": "2026年10月31日第276版：信息披露 - 上海证券报电子版"
     },
     {
-      "event": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网",
-      "published": "2026-10-31T08:03:27+00:00",
+      "event": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
+      "published": "2026-10-31T14:26:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” - 新华网"
+      "originalTitle": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网"
     },
     {
-      "event": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网",
-      "published": "2026-10-31T08:01:23+00:00",
+      "event": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
+      "published": "2026-10-31T13:56:23+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFa2thTElHa0VwN3U2cUYwTmxSUTViSTJsUVd0UHdxZVJqNU41MlB2SnRfSlFxVGhiZktMNS1rVFZSaEdnRF9IVmN6ZnpRUVFpazN6Q1Iyc1pwZW5KSGtjWDFidEM2XzB0eXlwMzdxc1RsOVF5eFJz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "寻找“熊猫伙伴”：大熊猫饲养员的温柔守护 - 新华网"
+      "originalTitle": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网"
     },
     {
-      "event": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网",
-      "published": "2026-10-31T07:53:06+00:00",
+      "event": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
+      "published": "2026-10-31T13:51:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94V242TmdpclBjRGR3MXJlTEpZbG5YTUFZdmJ2VlNWd0xtY3hzVExsOGlncndyRGdmOURMTTJERmI0aXk0UFFiN1R0RkpjcFhXbjhSa1hwb3B2MG83OHUtSDk3WXVreVBfa1NOMXZDeFlBTEE5VzNTM29nR2JIa3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "加拿大与欧盟启动构建“未来联盟” 一个问题被回避 - 新华网"
+      "originalTitle": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网"
     },
     {
-      "event": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网",
-      "published": "2026-10-31T07:50:52+00:00",
+      "event": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
+      "published": "2026-10-31T13:39:45+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZmtLMUs0dXF5a1h6YU4yM010Vm1LU09mWk8tZ1N5ZEpSUmVpU0dtYV9HOTVQQ0VFTk93NVZhQ3paNU92SW9vWl8yQlpHWjdWeU1HQWctN3FiNS04WmQ3elNLeGVuNDhIT0pXTmpRXzB5QUN4VUZldGpOX0pPR3M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "流量变“留量” 世界第一高桥绘就文旅新画卷 - 新华网"
+      "originalTitle": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网"
     }
   ],
   "quality": {
