@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 14:48",
+  "date": "更新于北京时间 2026-11-01 15:29",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T14:48:53+08:00",
+  "updatedAt": "2026-11-01T15:29:57+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 0 条待核验线索",
   "notification": {
     "title": "2026-11-01 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 0 条待核验线索"
   },
   "pages": [
     {
@@ -174,158 +174,7 @@
       "eyebrow": "03 · 财经新闻",
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
-      "blocks": [
-        {
-          "type": "explainer",
-          "title": "我国科研人员运用全新微创手术方式治疗心衰患者 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:41:51+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oT2V3OHFyWVdOTmJnMllQN1E4OXhSZ1dKMVExdDVhNGRnendobndlY2tfZDZCRExDSXZTWU1LZ2tkZEp6cVlmVW1QMmJBdXc0X1lFUF9CQm5aUjdzWDE0VEo2Q2J4UWZIOTJpNXlfRGRkNFVudVQ5X25Vc0VvZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:34:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThxcUJFaktDODdSTmNIbVczQjNYVXNJSWRvXzRNSE5OeFdjSVdlU2hGeEREUmtUQWlJLWN6X1J0VlE1ay1QZDh1Q2swYlBEc2QzZGdObEF3ZmpBSUJpZnd3bVNEcHNfMWNCbTczMFpGQmp2dzJncU1ROTYxMWdmRmlPSQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "减少对美依赖 加拿大力推“中等强国外交” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:21:14+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UUdhWHdzNURqSFUzaWZVZF9vREk3VnpTcmdZX2I3d0kySjg1TlY5QUF1Zi1yZVpkVHQ1UnVvN3ZHY2NEYUR6cmtURmptejJBcjdJMlNsNGVURk5jcDVtODZydXBNY2p3dF95aGhkeUlyUFhQSmU2YkgtZmU3Yk0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "报告显示40项技术有望孕育未来创新方向 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:07:52+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFUVJTSGQ3ZHZSVWtaX2Y2TzZfOXZobldmUUxWdnR1dHE5d1Y2OWVvdk9CZVotWFFkS00xSkVJd0pVaHFqM3g0aXhXVno0UEFwV3M1THF4ZC1uVllvd1hxTm85S0liemdIbHRsSE00cXc1YzFvTVE2My1rZnBjZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国特拉华大学附近发生枪击事件 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:06:56+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbVptTHNtU0tNelhMQ1RqTm9KbkVVeTE3dDUxYnRRSW9HdWo2eGF6R3Fwcl9wWW5NaDBDdC1vZmJ6NGFmdnNxdDB6OXROd0ZwWUd6UHlEcldWY2NadDNDVGFyNGRwRkU2bWc0empxQjRESVQ0SHBr?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国—秘鲁自贸协定升级议定书正式生效 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T06:02:34+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNlRtWFMyQTlYMm1YYlpmNWltR2VZNFJ5N2Vmb3pBSExzVi0wX3FrVXZNX2l4LTVVUTRYc3g5ZHV3UTJIb1Frc0ZEbU9lc3ptTW9DZXlKVFdodEdVUDJacG5jdzNDVHd6ZTNvYVBaNmtIWjRfOXpuMjRyVWNZdGc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T05:50:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T05:47:21+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T05:14:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T05:07:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5"
-            }
-          ]
-        }
-      ]
+      "blocks": []
     },
     {
       "id": "radar",
@@ -412,144 +261,13 @@
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
-    },
-    {
-      "title": "我国科研人员运用全新微创手术方式治疗心衰患者 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oT2V3OHFyWVdOTmJnMllQN1E4OXhSZ1dKMVExdDVhNGRnendobndlY2tfZDZCRExDSXZTWU1LZ2tkZEp6cVlmVW1QMmJBdXc0X1lFUF9CQm5aUjdzWDE0VEo2Q2J4UWZIOTJpNXlfRGRkNFVudVQ5X25Vc0VvZw?oc=5",
-      "asOf": "2026-11-01T06:41:51+00:00"
-    },
-    {
-      "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThxcUJFaktDODdSTmNIbVczQjNYVXNJSWRvXzRNSE5OeFdjSVdlU2hGeEREUmtUQWlJLWN6X1J0VlE1ay1QZDh1Q2swYlBEc2QzZGdObEF3ZmpBSUJpZnd3bVNEcHNfMWNCbTczMFpGQmp2dzJncU1ROTYxMWdmRmlPSQ?oc=5",
-      "asOf": "2026-11-01T06:34:40+00:00"
-    },
-    {
-      "title": "减少对美依赖 加拿大力推“中等强国外交” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UUdhWHdzNURqSFUzaWZVZF9vREk3VnpTcmdZX2I3d0kySjg1TlY5QUF1Zi1yZVpkVHQ1UnVvN3ZHY2NEYUR6cmtURmptejJBcjdJMlNsNGVURk5jcDVtODZydXBNY2p3dF95aGhkeUlyUFhQSmU2YkgtZmU3Yk0?oc=5",
-      "asOf": "2026-11-01T06:21:14+00:00"
-    },
-    {
-      "title": "报告显示40项技术有望孕育未来创新方向 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFUVJTSGQ3ZHZSVWtaX2Y2TzZfOXZobldmUUxWdnR1dHE5d1Y2OWVvdk9CZVotWFFkS00xSkVJd0pVaHFqM3g0aXhXVno0UEFwV3M1THF4ZC1uVllvd1hxTm85S0liemdIbHRsSE00cXc1YzFvTVE2My1rZnBjZw?oc=5",
-      "asOf": "2026-11-01T06:07:52+00:00"
-    },
-    {
-      "title": "美国特拉华大学附近发生枪击事件 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbVptTHNtU0tNelhMQ1RqTm9KbkVVeTE3dDUxYnRRSW9HdWo2eGF6R3Fwcl9wWW5NaDBDdC1vZmJ6NGFmdnNxdDB6OXROd0ZwWUd6UHlEcldWY2NadDNDVGFyNGRwRkU2bWc0empxQjRESVQ0SHBr?oc=5",
-      "asOf": "2026-11-01T06:06:56+00:00"
-    },
-    {
-      "title": "中国—秘鲁自贸协定升级议定书正式生效 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNlRtWFMyQTlYMm1YYlpmNWltR2VZNFJ5N2Vmb3pBSExzVi0wX3FrVXZNX2l4LTVVUTRYc3g5ZHV3UTJIb1Frc0ZEbU9lc3ptTW9DZXlKVFdodEdVUDJacG5jdzNDVHd6ZTNvYVBaNmtIWjRfOXpuMjRyVWNZdGc?oc=5",
-      "asOf": "2026-11-01T06:02:34+00:00"
-    },
-    {
-      "title": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5",
-      "asOf": "2026-11-01T05:50:27+00:00"
-    },
-    {
-      "title": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5",
-      "asOf": "2026-11-01T05:47:21+00:00"
-    },
-    {
-      "title": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5",
-      "asOf": "2026-11-01T05:14:28+00:00"
-    },
-    {
-      "title": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5",
-      "asOf": "2026-11-01T05:07:07+00:00"
     }
   ],
-  "events": [
-    {
-      "event": "我国科研人员运用全新微创手术方式治疗心衰患者 - 新华网",
-      "published": "2026-11-01T06:41:51+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oT2V3OHFyWVdOTmJnMllQN1E4OXhSZ1dKMVExdDVhNGRnendobndlY2tfZDZCRExDSXZTWU1LZ2tkZEp6cVlmVW1QMmJBdXc0X1lFUF9CQm5aUjdzWDE0VEo2Q2J4UWZIOTJpNXlfRGRkNFVudVQ5X25Vc0VvZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "我国科研人员运用全新微创手术方式治疗心衰患者 - 新华网"
-    },
-    {
-      "event": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动 - 新华网",
-      "published": "2026-11-01T06:34:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThxcUJFaktDODdSTmNIbVczQjNYVXNJSWRvXzRNSE5OeFdjSVdlU2hGeEREUmtUQWlJLWN6X1J0VlE1ay1QZDh1Q2swYlBEc2QzZGdObEF3ZmpBSUJpZnd3bVNEcHNfMWNCbTczMFpGQmp2dzJncU1ROTYxMWdmRmlPSQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动 - 新华网"
-    },
-    {
-      "event": "减少对美依赖 加拿大力推“中等强国外交” - 新华网",
-      "published": "2026-11-01T06:21:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UUdhWHdzNURqSFUzaWZVZF9vREk3VnpTcmdZX2I3d0kySjg1TlY5QUF1Zi1yZVpkVHQ1UnVvN3ZHY2NEYUR6cmtURmptejJBcjdJMlNsNGVURk5jcDVtODZydXBNY2p3dF95aGhkeUlyUFhQSmU2YkgtZmU3Yk0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "减少对美依赖 加拿大力推“中等强国外交” - 新华网"
-    },
-    {
-      "event": "报告显示40项技术有望孕育未来创新方向 - 新华网",
-      "published": "2026-11-01T06:07:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFUVJTSGQ3ZHZSVWtaX2Y2TzZfOXZobldmUUxWdnR1dHE5d1Y2OWVvdk9CZVotWFFkS00xSkVJd0pVaHFqM3g0aXhXVno0UEFwV3M1THF4ZC1uVllvd1hxTm85S0liemdIbHRsSE00cXc1YzFvTVE2My1rZnBjZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "报告显示40项技术有望孕育未来创新方向 - 新华网"
-    },
-    {
-      "event": "美国特拉华大学附近发生枪击事件 - 新华网",
-      "published": "2026-11-01T06:06:56+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbVptTHNtU0tNelhMQ1RqTm9KbkVVeTE3dDUxYnRRSW9HdWo2eGF6R3Fwcl9wWW5NaDBDdC1vZmJ6NGFmdnNxdDB6OXROd0ZwWUd6UHlEcldWY2NadDNDVGFyNGRwRkU2bWc0empxQjRESVQ0SHBr?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美国特拉华大学附近发生枪击事件 - 新华网"
-    },
-    {
-      "event": "中国—秘鲁自贸协定升级议定书正式生效 - 新华网",
-      "published": "2026-11-01T06:02:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNlRtWFMyQTlYMm1YYlpmNWltR2VZNFJ5N2Vmb3pBSExzVi0wX3FrVXZNX2l4LTVVUTRYc3g5ZHV3UTJIb1Frc0ZEbU9lc3ptTW9DZXlKVFdodEdVUDJacG5jdzNDVHd6ZTNvYVBaNmtIWjRfOXpuMjRyVWNZdGc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国—秘鲁自贸协定升级议定书正式生效 - 新华网"
-    },
-    {
-      "event": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
-      "published": "2026-11-01T05:50:27+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网"
-    },
-    {
-      "event": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
-      "published": "2026-11-01T05:47:21+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "一座博物馆，何以成为埃及旅游新地标？ - 新华网"
-    },
-    {
-      "event": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
-      "published": "2026-11-01T05:14:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网"
-    },
-    {
-      "event": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
-      "published": "2026-11-01T05:07:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网"
-    }
-  ],
+  "events": [],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 10,
+    "news24hCount": 0,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -557,6 +275,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
       "中国证券网原文: URLError"
     ]
   }
