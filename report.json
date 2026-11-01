@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 10:26",
+  "date": "更新于北京时间 2026-11-01 11:02",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T10:26:42+08:00",
+  "updatedAt": "2026-11-01T11:02:23+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6449 人民币/美元；变化 -0.0161 人民币/美元",
+          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-31；前值 6.6610（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -211,11 +211,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京10月31日电 题：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/821771"
             }
           ]
@@ -226,27 +227,88 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京10月31日电（记者 刘艺、贾淑宜）记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/821770"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《“纸”等你来》第二集：纸从水中来 - 新华网",
+          "title": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T02:14:56+00:00；来源：新华网。",
+            "发布时间：2026-11-01T02:47:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T02:46:24+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T02:33:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T02:29:27+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T01:45:15+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5"
             }
           ]
         },
@@ -262,66 +324,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T01:29:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026丰收那达慕在北京开幕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T00:49:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T00:01:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T22:22:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5"
             }
           ]
         }
@@ -386,7 +388,7 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-31"
+      "asOf": "2026-10-30"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -404,13 +406,13 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-29"
     },
     {
@@ -434,34 +436,34 @@
       "asOf": "2026-11-01T08:40:00+08:00"
     },
     {
-      "title": "《“纸”等你来》第二集：纸从水中来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5",
-      "asOf": "2026-11-01T02:14:56+00:00"
+      "title": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5",
+      "asOf": "2026-11-01T02:47:43+00:00"
+    },
+    {
+      "title": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5",
+      "asOf": "2026-11-01T02:46:24+00:00"
+    },
+    {
+      "title": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5",
+      "asOf": "2026-11-01T02:33:51+00:00"
+    },
+    {
+      "title": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5",
+      "asOf": "2026-11-01T02:29:27+00:00"
+    },
+    {
+      "title": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5",
+      "asOf": "2026-11-01T01:45:15+00:00"
     },
     {
       "title": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
       "asOf": "2026-11-01T01:30:38+00:00"
-    },
-    {
-      "title": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5",
-      "asOf": "2026-11-01T01:29:59+00:00"
-    },
-    {
-      "title": "2026丰收那达慕在北京开幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5",
-      "asOf": "2026-11-01T00:49:58+00:00"
-    },
-    {
-      "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5",
-      "asOf": "2026-11-01T00:01:31+00:00"
-    },
-    {
-      "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
-      "asOf": "2026-10-31T22:22:37+00:00"
     }
   ],
   "events": [
@@ -487,7 +489,14 @@
       "published": "2026-11-01T08:40:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/821771",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/821771",
+        "retrievedAt": "2026-11-01T11:02:23.440816+08:00",
+        "sha256": "f534eae635391f9386d7b5bde273fd5c600462292c937715df195fcb33923d62",
+        "paragraphCount": 8,
+        "excerpt": "新华社北京10月31日电 题：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神"
+      }
     },
     {
       "event": "我国载人月球探测工程采用“两次发射、环月对接”方案",
@@ -495,15 +504,54 @@
       "published": "2026-11-01T08:40:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/821770",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/821770",
+        "retrievedAt": "2026-11-01T11:02:23.440816+08:00",
+        "sha256": "8998981d8d9c601e383db338d8a87233eb0cc8304fdf1d4fefce93668a78b7ab",
+        "paragraphCount": 10,
+        "excerpt": "新华社北京10月31日电（记者 刘艺、贾淑宜）记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。"
+      }
     },
     {
-      "event": "《“纸”等你来》第二集：纸从水中来 - 新华网",
-      "published": "2026-11-01T02:14:56+00:00",
+      "event": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
+      "published": "2026-11-01T02:47:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "《“纸”等你来》第二集：纸从水中来 - 新华网"
+      "originalTitle": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网"
+    },
+    {
+      "event": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
+      "published": "2026-11-01T02:46:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网"
+    },
+    {
+      "event": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
+      "published": "2026-11-01T02:33:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网"
+    },
+    {
+      "event": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
+      "published": "2026-11-01T02:29:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "学习新语丨让互联网更好造福世界各国人民 - 新华网"
+    },
+    {
+      "event": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
+      "published": "2026-11-01T01:45:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网"
     },
     {
       "event": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
@@ -512,38 +560,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "广交会三期展现中国产品向新向绿向智转型 - 新华网"
-    },
-    {
-      "event": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
-      "published": "2026-11-01T01:29:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网"
-    },
-    {
-      "event": "2026丰收那达慕在北京开幕 - 新华网",
-      "published": "2026-11-01T00:49:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026丰收那达慕在北京开幕 - 新华网"
-    },
-    {
-      "event": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
-      "published": "2026-11-01T00:01:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网"
-    },
-    {
-      "event": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
-      "published": "2026-10-31T22:22:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网"
     }
   ],
   "quality": {
@@ -557,8 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
