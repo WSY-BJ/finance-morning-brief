@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 08:06",
+  "date": "更新于北京时间 2026-11-01 09:27",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T08:06:12+08:00",
+  "updatedAt": "2026-11-01T09:27:37+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T00:01:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -202,6 +217,51 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中美国家公园影像展在美举办 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T16:30:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T16:28:53+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-10-31T15:45:35+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5"
             }
           ]
         },
@@ -264,66 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T14:26:19+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T13:56:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T13:51:44+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T13:39:45+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-31"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
@@ -394,9 +394,9 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-31"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -414,6 +414,11 @@
       "asOf": "2026-10-29"
     },
     {
+      "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5",
+      "asOf": "2026-11-01T00:01:31+00:00"
+    },
+    {
       "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
       "asOf": "2026-10-31T22:22:37+00:00"
@@ -422,6 +427,21 @@
       "title": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
       "asOf": "2026-10-31T21:32:51+00:00"
+    },
+    {
+      "title": "中美国家公园影像展在美举办 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5",
+      "asOf": "2026-10-31T16:30:07+00:00"
+    },
+    {
+      "title": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5",
+      "asOf": "2026-10-31T16:28:53+00:00"
+    },
+    {
+      "title": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5",
+      "asOf": "2026-10-31T15:45:35+00:00"
     },
     {
       "title": "伊朗外长称目前没有与美方会谈计划 - 新华网",
@@ -442,29 +462,17 @@
       "title": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
       "asOf": "2026-10-31T14:28:36+00:00"
-    },
-    {
-      "title": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5",
-      "asOf": "2026-10-31T14:26:19+00:00"
-    },
-    {
-      "title": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5",
-      "asOf": "2026-10-31T13:56:23+00:00"
-    },
-    {
-      "title": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5",
-      "asOf": "2026-10-31T13:51:44+00:00"
-    },
-    {
-      "title": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5",
-      "asOf": "2026-10-31T13:39:45+00:00"
     }
   ],
   "events": [
+    {
+      "event": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
+      "published": "2026-11-01T00:01:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVNJRnluRm5idC1IcGc0Y05BTzE3azdoNmNjV0FONUFLN2ZfLVVPa1NzMFhRLUxxMml6MGlFcmVYaVBoYTY3eHhZNWNHLXlfNlVqbURaSHk3T2VuNXlGR0Vxa3JpeGhkbWs1T1FSWXBQVHhvOXY2bk1Mb1ozQklVTA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网"
+    },
     {
       "event": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
       "published": "2026-10-31T22:22:37+00:00",
@@ -480,6 +488,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网"
+    },
+    {
+      "event": "中美国家公园影像展在美举办 - 新华网",
+      "published": "2026-10-31T16:30:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中美国家公园影像展在美举办 - 新华网"
+    },
+    {
+      "event": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
+      "published": "2026-10-31T16:28:53+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道"
+    },
+    {
+      "event": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
+      "published": "2026-10-31T15:45:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网"
     },
     {
       "event": "伊朗外长称目前没有与美方会谈计划 - 新华网",
@@ -512,38 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年10月31日第276版：信息披露 - 上海证券报电子版"
-    },
-    {
-      "event": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网",
-      "published": "2026-10-31T14:26:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YdWJQYjZtSC10QkJvOG1YZFZ6RkU5VmtTc3NVbUlDYmwtZEtUWFFYalJ1dHozTmlDUUFuSGNOWkFIRlljSVUtUE1aczJ0WnN6MTIyRDNIVTNfeFo3ak1ESENfa3d2NVo3QWpmVjg2ZkVGLUR4NkZsN0JMZ0lvZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026中国自动化大会共探自动化与智能科技前沿 - 新华网"
-    },
-    {
-      "event": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网",
-      "published": "2026-10-31T13:56:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HM3dSQkhtMGY5RVlhRHYyaVFkZ2JmdDdCOVVvclhYM2lBSlNZVmRhdnM5RG5MYy1yMzlMZHgwSENaYmtjOFRKaEhjOU9zS1lCTkEtTGIwRnFnZWdUUGVOVUFMcmhLRWprc0xDLThJVDZISEpoNFlET0xSRi1WSUU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "土耳其提名该国前外长为联合国秘书长候选人 - 新华网"
-    },
-    {
-      "event": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网",
-      "published": "2026-10-31T13:51:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cV8zUzd0OEpEX2VBd2FTdEwxMkZYLVNlTDNhSU5fZENLMmkxNGNMM210R2tHakhjWklrQ0hXZUVpZk40SldjbDhoTUw1QndxcVV0TFRKcnYwaV9TWF9oempXb2l5UDlvQmp4N3J2bDg3N19Ucnk0T01tZUVlRTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中东媒体：伊朗正在研究万斯来信中的提议 - 新华网"
-    },
-    {
-      "event": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网",
-      "published": "2026-10-31T13:39:45+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXdoYWl3Q1lQUUkwSVZSZV9zVW15SDQyelFTX1Rrdm1YQ3Z6N0d4U3l2bXUtUm1EbG1nX0pTRXIweVZaTlc2ZzNuSW4xM1FEU1pTNnpOS0Mzcy15bnMyR1BoR0RNUEpWdWc0UW1HTFhVM3F2MElZdFBoblJPcllpa3FuQQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "英名永存 薪火长歌：在国博展厅追寻长征印记 - 新华网"
     }
   ],
   "quality": {
