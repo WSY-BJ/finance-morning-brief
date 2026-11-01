@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 11:02",
+  "date": "更新于北京时间 2026-11-01 13:50",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T11:02:23+08:00",
+  "updatedAt": "2026-11-01T13:50:06+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-30：117.64 美元/桶；较 2026-10-29 变化 +2.76 美元/桶。",
+          "summary": "2026-10-30：113.43 美元/桶；较 2026-10-29 变化 -1.45 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "117.64 美元/桶；变化 +2.76 美元/桶",
+          "summary": "113.43 美元/桶；变化 -1.45 美元/桶",
           "paragraphs": [
             "观测日 2026-10-30；前值 114.88（2026-10-29）；来源：Yahoo Finance。"
           ],
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "首次摆上“双十一”货架 Token走进大众消费",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T11:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821779"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "全球首个，太空算力大消息",
           "summary": "",
           "paragraphs": [
@@ -211,12 +226,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京10月31日电 题：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/821771"
             }
           ]
@@ -227,103 +241,87 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京10月31日电（记者 刘艺、贾淑宜）记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/821770"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
+          "title": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T02:47:43+00:00；来源：新华网。",
+            "发布时间：2026-11-01T05:14:28+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
+          "title": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T02:46:24+00:00；来源：新华网。",
+            "发布时间：2026-11-01T05:07:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
+          "title": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T02:33:51+00:00；来源：新华网。",
+            "发布时间：2026-11-01T04:58:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
+          "title": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T02:29:27+00:00；来源：新华网。",
+            "发布时间：2026-11-01T04:44:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
+          "title": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T01:45:15+00:00；来源：新华网。",
+            "发布时间：2026-11-01T04:31:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T01:30:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5"
             }
           ]
         }
@@ -381,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-30"
     },
     {
@@ -401,9 +389,24 @@
       "asOf": "2026-10-30"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-30"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-30"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -411,9 +414,9 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "title": "首次摆上“双十一”货架 Token走进大众消费",
+      "url": "https://www.cnstock.com/commonDetail/821779",
+      "asOf": "2026-11-01T11:23:00+08:00"
     },
     {
       "title": "全球首个，太空算力大消息",
@@ -436,37 +439,40 @@
       "asOf": "2026-11-01T08:40:00+08:00"
     },
     {
-      "title": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5",
-      "asOf": "2026-11-01T02:47:43+00:00"
+      "title": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5",
+      "asOf": "2026-11-01T05:14:28+00:00"
     },
     {
-      "title": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5",
-      "asOf": "2026-11-01T02:46:24+00:00"
+      "title": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5",
+      "asOf": "2026-11-01T05:07:07+00:00"
     },
     {
-      "title": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5",
-      "asOf": "2026-11-01T02:33:51+00:00"
+      "title": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5",
+      "asOf": "2026-11-01T04:58:52+00:00"
     },
     {
-      "title": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5",
-      "asOf": "2026-11-01T02:29:27+00:00"
+      "title": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5",
+      "asOf": "2026-11-01T04:44:18+00:00"
     },
     {
-      "title": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5",
-      "asOf": "2026-11-01T01:45:15+00:00"
-    },
-    {
-      "title": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
-      "asOf": "2026-11-01T01:30:38+00:00"
+      "title": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5",
+      "asOf": "2026-11-01T04:31:50+00:00"
     }
   ],
   "events": [
+    {
+      "event": "首次摆上“双十一”货架 Token走进大众消费",
+      "originalTitle": "首次摆上“双十一”货架 Token走进大众消费",
+      "published": "2026-11-01T11:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/821779",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "全球首个，太空算力大消息",
       "originalTitle": "全球首个，太空算力大消息",
@@ -489,14 +495,7 @@
       "published": "2026-11-01T08:40:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/821771",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/821771",
-        "retrievedAt": "2026-11-01T11:02:23.440816+08:00",
-        "sha256": "f534eae635391f9386d7b5bde273fd5c600462292c937715df195fcb33923d62",
-        "paragraphCount": 8,
-        "excerpt": "新华社北京10月31日电 题：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "我国载人月球探测工程采用“两次发射、环月对接”方案",
@@ -504,62 +503,47 @@
       "published": "2026-11-01T08:40:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/821770",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/821770",
-        "retrievedAt": "2026-11-01T11:02:23.440816+08:00",
-        "sha256": "8998981d8d9c601e383db338d8a87233eb0cc8304fdf1d4fefce93668a78b7ab",
-        "paragraphCount": 10,
-        "excerpt": "新华社北京10月31日电（记者 刘艺、贾淑宜）记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
-      "published": "2026-11-01T02:47:43+00:00",
+      "event": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
+      "published": "2026-11-01T05:14:28+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUmNjU3hUNlVDdXhhdW82ckl3aTlhckppOGE2Z2NNTTdtc1ZvdWVZd3BxcEVEUlpzQm5ZWHNIQ2dSVm9pNUtFVEJMVHVxRDkzd1JXU0hwc3pLMlNtcTc0MEJhRGRQa2FMREhVSkQxOVQyQ09xVjFIRFlqU291dzg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FYWVndzFWemlicFRZNTN6VGtxQmg1VUJRbHQ0VGNaSU5lOVlRZUkzdVM2QmVjMzI2MHQ5VlBxTGNKNmVDc2ZiUEM1bXBHTFMxb1lyMmNiZkVsNV9oYkMwMFFzeHpnS1JJSVNVdWxUclRrYnNXUllyVUVzZGhkNGM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网"
+      "originalTitle": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网"
     },
     {
-      "event": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网",
-      "published": "2026-11-01T02:46:24+00:00",
+      "event": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网",
+      "published": "2026-11-01T05:07:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZTliQjBfeWFUZlVORFZQNk1sTnRpc083NWJmVHBXTEZQQ19PTXg3Q1FnOTExdUxpTnFseXY4ZVBLM1hLRmQ4Y3JmbmF4MHlvak9KYXZiRW01ZndZbWRtN0t5RmF0SGcxVlE5Tzd4ekMzdVZKSkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LaENCNlVMOGlZVkRiN0VkWWV0RmhEM2RDWnl3d0EtMUJxaFdCTHJxQUJzVXVfZ1VydXZfZzlleER1bktEcHZpaFRscEVhN0Fib0M4Y0xzYU5iVGlGSHlOOFNZWXptUnFsOHFxcXJ3RVFUOXlqSjZn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨我国载人月球探测工程采用“两次发射、环月对接”方案 - 新华网"
+      "originalTitle": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网"
     },
     {
-      "event": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网",
-      "published": "2026-11-01T02:33:51+00:00",
+      "event": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
+      "published": "2026-11-01T04:58:52+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdXVHQUQ3Um92cURLV1BfVXNJVDFPYk5KS1FhbVI4VUdJaHlSR0xCQnQwWVcwaWxMQ2l5R1NDQnRfQUxMRWpPZWZsdlpTNXMxUzlRWlB5X0dOSC1taW9nNHZNaktUd0RjLTJ2RF85WW5INnFWcVBjQy05enRkNFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普称会邀请泽连斯基参加二十国集团领导人峰会 - 新华网"
+      "originalTitle": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网"
     },
     {
-      "event": "学习新语丨让互联网更好造福世界各国人民 - 新华网",
-      "published": "2026-11-01T02:29:27+00:00",
+      "event": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
+      "published": "2026-11-01T04:44:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubWUzRmROQ3I3SmZOSVd6UlhVaWVlY1MwN2xBZ2dUUTA2U2V2RkxSVUtuUFlQREFabGh5LTJ6bVp4TlNud0NpZlhGSXIyMDFpSmNYbHZFYWtTRnJBbTNZREFBU2l6Qkp3b1J4VlZRM0lSTUxnV1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "学习新语丨让互联网更好造福世界各国人民 - 新华网"
+      "originalTitle": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网"
     },
     {
-      "event": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网",
-      "published": "2026-11-01T01:45:15+00:00",
+      "event": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
+      "published": "2026-11-01T04:31:50+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SalJlTDF5VU1WcTlial9oQmdWWHFFc2pJaE9hTk43ZlpnZHhtam9XZGFpWEdTSGNDeXNiUjFXUWR1VDJHam1hdjYwS1RLcVRKLVZsaFg4TzhQVW9aVDN5bWxqTGMzUHpNRm9CbHdVd1pzZGFIMXBIU0MwRTE5eGM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "记者手记丨高物价，美国中期选举避不开的民生痛点 - 新华网"
-    },
-    {
-      "event": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
-      "published": "2026-11-01T01:30:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "广交会三期展现中国产品向新向绿向智转型 - 新华网"
+      "originalTitle": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网"
     }
   ],
   "quality": {
@@ -573,6 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
