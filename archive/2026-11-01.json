@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 09:27",
+  "date": "更新于北京时间 2026-11-01 10:26",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T09:27:37+08:00",
+  "updatedAt": "2026-11-01T10:26:42+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,126 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "全球首个，太空算力大消息",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821776"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "香港证监会，年内点名17家公司",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T09:50:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821775"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821771"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821770"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "《“纸”等你来》第二集：纸从水中来 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T02:14:56+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T01:30:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T01:29:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026丰收那达慕在北京开幕 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T00:49:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -202,126 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T21:32:51+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中美国家公园影像展在美举办 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T16:30:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T16:28:53+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T15:45:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗外长称目前没有与美方会谈计划 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T15:05:44+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T14:50:34+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T14:36:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-10-31T14:28:36+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5"
             }
           ]
         }
@@ -384,9 +384,9 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-31"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -394,9 +394,9 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-31"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -404,14 +404,54 @@
       "asOf": "2026-10-30"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "title": "全球首个，太空算力大消息",
+      "url": "https://www.cnstock.com/commonDetail/821776",
+      "asOf": "2026-11-01T09:51:00+08:00"
+    },
+    {
+      "title": "香港证监会，年内点名17家公司",
+      "url": "https://www.cnstock.com/commonDetail/821775",
+      "asOf": "2026-11-01T09:50:00+08:00"
+    },
+    {
+      "title": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
+      "url": "https://www.cnstock.com/commonDetail/821771",
+      "asOf": "2026-11-01T08:40:00+08:00"
+    },
+    {
+      "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "url": "https://www.cnstock.com/commonDetail/821770",
+      "asOf": "2026-11-01T08:40:00+08:00"
+    },
+    {
+      "title": "《“纸”等你来》第二集：纸从水中来 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5",
+      "asOf": "2026-11-01T02:14:56+00:00"
+    },
+    {
+      "title": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
+      "asOf": "2026-11-01T01:30:38+00:00"
+    },
+    {
+      "title": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5",
+      "asOf": "2026-11-01T01:29:59+00:00"
+    },
+    {
+      "title": "2026丰收那达慕在北京开幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5",
+      "asOf": "2026-11-01T00:49:58+00:00"
     },
     {
       "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
@@ -422,49 +462,73 @@
       "title": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
       "asOf": "2026-10-31T22:22:37+00:00"
-    },
-    {
-      "title": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
-      "asOf": "2026-10-31T21:32:51+00:00"
-    },
-    {
-      "title": "中美国家公园影像展在美举办 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5",
-      "asOf": "2026-10-31T16:30:07+00:00"
-    },
-    {
-      "title": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5",
-      "asOf": "2026-10-31T16:28:53+00:00"
-    },
-    {
-      "title": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5",
-      "asOf": "2026-10-31T15:45:35+00:00"
-    },
-    {
-      "title": "伊朗外长称目前没有与美方会谈计划 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5",
-      "asOf": "2026-10-31T15:05:44+00:00"
-    },
-    {
-      "title": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5",
-      "asOf": "2026-10-31T14:50:34+00:00"
-    },
-    {
-      "title": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5",
-      "asOf": "2026-10-31T14:36:01+00:00"
-    },
-    {
-      "title": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
-      "asOf": "2026-10-31T14:28:36+00:00"
     }
   ],
   "events": [
+    {
+      "event": "全球首个，太空算力大消息",
+      "originalTitle": "全球首个，太空算力大消息",
+      "published": "2026-11-01T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/821776",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "香港证监会，年内点名17家公司",
+      "originalTitle": "香港证监会，年内点名17家公司",
+      "published": "2026-11-01T09:50:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/821775",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
+      "originalTitle": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
+      "published": "2026-11-01T08:40:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/821771",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "originalTitle": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "published": "2026-11-01T08:40:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/821770",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "《“纸”等你来》第二集：纸从水中来 - 新华网",
+      "published": "2026-11-01T02:14:56+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlhPWlNuMkZkN29fdjljcXU4TlJkS0g4Y2ljdjJlaW9vdUJlRXp4bkpCSVlFRkh1QmNjV0lrYmltcERreTE1SDZ0Zkx4OFZrN0Y4WUg4Y3pKeTNMdGdjWFp1ZnRHQURDSWV5U1kwVkJFVmNPN1BuWGZqeTNvWk0tb0NR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "《“纸”等你来》第二集：纸从水中来 - 新华网"
+    },
+    {
+      "event": "广交会三期展现中国产品向新向绿向智转型 - 新华网",
+      "published": "2026-11-01T01:30:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmtZbHJhc0tnWk1aeGFJZlMycVdfV09MZ3F4dGkzWE5Dd244RzJ1c1UxV2dpNE91Rms0Mi1DWUZQWjlPUTN4d3hSN3ZsNHhiaVgyZFMzb2JJWWt4TWV4anAxa05NQXZ6U3RoRkgydmE0Q3NBUVZ0QnBlWVhIM2lLTTZB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广交会三期展现中国产品向新向绿向智转型 - 新华网"
+    },
+    {
+      "event": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网",
+      "published": "2026-11-01T01:29:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0NGWnhTeE5qZ21CeVRDdVYzekdJV3lSLWJoLTJfQTg5UXRVLUpsWUdibnd5SHJiVW04WjEtczVKTkVXcTlHZjRCR1dQbjI4OWpkYVY4ZmVULVJqajRNQzJ1UHpKZXBaYlRwLUNIQkJOMzdwSmxDQTBxelQ0bFUzOVp2NA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "千城胜景丨河北峰峰：响堂叠翠 生态兴旅 - 新华网"
+    },
+    {
+      "event": "2026丰收那达慕在北京开幕 - 新华网",
+      "published": "2026-11-01T00:49:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tRU1ITVJPUVBLMTVzcDRKY2w5cVQ1MmV2OGVGekpBejljQWpTOFBNSlh2NWcyY3lOQnBjZThUa19kRDlHTVVNNFdYQ3ZsYUF1RUN2RFdHMVVXZ25Pb0wwRDN0RGdyMEhOSzRnRnNyNC1BcmJ4N2JTSE93?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026丰收那达慕在北京开幕 - 新华网"
+    },
     {
       "event": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式 - 新华网",
       "published": "2026-11-01T00:01:31+00:00",
@@ -480,70 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUVdCcUE1U2s4c2MyY1hYM1FSWFlwb3YxOGg0TTkyMExCVG1XNDBYTTdwdnFUdTdsbTJmVnYwQURKQVVpSEdiRGc1WHJ5TFVZdlNVcVBUT1FKUEh5bWNVTXdPSGl1Vm1GdGlxWjFxNF9FSlB4eTg3SEVOUk5LZw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "二十国集团外长会未就地缘和经济安全问题达成共识 - 新华网"
-    },
-    {
-      "event": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网",
-      "published": "2026-10-31T21:32:51+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVEswak5yX1lfNWxCNlBSZFpDRjVfaTlrS0lLb0tCWGwyMEI2ZW9VeTUtZ2pfMzluVExiWlhMbWN5RFJVRVZjZEpROGtaZE85Z3E5V3NaRnlIMnhoRWZ5QTd4b2FFc2t6azVjRXV4X0xBdEZEaklUUzFGNmZBSFU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗军方称已制定新的“敌方目标与资产清单” - 新华网"
-    },
-    {
-      "event": "中美国家公园影像展在美举办 - 新华网",
-      "published": "2026-10-31T16:30:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS0tzY2V1RnV6MGt3ZjFhQktiWkxNT2hMaENsNEFGSFRnYVhxdWFCTVk2V09DcERoS3VoT3g5eHhuU0RjWDhNRnc1WWQtQ1I5QzRBSE9CSnNWbDZIM2FjYVQ0UXF0b3Awa3BkMmtETW92dWZUaV9EUmNPdEczZHc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中美国家公园影像展在美举办 - 新华网"
-    },
-    {
-      "event": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道",
-      "published": "2026-10-31T16:28:53+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWWZRd3NnZmdfcFZ2NGtGSi03RmQ4VDFXd1VYSi1iaGRNblJQRklSel82VDhmLXVkN3J0aEJJQ3d3UEw2ZnpKTjlHN1Q5d2haNmZYSWx1NFE1Z0U2SF9mTWVETUZhM2lsR21NUWtmVFk0Vzkt?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "《苏州湾创投壹号生态洞察报告（2026）》发布 构建长三角一体化示范区科创金融标杆 - 新华网江苏频道"
-    },
-    {
-      "event": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网",
-      "published": "2026-10-31T15:45:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZjZGSDNQUUlwdEJIdVlzZS1vTzdKa2h4YlVnWFptLWw0YVFkVmtKd0VLaURQV1lkZnFjWS1XaDNQME9tNUFxMTBYVTNNQVZoTzdFNmYzQlVqa2oxdV9GVlE0Q0JNZkxvRHBPRDFlbHR0a05rdjk2RS1WOUhReEE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中企承建乌拉圭500千伏输变电环网正式交付 - 新华网"
-    },
-    {
-      "event": "伊朗外长称目前没有与美方会谈计划 - 新华网",
-      "published": "2026-10-31T15:05:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdWd2dEJKZm9Uc21IcS0xNHVFaHFBY2FvZFdocG9NdWU2X3pJRkVjakRRTEdyNFJpbm5zZC15OHVPTHYtWmFzcmdEejVncEtBLTlyMDk5dXVsRlVRVWVHang2NFFTaVpBNlBwbGxObzNWT1hZWnQ5UVBYTGlTZms?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗外长称目前没有与美方会谈计划 - 新华网"
-    },
-    {
-      "event": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网",
-      "published": "2026-10-31T14:50:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVGZKcS13TTFMcEJhanJCZ25yVzFTU3dBUi1XdEl1NDktamhrYWdNUDAzVUFENHUtUW9OeU53djZuSVZPNXlvVS1nVG1JOWxkenJ4RkV2anZybzM3UUtGdGxJRE8wTGpVcDI1UkQtOHlSaDFHeDl5VFdlUE1yRjA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "世界政党政要高度评价中国共产党二十届五中全会成果 - 新华网"
-    },
-    {
-      "event": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网",
-      "published": "2026-10-31T14:36:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjR5YUIwUHlLeFFnVk9rYjhmYTkyWFpPUDRkQ3IwdFBRak5SXzdTdFVrRXhlM0h4UG5meXZPOC1iTlE5SHZGZ1BJNHFlUjVEVGNfbGs1amZyLWppQWZnNVcxU254OXpwVzF3OFZPTHJNMnhjanZqUnFRTnZCdHlMZ0JvMA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中央和国家机关、人民团体深入学习贯彻五中全会精神 - 新华网"
-    },
-    {
-      "event": "2026年10月31日第276版：信息披露 - 上海证券报电子版",
-      "published": "2026-10-31T14:28:36+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyVWFmYXJfSDBQZ3FLc01penoyZ3U3b3dpX2xqRkJGeGR3YTVIUlI2UGg5Qm1BSE5vWGVZaGt5dHRUd3lWTjNpODF0VkZ1TzNxdGlHbFpqTHlNQ3hHSzQwX3Z2TkI?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026年10月31日第276版：信息披露 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -556,6 +556,11 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
   }
 }
