@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 13:50",
+  "date": "更新于北京时间 2026-11-01 14:06",
   "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T13:50:06+08:00",
+  "updatedAt": "2026-11-01T14:06:59+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -222,6 +222,21 @@
         },
         {
           "type": "explainer",
+          "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821770"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
           "summary": "",
           "paragraphs": [
@@ -237,16 +252,31 @@
         },
         {
           "type": "explainer",
-          "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+          "title": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T08:40:00+08:00；来源：新华社。",
+            "发布时间：2026-11-01T05:50:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/821770"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T05:47:21+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5"
             }
           ]
         },
@@ -282,46 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
+          "title": "金相国：虎门产业链加持 企业持续拓展海外客商 - 新华网广东",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T04:58:52+00:00；来源：新华网。",
+            "发布时间：2026-11-01T05:03:28+00:00；来源：新华网广东。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T04:44:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T04:31:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IYVJhNDFfdHJpNkJ5a1hQZF91ZTI3Z01KUmZfb3lEaWpSbDEyeGNhVWFUc25qNkUtTHQ0Q0FPS0RWcVdrdWdhRE02N1VYaEtZQ2dzWHV3RkNrLUVBNmpmYVpUUV9VcDhicUlyeTlMWHpmRFpU?oc=5"
             }
           ]
         }
@@ -384,8 +384,8 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-10-30"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
@@ -429,14 +429,24 @@
       "asOf": "2026-11-01T09:50:00+08:00"
     },
     {
+      "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "url": "https://www.cnstock.com/commonDetail/821770",
+      "asOf": "2026-11-01T08:40:00+08:00"
+    },
+    {
       "title": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
       "url": "https://www.cnstock.com/commonDetail/821771",
       "asOf": "2026-11-01T08:40:00+08:00"
     },
     {
-      "title": "我国载人月球探测工程采用“两次发射、环月对接”方案",
-      "url": "https://www.cnstock.com/commonDetail/821770",
-      "asOf": "2026-11-01T08:40:00+08:00"
+      "title": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5",
+      "asOf": "2026-11-01T05:50:27+00:00"
+    },
+    {
+      "title": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5",
+      "asOf": "2026-11-01T05:47:21+00:00"
     },
     {
       "title": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
@@ -449,19 +459,9 @@
       "asOf": "2026-11-01T05:07:07+00:00"
     },
     {
-      "title": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5",
-      "asOf": "2026-11-01T04:58:52+00:00"
-    },
-    {
-      "title": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5",
-      "asOf": "2026-11-01T04:44:18+00:00"
-    },
-    {
-      "title": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5",
-      "asOf": "2026-11-01T04:31:50+00:00"
+      "title": "金相国：虎门产业链加持 企业持续拓展海外客商 - 新华网广东",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IYVJhNDFfdHJpNkJ5a1hQZF91ZTI3Z01KUmZfb3lEaWpSbDEyeGNhVWFUc25qNkUtTHQ0Q0FPS0RWcVdrdWdhRE02N1VYaEtZQ2dzWHV3RkNrLUVBNmpmYVpUUV9VcDhicUlyeTlMWHpmRFpU?oc=5",
+      "asOf": "2026-11-01T05:03:28+00:00"
     }
   ],
   "events": [
@@ -490,6 +490,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "originalTitle": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+      "published": "2026-11-01T08:40:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/821770",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
       "originalTitle": "新华社评论员：深刻把握全面从严治党的根本性任务和内在要求——论学习贯彻党的二十届五中全会精神",
       "published": "2026-11-01T08:40:00+08:00",
@@ -498,12 +506,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "我国载人月球探测工程采用“两次发射、环月对接”方案",
-      "originalTitle": "我国载人月球探测工程采用“两次发射、环月对接”方案",
-      "published": "2026-11-01T08:40:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/821770",
-      "evidenceLevel": "headline-only"
+      "event": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网",
+      "published": "2026-11-01T05:50:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGFqVDhFNFl2MUZpek5jX0VINzJyeWcyYXBUbW04VmJCbVhHeXdrdlBGaUhkRGtvTFZOb2ZhZ2IySmpiRlZOUC1nU25zVUpJUXFaRWVYdmFxWDdlVXJrYUQtd0daSHVPM1htdlBlM1h1ck1DS2pKUTU2eXJSYzZvMTdzRQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "热爱丨“外卖诗人”王计兵：低处飞行也能抵达梦想 - 新华网"
+    },
+    {
+      "event": "一座博物馆，何以成为埃及旅游新地标？ - 新华网",
+      "published": "2026-11-01T05:47:21+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa1V1QjFidF9VdDJ0WHFLNHkzalJHbFA4X1duOG10QTVlenhHRTZ3cFlVbmhQbnBsRGtRaGtPWGRJa1RLODlsZ0ZKZldOZXNsWXNPR3h2ZmkyaEVsVkxweEdMWUNTejFaTS1kSkJaYmV4VVBTZXNGUm5zLWplU1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "一座博物馆，何以成为埃及旅游新地标？ - 新华网"
     },
     {
       "event": "美国老人一口地道湟源话，老乡说“那个人挺好的” - 新华网",
@@ -522,28 +538,12 @@
       "originalTitle": "一串数字，看懂达喀尔青奥会的“青春课堂” - 新华网"
     },
     {
-      "event": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网",
-      "published": "2026-11-01T04:58:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBa25VRmVTTlVrWmt4cjY1WVZnTXY2LTJJeGx1Yk5rRnpLWlJFc0Y5RXlBRFNvblUyNzlmT0dFUkdxNFJqU2xRcFdBZy1wMzBFTV9hbF81b3BJR1pUeTF3R0JBVW5TRHBqMlBJaXpSR1daMGptMHhN?oc=5",
+      "event": "金相国：虎门产业链加持 企业持续拓展海外客商 - 新华网广东",
+      "published": "2026-11-01T05:03:28+00:00",
+      "publisher": "新华网广东",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IYVJhNDFfdHJpNkJ5a1hQZF91ZTI3Z01KUmZfb3lEaWpSbDEyeGNhVWFUc25qNkUtTHQ0Q0FPS0RWcVdrdWdhRE02N1VYaEtZQ2dzWHV3RkNrLUVBNmpmYVpUUV9VcDhicUlyeTlMWHpmRFpU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗外交部将英国海军和空军列为“恐怖组织” - 新华网"
-    },
-    {
-      "event": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网",
-      "published": "2026-11-01T04:44:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYdFlVWDV0cEdrUGg3YndHS2dBMkV2dGRPd2hEbmR2MG5pN1BrbTd0bzZCSnBfbjJ3N2Z0Z2lrVlBoQkZsd3B3ZlZ6M1hHVzZvZkhlVDEydHhLc3hVMHdoRUdFbDB3eU9RUjg3UHFIMllkSXRhUXE0Ynd1ZnBoWTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "热点问答丨霍尔木兹海峡袭船事件有何新变化 - 新华网"
-    },
-    {
-      "event": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网",
-      "published": "2026-11-01T04:31:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN1U0bk92MnUtTDZtOGp6dThkc1FwOVBFS2tMMmowZFRFS1VRcy1BZExBdDFmMHNDdkkzQzR6SEd3QnEtUHhpd2xqTVBtYW55NWRlSE85YWRUdE1JSG5KMkdxTUJWSW5BTVIyb0NNMXpTUW9qMGxHY0hrQnBLNWc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "日本宫城县一汽车冲上人行道致5人受伤 - 新华网"
+      "originalTitle": "金相国：虎门产业链加持 企业持续拓展海外客商 - 新华网广东"
     }
   ],
   "quality": {
