@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-01",
-  "date": "更新于北京时间 2026-11-01 19:16",
-  "reportDate": "2026-11-01",
-  "updatedAt": "2026-11-01T19:16:32+08:00",
+  "edition": "财经晨报 · 2026-11-02",
+  "date": "更新于北京时间 2026-11-02 08:09",
+  "reportDate": "2026-11-02",
+  "updatedAt": "2026-11-02T08:09:39+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-01 财经资料（待核验）",
+    "title": "2026-11-02 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-30：113.43 美元/桶；较 2026-10-29 变化 -1.45 美元/桶。",
+          "summary": "2026-10-30：117.64 美元/桶；较 2026-10-29 变化 +2.76 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "113.43 美元/桶；变化 -1.45 美元/桶",
+          "summary": "117.64 美元/桶；变化 +2.76 美元/桶",
           "paragraphs": [
             "观测日 2026-10-30；前值 114.88（2026-10-29）；来源：Yahoo Finance。"
           ],
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
+          "summary": "6.6449 人民币/美元；变化 -0.0161 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-01；前值 6.6610（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,152 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "金融管理部门将召开会议 研究推动支持资本市场工具使用",
+          "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T16:20:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-02T00:01:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/821804"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "受权发布 | 习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+          "title": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T15:42:00+08:00；来源：新华社。",
+            "发布时间：2026-11-01T23:50:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/821791"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国诚通、中国国新，加仓这些A股公司",
+          "title": "两种珍稀猴类连续5年同树共栖 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T14:20:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 10月30日，多家上市公司披露的三季报显示，国有资本运营平台中国诚通、中国国新在三季度集中加仓，通过新进、增持方式布局多家A股上市公司，覆盖电子、机械设备、通信等多个领域。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/821786"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "首次摆上“双十一”货架 Token走进大众消费",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T11:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-01T23:42:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/821779"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹 - 新华网",
+          "title": "2026年11月02日 电子报 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T11:07:55+00:00；来源：新华网。",
+            "发布时间：2026-11-01T23:36:44+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DR2I3Tl96SnlZQVZMNmNKWVUtQ0t0UF9rZnpEVGUxYlJGR1ZHNlM0RFBzMkZQZU9uYXlaWWl2UkRwSEFqbGhsZFRRel9tb3dEM0tDZnJ2MkdoeVNiMUQtYVhLNTZPaGVvN1FZSkFIUGlnQVRsY3JR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "儿童文学《大运河上的星空》：融运河文脉于少年成长 - 新华网",
+          "title": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T11:07:39+00:00；来源：新华网。",
+            "发布时间：2026-11-01T22:01:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnX3JXX0w2TFliT21YdVpoOWx3dlg0MTRFT0dhWXlmN3ptQ19ZWFExQ0xlRE9XZnRkNUxvbFdqVEVFOHJQVl9FSWJ1V3NjZl9CNC1EeThHZG96aVo0U3lGQnNqemtGakotT2k2OHk3MDM1MjdsaDI4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "乍得西部发生暴力冲突致25死22伤 - 新华网",
+          "title": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T10:37:25+00:00；来源：新华网。",
+            "发布时间：2026-11-01T21:40:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWURVZmNPODF4aXExRnQ4SGJ6SU5RQmF5TU0zcFc4RDVfdU1KN3BNMlp0UnFvUHFSYXRrLTE0clVsSW1RelZjSGJBelA5a280aVhoWlRSaFp5bExfRUlkTFN6UzVCNWVyd0xrb3J1NUk0U29BQ2Y4ZUJOWVYza2s?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "拟遣返阿富汗移民 美国被批“背信弃义” - 新华网",
+          "title": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T10:32:25+00:00；来源：新华网。",
+            "发布时间：2026-11-01T19:28:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9waF9RTEJoTnUzbFlqMjQ0enkxQkVWVE1HTV9CUTdvclFsVF9uN2UxMlBJV1ZDQVhfM3Q5c2J2NEIxUjJsSEZWS0dzMGNoODhlb25yazJDRjdXRDdNcnpoSDRIQTExYVVvSTRwUUhral80Z3hmZmIzOFd0ZmI5U1k?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美国中期选举临近 两党选票官司开打 - 新华网",
+          "title": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T10:32:18+00:00；来源：新华网。",
+            "发布时间：2026-11-01T18:24:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTVGck5zRk5NM3VFX2ZkZExHSC1sVUVCU1VFQzNsaDJENklpcV9velZ3NVdaeGNkSU1HWktNRFNJdVpxTkxCdzlSU1FGeUlfSmdqVXBSWmZUQU1VamVTVjRYcXhaaFRYQ1NIOWJXbm9faUxFSExLVE40R0dmSkU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "通讯丨探讨中国之治 共话发展之道——哈高校师生研读《新时代治国理政纪实》 - 新华网",
+          "title": "看好后市 多家私募出手自购 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T10:30:14+00:00；来源：新华网。",
+            "发布时间：2026-11-01T18:10:57+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQXRNVlAtei1scVJxLW41bWlNRV8zX2JjcUZNcVBHSGxaUjlIcXlxZXNDQlB4azNJdmpWVTNqdndSOGVDVmh0c25zWjZ3cXFRVW1DUDhNOWFHY3lsdmpIQV9JWS1FRTEwUjVZaTJjd3VJREl0UzJxRVdLSlA0b1k?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T18:10:57+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5"
             }
           ]
         }
@@ -346,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 24 课：情景分析",
+      "title": "第 25 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -380,16 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
@@ -400,14 +389,19 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-29"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-01"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -415,143 +409,141 @@
       "asOf": "2026-10-29"
     },
     {
-      "title": "金融管理部门将召开会议 研究推动支持资本市场工具使用",
-      "url": "https://www.cnstock.com/commonDetail/821804",
-      "asOf": "2026-11-01T16:20:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-29"
     },
     {
-      "title": "受权发布 | 习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-      "url": "https://www.cnstock.com/commonDetail/821791",
-      "asOf": "2026-11-01T15:42:00+08:00"
+      "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
+      "asOf": "2026-11-02T00:01:40+00:00"
     },
     {
-      "title": "中国诚通、中国国新，加仓这些A股公司",
-      "url": "https://www.cnstock.com/commonDetail/821786",
-      "asOf": "2026-11-01T14:20:00+08:00"
+      "title": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5",
+      "asOf": "2026-11-01T23:50:45+00:00"
     },
     {
-      "title": "首次摆上“双十一”货架 Token走进大众消费",
-      "url": "https://www.cnstock.com/commonDetail/821779",
-      "asOf": "2026-11-01T11:23:00+08:00"
+      "title": "两种珍稀猴类连续5年同树共栖 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5",
+      "asOf": "2026-11-01T23:42:23+00:00"
     },
     {
-      "title": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DR2I3Tl96SnlZQVZMNmNKWVUtQ0t0UF9rZnpEVGUxYlJGR1ZHNlM0RFBzMkZQZU9uYXlaWWl2UkRwSEFqbGhsZFRRel9tb3dEM0tDZnJ2MkdoeVNiMUQtYVhLNTZPaGVvN1FZSkFIUGlnQVRsY3JR?oc=5",
-      "asOf": "2026-11-01T11:07:55+00:00"
+      "title": "2026年11月02日 电子报 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "asOf": "2026-11-01T23:36:44+00:00"
     },
     {
-      "title": "儿童文学《大运河上的星空》：融运河文脉于少年成长 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnX3JXX0w2TFliT21YdVpoOWx3dlg0MTRFT0dhWXlmN3ptQ19ZWFExQ0xlRE9XZnRkNUxvbFdqVEVFOHJQVl9FSWJ1V3NjZl9CNC1EeThHZG96aVo0U3lGQnNqemtGakotT2k2OHk3MDM1MjdsaDI4?oc=5",
-      "asOf": "2026-11-01T11:07:39+00:00"
+      "title": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5",
+      "asOf": "2026-11-01T22:01:32+00:00"
     },
     {
-      "title": "乍得西部发生暴力冲突致25死22伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWURVZmNPODF4aXExRnQ4SGJ6SU5RQmF5TU0zcFc4RDVfdU1KN3BNMlp0UnFvUHFSYXRrLTE0clVsSW1RelZjSGJBelA5a280aVhoWlRSaFp5bExfRUlkTFN6UzVCNWVyd0xrb3J1NUk0U29BQ2Y4ZUJOWVYza2s?oc=5",
-      "asOf": "2026-11-01T10:37:25+00:00"
+      "title": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5",
+      "asOf": "2026-11-01T21:40:57+00:00"
     },
     {
-      "title": "拟遣返阿富汗移民 美国被批“背信弃义” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9waF9RTEJoTnUzbFlqMjQ0enkxQkVWVE1HTV9CUTdvclFsVF9uN2UxMlBJV1ZDQVhfM3Q5c2J2NEIxUjJsSEZWS0dzMGNoODhlb25yazJDRjdXRDdNcnpoSDRIQTExYVVvSTRwUUhral80Z3hmZmIzOFd0ZmI5U1k?oc=5",
-      "asOf": "2026-11-01T10:32:25+00:00"
+      "title": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5",
+      "asOf": "2026-11-01T19:28:23+00:00"
     },
     {
-      "title": "美国中期选举临近 两党选票官司开打 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTVGck5zRk5NM3VFX2ZkZExHSC1sVUVCU1VFQzNsaDJENklpcV9velZ3NVdaeGNkSU1HWktNRFNJdVpxTkxCdzlSU1FGeUlfSmdqVXBSWmZUQU1VamVTVjRYcXhaaFRYQ1NIOWJXbm9faUxFSExLVE40R0dmSkU?oc=5",
-      "asOf": "2026-11-01T10:32:18+00:00"
+      "title": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5",
+      "asOf": "2026-11-01T18:24:52+00:00"
     },
     {
-      "title": "通讯丨探讨中国之治 共话发展之道——哈高校师生研读《新时代治国理政纪实》 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQXRNVlAtei1scVJxLW41bWlNRV8zX2JjcUZNcVBHSGxaUjlIcXlxZXNDQlB4azNJdmpWVTNqdndSOGVDVmh0c25zWjZ3cXFRVW1DUDhNOWFHY3lsdmpIQV9JWS1FRTEwUjVZaTJjd3VJREl0UzJxRVdLSlA0b1k?oc=5",
-      "asOf": "2026-11-01T10:30:14+00:00"
+      "title": "看好后市 多家私募出手自购 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5",
+      "asOf": "2026-11-01T18:10:57+00:00"
+    },
+    {
+      "title": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5",
+      "asOf": "2026-11-01T18:10:57+00:00"
     }
   ],
   "events": [
     {
-      "event": "金融管理部门将召开会议 研究推动支持资本市场工具使用",
-      "originalTitle": "金融管理部门将召开会议 研究推动支持资本市场工具使用",
-      "published": "2026-11-01T16:20:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/821804",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "受权发布 | 习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-      "originalTitle": "受权发布 | 习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-      "published": "2026-11-01T15:42:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/821791",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中国诚通、中国国新，加仓这些A股公司",
-      "originalTitle": "中国诚通、中国国新，加仓这些A股公司",
-      "published": "2026-11-01T14:20:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/821786",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/821786",
-        "retrievedAt": "2026-11-01T19:16:32.660994+08:00",
-        "sha256": "f6dc1e265c74cac1316162964100578fa548d8fcdd5feb65e92bad85b608686a",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯 10月30日，多家上市公司披露的三季报显示，国有资本运营平台中国诚通、中国国新在三季度集中加仓，通过新进、增持方式布局多家A股上市公司，覆盖电子、机械设备、通信等多个领域。"
-      }
-    },
-    {
-      "event": "首次摆上“双十一”货架 Token走进大众消费",
-      "originalTitle": "首次摆上“双十一”货架 Token走进大众消费",
-      "published": "2026-11-01T11:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/821779",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹 - 新华网",
-      "published": "2026-11-01T11:07:55+00:00",
+      "event": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
+      "published": "2026-11-02T00:01:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DR2I3Tl96SnlZQVZMNmNKWVUtQ0t0UF9rZnpEVGUxYlJGR1ZHNlM0RFBzMkZQZU9uYXlaWWl2UkRwSEFqbGhsZFRRel9tb3dEM0tDZnJ2MkdoeVNiMUQtYVhLNTZPaGVvN1FZSkFIUGlnQVRsY3JR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "乌俄继续无人机互袭 泽连斯基再促欧美援助防空导弹 - 新华网"
+      "originalTitle": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网"
     },
     {
-      "event": "儿童文学《大运河上的星空》：融运河文脉于少年成长 - 新华网",
-      "published": "2026-11-01T11:07:39+00:00",
+      "event": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
+      "published": "2026-11-01T23:50:45+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnX3JXX0w2TFliT21YdVpoOWx3dlg0MTRFT0dhWXlmN3ptQ19ZWFExQ0xlRE9XZnRkNUxvbFdqVEVFOHJQVl9FSWJ1V3NjZl9CNC1EeThHZG96aVo0U3lGQnNqemtGakotT2k2OHk3MDM1MjdsaDI4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "儿童文学《大运河上的星空》：融运河文脉于少年成长 - 新华网"
+      "originalTitle": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网"
     },
     {
-      "event": "乍得西部发生暴力冲突致25死22伤 - 新华网",
-      "published": "2026-11-01T10:37:25+00:00",
+      "event": "两种珍稀猴类连续5年同树共栖 - 新华网",
+      "published": "2026-11-01T23:42:23+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWURVZmNPODF4aXExRnQ4SGJ6SU5RQmF5TU0zcFc4RDVfdU1KN3BNMlp0UnFvUHFSYXRrLTE0clVsSW1RelZjSGJBelA5a280aVhoWlRSaFp5bExfRUlkTFN6UzVCNWVyd0xrb3J1NUk0U29BQ2Y4ZUJOWVYza2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "乍得西部发生暴力冲突致25死22伤 - 新华网"
+      "originalTitle": "两种珍稀猴类连续5年同树共栖 - 新华网"
     },
     {
-      "event": "拟遣返阿富汗移民 美国被批“背信弃义” - 新华网",
-      "published": "2026-11-01T10:32:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9waF9RTEJoTnUzbFlqMjQ0enkxQkVWVE1HTV9CUTdvclFsVF9uN2UxMlBJV1ZDQVhfM3Q5c2J2NEIxUjJsSEZWS0dzMGNoODhlb25yazJDRjdXRDdNcnpoSDRIQTExYVVvSTRwUUhral80Z3hmZmIzOFd0ZmI5U1k?oc=5",
+      "event": "2026年11月02日 电子报 - 上海证券报电子版",
+      "published": "2026-11-01T23:36:44+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "拟遣返阿富汗移民 美国被批“背信弃义” - 新华网"
+      "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
     },
     {
-      "event": "美国中期选举临近 两党选票官司开打 - 新华网",
-      "published": "2026-11-01T10:32:18+00:00",
+      "event": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
+      "published": "2026-11-01T22:01:32+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTVGck5zRk5NM3VFX2ZkZExHSC1sVUVCU1VFQzNsaDJENklpcV9velZ3NVdaeGNkSU1HWktNRFNJdVpxTkxCdzlSU1FGeUlfSmdqVXBSWmZUQU1VamVTVjRYcXhaaFRYQ1NIOWJXbm9faUxFSExLVE40R0dmSkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美国中期选举临近 两党选票官司开打 - 新华网"
+      "originalTitle": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网"
     },
     {
-      "event": "通讯丨探讨中国之治 共话发展之道——哈高校师生研读《新时代治国理政纪实》 - 新华网",
-      "published": "2026-11-01T10:30:14+00:00",
+      "event": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
+      "published": "2026-11-01T21:40:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQXRNVlAtei1scVJxLW41bWlNRV8zX2JjcUZNcVBHSGxaUjlIcXlxZXNDQlB4azNJdmpWVTNqdndSOGVDVmh0c25zWjZ3cXFRVW1DUDhNOWFHY3lsdmpIQV9JWS1FRTEwUjVZaTJjd3VJREl0UzJxRVdLSlA0b1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨探讨中国之治 共话发展之道——哈高校师生研读《新时代治国理政纪实》 - 新华网"
+      "originalTitle": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网"
+    },
+    {
+      "event": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
+      "published": "2026-11-01T19:28:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网"
+    },
+    {
+      "event": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
+      "published": "2026-11-01T18:24:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网"
+    },
+    {
+      "event": "看好后市 多家私募出手自购 - 上海证券报电子版",
+      "published": "2026-11-01T18:10:57+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "看好后市 多家私募出手自购 - 上海证券报电子版"
+    },
+    {
+      "event": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
+      "published": "2026-11-01T18:10:57+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -565,9 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
