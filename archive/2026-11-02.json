@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 14:46",
+  "date": "更新于北京时间 2026-11-02 15:39",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T14:46:41+08:00",
+  "updatedAt": "2026-11-02T15:39:18+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "习近平同阿曼苏丹海赛姆会谈",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T13:54:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822097"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
           "summary": "",
           "paragraphs": [
@@ -252,21 +267,6 @@
         },
         {
           "type": "explainer",
-          "title": "宽基ETF持续“吸金” 市场修复节奏受关注",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T11:00:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822057"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "“股王”重回1400元",
           "summary": "",
           "paragraphs": [
@@ -297,31 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "2026年11月02日 电子报 - 上海证券报电子版",
+          "title": "中方特使、特代将分赴中东海湾等地区国家穿梭访问 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T06:25:22+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-11-02T07:35:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RWFQZTJPaHdRZndXd0NHSDR4VEtPSURNbk9BQ1dVanFxN1NpX1R5QThvVE01R29zUGV2Q1lxekIyZkFycTdOWXpYaDloZTdkc0E2Z3FZM0hudVNNaFhEMjNhV29aaTE2ZHhJTFRqc2RMNFBMRHNIYjhiWXFTdEE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
+          "title": "美国在政治极化与民生困境中迎来中期选举 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T05:36:58+00:00；来源：新华网。",
+            "发布时间：2026-11-02T07:32:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUFNaNklrUFNIVVhiVTJHZll2eFB4UEgwcmxBSVFuRjcwclVqbDQxcmo5TS1nSk9pS1ljakVLRVhNckQ2RTVQU0lFaDZ6NG1mV2NZVTVKOVNwdEttaDZhU3dMSUxYd0pkakFDTUJlVW8tOW1NODJ3dUJNZFZlQms?oc=5"
             }
           ]
         }
@@ -379,18 +379,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
     },
     {
@@ -404,6 +399,11 @@
       "asOf": "2026-10-30"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-29"
@@ -412,6 +412,11 @@
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
+    },
+    {
+      "title": "习近平同阿曼苏丹海赛姆会谈",
+      "url": "https://www.cnstock.com/commonDetail/822097",
+      "asOf": "2026-11-02T13:54:00+08:00"
     },
     {
       "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
@@ -439,11 +444,6 @@
       "asOf": "2026-11-02T11:24:00+08:00"
     },
     {
-      "title": "宽基ETF持续“吸金” 市场修复节奏受关注",
-      "url": "https://www.cnstock.com/commonDetail/822057",
-      "asOf": "2026-11-02T11:00:00+08:00"
-    },
-    {
       "title": "“股王”重回1400元",
       "url": "https://www.cnstock.com/commonDetail/822036",
       "asOf": "2026-11-02T10:05:00+08:00"
@@ -454,17 +454,25 @@
       "asOf": "2026-11-02T09:49:00+08:00"
     },
     {
-      "title": "2026年11月02日 电子报 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-02T06:25:22+00:00"
+      "title": "中方特使、特代将分赴中东海湾等地区国家穿梭访问 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RWFQZTJPaHdRZndXd0NHSDR4VEtPSURNbk9BQ1dVanFxN1NpX1R5QThvVE01R29zUGV2Q1lxekIyZkFycTdOWXpYaDloZTdkc0E2Z3FZM0hudVNNaFhEMjNhV29aaTE2ZHhJTFRqc2RMNFBMRHNIYjhiWXFTdEE?oc=5",
+      "asOf": "2026-11-02T07:35:21+00:00"
     },
     {
-      "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
-      "asOf": "2026-11-02T05:36:58+00:00"
+      "title": "美国在政治极化与民生困境中迎来中期选举 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUFNaNklrUFNIVVhiVTJHZll2eFB4UEgwcmxBSVFuRjcwclVqbDQxcmo5TS1nSk9pS1ljakVLRVhNckQ2RTVQU0lFaDZ6NG1mV2NZVTVKOVNwdEttaDZhU3dMSUxYd0pkakFDTUJlVW8tOW1NODJ3dUJNZFZlQms?oc=5",
+      "asOf": "2026-11-02T07:32:47+00:00"
     }
   ],
   "events": [
+    {
+      "event": "习近平同阿曼苏丹海赛姆会谈",
+      "originalTitle": "习近平同阿曼苏丹海赛姆会谈",
+      "published": "2026-11-02T13:54:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822097",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
       "originalTitle": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
@@ -506,14 +514,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "宽基ETF持续“吸金” 市场修复节奏受关注",
-      "originalTitle": "宽基ETF持续“吸金” 市场修复节奏受关注",
-      "published": "2026-11-02T11:00:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822057",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "“股王”重回1400元",
       "originalTitle": "“股王”重回1400元",
       "published": "2026-11-02T10:05:00+08:00",
@@ -530,20 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-02T06:25:22+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "event": "中方特使、特代将分赴中东海湾等地区国家穿梭访问 - 新华网",
+      "published": "2026-11-02T07:35:21+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RWFQZTJPaHdRZndXd0NHSDR4VEtPSURNbk9BQ1dVanFxN1NpX1R5QThvVE01R29zUGV2Q1lxekIyZkFycTdOWXpYaDloZTdkc0E2Z3FZM0hudVNNaFhEMjNhV29aaTE2ZHhJTFRqc2RMNFBMRHNIYjhiWXFTdEE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
+      "originalTitle": "中方特使、特代将分赴中东海湾等地区国家穿梭访问 - 新华网"
     },
     {
-      "event": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
-      "published": "2026-11-02T05:36:58+00:00",
+      "event": "美国在政治极化与民生困境中迎来中期选举 - 新华网",
+      "published": "2026-11-02T07:32:47+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUFNaNklrUFNIVVhiVTJHZll2eFB4UEgwcmxBSVFuRjcwclVqbDQxcmo5TS1nSk9pS1ljakVLRVhNckQ2RTVQU0lFaDZ6NG1mV2NZVTVKOVNwdEttaDZhU3dMSUxYd0pkakFDTUJlVW8tOW1NODJ3dUJNZFZlQms?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平同阿曼苏丹海赛姆会谈 - 新华网"
+      "originalTitle": "美国在政治极化与民生困境中迎来中期选举 - 新华网"
     }
   ],
   "quality": {
