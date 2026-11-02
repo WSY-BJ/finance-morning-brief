@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 14:06",
+  "date": "更新于北京时间 2026-11-02 14:46",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T14:06:07+08:00",
+  "updatedAt": "2026-11-02T14:46:41+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -297,6 +297,21 @@
         },
         {
           "type": "explainer",
+          "title": "2026年11月02日 电子报 - 上海证券报电子版",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T06:25:22+00:00；来源：上海证券报电子版。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -307,21 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026年11月02日 电子报 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T05:27:04+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
             }
           ]
         }
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
@@ -391,6 +386,11 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
     },
     {
@@ -404,13 +404,13 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-29"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
     },
     {
@@ -454,14 +454,14 @@
       "asOf": "2026-11-02T09:49:00+08:00"
     },
     {
+      "title": "2026年11月02日 电子报 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "asOf": "2026-11-02T06:25:22+00:00"
+    },
+    {
       "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
       "asOf": "2026-11-02T05:36:58+00:00"
-    },
-    {
-      "title": "2026年11月02日 电子报 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-02T05:27:04+00:00"
     }
   ],
   "events": [
@@ -530,20 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "2026年11月02日 电子报 - 上海证券报电子版",
+      "published": "2026-11-02T06:25:22+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
+    },
+    {
       "event": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
       "published": "2026-11-02T05:36:58+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "习近平同阿曼苏丹海赛姆会谈 - 新华网"
-    },
-    {
-      "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-02T05:27:04+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
     }
   ],
   "quality": {
