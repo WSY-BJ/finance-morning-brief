@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 08:09",
+  "date": "更新于北京时间 2026-11-02 08:40",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T08:09:39+08:00",
+  "updatedAt": "2026-11-02T08:40:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6449 人民币/美元；变化 -0.0161 人民币/美元",
+          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-01；前值 6.6610（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,6 +177,85 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "本周，美股将迎多重考验",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T08:28:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/822013"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T08:10:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•高争民爆11月2日开市起复牌，拟通过发行股份方式购买西藏紫源铜业有限公司51%股权、西藏晟源矿业有限责任公司100%股权。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/822005"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T08:10:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/822007"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上交所ABS簿记模块今起上线运行",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T08:05:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/822006"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国产IP核：幕后英雄，加快发展",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T07:18:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/821976"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,6 +266,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-01T23:54:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5"
             }
           ]
         },
@@ -232,96 +326,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T22:01:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T21:40:57+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T19:28:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T18:24:52+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "看好后市 多家私募出手自购 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T18:10:57+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T18:10:57+00:00；来源：上海证券报电子版。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5"
             }
           ]
         }
@@ -379,8 +383,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-30"
     },
     {
@@ -394,9 +398,9 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-01"
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -404,19 +408,49 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "本周，美股将迎多重考验",
+      "url": "https://www.cnstock.com/commonDetail/822013",
+      "asOf": "2026-11-02T08:28:00+08:00"
+    },
+    {
+      "title": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
+      "url": "https://www.cnstock.com/commonDetail/822005",
+      "asOf": "2026-11-02T08:10:00+08:00"
+    },
+    {
+      "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
+      "url": "https://www.cnstock.com/commonDetail/822007",
+      "asOf": "2026-11-02T08:10:00+08:00"
+    },
+    {
+      "title": "上交所ABS簿记模块今起上线运行",
+      "url": "https://www.cnstock.com/commonDetail/822006",
+      "asOf": "2026-11-02T08:05:00+08:00"
+    },
+    {
+      "title": "国产IP核：幕后英雄，加快发展",
+      "url": "https://www.cnstock.com/commonDetail/821976",
+      "asOf": "2026-11-02T07:18:00+08:00"
+    },
+    {
       "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
       "asOf": "2026-11-02T00:01:40+00:00"
+    },
+    {
+      "title": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5",
+      "asOf": "2026-11-01T23:54:10+00:00"
     },
     {
       "title": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
@@ -432,39 +466,77 @@
       "title": "2026年11月02日 电子报 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "asOf": "2026-11-01T23:36:44+00:00"
-    },
-    {
-      "title": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5",
-      "asOf": "2026-11-01T22:01:32+00:00"
-    },
-    {
-      "title": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5",
-      "asOf": "2026-11-01T21:40:57+00:00"
-    },
-    {
-      "title": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5",
-      "asOf": "2026-11-01T19:28:23+00:00"
-    },
-    {
-      "title": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5",
-      "asOf": "2026-11-01T18:24:52+00:00"
-    },
-    {
-      "title": "看好后市 多家私募出手自购 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5",
-      "asOf": "2026-11-01T18:10:57+00:00"
-    },
-    {
-      "title": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5",
-      "asOf": "2026-11-01T18:10:57+00:00"
     }
   ],
   "events": [
+    {
+      "event": "本周，美股将迎多重考验",
+      "originalTitle": "本周，美股将迎多重考验",
+      "published": "2026-11-02T08:28:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822013",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/822013",
+        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "sha256": "562572f9877c221e7530ecadacca8a65fcfd1fb3d57d2b0a1f3dab7315fa5345",
+        "paragraphCount": 10,
+        "excerpt": "上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
+      }
+    },
+    {
+      "event": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
+      "originalTitle": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
+      "published": "2026-11-02T08:10:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822005",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/822005",
+        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "sha256": "f4958436a360926e2ebb5cce3153d25ba923bc431ee8bf06b24e3ef6da39230b",
+        "paragraphCount": 28,
+        "excerpt": "•高争民爆11月2日开市起复牌，拟通过发行股份方式购买西藏紫源铜业有限公司51%股权、西藏晟源矿业有限责任公司100%股权。"
+      }
+    },
+    {
+      "event": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
+      "originalTitle": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
+      "published": "2026-11-02T08:10:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/822007",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/822007",
+        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "sha256": "eb82e47c1f8f3b5c84b9b009832cd2c195f30d8651df080e0331fb68d998d92f",
+        "paragraphCount": 16,
+        "excerpt": "过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
+      }
+    },
+    {
+      "event": "上交所ABS簿记模块今起上线运行",
+      "originalTitle": "上交所ABS簿记模块今起上线运行",
+      "published": "2026-11-02T08:05:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/822006",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/822006",
+        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "sha256": "7464f7ce69e3b7103a049f7dd0e6a653f6ccaf52b77f82fa1b8cbf0562f07f40",
+        "paragraphCount": 4,
+        "excerpt": "10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
+      }
+    },
+    {
+      "event": "国产IP核：幕后英雄，加快发展",
+      "originalTitle": "国产IP核：幕后英雄，加快发展",
+      "published": "2026-11-02T07:18:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/821976",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
       "published": "2026-11-02T00:01:40+00:00",
@@ -472,6 +544,14 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网"
+    },
+    {
+      "event": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
+      "published": "2026-11-01T23:54:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网"
     },
     {
       "event": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
@@ -496,54 +576,6 @@
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
-    },
-    {
-      "event": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网",
-      "published": "2026-11-01T22:01:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUNMd2xaeVdKSEVKNTRoRjlzSDhjUjYycjIxOS1DNnhzQ2RnaktuZk9tTkpOSDJXRHhBWVdmaURqMTZ6ZEZmTTBGTXEzN3pwUGpkN204c3c0UDhodFVYbWtfaVpKay1WUHphT1ExTzk2al9GcjRQWXUzLXYzZDQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美国佛州发生坠毁机事故 机上9人全部死亡 - 新华网"
-    },
-    {
-      "event": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-      "published": "2026-11-01T21:40:57+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUTlUSy1lNC1DdWJ6WlFianNOUmhocXREc0hFSmQ3VTBUVGdXM3AtRGVuSWFFWjRZSk1nRFNIZTRyUWEySDhZR2RsdGdIbkhENXZkZnp1Y0swT0ktelpwTUQ5RnhpUmFldTQxWm16c3ZhNUhORTRN?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗革命卫队称两艘“违规”油轮在霍尔木兹海峡触雷 - 新华网"
-    },
-    {
-      "event": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网",
-      "published": "2026-11-01T19:28:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56MkhoVklnSmstRVBMMlNqbkZGck56bXExZ0FOeDNwN29Fb29jV0NiQWxwa3E0OVpuUVJYMGkxN1drSU9lSjlMdURzaWtFbUtfLVBIR0ZWNVptWl84Tk1iZmNQeTBUX2VGVU9vWVBtNmZHNVNQRE9V?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "出口民调：保现总统约托娃在总统选举二轮投票中领先 - 新华网"
-    },
-    {
-      "event": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网",
-      "published": "2026-11-01T18:24:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVF5T0p5UzJ1Wm1kV3o1UE0xZHpPNGU1MW16MnU5M0R1YUVYaUZZREFEeUJnNjVOSzYxcklVRHpsMUUxYlI5eGJWck84blV1QkZlejF0TkZKS01wNTE5cHN1ZUloMWwxR0tLQldvV1Y4ZUUtODg0TFFqZHRpRU0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "卡尼：加美正就构建互利贸易协议展开合作 - 新华网"
-    },
-    {
-      "event": "看好后市 多家私募出手自购 - 上海证券报电子版",
-      "published": "2026-11-01T18:10:57+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydUtENmlFM0c2WHNnLVpoRDljalp6eDk3YkNReHFRbzVvaFFDR1NlM3VkbkFmV0J0SkQwbDZ2aGljNl9PYXdUbDJEU2FRSFh3X1ZxQ1Y4d2pXbjdvY2E0SjhyaDhWeUhYOVd1MnNR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "看好后市 多家私募出手自购 - 上海证券报电子版"
-    },
-    {
-      "event": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版",
-      "published": "2026-11-01T18:10:57+00:00",
-      "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xRG5mOGFFdHZ6aXVzaGVHRFQxQk1uMUdIR3Bzc2xidFBoTlBiRG1kZVZyV3E3aUVSbnI0aXFCdFc4bTg5OEVNM1BiWF9fSFY1QjRzalNybi12WmZwZnhMXzA5ZzVETzJMTEx1cHdn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "资金向固定收益端集结 债基规模三季度增逾5000亿元 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -557,7 +589,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError"
     ]
   }
 }
