@@ -1,0 +1,15 @@
+{
+  "schema": "market_status_v1",
+  "checked_at_bjt": "2026-11-02T10:04:40+08:00",
+  "phase_by_clock": "possible_trading_session",
+  "health": "ok",
+  "good_quote_count": 13,
+  "total_symbols": 13,
+  "providers": {
+    "tencent": 13,
+    "sina": 13
+  },
+  "errors": [],
+  "issues": [],
+  "disclaimer": "Free unofficial delayed/approximate quotes, not exchange-authorized realtime feeds."
+}
