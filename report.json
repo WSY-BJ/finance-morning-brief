@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 09:48",
+  "date": "更新于北京时间 2026-11-02 10:40",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T09:48:44+08:00",
+  "updatedAt": "2026-11-02T10:40:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "新华社权威快报｜可再生能源法修订草案提请审议",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T09:49:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822031"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "本周，美股将迎多重考验",
           "summary": "",
           "paragraphs": [
@@ -241,46 +256,16 @@
         },
         {
           "type": "explainer",
-          "title": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
+          "title": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T01:44:21+00:00；来源：新华网。",
+            "发布时间：2026-11-02T02:37:01+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T01:40:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T01:35:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5"
             }
           ]
         },
@@ -289,7 +274,7 @@
           "title": "2026年11月02日 电子报 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T01:33:17+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-11-02T02:31:28+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
@@ -301,31 +286,46 @@
         },
         {
           "type": "explainer",
-          "title": "摄影图集：秋粮收获金秋时 - 新华网",
+          "title": "青奥会Vlog：武术上演奥林匹克赛事首秀 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T01:28:37+00:00；来源：新华网。",
+            "发布时间：2026-11-02T02:26:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFHc3RvOEFtZ2lFS2FoUEc3SElJUnF0LVAtTjVnVl9PUVQ0UDltRXRjREQ2Q1Q2RDRySzBKSjdmNk5zWE0xcHZyNkE5M2NWV1RuOEhIQUtTRGl2SnlXN3haLU9rSEVQdFd2YWdCVy1LTk1pUEtMd25mSDBWU1FUbA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
+          "title": "2026年前三季度青岛市经济运行情况发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T01:27:41+00:00；来源：新华网。",
+            "发布时间：2026-11-02T02:14:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZlNXVGJTZXhJU2lzVnJVbm1sTUNzaWRzbzMydGFMR3FWd1J2N2NmUDlYX2tvY3htTkJqSjJCQUM0dDF2SXdCODNEVjRVenlDT0dlQzItblBnNk5uY0kwWWZZMjgtRm9sY0t2ZkFKTk5KbnRi?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "前三季度济南市地区生产总值达11100.5亿元 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T02:13:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rNXo3X2NoWUIwY3d2Vy1QZnRUTnZDMlZobnV6NEppZm5aam1yRFpyeG50MFpxNzRIVWQ4cnM4d1lzZG9qaXFnS2ZBcHIxVndkYURHbS03UXlwc0hwUWZ2aVdCQXBwZzgyM0E2ellGMzl0ckth?oc=5"
             }
           ]
         }
@@ -383,18 +383,18 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
     },
     {
@@ -403,8 +403,8 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-30"
     },
     {
@@ -416,6 +416,11 @@
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-29"
+    },
+    {
+      "title": "新华社权威快报｜可再生能源法修订草案提请审议",
+      "url": "https://www.cnstock.com/commonDetail/822031",
+      "asOf": "2026-11-02T09:49:00+08:00"
     },
     {
       "title": "本周，美股将迎多重考验",
@@ -438,37 +443,40 @@
       "asOf": "2026-11-02T07:18:00+08:00"
     },
     {
-      "title": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5",
-      "asOf": "2026-11-02T01:44:21+00:00"
-    },
-    {
-      "title": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5",
-      "asOf": "2026-11-02T01:40:40+00:00"
-    },
-    {
-      "title": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5",
-      "asOf": "2026-11-02T01:35:43+00:00"
+      "title": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5",
+      "asOf": "2026-11-02T02:37:01+00:00"
     },
     {
       "title": "2026年11月02日 电子报 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-02T01:33:17+00:00"
+      "asOf": "2026-11-02T02:31:28+00:00"
     },
     {
-      "title": "摄影图集：秋粮收获金秋时 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5",
-      "asOf": "2026-11-02T01:28:37+00:00"
+      "title": "青奥会Vlog：武术上演奥林匹克赛事首秀 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFHc3RvOEFtZ2lFS2FoUEc3SElJUnF0LVAtTjVnVl9PUVQ0UDltRXRjREQ2Q1Q2RDRySzBKSjdmNk5zWE0xcHZyNkE5M2NWV1RuOEhIQUtTRGl2SnlXN3haLU9rSEVQdFd2YWdCVy1LTk1pUEtMd25mSDBWU1FUbA?oc=5",
+      "asOf": "2026-11-02T02:26:40+00:00"
     },
     {
-      "title": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5",
-      "asOf": "2026-11-02T01:27:41+00:00"
+      "title": "2026年前三季度青岛市经济运行情况发布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZlNXVGJTZXhJU2lzVnJVbm1sTUNzaWRzbzMydGFMR3FWd1J2N2NmUDlYX2tvY3htTkJqSjJCQUM0dDF2SXdCODNEVjRVenlDT0dlQzItblBnNk5uY0kwWWZZMjgtRm9sY0t2ZkFKTk5KbnRi?oc=5",
+      "asOf": "2026-11-02T02:14:07+00:00"
+    },
+    {
+      "title": "前三季度济南市地区生产总值达11100.5亿元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rNXo3X2NoWUIwY3d2Vy1QZnRUTnZDMlZobnV6NEppZm5aam1yRFpyeG50MFpxNzRIVWQ4cnM4d1lzZG9qaXFnS2ZBcHIxVndkYURHbS03UXlwc0hwUWZ2aVdCQXBwZzgyM0E2ellGMzl0ckth?oc=5",
+      "asOf": "2026-11-02T02:13:52+00:00"
     }
   ],
   "events": [
+    {
+      "event": "新华社权威快报｜可再生能源法修订草案提请审议",
+      "originalTitle": "新华社权威快报｜可再生能源法修订草案提请审议",
+      "published": "2026-11-02T09:49:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822031",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "本周，美股将迎多重考验",
       "originalTitle": "本周，美股将迎多重考验",
@@ -478,7 +486,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822013",
-        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
+        "retrievedAt": "2026-11-02T10:40:49.372216+08:00",
         "sha256": "562572f9877c221e7530ecadacca8a65fcfd1fb3d57d2b0a1f3dab7315fa5345",
         "paragraphCount": 10,
         "excerpt": "上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
@@ -493,7 +501,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822007",
-        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
+        "retrievedAt": "2026-11-02T10:40:49.372216+08:00",
         "sha256": "eb82e47c1f8f3b5c84b9b009832cd2c195f30d8651df080e0331fb68d998d92f",
         "paragraphCount": 16,
         "excerpt": "过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
@@ -508,7 +516,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822006",
-        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
+        "retrievedAt": "2026-11-02T10:40:49.372216+08:00",
         "sha256": "7464f7ce69e3b7103a049f7dd0e6a653f6ccaf52b77f82fa1b8cbf0562f07f40",
         "paragraphCount": 4,
         "excerpt": "10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
@@ -523,59 +531,51 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/821976",
-        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
+        "retrievedAt": "2026-11-02T10:40:49.372216+08:00",
         "sha256": "afae8c365f365664dfeec4a9247c0549bf4ab29eaf85db4b361bd058a80312e7",
         "paragraphCount": 20,
         "excerpt": "据OpenRouter最新测算，截至11月1日，中国大模型周调用量已连续27周稳居全球首位；海光信息、寒武纪等国产芯片龙头最新披露的三季度“成绩单”，成为国产算力商业化落地提速的生动注脚。在行业“开花结果”的背后，离不开IP核这一“幕后英雄"
       }
     },
     {
-      "event": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
-      "published": "2026-11-02T01:44:21+00:00",
+      "event": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
+      "published": "2026-11-02T02:37:01+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网"
-    },
-    {
-      "event": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
-      "published": "2026-11-02T01:40:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网"
-    },
-    {
-      "event": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
-      "published": "2026-11-02T01:35:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网"
+      "originalTitle": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网"
     },
     {
       "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-02T01:33:17+00:00",
+      "published": "2026-11-02T02:31:28+00:00",
       "publisher": "上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
     },
     {
-      "event": "摄影图集：秋粮收获金秋时 - 新华网",
-      "published": "2026-11-02T01:28:37+00:00",
+      "event": "青奥会Vlog：武术上演奥林匹克赛事首秀 - 新华网",
+      "published": "2026-11-02T02:26:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFHc3RvOEFtZ2lFS2FoUEc3SElJUnF0LVAtTjVnVl9PUVQ0UDltRXRjREQ2Q1Q2RDRySzBKSjdmNk5zWE0xcHZyNkE5M2NWV1RuOEhIQUtTRGl2SnlXN3haLU9rSEVQdFd2YWdCVy1LTk1pUEtMd25mSDBWU1FUbA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "摄影图集：秋粮收获金秋时 - 新华网"
+      "originalTitle": "青奥会Vlog：武术上演奥林匹克赛事首秀 - 新华网"
     },
     {
-      "event": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
-      "published": "2026-11-02T01:27:41+00:00",
+      "event": "2026年前三季度青岛市经济运行情况发布 - 新华网",
+      "published": "2026-11-02T02:14:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZlNXVGJTZXhJU2lzVnJVbm1sTUNzaWRzbzMydGFMR3FWd1J2N2NmUDlYX2tvY3htTkJqSjJCQUM0dDF2SXdCODNEVjRVenlDT0dlQzItblBnNk5uY0kwWWZZMjgtRm9sY0t2ZkFKTk5KbnRi?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网"
+      "originalTitle": "2026年前三季度青岛市经济运行情况发布 - 新华网"
+    },
+    {
+      "event": "前三季度济南市地区生产总值达11100.5亿元 - 新华网",
+      "published": "2026-11-02T02:13:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rNXo3X2NoWUIwY3d2Vy1QZnRUTnZDMlZobnV6NEppZm5aam1yRFpyeG50MFpxNzRIVWQ4cnM4d1lzZG9qaXFnS2ZBcHIxVndkYURHbS03UXlwc0hwUWZ2aVdCQXBwZzgyM0E2ellGMzl0ckth?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前三季度济南市地区生产总值达11100.5亿元 - 新华网"
     }
   ],
   "quality": {
@@ -588,6 +588,8 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError"
+    ]
   }
 }
