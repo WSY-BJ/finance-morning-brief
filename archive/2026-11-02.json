@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 11:13",
+  "date": "更新于北京时间 2026-11-02 13:49",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T11:13:07+08:00",
+  "updatedAt": "2026-11-02T13:49:52+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,111 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T13:17:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822085"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "人大常委会 | 国有资产法草案二审稿完善多项规定",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T13:16:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822083"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "人大常委会丨税收征管法拟修订 提升服务效能",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T11:38:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822069"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“换锚”落地 央行开展5410亿元隔夜逆回购操作",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T11:30:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822066"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "创业板指、科创综指盘中涨超2% 全市场超4400股上涨",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T11:24:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822063"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宽基ETF持续“吸金” 市场修复节奏受关注",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T11:00:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822057"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“股王”重回1400元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T10:05:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822036"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新华社权威快报｜可再生能源法修订草案提请审议",
           "summary": "",
           "paragraphs": [
@@ -192,110 +297,16 @@
         },
         {
           "type": "explainer",
-          "title": "本周，美股将迎多重考验",
+          "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T08:28:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/822013"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T08:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/822007"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上交所ABS簿记模块今起上线运行",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T08:05:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/822006"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国产IP核：幕后英雄，加快发展",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：据OpenRouter最新测算，截至11月1日，中国大模型周调用量已连续27周稳居全球首位；海光信息、寒武纪等国产芯片龙头最新披露的三季度“成绩单”，成为国产算力商业化落地提速的生动注脚。在行业“开花结果”的背后，离不开IP核这一“幕后英雄"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/821976"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "苏高新担保获评全省再担保体系合作机构优秀等次 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T03:12:15+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-11-02T05:36:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TLXd0UWFKcGdncDNjTmg0SEk0OTF5U3h2ZGJmMzlsMU1KS3lHQWpOeEtHaWk1WlFXaG9GTmNsVEcyakdBN3FTc1VXT0RtXzdscWNMQXFta19wSUxlZFBBdGtzTlBlczcwUHZJMEoxWWdiZjRG?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T02:37:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "河北省邢台市委书记杨猛接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T02:36:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReGFWZkFfSnZSU2NpWlItd2V6eFJQRXJ0SFZWVkR6Tl80M3RIY0VUU1BDZWxxNVV0QzFxTV93T0daNkdGWGZxYUtzU0E4dmlWZWdMVGVhT2hidEdJQU1VZVN1YVJYbEtXVkp0cG1wSWtCc0VQcnpfMjZwZnpQdGM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5"
             }
           ]
         },
@@ -304,28 +315,13 @@
           "title": "2026年11月02日 电子报 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T02:31:28+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-11-02T05:27:04+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "江苏苏州：高质量党建赋能高质量发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T02:30:09+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3QXVON0liN3dQeWhja2RPQ2xScFotUEk1anpuVWwxel9DT0tUU0JfZnpnUWM0aXdsOTFGRlZMeTd6amNmNWItZFJHMGZFWkRaWXk1UmV3NHNLR3ZWMC1lenZFanJaazYwYWZlT3NlUGN3X19IU3c?oc=5"
             }
           ]
         }
@@ -388,11 +384,6 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-10-30"
@@ -403,14 +394,14 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -418,57 +409,118 @@
       "asOf": "2026-10-29"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-29"
+    },
+    {
+      "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
+      "url": "https://www.cnstock.com/commonDetail/822085",
+      "asOf": "2026-11-02T13:17:00+08:00"
+    },
+    {
+      "title": "人大常委会 | 国有资产法草案二审稿完善多项规定",
+      "url": "https://www.cnstock.com/commonDetail/822083",
+      "asOf": "2026-11-02T13:16:00+08:00"
+    },
+    {
+      "title": "人大常委会丨税收征管法拟修订 提升服务效能",
+      "url": "https://www.cnstock.com/commonDetail/822069",
+      "asOf": "2026-11-02T11:38:00+08:00"
+    },
+    {
+      "title": "“换锚”落地 央行开展5410亿元隔夜逆回购操作",
+      "url": "https://www.cnstock.com/commonDetail/822066",
+      "asOf": "2026-11-02T11:30:00+08:00"
+    },
+    {
+      "title": "创业板指、科创综指盘中涨超2% 全市场超4400股上涨",
+      "url": "https://www.cnstock.com/commonDetail/822063",
+      "asOf": "2026-11-02T11:24:00+08:00"
+    },
+    {
+      "title": "宽基ETF持续“吸金” 市场修复节奏受关注",
+      "url": "https://www.cnstock.com/commonDetail/822057",
+      "asOf": "2026-11-02T11:00:00+08:00"
+    },
+    {
+      "title": "“股王”重回1400元",
+      "url": "https://www.cnstock.com/commonDetail/822036",
+      "asOf": "2026-11-02T10:05:00+08:00"
+    },
+    {
       "title": "新华社权威快报｜可再生能源法修订草案提请审议",
       "url": "https://www.cnstock.com/commonDetail/822031",
       "asOf": "2026-11-02T09:49:00+08:00"
     },
     {
-      "title": "本周，美股将迎多重考验",
-      "url": "https://www.cnstock.com/commonDetail/822013",
-      "asOf": "2026-11-02T08:28:00+08:00"
-    },
-    {
-      "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
-      "url": "https://www.cnstock.com/commonDetail/822007",
-      "asOf": "2026-11-02T08:10:00+08:00"
-    },
-    {
-      "title": "上交所ABS簿记模块今起上线运行",
-      "url": "https://www.cnstock.com/commonDetail/822006",
-      "asOf": "2026-11-02T08:05:00+08:00"
-    },
-    {
-      "title": "国产IP核：幕后英雄，加快发展",
-      "url": "https://www.cnstock.com/commonDetail/821976",
-      "asOf": "2026-11-02T07:18:00+08:00"
-    },
-    {
-      "title": "苏高新担保获评全省再担保体系合作机构优秀等次 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TLXd0UWFKcGdncDNjTmg0SEk0OTF5U3h2ZGJmMzlsMU1KS3lHQWpOeEtHaWk1WlFXaG9GTmNsVEcyakdBN3FTc1VXT0RtXzdscWNMQXFta19wSUxlZFBBdGtzTlBlczcwUHZJMEoxWWdiZjRG?oc=5",
-      "asOf": "2026-11-02T03:12:15+00:00"
-    },
-    {
-      "title": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5",
-      "asOf": "2026-11-02T02:37:01+00:00"
-    },
-    {
-      "title": "河北省邢台市委书记杨猛接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReGFWZkFfSnZSU2NpWlItd2V6eFJQRXJ0SFZWVkR6Tl80M3RIY0VUU1BDZWxxNVV0QzFxTV93T0daNkdGWGZxYUtzU0E4dmlWZWdMVGVhT2hidEdJQU1VZVN1YVJYbEtXVkp0cG1wSWtCc0VQcnpfMjZwZnpQdGM?oc=5",
-      "asOf": "2026-11-02T02:36:08+00:00"
+      "title": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
+      "asOf": "2026-11-02T05:36:58+00:00"
     },
     {
       "title": "2026年11月02日 电子报 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-02T02:31:28+00:00"
-    },
-    {
-      "title": "江苏苏州：高质量党建赋能高质量发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3QXVON0liN3dQeWhja2RPQ2xScFotUEk1anpuVWwxel9DT0tUU0JfZnpnUWM0aXdsOTFGRlZMeTd6amNmNWItZFJHMGZFWkRaWXk1UmV3NHNLR3ZWMC1lenZFanJaazYwYWZlT3NlUGN3X19IU3c?oc=5",
-      "asOf": "2026-11-02T02:30:09+00:00"
+      "asOf": "2026-11-02T05:27:04+00:00"
     }
   ],
   "events": [
+    {
+      "event": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
+      "originalTitle": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
+      "published": "2026-11-02T13:17:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822085",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "人大常委会 | 国有资产法草案二审稿完善多项规定",
+      "originalTitle": "人大常委会 | 国有资产法草案二审稿完善多项规定",
+      "published": "2026-11-02T13:16:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822083",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "人大常委会丨税收征管法拟修订 提升服务效能",
+      "originalTitle": "人大常委会丨税收征管法拟修订 提升服务效能",
+      "published": "2026-11-02T11:38:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822069",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "“换锚”落地 央行开展5410亿元隔夜逆回购操作",
+      "originalTitle": "“换锚”落地 央行开展5410亿元隔夜逆回购操作",
+      "published": "2026-11-02T11:30:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822066",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "创业板指、科创综指盘中涨超2% 全市场超4400股上涨",
+      "originalTitle": "创业板指、科创综指盘中涨超2% 全市场超4400股上涨",
+      "published": "2026-11-02T11:24:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822063",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "宽基ETF持续“吸金” 市场修复节奏受关注",
+      "originalTitle": "宽基ETF持续“吸金” 市场修复节奏受关注",
+      "published": "2026-11-02T11:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822057",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "“股王”重回1400元",
+      "originalTitle": "“股王”重回1400元",
+      "published": "2026-11-02T10:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822036",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "新华社权威快报｜可再生能源法修订草案提请审议",
       "originalTitle": "新华社权威快报｜可再生能源法修订草案提请审议",
@@ -478,104 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "本周，美股将迎多重考验",
-      "originalTitle": "本周，美股将迎多重考验",
-      "published": "2026-11-02T08:28:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822013",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/822013",
-        "retrievedAt": "2026-11-02T11:13:07.280822+08:00",
-        "sha256": "a649d64b267a686353aa75558c4d8d36d368bfefb64b845a02e7cc6425c709d3",
-        "paragraphCount": 10,
-        "excerpt": "上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
-      }
-    },
-    {
-      "event": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
-      "originalTitle": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
-      "published": "2026-11-02T08:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/822007",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/822007",
-        "retrievedAt": "2026-11-02T11:13:07.280822+08:00",
-        "sha256": "0c0405ba5887de277cc982165d2fcdc15eef8bc98b6d7e826ff28df75502ce12",
-        "paragraphCount": 16,
-        "excerpt": "过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
-      }
-    },
-    {
-      "event": "上交所ABS簿记模块今起上线运行",
-      "originalTitle": "上交所ABS簿记模块今起上线运行",
-      "published": "2026-11-02T08:05:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/822006",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/822006",
-        "retrievedAt": "2026-11-02T11:13:07.280822+08:00",
-        "sha256": "1ac15da0d79272b9f2f447f58fe5152082cbd0827a580e4e6c2508a36dbdb3f7",
-        "paragraphCount": 4,
-        "excerpt": "10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
-      }
-    },
-    {
-      "event": "国产IP核：幕后英雄，加快发展",
-      "originalTitle": "国产IP核：幕后英雄，加快发展",
-      "published": "2026-11-02T07:18:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/821976",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/821976",
-        "retrievedAt": "2026-11-02T11:13:07.280822+08:00",
-        "sha256": "b0ba584864737881f0b80335108194c14f26beed1e7380986ffb8cbbf01dc263",
-        "paragraphCount": 20,
-        "excerpt": "据OpenRouter最新测算，截至11月1日，中国大模型周调用量已连续27周稳居全球首位；海光信息、寒武纪等国产芯片龙头最新披露的三季度“成绩单”，成为国产算力商业化落地提速的生动注脚。在行业“开花结果”的背后，离不开IP核这一“幕后英雄"
-      }
-    },
-    {
-      "event": "苏高新担保获评全省再担保体系合作机构优秀等次 - 新华网江苏频道",
-      "published": "2026-11-02T03:12:15+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TLXd0UWFKcGdncDNjTmg0SEk0OTF5U3h2ZGJmMzlsMU1KS3lHQWpOeEtHaWk1WlFXaG9GTmNsVEcyakdBN3FTc1VXT0RtXzdscWNMQXFta19wSUxlZFBBdGtzTlBlczcwUHZJMEoxWWdiZjRG?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "苏高新担保获评全省再担保体系合作机构优秀等次 - 新华网江苏频道"
-    },
-    {
-      "event": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网",
-      "published": "2026-11-02T02:37:01+00:00",
+      "event": "习近平同阿曼苏丹海赛姆会谈 - 新华网",
+      "published": "2026-11-02T05:36:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpQlh0SDdwbFRmOWlQUFNOR01hYVFiQ0dSX2JGZl92bDh5WkZfMzVIdnVYb0dxT1hCTmxKX0QwM1Q4Tlo0UVY4ejhxRGhQWThDX2NwMzk0WXZ2UkM5c3BSNjVYd0wzTlFsaUVrMmpNUVhZRzFwNHZ1djJ6VVZrUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLa1dNb2dxbnYxWHFSVFQ5TEp3bHVLUjhSV0RYOTVQT1MzQ21iNGhpckVGb2RINy1LMUpJdEozSmJnMmZuVWlKeWw5dkNteHF1SC1XYU1BVUxDUE9jbldIamRORDMtZTVYM0VlNVpwRXdIc0pNYmV2T0EzbEd3c0E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "贵州省黔南州政协原党组书记、主席瓦标龙被开除党籍和公职 - 新华网"
-    },
-    {
-      "event": "河北省邢台市委书记杨猛接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-02T02:36:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReGFWZkFfSnZSU2NpWlItd2V6eFJQRXJ0SFZWVkR6Tl80M3RIY0VUU1BDZWxxNVV0QzFxTV93T0daNkdGWGZxYUtzU0E4dmlWZWdMVGVhT2hidEdJQU1VZVN1YVJYbEtXVkp0cG1wSWtCc0VQcnpfMjZwZnpQdGM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "河北省邢台市委书记杨猛接受纪律审查和监察调查 - 新华网"
+      "originalTitle": "习近平同阿曼苏丹海赛姆会谈 - 新华网"
     },
     {
       "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-02T02:31:28+00:00",
+      "published": "2026-11-02T05:27:04+00:00",
       "publisher": "上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
-    },
-    {
-      "event": "江苏苏州：高质量党建赋能高质量发展 - 新华网",
-      "published": "2026-11-02T02:30:09+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3QXVON0liN3dQeWhja2RPQ2xScFotUEk1anpuVWwxel9DT0tUU0JfZnpnUWM0aXdsOTFGRlZMeTd6amNmNWItZFJHMGZFWkRaWXk1UmV3NHNLR3ZWMC1lenZFanJaazYwYWZlT3NlUGN3X19IU3c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "江苏苏州：高质量党建赋能高质量发展 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +557,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
