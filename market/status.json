@@ -1,7 +1,7 @@
 {
   "schema": "market_status_v1",
-  "checked_at_bjt": "2026-11-02T10:13:26+08:00",
-  "phase_by_clock": "possible_trading_session",
+  "checked_at_bjt": "2026-11-02T17:21:27+08:00",
+  "phase_by_clock": "outside_session",
   "health": "ok",
   "good_quote_count": 13,
   "total_symbols": 13,
