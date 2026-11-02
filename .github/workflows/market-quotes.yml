@@ -1,0 +1,80 @@
+name: Market quote snapshots (free sources)
+
+on:
+  # UTC 01:02-07:57 = Beijing 09:02-15:57, Monday-Friday.
+  # The collector identifies market hours and rejects stale or future quote timestamps.
+  # Offset away from :00 to reduce scheduler contention; GitHub timing is best-effort.
+  schedule:
+    - cron: "2-57/5 1-7 * * 1-5"
+  # Allows a fresh snapshot on request by changing market/refresh-request.txt.
+  push:
+    branches: [main]
+    paths:
+      - scripts/market_quotes.py
+      - scripts/test_market_quotes.py
+      - .github/workflows/market-quotes.yml
+      - market/refresh-request.txt
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-quote-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Offline parser and stale-data regression tests
+        run: |
+          python -m compileall -q scripts/market_quotes.py scripts/test_market_quotes.py
+          python -m unittest scripts.test_market_quotes -v
+      - name: Query both providers with explicit status
+        id: quotes
+        shell: bash
+        run: |
+          set +e
+          python scripts/market_quotes.py
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Persist last good prices and attempt health
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A market/
+          if git diff --cached --quiet; then
+            echo "No market snapshot changes"
+            exit 0
+          fi
+          git commit -m "Market quote snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict; not overwriting concurrent updates"
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "Market data push failed after 4 safe attempts" >&2
+              exit 1
+            fi
+            sleep 3
+          done
+      - name: Report complete source outage as workflow failure
+        if: steps.quotes.outputs.exit_code != '0'
+        run: |
+          echo "::error::Both price sources failed: see market/status.json; prior prices are not updated."
+          exit 1
