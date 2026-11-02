@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 08:40",
+  "date": "更新于北京时间 2026-11-02 09:48",
   "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T08:40:22+08:00",
+  "updatedAt": "2026-11-02T09:48:44+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -193,22 +193,6 @@
         },
         {
           "type": "explainer",
-          "title": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-02T08:10:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：•高争民爆11月2日开市起复牌，拟通过发行股份方式购买西藏紫源铜业有限公司51%股权、西藏晟源矿业有限责任公司100%股权。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/822005"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
           "summary": "",
           "paragraphs": [
@@ -245,72 +229,58 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-02T07:18:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：据OpenRouter最新测算，截至11月1日，中国大模型周调用量已连续27周稳居全球首位；海光信息、寒武纪等国产芯片龙头最新披露的三季度“成绩单”，成为国产算力商业化落地提速的生动注脚。在行业“开花结果”的背后，离不开IP核这一“幕后英雄"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/821976"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
+          "title": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T00:01:40+00:00；来源：新华网。",
+            "发布时间：2026-11-02T01:44:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
+          "title": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T23:54:10+00:00；来源：新华网。",
+            "发布时间：2026-11-02T01:40:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
+          "title": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T23:50:45+00:00；来源：新华网。",
+            "发布时间：2026-11-02T01:35:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "两种珍稀猴类连续5年同树共栖 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-01T23:42:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5"
             }
           ]
         },
@@ -319,13 +289,43 @@
           "title": "2026年11月02日 电子报 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-01T23:36:44+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-11-02T01:33:17+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "摄影图集：秋粮收获金秋时 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T01:28:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-02T01:27:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5"
             }
           ]
         }
@@ -383,21 +383,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-10-30"
@@ -408,9 +393,19 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-29"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-10-30"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -418,14 +413,14 @@
       "asOf": "2026-10-29"
     },
     {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-29"
+    },
+    {
       "title": "本周，美股将迎多重考验",
       "url": "https://www.cnstock.com/commonDetail/822013",
       "asOf": "2026-11-02T08:28:00+08:00"
-    },
-    {
-      "title": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
-      "url": "https://www.cnstock.com/commonDetail/822005",
-      "asOf": "2026-11-02T08:10:00+08:00"
     },
     {
       "title": "市场调整已较充分 机构建议均衡配置弹性资产与防御底仓",
@@ -443,29 +438,34 @@
       "asOf": "2026-11-02T07:18:00+08:00"
     },
     {
-      "title": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
-      "asOf": "2026-11-02T00:01:40+00:00"
+      "title": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5",
+      "asOf": "2026-11-02T01:44:21+00:00"
     },
     {
-      "title": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5",
-      "asOf": "2026-11-01T23:54:10+00:00"
+      "title": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5",
+      "asOf": "2026-11-02T01:40:40+00:00"
     },
     {
-      "title": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5",
-      "asOf": "2026-11-01T23:50:45+00:00"
-    },
-    {
-      "title": "两种珍稀猴类连续5年同树共栖 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5",
-      "asOf": "2026-11-01T23:42:23+00:00"
+      "title": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5",
+      "asOf": "2026-11-02T01:35:43+00:00"
     },
     {
       "title": "2026年11月02日 电子报 - 上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-01T23:36:44+00:00"
+      "asOf": "2026-11-02T01:33:17+00:00"
+    },
+    {
+      "title": "摄影图集：秋粮收获金秋时 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5",
+      "asOf": "2026-11-02T01:28:37+00:00"
+    },
+    {
+      "title": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5",
+      "asOf": "2026-11-02T01:27:41+00:00"
     }
   ],
   "events": [
@@ -478,25 +478,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822013",
-        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
         "sha256": "562572f9877c221e7530ecadacca8a65fcfd1fb3d57d2b0a1f3dab7315fa5345",
         "paragraphCount": 10,
         "excerpt": "上证报中国证券网讯 在科技股遭遇集中抛售之后，美股将在本周迎来一系列重要考验。美国中期选举将于11月3日举行，市场密切关注其可能引发的市场波动。"
-      }
-    },
-    {
-      "event": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
-      "originalTitle": "上证早知道｜688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元",
-      "published": "2026-11-02T08:10:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822005",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/822005",
-        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
-        "sha256": "f4958436a360926e2ebb5cce3153d25ba923bc431ee8bf06b24e3ef6da39230b",
-        "paragraphCount": 28,
-        "excerpt": "•高争民爆11月2日开市起复牌，拟通过发行股份方式购买西藏紫源铜业有限公司51%股权、西藏晟源矿业有限责任公司100%股权。"
       }
     },
     {
@@ -508,7 +493,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822007",
-        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
         "sha256": "eb82e47c1f8f3b5c84b9b009832cd2c195f30d8651df080e0331fb68d998d92f",
         "paragraphCount": 16,
         "excerpt": "过去一周，主要指数普遍承压，市场的核心关切集中于：本轮调整是否已足够充分？本周券商策略展望报告认为，海外AI产业链龙头业绩低于预期等因素交织，导致市场寻底进程有所加速。部分研报认为，站在当前位置，市场调整已较充分，支撑A股超跌修复的资金面条"
@@ -523,7 +508,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/822006",
-        "retrievedAt": "2026-11-02T08:40:22.573828+08:00",
+        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
         "sha256": "7464f7ce69e3b7103a049f7dd0e6a653f6ccaf52b77f82fa1b8cbf0562f07f40",
         "paragraphCount": 4,
         "excerpt": "10月30日，上交所发布《关于资产支持证券开展集中簿记建档发行有关事项的通知》，明确资产支持证券簿记发行功能模块（下称“ABS簿记模块”）将于11月2日正式上线运行。自该日起，在上交所簿记发行的ABS原则上应当统一使用该系统完成发行定价。与"
@@ -535,47 +520,62 @@
       "published": "2026-11-02T07:18:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/821976",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/821976",
+        "retrievedAt": "2026-11-02T09:48:44.772635+08:00",
+        "sha256": "afae8c365f365664dfeec4a9247c0549bf4ab29eaf85db4b361bd058a80312e7",
+        "paragraphCount": 20,
+        "excerpt": "据OpenRouter最新测算，截至11月1日，中国大模型周调用量已连续27周稳居全球首位；海光信息、寒武纪等国产芯片龙头最新披露的三季度“成绩单”，成为国产算力商业化落地提速的生动注脚。在行业“开花结果”的背后，离不开IP核这一“幕后英雄"
+      }
     },
     {
-      "event": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网",
-      "published": "2026-11-02T00:01:40+00:00",
+      "event": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网",
+      "published": "2026-11-02T01:44:21+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemR4TG9sa3lOY1NQYXN5cTRJOUtqUjl4UVdtSlZ6UmJDV1d6RnBqVnBnaGtodWR5dmdkV2NKcVltOXFsLWl6WTlzZzJvai0tRklfS3lSeWJ3Q1BXQTE0WElwWFd1TjY5TjEyS09kT3RBRkdaenIwWU43cWppWlZtRFJYNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yejU0UDh4MTlZa2wzTEE5S3JEUXpOVjFTQUtGZVpxTnNLb3dscU16UUFFUXYwRmZlRk1xTDRKZFYzWGlBODZkcUhOVzVNSG42YjN5TWR6dkNQYTRDREpMeF8ydlRlNUprTDhhVkxfU0dvblNWVnVBM2FTbUtSa2s?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026年“全国十佳新闻工作者”名单揭晓 - 新华网"
+      "originalTitle": "新华社权威快报丨可再生能源法修订草案提请审议 - 新华网"
     },
     {
-      "event": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网",
-      "published": "2026-11-01T23:54:10+00:00",
+      "event": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网",
+      "published": "2026-11-02T01:40:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU3I3eE5VNE5rbFdtWXptSTVGR2xFbmlPbEF6ZGNXbHNlN3dSb1kzYi15UnJaaHd4WWpWRkRieVhYdFROV0RwZnhLVzhMWmZwU0hRT3hOZ1o3WFMyNDZlQTF1WGs5RDRnNDhnU016NGowM3ZQa2M1NXpRZm5zLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Szl5VDA2YllTMmx5a09hWlRlTDlGeUdLbHdkSEM3YXNPZUh3ZmZnRkh4TXRWLW9WOURoNE9wR3BQZnc3X1hmTjBfY1JLcVZKdGdHc1QyWHY0SjhqS285NG54TnlRVGl2OHlQVm13dDZpaWItME5N?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美一架飞机在居民区坠毁 机上9人死亡地面约600人需疏散 - 新华网"
+      "originalTitle": "人大常委会丨反跨境腐败法草案二审稿充实反跨境腐败工作原则 - 新华网"
     },
     {
-      "event": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网",
-      "published": "2026-11-01T23:50:45+00:00",
+      "event": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网",
+      "published": "2026-11-02T01:35:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDMtUGZULUJvdHNfcVlDdGFncXdFRVZJbnl5WFEwWC1mOE5SZVBEOXdMQW4zLV95OWxnZ3BfRC03M1hHTjJDX1NFRjJmU3hsdzNscXZuejRGRjc3OWEybTd5YUFNaE02Nl9iUlh3YVRWSWRRbnd3c3VfVnpnUVdPdmd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10amtSWHh0QW9BSWJyZi1YVmFXZzdSZzdOUnZ3RUo3MjJiZ205X2s1bXcxSlV1NS1RM1k5a3J3NXhCQ2o2T0ZKNVVZcFlzTTY5dnZwZ29wNWh6Z29IWm5TWWFGeVAwdFlySG4yaDg3eFlBMmZ4V2NNLUMyaDEwS2c?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "外媒关注中国算力基础设施发展——中国“算” 就是行 - 新华网"
-    },
-    {
-      "event": "两种珍稀猴类连续5年同树共栖 - 新华网",
-      "published": "2026-11-01T23:42:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmViejZ0akl0OHhDMmF4TmUxbl85Ni16UklwTEh3ZlVSZEYyb1MxcU03Y1B4b2JwWjZYb3dPSjdwbVhQXzFZRnMzSEVqRTU3SWxqVXNpbGI1RzktZkktdlkzRk50MUNSZ3lDbjZxOEN1RDRWdFVqOW9EallTT1pQOGFYUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "两种珍稀猴类连续5年同树共栖 - 新华网"
+      "originalTitle": "新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正 - 新华网"
     },
     {
       "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-01T23:36:44+00:00",
+      "published": "2026-11-02T01:33:17+00:00",
       "publisher": "上海证券报电子版",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
+    },
+    {
+      "event": "摄影图集：秋粮收获金秋时 - 新华网",
+      "published": "2026-11-02T01:28:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNXNBUjVQVk54Mk9GMk9FTmVFbFY4X2g0WnRhQXdMUTI0ZEl5ckRMZDdHMFRTR3h5WXpaeFlVSXV2ZmlHYzBWQ3RleHBiMVMteV9kR3NfZ3dKSm82bUJFQ0sxbm1EVHV4MEx2enpPRzkyMDF0UlVHNWVKYlI?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "摄影图集：秋粮收获金秋时 - 新华网"
+    },
+    {
+      "event": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网",
+      "published": "2026-11-02T01:27:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZYREJaNW5sc1JEdklkYXNTd0ZMVHhsUm1BVWJsZjJWenBJZU9JT1FqZXZLcDNnV3BSZWVhZHpGQ1lfdjJyVHdkNW1GUkdzLUgzQ25LVkhEMmtfMWl2dVl6S2FfNHVZUHJNc0lQcUthM0xpdktCbjNNaXNvSVRWbA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国队遭巴西队逆转 无缘U17女足世界杯四强 - 新华网"
     }
   ],
   "quality": {
@@ -588,8 +588,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
