@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-03",
-  "date": "更新于北京时间 2026-11-03 15:12",
+  "date": "更新于北京时间 2026-11-03 15:53",
   "reportDate": "2026-11-03",
-  "updatedAt": "2026-11-03T15:12:54+08:00",
+  "updatedAt": "2026-11-03T15:53:37+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -211,11 +211,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-03T12:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 到“十五五”末，新兴支柱产业的产值有望翻一番，达到10万亿元以上，成为支撑经济高质量发展的重要力量。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/822949"
             }
           ]
@@ -297,31 +298,31 @@
         },
         {
           "type": "explainer",
-          "title": "电科金仓发布KES AI数据库，让大模型看懂私有数据 - 新华网",
+          "title": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T07:03:24+00:00；来源：新华网。",
+            "发布时间：2026-11-03T07:30:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kekh4VjdfbFo1SVF4djNTMmRrUkhQNHV4MjYtVWdjdTZmU2h1eFdseHNfTm9kb213YzVtV0F3LUZFMWkxbVJGcG9NaEtfcnFUcWtLdDFWVEVLQ0hvcFhHVWZkTzBvUmxLZGdWNUs4MG5OZF9OTllta2FCamo?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "星空相册丨“火木伴月”现身天宇 - 新华网",
+          "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T06:59:17+00:00；来源：新华网。",
+            "发布时间：2026-11-03T07:09:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS0tDTEFEMTY3Y1pmZGpheXkyRlFYdHhnRHNsT2lVWFFXUFZsbFpCSm9QMldYblRkQUdzTVp5NWpUMS02N2lGNUtZWndhYlhfazYyM24zamE0TUFyZlFEdGVrbDM5ZXNGOVdnTHoxVklaX1pqRWF3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5"
             }
           ]
         }
@@ -379,6 +380,11 @@
   ],
   "sources": [
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-02"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-02"
@@ -386,11 +392,6 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-02"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-02"
     },
     {
@@ -404,13 +405,13 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-30"
     },
     {
@@ -454,14 +455,14 @@
       "asOf": "2026-11-03T08:50:00+08:00"
     },
     {
-      "title": "电科金仓发布KES AI数据库，让大模型看懂私有数据 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kekh4VjdfbFo1SVF4djNTMmRrUkhQNHV4MjYtVWdjdTZmU2h1eFdseHNfTm9kb213YzVtV0F3LUZFMWkxbVJGcG9NaEtfcnFUcWtLdDFWVEVLQ0hvcFhHVWZkTzBvUmxLZGdWNUs4MG5OZF9OTllta2FCamo?oc=5",
-      "asOf": "2026-11-03T07:03:24+00:00"
+      "title": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
+      "asOf": "2026-11-03T07:30:18+00:00"
     },
     {
-      "title": "星空相册丨“火木伴月”现身天宇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS0tDTEFEMTY3Y1pmZGpheXkyRlFYdHhnRHNsT2lVWFFXUFZsbFpCSm9QMldYblRkQUdzTVp5NWpUMS02N2lGNUtZWndhYlhfazYyM24zamE0TUFyZlFEdGVrbDM5ZXNGOVdnTHoxVklaX1pqRWF3?oc=5",
-      "asOf": "2026-11-03T06:59:17+00:00"
+      "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5",
+      "asOf": "2026-11-03T07:09:47+00:00"
     }
   ],
   "events": [
@@ -487,7 +488,14 @@
       "published": "2026-11-03T12:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/822949",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/822949",
+        "retrievedAt": "2026-11-03T15:53:37.293937+08:00",
+        "sha256": "f5298b673cfdf2905f6f856320e331e83959950ae4b2f083474a59723b3c28ff",
+        "paragraphCount": 12,
+        "excerpt": "上证报中国证券网讯 到“十五五”末，新兴支柱产业的产值有望翻一番，达到10万亿元以上，成为支撑经济高质量发展的重要力量。"
+      }
     },
     {
       "event": "央行出手！人民币汇率直线回落",
@@ -530,20 +538,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "电科金仓发布KES AI数据库，让大模型看懂私有数据 - 新华网",
-      "published": "2026-11-03T07:03:24+00:00",
+      "event": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
+      "published": "2026-11-03T07:30:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kekh4VjdfbFo1SVF4djNTMmRrUkhQNHV4MjYtVWdjdTZmU2h1eFdseHNfTm9kb213YzVtV0F3LUZFMWkxbVJGcG9NaEtfcnFUcWtLdDFWVEVLQ0hvcFhHVWZkTzBvUmxLZGdWNUs4MG5OZF9OTllta2FCamo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "电科金仓发布KES AI数据库，让大模型看懂私有数据 - 新华网"
+      "originalTitle": "美媒：佛州坠机事故遇难者身份已确认 - 新华网"
     },
     {
-      "event": "星空相册丨“火木伴月”现身天宇 - 新华网",
-      "published": "2026-11-03T06:59:17+00:00",
+      "event": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
+      "published": "2026-11-03T07:09:47+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS0tDTEFEMTY3Y1pmZGpheXkyRlFYdHhnRHNsT2lVWFFXUFZsbFpCSm9QMldYblRkQUdzTVp5NWpUMS02N2lGNUtZWndhYlhfazYyM24zamE0TUFyZlFEdGVrbDM5ZXNGOVdnTHoxVklaX1pqRWF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "星空相册丨“火木伴月”现身天宇 - 新华网"
+      "originalTitle": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +565,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
