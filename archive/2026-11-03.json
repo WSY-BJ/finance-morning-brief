@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-03",
-  "date": "更新于北京时间 2026-11-03 14:32",
+  "date": "更新于北京时间 2026-11-03 14:48",
   "reportDate": "2026-11-03",
-  "updatedAt": "2026-11-03T14:32:12+08:00",
+  "updatedAt": "2026-11-03T14:48:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -297,31 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
+          "title": "伊朗称俘获2架美军侦察无人机 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T05:53:52+00:00；来源：新华网。",
+            "发布时间：2026-11-03T06:33:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSlpLZmxSaDFlNWFsZHBiZm14bHF1UmJmTWp6OXg0SklVX3EzUk5oUmdCMFBxcFpVN2FVMXRuNHhnNEU5NmJUTkhmYi1HOWJEOGEzeVJZUDB3b25KVXBqaWo5NjRZWUtCVGRTM0hZdTN4X2tULTJvcUEyendPR00?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
+          "title": "伊朗格什姆岛传出爆炸声 美方称摧毁伊朗导弹发射器 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T05:49:49+00:00；来源：新华网。",
+            "发布时间：2026-11-03T06:33:11+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUU1YenVwUmJOWjNBemgtMUxSM3ZSOU90X3Fkb0t0VjlXd1BuYkNpYVcwOEpJd0M3bVVnbERvRTJkMDZDQjJHNjJpaVFyWXdTWDhUbjdBUnk3Smhld0tQdzJ1UUROZENiMDNEcUdpa21mdXRET0hacnViNDhhN2s?oc=5"
             }
           ]
         }
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-02"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-02"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-02"
     },
     {
@@ -399,18 +389,28 @@
       "asOf": "2026-11-02"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-02"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-02"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-10-30"
     },
     {
@@ -454,14 +454,14 @@
       "asOf": "2026-11-03T08:50:00+08:00"
     },
     {
-      "title": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5",
-      "asOf": "2026-11-03T05:53:52+00:00"
+      "title": "伊朗称俘获2架美军侦察无人机 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSlpLZmxSaDFlNWFsZHBiZm14bHF1UmJmTWp6OXg0SklVX3EzUk5oUmdCMFBxcFpVN2FVMXRuNHhnNEU5NmJUTkhmYi1HOWJEOGEzeVJZUDB3b25KVXBqaWo5NjRZWUtCVGRTM0hZdTN4X2tULTJvcUEyendPR00?oc=5",
+      "asOf": "2026-11-03T06:33:14+00:00"
     },
     {
-      "title": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5",
-      "asOf": "2026-11-03T05:49:49+00:00"
+      "title": "伊朗格什姆岛传出爆炸声 美方称摧毁伊朗导弹发射器 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUU1YenVwUmJOWjNBemgtMUxSM3ZSOU90X3Fkb0t0VjlXd1BuYkNpYVcwOEpJd0M3bVVnbERvRTJkMDZDQjJHNjJpaVFyWXdTWDhUbjdBUnk3Smhld0tQdzJ1UUROZENiMDNEcUdpa21mdXRET0hacnViNDhhN2s?oc=5",
+      "asOf": "2026-11-03T06:33:11+00:00"
     }
   ],
   "events": [
@@ -530,20 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
-      "published": "2026-11-03T05:53:52+00:00",
+      "event": "伊朗称俘获2架美军侦察无人机 - 新华网",
+      "published": "2026-11-03T06:33:14+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSlpLZmxSaDFlNWFsZHBiZm14bHF1UmJmTWp6OXg0SklVX3EzUk5oUmdCMFBxcFpVN2FVMXRuNHhnNEU5NmJUTkhmYi1HOWJEOGEzeVJZUDB3b25KVXBqaWo5NjRZWUtCVGRTM0hZdTN4X2tULTJvcUEyendPR00?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网"
+      "originalTitle": "伊朗称俘获2架美军侦察无人机 - 新华网"
     },
     {
-      "event": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
-      "published": "2026-11-03T05:49:49+00:00",
+      "event": "伊朗格什姆岛传出爆炸声 美方称摧毁伊朗导弹发射器 - 新华网",
+      "published": "2026-11-03T06:33:11+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUU1YenVwUmJOWjNBemgtMUxSM3ZSOU90X3Fkb0t0VjlXd1BuYkNpYVcwOEpJd0M3bVVnbERvRTJkMDZDQjJHNjJpaVFyWXdTWDhUbjdBUnk3Smhld0tQdzJ1UUROZENiMDNEcUdpa21mdXRET0hacnViNDhhN2s?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网"
+      "originalTitle": "伊朗格什姆岛传出爆炸声 美方称摧毁伊朗导弹发射器 - 新华网"
     }
   ],
   "quality": {
