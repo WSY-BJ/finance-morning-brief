@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-02",
-  "date": "更新于北京时间 2026-11-02 20:25",
-  "reportDate": "2026-11-02",
-  "updatedAt": "2026-11-02T20:25:43+08:00",
+  "edition": "财经晨报 · 2026-11-03",
+  "date": "更新于北京时间 2026-11-03 08:35",
+  "reportDate": "2026-11-03",
+  "updatedAt": "2026-11-03T08:35:48+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-02 财经资料（待核验）",
+    "title": "2026-11-03 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-10-29：4.98 %；较 2026-10-28 变化 -0.07 个百分点。",
+          "summary": "2026-10-30：4.94 %；较 2026-10-29 变化 -0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 -0.06 个百分点",
+          "summary": "4.56 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 4.67（2026-10-28）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-30；前值 4.61（2026-10-29）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 -0.07 个百分点",
+          "summary": "4.94 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-10-29；前值 5.05（2026-10-28）；来源：FRED / 原始发布机构。"
+            "观测日 2026-10-30；前值 4.98（2026-10-29）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6610 人民币/美元；变化 -0.0050 人民币/美元",
+          "summary": "6.6610 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-10-30；前值 6.6660（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 6.6610（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "交大铁发：已斥资约1382.93万元回购约124.17万股股份",
+          "title": "2026年11月03日第52版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T18:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822163"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qLWFWYm4ySTZ2NlQ3NjZSREUtc1pYdGtEWS1iNEdVbGE4UmVvTXZCZURLeU9hNWVTRmt4ZF95ZkRRVms5Zktya0h4cDNFZDZxUlJia0xjeFVHNU1HMkhBTlplYw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
+          "title": "2026年11月03日第43版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T17:13:00+08:00；来源：新华社。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822214"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeGxHcm9OVk11SVBtdkNkZHppOVBMOTFLVUlvdUN4Qk9ueWFTSkRvRkNXWXNsWHljeVR1OV8tNkNmZDFFNnhObXRKbU1oYlJLUkQ2M0N4S2lqWVUzc3pXYl9rWQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "稳市场，央行明日出手",
+          "title": "2026年11月03日第46版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T15:58:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822145"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNGpjWEZ2b09ZVHY5X2xzNjNlU2dVekxJTmNHNjRhTklKU1A5aXBCMXFpbkNWaFFzOEtwQ0xQam5fUkNyQ2p3NUxlT1ZDTjYxMkgzT0UtSWJvczhwRWQ1bUxvOA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
+          "title": "2026年11月03日第50版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T13:17:00+08:00；来源：新华社。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822085"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NTV9OWU1zY0s0TXhDOTAyQXdROXRBMnBLdDVlX25TaENMWGsyaWt3RTc4T1VXT3BZdEJfT2U0MW5lUFFRYjRLMmZBRldkZTg2MFVxaFRLLThOVHpZc1dOVkk2RQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "人大常委会 | 国有资产法草案二审稿完善多项规定",
+          "title": "2026年11月03日第51版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T13:16:00+08:00；来源：新华社。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822083"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNjFTaUkwcFNNcTZFVHlSZmtrSW1Idk5fZkJIRzZrWDBqRHlEUzB3TGtIVWYxbXZmNGF6MGNFanJjV082bXdPSkR4RS1JS3Uyay02VFcyaHF6cXZ5MG16VUdGOA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026年11月02日 电子报 - 上海证券报电子版",
+          "title": "2026年11月03日第63版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T12:17:51+00:00；来源：上海证券报电子版。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsNlkzSk5Fb0Zzd0dFdDRIVlVOSk9kUmRQdkI3eFJEc2l4NVp2Zm85ODJyXzFlelpidUZka1NsS1M1OUIxS3F3NjB6bVFTOWxiandYX0V2amJ6LUZDeXQ0RlF2UQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "全球治理倡议为完善外空国际治理贡献中国方案 - 新华网",
+          "title": "2026年11月03日第38版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T11:56:18+00:00；来源：新华网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWY0NhVXVybkI5TUZLUTYyaDlPcF81dEFzdHkwS2N5WUpoUGlQdTNJM2ZxVVBXdHhoQzhOYkY0ajU4cnhzVzhHNHM4NUs4SzlRZXF1U1RmVHlsZU9aVjk4X3ZBMktiSmszNEdjM0dxTlc0R1hVa1FMMGc1UjdaNHM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0NDdmNkdjbnBnLUUyUks3amF6UGgzME8yWnlqOG9DT1NyRTBQSnQxbW9fYlhXRW9pZXQ1bmtHZmtDYmVvYS1pa1pzSEx2RFhVZmRSR2xFYUNuaXA3V3VuTlZDVQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "香港金融科技周2026开幕 聚焦金融赋能 - 新华网",
+          "title": "2026年11月03日第64版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T11:56:15+00:00；来源：新华网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblZsMkxHbDVwOGl6dUpjMFprbGRnSEs0cms3MXlMT2tWVTA5cHJNMzI4Qk5WSTdBeFlkT3NJMmQ4UjVJUi04R2I5SVNZRjhpWDg0X1FCZVpwcGI0Sm1mQ3dHelZ3X3lBRkIzZFRaSkt0SDdSalJ2ei1DODl4V2MzWA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96R0pFaVhfeTR0dUNuNXhxdEp3NlJKeDBnOVhSRHAwVElfR1BuaFl4cWZoT3NNVERsdXdTSzA3ZEpQSGVrTTVENlNhbmRsRlowb2x2Qzl2N3dIblBZNUF4dkFrWQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "比利时首相因预算谈判破裂递交辞呈 国王暂缓决定 - 新华网",
+          "title": "2026年11月03日第37版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T11:50:53+00:00；来源：新华网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc3Bsb3I1Q2t0RU51RlRPYVFBd0tHNVpOZ1hZS0FVZ2w2S2dqY2NhVW5hSklmeWVrV1VlQkJOUGdqUnVxODcwWDFabHVyWHdFeG01eUlLUXluWnFnMGJPcDVLWGJiQjJoS3cxbW1TRm90aUl6UmdKcEJQaGZ4Vnc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03RXQyaXQ1UUxvS1FrZFhzRVNWbFY3VUgyam02SmFVVjhXMVN2TGFkYVJmcjVhR1BVamZSRktoNXM0bXRIN0tYajNvZE1MWFdHaVNqdUcza2tCalYzaElxSXAtaw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级 - 新华网",
+          "title": "2026年11月03日第42版：信息披露 - 上海证券报电子版",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-02T11:41:49+00:00；来源：新华网。",
+            "发布时间：2026-11-03T00:13:46+00:00；来源：上海证券报电子版。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjh1U2pCYlIxTUVsSERBSTA1N25nYXNFXzY2TFpvRlV6MGota0c5c1JTeU9yeFRFOXFXT19xcW80Um5fVncyU1dQOV9TZ0RXTVFzYU01akVTYnNlLUNRdFF5MnAyclRWOFdqekJvbmFzRklwWjJYVFRzMnRwZlJSNHJVdVFvd3puZmpJWklR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nZE5EdTdneTUwcXRURTdkVGE2V0lBZVBHSWw4ck5TZnY3cWFPY0ZZQkZzQ1VETTc5RFliSlBMVmRMRkFSeWc4V04zVGVNdGV6NUY4d0Y1QTA1bE5wTUxnME4wVQ?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 25 课：情景分析",
+      "title": "第 26 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,18 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-02"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-30"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-10-30"
     },
     {
@@ -399,151 +394,156 @@
       "asOf": "2026-10-30"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-10-30"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-10-30"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-10-29"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
-      "title": "交大铁发：已斥资约1382.93万元回购约124.17万股股份",
-      "url": "https://www.cnstock.com/commonDetail/822163",
-      "asOf": "2026-11-02T18:33:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-10-30"
     },
     {
-      "title": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
-      "url": "https://www.cnstock.com/commonDetail/822214",
-      "asOf": "2026-11-02T17:13:00+08:00"
+      "title": "2026年11月03日第52版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qLWFWYm4ySTZ2NlQ3NjZSREUtc1pYdGtEWS1iNEdVbGE4UmVvTXZCZURLeU9hNWVTRmt4ZF95ZkRRVms5Zktya0h4cDNFZDZxUlJia0xjeFVHNU1HMkhBTlplYw?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "稳市场，央行明日出手",
-      "url": "https://www.cnstock.com/commonDetail/822145",
-      "asOf": "2026-11-02T15:58:00+08:00"
+      "title": "2026年11月03日第43版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeGxHcm9OVk11SVBtdkNkZHppOVBMOTFLVUlvdUN4Qk9ueWFTSkRvRkNXWXNsWHljeVR1OV8tNkNmZDFFNnhObXRKbU1oYlJLUkQ2M0N4S2lqWVUzc3pXYl9rWQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
-      "url": "https://www.cnstock.com/commonDetail/822085",
-      "asOf": "2026-11-02T13:17:00+08:00"
+      "title": "2026年11月03日第46版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNGpjWEZ2b09ZVHY5X2xzNjNlU2dVekxJTmNHNjRhTklKU1A5aXBCMXFpbkNWaFFzOEtwQ0xQam5fUkNyQ2p3NUxlT1ZDTjYxMkgzT0UtSWJvczhwRWQ1bUxvOA?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "人大常委会 | 国有资产法草案二审稿完善多项规定",
-      "url": "https://www.cnstock.com/commonDetail/822083",
-      "asOf": "2026-11-02T13:16:00+08:00"
+      "title": "2026年11月03日第50版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NTV9OWU1zY0s0TXhDOTAyQXdROXRBMnBLdDVlX25TaENMWGsyaWt3RTc4T1VXT3BZdEJfT2U0MW5lUFFRYjRLMmZBRldkZTg2MFVxaFRLLThOVHpZc1dOVkk2RQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "2026年11月02日 电子报 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
-      "asOf": "2026-11-02T12:17:51+00:00"
+      "title": "2026年11月03日第51版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNjFTaUkwcFNNcTZFVHlSZmtrSW1Idk5fZkJIRzZrWDBqRHlEUzB3TGtIVWYxbXZmNGF6MGNFanJjV082bXdPSkR4RS1JS3Uyay02VFcyaHF6cXZ5MG16VUdGOA?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "全球治理倡议为完善外空国际治理贡献中国方案 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWY0NhVXVybkI5TUZLUTYyaDlPcF81dEFzdHkwS2N5WUpoUGlQdTNJM2ZxVVBXdHhoQzhOYkY0ajU4cnhzVzhHNHM4NUs4SzlRZXF1U1RmVHlsZU9aVjk4X3ZBMktiSmszNEdjM0dxTlc0R1hVa1FMMGc1UjdaNHM?oc=5",
-      "asOf": "2026-11-02T11:56:18+00:00"
+      "title": "2026年11月03日第63版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsNlkzSk5Fb0Zzd0dFdDRIVlVOSk9kUmRQdkI3eFJEc2l4NVp2Zm85ODJyXzFlelpidUZka1NsS1M1OUIxS3F3NjB6bVFTOWxiandYX0V2amJ6LUZDeXQ0RlF2UQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "香港金融科技周2026开幕 聚焦金融赋能 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblZsMkxHbDVwOGl6dUpjMFprbGRnSEs0cms3MXlMT2tWVTA5cHJNMzI4Qk5WSTdBeFlkT3NJMmQ4UjVJUi04R2I5SVNZRjhpWDg0X1FCZVpwcGI0Sm1mQ3dHelZ3X3lBRkIzZFRaSkt0SDdSalJ2ei1DODl4V2MzWA?oc=5",
-      "asOf": "2026-11-02T11:56:15+00:00"
+      "title": "2026年11月03日第38版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0NDdmNkdjbnBnLUUyUks3amF6UGgzME8yWnlqOG9DT1NyRTBQSnQxbW9fYlhXRW9pZXQ1bmtHZmtDYmVvYS1pa1pzSEx2RFhVZmRSR2xFYUNuaXA3V3VuTlZDVQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "比利时首相因预算谈判破裂递交辞呈 国王暂缓决定 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc3Bsb3I1Q2t0RU51RlRPYVFBd0tHNVpOZ1hZS0FVZ2w2S2dqY2NhVW5hSklmeWVrV1VlQkJOUGdqUnVxODcwWDFabHVyWHdFeG01eUlLUXluWnFnMGJPcDVLWGJiQjJoS3cxbW1TRm90aUl6UmdKcEJQaGZ4Vnc?oc=5",
-      "asOf": "2026-11-02T11:50:53+00:00"
+      "title": "2026年11月03日第64版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96R0pFaVhfeTR0dUNuNXhxdEp3NlJKeDBnOVhSRHAwVElfR1BuaFl4cWZoT3NNVERsdXdTSzA3ZEpQSGVrTTVENlNhbmRsRlowb2x2Qzl2N3dIblBZNUF4dkFrWQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     },
     {
-      "title": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjh1U2pCYlIxTUVsSERBSTA1N25nYXNFXzY2TFpvRlV6MGota0c5c1JTeU9yeFRFOXFXT19xcW80Um5fVncyU1dQOV9TZ0RXTVFzYU01akVTYnNlLUNRdFF5MnAyclRWOFdqekJvbmFzRklwWjJYVFRzMnRwZlJSNHJVdVFvd3puZmpJWklR?oc=5",
-      "asOf": "2026-11-02T11:41:49+00:00"
+      "title": "2026年11月03日第37版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03RXQyaXQ1UUxvS1FrZFhzRVNWbFY3VUgyam02SmFVVjhXMVN2TGFkYVJmcjVhR1BVamZSRktoNXM0bXRIN0tYajNvZE1MWFdHaVNqdUcza2tCalYzaElxSXAtaw?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
+    },
+    {
+      "title": "2026年11月03日第42版：信息披露 - 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nZE5EdTdneTUwcXRURTdkVGE2V0lBZVBHSWw4ck5TZnY3cWFPY0ZZQkZzQ1VETTc5RFliSlBMVmRMRkFSeWc4V04zVGVNdGV6NUY4d0Y1QTA1bE5wTUxnME4wVQ?oc=5",
+      "asOf": "2026-11-03T00:13:46+00:00"
     }
   ],
   "events": [
     {
-      "event": "交大铁发：已斥资约1382.93万元回购约124.17万股股份",
-      "originalTitle": "交大铁发：已斥资约1382.93万元回购约124.17万股股份",
-      "published": "2026-11-02T18:33:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822163",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
-      "originalTitle": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
-      "published": "2026-11-02T17:13:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/822214",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "稳市场，央行明日出手",
-      "originalTitle": "稳市场，央行明日出手",
-      "published": "2026-11-02T15:58:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822145",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
-      "originalTitle": "人大常委会丨金融法草案二审稿充实金融消费者、投资者保护相关内容",
-      "published": "2026-11-02T13:17:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/822085",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "人大常委会 | 国有资产法草案二审稿完善多项规定",
-      "originalTitle": "人大常委会 | 国有资产法草案二审稿完善多项规定",
-      "published": "2026-11-02T13:16:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/822083",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "2026年11月02日 电子报 - 上海证券报电子版",
-      "published": "2026-11-02T12:17:51+00:00",
+      "event": "2026年11月03日第52版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
       "publisher": "上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02VFhTSy1OX2prVm1pRUtKUGRyZDl0SDJRSHVyVGpfamJfOWV4SHE5N2VYY0FtVnEwXzI0WExxYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qLWFWYm4ySTZ2NlQ3NjZSREUtc1pYdGtEWS1iNEdVbGE4UmVvTXZCZURLeU9hNWVTRmt4ZF95ZkRRVms5Zktya0h4cDNFZDZxUlJia0xjeFVHNU1HMkhBTlplYw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026年11月02日 电子报 - 上海证券报电子版"
+      "originalTitle": "2026年11月03日第52版：信息披露 - 上海证券报电子版"
     },
     {
-      "event": "全球治理倡议为完善外空国际治理贡献中国方案 - 新华网",
-      "published": "2026-11-02T11:56:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWY0NhVXVybkI5TUZLUTYyaDlPcF81dEFzdHkwS2N5WUpoUGlQdTNJM2ZxVVBXdHhoQzhOYkY0ajU4cnhzVzhHNHM4NUs4SzlRZXF1U1RmVHlsZU9aVjk4X3ZBMktiSmszNEdjM0dxTlc0R1hVa1FMMGc1UjdaNHM?oc=5",
+      "event": "2026年11月03日第43版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeGxHcm9OVk11SVBtdkNkZHppOVBMOTFLVUlvdUN4Qk9ueWFTSkRvRkNXWXNsWHljeVR1OV8tNkNmZDFFNnhObXRKbU1oYlJLUkQ2M0N4S2lqWVUzc3pXYl9rWQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "全球治理倡议为完善外空国际治理贡献中国方案 - 新华网"
+      "originalTitle": "2026年11月03日第43版：信息披露 - 上海证券报电子版"
     },
     {
-      "event": "香港金融科技周2026开幕 聚焦金融赋能 - 新华网",
-      "published": "2026-11-02T11:56:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblZsMkxHbDVwOGl6dUpjMFprbGRnSEs0cms3MXlMT2tWVTA5cHJNMzI4Qk5WSTdBeFlkT3NJMmQ4UjVJUi04R2I5SVNZRjhpWDg0X1FCZVpwcGI0Sm1mQ3dHelZ3X3lBRkIzZFRaSkt0SDdSalJ2ei1DODl4V2MzWA?oc=5",
+      "event": "2026年11月03日第46版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNGpjWEZ2b09ZVHY5X2xzNjNlU2dVekxJTmNHNjRhTklKU1A5aXBCMXFpbkNWaFFzOEtwQ0xQam5fUkNyQ2p3NUxlT1ZDTjYxMkgzT0UtSWJvczhwRWQ1bUxvOA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "香港金融科技周2026开幕 聚焦金融赋能 - 新华网"
+      "originalTitle": "2026年11月03日第46版：信息披露 - 上海证券报电子版"
     },
     {
-      "event": "比利时首相因预算谈判破裂递交辞呈 国王暂缓决定 - 新华网",
-      "published": "2026-11-02T11:50:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc3Bsb3I1Q2t0RU51RlRPYVFBd0tHNVpOZ1hZS0FVZ2w2S2dqY2NhVW5hSklmeWVrV1VlQkJOUGdqUnVxODcwWDFabHVyWHdFeG01eUlLUXluWnFnMGJPcDVLWGJiQjJoS3cxbW1TRm90aUl6UmdKcEJQaGZ4Vnc?oc=5",
+      "event": "2026年11月03日第50版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NTV9OWU1zY0s0TXhDOTAyQXdROXRBMnBLdDVlX25TaENMWGsyaWt3RTc4T1VXT3BZdEJfT2U0MW5lUFFRYjRLMmZBRldkZTg2MFVxaFRLLThOVHpZc1dOVkk2RQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "比利时首相因预算谈判破裂递交辞呈 国王暂缓决定 - 新华网"
+      "originalTitle": "2026年11月03日第50版：信息披露 - 上海证券报电子版"
     },
     {
-      "event": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级 - 新华网",
-      "published": "2026-11-02T11:41:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjh1U2pCYlIxTUVsSERBSTA1N25nYXNFXzY2TFpvRlV6MGota0c5c1JTeU9yeFRFOXFXT19xcW80Um5fVncyU1dQOV9TZ0RXTVFzYU01akVTYnNlLUNRdFF5MnAyclRWOFdqekJvbmFzRklwWjJYVFRzMnRwZlJSNHJVdVFvd3puZmpJWklR?oc=5",
+      "event": "2026年11月03日第51版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNjFTaUkwcFNNcTZFVHlSZmtrSW1Idk5fZkJIRzZrWDBqRHlEUzB3TGtIVWYxbXZmNGF6MGNFanJjV082bXdPSkR4RS1JS3Uyay02VFcyaHF6cXZ5MG16VUdGOA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级 - 新华网"
+      "originalTitle": "2026年11月03日第51版：信息披露 - 上海证券报电子版"
+    },
+    {
+      "event": "2026年11月03日第63版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsNlkzSk5Fb0Zzd0dFdDRIVlVOSk9kUmRQdkI3eFJEc2l4NVp2Zm85ODJyXzFlelpidUZka1NsS1M1OUIxS3F3NjB6bVFTOWxiandYX0V2amJ6LUZDeXQ0RlF2UQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月03日第63版：信息披露 - 上海证券报电子版"
+    },
+    {
+      "event": "2026年11月03日第38版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0NDdmNkdjbnBnLUUyUks3amF6UGgzME8yWnlqOG9DT1NyRTBQSnQxbW9fYlhXRW9pZXQ1bmtHZmtDYmVvYS1pa1pzSEx2RFhVZmRSR2xFYUNuaXA3V3VuTlZDVQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月03日第38版：信息披露 - 上海证券报电子版"
+    },
+    {
+      "event": "2026年11月03日第64版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96R0pFaVhfeTR0dUNuNXhxdEp3NlJKeDBnOVhSRHAwVElfR1BuaFl4cWZoT3NNVERsdXdTSzA3ZEpQSGVrTTVENlNhbmRsRlowb2x2Qzl2N3dIblBZNUF4dkFrWQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月03日第64版：信息披露 - 上海证券报电子版"
+    },
+    {
+      "event": "2026年11月03日第37版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03RXQyaXQ1UUxvS1FrZFhzRVNWbFY3VUgyam02SmFVVjhXMVN2TGFkYVJmcjVhR1BVamZSRktoNXM0bXRIN0tYajNvZE1MWFdHaVNqdUcza2tCalYzaElxSXAtaw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月03日第37版：信息披露 - 上海证券报电子版"
+    },
+    {
+      "event": "2026年11月03日第42版：信息披露 - 上海证券报电子版",
+      "published": "2026-11-03T00:13:46+00:00",
+      "publisher": "上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nZE5EdTdneTUwcXRURTdkVGE2V0lBZVBHSWw4ck5TZnY3cWFPY0ZZQkZzQ1VETTc5RFliSlBMVmRMRkFSeWc4V04zVGVNdGV6NUY4d0Y1QTA1bE5wTUxnME4wVQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年11月03日第42版：信息披露 - 上海证券报电子版"
     }
   ],
   "quality": {
@@ -556,12 +556,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
