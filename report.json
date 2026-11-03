@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-03",
-  "date": "更新于北京时间 2026-11-03 15:53",
+  "date": "更新于北京时间 2026-11-03 19:56",
   "reportDate": "2026-11-03",
-  "updatedAt": "2026-11-03T15:53:37+08:00",
+  "updatedAt": "2026-11-03T19:56:12+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,16 +177,76 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "证监会发布“稳市场稳预期多项措施组合拳速览”",
+          "title": "福事特：已斥资约2481.90万元回购70.37万股股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T13:37:00+08:00；来源：“证监会发布”微信公众号。",
+            "发布时间：2026-11-03T18:47:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822978"
+              "url": "https://www.cnstock.com/commonDetail/823131"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "井松智能：已斥资约1592万元回购90.09万股股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T18:47:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823135"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宋城演艺：控股股东宋城集团解除质押1.25亿股",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T18:47:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823124"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会：全力维护资本市场平稳运行",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T18:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823081"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "罕见天量，资金进场",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T16:56:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823044"
             }
           ]
         },
@@ -207,122 +267,61 @@
         },
         {
           "type": "explainer",
-          "title": "事关未来产业，国家发展改革委透露",
+          "title": "金融活水赋能绿色升级 南京银行江北新区分行助力区域低碳转型发展 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T12:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 到“十五五”末，新兴支柱产业的产值有望翻一番，达到10万亿元以上，成为支撑经济高质量发展的重要力量。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/822949"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "央行出手！人民币汇率直线回落",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T11:59:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T11:34:18+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822939"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lWW01N1N2N3BjeWpXaHVMUzltRlZXRkcxc2trWklkOTJPTXA2NTRjRFl0REg1M2w2S0lGYVlJR0ZmRUprT0R5NlJFZTlfbi1tMVVQeHJsM0tldnNSaVZCNDczT2c0NmRVck5hbl9NczlIYWRI?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+          "title": "福建首个跨域异构调度全服务词元工厂上线运行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T11:56:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T11:08:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822943"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IVlZyNjJNcF96NkdYczZlZmIzYUlVYjZhUmZRbEstek1sZzE0a0RFODhJanF6dTVpRENSWVZFWmdVYUlndGJPa09Bem9KNFIxekJuUGR6V2RhNklSajJIODhmVjNPb2VTZDQ1SzJpU0pwSmhrbVc1VTRBMUdGdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
+          "title": "第十五届“挑战杯”中国大学生创业计划竞赛落幕 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T10:28:00+08:00；来源：新华社。",
+            "发布时间：2026-11-03T11:08:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822907"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUmFmT0t0QXloRG0zc0U3Vm1IT21zcTJ6WWRBUXVubVF2cGk3Yk94b1J2a19fZF9ocjNUTlpRcVJFdGhmR1Y2ckRRazhWcU9SeExNWjEzNmRuRnJRVGZSSXRaTzZZNEw2VGhxRWE4RmVCWTZfNHBZd2RaQ1NFZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "连开两场座谈会 金融管理部门升级两大稳市工具",
+          "title": "深化拓展“人工智能+”行动推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T09:03:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-03T11:08:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822863"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T08:50:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822847"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T07:30:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T07:09:47+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SVZtRC04bnEwUC1meHRQYmZFNzV6dUVHWDZ5U2JXTUNHTmJtdVZlRDFQT1NBdzhLVFA5TTh3TWE1MEg1YWh2SGtXWGJvMV9wRXBsVmw2THhsRWhoYk5vbUlCWUxRQUZNTFNveTJSb0pwNk9UV0xz?oc=5"
             }
           ]
         }
@@ -385,11 +384,6 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-02"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-02"
@@ -400,14 +394,14 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-10-30"
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-02"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -415,9 +409,34 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "证监会发布“稳市场稳预期多项措施组合拳速览”",
-      "url": "https://www.cnstock.com/commonDetail/822978",
-      "asOf": "2026-11-03T13:37:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-10-30"
+    },
+    {
+      "title": "福事特：已斥资约2481.90万元回购70.37万股股份",
+      "url": "https://www.cnstock.com/commonDetail/823131",
+      "asOf": "2026-11-03T18:47:00+08:00"
+    },
+    {
+      "title": "井松智能：已斥资约1592万元回购90.09万股股份",
+      "url": "https://www.cnstock.com/commonDetail/823135",
+      "asOf": "2026-11-03T18:47:00+08:00"
+    },
+    {
+      "title": "宋城演艺：控股股东宋城集团解除质押1.25亿股",
+      "url": "https://www.cnstock.com/commonDetail/823124",
+      "asOf": "2026-11-03T18:47:00+08:00"
+    },
+    {
+      "title": "证监会：全力维护资本市场平稳运行",
+      "url": "https://www.cnstock.com/commonDetail/823081",
+      "asOf": "2026-11-03T18:17:00+08:00"
+    },
+    {
+      "title": "罕见天量，资金进场",
+      "url": "https://www.cnstock.com/commonDetail/823044",
+      "asOf": "2026-11-03T16:56:00+08:00"
     },
     {
       "title": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
@@ -425,53 +444,65 @@
       "asOf": "2026-11-03T13:14:00+08:00"
     },
     {
-      "title": "事关未来产业，国家发展改革委透露",
-      "url": "https://www.cnstock.com/commonDetail/822949",
-      "asOf": "2026-11-03T12:07:00+08:00"
+      "title": "金融活水赋能绿色升级 南京银行江北新区分行助力区域低碳转型发展 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lWW01N1N2N3BjeWpXaHVMUzltRlZXRkcxc2trWklkOTJPTXA2NTRjRFl0REg1M2w2S0lGYVlJR0ZmRUprT0R5NlJFZTlfbi1tMVVQeHJsM0tldnNSaVZCNDczT2c0NmRVck5hbl9NczlIYWRI?oc=5",
+      "asOf": "2026-11-03T11:34:18+00:00"
     },
     {
-      "title": "央行出手！人民币汇率直线回落",
-      "url": "https://www.cnstock.com/commonDetail/822939",
-      "asOf": "2026-11-03T11:59:00+08:00"
+      "title": "福建首个跨域异构调度全服务词元工厂上线运行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IVlZyNjJNcF96NkdYczZlZmIzYUlVYjZhUmZRbEstek1sZzE0a0RFODhJanF6dTVpRENSWVZFWmdVYUlndGJPa09Bem9KNFIxekJuUGR6V2RhNklSajJIODhmVjNPb2VTZDQ1SzJpU0pwSmhrbVc1VTRBMUdGdw?oc=5",
+      "asOf": "2026-11-03T11:08:49+00:00"
     },
     {
-      "title": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
-      "url": "https://www.cnstock.com/commonDetail/822943",
-      "asOf": "2026-11-03T11:56:00+08:00"
+      "title": "第十五届“挑战杯”中国大学生创业计划竞赛落幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUmFmT0t0QXloRG0zc0U3Vm1IT21zcTJ6WWRBUXVubVF2cGk3Yk94b1J2a19fZF9ocjNUTlpRcVJFdGhmR1Y2ckRRazhWcU9SeExNWjEzNmRuRnJRVGZSSXRaTzZZNEw2VGhxRWE4RmVCWTZfNHBZd2RaQ1NFZw?oc=5",
+      "asOf": "2026-11-03T11:08:46+00:00"
     },
     {
-      "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
-      "url": "https://www.cnstock.com/commonDetail/822907",
-      "asOf": "2026-11-03T10:28:00+08:00"
-    },
-    {
-      "title": "连开两场座谈会 金融管理部门升级两大稳市工具",
-      "url": "https://www.cnstock.com/commonDetail/822863",
-      "asOf": "2026-11-03T09:03:00+08:00"
-    },
-    {
-      "title": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
-      "url": "https://www.cnstock.com/commonDetail/822847",
-      "asOf": "2026-11-03T08:50:00+08:00"
-    },
-    {
-      "title": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
-      "asOf": "2026-11-03T07:30:18+00:00"
-    },
-    {
-      "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5",
-      "asOf": "2026-11-03T07:09:47+00:00"
+      "title": "深化拓展“人工智能+”行动推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SVZtRC04bnEwUC1meHRQYmZFNzV6dUVHWDZ5U2JXTUNHTmJtdVZlRDFQT1NBdzhLVFA5TTh3TWE1MEg1YWh2SGtXWGJvMV9wRXBsVmw2THhsRWhoYk5vbUlCWUxRQUZNTFNveTJSb0pwNk9UV0xz?oc=5",
+      "asOf": "2026-11-03T11:08:44+00:00"
     }
   ],
   "events": [
     {
-      "event": "证监会发布“稳市场稳预期多项措施组合拳速览”",
-      "originalTitle": "证监会发布“稳市场稳预期多项措施组合拳速览”",
-      "published": "2026-11-03T13:37:00+08:00",
-      "publisher": "“证监会发布”微信公众号",
-      "url": "https://www.cnstock.com/commonDetail/822978",
+      "event": "福事特：已斥资约2481.90万元回购70.37万股股份",
+      "originalTitle": "福事特：已斥资约2481.90万元回购70.37万股股份",
+      "published": "2026-11-03T18:47:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823131",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "井松智能：已斥资约1592万元回购90.09万股股份",
+      "originalTitle": "井松智能：已斥资约1592万元回购90.09万股股份",
+      "published": "2026-11-03T18:47:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823135",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "宋城演艺：控股股东宋城集团解除质押1.25亿股",
+      "originalTitle": "宋城演艺：控股股东宋城集团解除质押1.25亿股",
+      "published": "2026-11-03T18:47:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823124",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会：全力维护资本市场平稳运行",
+      "originalTitle": "证监会：全力维护资本市场平稳运行",
+      "published": "2026-11-03T18:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823081",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "罕见天量，资金进场",
+      "originalTitle": "罕见天量，资金进场",
+      "published": "2026-11-03T16:56:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823044",
       "evidenceLevel": "headline-only"
     },
     {
@@ -483,75 +514,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "事关未来产业，国家发展改革委透露",
-      "originalTitle": "事关未来产业，国家发展改革委透露",
-      "published": "2026-11-03T12:07:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822949",
+      "event": "金融活水赋能绿色升级 南京银行江北新区分行助力区域低碳转型发展 - 新华网江苏频道",
+      "published": "2026-11-03T11:34:18+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lWW01N1N2N3BjeWpXaHVMUzltRlZXRkcxc2trWklkOTJPTXA2NTRjRFl0REg1M2w2S0lGYVlJR0ZmRUprT0R5NlJFZTlfbi1tMVVQeHJsM0tldnNSaVZCNDczT2c0NmRVck5hbl9NczlIYWRI?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/822949",
-        "retrievedAt": "2026-11-03T15:53:37.293937+08:00",
-        "sha256": "f5298b673cfdf2905f6f856320e331e83959950ae4b2f083474a59723b3c28ff",
-        "paragraphCount": 12,
-        "excerpt": "上证报中国证券网讯 到“十五五”末，新兴支柱产业的产值有望翻一番，达到10万亿元以上，成为支撑经济高质量发展的重要力量。"
-      }
+      "originalTitle": "金融活水赋能绿色升级 南京银行江北新区分行助力区域低碳转型发展 - 新华网江苏频道"
     },
     {
-      "event": "央行出手！人民币汇率直线回落",
-      "originalTitle": "央行出手！人民币汇率直线回落",
-      "published": "2026-11-03T11:59:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822939",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
-      "originalTitle": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
-      "published": "2026-11-03T11:56:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822943",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "丁薛祥将出席第九届进博会开幕式及相关活动",
-      "originalTitle": "丁薛祥将出席第九届进博会开幕式及相关活动",
-      "published": "2026-11-03T10:28:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/822907",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "连开两场座谈会 金融管理部门升级两大稳市工具",
-      "originalTitle": "连开两场座谈会 金融管理部门升级两大稳市工具",
-      "published": "2026-11-03T09:03:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/822863",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
-      "originalTitle": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
-      "published": "2026-11-03T08:50:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/822847",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "美媒：佛州坠机事故遇难者身份已确认 - 新华网",
-      "published": "2026-11-03T07:30:18+00:00",
+      "event": "福建首个跨域异构调度全服务词元工厂上线运行 - 新华网",
+      "published": "2026-11-03T11:08:49+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IVlZyNjJNcF96NkdYczZlZmIzYUlVYjZhUmZRbEstek1sZzE0a0RFODhJanF6dTVpRENSWVZFWmdVYUlndGJPa09Bem9KNFIxekJuUGR6V2RhNklSajJIODhmVjNPb2VTZDQ1SzJpU0pwSmhrbVc1VTRBMUdGdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美媒：佛州坠机事故遇难者身份已确认 - 新华网"
+      "originalTitle": "福建首个跨域异构调度全服务词元工厂上线运行 - 新华网"
     },
     {
-      "event": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网",
-      "published": "2026-11-03T07:09:47+00:00",
+      "event": "第十五届“挑战杯”中国大学生创业计划竞赛落幕 - 新华网",
+      "published": "2026-11-03T11:08:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWhyeF9NRjBsNHphWEIxUHE3VWlxMHEtODBCWWJ3LXl4Zk1VdnQybll4dDVPeU5fRy15OEczWS1DMURNZk9Ob092MzdYZzdTbUFFMm5XcF8ydTZhQjRwRF82OVNCZG14dm5EVXJMZXNRcG1wNUFHU1RYY2FuYVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUmFmT0t0QXloRG0zc0U3Vm1IT21zcTJ6WWRBUXVubVF2cGk3Yk94b1J2a19fZF9ocjNUTlpRcVJFdGhmR1Y2ckRRazhWcU9SeExNWjEzNmRuRnJRVGZSSXRaTzZZNEw2VGhxRWE4RmVCWTZfNHBZd2RaQ1NFZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会 - 新华网"
+      "originalTitle": "第十五届“挑战杯”中国大学生创业计划竞赛落幕 - 新华网"
+    },
+    {
+      "event": "深化拓展“人工智能+”行动推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能 - 新华网",
+      "published": "2026-11-03T11:08:44+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SVZtRC04bnEwUC1meHRQYmZFNzV6dUVHWDZ5U2JXTUNHTmJtdVZlRDFQT1NBdzhLVFA5TTh3TWE1MEg1YWh2SGtXWGJvMV9wRXBsVmw2THhsRWhoYk5vbUlCWUxRQUZNTFNveTJSb0pwNk9UV0xz?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "深化拓展“人工智能+”行动推动海洋经济高质量发展——国家发展改革委新闻发布会聚焦培育壮大新动能 - 新华网"
     }
   ],
   "quality": {
@@ -565,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
