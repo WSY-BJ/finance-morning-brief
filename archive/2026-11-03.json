@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-03",
-  "date": "更新于北京时间 2026-11-03 12:28",
+  "date": "更新于北京时间 2026-11-03 14:32",
   "reportDate": "2026-11-03",
-  "updatedAt": "2026-11-03T12:28:16+08:00",
+  "updatedAt": "2026-11-03T14:32:12+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-10-30：7,580.07 点；较 2026-10-29 变化 -140.32 点。",
+          "summary": "2026-11-02：7,541.40 点；较 2026-10-30 变化 -38.67 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-10-30：117.64 美元/桶；较 2026-10-29 变化 +2.76 美元/桶。",
+          "summary": "2026-11-02：104.77 美元/桶；较 2026-10-30 变化 -12.87 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "117.64 美元/桶；变化 +2.76 美元/桶",
+          "summary": "104.77 美元/桶；变化 -12.87 美元/桶",
           "paragraphs": [
-            "观测日 2026-10-30；前值 114.88（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 117.64（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.88 点；变化 -0.16 点",
+          "summary": "101.75 点；变化 -0.13 点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 102.04（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 101.88（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,580.07 点；变化 -140.32 点",
+          "summary": "7,541.40 点；变化 -38.67 点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 7,720.39（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 7,580.07（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,437.00 点；变化 -747.72 点",
+          "summary": "25,164.31 点；变化 -272.69 点",
           "paragraphs": [
-            "观测日 2026-10-30；前值 26,184.72（2026-10-29）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 25,437.00（2026-10-30）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,16 +177,76 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国家发展改革委：“十五五”时期深化拓展“人工智能+”行动",
+          "title": "证监会发布“稳市场稳预期多项措施组合拳速览”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T10:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T13:37:00+08:00；来源：“证监会发布”微信公众号。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822919"
+              "url": "https://www.cnstock.com/commonDetail/822978"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T13:14:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822972"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "事关未来产业，国家发展改革委透露",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T12:07:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822949"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "央行出手！人民币汇率直线回落",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T11:59:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822939"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T11:56:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/822943"
             }
           ]
         },
@@ -222,21 +282,6 @@
         },
         {
           "type": "explainer",
-          "title": "资金端、产品端、融资端协同发力 证监会多措并举稳市场稳预期",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T09:03:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822851"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
           "summary": "",
           "paragraphs": [
@@ -252,76 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "中国人民银行决定上调金融机构外汇存款准备金率",
+          "title": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T08:50:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-03T05:53:52+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/822848"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 - 新华网",
+          "title": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T04:19:48+00:00；来源：新华网。",
+            "发布时间：2026-11-03T05:49:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLVo2QjNfNVlZUV9iTlBhelRpbTQzQnBpYVdPcHppWmNSNXVaTnNzeWxhbUlEZmkxeFotanM3N0lkMWFWY1BJUUJ3ZUdETHN3b2NRRGFMRkJ2OVY3LTZma1VnVHltSVlqaXpRZzdmWTZqeFh1dVU3SndWaENMZms?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "皖南秋色正当时 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T04:14:19+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nMzU4Rm4wNl9mODhUNjQtZFprdlVMNkNXMkN6Z1hzV044ZmxhYnVyenh3NWFxT2cybS1XM3ZBWXh3dWVsZVRaZi1RNGxVTnptSUs5czRCT2Mtajk3MVNkeWQ4QUh5NnpVZWdNT3k1RFZSeUhDQm9F?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国经济样本观察·“镇”了不起丨一口铁锅，炒出百亿元“香脆产业” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T03:47:19+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkNfTGtla0lrTTMzMFF4VVozM1NOZ2hVTTg5cmpTeWJnci1oYU13Ukc1UzN6eUVQMUJ4TTJjZWV1UU5HVkxaNVhiMzM4dmxHRlhaaEpoUnU3b2ZSQ3BfMlotcmx5MmQtVHozREFHYk95elBMVDFleFNtOFVKODF4YTRn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美4名志愿者完成378天模拟“火星之旅” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T03:40:22+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xQjJyWm04RmVEd0Y0Ul9pWTV4MHlyRXhyRzFabGtrN2Vwc2d2VDRsRksySkR3VTRmWHNoRWN3aXA0RElOZlRFV2VNQnRzRUZCTFYxendPV0NzWGlXSk40Zlk2TG40TWZyUGthR0lfVGhuQTRqb1ZNblJUaEh4Q2M?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5"
             }
           ]
         }
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-29 前值 7720.3901，2026-10-30 现值 7580.0698，变化 -140.3203。",
+            "本期实例：标普 500 指数，2026-10-30 前值 7580.0698，2026-11-02 现值 7541.3999，变化 -38.6699。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -384,24 +384,24 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-10-30"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-02"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,9 +414,29 @@
       "asOf": "2026-10-30"
     },
     {
-      "title": "国家发展改革委：“十五五”时期深化拓展“人工智能+”行动",
-      "url": "https://www.cnstock.com/commonDetail/822919",
-      "asOf": "2026-11-03T10:46:00+08:00"
+      "title": "证监会发布“稳市场稳预期多项措施组合拳速览”",
+      "url": "https://www.cnstock.com/commonDetail/822978",
+      "asOf": "2026-11-03T13:37:00+08:00"
+    },
+    {
+      "title": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+      "url": "https://www.cnstock.com/commonDetail/822972",
+      "asOf": "2026-11-03T13:14:00+08:00"
+    },
+    {
+      "title": "事关未来产业，国家发展改革委透露",
+      "url": "https://www.cnstock.com/commonDetail/822949",
+      "asOf": "2026-11-03T12:07:00+08:00"
+    },
+    {
+      "title": "央行出手！人民币汇率直线回落",
+      "url": "https://www.cnstock.com/commonDetail/822939",
+      "asOf": "2026-11-03T11:59:00+08:00"
+    },
+    {
+      "title": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+      "url": "https://www.cnstock.com/commonDetail/822943",
+      "asOf": "2026-11-03T11:56:00+08:00"
     },
     {
       "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
@@ -429,48 +449,60 @@
       "asOf": "2026-11-03T09:03:00+08:00"
     },
     {
-      "title": "资金端、产品端、融资端协同发力 证监会多措并举稳市场稳预期",
-      "url": "https://www.cnstock.com/commonDetail/822851",
-      "asOf": "2026-11-03T09:03:00+08:00"
-    },
-    {
       "title": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
       "url": "https://www.cnstock.com/commonDetail/822847",
       "asOf": "2026-11-03T08:50:00+08:00"
     },
     {
-      "title": "中国人民银行决定上调金融机构外汇存款准备金率",
-      "url": "https://www.cnstock.com/commonDetail/822848",
-      "asOf": "2026-11-03T08:50:00+08:00"
+      "title": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5",
+      "asOf": "2026-11-03T05:53:52+00:00"
     },
     {
-      "title": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLVo2QjNfNVlZUV9iTlBhelRpbTQzQnBpYVdPcHppWmNSNXVaTnNzeWxhbUlEZmkxeFotanM3N0lkMWFWY1BJUUJ3ZUdETHN3b2NRRGFMRkJ2OVY3LTZma1VnVHltSVlqaXpRZzdmWTZqeFh1dVU3SndWaENMZms?oc=5",
-      "asOf": "2026-11-03T04:19:48+00:00"
-    },
-    {
-      "title": "皖南秋色正当时 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nMzU4Rm4wNl9mODhUNjQtZFprdlVMNkNXMkN6Z1hzV044ZmxhYnVyenh3NWFxT2cybS1XM3ZBWXh3dWVsZVRaZi1RNGxVTnptSUs5czRCT2Mtajk3MVNkeWQ4QUh5NnpVZWdNT3k1RFZSeUhDQm9F?oc=5",
-      "asOf": "2026-11-03T04:14:19+00:00"
-    },
-    {
-      "title": "中国经济样本观察·“镇”了不起丨一口铁锅，炒出百亿元“香脆产业” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkNfTGtla0lrTTMzMFF4VVozM1NOZ2hVTTg5cmpTeWJnci1oYU13Ukc1UzN6eUVQMUJ4TTJjZWV1UU5HVkxaNVhiMzM4dmxHRlhaaEpoUnU3b2ZSQ3BfMlotcmx5MmQtVHozREFHYk95elBMVDFleFNtOFVKODF4YTRn?oc=5",
-      "asOf": "2026-11-03T03:47:19+00:00"
-    },
-    {
-      "title": "美4名志愿者完成378天模拟“火星之旅” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xQjJyWm04RmVEd0Y0Ul9pWTV4MHlyRXhyRzFabGtrN2Vwc2d2VDRsRksySkR3VTRmWHNoRWN3aXA0RElOZlRFV2VNQnRzRUZCTFYxendPV0NzWGlXSk40Zlk2TG40TWZyUGthR0lfVGhuQTRqb1ZNblJUaEh4Q2M?oc=5",
-      "asOf": "2026-11-03T03:40:22+00:00"
+      "title": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5",
+      "asOf": "2026-11-03T05:49:49+00:00"
     }
   ],
   "events": [
     {
-      "event": "国家发展改革委：“十五五”时期深化拓展“人工智能+”行动",
-      "originalTitle": "国家发展改革委：“十五五”时期深化拓展“人工智能+”行动",
-      "published": "2026-11-03T10:46:00+08:00",
+      "event": "证监会发布“稳市场稳预期多项措施组合拳速览”",
+      "originalTitle": "证监会发布“稳市场稳预期多项措施组合拳速览”",
+      "published": "2026-11-03T13:37:00+08:00",
+      "publisher": "“证监会发布”微信公众号",
+      "url": "https://www.cnstock.com/commonDetail/822978",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+      "originalTitle": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+      "published": "2026-11-03T13:14:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/822972",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "事关未来产业，国家发展改革委透露",
+      "originalTitle": "事关未来产业，国家发展改革委透露",
+      "published": "2026-11-03T12:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822919",
+      "url": "https://www.cnstock.com/commonDetail/822949",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "央行出手！人民币汇率直线回落",
+      "originalTitle": "央行出手！人民币汇率直线回落",
+      "published": "2026-11-03T11:59:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822939",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+      "originalTitle": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+      "published": "2026-11-03T11:56:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/822943",
       "evidenceLevel": "headline-only"
     },
     {
@@ -490,14 +522,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "资金端、产品端、融资端协同发力 证监会多措并举稳市场稳预期",
-      "originalTitle": "资金端、产品端、融资端协同发力 证监会多措并举稳市场稳预期",
-      "published": "2026-11-03T09:03:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/822851",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
       "originalTitle": "2026乌镇峰会前瞻：开源时代，智能互联网走向何方？",
       "published": "2026-11-03T08:50:00+08:00",
@@ -506,44 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国人民银行决定上调金融机构外汇存款准备金率",
-      "originalTitle": "中国人民银行决定上调金融机构外汇存款准备金率",
-      "published": "2026-11-03T08:50:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/822848",
-      "evidenceLevel": "headline-only"
+      "event": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网",
+      "published": "2026-11-03T05:53:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSnhleHQyYVFmZ19MMy1ka2tfVlRPTlNfWV9hM0Y4OGxQLXQwUm1TWGxRUmNpWWdNRnlNRmV0RndHWDlXalhtYUpveVVTMmNZLUFwSVotQWV6RU5DS0ZOZHpQakJlcGxGNVB6YkRMTkdRVUg1Ri13?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈 - 新华网"
     },
     {
-      "event": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 - 新华网",
-      "published": "2026-11-03T04:19:48+00:00",
+      "event": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网",
+      "published": "2026-11-03T05:49:49+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLVo2QjNfNVlZUV9iTlBhelRpbTQzQnBpYVdPcHppWmNSNXVaTnNzeWxhbUlEZmkxeFotanM3N0lkMWFWY1BJUUJ3ZUdETHN3b2NRRGFMRkJ2OVY3LTZma1VnVHltSVlqaXpRZzdmWTZqeFh1dVU3SndWaENMZms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RWJZU0RKR1Bmajd1NVh1TnhaWWU5Ql83MTBfcVRPZFo2ZVdzTDVySEhOVFlJQnFua1MyMFdqRVRJSU4yaDdpZ3hObUdhbmdzVDl3YWxuWndndWc5bFNKN21UbFhWTE9mRzFuUUIzZUpqRW9RRkd3UFl4RGRWYlE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 - 新华网"
-    },
-    {
-      "event": "皖南秋色正当时 - 新华网",
-      "published": "2026-11-03T04:14:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nMzU4Rm4wNl9mODhUNjQtZFprdlVMNkNXMkN6Z1hzV044ZmxhYnVyenh3NWFxT2cybS1XM3ZBWXh3dWVsZVRaZi1RNGxVTnptSUs5czRCT2Mtajk3MVNkeWQ4QUh5NnpVZWdNT3k1RFZSeUhDQm9F?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "皖南秋色正当时 - 新华网"
-    },
-    {
-      "event": "中国经济样本观察·“镇”了不起丨一口铁锅，炒出百亿元“香脆产业” - 新华网",
-      "published": "2026-11-03T03:47:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkNfTGtla0lrTTMzMFF4VVozM1NOZ2hVTTg5cmpTeWJnci1oYU13Ukc1UzN6eUVQMUJ4TTJjZWV1UU5HVkxaNVhiMzM4dmxHRlhaaEpoUnU3b2ZSQ3BfMlotcmx5MmQtVHozREFHYk95elBMVDFleFNtOFVKODF4YTRn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济样本观察·“镇”了不起丨一口铁锅，炒出百亿元“香脆产业” - 新华网"
-    },
-    {
-      "event": "美4名志愿者完成378天模拟“火星之旅” - 新华网",
-      "published": "2026-11-03T03:40:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xQjJyWm04RmVEd0Y0Ul9pWTV4MHlyRXhyRzFabGtrN2Vwc2d2VDRsRksySkR3VTRmWHNoRWN3aXA0RElOZlRFV2VNQnRzRUZCTFYxendPV0NzWGlXSk40Zlk2TG40TWZyUGthR0lfVGhuQTRqb1ZNblJUaEh4Q2M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美4名志愿者完成378天模拟“火星之旅” - 新华网"
+      "originalTitle": "民调：美民主党对共和党中期选举领先优势缩小 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
