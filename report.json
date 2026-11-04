@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 08:28",
+  "date": "更新于北京时间 2026-11-04 09:18",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T08:28:05+08:00",
+  "updatedAt": "2026-11-04T09:18:50+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-02：4.91 %；较 2026-10-30 变化 -0.03 个百分点。",
+          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.59 %；变化 +0.03 个百分点",
+          "summary": "4.61 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.03 个百分点",
+          "summary": "4.95 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.94（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,32 +177,76 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？ - 新华网",
+          "title": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:54:00+00:00；来源：新华网。",
+            "发布时间：2026-11-04T01:07:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlJrbFVsMFlaYkdsT0VNN2MwTnFFMDUtbm55bzlrUUVZV1JiRUVZd2xxOUdWdXRhR1c4N2Zva2pjaEV0RDN4cVFoUUl4MElkQlhiNjZWaU5sYWhlVWRHMmhHOVRVUmxkS3FmTVk5cm9UXzVHN284VllYOS03d0g2WFN3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
+          "title": "山东印发行动计划加快现代海洋产业发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月3日，圣达生物发布公告称，2026年10月，公司通过集中竞价交易方式累计回购股份11.70万股，占公司总股本的比例为0.06%，回购成交的最高价为12.40元/股、最低价为11.42元/股，支付的金额为142.77万元（不含"
+            "发布时间：2026-11-04T01:01:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/823177"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T00:16:13+00:00；来源：新华网上海频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T23:56:38+00:00；来源：新华网重庆。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823234"
             }
           ]
         },
@@ -223,7 +267,7 @@
         },
         {
           "type": "explainer",
-          "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
+          "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
@@ -232,7 +276,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823234"
+              "url": "https://www.cnstock.com/commonDetail/823177"
             }
           ]
         },
@@ -278,51 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/823336"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伦敦股市3日下跌 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T18:22:15+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RdFY0Yy0yUU80MlBKY1RiZm5kVnNfYXE5WGNjVmhLSnkxd1R1OUJHUXdJRTRGY1BCZW96QkI1dVZNcnIzS0pvS3paTDJDTkQ0VTFKMFZMSlBZdFlSc0hlUjBoY3p6Um5iMXM2NC1Dd01QbGxxb000?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "证监会：全力维护资本市场平稳运行",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T18:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823081"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第四届明斯克欧亚安全国际会议呼吁以合作应对失序 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-03T17:57:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EYllKTWFJM0NoS1VieW1JWDlhdU5ZeXFWUjIwc0NGSGNlbkgtT2pPdG45V3p1RHN3WWxtYTZfUDhtYlBjeEQ5YVVtaDhkVUE4U1l4MjZkUHM3VS1QcVhlVlZjY3E3c1JSZlFFVnFXcnVvQnMzaTRj?oc=5"
             }
           ]
         }
@@ -380,13 +379,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-02"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-02"
     },
     {
@@ -395,8 +389,13 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-02"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-02"
     },
     {
@@ -405,23 +404,38 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-02"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-02"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-03"
     },
     {
-      "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlJrbFVsMFlaYkdsT0VNN2MwTnFFMDUtbm55bzlrUUVZV1JiRUVZd2xxOUdWdXRhR1c4N2Zva2pjaEV0RDN4cVFoUUl4MElkQlhiNjZWaU5sYWhlVWRHMmhHOVRVUmxkS3FmTVk5cm9UXzVHN284VllYOS03d0g2WFN3?oc=5",
-      "asOf": "2026-11-03T23:54:00+00:00"
+      "title": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5",
+      "asOf": "2026-11-04T01:07:16+00:00"
     },
     {
-      "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
-      "url": "https://www.cnstock.com/commonDetail/823177",
+      "title": "山东印发行动计划加快现代海洋产业发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5",
+      "asOf": "2026-11-04T01:01:42+00:00"
+    },
+    {
+      "title": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5",
+      "asOf": "2026-11-04T00:16:13+00:00"
+    },
+    {
+      "title": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5",
+      "asOf": "2026-11-03T23:56:38+00:00"
+    },
+    {
+      "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
+      "url": "https://www.cnstock.com/commonDetail/823234",
       "asOf": "2026-11-03T23:32:00+08:00"
     },
     {
@@ -430,8 +444,8 @@
       "asOf": "2026-11-03T23:32:00+08:00"
     },
     {
-      "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
-      "url": "https://www.cnstock.com/commonDetail/823234",
+      "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
+      "url": "https://www.cnstock.com/commonDetail/823177",
       "asOf": "2026-11-03T23:32:00+08:00"
     },
     {
@@ -448,46 +462,48 @@
       "title": "A股市场，“自助者”越来越多",
       "url": "https://www.cnstock.com/commonDetail/823336",
       "asOf": "2026-11-03T20:07:00+08:00"
-    },
-    {
-      "title": "伦敦股市3日下跌 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RdFY0Yy0yUU80MlBKY1RiZm5kVnNfYXE5WGNjVmhLSnkxd1R1OUJHUXdJRTRGY1BCZW96QkI1dVZNcnIzS0pvS3paTDJDTkQ0VTFKMFZMSlBZdFlSc0hlUjBoY3p6Um5iMXM2NC1Dd01QbGxxb000?oc=5",
-      "asOf": "2026-11-03T18:22:15+00:00"
-    },
-    {
-      "title": "证监会：全力维护资本市场平稳运行",
-      "url": "https://www.cnstock.com/commonDetail/823081",
-      "asOf": "2026-11-03T18:17:00+08:00"
-    },
-    {
-      "title": "第四届明斯克欧亚安全国际会议呼吁以合作应对失序 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EYllKTWFJM0NoS1VieW1JWDlhdU5ZeXFWUjIwc0NGSGNlbkgtT2pPdG45V3p1RHN3WWxtYTZfUDhtYlBjeEQ5YVVtaDhkVUE4U1l4MjZkUHM3VS1QcVhlVlZjY3E3c1JSZlFFVnFXcnVvQnMzaTRj?oc=5",
-      "asOf": "2026-11-03T17:57:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "全国放心消费平台正式上线 面向消费者提供哪些功能？ - 新华网",
-      "published": "2026-11-03T23:54:00+00:00",
+      "event": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
+      "published": "2026-11-04T01:07:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlJrbFVsMFlaYkdsT0VNN2MwTnFFMDUtbm55bzlrUUVZV1JiRUVZd2xxOUdWdXRhR1c4N2Zva2pjaEV0RDN4cVFoUUl4MElkQlhiNjZWaU5sYWhlVWRHMmhHOVRVUmxkS3FmTVk5cm9UXzVHN284VllYOS03d0g2WFN3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "全国放心消费平台正式上线 面向消费者提供哪些功能？ - 新华网"
+      "originalTitle": "首次摆上“双十一”货架 Token走进大众消费 - 新华网"
     },
     {
-      "event": "圣达生物：已斥资1142.62万元回购97.36万股股份",
-      "originalTitle": "圣达生物：已斥资1142.62万元回购97.36万股股份",
+      "event": "山东印发行动计划加快现代海洋产业发展 - 新华网",
+      "published": "2026-11-04T01:01:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "山东印发行动计划加快现代海洋产业发展 - 新华网"
+    },
+    {
+      "event": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
+      "published": "2026-11-04T00:16:13+00:00",
+      "publisher": "新华网上海频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第九届进博会｜共赴一场进博之约 - 新华网上海频道"
+    },
+    {
+      "event": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
+      "published": "2026-11-03T23:56:38+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆"
+    },
+    {
+      "event": "星源材质：董事会审议通过前三季度利润分配预案议案",
+      "originalTitle": "星源材质：董事会审议通过前三季度利润分配预案议案",
       "published": "2026-11-03T23:32:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823177",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823177",
-        "retrievedAt": "2026-11-04T08:28:05.399835+08:00",
-        "sha256": "f829a336ab34d7da28a9253c3aeb126b1538ac3a5a8d9fe49f2df564569a05c6",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月3日，圣达生物发布公告称，2026年10月，公司通过集中竞价交易方式累计回购股份11.70万股，占公司总股本的比例为0.06%，回购成交的最高价为12.40元/股、最低价为11.42元/股，支付的金额为142.77万元（不含"
-      }
+      "url": "https://www.cnstock.com/commonDetail/823234",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "景嘉微：斥资约5349万元首次回购122.37万股股份",
@@ -498,11 +514,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "星源材质：董事会审议通过前三季度利润分配预案议案",
-      "originalTitle": "星源材质：董事会审议通过前三季度利润分配预案议案",
+      "event": "圣达生物：已斥资1142.62万元回购97.36万股股份",
+      "originalTitle": "圣达生物：已斥资1142.62万元回购97.36万股股份",
       "published": "2026-11-03T23:32:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823234",
+      "url": "https://www.cnstock.com/commonDetail/823177",
       "evidenceLevel": "headline-only"
     },
     {
@@ -528,30 +544,6 @@
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/823336",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "伦敦股市3日下跌 - 新华网",
-      "published": "2026-11-03T18:22:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RdFY0Yy0yUU80MlBKY1RiZm5kVnNfYXE5WGNjVmhLSnkxd1R1OUJHUXdJRTRGY1BCZW96QkI1dVZNcnIzS0pvS3paTDJDTkQ0VTFKMFZMSlBZdFlSc0hlUjBoY3p6Um5iMXM2NC1Dd01QbGxxb000?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伦敦股市3日下跌 - 新华网"
-    },
-    {
-      "event": "证监会：全力维护资本市场平稳运行",
-      "originalTitle": "证监会：全力维护资本市场平稳运行",
-      "published": "2026-11-03T18:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823081",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "第四届明斯克欧亚安全国际会议呼吁以合作应对失序 - 新华网",
-      "published": "2026-11-03T17:57:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EYllKTWFJM0NoS1VieW1JWDlhdU5ZeXFWUjIwc0NGSGNlbkgtT2pPdG45V3p1RHN3WWxtYTZfUDhtYlBjeEQ5YVVtaDhkVUE4U1l4MjZkUHM3VS1QcVhlVlZjY3E3c1JSZlFFVnFXcnVvQnMzaTRj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第四届明斯克欧亚安全国际会议呼吁以合作应对失序 - 新华网"
     }
   ],
   "quality": {
