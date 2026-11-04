@@ -45,3 +45,5 @@ jobs:
 # 2026-10-30 08:35 CST: safe recovery trigger; delivery logic unchanged.
 # 2026-10-31 08:17 CST: recovery trigger after missing 08:15 scheduled run; delivery logic unchanged.
 # 2026-11-03 08:35 CST: safe recovery trigger; no delivery logic change.
+
+# 2026-11-04 08:28 CST: recover missing morning notification schedule; no logic change.
