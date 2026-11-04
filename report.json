@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 14:57",
+  "date": "更新于北京时间 2026-11-04 15:28",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T14:57:04+08:00",
+  "updatedAt": "2026-11-04T15:28:29+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 +0.02 个百分点",
+          "summary": "4.59 %；变化 +0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
+            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,126 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "竞逐新赛道 培育新动能——济南空天产业发展见闻 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T07:13:30+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83Wko1SjMwc1ZKSnJ4SElMYTFaZm11NkFBcW9qelhvdnhwWWc2ZjhVYjlMYjEwSWNWVHpsRGRnUElkTDNhWUlVaE53Uk5BTVFFT2RGazBRdDE1RndQbDhvSHBWY3lkVEtVZW1vQWRYa3Q1aGVxQjBV?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第九届进博会丨“九”负盛名 世界期待 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T07:12:22+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52QzVCOVlNMXBXWFJRaGhrQ3hYY2dSeUdINV9PM1pRN0FwZ2NyaHN4TkZrNnNleWFIMGtGb3M3ajFVT2RSV3QtRUJORVV5U1FWOGgyUURBRjZOYzIzcEsyWmhudU1EY3RIOXB3d0FoX2xlVVJSb0RsdnA3bTFrUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "印尼总统办公厅主任涉嫌窃听总统被解职 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T07:04:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTTBTYTFfZEF0Zmp6ZW1sZzRTQWZEbmlibHhYa3pZMDE1ekNLQ19ZR2luRnZzcXdValFVVmtBMUxrLXVDY2VYbmFOM0U0R3o5aGtldlV5RWRPOWZRdWZGQS1wT0ZMeDVCVlEyZlZFcThPemg3UVdVN3dDR1F3eUU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "青奥会｜柔道：中国选手程越获得女子78公斤级铜牌 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T07:01:06+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVDOEFaUmNFbmF0LXY3dTN0Wm1vbWJ5a0FPRUR6UUZ1Mmo2M0thdXd6d29mYVZkWUxYNjVuNzlvcW9iN3hwcG1xZFZBSnNUTXpIRy1kME9XRFZ3Zng0ak5uZGxvYXR2bENPbWdmbThYbWJGWmJxUnZFOUV2bHprUw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“十五五”我国将推进农药产业高质量发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T07:00:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3FmaFlmQWpLanJpcHNSQVQ3UUI5YnlSekNlUExBRUhORHlQSGlBUk1vd0xKUGlKZU1LVnR1c0d5U3Fxb0JNdm9mWVltN0p5ZEV2Nk1MbXpUVTBkcnN6Z0hvd3ZJbkUxUFkxS2ZyNGtzQTRPaUFzckZTVEpZYW14bG5jQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新疆和田4200亩盐碱地水稻丰收 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T06:57:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNd253TkNHVmxURm96WThKVE9UMGhYVElKZThIaERqS2dCdjRtVVpsVkxQS2hKaTVUOHFrTHo0UW9NS29JS0l0OXB5cEIwUG9jbFk0R1d2WlJhWWJHM0RURFNEVnlrV3JEUWszOEJZSXJoSW9jbE9OV2pGZkN5M0U?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "图说百科丨普通人做心脏检查是不是项目越多越好 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T06:55:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckdkZUhLd3Z1VzNrOXNEYzJhQjQ5Z194Zm5BTkF3X0lDNF9SQTBjSzlxRkZBWXcyX2pPT2VKeHdpN3JvaWpTWi1kVmxmVTlLc2g3MExLdHBJOG9KLXNoNW4wcHdpYzRBOV8wSzVuWjY1THRJOFlLbGV5Z1RpRzJPaGctcw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "科技之眼丨素问丨探索太空需要多元和平等的声音 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T06:44:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ET3Y0OTJwbmItSllRNGlOLS1yLXlLYjFNS1o2d3pqb1o3NEVyd2xUNFgzVUtWdUpzaDNMeVdHcVpaRXNfckZvMWg5VTdNQjRSaTVwdTktT3VscExuRVRNay1selRmOWU5RnBJT2tWLVI1MlNMRE16dm9HSXdWQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "南非地方政府选举开始投票 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -202,126 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T06:05:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSFRCbVBZVjQwT2hQaXBVYjlfNkhOd3lWTE02anJvVWZVMnZrYzN3bTNTcHg4ckxOUExYVExyN0N1Qm40bDRNNVJlM0dmM1JvcmFFeWxpWTBlNERXdGRUQklCWFdCaVEtTmNwNVQxMFVDMWU1ZDliVjJ3Tk03YkU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T05:41:25+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T05:36:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T05:00:25+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T04:56:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T04:19:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T04:18:40+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T04:18:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5"
             }
           ]
         }
@@ -379,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-03"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-03"
     },
     {
@@ -404,14 +404,54 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-03"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-02"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-02"
+    },
+    {
+      "title": "竞逐新赛道 培育新动能——济南空天产业发展见闻 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83Wko1SjMwc1ZKSnJ4SElMYTFaZm11NkFBcW9qelhvdnhwWWc2ZjhVYjlMYjEwSWNWVHpsRGRnUElkTDNhWUlVaE53Uk5BTVFFT2RGazBRdDE1RndQbDhvSHBWY3lkVEtVZW1vQWRYa3Q1aGVxQjBV?oc=5",
+      "asOf": "2026-11-04T07:13:30+00:00"
+    },
+    {
+      "title": "第九届进博会丨“九”负盛名 世界期待 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52QzVCOVlNMXBXWFJRaGhrQ3hYY2dSeUdINV9PM1pRN0FwZ2NyaHN4TkZrNnNleWFIMGtGb3M3ajFVT2RSV3QtRUJORVV5U1FWOGgyUURBRjZOYzIzcEsyWmhudU1EY3RIOXB3d0FoX2xlVVJSb0RsdnA3bTFrUQ?oc=5",
+      "asOf": "2026-11-04T07:12:22+00:00"
+    },
+    {
+      "title": "印尼总统办公厅主任涉嫌窃听总统被解职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTTBTYTFfZEF0Zmp6ZW1sZzRTQWZEbmlibHhYa3pZMDE1ekNLQ19ZR2luRnZzcXdValFVVmtBMUxrLXVDY2VYbmFOM0U0R3o5aGtldlV5RWRPOWZRdWZGQS1wT0ZMeDVCVlEyZlZFcThPemg3UVdVN3dDR1F3eUU?oc=5",
+      "asOf": "2026-11-04T07:04:08+00:00"
+    },
+    {
+      "title": "青奥会｜柔道：中国选手程越获得女子78公斤级铜牌 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVDOEFaUmNFbmF0LXY3dTN0Wm1vbWJ5a0FPRUR6UUZ1Mmo2M0thdXd6d29mYVZkWUxYNjVuNzlvcW9iN3hwcG1xZFZBSnNUTXpIRy1kME9XRFZ3Zng0ak5uZGxvYXR2bENPbWdmbThYbWJGWmJxUnZFOUV2bHprUw?oc=5",
+      "asOf": "2026-11-04T07:01:06+00:00"
+    },
+    {
+      "title": "“十五五”我国将推进农药产业高质量发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3FmaFlmQWpLanJpcHNSQVQ3UUI5YnlSekNlUExBRUhORHlQSGlBUk1vd0xKUGlKZU1LVnR1c0d5U3Fxb0JNdm9mWVltN0p5ZEV2Nk1MbXpUVTBkcnN6Z0hvd3ZJbkUxUFkxS2ZyNGtzQTRPaUFzckZTVEpZYW14bG5jQQ?oc=5",
+      "asOf": "2026-11-04T07:00:10+00:00"
+    },
+    {
+      "title": "新疆和田4200亩盐碱地水稻丰收 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNd253TkNHVmxURm96WThKVE9UMGhYVElKZThIaERqS2dCdjRtVVpsVkxQS2hKaTVUOHFrTHo0UW9NS29JS0l0OXB5cEIwUG9jbFk0R1d2WlJhWWJHM0RURFNEVnlrV3JEUWszOEJZSXJoSW9jbE9OV2pGZkN5M0U?oc=5",
+      "asOf": "2026-11-04T06:57:58+00:00"
+    },
+    {
+      "title": "图说百科丨普通人做心脏检查是不是项目越多越好 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckdkZUhLd3Z1VzNrOXNEYzJhQjQ5Z194Zm5BTkF3X0lDNF9SQTBjSzlxRkZBWXcyX2pPT2VKeHdpN3JvaWpTWi1kVmxmVTlLc2g3MExLdHBJOG9KLXNoNW4wcHdpYzRBOV8wSzVuWjY1THRJOFlLbGV5Z1RpRzJPaGctcw?oc=5",
+      "asOf": "2026-11-04T06:55:05+00:00"
+    },
+    {
+      "title": "科技之眼丨素问丨探索太空需要多元和平等的声音 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ET3Y0OTJwbmItSllRNGlOLS1yLXlLYjFNS1o2d3pqb1o3NEVyd2xUNFgzVUtWdUpzaDNMeVdHcVpaRXNfckZvMWg5VTdNQjRSaTVwdTktT3VscExuRVRNay1selRmOWU5RnBJT2tWLVI1MlNMRE16dm9HSXdWQQ?oc=5",
+      "asOf": "2026-11-04T06:44:10+00:00"
     },
     {
       "title": "南非地方政府选举开始投票 - 新华网",
@@ -422,49 +462,73 @@
       "title": "AI新终端，能帮我们做什么？ - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5",
       "asOf": "2026-11-04T06:32:03+00:00"
-    },
-    {
-      "title": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSFRCbVBZVjQwT2hQaXBVYjlfNkhOd3lWTE02anJvVWZVMnZrYzN3bTNTcHg4ckxOUExYVExyN0N1Qm40bDRNNVJlM0dmM1JvcmFFeWxpWTBlNERXdGRUQklCWFdCaVEtTmNwNVQxMFVDMWU1ZDliVjJ3Tk03YkU?oc=5",
-      "asOf": "2026-11-04T06:05:03+00:00"
-    },
-    {
-      "title": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5",
-      "asOf": "2026-11-04T05:41:25+00:00"
-    },
-    {
-      "title": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5",
-      "asOf": "2026-11-04T05:36:59+00:00"
-    },
-    {
-      "title": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5",
-      "asOf": "2026-11-04T05:00:25+00:00"
-    },
-    {
-      "title": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
-      "asOf": "2026-11-04T04:56:32+00:00"
-    },
-    {
-      "title": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5",
-      "asOf": "2026-11-04T04:19:50+00:00"
-    },
-    {
-      "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
-      "asOf": "2026-11-04T04:18:40+00:00"
-    },
-    {
-      "title": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5",
-      "asOf": "2026-11-04T04:18:26+00:00"
     }
   ],
   "events": [
+    {
+      "event": "竞逐新赛道 培育新动能——济南空天产业发展见闻 - 新华网",
+      "published": "2026-11-04T07:13:30+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83Wko1SjMwc1ZKSnJ4SElMYTFaZm11NkFBcW9qelhvdnhwWWc2ZjhVYjlMYjEwSWNWVHpsRGRnUElkTDNhWUlVaE53Uk5BTVFFT2RGazBRdDE1RndQbDhvSHBWY3lkVEtVZW1vQWRYa3Q1aGVxQjBV?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "竞逐新赛道 培育新动能——济南空天产业发展见闻 - 新华网"
+    },
+    {
+      "event": "第九届进博会丨“九”负盛名 世界期待 - 新华网",
+      "published": "2026-11-04T07:12:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52QzVCOVlNMXBXWFJRaGhrQ3hYY2dSeUdINV9PM1pRN0FwZ2NyaHN4TkZrNnNleWFIMGtGb3M3ajFVT2RSV3QtRUJORVV5U1FWOGgyUURBRjZOYzIzcEsyWmhudU1EY3RIOXB3d0FoX2xlVVJSb0RsdnA3bTFrUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第九届进博会丨“九”负盛名 世界期待 - 新华网"
+    },
+    {
+      "event": "印尼总统办公厅主任涉嫌窃听总统被解职 - 新华网",
+      "published": "2026-11-04T07:04:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTTBTYTFfZEF0Zmp6ZW1sZzRTQWZEbmlibHhYa3pZMDE1ekNLQ19ZR2luRnZzcXdValFVVmtBMUxrLXVDY2VYbmFOM0U0R3o5aGtldlV5RWRPOWZRdWZGQS1wT0ZMeDVCVlEyZlZFcThPemg3UVdVN3dDR1F3eUU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "印尼总统办公厅主任涉嫌窃听总统被解职 - 新华网"
+    },
+    {
+      "event": "青奥会｜柔道：中国选手程越获得女子78公斤级铜牌 - 新华网",
+      "published": "2026-11-04T07:01:06+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVDOEFaUmNFbmF0LXY3dTN0Wm1vbWJ5a0FPRUR6UUZ1Mmo2M0thdXd6d29mYVZkWUxYNjVuNzlvcW9iN3hwcG1xZFZBSnNUTXpIRy1kME9XRFZ3Zng0ak5uZGxvYXR2bENPbWdmbThYbWJGWmJxUnZFOUV2bHprUw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "青奥会｜柔道：中国选手程越获得女子78公斤级铜牌 - 新华网"
+    },
+    {
+      "event": "“十五五”我国将推进农药产业高质量发展 - 新华网",
+      "published": "2026-11-04T07:00:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3FmaFlmQWpLanJpcHNSQVQ3UUI5YnlSekNlUExBRUhORHlQSGlBUk1vd0xKUGlKZU1LVnR1c0d5U3Fxb0JNdm9mWVltN0p5ZEV2Nk1MbXpUVTBkcnN6Z0hvd3ZJbkUxUFkxS2ZyNGtzQTRPaUFzckZTVEpZYW14bG5jQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“十五五”我国将推进农药产业高质量发展 - 新华网"
+    },
+    {
+      "event": "新疆和田4200亩盐碱地水稻丰收 - 新华网",
+      "published": "2026-11-04T06:57:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNd253TkNHVmxURm96WThKVE9UMGhYVElKZThIaERqS2dCdjRtVVpsVkxQS2hKaTVUOHFrTHo0UW9NS29JS0l0OXB5cEIwUG9jbFk0R1d2WlJhWWJHM0RURFNEVnlrV3JEUWszOEJZSXJoSW9jbE9OV2pGZkN5M0U?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新疆和田4200亩盐碱地水稻丰收 - 新华网"
+    },
+    {
+      "event": "图说百科丨普通人做心脏检查是不是项目越多越好 - 新华网",
+      "published": "2026-11-04T06:55:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckdkZUhLd3Z1VzNrOXNEYzJhQjQ5Z194Zm5BTkF3X0lDNF9SQTBjSzlxRkZBWXcyX2pPT2VKeHdpN3JvaWpTWi1kVmxmVTlLc2g3MExLdHBJOG9KLXNoNW4wcHdpYzRBOV8wSzVuWjY1THRJOFlLbGV5Z1RpRzJPaGctcw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "图说百科丨普通人做心脏检查是不是项目越多越好 - 新华网"
+    },
+    {
+      "event": "科技之眼丨素问丨探索太空需要多元和平等的声音 - 新华网",
+      "published": "2026-11-04T06:44:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ET3Y0OTJwbmItSllRNGlOLS1yLXlLYjFNS1o2d3pqb1o3NEVyd2xUNFgzVUtWdUpzaDNMeVdHcVpaRXNfckZvMWg5VTdNQjRSaTVwdTktT3VscExuRVRNay1selRmOWU5RnBJT2tWLVI1MlNMRE16dm9HSXdWQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "科技之眼丨素问丨探索太空需要多元和平等的声音 - 新华网"
+    },
     {
       "event": "南非地方政府选举开始投票 - 新华网",
       "published": "2026-11-04T06:32:41+00:00",
@@ -480,70 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "AI新终端，能帮我们做什么？ - 新华网"
-    },
-    {
-      "event": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网",
-      "published": "2026-11-04T06:05:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSFRCbVBZVjQwT2hQaXBVYjlfNkhOd3lWTE02anJvVWZVMnZrYzN3bTNTcHg4ckxOUExYVExyN0N1Qm40bDRNNVJlM0dmM1JvcmFFeWxpWTBlNERXdGRUQklCWFdCaVEtTmNwNVQxMFVDMWU1ZDliVjJ3Tk03YkU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网"
-    },
-    {
-      "event": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
-      "published": "2026-11-04T05:41:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网"
-    },
-    {
-      "event": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
-      "published": "2026-11-04T05:36:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美媒预测民主党重掌国会，特朗普发声 - 新华网"
-    },
-    {
-      "event": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
-      "published": "2026-11-04T05:00:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网"
-    },
-    {
-      "event": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
-      "published": "2026-11-04T04:56:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网"
-    },
-    {
-      "event": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
-      "published": "2026-11-04T04:19:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网"
-    },
-    {
-      "event": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
-      "published": "2026-11-04T04:18:40+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道"
-    },
-    {
-      "event": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
-      "published": "2026-11-04T04:18:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网"
     }
   ],
   "quality": {
