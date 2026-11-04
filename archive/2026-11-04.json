@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 10:41",
+  "date": "更新于北京时间 2026-11-04 11:06",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T10:41:42+08:00",
+  "updatedAt": "2026-11-04T11:06:23+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-02：4.91 %；较 2026-10-30 变化 -0.03 个百分点。",
+          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.59 %；变化 +0.03 个百分点",
+          "summary": "4.61 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.03 个百分点",
+          "summary": "4.95 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.94（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -245,88 +245,87 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-04T08:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月3日，中国证监会副主席李超在2026国际金融领袖投资峰会上表示，当前世界正经历百年变局，以人工智能为代表的新一轮科技革命和产业变革加速突破，推进金融高质量发展面临新形势、新机遇和新挑战。中国证监会将会同相关方面认真推动内地与香港资本市"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/823600"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
+          "title": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:34:07+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:55:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
+          "title": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:26:13+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:55:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
+          "title": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:17:44+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:54:56+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
+          "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:15:59+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:43:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "央行近五年首次上调外汇存款准备金率 - 新华网",
+          "title": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:05:14+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:40:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5"
             }
           ]
         }
@@ -384,8 +383,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-02"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-02"
     },
     {
@@ -394,13 +398,8 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-02"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-02"
     },
     {
@@ -409,14 +408,14 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-02"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-03"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-02"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-03"
     },
     {
       "title": "中国人民银行加力实施股票回购增持再贷款政策",
@@ -444,29 +443,29 @@
       "asOf": "2026-11-04T08:10:00+08:00"
     },
     {
-      "title": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5",
-      "asOf": "2026-11-04T02:34:07+00:00"
+      "title": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5",
+      "asOf": "2026-11-04T02:55:03+00:00"
     },
     {
-      "title": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5",
-      "asOf": "2026-11-04T02:26:13+00:00"
+      "title": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5",
+      "asOf": "2026-11-04T02:55:00+00:00"
     },
     {
-      "title": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5",
-      "asOf": "2026-11-04T02:17:44+00:00"
+      "title": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5",
+      "asOf": "2026-11-04T02:54:56+00:00"
     },
     {
-      "title": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5",
-      "asOf": "2026-11-04T02:15:59+00:00"
+      "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5",
+      "asOf": "2026-11-04T02:43:18+00:00"
     },
     {
-      "title": "央行近五年首次上调外汇存款准备金率 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5",
-      "asOf": "2026-11-04T02:05:14+00:00"
+      "title": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5",
+      "asOf": "2026-11-04T02:40:54+00:00"
     }
   ],
   "events": [
@@ -479,8 +478,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823622",
-        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
-        "sha256": "ccdaf2c83e071ee99c4bcf9f529d4a8d727b8fda8e121f4b28cb37f9a8f06039",
+        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
+        "sha256": "7a8218399b33ec974daa9b20119626107f672f63207aef42ede9571e68ee9af5",
         "paragraphCount": 3,
         "excerpt": "上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
       }
@@ -494,8 +493,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823612",
-        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
-        "sha256": "299367074df45e7dbb24ad376e7d428c7f5d5502a847facdd020e2dbc8c5fe47",
+        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
+        "sha256": "d5dbe97d0a53259dd8ec1ab7e283cd79c2f9fc9ae8955451a4a82e4c9090f320",
         "paragraphCount": 3,
         "excerpt": "上证报中国证券网讯 11月4日早间，长鑫科技（688825）发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿"
       }
@@ -509,8 +508,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823592",
-        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
-        "sha256": "c362f1951438d81d38cccbf970dc760de59c1c1af9d32c5f78b8e905b04e8dba",
+        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
+        "sha256": "9a016617c59d318d08adb437bd355d99f441f66f44f8302b436c90c46083f90f",
         "paragraphCount": 15,
         "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
       }
@@ -524,7 +523,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823601",
-        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
         "sha256": "9266e1c483b4205f77b6dc6797dd31665aeb2f7d9149b42726b74616c5d6f809",
         "paragraphCount": 16,
         "excerpt": "中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
@@ -536,54 +535,47 @@
       "published": "2026-11-04T08:10:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/823600",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823600",
-        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
-        "sha256": "04626a08185cd205d7084c89904d7a2f02bd0c0cfc45b7eda693b8ed2bb7438e",
-        "paragraphCount": 11,
-        "excerpt": "11月3日，中国证监会副主席李超在2026国际金融领袖投资峰会上表示，当前世界正经历百年变局，以人工智能为代表的新一轮科技革命和产业变革加速突破，推进金融高质量发展面临新形势、新机遇和新挑战。中国证监会将会同相关方面认真推动内地与香港资本市"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
-      "published": "2026-11-04T02:34:07+00:00",
+      "event": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
+      "published": "2026-11-04T02:55:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网"
+      "originalTitle": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网"
     },
     {
-      "event": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
-      "published": "2026-11-04T02:26:13+00:00",
+      "event": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
+      "published": "2026-11-04T02:55:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美国媒体预计民主党将夺回众议院多数席位 - 新华网"
+      "originalTitle": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网"
     },
     {
-      "event": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
-      "published": "2026-11-04T02:17:44+00:00",
+      "event": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
+      "published": "2026-11-04T02:54:56+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网"
+      "originalTitle": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网"
     },
     {
-      "event": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
-      "published": "2026-11-04T02:15:59+00:00",
+      "event": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
+      "published": "2026-11-04T02:43:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网"
+      "originalTitle": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网"
     },
     {
-      "event": "央行近五年首次上调外汇存款准备金率 - 新华网",
-      "published": "2026-11-04T02:05:14+00:00",
+      "event": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
+      "published": "2026-11-04T02:40:54+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "央行近五年首次上调外汇存款准备金率 - 新华网"
+      "originalTitle": "陆委会称现在没有“台独”问题 国台办回应 - 新华网"
     }
   ],
   "quality": {
@@ -596,6 +588,8 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError"
+    ]
   }
 }
