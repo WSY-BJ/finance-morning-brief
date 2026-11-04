@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 14:24",
+  "date": "更新于北京时间 2026-11-04 14:57",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T14:24:09+08:00",
+  "updatedAt": "2026-11-04T14:57:04+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.59 %；变化 +0.03 个百分点",
+          "summary": "4.61 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,79 +177,31 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
+          "title": "南非地方政府选举开始投票 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:47:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 于祥明）国家发展改革委经济贸易司副司长寇荣11月4日在新闻发布会上回答上海证券报记者提问时表示，将结合完善现代商贸流通体系，进一步畅通商流、资金流、信息流。此外，有关部门还将就一些重点商品流通专门出台针对性政策措施"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/823687"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "超26万手封单！磷化铟龙头，涨停",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T10:34:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-04T06:32:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823656"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZlgtSmZWbmw0WlRfUloxcEpqanhZRTlOQkszODVHNlZGeG5hMzdQXzRyNFhfcWIxVTFPenVGNDZROEdQQXB5eGU3SUhiUThOcDc1Y1hfRjduSFZ1a0FFUTg3RHZVRTFaLXhraEpjWjluN0JlQjR2eEhxTnMzTlE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国人民银行加力实施股票回购增持再贷款政策",
+          "title": "AI新终端，能帮我们做什么？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T09:18:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/823622"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T08:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/823601"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "证监会：全力维护资本市场平稳运行",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T08:10:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-04T06:32:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823600"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5"
             }
           ]
         },
@@ -327,6 +279,51 @@
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5"
             }
           ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T04:19:50+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T04:18:40+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T04:18:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -387,6 +384,11 @@
       "asOf": "2026-11-03"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-03"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-03"
@@ -397,19 +399,14 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-03"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-02"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-03"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -417,29 +414,14 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
-      "url": "https://www.cnstock.com/commonDetail/823687",
-      "asOf": "2026-11-04T11:47:00+08:00"
+      "title": "南非地方政府选举开始投票 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZlgtSmZWbmw0WlRfUloxcEpqanhZRTlOQkszODVHNlZGeG5hMzdQXzRyNFhfcWIxVTFPenVGNDZROEdQQXB5eGU3SUhiUThOcDc1Y1hfRjduSFZ1a0FFUTg3RHZVRTFaLXhraEpjWjluN0JlQjR2eEhxTnMzTlE?oc=5",
+      "asOf": "2026-11-04T06:32:41+00:00"
     },
     {
-      "title": "超26万手封单！磷化铟龙头，涨停",
-      "url": "https://www.cnstock.com/commonDetail/823656",
-      "asOf": "2026-11-04T10:34:00+08:00"
-    },
-    {
-      "title": "中国人民银行加力实施股票回购增持再贷款政策",
-      "url": "https://www.cnstock.com/commonDetail/823622",
-      "asOf": "2026-11-04T09:18:00+08:00"
-    },
-    {
-      "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
-      "url": "https://www.cnstock.com/commonDetail/823601",
-      "asOf": "2026-11-04T08:11:00+08:00"
-    },
-    {
-      "title": "证监会：全力维护资本市场平稳运行",
-      "url": "https://www.cnstock.com/commonDetail/823600",
-      "asOf": "2026-11-04T08:10:00+08:00"
+      "title": "AI新终端，能帮我们做什么？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5",
+      "asOf": "2026-11-04T06:32:03+00:00"
     },
     {
       "title": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网",
@@ -465,69 +447,39 @@
       "title": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
       "asOf": "2026-11-04T04:56:32+00:00"
+    },
+    {
+      "title": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5",
+      "asOf": "2026-11-04T04:19:50+00:00"
+    },
+    {
+      "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
+      "asOf": "2026-11-04T04:18:40+00:00"
+    },
+    {
+      "title": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5",
+      "asOf": "2026-11-04T04:18:26+00:00"
     }
   ],
   "events": [
     {
-      "event": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
-      "originalTitle": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
-      "published": "2026-11-04T11:47:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823687",
+      "event": "南非地方政府选举开始投票 - 新华网",
+      "published": "2026-11-04T06:32:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZlgtSmZWbmw0WlRfUloxcEpqanhZRTlOQkszODVHNlZGeG5hMzdQXzRyNFhfcWIxVTFPenVGNDZROEdQQXB5eGU3SUhiUThOcDc1Y1hfRjduSFZ1a0FFUTg3RHZVRTFaLXhraEpjWjluN0JlQjR2eEhxTnMzTlE?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823687",
-        "retrievedAt": "2026-11-04T14:24:09.680472+08:00",
-        "sha256": "58eea4eb351e38e625498c63bac47f11b275c355909e687e6d0fce638da727f3",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯（记者 于祥明）国家发展改革委经济贸易司副司长寇荣11月4日在新闻发布会上回答上海证券报记者提问时表示，将结合完善现代商贸流通体系，进一步畅通商流、资金流、信息流。此外，有关部门还将就一些重点商品流通专门出台针对性政策措施"
-      }
+      "originalTitle": "南非地方政府选举开始投票 - 新华网"
     },
     {
-      "event": "超26万手封单！磷化铟龙头，涨停",
-      "originalTitle": "超26万手封单！磷化铟龙头，涨停",
-      "published": "2026-11-04T10:34:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823656",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中国人民银行加力实施股票回购增持再贷款政策",
-      "originalTitle": "中国人民银行加力实施股票回购增持再贷款政策",
-      "published": "2026-11-04T09:18:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823622",
+      "event": "AI新终端，能帮我们做什么？ - 新华网",
+      "published": "2026-11-04T06:32:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hN1E1aTRXQzhwUHhqeGY3SUNld2lrZUlUVVd1NExkZlZqYmFQaUJPVTRNbllnV1poREI2X0RGNkcyeXhHc3NfSEJnYW9MaWZMRFNHcUg5VWJhVlRlMFNpT3BpZzVPcjRhYUo0R3lNRTBXRlhrOFFKODhvbWY?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823622",
-        "retrievedAt": "2026-11-04T14:24:09.680472+08:00",
-        "sha256": "06fd23354f9cbdc68c70cefc475f22b97e251d6efb3da22e34cdf7c04b7ff963",
-        "paragraphCount": 3,
-        "excerpt": "上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
-      }
-    },
-    {
-      "event": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
-      "originalTitle": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
-      "published": "2026-11-04T08:11:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/823601",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823601",
-        "retrievedAt": "2026-11-04T14:24:09.680472+08:00",
-        "sha256": "920f0e9ef553c610d45298cdb2ae42fc556e5e7e94ed796dc60e6ba8e2c40eea",
-        "paragraphCount": 16,
-        "excerpt": "中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
-      }
-    },
-    {
-      "event": "证监会：全力维护资本市场平稳运行",
-      "originalTitle": "证监会：全力维护资本市场平稳运行",
-      "published": "2026-11-04T08:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/823600",
-      "evidenceLevel": "headline-only"
+      "originalTitle": "AI新终端，能帮我们做什么？ - 新华网"
     },
     {
       "event": "内蒙古黄河“几字弯”：联防联治共护一片绿 - 新华网",
@@ -568,6 +520,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网"
+    },
+    {
+      "event": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网",
+      "published": "2026-11-04T04:19:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YNXlXek9XbXR2Rml1X2ptUHZHZ2ljYjQ5M0w4em9zSmdSTnVwT1lWLUNoaHVrRF94MXFZYUhxZzBfR2pLX2RYNnhYREVIN1lHNVlTbkwxejlVN0pYRmtwM0J1dGNxMmVKSWVYYW9FaE5xRjFfM2lJb0Y1a1g1dw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社快讯：美国媒体预计民主党夺回参议院重掌国会 - 新华网"
+    },
+    {
+      "event": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+      "published": "2026-11-04T04:18:40+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道"
+    },
+    {
+      "event": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网",
+      "published": "2026-11-04T04:18:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qRXVla0t1UEIxVVd2djM2bS04b0pCWE1wc0VrWVZoRzV6SEVfMmx3M1NfRDN1SVI4UWpJRWNFX0NoaGlJcC1RYjJGS3V3N2t3TzZBVFRSUTV0Ml9lX2VaRGNGVWU3WlFHd0dWWW1lazFmZUtoeTE4ZVpiNmx0QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "踢球的机器人 会飞的红绿灯——体验乌镇“网事” - 新华网"
     }
   ],
   "quality": {
@@ -581,8 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
