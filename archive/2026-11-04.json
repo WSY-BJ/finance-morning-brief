@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 11:46",
+  "date": "更新于北京时间 2026-11-04 14:01",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T11:46:49+08:00",
+  "updatedAt": "2026-11-04T14:01:56+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-02：7,541.40 点；较 2026-10-30 变化 -38.67 点。",
+          "summary": "2026-11-03：7,568.92 点；较 2026-11-02 变化 +27.52 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-02：104.77 美元/桶；较 2026-10-30 变化 -12.87 美元/桶。",
+          "summary": "2026-11-03：103.60 美元/桶；较 2026-11-02 变化 -1.17 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
+          "summary": "2026-11-02：4.91 %；较 2026-10-30 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "104.77 美元/桶；变化 -12.87 美元/桶",
+          "summary": "103.60 美元/桶；变化 -1.17 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-02；前值 117.64（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-11-03；前值 104.77（2026-11-02）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -80,23 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.59 %；变化 +0.03 个百分点",
+          "summary": "4.61 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
-          ],
-          "links": [
-            {
-              "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "4.95 %；变化 +0.04 个百分点",
-          "paragraphs": [
-            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：美国财政部。"
+            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -107,10 +93,24 @@
         },
         {
           "type": "explainer",
-          "title": "美元指数 DXY",
-          "summary": "101.75 点；变化 -0.13 点",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.91 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 101.88（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-11-02；前值 4.94（2026-10-30）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.87 点；变化 +0.12 点",
+          "paragraphs": [
+            "观测日 2026-11-03；前值 101.75（2026-11-02）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,541.40 点；变化 -38.67 点",
+          "summary": "7,568.92 点；变化 +27.52 点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 7,580.07（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-11-03；前值 7,541.40（2026-11-02）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,164.31 点；变化 -272.69 点",
+          "summary": "25,372.01 点；变化 +207.70 点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 25,437.00（2026-10-30）；来源：Yahoo Finance。"
+            "观测日 2026-11-03；前值 25,164.31（2026-11-02）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,31 +177,17 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
+          "title": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:30:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T11:47:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 于祥明）国家发展改革委经济贸易司副司长寇荣11月4日在新闻发布会上回答上海证券报记者提问时表示，将结合完善现代商贸流通体系，进一步畅通商流、资金流、信息流。此外，有关部门还将就一些重点商品流通专门出台针对性政策措施"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823676"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T11:05:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823658"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823687"
             }
           ]
         },
@@ -238,30 +224,16 @@
         },
         {
           "type": "explainer",
-          "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T08:21:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823592"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-04T08:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/823601"
             }
           ]
@@ -283,46 +255,76 @@
         },
         {
           "type": "explainer",
-          "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
+          "title": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T03:37:12+00:00；来源：新华网。",
+            "发布时间：2026-11-04T05:41:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
+          "title": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T03:33:07+00:00；来源：新华网。",
+            "发布时间：2026-11-04T05:36:59+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2026水产品大会在山东威海开幕 - 新华网",
+          "title": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T03:18:33+00:00；来源：新华网。",
+            "发布时间：2026-11-04T05:00:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T04:56:32+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T04:18:40+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5"
             }
           ]
         }
@@ -354,7 +356,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-10-30 前值 7580.0698，2026-11-02 现值 7541.3999，变化 -38.6699。",
+            "本期实例：标普 500 指数，2026-11-02 前值 7541.3999，2026-11-03 现值 7568.9199，变化 +27.5200。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -380,19 +382,19 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-02"
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-03"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-02"
+      "asOf": "2026-11-03"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-02"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-03"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -402,27 +404,22 @@
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-02"
+      "asOf": "2026-11-03"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-02"
     },
     {
-      "title": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
-      "url": "https://www.cnstock.com/commonDetail/823676",
-      "asOf": "2026-11-04T11:30:00+08:00"
-    },
-    {
-      "title": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
-      "url": "https://www.cnstock.com/commonDetail/823658",
-      "asOf": "2026-11-04T11:05:00+08:00"
+      "title": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
+      "url": "https://www.cnstock.com/commonDetail/823687",
+      "asOf": "2026-11-04T11:47:00+08:00"
     },
     {
       "title": "超26万手封单！磷化铟龙头，涨停",
@@ -435,11 +432,6 @@
       "asOf": "2026-11-04T09:18:00+08:00"
     },
     {
-      "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
-      "url": "https://www.cnstock.com/commonDetail/823592",
-      "asOf": "2026-11-04T08:21:00+08:00"
-    },
-    {
       "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
       "url": "https://www.cnstock.com/commonDetail/823601",
       "asOf": "2026-11-04T08:11:00+08:00"
@@ -450,37 +442,46 @@
       "asOf": "2026-11-04T08:10:00+08:00"
     },
     {
-      "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5",
-      "asOf": "2026-11-04T03:37:12+00:00"
+      "title": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5",
+      "asOf": "2026-11-04T05:41:25+00:00"
     },
     {
-      "title": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5",
-      "asOf": "2026-11-04T03:33:07+00:00"
+      "title": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5",
+      "asOf": "2026-11-04T05:36:59+00:00"
     },
     {
-      "title": "2026水产品大会在山东威海开幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5",
-      "asOf": "2026-11-04T03:18:33+00:00"
+      "title": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5",
+      "asOf": "2026-11-04T05:00:25+00:00"
+    },
+    {
+      "title": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
+      "asOf": "2026-11-04T04:56:32+00:00"
+    },
+    {
+      "title": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
+      "asOf": "2026-11-04T04:18:40+00:00"
     }
   ],
   "events": [
     {
-      "event": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
-      "originalTitle": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
-      "published": "2026-11-04T11:30:00+08:00",
+      "event": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
+      "originalTitle": "国家发展改革委答上证报：提高商品流通效率 进一步畅通商流、资金流、信息流",
+      "published": "2026-11-04T11:47:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823676",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
-      "originalTitle": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
-      "published": "2026-11-04T11:05:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823658",
-      "evidenceLevel": "headline-only"
+      "url": "https://www.cnstock.com/commonDetail/823687",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823687",
+        "retrievedAt": "2026-11-04T14:01:56.277466+08:00",
+        "sha256": "58eea4eb351e38e625498c63bac47f11b275c355909e687e6d0fce638da727f3",
+        "paragraphCount": 5,
+        "excerpt": "上证报中国证券网讯（记者 于祥明）国家发展改革委经济贸易司副司长寇荣11月4日在新闻发布会上回答上海证券报记者提问时表示，将结合完善现代商贸流通体系，进一步畅通商流、资金流、信息流。此外，有关部门还将就一些重点商品流通专门出台针对性政策措施"
+      }
     },
     {
       "event": "超26万手封单！磷化铟龙头，涨停",
@@ -499,19 +500,11 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823622",
-        "retrievedAt": "2026-11-04T11:46:49.947043+08:00",
-        "sha256": "7a8218399b33ec974daa9b20119626107f672f63207aef42ede9571e68ee9af5",
+        "retrievedAt": "2026-11-04T14:01:56.277466+08:00",
+        "sha256": "06fd23354f9cbdc68c70cefc475f22b97e251d6efb3da22e34cdf7c04b7ff963",
         "paragraphCount": 3,
         "excerpt": "上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
       }
-    },
-    {
-      "event": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
-      "originalTitle": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
-      "published": "2026-11-04T08:21:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/823592",
-      "evidenceLevel": "headline-only"
     },
     {
       "event": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
@@ -519,7 +512,14 @@
       "published": "2026-11-04T08:11:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/823601",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823601",
+        "retrievedAt": "2026-11-04T14:01:56.277466+08:00",
+        "sha256": "920f0e9ef553c610d45298cdb2ae42fc556e5e7e94ed796dc60e6ba8e2c40eea",
+        "paragraphCount": 16,
+        "excerpt": "中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
+      }
     },
     {
       "event": "证监会：全力维护资本市场平稳运行",
@@ -530,28 +530,44 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
-      "published": "2026-11-04T03:37:12+00:00",
+      "event": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网",
+      "published": "2026-11-04T05:41:25+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45LTd6ZVJmYUR6a3VmZ0c1Qm83YnkzdnFicHBQaGxjazk0dE9ZcEg0dkhmRDhEaEZjQ29LZzNQVjFwOU9mbVZjeWxCOTMydmlpWHFZanJFTy10YlhLc2lfdW51ZEZFRGxPY0tMU0JQZDF6OVpwWVZhTkNpWE1BbVU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网"
+      "originalTitle": "美众院民主党领袖：美国人民“受够了极端主义” - 新华网"
     },
     {
-      "event": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
-      "published": "2026-11-04T03:33:07+00:00",
+      "event": "美媒预测民主党重掌国会，特朗普发声 - 新华网",
+      "published": "2026-11-04T05:36:59+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZEk2N3VpWE0zb1lKcURaTnRKWHFfa19OVVlUNkxtLW1VRHBjSFh3OUdPcTc0cVBtaS1ocExRY1VSb08tcnNJeUxoU004bFkzZG5NZEZMVUR0V1VnUmVuRnhVMVZDb3VOeG5hcDFodjZqd2kxUVhJT3NaNUdYd2M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "前三季度我国服务进出口总额同比增长8.5% - 新华网"
+      "originalTitle": "美媒预测民主党重掌国会，特朗普发声 - 新华网"
     },
     {
-      "event": "2026水产品大会在山东威海开幕 - 新华网",
-      "published": "2026-11-04T03:18:33+00:00",
+      "event": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网",
+      "published": "2026-11-04T05:00:25+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaENHSDRJMmt3WEVKcDZtQy1vakZHdmdNWjNseFVuRFF5QVk0aHh2azhMdEk4MkdBT0FHN1Z6djkyVFlpUUZhdDZBWkhSU1ktOUJpMlA0bWU4SHdIZEViMDUxbUFWSjEzSGNUWlNJaWh0Z2ZKT00xM1F1WWlXWTg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "2026水产品大会在山东威海开幕 - 新华网"
+      "originalTitle": "伊朗称4艘“违规”油轮在霍尔木兹海峡触雷 - 新华网"
+    },
+    {
+      "event": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网",
+      "published": "2026-11-04T04:56:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wd0JNM3hSS2JaSVVsVUY0bnBaYTZOOVBHeVBRZHR4Mmp6R1Rucm9tbm1wOWJaQkU0UjF2Y1h1X241R3lmTEJRWE5YUllqUkV1Ry1wVUtQQ1QxM2d3OWU1VkVkX2ZTLWRSb3VWTUtNRjVvdFFqUWtCWHc3NWQ2azA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访丨中国正从制造业优势迈向综合创新生态——访国际发明家协会联合会主席拉斯特加 - 新华网"
+    },
+    {
+      "event": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道",
+      "published": "2026-11-04T04:18:40+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQnpIVHczLUtfQVJ6TmI0NWN1alVXNThBR2xZVXNfWWpFVlhqcm15Zl9SVE1oMzlwRVE1M09DZXRROVpSSXdNV09Sby1ncDlVaTZBamZISjNoSmFqUXhYcmc2ZnZxUXR4a2pnZlZ0ZkFTcTNx?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“青雁展翅”到“建真情”，建湖民营经济统战工作绘就“两个健康”新图景 - 新华网江苏频道"
     }
   ],
   "quality": {
@@ -565,10 +581,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
