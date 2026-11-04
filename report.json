@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 11:06",
+  "date": "更新于北京时间 2026-11-04 11:46",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T11:06:23+08:00",
+  "updatedAt": "2026-11-04T11:46:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 +0.02 个百分点",
+          "summary": "4.59 %；变化 +0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
+            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,51 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T11:30:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823676"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T11:05:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823658"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "超26万手封单！磷化铟龙头，涨停",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-04T10:34:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/823656"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中国人民银行加力实施股票回购增持再贷款政策",
           "summary": "",
           "paragraphs": [
@@ -193,32 +238,15 @@
         },
         {
           "type": "explainer",
-          "title": "今晨，长鑫科技拟大幅增加回购金额",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T08:39:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 11月4日早间，长鑫科技（688825）发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/823612"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-04T08:21:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/823592"
             }
           ]
@@ -229,12 +257,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-04T08:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/823601"
             }
           ]
@@ -256,76 +283,46 @@
         },
         {
           "type": "explainer",
-          "title": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
+          "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:55:03+00:00；来源：新华网。",
+            "发布时间：2026-11-04T03:37:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
+          "title": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:55:00+00:00；来源：新华网。",
+            "发布时间：2026-11-04T03:33:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
+          "title": "2026水产品大会在山东威海开幕 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T02:54:56+00:00；来源：新华网。",
+            "发布时间：2026-11-04T03:18:33+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T02:43:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-04T02:40:54+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5"
             }
           ]
         }
@@ -383,8 +380,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-02"
     },
     {
@@ -393,14 +390,14 @@
       "asOf": "2026-11-02"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-02"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-03"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-02"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -413,19 +410,29 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-03"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-02"
+    },
+    {
+      "title": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
+      "url": "https://www.cnstock.com/commonDetail/823676",
+      "asOf": "2026-11-04T11:30:00+08:00"
+    },
+    {
+      "title": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
+      "url": "https://www.cnstock.com/commonDetail/823658",
+      "asOf": "2026-11-04T11:05:00+08:00"
+    },
+    {
+      "title": "超26万手封单！磷化铟龙头，涨停",
+      "url": "https://www.cnstock.com/commonDetail/823656",
+      "asOf": "2026-11-04T10:34:00+08:00"
     },
     {
       "title": "中国人民银行加力实施股票回购增持再贷款政策",
       "url": "https://www.cnstock.com/commonDetail/823622",
       "asOf": "2026-11-04T09:18:00+08:00"
-    },
-    {
-      "title": "今晨，长鑫科技拟大幅增加回购金额",
-      "url": "https://www.cnstock.com/commonDetail/823612",
-      "asOf": "2026-11-04T08:39:00+08:00"
     },
     {
       "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
@@ -443,32 +450,46 @@
       "asOf": "2026-11-04T08:10:00+08:00"
     },
     {
-      "title": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5",
-      "asOf": "2026-11-04T02:55:03+00:00"
+      "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5",
+      "asOf": "2026-11-04T03:37:12+00:00"
     },
     {
-      "title": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5",
-      "asOf": "2026-11-04T02:55:00+00:00"
+      "title": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5",
+      "asOf": "2026-11-04T03:33:07+00:00"
     },
     {
-      "title": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5",
-      "asOf": "2026-11-04T02:54:56+00:00"
-    },
-    {
-      "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5",
-      "asOf": "2026-11-04T02:43:18+00:00"
-    },
-    {
-      "title": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5",
-      "asOf": "2026-11-04T02:40:54+00:00"
+      "title": "2026水产品大会在山东威海开幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5",
+      "asOf": "2026-11-04T03:18:33+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
+      "originalTitle": "中国黄金协会：前三季度我国黄金产量同比下降18.71%",
+      "published": "2026-11-04T11:30:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823676",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
+      "originalTitle": "国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
+      "published": "2026-11-04T11:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823658",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "超26万手封单！磷化铟龙头，涨停",
+      "originalTitle": "超26万手封单！磷化铟龙头，涨停",
+      "published": "2026-11-04T10:34:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823656",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "中国人民银行加力实施股票回购增持再贷款政策",
       "originalTitle": "中国人民银行加力实施股票回购增持再贷款政策",
@@ -478,25 +499,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/823622",
-        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
+        "retrievedAt": "2026-11-04T11:46:49.947043+08:00",
         "sha256": "7a8218399b33ec974daa9b20119626107f672f63207aef42ede9571e68ee9af5",
         "paragraphCount": 3,
         "excerpt": "上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
-      }
-    },
-    {
-      "event": "今晨，长鑫科技拟大幅增加回购金额",
-      "originalTitle": "今晨，长鑫科技拟大幅增加回购金额",
-      "published": "2026-11-04T08:39:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823612",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823612",
-        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
-        "sha256": "d5dbe97d0a53259dd8ec1ab7e283cd79c2f9fc9ae8955451a4a82e4c9090f320",
-        "paragraphCount": 3,
-        "excerpt": "上证报中国证券网讯 11月4日早间，长鑫科技（688825）发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿"
       }
     },
     {
@@ -505,14 +511,7 @@
       "published": "2026-11-04T08:21:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/823592",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823592",
-        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
-        "sha256": "9a016617c59d318d08adb437bd355d99f441f66f44f8302b436c90c46083f90f",
-        "paragraphCount": 15,
-        "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
@@ -520,14 +519,7 @@
       "published": "2026-11-04T08:11:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/823601",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/823601",
-        "retrievedAt": "2026-11-04T11:06:23.280571+08:00",
-        "sha256": "9266e1c483b4205f77b6dc6797dd31665aeb2f7d9149b42726b74616c5d6f809",
-        "paragraphCount": 16,
-        "excerpt": "中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "证监会：全力维护资本市场平稳运行",
@@ -538,44 +530,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网",
-      "published": "2026-11-04T02:55:03+00:00",
+      "event": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网",
+      "published": "2026-11-04T03:37:12+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUVrSFduU1drdnZYNG12SGVKTzVPR3U3UmlEaEZkbGtDQUhfbmFxb2kxb1gtZWNKNmVVNXpuUkVraFhrcXNrUjJkV2JpQWZYZTZzTjhCN09oc3ZvUnd0OEFMOEZfSk5Mc2FzR1EzQkhyMHBIZU1qQ3E0WkxKdEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43d2t2dmh3SC1NQm5rWXJLMzRPQURPdUMzRHIzc2VLNFd0dUtEYmdfUHZSYVdMcHA3WFhNYkFteHhZQUpQOS1JRG5RRkc2MEQtMlNiQUYyZ2ZvUVhTUENiazBjdDhmV3k4SGU3cXVqZW5lWWwwRVMxUWZFdko?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会乒乓球16强赛：李和宸轻松晋级 姚睿轩惜败止步 - 新华网"
+      "originalTitle": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布 - 新华网"
     },
     {
-      "event": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网",
-      "published": "2026-11-04T02:55:00+00:00",
+      "event": "前三季度我国服务进出口总额同比增长8.5% - 新华网",
+      "published": "2026-11-04T03:33:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcFJSaWx6dVNLT1habTNiNnFKemtBeUlmUFZwdkxtejg4enZOOW53ZER5TFNIRnk0Z2ZlZk91b3NyS3NSVUtzTWxGWmNhZFMzejY5azJwMHF5b25hWTFURFVNXzIxVmRHWXhONkQ1TlJxQm9JQXMxQ1hLS2trSEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkE5S0dDZ3NIZnlLUUhkM29lb1lTT05EMmtPMGdON1hHRHBMU3lBRGNtRTQ1Y3ZyNzlTME5wRGpRRTFhMWtIcnFBck1HdVNDNlJVcVNGVnNsS2JKNlBMSkFxOVVBM2hIVzdrd0VQcTVaZEd2RHh2WGxJbUVCRUxyd2tR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会夺冠后，16岁的“小孩哥”金句频出 - 新华网"
+      "originalTitle": "前三季度我国服务进出口总额同比增长8.5% - 新华网"
     },
     {
-      "event": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网",
-      "published": "2026-11-04T02:54:56+00:00",
+      "event": "2026水产品大会在山东威海开幕 - 新华网",
+      "published": "2026-11-04T03:18:33+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NFF5MzNqSG9uc1VHbU9LVmI5ckt2THZ0N3JrUWw3alVXN1l3bWJHRUZCdG9VRnRFY1hUT2k0M2ZzOFdqMXAtVWNfd1JWMW94UlBtbHd5ZmxiWGNkV2VaVWxRRmNKZ20zUXpzb2F3dzZEdlpzS2V0UEk5VVQxQjg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tQXRJR3dsa1phTmJrbWhBQ0ZMaVlxLVJiNTNZVUNPZ0w4cFNxSVFSRXQ2U3MyNXE3WnhibXg2bnNGRWhwQ3dIVHptclhiMlJoeDgtY3pDNks3bTNrc20zdURCbkJPeV9iSkphaUZqbG5jbTlUNUlZTWo2WU0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "奥运赛事首次决出武术金牌 参赛选手“各显神通” - 新华网"
-    },
-    {
-      "event": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网",
-      "published": "2026-11-04T02:43:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bDZhOTcwakFtZzdQaTM1UDhpcW5wMkI2dDdaMXBLTUFoc0NHQlFSd1ZlVlFvODd6VHlWMlRZR19iakVHam5jeHVMRGw4RS1QWVZZd290TTJGSHNwQ1puMGZiWjIyelFSNzZWejhjTXhHclh4RmtMVG9oUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选” - 新华网"
-    },
-    {
-      "event": "陆委会称现在没有“台独”问题 国台办回应 - 新华网",
-      "published": "2026-11-04T02:40:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "陆委会称现在没有“台独”问题 国台办回应 - 新华网"
+      "originalTitle": "2026水产品大会在山东威海开幕 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +565,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
