@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 09:18",
+  "date": "更新于北京时间 2026-11-04 10:41",
   "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T09:18:50+08:00",
+  "updatedAt": "2026-11-04T10:41:42+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
+          "summary": "2026-11-02：4.91 %；较 2026-10-30 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 +0.02 个百分点",
+          "summary": "4.59 %；变化 +0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：美国财政部。"
+            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.95 %；变化 +0.04 个百分点",
+          "summary": "4.91 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：美国财政部。"
+            "观测日 2026-11-02；前值 4.94（2026-10-30）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,151 +177,156 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
+          "title": "中国人民银行加力实施股票回购增持再贷款政策",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T01:07:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T09:18:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823622"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "山东印发行动计划加快现代海洋产业发展 - 新华网",
+          "title": "今晨，长鑫科技拟大幅增加回购金额",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T01:01:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T08:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 11月4日早间，长鑫科技（688825）发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823612"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
+          "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T00:16:13+00:00；来源：新华网上海频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T08:21:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823592"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
+          "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:56:38+00:00；来源：新华网重庆。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T08:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823601"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
+          "title": "证监会：全力维护资本市场平稳运行",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-04T08:10:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月3日，中国证监会副主席李超在2026国际金融领袖投资峰会上表示，当前世界正经历百年变局，以人工智能为代表的新一轮科技革命和产业变革加速突破，推进金融高质量发展面临新形势、新机遇和新挑战。中国证监会将会同相关方面认真推动内地与香港资本市"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823234"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/823600"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "景嘉微：斥资约5349万元首次回购122.37万股股份",
+          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-04T02:34:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823171"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
+          "title": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:32:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-04T02:26:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823177"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "服务零售额增长5%，折射消费之变 - 新华网",
+          "title": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T23:27:40+00:00；来源：新华网。",
+            "发布时间：2026-11-04T02:17:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzFvc1ZRS3N5MEZZMmJnR3drQkh5cWFuamIzVGd1cjNFUXRPS0R3YVZTWkVTQnQyeHZvYU9iY18xWlJzMGdaZWd5VjhzSlliWjFndXNudnQ1V05GNU9sa2lwYjc0STZ5b3hZeUljRThMMFNORS1talF5ZGNMRF9EcU9R?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "努力让这条母亲河越来越美——写在党领导人民治黄80年之际",
+          "title": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T22:46:00+08:00；来源：新华社。",
+            "发布时间：2026-11-04T02:15:59+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823530"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "A股市场，“自助者”越来越多",
+          "title": "央行近五年首次上调外汇存款准备金率 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-03T20:07:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-04T02:05:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/823336"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5"
             }
           ]
         }
@@ -404,146 +409,181 @@
       "asOf": "2026-11-02"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-03"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-02"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-03"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-02"
     },
     {
-      "title": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5",
-      "asOf": "2026-11-04T01:07:16+00:00"
+      "title": "中国人民银行加力实施股票回购增持再贷款政策",
+      "url": "https://www.cnstock.com/commonDetail/823622",
+      "asOf": "2026-11-04T09:18:00+08:00"
     },
     {
-      "title": "山东印发行动计划加快现代海洋产业发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5",
-      "asOf": "2026-11-04T01:01:42+00:00"
+      "title": "今晨，长鑫科技拟大幅增加回购金额",
+      "url": "https://www.cnstock.com/commonDetail/823612",
+      "asOf": "2026-11-04T08:39:00+08:00"
     },
     {
-      "title": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5",
-      "asOf": "2026-11-04T00:16:13+00:00"
+      "title": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
+      "url": "https://www.cnstock.com/commonDetail/823592",
+      "asOf": "2026-11-04T08:21:00+08:00"
     },
     {
-      "title": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5",
-      "asOf": "2026-11-03T23:56:38+00:00"
+      "title": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
+      "url": "https://www.cnstock.com/commonDetail/823601",
+      "asOf": "2026-11-04T08:11:00+08:00"
     },
     {
-      "title": "星源材质：董事会审议通过前三季度利润分配预案议案",
-      "url": "https://www.cnstock.com/commonDetail/823234",
-      "asOf": "2026-11-03T23:32:00+08:00"
+      "title": "证监会：全力维护资本市场平稳运行",
+      "url": "https://www.cnstock.com/commonDetail/823600",
+      "asOf": "2026-11-04T08:10:00+08:00"
     },
     {
-      "title": "景嘉微：斥资约5349万元首次回购122.37万股股份",
-      "url": "https://www.cnstock.com/commonDetail/823171",
-      "asOf": "2026-11-03T23:32:00+08:00"
+      "title": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5",
+      "asOf": "2026-11-04T02:34:07+00:00"
     },
     {
-      "title": "圣达生物：已斥资1142.62万元回购97.36万股股份",
-      "url": "https://www.cnstock.com/commonDetail/823177",
-      "asOf": "2026-11-03T23:32:00+08:00"
+      "title": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5",
+      "asOf": "2026-11-04T02:26:13+00:00"
     },
     {
-      "title": "服务零售额增长5%，折射消费之变 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzFvc1ZRS3N5MEZZMmJnR3drQkh5cWFuamIzVGd1cjNFUXRPS0R3YVZTWkVTQnQyeHZvYU9iY18xWlJzMGdaZWd5VjhzSlliWjFndXNudnQ1V05GNU9sa2lwYjc0STZ5b3hZeUljRThMMFNORS1talF5ZGNMRF9EcU9R?oc=5",
-      "asOf": "2026-11-03T23:27:40+00:00"
+      "title": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5",
+      "asOf": "2026-11-04T02:17:44+00:00"
     },
     {
-      "title": "努力让这条母亲河越来越美——写在党领导人民治黄80年之际",
-      "url": "https://www.cnstock.com/commonDetail/823530",
-      "asOf": "2026-11-03T22:46:00+08:00"
+      "title": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5",
+      "asOf": "2026-11-04T02:15:59+00:00"
     },
     {
-      "title": "A股市场，“自助者”越来越多",
-      "url": "https://www.cnstock.com/commonDetail/823336",
-      "asOf": "2026-11-03T20:07:00+08:00"
+      "title": "央行近五年首次上调外汇存款准备金率 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5",
+      "asOf": "2026-11-04T02:05:14+00:00"
     }
   ],
   "events": [
     {
-      "event": "首次摆上“双十一”货架 Token走进大众消费 - 新华网",
-      "published": "2026-11-04T01:07:16+00:00",
+      "event": "中国人民银行加力实施股票回购增持再贷款政策",
+      "originalTitle": "中国人民银行加力实施股票回购增持再贷款政策",
+      "published": "2026-11-04T09:18:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823622",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823622",
+        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "sha256": "ccdaf2c83e071ee99c4bcf9f529d4a8d727b8fda8e121f4b28cb37f9a8f06039",
+        "paragraphCount": 3,
+        "excerpt": "上证报中国证券网讯 据中国人民银行11月4日消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。"
+      }
+    },
+    {
+      "event": "今晨，长鑫科技拟大幅增加回购金额",
+      "originalTitle": "今晨，长鑫科技拟大幅增加回购金额",
+      "published": "2026-11-04T08:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/823612",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823612",
+        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "sha256": "299367074df45e7dbb24ad376e7d428c7f5d5502a847facdd020e2dbc8c5fe47",
+        "paragraphCount": 3,
+        "excerpt": "上证报中国证券网讯 11月4日早间，长鑫科技（688825）发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿"
+      }
+    },
+    {
+      "event": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
+      "originalTitle": "从“卖产品”到“管账户”——“十五五”券业新使命调研之华鑫证券样本",
+      "published": "2026-11-04T08:21:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/823592",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823592",
+        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "sha256": "c362f1951438d81d38cccbf970dc760de59c1c1af9d32c5f78b8e905b04e8dba",
+        "paragraphCount": 15,
+        "excerpt": "近期，中国证监会明确“十五五”时期资本市场八大工作方向。其中，在推进行业机构高质量发展方面，要求“进一步加快建设一流投资银行和投资机构。更加突出功能性要求，持续推动行业机构专注主业、完善治理、错位发展，提升综合实力与专业服务能力。积极培育良"
+      }
+    },
+    {
+      "event": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
+      "originalTitle": "上调外汇存款准备金率 央行出手稳汇率 逆周期调节缓释人民币升值压力",
+      "published": "2026-11-04T08:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/823601",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823601",
+        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "sha256": "9266e1c483b4205f77b6dc6797dd31665aeb2f7d9149b42726b74616c5d6f809",
+        "paragraphCount": 16,
+        "excerpt": "中国人民银行11月3日发布公告称，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。"
+      }
+    },
+    {
+      "event": "证监会：全力维护资本市场平稳运行",
+      "originalTitle": "证监会：全力维护资本市场平稳运行",
+      "published": "2026-11-04T08:10:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/823600",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/823600",
+        "retrievedAt": "2026-11-04T10:41:42.843418+08:00",
+        "sha256": "04626a08185cd205d7084c89904d7a2f02bd0c0cfc45b7eda693b8ed2bb7438e",
+        "paragraphCount": 11,
+        "excerpt": "11月3日，中国证监会副主席李超在2026国际金融领袖投资峰会上表示，当前世界正经历百年变局，以人工智能为代表的新一轮科技革命和产业变革加速突破，推进金融高质量发展面临新形势、新机遇和新挑战。中国证监会将会同相关方面认真推动内地与香港资本市"
+      }
+    },
+    {
+      "event": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网",
+      "published": "2026-11-04T02:34:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9McWtfWUNpWGtvNGpJcHZYWGZValg3WEwyQnAtQVQzNzR2WkdIZHR3U2lGT2ZvWHNCN0lTb0tCUk92NS0ydWlWYzhrbkswT3I3YlJCNURWSkVlOHMzUnh3TW1BaTNqOEtrR2x1RGdwRGJDNm5XZjVWRThCWDB2dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWlE4enZva0o3THA0VHI3QlFIakFlMDlVT3FkMjVtUWl4bnFSRFRQTGQ2cXJNTUFQZWwzV1NOOGhpWjd1ZHlmZjJYcG5PZW4wVmhuWmZmblZvUWVQeEllanA2TTlWM2lKRlp1S0NqUDgzZnZlbzZXSkJlQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "首次摆上“双十一”货架 Token走进大众消费 - 新华网"
+      "originalTitle": "国台办评“吉林一号”公布多张台湾高清卫星影像 - 新华网"
     },
     {
-      "event": "山东印发行动计划加快现代海洋产业发展 - 新华网",
-      "published": "2026-11-04T01:01:42+00:00",
+      "event": "美国媒体预计民主党将夺回众议院多数席位 - 新华网",
+      "published": "2026-11-04T02:26:13+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkhtZjMzQnIySllra0lOMWhBS1FQSFhOanRsZ2hSYWJUZU9qVktxUlVjZy1fUzJ2QURPeGR4c01HbW5tZzNRWWJ4OHExNE5wVVhqSXE4NUJqaUdUVl9VWnA2RW9HSWlKSzVHakdER3h0VmFp?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbWpmNUF3U1JyanExN2xzc2x6aV9iOHFMZ3hmc0VrUGd6N01kaUJOd3k3bXpKVmhhZmN3b1NoUVVvZEdJSUhVclVyMDFjMmlTMDZRbklrRDBZRUxCWGtQenViWTNNcldsaEVReWhzcEVzM3F6aTR6aE9pc1Y5Zjg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东印发行动计划加快现代海洋产业发展 - 新华网"
+      "originalTitle": "美国媒体预计民主党将夺回众议院多数席位 - 新华网"
     },
     {
-      "event": "第九届进博会｜共赴一场进博之约 - 新华网上海频道",
-      "published": "2026-11-04T00:16:13+00:00",
-      "publisher": "新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GV2RLd2pBMWh3ZnpJWmhET0Y3R2VJZU9VQ3Z0MUVxMG84dGZjUUxwQTBTM0l1dVJvRVZTUmdFWW84aEhNTkNOSWt2WFZWVlNuRE1nMU9RMlNaVzU0T3lueHV6cXktRWRvNC1ZX2Z4Q2dPY20t?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会｜共赴一场进博之约 - 新华网上海频道"
-    },
-    {
-      "event": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆",
-      "published": "2026-11-03T23:56:38+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTVBkdHBtdURod2tXSHJBYlpYNk1wLTZrZzhBUFZlbTBmbVRoRVZhTk9fZkNfbDl2emV6Sm0xdWE1eXUtckI3NEszdF9qc3hCaVZncmtGb2pyeUJBTWo3N3lnM3lXTWtXQWlWTkloX1E3cEN5eEE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "持之以恒推进全面从严治党 纵深推进新时代市域党建新高地建设 - 新华网重庆"
-    },
-    {
-      "event": "星源材质：董事会审议通过前三季度利润分配预案议案",
-      "originalTitle": "星源材质：董事会审议通过前三季度利润分配预案议案",
-      "published": "2026-11-03T23:32:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823234",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "景嘉微：斥资约5349万元首次回购122.37万股股份",
-      "originalTitle": "景嘉微：斥资约5349万元首次回购122.37万股股份",
-      "published": "2026-11-03T23:32:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823171",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "圣达生物：已斥资1142.62万元回购97.36万股股份",
-      "originalTitle": "圣达生物：已斥资1142.62万元回购97.36万股股份",
-      "published": "2026-11-03T23:32:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823177",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "服务零售额增长5%，折射消费之变 - 新华网",
-      "published": "2026-11-03T23:27:40+00:00",
+      "event": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网",
+      "published": "2026-11-04T02:17:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzFvc1ZRS3N5MEZZMmJnR3drQkh5cWFuamIzVGd1cjNFUXRPS0R3YVZTWkVTQnQyeHZvYU9iY18xWlJzMGdaZWd5VjhzSlliWjFndXNudnQ1V05GNU9sa2lwYjc0STZ5b3hZeUljRThMMFNORS1talF5ZGNMRF9EcU9R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUW9rWGxwUTU5WFJzTGRMQ1U1TzVYcnVMajQ2dkJWbmJCcERpdHp4d0dfalVmeGd1eTNneTRvZWF3N2NJcjhOSDQ0bTM2YllCU1R5NEdEOTg0Z3YxUGdXVEJYSE1mV1J0ZUFKQy1iZURYT1ZJbUJ0VTdMcG5JdWs?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "服务零售额增长5%，折射消费之变 - 新华网"
+      "originalTitle": "青奥会｜沙滩排球：中国组合庄茗/齐思语晋级女子四强 - 新华网"
     },
     {
-      "event": "努力让这条母亲河越来越美——写在党领导人民治黄80年之际",
-      "originalTitle": "努力让这条母亲河越来越美——写在党领导人民治黄80年之际",
-      "published": "2026-11-03T22:46:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/823530",
-      "evidenceLevel": "headline-only"
+      "event": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网",
+      "published": "2026-11-04T02:15:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyd1hSZ045ckE0cm1sbHE0cVdXU0g2czRnX19hdjYwUC1vYVNUc19DS3VrR3hPYkR0S1h0bHdjSGdDZ3BtV0ZXS3NIdEdQTHgyUUFVNEoyQ2RuYm9OcDZKY1hFRi1nNHBmU2VQcHJodDA2c2x5dEw5czJvalpOdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访｜“我们的发展和未来离不开中国”——访巴西淡水河谷公司高管 - 新华网"
     },
     {
-      "event": "A股市场，“自助者”越来越多",
-      "originalTitle": "A股市场，“自助者”越来越多",
-      "published": "2026-11-03T20:07:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/823336",
-      "evidenceLevel": "headline-only"
+      "event": "央行近五年首次上调外汇存款准备金率 - 新华网",
+      "published": "2026-11-04T02:05:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocjlhdE1UQ0xVNVZob0FybVl3Z19sUUZGRlpxSU45UkVhZnVxR0J4MmxXN0toYVg2SVB3OTNBT01pU3JXRURWUjZJd0RQamtXYzM1RkhXdDVjUDc1VVhJTEdfVjQtWEo0NUFUd0R4bHZSNWtmRmc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "央行近五年首次上调外汇存款准备金率 - 新华网"
     }
   ],
   "quality": {
@@ -556,12 +596,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
