@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 14:48",
+  "date": "更新于北京时间 2026-11-05 15:21",
   "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T14:48:31+08:00",
+  "updatedAt": "2026-11-05T15:21:23+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -197,11 +197,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T13:28:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/824339"
             }
           ]
@@ -284,6 +285,36 @@
         },
         {
           "type": "explainer",
+          "title": "中国石油集团召开天然气冬季保供动员部署会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T06:14:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXZiSGN0cUJWSzVxXy14YldMa1FFWDF5cnN4TGpERXh6dHBScDVHZllxZ3NteWRlRHdlYW1hME1wUzBJY1RxR1ducWFlYU5xWWludDBXT2hKYXlsYk1MYnV1NlRBTzQ1RG03MWs4OExFWDFxTmFiRGZBVWVFZEJpeQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "隆基钟宝申：能源转型应落脚在增进人类福祉 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T06:14:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2ZhSGxiMXVza3hGZFZ6ZmdDY2FNQmZNZ2JUSnVSeEtNTld5aExRemtJSzB1VG96emV2b25xZGJmb0hOTjlKVUlHTkQ2RzBnbzI0c0FDTW1xb29KYndaT1BRZnN6Y3pCZUJmOFRFeDB2SGdYeWc3WTBmQXVSQmNnRw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -294,36 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T04:21:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T03:30:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5"
             }
           ]
         }
@@ -391,11 +392,6 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-04"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-04"
@@ -406,13 +402,18 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-03"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-04"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-03"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-03"
     },
     {
@@ -451,19 +452,19 @@
       "asOf": "2026-11-05T06:36:34+00:00"
     },
     {
+      "title": "中国石油集团召开天然气冬季保供动员部署会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXZiSGN0cUJWSzVxXy14YldMa1FFWDF5cnN4TGpERXh6dHBScDVHZllxZ3NteWRlRHdlYW1hME1wUzBJY1RxR1ducWFlYU5xWWludDBXT2hKYXlsYk1MYnV1NlRBTzQ1RG03MWs4OExFWDFxTmFiRGZBVWVFZEJpeQ?oc=5",
+      "asOf": "2026-11-05T06:14:07+00:00"
+    },
+    {
+      "title": "隆基钟宝申：能源转型应落脚在增进人类福祉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2ZhSGxiMXVza3hGZFZ6ZmdDY2FNQmZNZ2JUSnVSeEtNTld5aExRemtJSzB1VG96emV2b25xZGJmb0hOTjlKVUlHTkQ2RzBnbzI0c0FDTW1xb29KYndaT1BRZnN6Y3pCZUJmOFRFeDB2SGdYeWc3WTBmQXVSQmNnRw?oc=5",
+      "asOf": "2026-11-05T06:14:05+00:00"
+    },
+    {
       "title": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5",
       "asOf": "2026-11-05T06:06:51+00:00"
-    },
-    {
-      "title": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5",
-      "asOf": "2026-11-05T04:21:07+00:00"
-    },
-    {
-      "title": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5",
-      "asOf": "2026-11-05T03:30:46+00:00"
     }
   ],
   "events": [
@@ -476,7 +477,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824365",
-        "retrievedAt": "2026-11-05T14:48:31.088521+08:00",
+        "retrievedAt": "2026-11-05T15:21:23.550647+08:00",
         "sha256": "7acfec6812bb10d6fb63bb0dc01f8fe50bdd252a8c7f42bb648f8da43ef982f0",
         "paragraphCount": 2,
         "excerpt": "上证报中国证券网讯 据国务院国资委11月5日消息，11月4日，国务院国资委党委召开国资央企传达学习贯彻党的二十届五中全会精神视频会议，在前期学习基础上，对学习宣传贯彻工作再安排、再部署。"
@@ -488,7 +489,14 @@
       "published": "2026-11-05T13:28:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824339",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824339",
+        "retrievedAt": "2026-11-05T15:21:23.550647+08:00",
+        "sha256": "e858c60af7fe96a4aa06e8cfcdc90fa378687f71f0cc6eb26d76e604291a7c99",
+        "paragraphCount": 4,
+        "excerpt": "上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
+      }
     },
     {
       "event": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
@@ -499,7 +507,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824332",
-        "retrievedAt": "2026-11-05T14:48:31.088521+08:00",
+        "retrievedAt": "2026-11-05T15:21:23.550647+08:00",
         "sha256": "38fd57ec92100cffae673643eda2d303a55ee5e950518510b11a84cea671dc98",
         "paragraphCount": 5,
         "excerpt": "上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
@@ -538,28 +546,28 @@
       "originalTitle": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网"
     },
     {
+      "event": "中国石油集团召开天然气冬季保供动员部署会 - 新华网",
+      "published": "2026-11-05T06:14:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXZiSGN0cUJWSzVxXy14YldMa1FFWDF5cnN4TGpERXh6dHBScDVHZllxZ3NteWRlRHdlYW1hME1wUzBJY1RxR1ducWFlYU5xWWludDBXT2hKYXlsYk1MYnV1NlRBTzQ1RG03MWs4OExFWDFxTmFiRGZBVWVFZEJpeQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国石油集团召开天然气冬季保供动员部署会 - 新华网"
+    },
+    {
+      "event": "隆基钟宝申：能源转型应落脚在增进人类福祉 - 新华网",
+      "published": "2026-11-05T06:14:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2ZhSGxiMXVza3hGZFZ6ZmdDY2FNQmZNZ2JUSnVSeEtNTld5aExRemtJSzB1VG96emV2b25xZGJmb0hOTjlKVUlHTkQ2RzBnbzI0c0FDTW1xb29KYndaT1BRZnN6Y3pCZUJmOFRFeDB2SGdYeWc3WTBmQXVSQmNnRw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "隆基钟宝申：能源转型应落脚在增进人类福祉 - 新华网"
+    },
+    {
       "event": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
       "published": "2026-11-05T06:06:51+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网"
-    },
-    {
-      "event": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
-      "published": "2026-11-05T04:21:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网"
-    },
-    {
-      "event": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
-      "published": "2026-11-05T03:30:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网"
     }
   ],
   "quality": {
@@ -573,7 +581,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
