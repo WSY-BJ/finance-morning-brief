@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 12:05",
+  "date": "更新于北京时间 2026-11-05 14:29",
   "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T12:05:40+08:00",
+  "updatedAt": "2026-11-05T14:29:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-03：7,568.92 点；较 2026-11-02 变化 +27.52 点。",
+          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
+          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,23 +94,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.90 %；变化 -0.05 个百分点",
+          "summary": "4.95 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：美国财政部。"
+            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.87 点；变化 +0.12 点",
+          "summary": "101.51 点；变化 -0.36 点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 101.75（2026-11-02）；来源：Yahoo Finance。"
+            "观测日 2026-11-04；前值 101.87（2026-11-03）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,568.92 点；变化 +27.52 点",
+          "summary": "7,688.62 点；变化 +119.70 点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 7,541.40（2026-11-02）；来源：Yahoo Finance。"
+            "观测日 2026-11-04；前值 7,568.92（2026-11-03）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,372.01 点；变化 +207.70 点",
+          "summary": "25,736.51 点；变化 +364.50 点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 25,164.31（2026-11-02）；来源：Yahoo Finance。"
+            "观测日 2026-11-04；前值 25,372.01（2026-11-03）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,16 +177,33 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国际金价重回4100美元/盎司上方",
+          "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-05T13:28:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824310"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824339"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T12:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824332"
             }
           ]
         },
@@ -202,6 +219,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824308"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国际金价重回4100美元/盎司上方",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824310"
             }
           ]
         },
@@ -226,12 +258,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T08:46:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：为维护资本市场平稳运行，金融管理部门加力实施股票回购增持再贷款政策。中国人民银行11月4日公告，下调股票回购增持再贷款利率0.25个百分点至1%。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824251"
             }
           ]
@@ -242,12 +273,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824240"
             }
           ]
@@ -258,73 +288,42 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T07:15:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：黄浦江畔，丹桂飘香；东方之约，再启新程。在“十五五”开局起步的关键节点，全球目光再度聚焦上海。11月5日，第九届中国国际进口博览会即将启幕。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824222"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
+          "title": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T03:16:55+00:00；来源：新华网。",
+            "发布时间：2026-11-05T04:21:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
+          "title": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T02:58:13+00:00；来源：新华网。",
+            "发布时间：2026-11-05T03:30:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社权威快报丨第九届进博会开幕式举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T02:02:22+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85QjdDZ0xOZDdvOEo5UXBiZ1paUGpyZHRDaUFYbXdSTnJYMmpQZFRDbXd3UmhXanFxVmpZaVBQWlNZQXoybWVPYjMzakVrVHJ0QjdrNXlYdktrdDBsdVF0WGRJSDlSVllJbDZyMk9OeER5T3FRQWtR?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T02:01:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5"
             }
           ]
         }
@@ -356,7 +355,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-02 前值 7541.3999，2026-11-03 现值 7568.9199，变化 +27.5200。",
+            "本期实例：标普 500 指数，2026-11-03 前值 7568.9199，2026-11-04 现值 7688.6201，变化 +119.7002。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -384,12 +383,17 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-03"
+      "asOf": "2026-11-04"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-03"
+      "asOf": "2026-11-04"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-04"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -397,19 +401,9 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-03"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-04"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -417,13 +411,28 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "国际金价重回4100美元/盎司上方",
-      "url": "https://www.cnstock.com/commonDetail/824310",
-      "asOf": "2026-11-05T11:16:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-03"
+    },
+    {
+      "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+      "url": "https://www.cnstock.com/commonDetail/824339",
+      "asOf": "2026-11-05T13:28:00+08:00"
+    },
+    {
+      "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+      "url": "https://www.cnstock.com/commonDetail/824332",
+      "asOf": "2026-11-05T12:16:00+08:00"
     },
     {
       "title": "全市场超4800只个股上涨！半导体，强！",
       "url": "https://www.cnstock.com/commonDetail/824308",
+      "asOf": "2026-11-05T11:16:00+08:00"
+    },
+    {
+      "title": "国际金价重回4100美元/盎司上方",
+      "url": "https://www.cnstock.com/commonDetail/824310",
       "asOf": "2026-11-05T11:16:00+08:00"
     },
     {
@@ -447,34 +456,46 @@
       "asOf": "2026-11-05T07:15:00+08:00"
     },
     {
-      "title": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5",
-      "asOf": "2026-11-05T03:16:55+00:00"
+      "title": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5",
+      "asOf": "2026-11-05T04:21:07+00:00"
     },
     {
-      "title": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5",
-      "asOf": "2026-11-05T02:58:13+00:00"
-    },
-    {
-      "title": "新华社权威快报丨第九届进博会开幕式举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85QjdDZ0xOZDdvOEo5UXBiZ1paUGpyZHRDaUFYbXdSTnJYMmpQZFRDbXd3UmhXanFxVmpZaVBQWlNZQXoybWVPYjMzakVrVHJ0QjdrNXlYdktrdDBsdVF0WGRJSDlSVllJbDZyMk9OeER5T3FRQWtR?oc=5",
-      "asOf": "2026-11-05T02:02:22+00:00"
-    },
-    {
-      "title": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5",
-      "asOf": "2026-11-05T02:01:37+00:00"
+      "title": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5",
+      "asOf": "2026-11-05T03:30:46+00:00"
     }
   ],
   "events": [
     {
-      "event": "国际金价重回4100美元/盎司上方",
-      "originalTitle": "国际金价重回4100美元/盎司上方",
-      "published": "2026-11-05T11:16:00+08:00",
+      "event": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+      "originalTitle": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+      "published": "2026-11-05T13:28:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824310",
-      "evidenceLevel": "headline-only"
+      "url": "https://www.cnstock.com/commonDetail/824339",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824339",
+        "retrievedAt": "2026-11-05T14:29:47.971678+08:00",
+        "sha256": "e858c60af7fe96a4aa06e8cfcdc90fa378687f71f0cc6eb26d76e604291a7c99",
+        "paragraphCount": 4,
+        "excerpt": "上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
+      }
+    },
+    {
+      "event": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+      "originalTitle": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+      "published": "2026-11-05T12:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824332",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824332",
+        "retrievedAt": "2026-11-05T14:29:47.971678+08:00",
+        "sha256": "e3b5ee7368e78e5f1b645b5faf5aa1ac7986a7e60554ac1fbc375993ef4feb38",
+        "paragraphCount": 5,
+        "excerpt": "上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
+      }
     },
     {
       "event": "全市场超4800只个股上涨！半导体，强！",
@@ -482,6 +503,14 @@
       "published": "2026-11-05T11:16:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824308",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国际金价重回4100美元/盎司上方",
+      "originalTitle": "国际金价重回4100美元/盎司上方",
+      "published": "2026-11-05T11:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824310",
       "evidenceLevel": "headline-only"
     },
     {
@@ -498,14 +527,7 @@
       "published": "2026-11-05T08:46:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824251",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824251",
-        "retrievedAt": "2026-11-05T12:05:40.924197+08:00",
-        "sha256": "6607a69af43fe4c9494ed23386fe368eff9d1c3cd4bac0250f12909bec029ee6",
-        "paragraphCount": 8,
-        "excerpt": "为维护资本市场平稳运行，金融管理部门加力实施股票回购增持再贷款政策。中国人民银行11月4日公告，下调股票回购增持再贷款利率0.25个百分点至1%。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "部分公司又有新增订单 国产半导体设备产业景气持续",
@@ -513,14 +535,7 @@
       "published": "2026-11-05T07:20:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824240",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824240",
-        "retrievedAt": "2026-11-05T12:05:40.924197+08:00",
-        "sha256": "d02dcb34dadb7946fc8f072ad9882aa35485b92d9558947c0ff72bf3206f1eea",
-        "paragraphCount": 21,
-        "excerpt": "11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
@@ -528,46 +543,23 @@
       "published": "2026-11-05T07:15:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/824222",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824222",
-        "retrievedAt": "2026-11-05T12:05:40.924197+08:00",
-        "sha256": "b6608d46516a20abe6317ae2fa92f5fbd9cb7274be820bd53983f508b9f8c9bd",
-        "paragraphCount": 39,
-        "excerpt": "黄浦江畔，丹桂飘香；东方之约，再启新程。在“十五五”开局起步的关键节点，全球目光再度聚焦上海。11月5日，第九届中国国际进口博览会即将启幕。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
-      "published": "2026-11-05T03:16:55+00:00",
+      "event": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
+      "published": "2026-11-05T04:21:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUjFFTG9kQ3B1Y2ljVUxQOGNQejhiOHM2T0wxRzNUckNNSjB0emRkMXEzQVpsX0I5azJveXlXdWxEZVVSZzFBWXByV0ZEQzVPZnlqYjM3NDBxNHFfSm5IN2VXc3ZBVjhURGwwUTRFWXNjcTdmVFMzazNBbEF0Tm8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新高有新意：进博会首发首展首秀产品超480件 - 新华网"
+      "originalTitle": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网"
     },
     {
-      "event": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
-      "published": "2026-11-05T02:58:13+00:00",
+      "event": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网",
+      "published": "2026-11-05T03:30:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMnI1ekJOU2lZaW8yQTloM1A1QjliYTZPdUlFV3l0bDBPdENmeHdQYk5FR1h3eHVEUDM1dGJLZEV6TkZyblduVUFvZkdRX0VVMzZHOXZvRUdXUjVYakJ1UUZyMmFFZUJGZUxWNk9meVd1Z0Q1M2JnVTNJYVM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "乌镇峰会话“开源” 传递哪些声音 - 新华网"
-    },
-    {
-      "event": "新华社权威快报丨第九届进博会开幕式举行 - 新华网",
-      "published": "2026-11-05T02:02:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85QjdDZ0xOZDdvOEo5UXBiZ1paUGpyZHRDaUFYbXdSTnJYMmpQZFRDbXd3UmhXanFxVmpZaVBQWlNZQXoybWVPYjMzakVrVHJ0QjdrNXlYdktrdDBsdVF0WGRJSDlSVllJbDZyMk9OeER5T3FRQWtR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报丨第九届进博会开幕式举行 - 新华网"
-    },
-    {
-      "event": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网",
-      "published": "2026-11-05T02:01:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网"
+      "originalTitle": "赢商者说 | AI时代，律师如何构建“不可替代”的职业能力？ - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +573,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
