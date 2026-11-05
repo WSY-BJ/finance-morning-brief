@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 14:29",
+  "date": "更新于北京时间 2026-11-05 14:48",
   "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T14:29:47+08:00",
+  "updatedAt": "2026-11-05T14:48:31+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,16 +177,31 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+          "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T13:28:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-05T14:09:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
+            "原文摘要：上证报中国证券网讯 据国务院国资委11月5日消息，11月4日，国务院国资委党委召开国资央企传达学习贯彻党的二十届五中全会精神视频会议，在前期学习基础上，对学习宣传贯彻工作再安排、再部署。"
           ],
           "links": [
             {
               "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824365"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T13:28:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824339"
             }
           ]
@@ -204,21 +219,6 @@
             {
               "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/824332"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "全市场超4800只个股上涨！半导体，强！",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824308"
             }
           ]
         },
@@ -254,36 +254,6 @@
         },
         {
           "type": "explainer",
-          "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T08:46:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824251"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824240"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
           "summary": "",
           "paragraphs": [
@@ -294,6 +264,36 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824222"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T06:36:34+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T06:06:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5"
             }
           ]
         },
@@ -386,13 +386,13 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-04"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-04"
     },
     {
@@ -416,6 +416,11 @@
       "asOf": "2026-11-03"
     },
     {
+      "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+      "url": "https://www.cnstock.com/commonDetail/824365",
+      "asOf": "2026-11-05T14:09:00+08:00"
+    },
+    {
       "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
       "url": "https://www.cnstock.com/commonDetail/824339",
       "asOf": "2026-11-05T13:28:00+08:00"
@@ -424,11 +429,6 @@
       "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
       "url": "https://www.cnstock.com/commonDetail/824332",
       "asOf": "2026-11-05T12:16:00+08:00"
-    },
-    {
-      "title": "全市场超4800只个股上涨！半导体，强！",
-      "url": "https://www.cnstock.com/commonDetail/824308",
-      "asOf": "2026-11-05T11:16:00+08:00"
     },
     {
       "title": "国际金价重回4100美元/盎司上方",
@@ -441,19 +441,19 @@
       "asOf": "2026-11-05T09:32:00+08:00"
     },
     {
-      "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
-      "url": "https://www.cnstock.com/commonDetail/824251",
-      "asOf": "2026-11-05T08:46:00+08:00"
-    },
-    {
-      "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
-      "url": "https://www.cnstock.com/commonDetail/824240",
-      "asOf": "2026-11-05T07:20:00+08:00"
-    },
-    {
       "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
       "url": "https://www.cnstock.com/commonDetail/824222",
       "asOf": "2026-11-05T07:15:00+08:00"
+    },
+    {
+      "title": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5",
+      "asOf": "2026-11-05T06:36:34+00:00"
+    },
+    {
+      "title": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5",
+      "asOf": "2026-11-05T06:06:51+00:00"
     },
     {
       "title": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
@@ -468,19 +468,27 @@
   ],
   "events": [
     {
+      "event": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+      "originalTitle": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+      "published": "2026-11-05T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824365",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824365",
+        "retrievedAt": "2026-11-05T14:48:31.088521+08:00",
+        "sha256": "7acfec6812bb10d6fb63bb0dc01f8fe50bdd252a8c7f42bb648f8da43ef982f0",
+        "paragraphCount": 2,
+        "excerpt": "上证报中国证券网讯 据国务院国资委11月5日消息，11月4日，国务院国资委党委召开国资央企传达学习贯彻党的二十届五中全会精神视频会议，在前期学习基础上，对学习宣传贯彻工作再安排、再部署。"
+      }
+    },
+    {
       "event": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
       "originalTitle": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
       "published": "2026-11-05T13:28:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824339",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824339",
-        "retrievedAt": "2026-11-05T14:29:47.971678+08:00",
-        "sha256": "e858c60af7fe96a4aa06e8cfcdc90fa378687f71f0cc6eb26d76e604291a7c99",
-        "paragraphCount": 4,
-        "excerpt": "上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
@@ -491,19 +499,11 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824332",
-        "retrievedAt": "2026-11-05T14:29:47.971678+08:00",
-        "sha256": "e3b5ee7368e78e5f1b645b5faf5aa1ac7986a7e60554ac1fbc375993ef4feb38",
+        "retrievedAt": "2026-11-05T14:48:31.088521+08:00",
+        "sha256": "38fd57ec92100cffae673643eda2d303a55ee5e950518510b11a84cea671dc98",
         "paragraphCount": 5,
         "excerpt": "上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
       }
-    },
-    {
-      "event": "全市场超4800只个股上涨！半导体，强！",
-      "originalTitle": "全市场超4800只个股上涨！半导体，强！",
-      "published": "2026-11-05T11:16:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824308",
-      "evidenceLevel": "headline-only"
     },
     {
       "event": "国际金价重回4100美元/盎司上方",
@@ -522,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
-      "originalTitle": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
-      "published": "2026-11-05T08:46:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/824251",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "部分公司又有新增订单 国产半导体设备产业景气持续",
-      "originalTitle": "部分公司又有新增订单 国产半导体设备产业景气持续",
-      "published": "2026-11-05T07:20:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/824240",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
       "originalTitle": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
       "published": "2026-11-05T07:15:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/824222",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
+      "published": "2026-11-05T06:36:34+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网"
+    },
+    {
+      "event": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网",
+      "published": "2026-11-05T06:06:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNWb1FhVGZnS3ozZlFzNmhYMDVlaEdUUFJ3YWhTUVFqUTBHR0pOVnR5QXAyRVVjMXBCMzcwNHF4YlM2RU5BVzExVGlJeFQycGUyNEhCeFJMZ080UVdOcVVxU1BEdTJzR2xsT2V4QjZDUm1ab0tPQ0JxSHJJaUNtc2Jn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "南铁加开多趟“秋游”列车方便旅客畅游赣闽 - 新华网"
     },
     {
       "event": "综合消息丨美国中期选举引关注 欧洲忧美政策谋自主 - 新华网",
@@ -573,8 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
