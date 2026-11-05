@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 10:45",
+  "date": "更新于北京时间 2026-11-05 11:37",
   "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T10:45:58+08:00",
+  "updatedAt": "2026-11-05T11:37:08+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
+          "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.58 %；变化 -0.03 个百分点",
+          "summary": "4.61 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：美国财政部。"
+            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.95 %；变化 +0.04 个百分点",
+          "summary": "4.90 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,37 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "全市场超4800只个股上涨！半导体，强！",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 11月5日早盘，A股主要指数走强，截至发稿，创业板指、深证成指涨逾2%，科创综指涨逾3%，沪指涨0.23%。全市场超4800只个股上涨。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824308"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国际金价重回4100美元/盎司上方",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824310"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "商务部在上海召开进博会参展跨国企业圆桌会",
           "summary": "",
           "paragraphs": [
@@ -213,44 +244,57 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824240"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "张雪机车“破土”的资本土壤",
+          "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近日，2026世界超级摩托车锦标赛（WSBK）WorldSSP组别赛季收官。张雪机车的法国车手瓦伦丁·德比斯获年度亚军，张雪机车以310分位列制造商积分榜第三，这是中国制造商首次以厂队身份征战该组别，并打破欧美日品牌长期主导格局。此前，车手"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824238"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T07:15:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-05T07:15:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824233"
+              "url": "https://www.cnstock.com/commonDetail/824222"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T03:16:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T02:58:13+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5"
             }
           ]
         },
@@ -281,51 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "去年我国具身智能市场规模约9150亿元增长20.4% - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T01:55:12+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ranZPZy1CemN3M21VRVJhRFhrLTh6UFREZHZZMTUwbk13R2xWeWFTd29OV3pkOTExX2Y1VDU4aEJNSGROMjVtUmZMNkRzMWFNcHJObVZHbzhzYTR6MExIU1U2YTFjZlMxS3VSZHlXU2E1cjAyVkE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2025年我国新型显示产业营收超8000亿元 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T01:54:44+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1Q5QnVLOXdHNWFLVXM1MWFfUjJoRXdrRVZ3Y2RTb1NHS2pQbHd3R2ZBYXgzMmFjN1NmSjNKeDJoaElZYURJbk0wamowcjNnOGR5cGRkWk5FUEt5NW9ZS0hDMUtsbV9PaFNlRS1ZdTVlclRjam0zanA5bEpzVkVKdg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“十五五”适度超前构建现代化基础设施体系 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T01:54:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwbURKSjhsaEhjaENEZ01oRm1PY19ybC1QdXBFQVVnVUdicV9FTW16RmtxTXJJN0JGNGpXRU9xaTdKaE16X1hCNkxGV3lFRWlOZ1JOZG9wTklIZ1JlUWJzeVAxXzA2b0VFWmk2c1h2M3RwSmM5dlE?oc=5"
             }
           ]
         }
@@ -383,18 +382,13 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-03"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-03"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-03"
     },
     {
@@ -403,19 +397,34 @@
       "asOf": "2026-11-04"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-03"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-04"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-03"
+    },
+    {
+      "title": "全市场超4800只个股上涨！半导体，强！",
+      "url": "https://www.cnstock.com/commonDetail/824308",
+      "asOf": "2026-11-05T11:16:00+08:00"
+    },
+    {
+      "title": "国际金价重回4100美元/盎司上方",
+      "url": "https://www.cnstock.com/commonDetail/824310",
+      "asOf": "2026-11-05T11:16:00+08:00"
     },
     {
       "title": "商务部在上海召开进博会参展跨国企业圆桌会",
@@ -433,14 +442,19 @@
       "asOf": "2026-11-05T07:20:00+08:00"
     },
     {
-      "title": "张雪机车“破土”的资本土壤",
-      "url": "https://www.cnstock.com/commonDetail/824238",
-      "asOf": "2026-11-05T07:20:00+08:00"
+      "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
+      "url": "https://www.cnstock.com/commonDetail/824222",
+      "asOf": "2026-11-05T07:15:00+08:00"
     },
     {
-      "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
-      "url": "https://www.cnstock.com/commonDetail/824233",
-      "asOf": "2026-11-05T07:15:00+08:00"
+      "title": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5",
+      "asOf": "2026-11-05T03:16:55+00:00"
+    },
+    {
+      "title": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5",
+      "asOf": "2026-11-05T02:58:13+00:00"
     },
     {
       "title": "新华社权威快报丨第九届进博会开幕式举行 - 新华网",
@@ -451,24 +465,32 @@
       "title": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5",
       "asOf": "2026-11-05T02:01:37+00:00"
-    },
-    {
-      "title": "去年我国具身智能市场规模约9150亿元增长20.4% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ranZPZy1CemN3M21VRVJhRFhrLTh6UFREZHZZMTUwbk13R2xWeWFTd29OV3pkOTExX2Y1VDU4aEJNSGROMjVtUmZMNkRzMWFNcHJObVZHbzhzYTR6MExIU1U2YTFjZlMxS3VSZHlXU2E1cjAyVkE?oc=5",
-      "asOf": "2026-11-05T01:55:12+00:00"
-    },
-    {
-      "title": "2025年我国新型显示产业营收超8000亿元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1Q5QnVLOXdHNWFLVXM1MWFfUjJoRXdrRVZ3Y2RTb1NHS2pQbHd3R2ZBYXgzMmFjN1NmSjNKeDJoaElZYURJbk0wamowcjNnOGR5cGRkWk5FUEt5NW9ZS0hDMUtsbV9PaFNlRS1ZdTVlclRjam0zanA5bEpzVkVKdg?oc=5",
-      "asOf": "2026-11-05T01:54:44+00:00"
-    },
-    {
-      "title": "“十五五”适度超前构建现代化基础设施体系 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwbURKSjhsaEhjaENEZ01oRm1PY19ybC1QdXBFQVVnVUdicV9FTW16RmtxTXJJN0JGNGpXRU9xaTdKaE16X1hCNkxGV3lFRWlOZ1JOZG9wTklIZ1JlUWJzeVAxXzA2b0VFWmk2c1h2M3RwSmM5dlE?oc=5",
-      "asOf": "2026-11-05T01:54:42+00:00"
     }
   ],
   "events": [
+    {
+      "event": "全市场超4800只个股上涨！半导体，强！",
+      "originalTitle": "全市场超4800只个股上涨！半导体，强！",
+      "published": "2026-11-05T11:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824308",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824308",
+        "retrievedAt": "2026-11-05T11:37:08.262974+08:00",
+        "sha256": "740b4c693c58a067b42a102ad72ed82955eec0cfc6c0e5aafe45bf783d8182d0",
+        "paragraphCount": 22,
+        "excerpt": "上证报中国证券网讯 11月5日早盘，A股主要指数走强，截至发稿，创业板指、深证成指涨逾2%，科创综指涨逾3%，沪指涨0.23%。全市场超4800只个股上涨。"
+      }
+    },
+    {
+      "event": "国际金价重回4100美元/盎司上方",
+      "originalTitle": "国际金价重回4100美元/盎司上方",
+      "published": "2026-11-05T11:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824310",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "商务部在上海召开进博会参展跨国企业圆桌会",
       "originalTitle": "商务部在上海召开进博会参展跨国企业圆桌会",
@@ -478,7 +500,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824278",
-        "retrievedAt": "2026-11-05T10:45:58.509267+08:00",
+        "retrievedAt": "2026-11-05T11:37:08.262974+08:00",
         "sha256": "beb89c0f4991621d204360823201cd43d922ec8b5cf7c270f401a7acb0d8018e",
         "paragraphCount": 3,
         "excerpt": "上证报中国证券网讯 据商务部11月4日消息，11月4日，第九届中国国际进口博览会开幕前夕，商务部副部长兼中华人民共和国国际贸易谈判副代表凌激在上海主持召开进博会参展跨国企业圆桌会，鹏瑞利、欧姆龙、蔡司、赛诺菲、利洁时、波音、安赛乐米塔尔、沃"
@@ -493,8 +515,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824251",
-        "retrievedAt": "2026-11-05T10:45:58.509267+08:00",
-        "sha256": "1262f6553cb62a2ddfaeb3d74330adf2da01a21a02e5e63314e8562484e40c04",
+        "retrievedAt": "2026-11-05T11:37:08.262974+08:00",
+        "sha256": "6607a69af43fe4c9494ed23386fe368eff9d1c3cd4bac0250f12909bec029ee6",
         "paragraphCount": 8,
         "excerpt": "为维护资本市场平稳运行，金融管理部门加力实施股票回购增持再贷款政策。中国人民银行11月4日公告，下调股票回购增持再贷款利率0.25个百分点至1%。"
       }
@@ -505,37 +527,31 @@
       "published": "2026-11-05T07:20:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824240",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824240",
-        "retrievedAt": "2026-11-05T10:45:58.509267+08:00",
-        "sha256": "b36fef26830038cbe0ccbb7f7e6ffc9613c841d2990164ca62f2211279635b96",
-        "paragraphCount": 21,
-        "excerpt": "11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
-      }
-    },
-    {
-      "event": "张雪机车“破土”的资本土壤",
-      "originalTitle": "张雪机车“破土”的资本土壤",
-      "published": "2026-11-05T07:20:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/824238",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824238",
-        "retrievedAt": "2026-11-05T10:45:58.509267+08:00",
-        "sha256": "634d9df2daa1f6017f8c7bd423254d846f22de4bef00da96cd80ef7e5ceb7c9f",
-        "paragraphCount": 20,
-        "excerpt": "近日，2026世界超级摩托车锦标赛（WSBK）WorldSSP组别赛季收官。张雪机车的法国车手瓦伦丁·德比斯获年度亚军，张雪机车以310分位列制造商积分榜第三，这是中国制造商首次以厂队身份征战该组别，并打破欧美日品牌长期主导格局。此前，车手"
-      }
-    },
-    {
-      "event": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
-      "originalTitle": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
-      "published": "2026-11-05T07:15:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/824233",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
+      "originalTitle": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
+      "published": "2026-11-05T07:15:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/824222",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新高有新意：进博会首发首展首秀产品超480件 - 新华网",
+      "published": "2026-11-05T03:16:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0p0ZUNYelR2eFZKVHRMOXY4YXNOb05jVkNXOXpFTkUxRmQ4ZFdZd1hRb2dVMEFWZHk3NWhMY29JUHpnUTRKa09BRGphR0kwb0x4ak45WnR3Y0dqYU1vb05yX0o2ZDdiWmotaHgyTDh4N2dPeUhMUk9vUXVybFlXbWZn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新高有新意：进博会首发首展首秀产品超480件 - 新华网"
+    },
+    {
+      "event": "乌镇峰会话“开源” 传递哪些声音 - 新华网",
+      "published": "2026-11-05T02:58:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR0hldUUtcWRQcUp2V2R3MG1qamJZRFJUYzd3eEtNVmhLVVVEOTdpNTM2ZXFjV25vLUt3RFM3NkJZc2ZYeW1tSzJQRElRYzM2N3F4TG5DRW1MVDc1TVd6OXJmOEdUZll5N1FkeWFsNnpvc0RTZlE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "乌镇峰会话“开源” 传递哪些声音 - 新华网"
     },
     {
       "event": "新华社权威快报丨第九届进博会开幕式举行 - 新华网",
@@ -552,30 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcUE4UFZnZEZlUG5XVzQ0UTExTkxvM0dlVHQtQkVBeElCUjF3T3Z0azZ4NWlZLWFtdTZpNEVSOGNQYlJicWZJbmV3SDl2NDJSLUZ6RnFleTVjbVk5QmlGZ2ZOUkx1dTA5a0VQdWROblJtbkVEc2c?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "“浙里共创新 潮起向未来”——写在第八届世界浙商大会召开之际 - 新华网"
-    },
-    {
-      "event": "去年我国具身智能市场规模约9150亿元增长20.4% - 新华网",
-      "published": "2026-11-05T01:55:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ranZPZy1CemN3M21VRVJhRFhrLTh6UFREZHZZMTUwbk13R2xWeWFTd29OV3pkOTExX2Y1VDU4aEJNSGROMjVtUmZMNkRzMWFNcHJObVZHbzhzYTR6MExIU1U2YTFjZlMxS3VSZHlXU2E1cjAyVkE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "去年我国具身智能市场规模约9150亿元增长20.4% - 新华网"
-    },
-    {
-      "event": "2025年我国新型显示产业营收超8000亿元 - 新华网",
-      "published": "2026-11-05T01:54:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1Q5QnVLOXdHNWFLVXM1MWFfUjJoRXdrRVZ3Y2RTb1NHS2pQbHd3R2ZBYXgzMmFjN1NmSjNKeDJoaElZYURJbk0wamowcjNnOGR5cGRkWk5FUEt5NW9ZS0hDMUtsbV9PaFNlRS1ZdTVlclRjam0zanA5bEpzVkVKdg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2025年我国新型显示产业营收超8000亿元 - 新华网"
-    },
-    {
-      "event": "“十五五”适度超前构建现代化基础设施体系 - 新华网",
-      "published": "2026-11-05T01:54:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwbURKSjhsaEhjaENEZ01oRm1PY19ybC1QdXBFQVVnVUdicV9FTW16RmtxTXJJN0JGNGpXRU9xaTdKaE16X1hCNkxGV3lFRWlOZ1JOZG9wTklIZ1JlUWJzeVAxXzA2b0VFWmk2c1h2M3RwSmM5dlE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“十五五”适度超前构建现代化基础设施体系 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +581,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
