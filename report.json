@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-04",
-  "date": "更新于北京时间 2026-11-04 20:09",
-  "reportDate": "2026-11-04",
-  "updatedAt": "2026-11-04T20:09:16+08:00",
+  "edition": "财经晨报 · 2026-11-05",
+  "date": "更新于北京时间 2026-11-05 09:26",
+  "reportDate": "2026-11-05",
+  "updatedAt": "2026-11-05T09:26:59+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-04 财经资料（待核验）",
+    "title": "2026-11-05 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,20 +33,20 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "2026-11-03：103.60 美元/桶；较 2026-11-02 变化 -1.17 美元/桶。",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-02：4.91 %；较 2026-10-30 变化 -0.03 个百分点。",
+          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -65,38 +65,38 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "103.60 美元/桶；变化 -1.17 美元/桶",
+          "title": "Brent 原油现货",
+          "summary": "107.03 美元/桶；变化 -0.36 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-03；前值 104.77（2026-11-02）；来源：Yahoo Finance。"
+            "观测日 2026-11-03；前值 107.39（2026-11-02）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.59 %；变化 +0.03 个百分点",
+          "summary": "4.58 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.56（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.03 个百分点",
+          "summary": "4.95 %；变化 +0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-02；前值 4.94（2026-10-30）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6480 人民币/美元；变化 -0.0130 人民币/美元",
+          "summary": "6.6701 人民币/美元；变化 +0.0221 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-03；前值 6.6610（2026-11-02）；来源：Yahoo Finance。"
+            "观测日 2026-11-04；前值 6.6480（2026-11-03）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,155 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "专访丨“以媒体互通协作构建人工智能时代真实立体叙事体系”——访厄瓜多尔公共通信公司总经理科尔德罗 - 新华网",
+          "title": "上证早知道｜301366，半导体ATE业务高增长；603236，获机构净买入7.67亿元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T12:05:14+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-05T08:47:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•央行公告，11月5日，将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为3个月（91天），到期日为2027年2月4日（遇节假日顺延）。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZGhTMjUxMzhCREFDb256UVc4a0tEeDY4UzhYcHRtaDJvSnVmYWZQQXBGUHczRkxBYmNYTUtpNEE3RU1JU2lxSlJZYU9FWlJfaDEzRUNjRDJTTENxbkRHb3BOcHVpeTRlOGV0QVp5dWxSMGNHcWdFMVpRWVZoUQ?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824256"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "CNN执行副总裁纳尔森：媒体须谨慎负责地使用人工智能 - 新华网",
+          "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:43:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-05T08:46:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：为维护资本市场平稳运行，金融管理部门加力实施股票回购增持再贷款政策。中国人民银行11月4日公告，下调股票回购增持再贷款利率0.25个百分点至1%。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbFpIblRlOEE2ZU5TTW1OdWdnYkEyVlZxUE5paUJzRnNvbDlCNktGWHFxcGdwdExhanI5c2IxSkRETGdNUURhdElCMTF2b3VZSzM4dFcwNkJJcW5QeU5rZ2lqdVhFbGhIanl1QWpPbHBFOGY3RDNkRXVnbmZGNk0?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824251"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "行走中国丨中国综合治理“地上悬河”造福人民 - 新华网",
+          "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:38:25+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMjc1Y3Zvekdrd29ZdHZlQXRKZW5jV2lULUQtLVNveUZsMkp5RnZ1anAzRElxenJ0YnhiaTVyS29sQk03V1Y5Rk9iNm43bjJGbnVUUVNHSXVKN3hBRHp5UHNHLXRTMFdwUW85LXJzajJiUVcyMkhYSDNjOU9OZEk?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824240"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "蒙古国国家通讯社社长恩和奥日希贺：深化媒体合作有助于更充分表达中小国家的声音 - 新华网",
+          "title": "张雪机车“破土”的资本土壤",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:30:39+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-05T07:20:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近日，2026世界超级摩托车锦标赛（WSBK）WorldSSP组别赛季收官。张雪机车的法国车手瓦伦丁·德比斯获年度亚军，张雪机车以310分位列制造商积分榜第三，这是中国制造商首次以厂队身份征战该组别，并打破欧美日品牌长期主导格局。此前，车手"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaks0UE02eHhvdDBEZlAtNUR2dUU1OXJfQ25iX0t5U05RTXo3dnZ5a2x3WTBGTEFwSlV1aFFrQVBJb0p1WWFRaTJmYU1NRk5NVHdZOXZJTXQwOTBQam0zWEVDS1N4T1F4YkQ3R21YVGplQktYVkRqQVctOEFZVzQ?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824238"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "李强会见世界知识产权组织总干事邓鸿森 - 新华网",
+          "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:30:12+00:00；来源：新华网。",
+            "发布时间：2026-11-05T07:15:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDlXcTFTRXVJWWZkSWcwMHh6OWtvaVVYMWdGcUJQZVJkczMzUHFJTmFVQkZNQ21URzlzNWNMRGNzNUJSX0QxYlJSeVkxZjF2YXF2TkZzNzN4T1RRY1FRTVpBd20yQS1KTW1kVU5nZW1saDZyYVl1VnhoZmd6X3hVVFp6T3NGSkJaUmhpWlhn?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/824233"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“2026世界市长对话·宁波”共话开放融通与城市合作 - 新华网",
+          "title": "近百位学者汇聚潮州研讨高水平开放与高质量发展 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:26:36+00:00；来源：新华网。",
+            "发布时间：2026-11-05T00:56:58+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnctOVRCRjBwSE01c2FjejJlRnJsTWp2YVc4RmtqVEtab292Zm1LSC1FcjF0cjd6NHRSQ1gzZ0tDU2tpaGRLMC1Sd3BKNE9RYTRrSExyc1VWOHVPSzRLZFJoZFRsOEcxcGd5NEplTWllc3RNSUktQTRQNGxvdUhuUlVHcw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JV2ZicFVzWXFEc3lSVjAxMmZ4Y080el82Z2QtVkxvS2NhX3BHTGZ3ZmlLZ3NtTjZra1BIRXNMQ2Rpek5Na3VjUmZqdGNYWkFodW9rbVloSlk5VjZ6QW83NHhfUElsa21mZktNS2lZZ3hKWVZp?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "警方处罚中国足协杯半决赛投掷鼓棒球迷 - 新华网",
+          "title": "西班牙铁路基础设施管理局主席辞职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T11:03:31+00:00；来源：新华网。",
+            "发布时间：2026-11-04T23:03:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFdYN3hNandwUF90UG5LaEh1Z3ZVWXpsUTBBaC1TM2MyaUw2OVNheUNfR0tBYnJ3cTVNRU9PWXV1ZURpSExTeUVxVFpJdjQzNkpNc053X2tuQTRZVEJVNmphbC1NNWY3c3JwZU12dnQ3ZVcwWHdlVGJJbmxLVzZ4UQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lb1QwMEV4d1B2bUJvYVBzZ3luSUpHRGVHR1dKWXcwQWliczU4VUtxV2hoTWVFUFcwZ3BidkRBYWlFNkJVTjdzdmtmS2w5cEd5YkNjZDZVXzRIc0ZxVDhHVmtWTTRPVlVRNktMWHpFeGpnZlppS3R2SUVRdzdRNE0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "时隔8年 我国罕见病目录制订工作程序迎来修订 - 新华网",
+          "title": "天山股份：收到中国证监会立案告知书，涉嫌信披违法违规",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T10:46:48+00:00；来源：新华网。",
+            "发布时间：2026-11-04T22:45:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUc4b1d5RlplT0JJd0RFcTdJdlZfdW9yUnlKNTNValhVZ0xjLW5kN05kMUN4MXUzaGxMY3ExTm5Bc1d3SGdvWkR6R092R0F3U2kwbVd1cUhIOVdfbGlVQ3VWazdZR0dSeUNwWlNMUFZDRjdMemNTOHkwSHFJYmtpa05zNA?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/824190"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“熊猫伙伴”相聚成都，畅谈大熊猫保护故事 - 新华网",
+          "title": "炬光科技：定增申请获上交所受理，拟募资约10.21亿元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T10:44:34+00:00；来源：新华网。",
+            "发布时间：2026-11-04T22:37:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05amY4eWx0bkRsTXcwRTJZa2lJOVpKOFY4aVYyU2ppYnpDM2t5aEduRzhhVldSSE5Zd3BJV01FSWRfWDR5LVJOMFpfNjNRQk1jMlZxZ0tBaHZjNGUyZmdyTmt5a3V6QlBTY1dtVXB3azhsZ2ZfQlNhSnYycGJKZjA?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/824164"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "高端访谈丨期待加中合作焕发新活力——访加蓬总统恩圭马 - 新华网",
+          "title": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-04T10:24:21+00:00；来源：新华网。",
+            "发布时间：2026-11-04T22:37:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMTZKRlVUTGxKcUYyVjVTWHFIcUo1S3g0djhtS0ZDYWMtTTY3Um9zU2s2MkJiNjR5NjlTTFJZb3g1cjhlaV94a3VySG9Lend4by1lS2NnVl9Fa21ZcVIwa2JhY2drMlkyUWZTbEtCejh1QTBMMEVtWGttMndHQWs?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/824149"
             }
           ]
         }
@@ -345,7 +349,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 27 课：情景分析",
+      "title": "第 28 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -381,7 +385,7 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-03"
+      "asOf": "2026-11-04"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -399,151 +403,179 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-04"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-02"
+      "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-02"
+      "title": "上证早知道｜301366，半导体ATE业务高增长；603236，获机构净买入7.67亿元",
+      "url": "https://www.cnstock.com/commonDetail/824256",
+      "asOf": "2026-11-05T08:47:00+08:00"
     },
     {
-      "title": "专访丨“以媒体互通协作构建人工智能时代真实立体叙事体系”——访厄瓜多尔公共通信公司总经理科尔德罗 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZGhTMjUxMzhCREFDb256UVc4a0tEeDY4UzhYcHRtaDJvSnVmYWZQQXBGUHczRkxBYmNYTUtpNEE3RU1JU2lxSlJZYU9FWlJfaDEzRUNjRDJTTENxbkRHb3BOcHVpeTRlOGV0QVp5dWxSMGNHcWdFMVpRWVZoUQ?oc=5",
-      "asOf": "2026-11-04T12:05:14+00:00"
+      "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
+      "url": "https://www.cnstock.com/commonDetail/824251",
+      "asOf": "2026-11-05T08:46:00+08:00"
     },
     {
-      "title": "CNN执行副总裁纳尔森：媒体须谨慎负责地使用人工智能 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbFpIblRlOEE2ZU5TTW1OdWdnYkEyVlZxUE5paUJzRnNvbDlCNktGWHFxcGdwdExhanI5c2IxSkRETGdNUURhdElCMTF2b3VZSzM4dFcwNkJJcW5QeU5rZ2lqdVhFbGhIanl1QWpPbHBFOGY3RDNkRXVnbmZGNk0?oc=5",
-      "asOf": "2026-11-04T11:43:27+00:00"
+      "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
+      "url": "https://www.cnstock.com/commonDetail/824240",
+      "asOf": "2026-11-05T07:20:00+08:00"
     },
     {
-      "title": "行走中国丨中国综合治理“地上悬河”造福人民 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMjc1Y3Zvekdrd29ZdHZlQXRKZW5jV2lULUQtLVNveUZsMkp5RnZ1anAzRElxenJ0YnhiaTVyS29sQk03V1Y5Rk9iNm43bjJGbnVUUVNHSXVKN3hBRHp5UHNHLXRTMFdwUW85LXJzajJiUVcyMkhYSDNjOU9OZEk?oc=5",
-      "asOf": "2026-11-04T11:38:25+00:00"
+      "title": "张雪机车“破土”的资本土壤",
+      "url": "https://www.cnstock.com/commonDetail/824238",
+      "asOf": "2026-11-05T07:20:00+08:00"
     },
     {
-      "title": "蒙古国国家通讯社社长恩和奥日希贺：深化媒体合作有助于更充分表达中小国家的声音 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaks0UE02eHhvdDBEZlAtNUR2dUU1OXJfQ25iX0t5U05RTXo3dnZ5a2x3WTBGTEFwSlV1aFFrQVBJb0p1WWFRaTJmYU1NRk5NVHdZOXZJTXQwOTBQam0zWEVDS1N4T1F4YkQ3R21YVGplQktYVkRqQVctOEFZVzQ?oc=5",
-      "asOf": "2026-11-04T11:30:39+00:00"
+      "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
+      "url": "https://www.cnstock.com/commonDetail/824233",
+      "asOf": "2026-11-05T07:15:00+08:00"
     },
     {
-      "title": "李强会见世界知识产权组织总干事邓鸿森 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDlXcTFTRXVJWWZkSWcwMHh6OWtvaVVYMWdGcUJQZVJkczMzUHFJTmFVQkZNQ21URzlzNWNMRGNzNUJSX0QxYlJSeVkxZjF2YXF2TkZzNzN4T1RRY1FRTVpBd20yQS1KTW1kVU5nZW1saDZyYVl1VnhoZmd6X3hVVFp6T3NGSkJaUmhpWlhn?oc=5",
-      "asOf": "2026-11-04T11:30:12+00:00"
+      "title": "近百位学者汇聚潮州研讨高水平开放与高质量发展 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JV2ZicFVzWXFEc3lSVjAxMmZ4Y080el82Z2QtVkxvS2NhX3BHTGZ3ZmlLZ3NtTjZra1BIRXNMQ2Rpek5Na3VjUmZqdGNYWkFodW9rbVloSlk5VjZ6QW83NHhfUElsa21mZktNS2lZZ3hKWVZp?oc=5",
+      "asOf": "2026-11-05T00:56:58+00:00"
     },
     {
-      "title": "“2026世界市长对话·宁波”共话开放融通与城市合作 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnctOVRCRjBwSE01c2FjejJlRnJsTWp2YVc4RmtqVEtab292Zm1LSC1FcjF0cjd6NHRSQ1gzZ0tDU2tpaGRLMC1Sd3BKNE9RYTRrSExyc1VWOHVPSzRLZFJoZFRsOEcxcGd5NEplTWllc3RNSUktQTRQNGxvdUhuUlVHcw?oc=5",
-      "asOf": "2026-11-04T11:26:36+00:00"
+      "title": "西班牙铁路基础设施管理局主席辞职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lb1QwMEV4d1B2bUJvYVBzZ3luSUpHRGVHR1dKWXcwQWliczU4VUtxV2hoTWVFUFcwZ3BidkRBYWlFNkJVTjdzdmtmS2w5cEd5YkNjZDZVXzRIc0ZxVDhHVmtWTTRPVlVRNktMWHpFeGpnZlppS3R2SUVRdzdRNE0?oc=5",
+      "asOf": "2026-11-04T23:03:58+00:00"
     },
     {
-      "title": "警方处罚中国足协杯半决赛投掷鼓棒球迷 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFdYN3hNandwUF90UG5LaEh1Z3ZVWXpsUTBBaC1TM2MyaUw2OVNheUNfR0tBYnJ3cTVNRU9PWXV1ZURpSExTeUVxVFpJdjQzNkpNc053X2tuQTRZVEJVNmphbC1NNWY3c3JwZU12dnQ3ZVcwWHdlVGJJbmxLVzZ4UQ?oc=5",
-      "asOf": "2026-11-04T11:03:31+00:00"
+      "title": "天山股份：收到中国证监会立案告知书，涉嫌信披违法违规",
+      "url": "https://www.cnstock.com/commonDetail/824190",
+      "asOf": "2026-11-04T22:45:00+08:00"
     },
     {
-      "title": "时隔8年 我国罕见病目录制订工作程序迎来修订 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUc4b1d5RlplT0JJd0RFcTdJdlZfdW9yUnlKNTNValhVZ0xjLW5kN05kMUN4MXUzaGxMY3ExTm5Bc1d3SGdvWkR6R092R0F3U2kwbVd1cUhIOVdfbGlVQ3VWazdZR0dSeUNwWlNMUFZDRjdMemNTOHkwSHFJYmtpa05zNA?oc=5",
-      "asOf": "2026-11-04T10:46:48+00:00"
+      "title": "炬光科技：定增申请获上交所受理，拟募资约10.21亿元",
+      "url": "https://www.cnstock.com/commonDetail/824164",
+      "asOf": "2026-11-04T22:37:00+08:00"
     },
     {
-      "title": "“熊猫伙伴”相聚成都，畅谈大熊猫保护故事 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05amY4eWx0bkRsTXcwRTJZa2lJOVpKOFY4aVYyU2ppYnpDM2t5aEduRzhhVldSSE5Zd3BJV01FSWRfWDR5LVJOMFpfNjNRQk1jMlZxZ0tBaHZjNGUyZmdyTmt5a3V6QlBTY1dtVXB3azhsZ2ZfQlNhSnYycGJKZjA?oc=5",
-      "asOf": "2026-11-04T10:44:34+00:00"
-    },
-    {
-      "title": "高端访谈丨期待加中合作焕发新活力——访加蓬总统恩圭马 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMTZKRlVUTGxKcUYyVjVTWHFIcUo1S3g0djhtS0ZDYWMtTTY3Um9zU2s2MkJiNjR5NjlTTFJZb3g1cjhlaV94a3VySG9Lend4by1lS2NnVl9Fa21ZcVIwa2JhY2drMlkyUWZTbEtCejh1QTBMMEVtWGttMndHQWs?oc=5",
-      "asOf": "2026-11-04T10:24:21+00:00"
+      "title": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/824149",
+      "asOf": "2026-11-04T22:37:00+08:00"
     }
   ],
   "events": [
     {
-      "event": "专访丨“以媒体互通协作构建人工智能时代真实立体叙事体系”——访厄瓜多尔公共通信公司总经理科尔德罗 - 新华网",
-      "published": "2026-11-04T12:05:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZGhTMjUxMzhCREFDb256UVc4a0tEeDY4UzhYcHRtaDJvSnVmYWZQQXBGUHczRkxBYmNYTUtpNEE3RU1JU2lxSlJZYU9FWlJfaDEzRUNjRDJTTENxbkRHb3BOcHVpeTRlOGV0QVp5dWxSMGNHcWdFMVpRWVZoUQ?oc=5",
+      "event": "上证早知道｜301366，半导体ATE业务高增长；603236，获机构净买入7.67亿元",
+      "originalTitle": "上证早知道｜301366，半导体ATE业务高增长；603236，获机构净买入7.67亿元",
+      "published": "2026-11-05T08:47:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824256",
       "evidenceLevel": "headline-only",
-      "originalTitle": "专访丨“以媒体互通协作构建人工智能时代真实立体叙事体系”——访厄瓜多尔公共通信公司总经理科尔德罗 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824256",
+        "retrievedAt": "2026-11-05T09:26:59.670882+08:00",
+        "sha256": "201e5d8a9a94f740a69dc2412dbab62a7d8b27a8904abf31489086073bac92de",
+        "paragraphCount": 30,
+        "excerpt": "•央行公告，11月5日，将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为3个月（91天），到期日为2027年2月4日（遇节假日顺延）。"
+      }
     },
     {
-      "event": "CNN执行副总裁纳尔森：媒体须谨慎负责地使用人工智能 - 新华网",
-      "published": "2026-11-04T11:43:27+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbFpIblRlOEE2ZU5TTW1OdWdnYkEyVlZxUE5paUJzRnNvbDlCNktGWHFxcGdwdExhanI5c2IxSkRETGdNUURhdElCMTF2b3VZSzM4dFcwNkJJcW5QeU5rZ2lqdVhFbGhIanl1QWpPbHBFOGY3RDNkRXVnbmZGNk0?oc=5",
+      "event": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
+      "originalTitle": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
+      "published": "2026-11-05T08:46:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824251",
       "evidenceLevel": "headline-only",
-      "originalTitle": "CNN执行副总裁纳尔森：媒体须谨慎负责地使用人工智能 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824251",
+        "retrievedAt": "2026-11-05T09:26:59.670882+08:00",
+        "sha256": "1262f6553cb62a2ddfaeb3d74330adf2da01a21a02e5e63314e8562484e40c04",
+        "paragraphCount": 8,
+        "excerpt": "为维护资本市场平稳运行，金融管理部门加力实施股票回购增持再贷款政策。中国人民银行11月4日公告，下调股票回购增持再贷款利率0.25个百分点至1%。"
+      }
     },
     {
-      "event": "行走中国丨中国综合治理“地上悬河”造福人民 - 新华网",
-      "published": "2026-11-04T11:38:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMjc1Y3Zvekdrd29ZdHZlQXRKZW5jV2lULUQtLVNveUZsMkp5RnZ1anAzRElxenJ0YnhiaTVyS29sQk03V1Y5Rk9iNm43bjJGbnVUUVNHSXVKN3hBRHp5UHNHLXRTMFdwUW85LXJzajJiUVcyMkhYSDNjOU9OZEk?oc=5",
+      "event": "部分公司又有新增订单 国产半导体设备产业景气持续",
+      "originalTitle": "部分公司又有新增订单 国产半导体设备产业景气持续",
+      "published": "2026-11-05T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824240",
       "evidenceLevel": "headline-only",
-      "originalTitle": "行走中国丨中国综合治理“地上悬河”造福人民 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824240",
+        "retrievedAt": "2026-11-05T09:26:59.670882+08:00",
+        "sha256": "b36fef26830038cbe0ccbb7f7e6ffc9613c841d2990164ca62f2211279635b96",
+        "paragraphCount": 21,
+        "excerpt": "11月4日，长鑫科技董事长提议将公司回购金额上限提高至不超过50亿元。据统计，10月以来，已有24家科创板半导体公司披露回购方案，金额上限合计106.5亿元。"
+      }
     },
     {
-      "event": "蒙古国国家通讯社社长恩和奥日希贺：深化媒体合作有助于更充分表达中小国家的声音 - 新华网",
-      "published": "2026-11-04T11:30:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaks0UE02eHhvdDBEZlAtNUR2dUU1OXJfQ25iX0t5U05RTXo3dnZ5a2x3WTBGTEFwSlV1aFFrQVBJb0p1WWFRaTJmYU1NRk5NVHdZOXZJTXQwOTBQam0zWEVDS1N4T1F4YkQ3R21YVGplQktYVkRqQVctOEFZVzQ?oc=5",
+      "event": "张雪机车“破土”的资本土壤",
+      "originalTitle": "张雪机车“破土”的资本土壤",
+      "published": "2026-11-05T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824238",
       "evidenceLevel": "headline-only",
-      "originalTitle": "蒙古国国家通讯社社长恩和奥日希贺：深化媒体合作有助于更充分表达中小国家的声音 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824238",
+        "retrievedAt": "2026-11-05T09:26:59.670882+08:00",
+        "sha256": "634d9df2daa1f6017f8c7bd423254d846f22de4bef00da96cd80ef7e5ceb7c9f",
+        "paragraphCount": 20,
+        "excerpt": "近日，2026世界超级摩托车锦标赛（WSBK）WorldSSP组别赛季收官。张雪机车的法国车手瓦伦丁·德比斯获年度亚军，张雪机车以310分位列制造商积分榜第三，这是中国制造商首次以厂队身份征战该组别，并打破欧美日品牌长期主导格局。此前，车手"
+      }
     },
     {
-      "event": "李强会见世界知识产权组织总干事邓鸿森 - 新华网",
-      "published": "2026-11-04T11:30:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDlXcTFTRXVJWWZkSWcwMHh6OWtvaVVYMWdGcUJQZVJkczMzUHFJTmFVQkZNQ21URzlzNWNMRGNzNUJSX0QxYlJSeVkxZjF2YXF2TkZzNzN4T1RRY1FRTVpBd20yQS1KTW1kVU5nZW1saDZyYVl1VnhoZmd6X3hVVFp6T3NGSkJaUmhpWlhn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "李强会见世界知识产权组织总干事邓鸿森 - 新华网"
+      "event": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
+      "originalTitle": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
+      "published": "2026-11-05T07:15:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824233",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "“2026世界市长对话·宁波”共话开放融通与城市合作 - 新华网",
-      "published": "2026-11-04T11:26:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnctOVRCRjBwSE01c2FjejJlRnJsTWp2YVc4RmtqVEtab292Zm1LSC1FcjF0cjd6NHRSQ1gzZ0tDU2tpaGRLMC1Sd3BKNE9RYTRrSExyc1VWOHVPSzRLZFJoZFRsOEcxcGd5NEplTWllc3RNSUktQTRQNGxvdUhuUlVHcw?oc=5",
+      "event": "近百位学者汇聚潮州研讨高水平开放与高质量发展 - 新华网江苏频道",
+      "published": "2026-11-05T00:56:58+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JV2ZicFVzWXFEc3lSVjAxMmZ4Y080el82Z2QtVkxvS2NhX3BHTGZ3ZmlLZ3NtTjZra1BIRXNMQ2Rpek5Na3VjUmZqdGNYWkFodW9rbVloSlk5VjZ6QW83NHhfUElsa21mZktNS2lZZ3hKWVZp?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“2026世界市长对话·宁波”共话开放融通与城市合作 - 新华网"
+      "originalTitle": "近百位学者汇聚潮州研讨高水平开放与高质量发展 - 新华网江苏频道"
     },
     {
-      "event": "警方处罚中国足协杯半决赛投掷鼓棒球迷 - 新华网",
-      "published": "2026-11-04T11:03:31+00:00",
+      "event": "西班牙铁路基础设施管理局主席辞职 - 新华网",
+      "published": "2026-11-04T23:03:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFdYN3hNandwUF90UG5LaEh1Z3ZVWXpsUTBBaC1TM2MyaUw2OVNheUNfR0tBYnJ3cTVNRU9PWXV1ZURpSExTeUVxVFpJdjQzNkpNc053X2tuQTRZVEJVNmphbC1NNWY3c3JwZU12dnQ3ZVcwWHdlVGJJbmxLVzZ4UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lb1QwMEV4d1B2bUJvYVBzZ3luSUpHRGVHR1dKWXcwQWliczU4VUtxV2hoTWVFUFcwZ3BidkRBYWlFNkJVTjdzdmtmS2w5cEd5YkNjZDZVXzRIc0ZxVDhHVmtWTTRPVlVRNktMWHpFeGpnZlppS3R2SUVRdzdRNE0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "警方处罚中国足协杯半决赛投掷鼓棒球迷 - 新华网"
+      "originalTitle": "西班牙铁路基础设施管理局主席辞职 - 新华网"
     },
     {
-      "event": "时隔8年 我国罕见病目录制订工作程序迎来修订 - 新华网",
-      "published": "2026-11-04T10:46:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUc4b1d5RlplT0JJd0RFcTdJdlZfdW9yUnlKNTNValhVZ0xjLW5kN05kMUN4MXUzaGxMY3ExTm5Bc1d3SGdvWkR6R092R0F3U2kwbVd1cUhIOVdfbGlVQ3VWazdZR0dSeUNwWlNMUFZDRjdMemNTOHkwSHFJYmtpa05zNA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "时隔8年 我国罕见病目录制订工作程序迎来修订 - 新华网"
+      "event": "天山股份：收到中国证监会立案告知书，涉嫌信披违法违规",
+      "originalTitle": "天山股份：收到中国证监会立案告知书，涉嫌信披违法违规",
+      "published": "2026-11-04T22:45:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824190",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "“熊猫伙伴”相聚成都，畅谈大熊猫保护故事 - 新华网",
-      "published": "2026-11-04T10:44:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05amY4eWx0bkRsTXcwRTJZa2lJOVpKOFY4aVYyU2ppYnpDM2t5aEduRzhhVldSSE5Zd3BJV01FSWRfWDR5LVJOMFpfNjNRQk1jMlZxZ0tBaHZjNGUyZmdyTmt5a3V6QlBTY1dtVXB3azhsZ2ZfQlNhSnYycGJKZjA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“熊猫伙伴”相聚成都，畅谈大熊猫保护故事 - 新华网"
+      "event": "炬光科技：定增申请获上交所受理，拟募资约10.21亿元",
+      "originalTitle": "炬光科技：定增申请获上交所受理，拟募资约10.21亿元",
+      "published": "2026-11-04T22:37:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824164",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "高端访谈丨期待加中合作焕发新活力——访加蓬总统恩圭马 - 新华网",
-      "published": "2026-11-04T10:24:21+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMTZKRlVUTGxKcUYyVjVTWHFIcUo1S3g0djhtS0ZDYWMtTTY3Um9zU2s2MkJiNjR5NjlTTFJZb3g1cjhlaV94a3VySG9Lend4by1lS2NnVl9Fa21ZcVIwa2JhY2drMlkyUWZTbEtCejh1QTBMMEVtWGttMndHQWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "高端访谈丨期待加中合作焕发新活力——访加蓬总统恩圭马 - 新华网"
+      "event": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份",
+      "originalTitle": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份",
+      "published": "2026-11-04T22:37:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824149",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
@@ -557,7 +589,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
