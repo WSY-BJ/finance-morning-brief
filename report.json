@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 15:53",
+  "date": "更新于北京时间 2026-11-05 20:22",
   "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T15:53:43+08:00",
+  "updatedAt": "2026-11-05T20:22:28+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-03：4.95 %；较 2026-11-02 变化 +0.04 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.95 %；变化 +0.04 个百分点",
+          "summary": "4.90 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.91（2026-11-02）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,33 +177,92 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+          "title": "国务院国资委召开地方进一步深化国资国企改革座谈会",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T14:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国务院国资委11月5日消息，11月4日，国务院国资委党委召开国资央企传达学习贯彻党的二十届五中全会精神视频会议，在前期学习基础上，对学习宣传贯彻工作再安排、再部署。"
+            "发布时间：2026-11-05T18:48:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824365"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824531"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
+          "title": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T13:28:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
+            "原文摘要：上证智讯 11月5日，强瑞技术发布公告称，公司5名董事及高级管理人员拟自增持计划公告披露之日起三个月内，通过深圳证券交易所系统以集中竞价交易方式增持公司股份，本次增持不设定价格区间。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824339"
+              "url": "https://www.cnstock.com/commonDetail/824488"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824519"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824492"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T17:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824478"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824365"
             }
           ]
         },
@@ -213,13 +272,27 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-05T12:16:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824332"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T11:18:06+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5"
             }
           ]
         },
@@ -240,91 +313,16 @@
         },
         {
           "type": "explainer",
-          "title": "商务部在上海召开进博会参展跨国企业圆桌会",
+          "title": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T09:32:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-05T10:17:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824278"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际随笔丨中国力量持续改写全球创新版图 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T07:41:36+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FUktzNUVES2lMdkRLczR1RXNJTnNCeS1hZUFCU2kxU2pzandUdEw0a3NqdTBtZHJJQnNybXJwTWlKdTRHc0hTUkRsZHJoMld0dU5iZW0weWJZWV9vS1l0SVpBUFkzRVp6MFdOY3VLRUpHRUVDN1ZJ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第九届进博会丨报告显示：中国开放指数持续提升 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T07:18:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxWmFkQWFOMTliRXNvSUtlcEl2TEtiQXRlQS1XckpGdVROM3FPYlluT3ZMajVKZXF0UUZROVNCZ2d5Sjlwa2o3UExILWRxMHZrWVBOMndRNmRlUzhfdlY2VW93NU1ic0hwTnpUNUpEUWktdWZlMnlHZFZWaldfUlE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T07:15:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824222"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T06:36:34+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际金价连续两日大涨 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T06:18:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcUtFbFhBczFoMHVLRHpFblZsWVd5N2FEeEV1ZVVpMUc3ZE8xaExJNnl5OFAybDhHMXZrZkZEcURwNDQ4YzdPSnJ0SVB4QldoRjBuMnJmTEdJRGZvdkRqdi1GQUlBd2hZSk0tT0RpSGM2a1h6VHI4b291MEQ5SjA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5"
             }
           ]
         }
@@ -382,8 +380,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-03"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-04"
     },
     {
@@ -392,18 +395,18 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-03"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-04"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-04"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-04"
     },
     {
@@ -412,9 +415,29 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-03"
+      "title": "国务院国资委召开地方进一步深化国资国企改革座谈会",
+      "url": "https://www.cnstock.com/commonDetail/824531",
+      "asOf": "2026-11-05T18:48:00+08:00"
+    },
+    {
+      "title": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/824488",
+      "asOf": "2026-11-05T18:12:00+08:00"
+    },
+    {
+      "title": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
+      "url": "https://www.cnstock.com/commonDetail/824519",
+      "asOf": "2026-11-05T18:12:00+08:00"
+    },
+    {
+      "title": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/824492",
+      "asOf": "2026-11-05T18:12:00+08:00"
+    },
+    {
+      "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "url": "https://www.cnstock.com/commonDetail/824478",
+      "asOf": "2026-11-05T17:23:00+08:00"
     },
     {
       "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
@@ -422,14 +445,14 @@
       "asOf": "2026-11-05T14:09:00+08:00"
     },
     {
-      "title": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
-      "url": "https://www.cnstock.com/commonDetail/824339",
-      "asOf": "2026-11-05T13:28:00+08:00"
-    },
-    {
       "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
       "url": "https://www.cnstock.com/commonDetail/824332",
       "asOf": "2026-11-05T12:16:00+08:00"
+    },
+    {
+      "title": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5",
+      "asOf": "2026-11-05T11:18:06+00:00"
     },
     {
       "title": "国际金价重回4100美元/盎司上方",
@@ -437,66 +460,66 @@
       "asOf": "2026-11-05T11:16:00+08:00"
     },
     {
-      "title": "商务部在上海召开进博会参展跨国企业圆桌会",
-      "url": "https://www.cnstock.com/commonDetail/824278",
-      "asOf": "2026-11-05T09:32:00+08:00"
-    },
-    {
-      "title": "国际随笔丨中国力量持续改写全球创新版图 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FUktzNUVES2lMdkRLczR1RXNJTnNCeS1hZUFCU2kxU2pzandUdEw0a3NqdTBtZHJJQnNybXJwTWlKdTRHc0hTUkRsZHJoMld0dU5iZW0weWJZWV9vS1l0SVpBUFkzRVp6MFdOY3VLRUpHRUVDN1ZJ?oc=5",
-      "asOf": "2026-11-05T07:41:36+00:00"
-    },
-    {
-      "title": "第九届进博会丨报告显示：中国开放指数持续提升 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxWmFkQWFOMTliRXNvSUtlcEl2TEtiQXRlQS1XckpGdVROM3FPYlluT3ZMajVKZXF0UUZROVNCZ2d5Sjlwa2o3UExILWRxMHZrWVBOMndRNmRlUzhfdlY2VW93NU1ic0hwTnpUNUpEUWktdWZlMnlHZFZWaldfUlE?oc=5",
-      "asOf": "2026-11-05T07:18:42+00:00"
-    },
-    {
-      "title": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
-      "url": "https://www.cnstock.com/commonDetail/824222",
-      "asOf": "2026-11-05T07:15:00+08:00"
-    },
-    {
-      "title": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5",
-      "asOf": "2026-11-05T06:36:34+00:00"
-    },
-    {
-      "title": "国际金价连续两日大涨 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcUtFbFhBczFoMHVLRHpFblZsWVd5N2FEeEV1ZVVpMUc3ZE8xaExJNnl5OFAybDhHMXZrZkZEcURwNDQ4YzdPSnJ0SVB4QldoRjBuMnJmTEdJRGZvdkRqdi1GQUlBd2hZSk0tT0RpSGM2a1h6VHI4b291MEQ5SjA?oc=5",
-      "asOf": "2026-11-05T06:18:02+00:00"
+      "title": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5",
+      "asOf": "2026-11-05T10:17:26+00:00"
     }
   ],
   "events": [
+    {
+      "event": "国务院国资委召开地方进一步深化国资国企改革座谈会",
+      "originalTitle": "国务院国资委召开地方进一步深化国资国企改革座谈会",
+      "published": "2026-11-05T18:48:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824531",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
+      "originalTitle": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
+      "published": "2026-11-05T18:12:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824488",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824488",
+        "retrievedAt": "2026-11-05T20:22:28.412517+08:00",
+        "sha256": "97075df6af438a76ad6aeee35313e8fd7e367d2db7050bdf0d533f70393fb1c4",
+        "paragraphCount": 4,
+        "excerpt": "上证智讯 11月5日，强瑞技术发布公告称，公司5名董事及高级管理人员拟自增持计划公告披露之日起三个月内，通过深圳证券交易所系统以集中竞价交易方式增持公司股份，本次增持不设定价格区间。"
+      }
+    },
+    {
+      "event": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
+      "originalTitle": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
+      "published": "2026-11-05T18:12:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824519",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
+      "originalTitle": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
+      "published": "2026-11-05T18:12:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824492",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "originalTitle": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "published": "2026-11-05T17:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/824478",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
       "originalTitle": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
       "published": "2026-11-05T14:09:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824365",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824365",
-        "retrievedAt": "2026-11-05T15:53:43.373952+08:00",
-        "sha256": "7acfec6812bb10d6fb63bb0dc01f8fe50bdd252a8c7f42bb648f8da43ef982f0",
-        "paragraphCount": 2,
-        "excerpt": "上证报中国证券网讯 据国务院国资委11月5日消息，11月4日，国务院国资委党委召开国资央企传达学习贯彻党的二十届五中全会精神视频会议，在前期学习基础上，对学习宣传贯彻工作再安排、再部署。"
-      }
-    },
-    {
-      "event": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
-      "originalTitle": "新联电子：中标国家电网采购项目3个包 总金额5558.50万元",
-      "published": "2026-11-05T13:28:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824339",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824339",
-        "retrievedAt": "2026-11-05T15:53:43.373952+08:00",
-        "sha256": "e858c60af7fe96a4aa06e8cfcdc90fa378687f71f0cc6eb26d76e604291a7c99",
-        "paragraphCount": 4,
-        "excerpt": "上证智讯 11月5日午间，新联电子发布公告称，公司近日收到国家电网有限公司及国网物资有限公司发来的中标通知书，通知公司为“国家电网有限公司2026年营销项目第二次设备公开招标采购”（招标编号：0711-26OTL11522018）和“国家电"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
@@ -504,14 +527,15 @@
       "published": "2026-11-05T12:16:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824332",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
+      "published": "2026-11-05T11:18:06+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824332",
-        "retrievedAt": "2026-11-05T15:53:43.373952+08:00",
-        "sha256": "38fd57ec92100cffae673643eda2d303a55ee5e950518510b11a84cea671dc98",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯（记者 张琼斯）十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告"
-      }
+      "originalTitle": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网"
     },
     {
       "event": "国际金价重回4100美元/盎司上方",
@@ -522,52 +546,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "商务部在上海召开进博会参展跨国企业圆桌会",
-      "originalTitle": "商务部在上海召开进博会参展跨国企业圆桌会",
-      "published": "2026-11-05T09:32:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824278",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国际随笔丨中国力量持续改写全球创新版图 - 新华网",
-      "published": "2026-11-05T07:41:36+00:00",
+      "event": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
+      "published": "2026-11-05T10:17:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FUktzNUVES2lMdkRLczR1RXNJTnNCeS1hZUFCU2kxU2pzandUdEw0a3NqdTBtZHJJQnNybXJwTWlKdTRHc0hTUkRsZHJoMld0dU5iZW0weWJZWV9vS1l0SVpBUFkzRVp6MFdOY3VLRUpHRUVDN1ZJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国际随笔丨中国力量持续改写全球创新版图 - 新华网"
-    },
-    {
-      "event": "第九届进博会丨报告显示：中国开放指数持续提升 - 新华网",
-      "published": "2026-11-05T07:18:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxWmFkQWFOMTliRXNvSUtlcEl2TEtiQXRlQS1XckpGdVROM3FPYlluT3ZMajVKZXF0UUZROVNCZ2d5Sjlwa2o3UExILWRxMHZrWVBOMndRNmRlUzhfdlY2VW93NU1ic0hwTnpUNUpEUWktdWZlMnlHZFZWaldfUlE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨报告显示：中国开放指数持续提升 - 新华网"
-    },
-    {
-      "event": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
-      "originalTitle": "东方之约惠全球 开局之年谱新篇——写在第九届中国国际进口博览会开幕之际",
-      "published": "2026-11-05T07:15:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/824222",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网",
-      "published": "2026-11-05T06:36:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnhmeUVET0phN3M3dTEwZHJONlRpWXB4UEdmNzFwelFkdDQ3NHd0X1d5S2Z5RDAxSHFWQlBQc295Y2hxVE90ZzVFLUlYNy10QkpfS3hPNWxKLUpLNUFZd3FVa21JOUFWX0hOLW5mMkN1MHVLbDRQWTNhNVdHZFlXRWFB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "从“物理相加”到“育人贯通” 昆明理工大学全力构建“十五五”大思政育人共同体 - 新华网"
-    },
-    {
-      "event": "国际金价连续两日大涨 - 新华网",
-      "published": "2026-11-05T06:18:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcUtFbFhBczFoMHVLRHpFblZsWVd5N2FEeEV1ZVVpMUc3ZE8xaExJNnl5OFAybDhHMXZrZkZEcURwNDQ4YzdPSnJ0SVB4QldoRjBuMnJmTEdJRGZvdkRqdi1GQUlBd2hZSk0tT0RpSGM2a1h6VHI4b291MEQ5SjA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "国际金价连续两日大涨 - 新华网"
+      "originalTitle": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +565,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
