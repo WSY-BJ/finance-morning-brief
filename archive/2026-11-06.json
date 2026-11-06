@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 14:48",
+  "date": "更新于北京时间 2026-11-06 15:22",
   "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T14:48:10+08:00",
+  "updatedAt": "2026-11-06T15:22:06+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.58 %；变化 -0.03 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/824951"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
           "summary": "",
           "paragraphs": [
@@ -193,32 +208,15 @@
         },
         {
           "type": "explainer",
-          "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日午间，联讯仪器发布公告称，公司于2026年11月5日收到控股股东、实际控制人、董事长胡海洋出具的提议函，胡海洋提议公司以自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824951"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824953"
             }
           ]
@@ -229,12 +227,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T13:59:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824993"
             }
           ]
@@ -316,16 +313,16 @@
         },
         {
           "type": "explainer",
-          "title": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
+          "title": "工业和信息化部：加强智能体终端设备进网管理 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T06:26:04+00:00；来源：新华网。",
+            "发布时间：2026-11-06T06:49:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEREOTNOU1pFM3JVcE9mYWZoX3VTQzhCTlhnYmd6X0NueEhVcC1JZTJvWjNGWGdON2Q4SlJXMmFYd3RLMjlfLWw3VXFELXdwSlZuQU5tQmZMODhEb0tBNEJhS21uNUZuV09GRWo4ZVd4QUtGeWdQVFg3UVpoYThnemRHSQ?oc=5"
             }
           ]
         }
@@ -383,11 +380,6 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-05"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-05"
@@ -398,13 +390,23 @@
       "asOf": "2026-11-05"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-05"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-05"
     },
     {
@@ -413,18 +415,13 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-04"
+      "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "url": "https://www.cnstock.com/commonDetail/824951",
+      "asOf": "2026-11-06T14:09:00+08:00"
     },
     {
       "title": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
       "url": "https://www.cnstock.com/commonDetail/824954",
-      "asOf": "2026-11-06T14:09:00+08:00"
-    },
-    {
-      "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
-      "url": "https://www.cnstock.com/commonDetail/824951",
       "asOf": "2026-11-06T14:09:00+08:00"
     },
     {
@@ -463,12 +460,20 @@
       "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5",
-      "asOf": "2026-11-06T06:26:04+00:00"
+      "title": "工业和信息化部：加强智能体终端设备进网管理 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEREOTNOU1pFM3JVcE9mYWZoX3VTQzhCTlhnYmd6X0NueEhVcC1JZTJvWjNGWGdON2Q4SlJXMmFYd3RLMjlfLWw3VXFELXdwSlZuQU5tQmZMODhEb0tBNEJhS21uNUZuV09GRWo4ZVd4QUtGeWdQVFg3UVpoYThnemRHSQ?oc=5",
+      "asOf": "2026-11-06T06:49:48+00:00"
     }
   ],
   "events": [
+    {
+      "event": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "originalTitle": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "published": "2026-11-06T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824951",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
       "originalTitle": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
@@ -478,25 +483,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824954",
-        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
+        "retrievedAt": "2026-11-06T15:22:06.733773+08:00",
         "sha256": "732d6bcea978b23c868bcdca36b5f763fb23570835c823bdeae0913f44ed46e5",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月6日午间，亨通光电发布公告称，公司控股股东亨通集团有限公司（以下简称“亨通集团”）近日收到中国建设银行股份有限公司苏州长三角一体化示范区分行出具的《贷款承诺书》，该行承诺为亨通集团提供金额不超过5.4亿元的增持专项贷款，贷款"
-      }
-    },
-    {
-      "event": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
-      "originalTitle": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
-      "published": "2026-11-06T14:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824951",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824951",
-        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
-        "sha256": "f134e69dd779eb144eeea0f72daafd1e18ce22a82897e7f0a0806995267e503f",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月6日午间，联讯仪器发布公告称，公司于2026年11月5日收到控股股东、实际控制人、董事长胡海洋出具的提议函，胡海洋提议公司以自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A"
       }
     },
     {
@@ -505,14 +495,7 @@
       "published": "2026-11-06T14:09:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824953",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824953",
-        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
-        "sha256": "129fb1412f2359c9b5055b9e54653c51652b8b79e65815da9c8ac833018e24b7",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "针对A股，多位首席研判发声",
@@ -520,14 +503,7 @@
       "published": "2026-11-06T13:59:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824993",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824993",
-        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
-        "sha256": "2025f2640794417f25e4ac4b9c78b7f24facc91fc7fd840de613558e902999ab",
-        "paragraphCount": 15,
-        "excerpt": "上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "“易中天”领衔，科技公司午间集体发声",
@@ -570,12 +546,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
-      "published": "2026-11-06T06:26:04+00:00",
+      "event": "工业和信息化部：加强智能体终端设备进网管理 - 新华网",
+      "published": "2026-11-06T06:49:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEREOTNOU1pFM3JVcE9mYWZoX3VTQzhCTlhnYmd6X0NueEhVcC1JZTJvWjNGWGdON2Q4SlJXMmFYd3RLMjlfLWw3VXFELXdwSlZuQU5tQmZMODhEb0tBNEJhS21uNUZuV09GRWo4ZVd4QUtGeWdQVFg3UVpoYThnemRHSQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网"
+      "originalTitle": "工业和信息化部：加强智能体终端设备进网管理 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +565,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
