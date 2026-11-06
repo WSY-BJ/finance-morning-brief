@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 09:31",
+  "date": "更新于北京时间 2026-11-06 10:49",
   "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T09:31:26+08:00",
+  "updatedAt": "2026-11-06T10:49:39+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.58 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
+            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,22 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "大宗商品价格异动 真反转还是假信号？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T09:22:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，多种大宗商品价格走势出现转向：4个交易日，伦敦现货黄金从跌破3900美元/盎司到重回4100美元/盎司；作为黄金的跟随品种，今年价格“腰斩”的白银也迎来反弹；由于短期供应扰动，铁矿石价格有所反弹；受美国中期选举进展影响，国际油价11月"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824877"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
           "summary": "",
           "paragraphs": [
@@ -229,12 +245,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T08:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：伴随创新药出海BD（商务拓展）提速，医药研发等服务需求回暖。近日，多家CXO（医药研发生产外包）上市公司在第三季度业绩说明会上表示，公司在手订单充裕，预计全年业绩有望实现增长，随着第四季度项目交付规模进一步扩大，行业景气度有望延续。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824854"
             }
           ]
@@ -256,76 +271,61 @@
         },
         {
           "type": "explainer",
-          "title": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
+          "title": "青岛发布122项蓝色金融产品 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T08:02:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T02:33:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824847"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
+          "title": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T22:10:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T02:03:05+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824755"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
+          "title": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T22:10:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T01:33:27+00:00；来源：新华社广西分社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824769"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
+          "title": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T14:19:08+00:00；来源：新华网。",
+            "发布时间：2026-11-06T01:09:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T14:16:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5"
             }
           ]
         }
@@ -383,23 +383,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-04"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-04"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-04"
     },
     {
@@ -408,14 +393,34 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-04"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-04"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-05"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-04"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-04"
+    },
+    {
+      "title": "大宗商品价格异动 真反转还是假信号？",
+      "url": "https://www.cnstock.com/commonDetail/824877",
+      "asOf": "2026-11-06T09:22:00+08:00"
     },
     {
       "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
@@ -443,32 +448,42 @@
       "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
-      "url": "https://www.cnstock.com/commonDetail/824847",
-      "asOf": "2026-11-06T08:02:00+08:00"
+      "title": "青岛发布122项蓝色金融产品 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5",
+      "asOf": "2026-11-06T02:33:15+00:00"
     },
     {
-      "title": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
-      "url": "https://www.cnstock.com/commonDetail/824755",
-      "asOf": "2026-11-05T22:10:00+08:00"
+      "title": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5",
+      "asOf": "2026-11-06T02:03:05+00:00"
     },
     {
-      "title": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
-      "url": "https://www.cnstock.com/commonDetail/824769",
-      "asOf": "2026-11-05T22:10:00+08:00"
+      "title": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5",
+      "asOf": "2026-11-06T01:33:27+00:00"
     },
     {
-      "title": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5",
-      "asOf": "2026-11-05T14:19:08+00:00"
-    },
-    {
-      "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5",
-      "asOf": "2026-11-05T14:16:28+00:00"
+      "title": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5",
+      "asOf": "2026-11-06T01:09:13+00:00"
     }
   ],
   "events": [
+    {
+      "event": "大宗商品价格异动 真反转还是假信号？",
+      "originalTitle": "大宗商品价格异动 真反转还是假信号？",
+      "published": "2026-11-06T09:22:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824877",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824877",
+        "retrievedAt": "2026-11-06T10:49:39.948574+08:00",
+        "sha256": "afed3f9de0bf7ea91468d1e176de454df4b394326f594e02309fa4013fd5153e",
+        "paragraphCount": 9,
+        "excerpt": "近期，多种大宗商品价格走势出现转向：4个交易日，伦敦现货黄金从跌破3900美元/盎司到重回4100美元/盎司；作为黄金的跟随品种，今年价格“腰斩”的白银也迎来反弹；由于短期供应扰动，铁矿石价格有所反弹；受美国中期选举进展影响，国际油价11月"
+      }
+    },
     {
       "event": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
       "originalTitle": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
@@ -478,8 +493,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824873",
-        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
-        "sha256": "04dfae447ce3ec8f3551b2c5395cbac446ad98440ce493400f54ddf83f531649",
+        "retrievedAt": "2026-11-06T10:49:39.948574+08:00",
+        "sha256": "40e80b96fb3e689da3c4cb623409ba279ff57a1d0b157cc1933f9d4f4904c381",
         "paragraphCount": 2,
         "excerpt": "上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
       }
@@ -493,8 +508,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824874",
-        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
-        "sha256": "46cdd71f62849c3fa4e60865be1462ce8ba36275d1a759bd17479604f39c0159",
+        "retrievedAt": "2026-11-06T10:49:39.948574+08:00",
+        "sha256": "e1bcbc7f15289121fbdb855362144c6a780c76802d81e456aebf0a56e865bff4",
         "paragraphCount": 13,
         "excerpt": "“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
       }
@@ -508,8 +523,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824855",
-        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
-        "sha256": "0cc65431ddaf01f5b634ea9a434c6ae0a573605f08619a2af53a63c67012b6e0",
+        "retrievedAt": "2026-11-06T10:49:39.948574+08:00",
+        "sha256": "53dcc4037c081673d308708ad81ebf7e2985f82704364584ea0b51371ca92610",
         "paragraphCount": 15,
         "excerpt": "在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
       }
@@ -520,14 +535,7 @@
       "published": "2026-11-06T08:11:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824854",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824854",
-        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
-        "sha256": "5b329b7e32778dea20f548ea9f33a8c87a51225758293efc31b9f6298d44a519",
-        "paragraphCount": 11,
-        "excerpt": "伴随创新药出海BD（商务拓展）提速，医药研发等服务需求回暖。近日，多家CXO（医药研发生产外包）上市公司在第三季度业绩说明会上表示，公司在手订单充裕，预计全年业绩有望实现增长，随着第四季度项目交付规模进一步扩大，行业景气度有望延续。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
@@ -538,44 +546,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
-      "originalTitle": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
-      "published": "2026-11-06T08:02:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824847",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
-      "originalTitle": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
-      "published": "2026-11-05T22:10:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824755",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
-      "originalTitle": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
-      "published": "2026-11-05T22:10:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824769",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
-      "published": "2026-11-05T14:19:08+00:00",
+      "event": "青岛发布122项蓝色金融产品 - 新华网",
+      "published": "2026-11-06T02:33:15+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网"
+      "originalTitle": "青岛发布122项蓝色金融产品 - 新华网"
     },
     {
-      "event": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
-      "published": "2026-11-05T14:16:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5",
+      "event": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
+      "published": "2026-11-06T02:03:05+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网"
+      "originalTitle": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道"
+    },
+    {
+      "event": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
+      "published": "2026-11-06T01:33:27+00:00",
+      "publisher": "新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社"
+    },
+    {
+      "event": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
+      "published": "2026-11-06T01:09:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网"
     }
   ],
   "quality": {
@@ -589,8 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
