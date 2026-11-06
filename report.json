@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 14:24",
+  "date": "更新于北京时间 2026-11-06 14:48",
   "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T14:24:35+08:00",
+  "updatedAt": "2026-11-06T14:48:10+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-05：7,353.73 点；较 2026-11-04 变化 -334.89 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.58 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
+            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -193,22 +193,6 @@
         },
         {
           "type": "explainer",
-          "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824953"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
           "summary": "",
           "paragraphs": [
@@ -220,6 +204,22 @@
             {
               "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/824951"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824953"
             }
           ]
         },
@@ -245,12 +245,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T13:44:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824980"
             }
           ]
@@ -261,12 +260,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T11:39:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824932"
             }
           ]
@@ -292,12 +290,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T08:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824855"
             }
           ]
@@ -319,16 +316,16 @@
         },
         {
           "type": "explainer",
-          "title": "欧盟推出一揽子方案应对教育挑战 - 新华网",
+          "title": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T05:57:09+00:00；来源：新华网。",
+            "发布时间：2026-11-06T06:26:04+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5"
             }
           ]
         }
@@ -386,6 +383,21 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-05"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
@@ -396,28 +408,13 @@
       "asOf": "2026-11-05"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-05"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-04"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-04"
     },
     {
@@ -426,13 +423,13 @@
       "asOf": "2026-11-06T14:09:00+08:00"
     },
     {
-      "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
-      "url": "https://www.cnstock.com/commonDetail/824953",
+      "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "url": "https://www.cnstock.com/commonDetail/824951",
       "asOf": "2026-11-06T14:09:00+08:00"
     },
     {
-      "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
-      "url": "https://www.cnstock.com/commonDetail/824951",
+      "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "url": "https://www.cnstock.com/commonDetail/824953",
       "asOf": "2026-11-06T14:09:00+08:00"
     },
     {
@@ -466,9 +463,9 @@
       "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "欧盟推出一揽子方案应对教育挑战 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5",
-      "asOf": "2026-11-06T05:57:09+00:00"
+      "title": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5",
+      "asOf": "2026-11-06T06:26:04+00:00"
     }
   ],
   "events": [
@@ -481,25 +478,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824954",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
         "sha256": "732d6bcea978b23c868bcdca36b5f763fb23570835c823bdeae0913f44ed46e5",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月6日午间，亨通光电发布公告称，公司控股股东亨通集团有限公司（以下简称“亨通集团”）近日收到中国建设银行股份有限公司苏州长三角一体化示范区分行出具的《贷款承诺书》，该行承诺为亨通集团提供金额不超过5.4亿元的增持专项贷款，贷款"
-      }
-    },
-    {
-      "event": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
-      "originalTitle": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
-      "published": "2026-11-06T14:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824953",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824953",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
-        "sha256": "129fb1412f2359c9b5055b9e54653c51652b8b79e65815da9c8ac833018e24b7",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
       }
     },
     {
@@ -511,10 +493,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824951",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
         "sha256": "f134e69dd779eb144eeea0f72daafd1e18ce22a82897e7f0a0806995267e503f",
         "paragraphCount": 2,
         "excerpt": "上证智讯 11月6日午间，联讯仪器发布公告称，公司于2026年11月5日收到控股股东、实际控制人、董事长胡海洋出具的提议函，胡海洋提议公司以自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A"
+      }
+    },
+    {
+      "event": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "originalTitle": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "published": "2026-11-06T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824953",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824953",
+        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
+        "sha256": "129fb1412f2359c9b5055b9e54653c51652b8b79e65815da9c8ac833018e24b7",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
       }
     },
     {
@@ -526,7 +523,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824993",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "retrievedAt": "2026-11-06T14:48:10.909790+08:00",
         "sha256": "2025f2640794417f25e4ac4b9c78b7f24facc91fc7fd840de613558e902999ab",
         "paragraphCount": 15,
         "excerpt": "上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
@@ -538,14 +535,7 @@
       "published": "2026-11-06T13:44:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824980",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824980",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
-        "sha256": "a0e52127b97b6ba67e8fd8c079933e4da0088752b658cea86cd7c55677912c90",
-        "paragraphCount": 17,
-        "excerpt": "11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "习近平复信澳大利亚青年学生",
@@ -553,14 +543,7 @@
       "published": "2026-11-06T11:39:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/824932",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824932",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
-        "sha256": "49f1d6dccf608d687cbf4c34cd19fd635988904d5089bd9ab3432af598ba7419",
-        "paragraphCount": 4,
-        "excerpt": "新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "大宗商品价格异动 真反转还是假信号？",
@@ -576,14 +559,7 @@
       "published": "2026-11-06T08:11:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824855",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824855",
-        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
-        "sha256": "ae91d73e010b8f7d6369182439bb6c19b42022e74b734a67b6372173e77c4747",
-        "paragraphCount": 15,
-        "excerpt": "在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
@@ -594,12 +570,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "欧盟推出一揽子方案应对教育挑战 - 新华网",
-      "published": "2026-11-06T05:57:09+00:00",
+      "event": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网",
+      "published": "2026-11-06T06:26:04+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XNnVTSlpqd0Juc210eHdqLTNaSFdpZWpmTlNLd1ItN0JnWGNRakI1Q05zR3N6ZGYtdDViZWVXY2ExMUg2cm9CWU5mRUtFN051bTJhU2dfc1ZjaGhtV1VXN3JKRTlnd1RTSjQtQWZPV2xvN2JkdWc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "欧盟推出一揽子方案应对教育挑战 - 新华网"
+      "originalTitle": "更具“中国风” 第二艘中国国产大型邮轮交付 - 新华网"
     }
   ],
   "quality": {
@@ -613,6 +589,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
