@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 12:02",
+  "date": "更新于北京时间 2026-11-06 14:24",
   "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T12:02:33+08:00",
+  "updatedAt": "2026-11-06T14:24:35+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
+          "summary": "2026-11-05：7,353.73 点；较 2026-11-04 变化 -334.89 点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.58 %；变化 -0.03 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.51 点；变化 -0.36 点",
+          "summary": "101.55 点；变化 +0.04 点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 101.87（2026-11-03）；来源：Yahoo Finance。"
+            "观测日 2026-11-05；前值 101.51（2026-11-04）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,688.62 点；变化 +119.70 点",
+          "summary": "7,353.73 点；变化 -334.89 点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 7,568.92（2026-11-03）；来源：Yahoo Finance。"
+            "观测日 2026-11-05；前值 7,688.62（2026-11-04）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,736.51 点；变化 +364.50 点",
+          "summary": "24,315.00 点；变化 -1421.51 点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 25,372.01（2026-11-03）；来源：Yahoo Finance。"
+            "观测日 2026-11-05；前值 25,736.51（2026-11-04）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,49 +177,112 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月6日午间，亨通光电发布公告称，公司控股股东亨通集团有限公司（以下简称“亨通集团”）近日收到中国建设银行股份有限公司苏州长三角一体化示范区分行出具的《贷款承诺书》，该行承诺为亨通集团提供金额不超过5.4亿元的增持专项贷款，贷款"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824954"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824953"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月6日午间，联讯仪器发布公告称，公司于2026年11月5日收到控股股东、实际控制人、董事长胡海洋出具的提议函，胡海洋提议公司以自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824951"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "针对A股，多位首席研判发声",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T13:59:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824993"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“易中天”领衔，科技公司午间集体发声",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T13:44:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824980"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平复信澳大利亚青年学生",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T11:39:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824932"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "大宗商品价格异动 真反转还是假信号？",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T09:22:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，多种大宗商品价格走势出现转向：4个交易日，伦敦现货黄金从跌破3900美元/盎司到重回4100美元/盎司；作为黄金的跟随品种，今年价格“腰斩”的白银也迎来反弹；由于短期供应扰动，铁矿石价格有所反弹；受美国中期选举进展影响，国际油价11月"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/824877"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T08:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824873"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T08:40:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824874"
             }
           ]
         },
@@ -256,76 +319,16 @@
         },
         {
           "type": "explainer",
-          "title": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
+          "title": "欧盟推出一揽子方案应对教育挑战 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T03:52:39+00:00；来源：新华网。",
+            "发布时间：2026-11-06T05:57:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T03:40:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "微视频｜携手共“进” 共享未来 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T03:40:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T03:29:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T03:19:05+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5"
             }
           ]
         }
@@ -357,7 +360,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-03 前值 7568.9199，2026-11-04 现值 7688.6201，变化 +119.7002。",
+            "本期实例：标普 500 指数，2026-11-04 前值 7688.6201，2026-11-05 现值 7353.7300，变化 -334.8901。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -388,23 +391,28 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-04"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-05"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-04"
+      "asOf": "2026-11-05"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-04"
+      "asOf": "2026-11-05"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-05"
     },
     {
@@ -413,24 +421,39 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-04"
+      "title": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
+      "url": "https://www.cnstock.com/commonDetail/824954",
+      "asOf": "2026-11-06T14:09:00+08:00"
+    },
+    {
+      "title": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "url": "https://www.cnstock.com/commonDetail/824953",
+      "asOf": "2026-11-06T14:09:00+08:00"
+    },
+    {
+      "title": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "url": "https://www.cnstock.com/commonDetail/824951",
+      "asOf": "2026-11-06T14:09:00+08:00"
+    },
+    {
+      "title": "针对A股，多位首席研判发声",
+      "url": "https://www.cnstock.com/commonDetail/824993",
+      "asOf": "2026-11-06T13:59:00+08:00"
+    },
+    {
+      "title": "“易中天”领衔，科技公司午间集体发声",
+      "url": "https://www.cnstock.com/commonDetail/824980",
+      "asOf": "2026-11-06T13:44:00+08:00"
+    },
+    {
+      "title": "习近平复信澳大利亚青年学生",
+      "url": "https://www.cnstock.com/commonDetail/824932",
+      "asOf": "2026-11-06T11:39:00+08:00"
     },
     {
       "title": "大宗商品价格异动 真反转还是假信号？",
       "url": "https://www.cnstock.com/commonDetail/824877",
       "asOf": "2026-11-06T09:22:00+08:00"
-    },
-    {
-      "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
-      "url": "https://www.cnstock.com/commonDetail/824873",
-      "asOf": "2026-11-06T08:46:00+08:00"
-    },
-    {
-      "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
-      "url": "https://www.cnstock.com/commonDetail/824874",
-      "asOf": "2026-11-06T08:40:00+08:00"
     },
     {
       "title": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
@@ -443,76 +466,109 @@
       "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5",
-      "asOf": "2026-11-06T03:52:39+00:00"
-    },
-    {
-      "title": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5",
-      "asOf": "2026-11-06T03:40:33+00:00"
-    },
-    {
-      "title": "微视频｜携手共“进” 共享未来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5",
-      "asOf": "2026-11-06T03:40:28+00:00"
-    },
-    {
-      "title": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5",
-      "asOf": "2026-11-06T03:29:03+00:00"
-    },
-    {
-      "title": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5",
-      "asOf": "2026-11-06T03:19:05+00:00"
+      "title": "欧盟推出一揽子方案应对教育挑战 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5",
+      "asOf": "2026-11-06T05:57:09+00:00"
     }
   ],
   "events": [
+    {
+      "event": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
+      "originalTitle": "亨通光电：控股股东获得建行不超5.4亿元增持专项贷款承诺",
+      "published": "2026-11-06T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824954",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824954",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "732d6bcea978b23c868bcdca36b5f763fb23570835c823bdeae0913f44ed46e5",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月6日午间，亨通光电发布公告称，公司控股股东亨通集团有限公司（以下简称“亨通集团”）近日收到中国建设银行股份有限公司苏州长三角一体化示范区分行出具的《贷款承诺书》，该行承诺为亨通集团提供金额不超过5.4亿元的增持专项贷款，贷款"
+      }
+    },
+    {
+      "event": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "originalTitle": "领益智造：已累计斥资约5.6亿元回购4336.72万股公司股份",
+      "published": "2026-11-06T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824953",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824953",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "129fb1412f2359c9b5055b9e54653c51652b8b79e65815da9c8ac833018e24b7",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月6日午间，领益智造发布公告称，2026年11月6日当日，截至午间收盘，公司通过回购专用证券账户以集中竞价交易方式回购公司A股股份180.69万股，占公司总股本的0.02%，最高成交价为11.80元/股，最低成交价为11.58"
+      }
+    },
+    {
+      "event": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "originalTitle": "联讯仪器：董事长提议公司回购股份 计划申请专项贷款支持",
+      "published": "2026-11-06T14:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824951",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824951",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "f134e69dd779eb144eeea0f72daafd1e18ce22a82897e7f0a0806995267e503f",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 11月6日午间，联讯仪器发布公告称，公司于2026年11月5日收到控股股东、实际控制人、董事长胡海洋出具的提议函，胡海洋提议公司以自有资金或自筹资金，通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A"
+      }
+    },
+    {
+      "event": "针对A股，多位首席研判发声",
+      "originalTitle": "针对A股，多位首席研判发声",
+      "published": "2026-11-06T13:59:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824993",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824993",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "2025f2640794417f25e4ac4b9c78b7f24facc91fc7fd840de613558e902999ab",
+        "paragraphCount": 15,
+        "excerpt": "上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
+      }
+    },
+    {
+      "event": "“易中天”领衔，科技公司午间集体发声",
+      "originalTitle": "“易中天”领衔，科技公司午间集体发声",
+      "published": "2026-11-06T13:44:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824980",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824980",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "a0e52127b97b6ba67e8fd8c079933e4da0088752b658cea86cd7c55677912c90",
+        "paragraphCount": 17,
+        "excerpt": "11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
+      }
+    },
+    {
+      "event": "习近平复信澳大利亚青年学生",
+      "originalTitle": "习近平复信澳大利亚青年学生",
+      "published": "2026-11-06T11:39:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/824932",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824932",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "49f1d6dccf608d687cbf4c34cd19fd635988904d5089bd9ab3432af598ba7419",
+        "paragraphCount": 4,
+        "excerpt": "新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。"
+      }
+    },
     {
       "event": "大宗商品价格异动 真反转还是假信号？",
       "originalTitle": "大宗商品价格异动 真反转还是假信号？",
       "published": "2026-11-06T09:22:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/824877",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824877",
-        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
-        "sha256": "afed3f9de0bf7ea91468d1e176de454df4b394326f594e02309fa4013fd5153e",
-        "paragraphCount": 9,
-        "excerpt": "近期，多种大宗商品价格走势出现转向：4个交易日，伦敦现货黄金从跌破3900美元/盎司到重回4100美元/盎司；作为黄金的跟随品种，今年价格“腰斩”的白银也迎来反弹；由于短期供应扰动，铁矿石价格有所反弹；受美国中期选举进展影响，国际油价11月"
-      }
-    },
-    {
-      "event": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
-      "originalTitle": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
-      "published": "2026-11-06T08:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824873",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824873",
-        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
-        "sha256": "40e80b96fb3e689da3c4cb623409ba279ff57a1d0b157cc1933f9d4f4904c381",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
-      }
-    },
-    {
-      "event": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
-      "originalTitle": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
-      "published": "2026-11-06T08:40:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/824874",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824874",
-        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
-        "sha256": "e1bcbc7f15289121fbdb855362144c6a780c76802d81e456aebf0a56e865bff4",
-        "paragraphCount": 13,
-        "excerpt": "“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
@@ -523,8 +579,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824855",
-        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
-        "sha256": "53dcc4037c081673d308708ad81ebf7e2985f82704364584ea0b51371ca92610",
+        "retrievedAt": "2026-11-06T14:24:35.250594+08:00",
+        "sha256": "ae91d73e010b8f7d6369182439bb6c19b42022e74b734a67b6372173e77c4747",
         "paragraphCount": 15,
         "excerpt": "在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
       }
@@ -538,44 +594,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
-      "published": "2026-11-06T03:52:39+00:00",
+      "event": "欧盟推出一揽子方案应对教育挑战 - 新华网",
+      "published": "2026-11-06T05:57:09+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMEZfbE1YMHJCb2MydVlGaERRbkxjSERZS1FRdEpiYUJwVWl3cWFWSF9MZ2JIb2k4WTFfeXF5bDVhNTAyTEd3cUVqWGpzRkNxRHBwZ2pHRVpYWGFNRFhYT1dCXzU2NlpTamlhNnFtU09vZmJSZVZCRzcySWVCZWs?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网"
-    },
-    {
-      "event": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
-      "published": "2026-11-06T03:40:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网"
-    },
-    {
-      "event": "微视频｜携手共“进” 共享未来 - 新华网",
-      "published": "2026-11-06T03:40:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "微视频｜携手共“进” 共享未来 - 新华网"
-    },
-    {
-      "event": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
-      "published": "2026-11-06T03:29:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网"
-    },
-    {
-      "event": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
-      "published": "2026-11-06T03:19:05+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网"
+      "originalTitle": "欧盟推出一揽子方案应对教育挑战 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +613,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError"
     ]
   }
