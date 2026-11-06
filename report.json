@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-05",
-  "date": "更新于北京时间 2026-11-05 20:22",
-  "reportDate": "2026-11-05",
-  "updatedAt": "2026-11-05T20:22:28+08:00",
+  "edition": "财经晨报 · 2026-11-06",
+  "date": "更新于北京时间 2026-11-06 09:31",
+  "reportDate": "2026-11-06",
+  "updatedAt": "2026-11-06T09:31:26+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-05 财经资料（待核验）",
+    "title": "2026-11-06 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -19,18 +19,6 @@
       "title": "今天最重要的市场主线",
       "lead": "",
       "blocks": [
-        {
-          "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
         {
           "type": "explainer",
           "title": "标普 500 指数",
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "美国 10 年期国债收益率",
           "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 +0.02 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-03；前值 4.59（2026-11-02）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -96,12 +96,12 @@
           "title": "美国 10 年期国债收益率",
           "summary": "4.90 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：美国财政部。"
+            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6701 人民币/美元；变化 +0.0221 人民币/美元",
+          "summary": "6.6731 人民币/美元；变化 +0.0030 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-04；前值 6.6480（2026-11-03）；来源：Yahoo Finance。"
+            "观测日 2026-11-05；前值 6.6701（2026-11-04）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,152 +177,155 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国务院国资委召开地方进一步深化国资国企改革座谈会",
+          "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T18:48:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824531"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T08:46:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月5日，强瑞技术发布公告称，公司5名董事及高级管理人员拟自增持计划公告披露之日起三个月内，通过深圳证券交易所系统以集中竞价交易方式增持公司股份，本次增持不设定价格区间。"
+            "原文摘要：上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824488"
+              "url": "https://www.cnstock.com/commonDetail/824873"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
+          "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-06T08:40:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824519"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824874"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
+          "title": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T18:12:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-06T08:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824492"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824855"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+          "title": "多家公司在手订单充裕 CXO行业景气度有望延续",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T17:23:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-06T08:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：伴随创新药出海BD（商务拓展）提速，医药研发等服务需求回暖。近日，多家CXO（医药研发生产外包）上市公司在第三季度业绩说明会上表示，公司在手订单充裕，预计全年业绩有望实现增长，随着第四季度项目交付规模进一步扩大，行业景气度有望延续。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824478"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/824854"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
+          "title": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T14:09:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T08:09:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824365"
+              "url": "https://www.cnstock.com/commonDetail/824848"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+          "title": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T12:16:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-06T08:02:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824332"
+              "url": "https://www.cnstock.com/commonDetail/824847"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
+          "title": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T11:18:06+00:00；来源：新华网。",
+            "发布时间：2026-11-05T22:10:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/824755"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国际金价重回4100美元/盎司上方",
+          "title": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T11:16:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-05T22:10:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/824310"
+              "url": "https://www.cnstock.com/commonDetail/824769"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
+          "title": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T10:17:26+00:00；来源：新华网。",
+            "发布时间：2026-11-05T14:19:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-05T14:16:28+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5"
             }
           ]
         }
@@ -346,7 +349,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 28 课：情景分析",
+      "title": "第 29 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -380,13 +383,13 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-03"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-04"
     },
     {
@@ -400,158 +403,179 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-04"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-04"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
     },
     {
-      "title": "国务院国资委召开地方进一步深化国资国企改革座谈会",
-      "url": "https://www.cnstock.com/commonDetail/824531",
-      "asOf": "2026-11-05T18:48:00+08:00"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/824488",
-      "asOf": "2026-11-05T18:12:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-04"
     },
     {
-      "title": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
-      "url": "https://www.cnstock.com/commonDetail/824519",
-      "asOf": "2026-11-05T18:12:00+08:00"
+      "title": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
+      "url": "https://www.cnstock.com/commonDetail/824873",
+      "asOf": "2026-11-06T08:46:00+08:00"
     },
     {
-      "title": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/824492",
-      "asOf": "2026-11-05T18:12:00+08:00"
+      "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
+      "url": "https://www.cnstock.com/commonDetail/824874",
+      "asOf": "2026-11-06T08:40:00+08:00"
     },
     {
-      "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
-      "url": "https://www.cnstock.com/commonDetail/824478",
-      "asOf": "2026-11-05T17:23:00+08:00"
+      "title": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
+      "url": "https://www.cnstock.com/commonDetail/824855",
+      "asOf": "2026-11-06T08:11:00+08:00"
     },
     {
-      "title": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
-      "url": "https://www.cnstock.com/commonDetail/824365",
-      "asOf": "2026-11-05T14:09:00+08:00"
+      "title": "多家公司在手订单充裕 CXO行业景气度有望延续",
+      "url": "https://www.cnstock.com/commonDetail/824854",
+      "asOf": "2026-11-06T08:11:00+08:00"
     },
     {
-      "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
-      "url": "https://www.cnstock.com/commonDetail/824332",
-      "asOf": "2026-11-05T12:16:00+08:00"
+      "title": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
+      "url": "https://www.cnstock.com/commonDetail/824848",
+      "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5",
-      "asOf": "2026-11-05T11:18:06+00:00"
+      "title": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
+      "url": "https://www.cnstock.com/commonDetail/824847",
+      "asOf": "2026-11-06T08:02:00+08:00"
     },
     {
-      "title": "国际金价重回4100美元/盎司上方",
-      "url": "https://www.cnstock.com/commonDetail/824310",
-      "asOf": "2026-11-05T11:16:00+08:00"
+      "title": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
+      "url": "https://www.cnstock.com/commonDetail/824755",
+      "asOf": "2026-11-05T22:10:00+08:00"
     },
     {
-      "title": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5",
-      "asOf": "2026-11-05T10:17:26+00:00"
+      "title": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
+      "url": "https://www.cnstock.com/commonDetail/824769",
+      "asOf": "2026-11-05T22:10:00+08:00"
+    },
+    {
+      "title": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5",
+      "asOf": "2026-11-05T14:19:08+00:00"
+    },
+    {
+      "title": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5",
+      "asOf": "2026-11-05T14:16:28+00:00"
     }
   ],
   "events": [
     {
-      "event": "国务院国资委召开地方进一步深化国资国企改革座谈会",
-      "originalTitle": "国务院国资委召开地方进一步深化国资国企改革座谈会",
-      "published": "2026-11-05T18:48:00+08:00",
+      "event": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
+      "originalTitle": "瑞纳智能：预中标供热计量改造项目 金额约2.02亿元",
+      "published": "2026-11-06T08:46:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824531",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
-      "originalTitle": "强瑞技术：5名董事及高管拟三个月内增持公司股份",
-      "published": "2026-11-05T18:12:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824488",
+      "url": "https://www.cnstock.com/commonDetail/824873",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824488",
-        "retrievedAt": "2026-11-05T20:22:28.412517+08:00",
-        "sha256": "97075df6af438a76ad6aeee35313e8fd7e367d2db7050bdf0d533f70393fb1c4",
-        "paragraphCount": 4,
-        "excerpt": "上证智讯 11月5日，强瑞技术发布公告称，公司5名董事及高级管理人员拟自增持计划公告披露之日起三个月内，通过深圳证券交易所系统以集中竞价交易方式增持公司股份，本次增持不设定价格区间。"
+        "url": "https://www.cnstock.com/commonDetail/824873",
+        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
+        "sha256": "04dfae447ce3ec8f3551b2c5395cbac446ad98440ce493400f54ddf83f531649",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
       }
     },
     {
-      "event": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
-      "originalTitle": "永安期货：股东财通证券质押9750.39万股，占其所持22.19%",
-      "published": "2026-11-05T18:12:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824519",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
-      "originalTitle": "中仑新材：拟斥资1.00亿元至2.00亿元回购公司股份",
-      "published": "2026-11-05T18:12:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824492",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
-      "originalTitle": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
-      "published": "2026-11-05T17:23:00+08:00",
+      "event": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
+      "originalTitle": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
+      "published": "2026-11-06T08:40:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/824478",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
-      "originalTitle": "国务院国资委：加快培育壮大新兴产业和未来产业 以科技强牵引产业强、经济强",
-      "published": "2026-11-05T14:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824365",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
-      "originalTitle": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
-      "published": "2026-11-05T12:16:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824332",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网",
-      "published": "2026-11-05T11:18:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcm9IaW1VSnE3enAwbmh1MjJZWVBSZTNKZU0yR1RiUy1KYnRwOW8zZWZuajRzRjNKNmxqNzlVS0lwTHFvVTJuT2lFN3ZndG9PU0h2Y1RFN0M0MDVWX01aVlV2WGJhNkJ0WTBDd3phVVBINjZGS1pwOFpIMHkxUQ?oc=5",
+      "url": "https://www.cnstock.com/commonDetail/824874",
       "evidenceLevel": "headline-only",
-      "originalTitle": "Vlog丨在世界媒体峰会上 我遇见了“新同事” - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824874",
+        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
+        "sha256": "46cdd71f62849c3fa4e60865be1462ce8ba36275d1a759bd17479604f39c0159",
+        "paragraphCount": 13,
+        "excerpt": "“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
+      }
     },
     {
-      "event": "国际金价重回4100美元/盎司上方",
-      "originalTitle": "国际金价重回4100美元/盎司上方",
-      "published": "2026-11-05T11:16:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824310",
+      "event": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
+      "originalTitle": "实验室里的技术第一如何变成产线上的常态？——硬科技企业创新成果转化样本调查",
+      "published": "2026-11-06T08:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824855",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824855",
+        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
+        "sha256": "0cc65431ddaf01f5b634ea9a434c6ae0a573605f08619a2af53a63c67012b6e0",
+        "paragraphCount": 15,
+        "excerpt": "在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
+      }
+    },
+    {
+      "event": "多家公司在手订单充裕 CXO行业景气度有望延续",
+      "originalTitle": "多家公司在手订单充裕 CXO行业景气度有望延续",
+      "published": "2026-11-06T08:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824854",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824854",
+        "retrievedAt": "2026-11-06T09:31:26.594229+08:00",
+        "sha256": "5b329b7e32778dea20f548ea9f33a8c87a51225758293efc31b9f6298d44a519",
+        "paragraphCount": 11,
+        "excerpt": "伴随创新药出海BD（商务拓展）提速，医药研发等服务需求回暖。近日，多家CXO（医药研发生产外包）上市公司在第三季度业绩说明会上表示，公司在手订单充裕，预计全年业绩有望实现增长，随着第四季度项目交付规模进一步扩大，行业景气度有望延续。"
+      }
+    },
+    {
+      "event": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
+      "originalTitle": "股票回购增持再贷款加力实施 上市公司：用足用好政策工具，降低回购增持资金成本",
+      "published": "2026-11-06T08:09:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/824848",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网",
-      "published": "2026-11-05T10:17:26+00:00",
+      "event": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
+      "originalTitle": "上证早知道｜463亿—470亿元，688235上调全年收入预测；688521，与谷歌合作端侧AI",
+      "published": "2026-11-06T08:02:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824847",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
+      "originalTitle": "*ST禾信：发行股份及支付现金购买资产获证监会同意注册",
+      "published": "2026-11-05T22:10:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824755",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
+      "originalTitle": "晶合集成：拟斥资5亿元至8亿元回购股份用于员工持股或股权激励",
+      "published": "2026-11-05T22:10:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/824769",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网",
+      "published": "2026-11-05T14:19:08+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUjNNcGY5em1QcjRUZnNUdUxuZ1lyUE9UNWxNamNwaVN6SW9PVE1xQ0h1Q2tIY1JSUGljd2ZlZHV3bS15cENmdXY2bFc5OElMRGc5Zm9aQ1BtOXFrQ3NEQmlQcWdYT01SYXFxS3VnYzlMT25YTktJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na1BRU0lpcjRsU0cxdngwa25tSGZXZDZ1eXRrS0FuUkdPSUd5NFRqRE9iaGhqZUdLMmFOSXJhOGR2UWE2clRoNThaeHNpNmxkVk0zblZPZkZ2MV9TdTF1Z3ZDM1FJS2xGN3N2aXY4ZENfYTQ2aS1vc292WlpHZVk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "多国百年品牌齐聚，在进博会解锁美好生活新视角 - 新华网"
+      "originalTitle": "第九届进博会丨进博手记：在全球创新中看见中国印记 - 新华网"
+    },
+    {
+      "event": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网",
+      "published": "2026-11-05T14:16:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS3dqYTRrYWNpdjEzVUtkYndJRTN4YWJ1MkZ0dDUwem5uZlBoZXRjYy1uWlMyOXNWN0VIVzJQRko4dDZCYU50ZV9VdkloQ2VuNE1tOHRBMlRYaVU5YnBiY1VNcm03aE5zZ0c1UnF4N0xtaVN3QURJRlBneDFnUlk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系 - 新华网"
     }
   ],
   "quality": {
@@ -565,9 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
