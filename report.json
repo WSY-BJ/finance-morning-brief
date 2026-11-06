@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 11:32",
+  "date": "更新于北京时间 2026-11-06 12:02",
   "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T11:32:06+08:00",
+  "updatedAt": "2026-11-06T12:02:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-04：7,688.62 点；较 2026-11-03 变化 +119.70 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.58 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：美国财政部。"
+            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.90 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：美国财政部。"
+            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -197,11 +197,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-06T08:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/824873"
             }
           ]
@@ -255,76 +256,76 @@
         },
         {
           "type": "explainer",
-          "title": "青岛发布122项蓝色金融产品 - 新华网",
+          "title": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T02:33:15+00:00；来源：新华网。",
+            "发布时间：2026-11-06T03:52:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
+          "title": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T02:03:05+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-11-06T03:40:33+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
+          "title": "微视频｜携手共“进” 共享未来 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T01:33:27+00:00；来源：新华社广西分社。",
+            "发布时间：2026-11-06T03:40:28+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
+          "title": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T01:09:13+00:00；来源：新华网。",
+            "发布时间：2026-11-06T03:29:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“十五五”培育壮大新动能看点多 - 新华网",
+          "title": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-05T23:49:52+00:00；来源：新华网。",
+            "发布时间：2026-11-06T03:19:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwd1ZfRTBDcm95emdTSnVqbEZIbzFOQnNFdzV5WnpEemFOT04zbnpYTXl0bWpZMlJhZzNGTGwwdGFoRWtKUjAzZ2pEbklnVzVoeEVfWWJKUktSa1hyc0laRThHejJ6WWNzc2REMkw1RER5bV9QVExJ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5"
             }
           ]
         }
@@ -382,9 +383,14 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-05"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-03"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-04"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
@@ -397,24 +403,19 @@
       "asOf": "2026-11-04"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-03"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-04"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-05"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-04"
     },
     {
       "title": "大宗商品价格异动 真反转还是假信号？",
@@ -442,29 +443,29 @@
       "asOf": "2026-11-06T08:09:00+08:00"
     },
     {
-      "title": "青岛发布122项蓝色金融产品 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5",
-      "asOf": "2026-11-06T02:33:15+00:00"
+      "title": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5",
+      "asOf": "2026-11-06T03:52:39+00:00"
     },
     {
-      "title": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5",
-      "asOf": "2026-11-06T02:03:05+00:00"
+      "title": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5",
+      "asOf": "2026-11-06T03:40:33+00:00"
     },
     {
-      "title": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5",
-      "asOf": "2026-11-06T01:33:27+00:00"
+      "title": "微视频｜携手共“进” 共享未来 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5",
+      "asOf": "2026-11-06T03:40:28+00:00"
     },
     {
-      "title": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5",
-      "asOf": "2026-11-06T01:09:13+00:00"
+      "title": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5",
+      "asOf": "2026-11-06T03:29:03+00:00"
     },
     {
-      "title": "“十五五”培育壮大新动能看点多 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwd1ZfRTBDcm95emdTSnVqbEZIbzFOQnNFdzV5WnpEemFOT04zbnpYTXl0bWpZMlJhZzNGTGwwdGFoRWtKUjAzZ2pEbklnVzVoeEVfWWJKUktSa1hyc0laRThHejJ6WWNzc2REMkw1RER5bV9QVExJ?oc=5",
-      "asOf": "2026-11-05T23:49:52+00:00"
+      "title": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5",
+      "asOf": "2026-11-06T03:19:05+00:00"
     }
   ],
   "events": [
@@ -477,7 +478,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824877",
-        "retrievedAt": "2026-11-06T11:32:06.010871+08:00",
+        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
         "sha256": "afed3f9de0bf7ea91468d1e176de454df4b394326f594e02309fa4013fd5153e",
         "paragraphCount": 9,
         "excerpt": "近期，多种大宗商品价格走势出现转向：4个交易日，伦敦现货黄金从跌破3900美元/盎司到重回4100美元/盎司；作为黄金的跟随品种，今年价格“腰斩”的白银也迎来反弹；由于短期供应扰动，铁矿石价格有所反弹；受美国中期选举进展影响，国际油价11月"
@@ -489,7 +490,14 @@
       "published": "2026-11-06T08:46:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/824873",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/824873",
+        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
+        "sha256": "40e80b96fb3e689da3c4cb623409ba279ff57a1d0b157cc1933f9d4f4904c381",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 11月6日早间，瑞纳智能发布公告称，2026年11月5日，乌鲁木齐公共资源交易网发布了《乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务中标候选人公示》，公司为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段"
+      }
     },
     {
       "event": "“做南方故事的主笔人”——多国媒体人士热议在变革中构建全球南方叙事体系",
@@ -500,7 +508,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824874",
-        "retrievedAt": "2026-11-06T11:32:06.010871+08:00",
+        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
         "sha256": "e1bcbc7f15289121fbdb855362144c6a780c76802d81e456aebf0a56e865bff4",
         "paragraphCount": 13,
         "excerpt": "“在媒体变革中汇聚南方力量”“南方故事应由南方书写”“传播公平正义的南方之声”……第七届世界媒体峰会11月5日至9日在北京举行，唱响全球南方声音，构建全球南方叙事体系成为多国代表在峰会期间热议的话题。"
@@ -515,7 +523,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/824855",
-        "retrievedAt": "2026-11-06T11:32:06.010871+08:00",
+        "retrievedAt": "2026-11-06T12:02:33.011380+08:00",
         "sha256": "53dcc4037c081673d308708ad81ebf7e2985f82704364584ea0b51371ca92610",
         "paragraphCount": 15,
         "excerpt": "在水木东方的实验室内，科研人员正对血管介入手术机器人进行反复调试；在趋境科技的办公区里，工程师紧盯屏幕调度跨区域的异构算力集群，将分散的算力资源转化为AI 词元；银河通用的人形机器人“小盖”在货架前取货、递送烤肠，整套动作流畅娴熟。这是上海"
@@ -530,44 +538,44 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "青岛发布122项蓝色金融产品 - 新华网",
-      "published": "2026-11-06T02:33:15+00:00",
+      "event": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网",
+      "published": "2026-11-06T03:52:39+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14b3NZWHlYWnMzQm05eGNDS2pUTWNnUnNna1F4ZTJweThIcWV0U0pRTFhORGw4eVY3OWZqcW13Q2FuUkg4SG1CR2JVeXlQcEZwRUFFQkhIM1pKd0JvUXhONmJHS1lJcUNfOFl0NTYxYXZsYjRX?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51dnJQVGNTbkY5RGJrRDBVazhHdUJsMFlBanBSdjFzMDZmcjBzN2JuWTg4UElRLTZQRkpsekxuRV9GZm9YQXdvaFdpRE8zR3FWVFRjdGpPa3gtYmlYRFZ6dElYcmFXa1NueG9sNGxhbl9CdTFCaGtB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青岛发布122项蓝色金融产品 - 新华网"
+      "originalTitle": "新华社消息丨习近平复信澳大利亚青年学生 - 新华网"
     },
     {
-      "event": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道",
-      "published": "2026-11-06T02:03:05+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUGdVU250R1JpbXNiQlFXNzlWWlRIQW1rQnRRUVpKd053RVVOa1JQTVExanNJRlVqb2dkMV9FQ3BjMlBvRkxRd0pmMkVXa25wX2Y1UkRvTkxacl9SQ1BXTTRUU3BLdXJBdlJOWDk2cmQxRmpY?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "蒋锋蔡剑峰赴第九届进博会拜访重点企业深化对接合作 - 新华网江苏频道"
-    },
-    {
-      "event": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社",
-      "published": "2026-11-06T01:33:27+00:00",
-      "publisher": "新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bGhvQWUtWGIyZUFrTFIyV0pJdWNQS3BTLVlub083eFBiT3NlS3UxeHExaDFtejFfaHZzX19wMUw3TThWLV8tVDNIa2M2anUyUVhxQ3RMWU1ES3VBR3FfR1pLRUhSSl8tcm1BaThRaUhmZU1mcG9ITnBfWQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "财税金融协同发力 广西机器人产业快速成长 - 新华社广西分社"
-    },
-    {
-      "event": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网",
-      "published": "2026-11-06T01:09:13+00:00",
+      "event": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网",
+      "published": "2026-11-06T03:40:33+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bnA0S2VBODV5OHlwaFFhR3d1UnVwRnhFdmpmU21nMWZKcW1jMUIydHlONmRZV2tXaS1BdDNOcTVENEtQN0JfVkh6N3YxWUhodXVSejQ4cmFKdTREVk15X2QxaG1ETFAxQVl6U1F3aHBIMi1H?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcEhua1Yya05HVDA3TE52MkprUTZyeXpsaDNERHRrRlFEWnk5cjdXOUMtMXY0WjB5MUplSlhLVmQ2bFo5T2V4T1ZlOTRiWGV0azRIaExuS2RUQTY4cmp2Um80S25OcnptQVhvM203TUVBWlVIdGxEV05ZeWdOUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "商标先行：湖北品牌出海的“破题”与“突围” - 新华网"
+      "originalTitle": "中国经济样本观察·“镇”了不起｜五支毛笔四支来自这里，千年小镇“写”出百亿元产业 - 新华网"
     },
     {
-      "event": "“十五五”培育壮大新动能看点多 - 新华网",
-      "published": "2026-11-05T23:49:52+00:00",
+      "event": "微视频｜携手共“进” 共享未来 - 新华网",
+      "published": "2026-11-06T03:40:28+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwd1ZfRTBDcm95emdTSnVqbEZIbzFOQnNFdzV5WnpEemFOT04zbnpYTXl0bWpZMlJhZzNGTGwwdGFoRWtKUjAzZ2pEbklnVzVoeEVfWWJKUktSa1hyc0laRThHejJ6WWNzc2REMkw1RER5bV9QVExJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc1ZDXzlNenhMMXdwRnNwU2VkOUZxanNKNlRUUlptZ09IeXlRS21aMVMtZFBYTjhFVjFsc1ZGZ082M2lmZzhjMG1GX1ZidzMtdG1BYnhMNnNMbFdoMktDdjcxMlpBbWRiNkVSNzdfdjRtMmFMa2VzUmw4X2dIUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“十五五”培育壮大新动能看点多 - 新华网"
+      "originalTitle": "微视频｜携手共“进” 共享未来 - 新华网"
+    },
+    {
+      "event": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网",
+      "published": "2026-11-06T03:29:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZQ0E5THdzcER5RXVta25yNU5uVTRpbGdneS1WUzNqLUwydVZCWWY2OERjMmZRNloxMzVKeTRoYU14WmFvZExmQkNZUjVRb1B4eVNTSFFaT3VJRVNSS3NoM3JEU3d4ME5ZcjVzQnFTNkdLMHh2UUpn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "党建引领“三省协作” 解锁边城小镇智慧治理新模式 - 新华网"
+    },
+    {
+      "event": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网",
+      "published": "2026-11-06T03:19:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05QVlTY2xNdm1wWEJzelduN215UW42b0w0TmJZZjZxRVhuN2VtNGJ1eWZnN2lBa1JDWVNQNXZOWWRyR25YLVJ4bGY1SmxRSTZwRFJMZmtWdjYzVUUxcUpJU2lYbDZITXNQOHNwS054MWlUVmF5aVFmcmdPaW1HZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "千城百县看中国丨山东阳谷：芹菜绿色管护富乡民 - 新华网"
     }
   ],
   "quality": {
@@ -581,7 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError"
     ]
   }
