@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-07",
-  "date": "更新于北京时间 2026-11-07 10:21",
+  "date": "更新于北京时间 2026-11-07 11:01",
   "reportDate": "2026-11-07",
-  "updatedAt": "2026-11-07T10:21:26+08:00",
+  "updatedAt": "2026-11-07T11:01:46+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,23 +177,37 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "A股走向：把握好韧性、成长与定力",
+          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
+            "发布时间：2026-11-07T10:32:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825532"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825554"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+          "title": "我国央行黄金储备“24连增”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T10:32:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825556"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "A股走向：把握好韧性、成长与定力",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
@@ -202,7 +216,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825533"
+              "url": "https://www.cnstock.com/commonDetail/825532"
             }
           ]
         },
@@ -223,16 +237,30 @@
         },
         {
           "type": "explainer",
+          "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825533"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "“硬科技”密集回购增持意味着什么",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月6日的A股市场上，华虹宏力等国产半导体企业逆势走强，部分龙头公司在大幅低开后快速反弹。而隔夜美股半导体板块遭遇重挫，费城半导体指数下跌逾12%，英伟达、美光科技等龙头股大幅下跌。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825543"
             }
           ]
@@ -284,46 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
+          "title": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T23:54:46+00:00；来源：新华网。",
+            "发布时间：2026-11-07T00:42:25+00:00；来源：新华网-甘肃。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T23:30:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T23:18:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5"
             }
           ]
         }
@@ -391,6 +389,11 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-05"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-05"
@@ -398,11 +401,6 @@
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-05"
     },
     {
@@ -416,18 +414,28 @@
       "asOf": "2026-11-05"
     },
     {
+      "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+      "url": "https://www.cnstock.com/commonDetail/825554",
+      "asOf": "2026-11-07T10:32:00+08:00"
+    },
+    {
+      "title": "我国央行黄金储备“24连增”",
+      "url": "https://www.cnstock.com/commonDetail/825556",
+      "asOf": "2026-11-07T10:32:00+08:00"
+    },
+    {
       "title": "A股走向：把握好韧性、成长与定力",
       "url": "https://www.cnstock.com/commonDetail/825532",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
-      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/825533",
+      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "url": "https://www.cnstock.com/commonDetail/825541",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
-      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "url": "https://www.cnstock.com/commonDetail/825541",
+      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/825533",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
@@ -451,43 +459,34 @@
       "asOf": "2026-11-07T01:56:40+00:00"
     },
     {
-      "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5",
-      "asOf": "2026-11-06T23:54:46+00:00"
-    },
-    {
-      "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
-      "asOf": "2026-11-06T23:30:50+00:00"
-    },
-    {
-      "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
-      "asOf": "2026-11-06T23:18:49+00:00"
+      "title": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5",
+      "asOf": "2026-11-07T00:42:25+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中共中央发出通知 部署党的二十一大代表选举工作",
+      "originalTitle": "中共中央发出通知 部署党的二十一大代表选举工作",
+      "published": "2026-11-07T10:32:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825554",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "我国央行黄金储备“24连增”",
+      "originalTitle": "我国央行黄金储备“24连增”",
+      "published": "2026-11-07T10:32:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825556",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "A股走向：把握好韧性、成长与定力",
       "originalTitle": "A股走向：把握好韧性、成长与定力",
       "published": "2026-11-07T08:41:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/825532",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825532",
-        "retrievedAt": "2026-11-07T10:21:26.473930+08:00",
-        "sha256": "06e91123de8ce6cca64db61cadde48fc0363cf6e5b2cddaba368625d799cb31d",
-        "paragraphCount": 23,
-        "excerpt": "近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
-      }
-    },
-    {
-      "event": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "originalTitle": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "published": "2026-11-07T08:41:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825533",
       "evidenceLevel": "headline-only"
     },
     {
@@ -499,19 +498,20 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "originalTitle": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825533",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "“硬科技”密集回购增持意味着什么",
       "originalTitle": "“硬科技”密集回购增持意味着什么",
       "published": "2026-11-07T08:41:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/825543",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825543",
-        "retrievedAt": "2026-11-07T10:21:26.473930+08:00",
-        "sha256": "71b4e107ce526319f091b737fc2532e085f4d731b4bad9a402de91f50f0cb83f",
-        "paragraphCount": 21,
-        "excerpt": "11月6日的A股市场上，华虹宏力等国产半导体企业逆势走强，部分龙头公司在大幅低开后快速反弹。而隔夜美股半导体板块遭遇重挫，费城半导体指数下跌逾12%，英伟达、美光科技等龙头股大幅下跌。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
@@ -538,28 +538,12 @@
       "originalTitle": "巴拉圭前总统培尼亚在家中被捕 - 新华网"
     },
     {
-      "event": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
-      "published": "2026-11-06T23:54:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5",
+      "event": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
+      "published": "2026-11-07T00:42:25+00:00",
+      "publisher": "新华网-甘肃",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网"
-    },
-    {
-      "event": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
-      "published": "2026-11-06T23:30:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网"
-    },
-    {
-      "event": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
-      "published": "2026-11-06T23:18:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网"
+      "originalTitle": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃"
     }
   ],
   "quality": {
@@ -573,6 +557,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
