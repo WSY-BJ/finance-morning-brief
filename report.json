@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-07",
-  "date": "更新于北京时间 2026-11-07 15:05",
+  "date": "更新于北京时间 2026-11-07 19:04",
   "reportDate": "2026-11-07",
-  "updatedAt": "2026-11-07T15:05:40+08:00",
+  "updatedAt": "2026-11-07T19:04:24+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -207,31 +207,107 @@
         },
         {
           "type": "explainer",
-          "title": "A股走向：把握好韧性、成长与定力",
+          "title": "专访丨期待在世界媒体峰会共话人工智能与媒体合作——访古巴思想多媒体平台主任兰迪·阿隆索 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-07T10:10:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825532"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUU9wMDc5Ulg0SGJ0cEpJTUdDSjJ2V0tXY0liSmZIT0dBU2pDVDFtRHpkNmhsbXdicXNlOEljRm56XzVrVEJ6b0FzWWtIRF9GeGpwYjBHaWc0Nk9rY3RJQ2hCQUN5TEVlX2I4U3lONVRURHpCR3VVOThfX1Z1QQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+          "title": "综述丨比利时首相辞呈遭拒 预算僵局仍在持续 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-07T10:07:24+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825533"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTHcteUJrQ2hjS3JKX0JBeHVuNTJuNzMwV3ZnVXR1Um9WbHpzbHpRSVZoYTV1Qi1sTXo2TzIwbHRUbnh2LWdYWjVxcjhSTWVUQ3RUUXBrRGh1RmJ4VS1BM0R6MlRvMTJKRWV0QXJILU9BdVdYVFViS1habFpuVE0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "冰雪盛宴启幕 黑龙江持续丰富冬季旅游供给 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T10:06:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2xlTk1WM0t5bWg1UGdROHF5TXB0OFNBWmJtS3JaR2J3MlFDNWliQ3AtWDhDUl9vOWVGS1VXcjdCZjVBZ0t2bG1kdmxCel8zTENRLUkydnRzRWtzbGo4dHR0WVF6dTRVRVQyc2dRMEFQYmMtODdraDBhWTc0ME4welJUOA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "斯里兰卡经济发展部副部长：借进博会窗口，释放斯里兰卡投资吸引力 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T09:04:22+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMDNKLTc5QTduM2FjWDV6ZWxHWGdsS2hFVzVaU3BOeGpGb1V6NGh0dzhlNmN3aHdPYzFTc043SlJtWnpZa01xUlRSZS1CLWlrSlR1cmJtWkdzRnN1dHlCVHJXV2tKdURDb0tXZHdLYzJtbVpyVjBnTUlKbElJdTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "进博声音丨德国州政府官员：德企重视与中企发展合作关系 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:49:27+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbno2ZktkbTFBQUJmc2pNVmZORkJyc1RJcjFRSGl1QW1lWXBqTXBCc1IzdXhQYVBHRnMtazYtYkRObnoxLWtTZkpqRThPMlp2RF9GamcyS3hzMWFPbjNsNkRjU2F4bjQ5WHZEdVduSHpMZ1BYVXctWGVlMTJfOTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一文读懂丨巴拉圭政坛“地震” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:42:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TVE1NU1JMSmZFOThqNGUtckQtSW1sRnEwUl9jd0VtUXRuYmRVNTFZNkZqSTNrc0xrZmNXTENBaWtzTko1SGkzc1BiMzNZNmhaUm45Sjc4QlJYajJYMjFpVjl2cHpaNXljT2F6QVNFVzRaX05hQWow?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "A股走向：把握好韧性、成长与定力",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825532"
             }
           ]
         },
@@ -247,81 +323,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825543"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825541"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T08:03:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825522"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国男足公布26人集训名单 吴曦回归 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T06:03:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWmFuQ2JvMzF0RFVRQy1IRFpuaUZfemV2WkkxZUJiWjN0Um9ZOUptZnZqSHFfOHFlMFFMNEVFM0ZyRi05TGtUcHRpYkFETXVMeEhWeUVYU1pkUzE2SlFiak9faDVqbmxrb2d0YmphWHFHYUtzWFJCdU1NMVJUOWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "原青海省旅游发展委员会党组书记、主任徐浩接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T04:26:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySFB5TEdTSHNoZUF0ZWtNaHpjUjNVZWRBcnZ2LTlxX0VXUGMzck80SkhTZWpILVpzUTRZcjBSY0o4a1Jtc2RMeDN5LVk5WnF0REY4VWt3dVlJRUc0eUdmZTFHUldmME1uaGttNFRvcWpsZE01T0JHYkZuOWFWTU0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T03:33:54+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5"
             }
           ]
         }
@@ -379,16 +380,6 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-06"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
@@ -399,18 +390,28 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-03"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-05"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-05"
     },
     {
@@ -424,44 +425,44 @@
       "asOf": "2026-11-07T10:32:00+08:00"
     },
     {
-      "title": "A股走向：把握好韧性、成长与定力",
-      "url": "https://www.cnstock.com/commonDetail/825532",
-      "asOf": "2026-11-07T08:41:00+08:00"
+      "title": "专访丨期待在世界媒体峰会共话人工智能与媒体合作——访古巴思想多媒体平台主任兰迪·阿隆索 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUU9wMDc5Ulg0SGJ0cEpJTUdDSjJ2V0tXY0liSmZIT0dBU2pDVDFtRHpkNmhsbXdicXNlOEljRm56XzVrVEJ6b0FzWWtIRF9GeGpwYjBHaWc0Nk9rY3RJQ2hCQUN5TEVlX2I4U3lONVRURHpCR3VVOThfX1Z1QQ?oc=5",
+      "asOf": "2026-11-07T10:10:15+00:00"
     },
     {
-      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/825533",
+      "title": "综述丨比利时首相辞呈遭拒 预算僵局仍在持续 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTHcteUJrQ2hjS3JKX0JBeHVuNTJuNzMwV3ZnVXR1Um9WbHpzbHpRSVZoYTV1Qi1sTXo2TzIwbHRUbnh2LWdYWjVxcjhSTWVUQ3RUUXBrRGh1RmJ4VS1BM0R6MlRvMTJKRWV0QXJILU9BdVdYVFViS1habFpuVE0?oc=5",
+      "asOf": "2026-11-07T10:07:24+00:00"
+    },
+    {
+      "title": "冰雪盛宴启幕 黑龙江持续丰富冬季旅游供给 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2xlTk1WM0t5bWg1UGdROHF5TXB0OFNBWmJtS3JaR2J3MlFDNWliQ3AtWDhDUl9vOWVGS1VXcjdCZjVBZ0t2bG1kdmxCel8zTENRLUkydnRzRWtzbGo4dHR0WVF6dTRVRVQyc2dRMEFQYmMtODdraDBhWTc0ME4welJUOA?oc=5",
+      "asOf": "2026-11-07T10:06:10+00:00"
+    },
+    {
+      "title": "斯里兰卡经济发展部副部长：借进博会窗口，释放斯里兰卡投资吸引力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMDNKLTc5QTduM2FjWDV6ZWxHWGdsS2hFVzVaU3BOeGpGb1V6NGh0dzhlNmN3aHdPYzFTc043SlJtWnpZa01xUlRSZS1CLWlrSlR1cmJtWkdzRnN1dHlCVHJXV2tKdURDb0tXZHdLYzJtbVpyVjBnTUlKbElJdTQ?oc=5",
+      "asOf": "2026-11-07T09:04:22+00:00"
+    },
+    {
+      "title": "进博声音丨德国州政府官员：德企重视与中企发展合作关系 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbno2ZktkbTFBQUJmc2pNVmZORkJyc1RJcjFRSGl1QW1lWXBqTXBCc1IzdXhQYVBHRnMtazYtYkRObnoxLWtTZkpqRThPMlp2RF9GamcyS3hzMWFPbjNsNkRjU2F4bjQ5WHZEdVduSHpMZ1BYVXctWGVlMTJfOTQ?oc=5",
+      "asOf": "2026-11-07T08:49:27+00:00"
+    },
+    {
+      "title": "一文读懂丨巴拉圭政坛“地震” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TVE1NU1JMSmZFOThqNGUtckQtSW1sRnEwUl9jd0VtUXRuYmRVNTFZNkZqSTNrc0xrZmNXTENBaWtzTko1SGkzc1BiMzNZNmhaUm45Sjc4QlJYajJYMjFpVjl2cHpaNXljT2F6QVNFVzRaX05hQWow?oc=5",
+      "asOf": "2026-11-07T08:42:40+00:00"
+    },
+    {
+      "title": "A股走向：把握好韧性、成长与定力",
+      "url": "https://www.cnstock.com/commonDetail/825532",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
       "title": "“硬科技”密集回购增持意味着什么",
       "url": "https://www.cnstock.com/commonDetail/825543",
       "asOf": "2026-11-07T08:41:00+08:00"
-    },
-    {
-      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "url": "https://www.cnstock.com/commonDetail/825541",
-      "asOf": "2026-11-07T08:41:00+08:00"
-    },
-    {
-      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-      "url": "https://www.cnstock.com/commonDetail/825522",
-      "asOf": "2026-11-07T08:03:00+08:00"
-    },
-    {
-      "title": "中国男足公布26人集训名单 吴曦回归 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWmFuQ2JvMzF0RFVRQy1IRFpuaUZfemV2WkkxZUJiWjN0Um9ZOUptZnZqSHFfOHFlMFFMNEVFM0ZyRi05TGtUcHRpYkFETXVMeEhWeUVYU1pkUzE2SlFiak9faDVqbmxrb2d0YmphWHFHYUtzWFJCdU1NMVJUOWs?oc=5",
-      "asOf": "2026-11-07T06:03:42+00:00"
-    },
-    {
-      "title": "原青海省旅游发展委员会党组书记、主任徐浩接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySFB5TEdTSHNoZUF0ZWtNaHpjUjNVZWRBcnZ2LTlxX0VXUGMzck80SkhTZWpILVpzUTRZcjBSY0o4a1Jtc2RMeDN5LVk5WnF0REY4VWt3dVlJRUc0eUdmZTFHUldmME1uaGttNFRvcWpsZE01T0JHYkZuOWFWTU0?oc=5",
-      "asOf": "2026-11-07T04:26:18+00:00"
-    },
-    {
-      "title": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5",
-      "asOf": "2026-11-07T03:33:54+00:00"
     }
   ],
   "events": [
@@ -482,20 +483,67 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "专访丨期待在世界媒体峰会共话人工智能与媒体合作——访古巴思想多媒体平台主任兰迪·阿隆索 - 新华网",
+      "published": "2026-11-07T10:10:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUU9wMDc5Ulg0SGJ0cEpJTUdDSjJ2V0tXY0liSmZIT0dBU2pDVDFtRHpkNmhsbXdicXNlOEljRm56XzVrVEJ6b0FzWWtIRF9GeGpwYjBHaWc0Nk9rY3RJQ2hCQUN5TEVlX2I4U3lONVRURHpCR3VVOThfX1Z1QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访丨期待在世界媒体峰会共话人工智能与媒体合作——访古巴思想多媒体平台主任兰迪·阿隆索 - 新华网"
+    },
+    {
+      "event": "综述丨比利时首相辞呈遭拒 预算僵局仍在持续 - 新华网",
+      "published": "2026-11-07T10:07:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTHcteUJrQ2hjS3JKX0JBeHVuNTJuNzMwV3ZnVXR1Um9WbHpzbHpRSVZoYTV1Qi1sTXo2TzIwbHRUbnh2LWdYWjVxcjhSTWVUQ3RUUXBrRGh1RmJ4VS1BM0R6MlRvMTJKRWV0QXJILU9BdVdYVFViS1habFpuVE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "综述丨比利时首相辞呈遭拒 预算僵局仍在持续 - 新华网"
+    },
+    {
+      "event": "冰雪盛宴启幕 黑龙江持续丰富冬季旅游供给 - 新华网",
+      "published": "2026-11-07T10:06:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2xlTk1WM0t5bWg1UGdROHF5TXB0OFNBWmJtS3JaR2J3MlFDNWliQ3AtWDhDUl9vOWVGS1VXcjdCZjVBZ0t2bG1kdmxCel8zTENRLUkydnRzRWtzbGo4dHR0WVF6dTRVRVQyc2dRMEFQYmMtODdraDBhWTc0ME4welJUOA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "冰雪盛宴启幕 黑龙江持续丰富冬季旅游供给 - 新华网"
+    },
+    {
+      "event": "斯里兰卡经济发展部副部长：借进博会窗口，释放斯里兰卡投资吸引力 - 新华网",
+      "published": "2026-11-07T09:04:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMDNKLTc5QTduM2FjWDV6ZWxHWGdsS2hFVzVaU3BOeGpGb1V6NGh0dzhlNmN3aHdPYzFTc043SlJtWnpZa01xUlRSZS1CLWlrSlR1cmJtWkdzRnN1dHlCVHJXV2tKdURDb0tXZHdLYzJtbVpyVjBnTUlKbElJdTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "斯里兰卡经济发展部副部长：借进博会窗口，释放斯里兰卡投资吸引力 - 新华网"
+    },
+    {
+      "event": "进博声音丨德国州政府官员：德企重视与中企发展合作关系 - 新华网",
+      "published": "2026-11-07T08:49:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbno2ZktkbTFBQUJmc2pNVmZORkJyc1RJcjFRSGl1QW1lWXBqTXBCc1IzdXhQYVBHRnMtazYtYkRObnoxLWtTZkpqRThPMlp2RF9GamcyS3hzMWFPbjNsNkRjU2F4bjQ5WHZEdVduSHpMZ1BYVXctWGVlMTJfOTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "进博声音丨德国州政府官员：德企重视与中企发展合作关系 - 新华网"
+    },
+    {
+      "event": "一文读懂丨巴拉圭政坛“地震” - 新华网",
+      "published": "2026-11-07T08:42:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TVE1NU1JMSmZFOThqNGUtckQtSW1sRnEwUl9jd0VtUXRuYmRVNTFZNkZqSTNrc0xrZmNXTENBaWtzTko1SGkzc1BiMzNZNmhaUm45Sjc4QlJYajJYMjFpVjl2cHpaNXljT2F6QVNFVzRaX05hQWow?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "一文读懂丨巴拉圭政坛“地震” - 新华网"
+    },
+    {
       "event": "A股走向：把握好韧性、成长与定力",
       "originalTitle": "A股走向：把握好韧性、成长与定力",
       "published": "2026-11-07T08:41:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/825532",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "originalTitle": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "published": "2026-11-07T08:41:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825533",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825532",
+        "retrievedAt": "2026-11-07T19:04:24.434864+08:00",
+        "sha256": "22ec7f47f3a0dd3e22e0561f8cb3d6f017a76acd14e6e0ee6c4e1b2f4031ab3d",
+        "paragraphCount": 23,
+        "excerpt": "近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
+      }
     },
     {
       "event": "“硬科技”密集回购增持意味着什么",
@@ -504,46 +552,6 @@
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/825543",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "originalTitle": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "published": "2026-11-07T08:41:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825541",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-      "originalTitle": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-      "published": "2026-11-07T08:03:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825522",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中国男足公布26人集训名单 吴曦回归 - 新华网",
-      "published": "2026-11-07T06:03:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWmFuQ2JvMzF0RFVRQy1IRFpuaUZfemV2WkkxZUJiWjN0Um9ZOUptZnZqSHFfOHFlMFFMNEVFM0ZyRi05TGtUcHRpYkFETXVMeEhWeUVYU1pkUzE2SlFiak9faDVqbmxrb2d0YmphWHFHYUtzWFJCdU1NMVJUOWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国男足公布26人集训名单 吴曦回归 - 新华网"
-    },
-    {
-      "event": "原青海省旅游发展委员会党组书记、主任徐浩接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-07T04:26:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySFB5TEdTSHNoZUF0ZWtNaHpjUjNVZWRBcnZ2LTlxX0VXUGMzck80SkhTZWpILVpzUTRZcjBSY0o4a1Jtc2RMeDN5LVk5WnF0REY4VWt3dVlJRUc0eUdmZTFHUldmME1uaGttNFRvcWpsZE01T0JHYkZuOWFWTU0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "原青海省旅游发展委员会党组书记、主任徐浩接受纪律审查和监察调查 - 新华网"
-    },
-    {
-      "event": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
-      "published": "2026-11-07T03:33:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网"
     }
   ],
   "quality": {
@@ -559,11 +567,7 @@
     "unavailableNewsSources": [
       "article: ValueError",
       "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: URLError"
+      "article: ValueError"
     ]
   }
 }
