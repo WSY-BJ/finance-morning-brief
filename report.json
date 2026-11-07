@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-07",
-  "date": "更新于北京时间 2026-11-07 08:53",
+  "date": "更新于北京时间 2026-11-07 10:21",
   "reportDate": "2026-11-07",
-  "updatedAt": "2026-11-07T08:53:53+08:00",
+  "updatedAt": "2026-11-07T10:21:26+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.84 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,68 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "A股走向：把握好韧性、成长与定力",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825532"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825533"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825541"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“硬科技”密集回购增持意味着什么",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月6日的A股市场上，华虹宏力等国产半导体企业逆势走强，部分龙头公司在大幅低开后快速反弹。而隔夜美股半导体板块遭遇重挫，费城半导体指数下跌逾12%，英伟达、美光科技等龙头股大幅下跌。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825543"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
           "summary": "",
           "paragraphs": [
@@ -187,6 +249,51 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825522"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T02:07:16+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T01:56:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:54:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5"
             }
           ]
         },
@@ -217,111 +324,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825492"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "11月6日晚间重要公告集锦",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825478"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新西兰议会选举开始正式投票 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T22:33:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T22:19:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825467"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T22:03:10+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T22:03:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T21:57:19+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5"
             }
           ]
         }
@@ -384,11 +386,6 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-05"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
@@ -399,24 +396,64 @@
       "asOf": "2026-11-05"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-05"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-05"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "A股走向：把握好韧性、成长与定力",
+      "url": "https://www.cnstock.com/commonDetail/825532",
+      "asOf": "2026-11-07T08:41:00+08:00"
+    },
+    {
+      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/825533",
+      "asOf": "2026-11-07T08:41:00+08:00"
+    },
+    {
+      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "url": "https://www.cnstock.com/commonDetail/825541",
+      "asOf": "2026-11-07T08:41:00+08:00"
+    },
+    {
+      "title": "“硬科技”密集回购增持意味着什么",
+      "url": "https://www.cnstock.com/commonDetail/825543",
+      "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
       "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
       "url": "https://www.cnstock.com/commonDetail/825522",
       "asOf": "2026-11-07T08:03:00+08:00"
+    },
+    {
+      "title": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5",
+      "asOf": "2026-11-07T02:07:16+00:00"
+    },
+    {
+      "title": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5",
+      "asOf": "2026-11-07T01:56:40+00:00"
+    },
+    {
+      "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5",
+      "asOf": "2026-11-06T23:54:46+00:00"
     },
     {
       "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
@@ -427,44 +464,55 @@
       "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
       "asOf": "2026-11-06T23:18:49+00:00"
-    },
-    {
-      "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
-      "url": "https://www.cnstock.com/commonDetail/825492",
-      "asOf": "2026-11-06T23:02:00+08:00"
-    },
-    {
-      "title": "11月6日晚间重要公告集锦",
-      "url": "https://www.cnstock.com/commonDetail/825478",
-      "asOf": "2026-11-06T23:02:00+08:00"
-    },
-    {
-      "title": "新西兰议会选举开始正式投票 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
-      "asOf": "2026-11-06T22:33:02+00:00"
-    },
-    {
-      "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/825467",
-      "asOf": "2026-11-06T22:19:00+08:00"
-    },
-    {
-      "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
-      "asOf": "2026-11-06T22:03:10+00:00"
-    },
-    {
-      "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
-      "asOf": "2026-11-06T22:03:06+00:00"
-    },
-    {
-      "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
-      "asOf": "2026-11-06T21:57:19+00:00"
     }
   ],
   "events": [
+    {
+      "event": "A股走向：把握好韧性、成长与定力",
+      "originalTitle": "A股走向：把握好韧性、成长与定力",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825532",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825532",
+        "retrievedAt": "2026-11-07T10:21:26.473930+08:00",
+        "sha256": "06e91123de8ce6cca64db61cadde48fc0363cf6e5b2cddaba368625d799cb31d",
+        "paragraphCount": 23,
+        "excerpt": "近期，A股主要指数持续震荡。与此同时，上市公司基本面稳步改善，盈利持续修复、新动能不断累积，与指数走势形成阶段性反差。"
+      }
+    },
+    {
+      "event": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "originalTitle": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825533",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "originalTitle": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825541",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "“硬科技”密集回购增持意味着什么",
+      "originalTitle": "“硬科技”密集回购增持意味着什么",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825543",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825543",
+        "retrievedAt": "2026-11-07T10:21:26.473930+08:00",
+        "sha256": "71b4e107ce526319f091b737fc2532e085f4d731b4bad9a402de91f50f0cb83f",
+        "paragraphCount": 21,
+        "excerpt": "11月6日的A股市场上，华虹宏力等国产半导体企业逆势走强，部分龙头公司在大幅低开后快速反弹。而隔夜美股半导体板块遭遇重挫，费城半导体指数下跌逾12%，英伟达、美光科技等龙头股大幅下跌。"
+      }
+    },
     {
       "event": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
       "originalTitle": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
@@ -472,6 +520,30 @@
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/825522",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
+      "published": "2026-11-07T02:07:16+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道"
+    },
+    {
+      "event": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
+      "published": "2026-11-07T01:56:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴拉圭前总统培尼亚在家中被捕 - 新华网"
+    },
+    {
+      "event": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网",
+      "published": "2026-11-06T23:54:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTlNyYUlpN2ZtalhfMXZsck5WNDlUbk9LYURScmwzTWVCUUF5Y0hqQm0wWjFmc3FVb0hoeXVmWXo0Q2dJQ0Z2RmlfMzJrbHVOLXFzS1V0LV9wcjZxeU9UbmdnZTI3bURGaHpBOXUtOG9MQnBIZTZDV3hUTnQ4dWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "美国财政部制裁加拿大境内8家与伊朗有关联的企业 - 新华网"
     },
     {
       "event": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
@@ -488,62 +560,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网"
-    },
-    {
-      "event": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
-      "originalTitle": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
-      "published": "2026-11-06T23:02:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825492",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "11月6日晚间重要公告集锦",
-      "originalTitle": "11月6日晚间重要公告集锦",
-      "published": "2026-11-06T23:02:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825478",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "新西兰议会选举开始正式投票 - 新华网",
-      "published": "2026-11-06T22:33:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新西兰议会选举开始正式投票 - 新华网"
-    },
-    {
-      "event": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-      "originalTitle": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-      "published": "2026-11-06T22:19:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825467",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
-      "published": "2026-11-06T22:03:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "巴拉圭总统培尼亚遭国会弹劾 - 新华网"
-    },
-    {
-      "event": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
-      "published": "2026-11-06T22:03:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网"
-    },
-    {
-      "event": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
-      "published": "2026-11-06T21:57:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
