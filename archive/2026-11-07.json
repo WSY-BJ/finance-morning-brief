@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-07",
-  "date": "更新于北京时间 2026-11-07 11:38",
+  "date": "更新于北京时间 2026-11-07 13:47",
   "reportDate": "2026-11-07",
-  "updatedAt": "2026-11-07T11:38:41+08:00",
+  "updatedAt": "2026-11-07T13:47:50+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,6 +21,18 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-06：7,376.86 点；较 2026-11-05 变化 +23.13 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
           "paragraphs": [],
@@ -33,25 +45,13 @@
         },
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-05：7,353.73 点；较 2026-11-04 变化 -334.89 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,23 +94,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.55 点；变化 +0.04 点",
+          "summary": "102.30 点；变化 +0.75 点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 101.51（2026-11-04）；来源：Yahoo Finance。"
+            "观测日 2026-11-06；前值 101.55（2026-11-05）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,353.73 点；变化 -334.89 点",
+          "summary": "7,376.86 点；变化 +23.13 点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 7,688.62（2026-11-04）；来源：Yahoo Finance。"
+            "观测日 2026-11-06；前值 7,353.73（2026-11-05）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "24,315.00 点；变化 -1421.51 点",
+          "summary": "24,579.43 点；变化 +264.43 点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 25,736.51（2026-11-04）；来源：Yahoo Finance。"
+            "观测日 2026-11-06；前值 24,315.00（2026-11-05）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -222,21 +222,6 @@
         },
         {
           "type": "explainer",
-          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825541"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
           "summary": "",
           "paragraphs": [
@@ -247,6 +232,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825533"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:41:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825541"
             }
           ]
         },
@@ -282,6 +282,36 @@
         },
         {
           "type": "explainer",
+          "title": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T03:33:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10月末我国外汇储备规模为34052亿美元 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T03:23:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHJiWERudUFQVHhNU19wWU1Bdkh3UE9Najk0NkdFb19CYktmNW5ROVdFS2hOZXRuam5CazdUbWd6eGplVEdaZDNjdFM2ZkczeFppbUhVYTh1Z3JsNWhxSWFiVkZMVXJSbVdsRGtJclRqc3VtN3NqcjRodjl6SXdLcjNB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
@@ -292,36 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T01:56:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T01:49:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5"
             }
           ]
         }
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-04 前值 7688.6201，2026-11-05 现值 7353.7300，变化 -334.8901。",
+            "本期实例：标普 500 指数，2026-11-05 前值 7353.7300，2026-11-06 现值 7376.8599，变化 +23.1299。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,9 +379,19 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -394,23 +404,13 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-05"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-05"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-05"
     },
     {
@@ -429,13 +429,13 @@
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
-      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "url": "https://www.cnstock.com/commonDetail/825541",
+      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/825533",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
-      "title": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/825533",
+      "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "url": "https://www.cnstock.com/commonDetail/825541",
       "asOf": "2026-11-07T08:41:00+08:00"
     },
     {
@@ -449,19 +449,19 @@
       "asOf": "2026-11-07T08:03:00+08:00"
     },
     {
+      "title": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5",
+      "asOf": "2026-11-07T03:33:54+00:00"
+    },
+    {
+      "title": "10月末我国外汇储备规模为34052亿美元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHJiWERudUFQVHhNU19wWU1Bdkh3UE9Najk0NkdFb19CYktmNW5ROVdFS2hOZXRuam5CazdUbWd6eGplVEdaZDNjdFM2ZkczeFppbUhVYTh1Z3JsNWhxSWFiVkZMVXJSbVdsRGtJclRqc3VtN3NqcjRodjl6SXdLcjNB?oc=5",
+      "asOf": "2026-11-07T03:23:40+00:00"
+    },
+    {
       "title": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5",
       "asOf": "2026-11-07T02:07:16+00:00"
-    },
-    {
-      "title": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5",
-      "asOf": "2026-11-07T01:56:40+00:00"
-    },
-    {
-      "title": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5",
-      "asOf": "2026-11-07T01:49:23+00:00"
     }
   ],
   "events": [
@@ -490,19 +490,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "originalTitle": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-      "published": "2026-11-07T08:41:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825541",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
       "originalTitle": "国常会就资本市场平稳健康发展作出部署 完善资本市场稳市机制 增强股市内在稳定性",
       "published": "2026-11-07T08:41:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/825533",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "originalTitle": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "published": "2026-11-07T08:41:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825541",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网",
+      "published": "2026-11-07T03:33:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYUY0NENiMkhVbkxpNEljcHBCbkM5cHRfblh5SzBmSVV2WnpPUEVwQjdOTE9SQTc2YjBDeHI5bXFDdDhZcld0a0plVnhXTHZ5WDFCWWQwcnBBWUFJSHA0cE03eGRPSGVKc1VTdkxHLU9YWmVkaVpZb1V6QVJXM28?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "IMF总裁：各国央行需考量AI驱动增长或放缓 - 新华网"
+    },
+    {
+      "event": "10月末我国外汇储备规模为34052亿美元 - 新华网",
+      "published": "2026-11-07T03:23:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHJiWERudUFQVHhNU19wWU1Bdkh3UE9Najk0NkdFb19CYktmNW5ROVdFS2hOZXRuam5CazdUbWd6eGplVEdaZDNjdFM2ZkczeFppbUhVYTh1Z3JsNWhxSWFiVkZMVXJSbVdsRGtJclRqc3VtN3NqcjRodjl6SXdLcjNB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "10月末我国外汇储备规模为34052亿美元 - 新华网"
+    },
+    {
       "event": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道",
       "published": "2026-11-07T02:07:16+00:00",
       "publisher": "新华网江苏频道",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRjdESU9Ra1JzVnhwbm9LckY3NEZjbVEwRy1iTnJHT2piSGR2Skw1UUdGalcxbk1oek9xbUVDUF9Fa01TYXo0NjZnaW9lV29BdFFPekVVeWZWUXhsZHFzQmJvdHZWU0RaTzJBWWdMM2t2T09Q?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "民进江苏财经职业技术学院支部：以专业履职赋能地方经济发展 - 新华网江苏频道"
-    },
-    {
-      "event": "巴拉圭前总统培尼亚在家中被捕 - 新华网",
-      "published": "2026-11-07T01:56:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRmhMbWhfTk03UUNNWHJFbGt6amZTM2tIQ3Nucnl2alh2MXhEYlBxMWlFbDRFRWp0TU50SW9SRFBMaFRwMXp2dFdqM2JnM084UXN2aWZsdkUzNVBGSWoxaWYyOEpiNHhSZFUyNjNjb055cGtvNzRSVHU1WFRpV2s?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "巴拉圭前总统培尼亚在家中被捕 - 新华网"
-    },
-    {
-      "event": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
-      "published": "2026-11-07T01:49:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网"
     }
   ],
   "quality": {
