@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-07",
-  "date": "更新于北京时间 2026-11-07 11:01",
+  "date": "更新于北京时间 2026-11-07 11:38",
   "reportDate": "2026-11-07",
-  "updatedAt": "2026-11-07T11:01:46+08:00",
+  "updatedAt": "2026-11-07T11:38:41+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -312,16 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
+          "title": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T00:42:25+00:00；来源：新华网-甘肃。",
+            "发布时间：2026-11-07T01:49:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5"
             }
           ]
         }
@@ -379,9 +379,9 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-03"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-05"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -389,9 +389,9 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-05"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-03"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -459,9 +459,9 @@
       "asOf": "2026-11-07T01:56:40+00:00"
     },
     {
-      "title": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5",
-      "asOf": "2026-11-07T00:42:25+00:00"
+      "title": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5",
+      "asOf": "2026-11-07T01:49:23+00:00"
     }
   ],
   "events": [
@@ -538,12 +538,12 @@
       "originalTitle": "巴拉圭前总统培尼亚在家中被捕 - 新华网"
     },
     {
-      "event": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃",
-      "published": "2026-11-07T00:42:25+00:00",
-      "publisher": "新华网-甘肃",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VVlRYW9HOTgyWGdvQVRIR0FuMUNFN3l4V2ltMzlsLS1YM1dieUp3WVBBLWlmRlNBZlU3ajN4SkNybjVXZFE3Nk13N24yZmFFSlN0X1RoeVp3Vkliei02T2ZuX1d5T1JCX1BWYlhmV2psU0s5?oc=5",
+      "event": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网",
+      "published": "2026-11-07T01:49:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJCQTV1LXpkOWpRR1pWeXRFbVBpcGo1VjU0V0JCbm5MVVBhajdWeF9xTG5tY1J3VFkzUmdjeUlUXzlTeXpvZ1RZNXdiT1ZWTjNjQzczLXFQcWxmZkM4bmp3dmMtSmZFVmRIQXlWS0NBeFI4ZGxOWTF0d3I0Y3R6SnlB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "甘肃省三季度金融形势分析调度会议召开 - 新华网-甘肃"
+      "originalTitle": "中国经济看“新”丨智慧农机提速，田间涌动新活力 - 新华网"
     }
   ],
   "quality": {
