@@ -1,0 +1,566 @@
+{
+  "edition": "财经晨报 · 2026-11-07",
+  "date": "更新于北京时间 2026-11-07 08:53",
+  "reportDate": "2026-11-07",
+  "updatedAt": "2026-11-07T08:53:53+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-07 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-03：107.03 美元/桶；较 2026-11-02 变化 -0.36 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-05：7,353.73 点；较 2026-11-04 变化 -334.89 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "107.03 美元/桶；变化 -0.36 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-03；前值 107.39（2026-11-02）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.51 %；变化 +0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.86 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.55 点；变化 +0.04 点",
+          "paragraphs": [
+            "观测日 2026-11-05；前值 101.51（2026-11-04）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,353.73 点；变化 -334.89 点",
+          "paragraphs": [
+            "观测日 2026-11-05；前值 7,688.62（2026-11-04）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "24,315.00 点；变化 -1421.51 点",
+          "paragraphs": [
+            "观测日 2026-11-05；前值 25,736.51（2026-11-04）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6880 人民币/美元；变化 +0.0149 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 6.6731（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T08:03:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825522"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:30:50+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:18:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825492"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "11月6日晚间重要公告集锦",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825478"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新西兰议会选举开始正式投票 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:33:02+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:19:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825467"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:03:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:03:06+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T21:57:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 30 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-04 前值 7688.6201，2026-11-05 现值 7353.7300，变化 -334.8901。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-03"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "url": "https://www.cnstock.com/commonDetail/825522",
+      "asOf": "2026-11-07T08:03:00+08:00"
+    },
+    {
+      "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
+      "asOf": "2026-11-06T23:30:50+00:00"
+    },
+    {
+      "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
+      "asOf": "2026-11-06T23:18:49+00:00"
+    },
+    {
+      "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "url": "https://www.cnstock.com/commonDetail/825492",
+      "asOf": "2026-11-06T23:02:00+08:00"
+    },
+    {
+      "title": "11月6日晚间重要公告集锦",
+      "url": "https://www.cnstock.com/commonDetail/825478",
+      "asOf": "2026-11-06T23:02:00+08:00"
+    },
+    {
+      "title": "新西兰议会选举开始正式投票 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
+      "asOf": "2026-11-06T22:33:02+00:00"
+    },
+    {
+      "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/825467",
+      "asOf": "2026-11-06T22:19:00+08:00"
+    },
+    {
+      "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
+      "asOf": "2026-11-06T22:03:10+00:00"
+    },
+    {
+      "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
+      "asOf": "2026-11-06T22:03:06+00:00"
+    },
+    {
+      "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
+      "asOf": "2026-11-06T21:57:19+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "originalTitle": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published": "2026-11-07T08:03:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825522",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
+      "published": "2026-11-06T23:30:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网"
+    },
+    {
+      "event": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
+      "published": "2026-11-06T23:18:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网"
+    },
+    {
+      "event": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "originalTitle": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "published": "2026-11-06T23:02:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825492",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "11月6日晚间重要公告集锦",
+      "originalTitle": "11月6日晚间重要公告集锦",
+      "published": "2026-11-06T23:02:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825478",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新西兰议会选举开始正式投票 - 新华网",
+      "published": "2026-11-06T22:33:02+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新西兰议会选举开始正式投票 - 新华网"
+    },
+    {
+      "event": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "originalTitle": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "published": "2026-11-06T22:19:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825467",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+      "published": "2026-11-06T22:03:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴拉圭总统培尼亚遭国会弹劾 - 新华网"
+    },
+    {
+      "event": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+      "published": "2026-11-06T22:03:06+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网"
+    },
+    {
+      "event": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+      "published": "2026-11-06T21:57:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}

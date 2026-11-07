@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-06",
-  "date": "更新于北京时间 2026-11-06 20:07",
-  "reportDate": "2026-11-06",
-  "updatedAt": "2026-11-06T20:07:25+08:00",
+  "edition": "财经晨报 · 2026-11-07",
+  "date": "更新于北京时间 2026-11-07 08:53",
+  "reportDate": "2026-11-07",
+  "updatedAt": "2026-11-07T08:53:53+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-06 财经资料（待核验）",
+    "title": "2026-11-07 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-04：4.90 %；较 2026-11-03 变化 -0.05 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.58 %；变化 -0.03 个百分点",
+          "summary": "4.51 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.61（2026-11-03）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.90 %；变化 -0.05 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-04；前值 4.95（2026-11-03）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6731 人民币/美元；变化 +0.0030 人民币/美元",
+          "summary": "6.6880 人民币/美元；变化 +0.0149 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-05；前值 6.6701（2026-11-04）；来源：Yahoo Finance。"
+            "观测日 2026-11-06；前值 6.6731（2026-11-05）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,158 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "海容冷链：约200.53万股限制性股票解除限售，将于11月13日上市",
+          "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T20:01:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日，海容冷链发布2025年限制性股票激励计划第一个解除限售期解除限售暨上市公告称，公司于2026年10月29日召开第五届董事会第十次会议，审议通过《关于2025年限制性股票激励计划第一个解除限售期解除限售条件成就的议案》，"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825238"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "万华化学：股东中凯信解押3520.00万股，占其所持11.66%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T18:42:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-07T08:03:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825105"
+              "url": "https://www.cnstock.com/commonDetail/825522"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江西铜业：董事长提议斥资3亿元至5亿元回购A股股份",
+          "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T18:42:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月6日，江西铜业发布公告称，公司于2026年11月6日收到董事长周少兵出具的《关于提议江西铜业股份有限公司回购公司A股股份的函》，提议人提议公司通过上海证券交易所交易系统以集中竞价交易方式回购部分公司A股股份，回购资金总额不低"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825103"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平参加北京市区人大代表换届选举投票",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T18:22:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月6日电 11月6日是北京市区和乡镇两级人大代表换届选举投票日。中共中央总书记、国家主席、中央军委主席习近平在西城区中南海选区怀仁堂投票站参加区人大代表的选举投票时强调，选举人大代表是坚持好、完善好、运行好人民代表大会制度的基"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825173"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "韩国，紧急救市",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T15:50:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 11月6日早间，韩国股市波动加剧。韩国KOSPI指数开盘一度重挫8%，触发熔断机制，交易暂停20分钟，为今年以来第11次触发熔断机制。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825041"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T15:48:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据商务部官网11月6日消息，商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825036"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "针对A股，多位首席研判发声",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T13:59:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824993"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“易中天”领衔，科技公司午间集体发声",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T13:44:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/824980"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平会见奥地利总理施托克尔 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-06T11:52:24+00:00；来源：新华网。",
+            "发布时间：2026-11-06T23:30:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTNHS2lOU283Zm9ZZ3kzTWtEb3BsMkktSkhkWGh6MEJZdGhDMFE1aVJDck9VWnhEVWl6LWZzZ2h4X01GWWd5NjB1d1NlMzlIZFVra1dNbklkOWN0ZXhDRFREM2lkN2RMX3FFVC00emY4ZUVsNS1oWThxNmNSSEN2eWZldzJra0UwU1BGVUxR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网",
+          "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-06T11:41:53+00:00；来源：新华网。",
+            "发布时间：2026-11-06T23:18:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rM3IyS3lad0k2akdxQ2dzbXdkVm9jUFJOd3VMaF9KY0VSTjJjeklFTWVFd3dLRmtURVpvTThGdVdTTVVoMy1qZHZvMlJwTEM5bDVnbDdkMUhWMGZIdWthOUdKdE1NTjU4cnU1VjQzQTlVODFqejFB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825492"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "11月6日晚间重要公告集锦",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T23:02:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825478"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新西兰议会选举开始正式投票 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:33:02+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:19:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825467"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:03:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T22:03:06+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-06T21:57:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5"
             }
           ]
         }
@@ -352,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 29 课：情景分析",
+      "title": "第 30 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -391,14 +384,14 @@
       "asOf": "2026-11-03"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-05"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-06"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -406,200 +399,151 @@
       "asOf": "2026-11-05"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-05"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-04"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-04"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
     },
     {
-      "title": "海容冷链：约200.53万股限制性股票解除限售，将于11月13日上市",
-      "url": "https://www.cnstock.com/commonDetail/825238",
-      "asOf": "2026-11-06T20:01:00+08:00"
+      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "url": "https://www.cnstock.com/commonDetail/825522",
+      "asOf": "2026-11-07T08:03:00+08:00"
     },
     {
-      "title": "万华化学：股东中凯信解押3520.00万股，占其所持11.66%",
-      "url": "https://www.cnstock.com/commonDetail/825105",
-      "asOf": "2026-11-06T18:42:00+08:00"
+      "title": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
+      "asOf": "2026-11-06T23:30:50+00:00"
     },
     {
-      "title": "江西铜业：董事长提议斥资3亿元至5亿元回购A股股份",
-      "url": "https://www.cnstock.com/commonDetail/825103",
-      "asOf": "2026-11-06T18:42:00+08:00"
+      "title": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
+      "asOf": "2026-11-06T23:18:49+00:00"
     },
     {
-      "title": "习近平参加北京市区人大代表换届选举投票",
-      "url": "https://www.cnstock.com/commonDetail/825173",
-      "asOf": "2026-11-06T18:22:00+08:00"
+      "title": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "url": "https://www.cnstock.com/commonDetail/825492",
+      "asOf": "2026-11-06T23:02:00+08:00"
     },
     {
-      "title": "韩国，紧急救市",
-      "url": "https://www.cnstock.com/commonDetail/825041",
-      "asOf": "2026-11-06T15:50:00+08:00"
+      "title": "11月6日晚间重要公告集锦",
+      "url": "https://www.cnstock.com/commonDetail/825478",
+      "asOf": "2026-11-06T23:02:00+08:00"
     },
     {
-      "title": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
-      "url": "https://www.cnstock.com/commonDetail/825036",
-      "asOf": "2026-11-06T15:48:00+08:00"
+      "title": "新西兰议会选举开始正式投票 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
+      "asOf": "2026-11-06T22:33:02+00:00"
     },
     {
-      "title": "针对A股，多位首席研判发声",
-      "url": "https://www.cnstock.com/commonDetail/824993",
-      "asOf": "2026-11-06T13:59:00+08:00"
+      "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/825467",
+      "asOf": "2026-11-06T22:19:00+08:00"
     },
     {
-      "title": "“易中天”领衔，科技公司午间集体发声",
-      "url": "https://www.cnstock.com/commonDetail/824980",
-      "asOf": "2026-11-06T13:44:00+08:00"
+      "title": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
+      "asOf": "2026-11-06T22:03:10+00:00"
     },
     {
-      "title": "习近平会见奥地利总理施托克尔 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTNHS2lOU283Zm9ZZ3kzTWtEb3BsMkktSkhkWGh6MEJZdGhDMFE1aVJDck9VWnhEVWl6LWZzZ2h4X01GWWd5NjB1d1NlMzlIZFVra1dNbklkOWN0ZXhDRFREM2lkN2RMX3FFVC00emY4ZUVsNS1oWThxNmNSSEN2eWZldzJra0UwU1BGVUxR?oc=5",
-      "asOf": "2026-11-06T11:52:24+00:00"
+      "title": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
+      "asOf": "2026-11-06T22:03:06+00:00"
     },
     {
-      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rM3IyS3lad0k2akdxQ2dzbXdkVm9jUFJOd3VMaF9KY0VSTjJjeklFTWVFd3dLRmtURVpvTThGdVdTTVVoMy1qZHZvMlJwTEM5bDVnbDdkMUhWMGZIdWthOUdKdE1NTjU4cnU1VjQzQTlVODFqejFB?oc=5",
-      "asOf": "2026-11-06T11:41:53+00:00"
+      "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
+      "asOf": "2026-11-06T21:57:19+00:00"
     }
   ],
   "events": [
     {
-      "event": "海容冷链：约200.53万股限制性股票解除限售，将于11月13日上市",
-      "originalTitle": "海容冷链：约200.53万股限制性股票解除限售，将于11月13日上市",
-      "published": "2026-11-06T20:01:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825238",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825238",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "753b27e72c13e1f33cd29c752a27e9d78823b60f17ebed1cf301d6b37b84d08e",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月6日，海容冷链发布2025年限制性股票激励计划第一个解除限售期解除限售暨上市公告称，公司于2026年10月29日召开第五届董事会第十次会议，审议通过《关于2025年限制性股票激励计划第一个解除限售期解除限售条件成就的议案》，"
-      }
-    },
-    {
-      "event": "万华化学：股东中凯信解押3520.00万股，占其所持11.66%",
-      "originalTitle": "万华化学：股东中凯信解押3520.00万股，占其所持11.66%",
-      "published": "2026-11-06T18:42:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825105",
+      "event": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "originalTitle": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published": "2026-11-07T08:03:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825522",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "江西铜业：董事长提议斥资3亿元至5亿元回购A股股份",
-      "originalTitle": "江西铜业：董事长提议斥资3亿元至5亿元回购A股股份",
-      "published": "2026-11-06T18:42:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825103",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825103",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "aa5d65d49f566a123b7c8956318949865f42c0a0545eb96b7df1e06ffb185827",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月6日，江西铜业发布公告称，公司于2026年11月6日收到董事长周少兵出具的《关于提议江西铜业股份有限公司回购公司A股股份的函》，提议人提议公司通过上海证券交易所交易系统以集中竞价交易方式回购部分公司A股股份，回购资金总额不低"
-      }
-    },
-    {
-      "event": "习近平参加北京市区人大代表换届选举投票",
-      "originalTitle": "习近平参加北京市区人大代表换届选举投票",
-      "published": "2026-11-06T18:22:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825173",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825173",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "b195abe387a675641396b88bb5164e120d6116fbb8fe28609503b313185b4269",
-        "paragraphCount": 5,
-        "excerpt": "新华社北京11月6日电 11月6日是北京市区和乡镇两级人大代表换届选举投票日。中共中央总书记、国家主席、中央军委主席习近平在西城区中南海选区怀仁堂投票站参加区人大代表的选举投票时强调，选举人大代表是坚持好、完善好、运行好人民代表大会制度的基"
-      }
-    },
-    {
-      "event": "韩国，紧急救市",
-      "originalTitle": "韩国，紧急救市",
-      "published": "2026-11-06T15:50:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825041",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825041",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "bf9521a191896b77be004e5994570000616ff819dec69505cc80eb4baa18a769",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯 11月6日早间，韩国股市波动加剧。韩国KOSPI指数开盘一度重挫8%，触发熔断机制，交易暂停20分钟，为今年以来第11次触发熔断机制。"
-      }
-    },
-    {
-      "event": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
-      "originalTitle": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
-      "published": "2026-11-06T15:48:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825036",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825036",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "9e02342ed693956af8f6e4e826ffd54b028fadf37a428ebf5340417bc79daa80",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯 据商务部官网11月6日消息，商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问。"
-      }
-    },
-    {
-      "event": "针对A股，多位首席研判发声",
-      "originalTitle": "针对A股，多位首席研判发声",
-      "published": "2026-11-06T13:59:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824993",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824993",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "748102d1998e1b1f35e985c81b19358af5ac4c40ca56a2fd615fffdf66e520f1",
-        "paragraphCount": 15,
-        "excerpt": "上证报中国证券网讯 近期，A股市场经历震荡调整，如何看待当前市场波动、后市如何发展等话题成为关注焦点。近期，申万宏源、光大证券、华创证券等多家券商首席经济学家、研究所所长，围绕A股市场走势、科技创新与产业升级、企业盈利结构变化等展开集中研判"
-      }
-    },
-    {
-      "event": "“易中天”领衔，科技公司午间集体发声",
-      "originalTitle": "“易中天”领衔，科技公司午间集体发声",
-      "published": "2026-11-06T13:44:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/824980",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/824980",
-        "retrievedAt": "2026-11-06T20:07:25.329621+08:00",
-        "sha256": "e43ad06fe241e51d4b0febf197bf12d5528eb307e82648b7c4ad62b9409057f6",
-        "paragraphCount": 17,
-        "excerpt": "11月6日午间，以“易中天”为代表的一批硬科技公司密集发布公告，依法合规充分运用政策工具维护公司价值。"
-      }
-    },
-    {
-      "event": "习近平会见奥地利总理施托克尔 - 新华网",
-      "published": "2026-11-06T11:52:24+00:00",
+      "event": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网",
+      "published": "2026-11-06T23:30:50+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTNHS2lOU283Zm9ZZ3kzTWtEb3BsMkktSkhkWGh6MEJZdGhDMFE1aVJDck9VWnhEVWl6LWZzZ2h4X01GWWd5NjB1d1NlMzlIZFVra1dNbklkOWN0ZXhDRFREM2lkN2RMX3FFVC00emY4ZUVsNS1oWThxNmNSSEN2eWZldzJra0UwU1BGVUxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTWVLWmZQbjlzdEw2V3RxY1JxQndEcnlLSmV0NGR0MUswQmFnSWUxR2sxMHJtdzItcFh1WFNCUkRKc0gwMDFBZ183SGZydEt6bWhES1pxeHFZWUZlVDJlajhpRFhkY1FGVzA2S0Q1YzMtX0xzbEx4c0w1YWFvS0E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平会见奥地利总理施托克尔 - 新华网"
+      "originalTitle": "影启新篇 智创未来——中外嘉宾共话AI时代的移动影像创新与媒体变革 - 新华网"
     },
     {
-      "event": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网",
-      "published": "2026-11-06T11:41:53+00:00",
+      "event": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网",
+      "published": "2026-11-06T23:18:49+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rM3IyS3lad0k2akdxQ2dzbXdkVm9jUFJOd3VMaF9KY0VSTjJjeklFTWVFd3dLRmtURVpvTThGdVdTTVVoMy1qZHZvMlJwTEM5bDVnbDdkMUhWMGZIdWthOUdKdE1NTjU4cnU1VjQzQTlVODFqejFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RUFoMUxsWFdkenM5NC1vb2YxR2ZUckhCYU55ZThzX3o0bHdhX3JkeDFBNktNenJiYnMwbkE2eUFRekNVSmtheUJxTjRNSWdKVGZ1VENST3BWT0FQRzlOMUpsTUdlWVIwRHpzaHlONGRfQzNoM09DcnB3YU9VTTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网"
+      "originalTitle": "中央气象台11月7日06时发布暴雪黄色预警 - 新华网"
+    },
+    {
+      "event": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "originalTitle": "七部门发文加快航运保险高质量发展 补齐承保能力与定价短板",
+      "published": "2026-11-06T23:02:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825492",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "11月6日晚间重要公告集锦",
+      "originalTitle": "11月6日晚间重要公告集锦",
+      "published": "2026-11-06T23:02:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825478",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新西兰议会选举开始正式投票 - 新华网",
+      "published": "2026-11-06T22:33:02+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUh1Njl6bFk1cFdwQk9IM3lkSUViODNrTVVNRDYtV2RQdXUwekR2QkdVMEZPWkZNemJCWU93WWlpcEtGUWRrREpTRm9rVllJM01XTmJsclhKUmdRdW5DUkdlZENZMHVLQ2xaMWVBVzZ0VGpuVXdrem9Nbl9WZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新西兰议会选举开始正式投票 - 新华网"
+    },
+    {
+      "event": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "originalTitle": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+      "published": "2026-11-06T22:19:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825467",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "巴拉圭总统培尼亚遭国会弹劾 - 新华网",
+      "published": "2026-11-06T22:03:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IOWxvWHowdkZkTDVMLU1xcEE0VzJtVDdJaUhlZnpsRFc0aTV4ek1NMk1hWE1jMnRCaGk1bUhTVUpnUkcwOVIzV19Zak5CVnV5N2V1ZFVzanNsVjlwM3FRbUpjTUF6czNJSzM5aDBLbzQwZXdreFZGbUtlQTRpTFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴拉圭总统培尼亚遭国会弹劾 - 新华网"
+    },
+    {
+      "event": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网",
+      "published": "2026-11-06T22:03:06+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjamM1aGxlYlJHdFI1dThhanlYUE4tR3JkdHlmQWptV3F4cWpqSWJ2SjRvRWhxM0ZNaXJDQXdkYmkwRlFlWDRMelRWZ3FLVGpQVGFPX204c1Y2djM1YmQyNWFrUzhISVNXQV9IdzJjZXp2UXV2bUFYMDNuT25xUW8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社快讯：巴拉圭国会通过对总统培尼亚的弹劾议案 - 新华网"
+    },
+    {
+      "event": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网",
+      "published": "2026-11-06T21:57:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zTjhDQXE2bFNseXZzZTBmTHlIVmlTTzJFVkV5aE8teG1pMFZqWVRoZFhDQzh0OFRtMDVOdjRvOUJNc0VFTkRhZXBPYkRPQjk0YklmSlBLX3JySWhiVUJnUFZwMHdvalBRYXFhZjdWNlBucUFJM0pLODRnOVY3RFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国科学家叶玉如获教科文组织国际生命科学研究奖 - 新华网"
     }
   ],
   "quality": {
@@ -613,6 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
