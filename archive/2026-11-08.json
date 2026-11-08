@@ -1,0 +1,561 @@
+{
+  "edition": "财经晨报 · 2026-11-08",
+  "date": "更新于北京时间 2026-11-08 08:32",
+  "reportDate": "2026-11-08",
+  "updatedAt": "2026-11-08T08:32:36+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-08 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-06：7,376.86 点；较 2026-11-05 变化 +23.13 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-06：98.32 美元/桶；较 2026-11-05 变化 +0.03 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "98.32 美元/桶；变化 +0.03 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 98.29（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.46 %；变化 -0.12 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.84 %；变化 -0.06 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.30 点；变化 +0.75 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 101.55（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,376.86 点；变化 +23.13 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 7,353.73（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "24,579.43 点；变化 +264.43 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 24,315.00（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6648 人民币/美元；变化 -0.0232 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-07；前值 6.6880（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T00:06:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T00:00:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T21:36:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "波兰克拉科夫枪击事件死亡人数升至6人 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T21:17:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16WlR2MGRCOVB1ZW1xemphajlEcFZJN3pOWHgzWlktbzBqYmxHcC1LYnpkYXlCbXRhSW1oTkJtbDhKajByWmJKSGRqeGZTOEkxYkI2aU9lR1pxLWdvdkZENzFWek9Wc0wyTzRraXJyZFpSRktYZU9Sa3RzVGNteUE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特朗普说已邀请达纳·怀特担任白宫新闻秘书 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T21:17:27+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WYXZJX2ZvVDVkYjdZWkxMNFBxTnhIajRSbC1seVdPSWVRR2tiTTNYeGVncnpnb3BWS3QwUkx6SzFXY0tTUGQtY2hKUTlOUDFJdVktS01DS0VsS0RYTVhKTU1SbTF3RFVrRmhsdkVXNTFvUHVHWmZ5U0RxMzNjd0U?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "智利中部严重交通事故致12死15伤 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T17:58:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtS0RSY21sdnJfNk5Cc1RNY2NSOUFWejNjRW1XRHo5SkpTajlaMzFWSUcxVGVPVjVDbFNhTkFaMVAzZnd2ekV0aGxPTmVRb2g0OVNjOHZCeUhmWXJNNTVKVFQxTGlPdmN3TFFuTDF6eWoyVm5hWDJv?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "俄方批评乌“志愿联盟”举行演习恶化局势 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T17:54:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdWJUN0VMbUVUQXNCTUxGcnYxNWxyUnF0c0tYV1ZoOWd4WlpwNkdCQThDNTkwSW9rY1RhbElnNjhsRWNsNEVaQ2VNSjF2SjM2UUNwbW1zN19WRmZjT3ZwOUFqci1zMFgwZDB6R0s2XzgtVFpNZUJn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T17:39:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS2VjWHc3Z2ZXQ25HZ1lON0d1QXMyMkFzTHZVb1BjbmdydlpZc1UxdXE5MzVqSHJfN2ItOWphV3hrbUh0MHE1RzBtQXBhdS1FWmZMdXJKTHp6dDJ4dHhnT09zQjJwRktFUzBUdUtnMlBsRXRGdl9iX3ByNmZiLVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "也门胡塞武装称沙特空袭致死人数升至22人 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T16:18:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNXRvMDI0LTZHa0lybk9LNldLbW1uZmc0N0VCNDFiTEpNT0dhTEhUd0ExcU9XQ2k2WGVVZGJoRFNxUUc4cXRWMTV2WXlOaUFXc1BCM1BJRW1SYVNyYWMtQWUzRmdjZHNXZjlsdzRCLXg4QUp6dVNJ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "日媒：日本新版防卫战略或强化“持续作战能力” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T15:26:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UR252eG5CY002T21qRkNERlU0RjBPSG5vR1JReG1tLXZzVG5IWHBhY01YQnBObF9GZVB3eWE1a2RCbnVXS1djVEliRGJEQlJoT3hwQldPdXFVZW5mcTFuTVlCZjFkQ1htcXFoVkEyMEs1a3k5ZnVFcTU5eW5XcDA?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 31 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-05 前值 7353.7300，2026-11-06 现值 7376.8599，变化 +23.1299。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-07"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "asOf": "2026-11-08T00:06:07+00:00"
+    },
+    {
+      "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
+      "asOf": "2026-11-08T00:00:59+00:00"
+    },
+    {
+      "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
+      "asOf": "2026-11-07T21:36:52+00:00"
+    },
+    {
+      "title": "波兰克拉科夫枪击事件死亡人数升至6人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16WlR2MGRCOVB1ZW1xemphajlEcFZJN3pOWHgzWlktbzBqYmxHcC1LYnpkYXlCbXRhSW1oTkJtbDhKajByWmJKSGRqeGZTOEkxYkI2aU9lR1pxLWdvdkZENzFWek9Wc0wyTzRraXJyZFpSRktYZU9Sa3RzVGNteUE?oc=5",
+      "asOf": "2026-11-07T21:17:37+00:00"
+    },
+    {
+      "title": "特朗普说已邀请达纳·怀特担任白宫新闻秘书 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WYXZJX2ZvVDVkYjdZWkxMNFBxTnhIajRSbC1seVdPSWVRR2tiTTNYeGVncnpnb3BWS3QwUkx6SzFXY0tTUGQtY2hKUTlOUDFJdVktS01DS0VsS0RYTVhKTU1SbTF3RFVrRmhsdkVXNTFvUHVHWmZ5U0RxMzNjd0U?oc=5",
+      "asOf": "2026-11-07T21:17:27+00:00"
+    },
+    {
+      "title": "智利中部严重交通事故致12死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtS0RSY21sdnJfNk5Cc1RNY2NSOUFWejNjRW1XRHo5SkpTajlaMzFWSUcxVGVPVjVDbFNhTkFaMVAzZnd2ekV0aGxPTmVRb2g0OVNjOHZCeUhmWXJNNTVKVFQxTGlPdmN3TFFuTDF6eWoyVm5hWDJv?oc=5",
+      "asOf": "2026-11-07T17:58:59+00:00"
+    },
+    {
+      "title": "俄方批评乌“志愿联盟”举行演习恶化局势 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdWJUN0VMbUVUQXNCTUxGcnYxNWxyUnF0c0tYV1ZoOWd4WlpwNkdCQThDNTkwSW9rY1RhbElnNjhsRWNsNEVaQ2VNSjF2SjM2UUNwbW1zN19WRmZjT3ZwOUFqci1zMFgwZDB6R0s2XzgtVFpNZUJn?oc=5",
+      "asOf": "2026-11-07T17:54:46+00:00"
+    },
+    {
+      "title": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS2VjWHc3Z2ZXQ25HZ1lON0d1QXMyMkFzTHZVb1BjbmdydlpZc1UxdXE5MzVqSHJfN2ItOWphV3hrbUh0MHE1RzBtQXBhdS1FWmZMdXJKTHp6dDJ4dHhnT09zQjJwRktFUzBUdUtnMlBsRXRGdl9iX3ByNmZiLVk?oc=5",
+      "asOf": "2026-11-07T17:39:42+00:00"
+    },
+    {
+      "title": "也门胡塞武装称沙特空袭致死人数升至22人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNXRvMDI0LTZHa0lybk9LNldLbW1uZmc0N0VCNDFiTEpNT0dhTEhUd0ExcU9XQ2k2WGVVZGJoRFNxUUc4cXRWMTV2WXlOaUFXc1BCM1BJRW1SYVNyYWMtQWUzRmdjZHNXZjlsdzRCLXg4QUp6dVNJ?oc=5",
+      "asOf": "2026-11-07T16:18:54+00:00"
+    },
+    {
+      "title": "日媒：日本新版防卫战略或强化“持续作战能力” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UR252eG5CY002T21qRkNERlU0RjBPSG5vR1JReG1tLXZzVG5IWHBhY01YQnBObF9GZVB3eWE1a2RCbnVXS1djVEliRGJEQlJoT3hwQldPdXFVZW5mcTFuTVlCZjFkQ1htcXFoVkEyMEs1a3k5ZnVFcTU5eW5XcDA?oc=5",
+      "asOf": "2026-11-07T15:26:55+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "published": "2026-11-08T00:06:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
+    },
+    {
+      "event": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "published": "2026-11-08T00:00:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
+    },
+    {
+      "event": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+      "published": "2026-11-07T21:36:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网"
+    },
+    {
+      "event": "波兰克拉科夫枪击事件死亡人数升至6人 - 新华网",
+      "published": "2026-11-07T21:17:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16WlR2MGRCOVB1ZW1xemphajlEcFZJN3pOWHgzWlktbzBqYmxHcC1LYnpkYXlCbXRhSW1oTkJtbDhKajByWmJKSGRqeGZTOEkxYkI2aU9lR1pxLWdvdkZENzFWek9Wc0wyTzRraXJyZFpSRktYZU9Sa3RzVGNteUE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "波兰克拉科夫枪击事件死亡人数升至6人 - 新华网"
+    },
+    {
+      "event": "特朗普说已邀请达纳·怀特担任白宫新闻秘书 - 新华网",
+      "published": "2026-11-07T21:17:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WYXZJX2ZvVDVkYjdZWkxMNFBxTnhIajRSbC1seVdPSWVRR2tiTTNYeGVncnpnb3BWS3QwUkx6SzFXY0tTUGQtY2hKUTlOUDFJdVktS01DS0VsS0RYTVhKTU1SbTF3RFVrRmhsdkVXNTFvUHVHWmZ5U0RxMzNjd0U?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特朗普说已邀请达纳·怀特担任白宫新闻秘书 - 新华网"
+    },
+    {
+      "event": "智利中部严重交通事故致12死15伤 - 新华网",
+      "published": "2026-11-07T17:58:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtS0RSY21sdnJfNk5Cc1RNY2NSOUFWejNjRW1XRHo5SkpTajlaMzFWSUcxVGVPVjVDbFNhTkFaMVAzZnd2ekV0aGxPTmVRb2g0OVNjOHZCeUhmWXJNNTVKVFQxTGlPdmN3TFFuTDF6eWoyVm5hWDJv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "智利中部严重交通事故致12死15伤 - 新华网"
+    },
+    {
+      "event": "俄方批评乌“志愿联盟”举行演习恶化局势 - 新华网",
+      "published": "2026-11-07T17:54:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdWJUN0VMbUVUQXNCTUxGcnYxNWxyUnF0c0tYV1ZoOWd4WlpwNkdCQThDNTkwSW9rY1RhbElnNjhsRWNsNEVaQ2VNSjF2SjM2UUNwbW1zN19WRmZjT3ZwOUFqci1zMFgwZDB6R0s2XzgtVFpNZUJn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "俄方批评乌“志愿联盟”举行演习恶化局势 - 新华网"
+    },
+    {
+      "event": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片” - 新华网",
+      "published": "2026-11-07T17:39:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS2VjWHc3Z2ZXQ25HZ1lON0d1QXMyMkFzTHZVb1BjbmdydlpZc1UxdXE5MzVqSHJfN2ItOWphV3hrbUh0MHE1RzBtQXBhdS1FWmZMdXJKTHp6dDJ4dHhnT09zQjJwRktFUzBUdUtnMlBsRXRGdl9iX3ByNmZiLVk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片” - 新华网"
+    },
+    {
+      "event": "也门胡塞武装称沙特空袭致死人数升至22人 - 新华网",
+      "published": "2026-11-07T16:18:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mNXRvMDI0LTZHa0lybk9LNldLbW1uZmc0N0VCNDFiTEpNT0dhTEhUd0ExcU9XQ2k2WGVVZGJoRFNxUUc4cXRWMTV2WXlOaUFXc1BCM1BJRW1SYVNyYWMtQWUzRmdjZHNXZjlsdzRCLXg4QUp6dVNJ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "也门胡塞武装称沙特空袭致死人数升至22人 - 新华网"
+    },
+    {
+      "event": "日媒：日本新版防卫战略或强化“持续作战能力” - 新华网",
+      "published": "2026-11-07T15:26:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UR252eG5CY002T21qRkNERlU0RjBPSG5vR1JReG1tLXZzVG5IWHBhY01YQnBObF9GZVB3eWE1a2RCbnVXS1djVEliRGJEQlJoT3hwQldPdXFVZW5mcTFuTVlCZjFkQ1htcXFoVkEyMEs1a3k5ZnVFcTU5eW5XcDA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "日媒：日本新版防卫战略或强化“持续作战能力” - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
