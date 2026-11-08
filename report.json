@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-08",
-  "date": "更新于北京时间 2026-11-08 11:10",
+  "date": "更新于北京时间 2026-11-08 13:50",
   "reportDate": "2026-11-08",
-  "updatedAt": "2026-11-08T11:10:47+08:00",
+  "updatedAt": "2026-11-08T13:50:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,36 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T05:25:12+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T04:45:57+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -207,21 +237,6 @@
         },
         {
           "type": "explainer",
-          "title": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T02:33:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "第36届中国新闻奖获奖作品目录 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -232,6 +247,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "红色中华报：跨越95年的回响丨一张布告 人民江山 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:15:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlRodnd5eTZ2b0FtUm1KTXJQMldydm5tdVN1S25fbXowVGZnd2N0UE56cGZYYkE4OEtMWHZRcE1EY3RDYUs4cUJQYVNGWUNXQ1hTalktOHZQQ09ZQzhGQ1ZiVUVQZG9VbE5UUXNzcFc0TU5lemRyeWljam9UQkY3YnRDSQ?oc=5"
             }
           ]
         },
@@ -252,6 +282,36 @@
         },
         {
           "type": "explainer",
+          "title": "第九届进博会丨透视进博：在进博会，寻找“不同”的答案 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:15:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QeWVyNUlxYjdHQkhQZ2paZlRScF9BSUNQZ1AtcE9ZLVVuRUZCbkVjU1l2NXR2Z2hoalRWMHNjU1JYU0VpX3c3bHFMWk01bFNvWjhhYWtnVTZoRG1ocENFdmg1YjJ4cXFBOVhWZlViU3ZMdElKVFNz?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第九届进博会丨专访：进博会为企业拓展全球商机打开新空间——访马来西亚中华总商会总会长吴逸平 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:15:34+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWkRDaWZxZk5KOGY2d3BJbi0zNkxJNWhIa0F0bHdlNGVYSXA4a2pRQjVqc1VnZGVDeXB0UjRJOHhmM2hZUGlFZmstUFFaZlFtSXdNWkZXSHI0NUxjQTFCczRLUGI0X3NqQ2tYOU8xSzVsSkttRkF6UzdUYVhUMEE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "权威数读·观中国【11月1日-11月7日】 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -262,66 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T01:32:29+00:00；来源：新华社广西分社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T01:07:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T01:03:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T00:06:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5"
             }
           ]
         }
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
@@ -391,6 +386,11 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
@@ -414,6 +414,16 @@
       "asOf": "2026-11-05"
     },
     {
+      "title": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5",
+      "asOf": "2026-11-08T05:25:12+00:00"
+    },
+    {
+      "title": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5",
+      "asOf": "2026-11-08T04:45:57+00:00"
+    },
+    {
       "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5",
       "asOf": "2026-11-08T02:57:19+00:00"
@@ -424,14 +434,14 @@
       "asOf": "2026-11-08T02:42:05+00:00"
     },
     {
-      "title": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5",
-      "asOf": "2026-11-08T02:33:01+00:00"
-    },
-    {
       "title": "第36届中国新闻奖获奖作品目录 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
       "asOf": "2026-11-08T02:27:56+00:00"
+    },
+    {
+      "title": "红色中华报：跨越95年的回响丨一张布告 人民江山 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlRodnd5eTZ2b0FtUm1KTXJQMldydm5tdVN1S25fbXowVGZnd2N0UE56cGZYYkE4OEtMWHZRcE1EY3RDYUs4cUJQYVNGWUNXQ1hTalktOHZQQ09ZQzhGQ1ZiVUVQZG9VbE5UUXNzcFc0TU5lemRyeWljam9UQkY3YnRDSQ?oc=5",
+      "asOf": "2026-11-08T02:15:58+00:00"
     },
     {
       "title": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网",
@@ -439,32 +449,38 @@
       "asOf": "2026-11-08T02:15:53+00:00"
     },
     {
+      "title": "第九届进博会丨透视进博：在进博会，寻找“不同”的答案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QeWVyNUlxYjdHQkhQZ2paZlRScF9BSUNQZ1AtcE9ZLVVuRUZCbkVjU1l2NXR2Z2hoalRWMHNjU1JYU0VpX3c3bHFMWk01bFNvWjhhYWtnVTZoRG1ocENFdmg1YjJ4cXFBOVhWZlViU3ZMdElKVFNz?oc=5",
+      "asOf": "2026-11-08T02:15:40+00:00"
+    },
+    {
+      "title": "第九届进博会丨专访：进博会为企业拓展全球商机打开新空间——访马来西亚中华总商会总会长吴逸平 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWkRDaWZxZk5KOGY2d3BJbi0zNkxJNWhIa0F0bHdlNGVYSXA4a2pRQjVqc1VnZGVDeXB0UjRJOHhmM2hZUGlFZmstUFFaZlFtSXdNWkZXSHI0NUxjQTFCczRLUGI0X3NqQ2tYOU8xSzVsSkttRkF6UzdUYVhUMEE?oc=5",
+      "asOf": "2026-11-08T02:15:34+00:00"
+    },
+    {
       "title": "权威数读·观中国【11月1日-11月7日】 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5",
       "asOf": "2026-11-08T01:48:11+00:00"
-    },
-    {
-      "title": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5",
-      "asOf": "2026-11-08T01:32:29+00:00"
-    },
-    {
-      "title": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5",
-      "asOf": "2026-11-08T01:07:29+00:00"
-    },
-    {
-      "title": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5",
-      "asOf": "2026-11-08T01:03:31+00:00"
-    },
-    {
-      "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5",
-      "asOf": "2026-11-08T00:06:07+00:00"
     }
   ],
   "events": [
+    {
+      "event": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
+      "published": "2026-11-08T05:25:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网"
+    },
+    {
+      "event": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
+      "published": "2026-11-08T04:45:57+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网"
+    },
     {
       "event": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
       "published": "2026-11-08T02:57:19+00:00",
@@ -482,20 +498,20 @@
       "originalTitle": "第19届长江韬奋奖获奖者名单 - 新华网"
     },
     {
-      "event": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
-      "published": "2026-11-08T02:33:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网"
-    },
-    {
       "event": "第36届中国新闻奖获奖作品目录 - 新华网",
       "published": "2026-11-08T02:27:56+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "第36届中国新闻奖获奖作品目录 - 新华网"
+    },
+    {
+      "event": "红色中华报：跨越95年的回响丨一张布告 人民江山 - 新华网",
+      "published": "2026-11-08T02:15:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlRodnd5eTZ2b0FtUm1KTXJQMldydm5tdVN1S25fbXowVGZnd2N0UE56cGZYYkE4OEtMWHZRcE1EY3RDYUs4cUJQYVNGWUNXQ1hTalktOHZQQ09ZQzhGQ1ZiVUVQZG9VbE5UUXNzcFc0TU5lemRyeWljam9UQkY3YnRDSQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "红色中华报：跨越95年的回响丨一张布告 人民江山 - 新华网"
     },
     {
       "event": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网",
@@ -506,44 +522,28 @@
       "originalTitle": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网"
     },
     {
+      "event": "第九届进博会丨透视进博：在进博会，寻找“不同”的答案 - 新华网",
+      "published": "2026-11-08T02:15:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QeWVyNUlxYjdHQkhQZ2paZlRScF9BSUNQZ1AtcE9ZLVVuRUZCbkVjU1l2NXR2Z2hoalRWMHNjU1JYU0VpX3c3bHFMWk01bFNvWjhhYWtnVTZoRG1ocENFdmg1YjJ4cXFBOVhWZlViU3ZMdElKVFNz?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第九届进博会丨透视进博：在进博会，寻找“不同”的答案 - 新华网"
+    },
+    {
+      "event": "第九届进博会丨专访：进博会为企业拓展全球商机打开新空间——访马来西亚中华总商会总会长吴逸平 - 新华网",
+      "published": "2026-11-08T02:15:34+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWkRDaWZxZk5KOGY2d3BJbi0zNkxJNWhIa0F0bHdlNGVYSXA4a2pRQjVqc1VnZGVDeXB0UjRJOHhmM2hZUGlFZmstUFFaZlFtSXdNWkZXSHI0NUxjQTFCczRLUGI0X3NqQ2tYOU8xSzVsSkttRkF6UzdUYVhUMEE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第九届进博会丨专访：进博会为企业拓展全球商机打开新空间——访马来西亚中华总商会总会长吴逸平 - 新华网"
+    },
+    {
       "event": "权威数读·观中国【11月1日-11月7日】 - 新华网",
       "published": "2026-11-08T01:48:11+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "权威数读·观中国【11月1日-11月7日】 - 新华网"
-    },
-    {
-      "event": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
-      "published": "2026-11-08T01:32:29+00:00",
-      "publisher": "新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社"
-    },
-    {
-      "event": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
-      "published": "2026-11-08T01:07:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网"
-    },
-    {
-      "event": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
-      "published": "2026-11-08T01:03:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网"
-    },
-    {
-      "event": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-      "published": "2026-11-08T00:06:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
     }
   ],
   "quality": {
