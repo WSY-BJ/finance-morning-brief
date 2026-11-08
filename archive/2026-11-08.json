@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-08",
-  "date": "更新于北京时间 2026-11-08 09:48",
+  "date": "更新于北京时间 2026-11-08 10:38",
   "reportDate": "2026-11-08",
-  "updatedAt": "2026-11-08T09:48:52+08:00",
+  "updatedAt": "2026-11-08T10:38:24+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 2 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
     "title": "2026-11-08 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 2 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
     {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6648 人民币/美元；变化 -0.0232 人民币/美元",
+          "summary": "6.6880 人民币/美元；变化 +0.0149 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-07；前值 6.6880（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-06；前值 6.6731（2026-11-05）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,31 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+          "title": "第36届中国新闻奖获奖作品目录 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T10:32:00+08:00；来源：新华社。",
+            "发布时间：2026-11-08T02:27:56+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825554"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "我国央行黄金储备“24连增”",
+          "title": "权威数读·观中国【11月1日-11月7日】 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-07T10:32:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-08T01:48:11+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825556"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T01:32:29+00:00；来源：新华社广西分社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T01:07:29+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T01:03:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T00:06:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T00:00:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T23:03:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T21:36:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊朗南部多地传出爆炸声 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-07T21:34:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5"
             }
           ]
         }
@@ -259,24 +379,24 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-06"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-07"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -294,51 +414,148 @@
       "asOf": "2026-11-05"
     },
     {
-      "title": "中共中央发出通知 部署党的二十一大代表选举工作",
-      "url": "https://www.cnstock.com/commonDetail/825554",
-      "asOf": "2026-11-07T10:32:00+08:00"
+      "title": "第36届中国新闻奖获奖作品目录 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
+      "asOf": "2026-11-08T02:27:56+00:00"
     },
     {
-      "title": "我国央行黄金储备“24连增”",
-      "url": "https://www.cnstock.com/commonDetail/825556",
-      "asOf": "2026-11-07T10:32:00+08:00"
+      "title": "权威数读·观中国【11月1日-11月7日】 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5",
+      "asOf": "2026-11-08T01:48:11+00:00"
+    },
+    {
+      "title": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5",
+      "asOf": "2026-11-08T01:32:29+00:00"
+    },
+    {
+      "title": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5",
+      "asOf": "2026-11-08T01:07:29+00:00"
+    },
+    {
+      "title": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5",
+      "asOf": "2026-11-08T01:03:31+00:00"
+    },
+    {
+      "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "asOf": "2026-11-08T00:06:07+00:00"
+    },
+    {
+      "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
+      "asOf": "2026-11-08T00:00:59+00:00"
+    },
+    {
+      "title": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5",
+      "asOf": "2026-11-07T23:03:14+00:00"
+    },
+    {
+      "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
+      "asOf": "2026-11-07T21:36:52+00:00"
+    },
+    {
+      "title": "伊朗南部多地传出爆炸声 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5",
+      "asOf": "2026-11-07T21:34:41+00:00"
     }
   ],
   "events": [
     {
-      "event": "中共中央发出通知 部署党的二十一大代表选举工作",
-      "originalTitle": "中共中央发出通知 部署党的二十一大代表选举工作",
-      "published": "2026-11-07T10:32:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825554",
-      "evidenceLevel": "headline-only"
+      "event": "第36届中国新闻奖获奖作品目录 - 新华网",
+      "published": "2026-11-08T02:27:56+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第36届中国新闻奖获奖作品目录 - 新华网"
     },
     {
-      "event": "我国央行黄金储备“24连增”",
-      "originalTitle": "我国央行黄金储备“24连增”",
-      "published": "2026-11-07T10:32:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825556",
-      "evidenceLevel": "headline-only"
+      "event": "权威数读·观中国【11月1日-11月7日】 - 新华网",
+      "published": "2026-11-08T01:48:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUEczWC1XdFMwRWR6dWhDMmNXMnBwWUdyZG9PZC1yVXpGdVpGNjJyRWdwRUFKTWl0MlIyMGRzYnV5cENxcFZjajI2TEJ2cFJEbXZhQ2M4alZ1X2x4XzE1NEYzUmJpR2d4Nzl1dVhiQ3RsOE9rMTRN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "权威数读·观中国【11月1日-11月7日】 - 新华网"
+    },
+    {
+      "event": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社",
+      "published": "2026-11-08T01:32:29+00:00",
+      "publisher": "新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JdTVkLXFtRnEtX1NySTlCSmg2a21KWWJHQk9RYXRCNXlUUE4xbUlRVzBDYzJaQndmYXFxbEdhUGtkeTRySXFQTHhiRlJPVDVkb2N0NkpwSzU2T0I1WTFfeTBnVTR4OThrMF9BcDdrd1ZDaE5IVWpUWkZvUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广西出台32条措施促进服务业扩能提质 - 新华社广西分社"
+    },
+    {
+      "event": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网",
+      "published": "2026-11-08T01:07:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WDZDOVZjTDNicGItXzdUZWhybjRQSEkxcWdRSXlIQ2x5T29QcnVJUm00OVZoN0U3cm1kR1ZOYnB3NUtLTjU4dzJ2X3A4bklLbXRNNDBxUXh1TWhsN0xIUDlhMDQtT2RjOUtNU29vbEdUN08wTGJnN3ROb2RNYXM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊朗：两艘“违规油轮”在霍尔木兹海峡触雷起火 - 新华网"
+    },
+    {
+      "event": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网",
+      "published": "2026-11-08T01:03:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSU9kckIwOUhzUVVUdU94eWlORDItVGdhWVNEY2pkZW0wQ09PU3Q5VVZKd1VuLVNJRTNzeUluUnc3eWJsR0haS2Z1ZkYwNmZCWF9TX3ZvS0tjNVVvZUdhZXNseWU3cWQ3TnNSZmpxeHNuU2hzNVBSLXZ5WmlGZ1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国第24批赴黎巴嫩维和部队464名官兵荣获联合国和平勋章 - 新华网"
+    },
+    {
+      "event": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "published": "2026-11-08T00:06:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
+    },
+    {
+      "event": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
+      "published": "2026-11-08T00:00:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
+    },
+    {
+      "event": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
+      "published": "2026-11-07T23:03:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网"
+    },
+    {
+      "event": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
+      "published": "2026-11-07T21:36:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网"
+    },
+    {
+      "event": "伊朗南部多地传出爆炸声 - 新华网",
+      "published": "2026-11-07T21:34:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊朗南部多地传出爆炸声 - 新华网"
     }
   ],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 2,
+    "news24hCount": 10,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
