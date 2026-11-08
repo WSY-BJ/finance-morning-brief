@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-08",
-  "date": "更新于北京时间 2026-11-08 10:38",
+  "date": "更新于北京时间 2026-11-08 11:10",
   "reportDate": "2026-11-08",
-  "updatedAt": "2026-11-08T10:38:24+08:00",
+  "updatedAt": "2026-11-08T11:10:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.51 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.84 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,51 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:57:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第19届长江韬奋奖获奖者名单 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:42:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:33:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "第36届中国新闻奖获奖作品目录 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,6 +232,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-08T02:15:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91b1YyelBwcFM5TVFxYzgwSTlteGpndWlJajdURkFTRGpsWTBsNmtxS3dtbjNrcVR4bE5sZGtTMlhuSkJCei1QTlpWQ2FNYzUtMzRXdWNPbElTX29WVmp4dHUzRU1qQmhhNWxaLUVfdTZ3UU90WllJQ0lnN1hGa3c?oc=5"
             }
           ]
         },
@@ -261,67 +321,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-08T00:00:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T23:03:14+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T21:36:52+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗南部多地传出爆炸声 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-07T21:34:41+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5"
             }
           ]
         }
@@ -384,8 +384,8 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
     },
     {
@@ -404,19 +404,39 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-05"
+    },
+    {
+      "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5",
+      "asOf": "2026-11-08T02:57:19+00:00"
+    },
+    {
+      "title": "第19届长江韬奋奖获奖者名单 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5",
+      "asOf": "2026-11-08T02:42:05+00:00"
+    },
+    {
+      "title": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5",
+      "asOf": "2026-11-08T02:33:01+00:00"
     },
     {
       "title": "第36届中国新闻奖获奖作品目录 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
       "asOf": "2026-11-08T02:27:56+00:00"
+    },
+    {
+      "title": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91b1YyelBwcFM5TVFxYzgwSTlteGpndWlJajdURkFTRGpsWTBsNmtxS3dtbjNrcVR4bE5sZGtTMlhuSkJCei1QTlpWQ2FNYzUtMzRXdWNPbElTX29WVmp4dHUzRU1qQmhhNWxaLUVfdTZ3UU90WllJQ0lnN1hGa3c?oc=5",
+      "asOf": "2026-11-08T02:15:53+00:00"
     },
     {
       "title": "权威数读·观中国【11月1日-11月7日】 - 新华网",
@@ -440,31 +460,35 @@
     },
     {
       "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5",
       "asOf": "2026-11-08T00:06:07+00:00"
-    },
-    {
-      "title": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
-      "asOf": "2026-11-08T00:00:59+00:00"
-    },
-    {
-      "title": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5",
-      "asOf": "2026-11-07T23:03:14+00:00"
-    },
-    {
-      "title": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
-      "asOf": "2026-11-07T21:36:52+00:00"
-    },
-    {
-      "title": "伊朗南部多地传出爆炸声 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5",
-      "asOf": "2026-11-07T21:34:41+00:00"
     }
   ],
   "events": [
+    {
+      "event": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
+      "published": "2026-11-08T02:57:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网"
+    },
+    {
+      "event": "第19届长江韬奋奖获奖者名单 - 新华网",
+      "published": "2026-11-08T02:42:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第19届长江韬奋奖获奖者名单 - 新华网"
+    },
+    {
+      "event": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网",
+      "published": "2026-11-08T02:33:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRkNWQ3NMQVhNNGVkYVl5RkdubVBEUHRpTjU3d1RQWFdZMFNxY2t4Z3NMRWNIdUZtYjlSUHEtM2tJcUo2d3AxdFRiQUpKMHR5WFZ4LWNIeWxmZUwtaldOTmx2X205MVI2T3RWX1lHQlp3ZUlfcFlj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "宽视角丨历史首次，中国空间站将迎来首位外籍航天员 - 新华网"
+    },
     {
       "event": "第36届中国新闻奖获奖作品目录 - 新华网",
       "published": "2026-11-08T02:27:56+00:00",
@@ -472,6 +496,14 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "第36届中国新闻奖获奖作品目录 - 新华网"
+    },
+    {
+      "event": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网",
+      "published": "2026-11-08T02:15:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91b1YyelBwcFM5TVFxYzgwSTlteGpndWlJajdURkFTRGpsWTBsNmtxS3dtbjNrcVR4bE5sZGtTMlhuSkJCei1QTlpWQ2FNYzUtMzRXdWNPbElTX29WVmp4dHUzRU1qQmhhNWxaLUVfdTZ3UU90WllJQ0lnN1hGa3c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "波兰媒体协会主席：中国发展彰显政策与经济协同效应 - 新华网"
     },
     {
       "event": "权威数读·观中国【11月1日-11月7日】 - 新华网",
@@ -509,41 +541,9 @@
       "event": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
       "published": "2026-11-08T00:06:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0FQbmNZdUZWVjhrVEZpUDZmRWFGdmxVaVR1eFhjaWtqbVFVZVNsbThZS29xWXlsMjg0TVc0azIxd044bGd4ZXk3d1lkUVRnd043SHY1ZnhvbldUWkpUVFYwMEFZXy1pS1ZQSm5mY0pDSEZkRXp0ZUVwOUhwTGl4N3dyQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2k2X3V0aGJxTG9LQ3k0dk84aWsyblR1WWxPYU1wVTZ5YURFZWwtY2ZZaDlBdnVZdEZ2U2xNZzZnaFlhTm54NlhDS1JHMU9Nb1pyWUFfU1Y3Nll0em9OMWJZdE0tV3VTcE9oWUhELXc0RllRd0JibE95WVpjSTl1cWxR?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
-    },
-    {
-      "event": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网",
-      "published": "2026-11-08T00:00:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWUliRUNzNjV0TlF5d2dsQVRORERWdzB2b2lPVkVBamwyZ3lZUmVscEUyb0doTWxSa1VIR0U1RHlMeHBVdnNoMFg4Xy1reEhFSEtfel9jdHJlNTVUNTM4RzE3T1lxSTlwQUlZYnMtRXQ2dExuMFRn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报丨第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓 - 新华网"
-    },
-    {
-      "event": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网",
-      "published": "2026-11-07T23:03:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaW9VODNla1pXeGNIaXVsYnVjNEV2eG9LYXBQZTNyVnhIVENZaE9oNW1pOC1zajlIOUN2QU95MUJVVlZwQ0J2dGV2TzJ1TkFLeFBwWGFnM1RydXc0Qlp1QUZxMk1KQjZPY1FzemkyMVhaZS1tWEt1WTRtZWd1QQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美军称在阿曼湾打击一艘“试图违反封锁”的货船 - 新华网"
-    },
-    {
-      "event": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网",
-      "published": "2026-11-07T21:36:52+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44SG16Uy1mSXVYd25UeUx4d0ZkQzVyNUVCcGh0eEZtMDRkN2V5UXY0N1dGbXR4cU0xc2J2blpXbUl3TkN5dXRtVjlXeHJvNzF0TTZWckpFWDFWcXdTenRYUzE0d1NPUVRtSzF1SkFsMTNfeTc4bl9pV3M1UUZ4RFU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "土耳其东部凡省发生一起交通事故致9死5伤 - 新华网"
-    },
-    {
-      "event": "伊朗南部多地传出爆炸声 - 新华网",
-      "published": "2026-11-07T21:34:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMEp6ZE1hRVdDRWlCQkJ4RDc2UUFQWVN1M0dlR21XVWpyMkFUVFZvckpkT1dOdF94b2RlUXE5cFEtSHVsbDJuM0ltQThIRFh0UXJfWmVRaEhYLXlPYUc1aFd0TlBDbzRydV9UNl9PRlNDQy1GSXFsdU81cUFLZFk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗南部多地传出爆炸声 - 新华网"
     }
   ],
   "quality": {
