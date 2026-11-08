@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-08",
-  "date": "更新于北京时间 2026-11-08 15:17",
+  "date": "更新于北京时间 2026-11-08 19:17",
   "reportDate": "2026-11-08",
-  "updatedAt": "2026-11-08T15:17:51+08:00",
+  "updatedAt": "2026-11-08T19:17:55+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.51 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "现场直击丨新一轮示威游行，巴黎民族广场爆发冲突 - 新华网",
+          "title": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T06:43:50+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:40:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02RklNcWRaMTJibC1MdnNadmYtYjI4dVEyZ1BfcEg3cUE4NF9QLWw0dWVxM2I2c3JUblFnQU5wMWg3Si1oMHRCd1RlMk9UclEybE1PYjdtVlkzZ3hWUGZWd2s1eVByUUVwdG9yNDJ3MUlfRm1wNS1GWUYzeEJfSkk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
+          "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T05:25:12+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:30:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "专访丨“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫 - 新华网",
+          "title": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T05:06:40+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:29:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOWJNZ243b1VqQVJsNEh0M2FYUW81QW1zUnhDNV8zd1JrblBLV1BiOThhU3BFU0tsUmNCNDQtTDR5NlNaM0czQjM3dHJKc2ZQX09FR1FoNmxCQUFMN05aOFo2U1pCck5xYmM2TEJaeXE3ZU5vamVtaHE5LVFtUTg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
+          "title": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T04:45:57+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:22:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "白俄罗斯国家通讯社社长安德烈·莫霍尔：人工智能将从三个方面改变媒体行业 - 新华网",
+          "title": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T04:18:21+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:15:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqMEpOM3l3ODZOWDB0VU1nVFJUQlVWa3pkYnhfLU82WkEtT0dGRzF1cmQwallOOUZOV2M3WVVKWkgxaGtYbzFGVDh0cFlwdTVuQnNiLU5ISmZ6cXN6SUZKZk1RT0NadnE3eDRXdnpPNU9zSnYwUDlz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会丨在进博会，遇见未来 - 新华网",
+          "title": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T03:25:15+00:00；来源：新华网。",
+            "发布时间：2026-11-08T10:04:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OQlE1SGhnblIwUEQxLWV3cmJuSjl1aWxMNDlGN1h1RDFBZXE2T3dXWFMwaEJZbmIzSnpSUDRBTFgzdnU4RWV2ZHVpbXNQMnNua0ZxVmk0bGYweG5lU2YzbmlxT2szZnZRMFFIN2hCYUx0bU9PT2Y0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
+          "title": "云南建设民族团结进步示范区谱新篇 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T02:57:19+00:00；来源：新华网。",
+            "发布时间：2026-11-08T09:59:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第19届长江韬奋奖获奖者名单 - 新华网",
+          "title": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T02:42:05+00:00；来源：新华网。",
+            "发布时间：2026-11-08T09:35:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会丨零关税举措落地半年 非洲嘉宾点赞中国机遇 - 新华网",
+          "title": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T02:39:19+00:00；来源：新华网。",
+            "发布时间：2026-11-08T09:06:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JSUxFS1A1TWZWM1ZXRmNFT3A5N3dlVWVyY1lPZXotNXhYOTFTd1QwQTl6Q0ZGYTRqalN1LW9uVXlzNWRzbXgycjlDVjlLQXZRbFJtU0JDaTBkQ1QzUFIwN0tsSGZUUDJRdldBVG13N1REcHFrOWtN?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第36届中国新闻奖获奖作品目录 - 新华网",
+          "title": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T02:27:56+00:00；来源：新华网。",
+            "发布时间：2026-11-08T08:58:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5"
             }
           ]
         }
@@ -379,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
@@ -389,13 +389,13 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
     },
     {
@@ -404,146 +404,146 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-05"
+      "title": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5",
+      "asOf": "2026-11-08T10:40:05+00:00"
     },
     {
-      "title": "现场直击丨新一轮示威游行，巴黎民族广场爆发冲突 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02RklNcWRaMTJibC1MdnNadmYtYjI4dVEyZ1BfcEg3cUE4NF9QLWw0dWVxM2I2c3JUblFnQU5wMWg3Si1oMHRCd1RlMk9UclEybE1PYjdtVlkzZ3hWUGZWd2s1eVByUUVwdG9yNDJ3MUlfRm1wNS1GWUYzeEJfSkk?oc=5",
-      "asOf": "2026-11-08T06:43:50+00:00"
+      "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5",
+      "asOf": "2026-11-08T10:30:26+00:00"
     },
     {
-      "title": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5",
-      "asOf": "2026-11-08T05:25:12+00:00"
+      "title": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5",
+      "asOf": "2026-11-08T10:29:40+00:00"
     },
     {
-      "title": "专访丨“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOWJNZ243b1VqQVJsNEh0M2FYUW81QW1zUnhDNV8zd1JrblBLV1BiOThhU3BFU0tsUmNCNDQtTDR5NlNaM0czQjM3dHJKc2ZQX09FR1FoNmxCQUFMN05aOFo2U1pCck5xYmM2TEJaeXE3ZU5vamVtaHE5LVFtUTg?oc=5",
-      "asOf": "2026-11-08T05:06:40+00:00"
+      "title": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5",
+      "asOf": "2026-11-08T10:22:37+00:00"
     },
     {
-      "title": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5",
-      "asOf": "2026-11-08T04:45:57+00:00"
+      "title": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5",
+      "asOf": "2026-11-08T10:15:37+00:00"
     },
     {
-      "title": "白俄罗斯国家通讯社社长安德烈·莫霍尔：人工智能将从三个方面改变媒体行业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqMEpOM3l3ODZOWDB0VU1nVFJUQlVWa3pkYnhfLU82WkEtT0dGRzF1cmQwallOOUZOV2M3WVVKWkgxaGtYbzFGVDh0cFlwdTVuQnNiLU5ISmZ6cXN6SUZKZk1RT0NadnE3eDRXdnpPNU9zSnYwUDlz?oc=5",
-      "asOf": "2026-11-08T04:18:21+00:00"
+      "title": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5",
+      "asOf": "2026-11-08T10:04:42+00:00"
     },
     {
-      "title": "第九届进博会丨在进博会，遇见未来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OQlE1SGhnblIwUEQxLWV3cmJuSjl1aWxMNDlGN1h1RDFBZXE2T3dXWFMwaEJZbmIzSnpSUDRBTFgzdnU4RWV2ZHVpbXNQMnNua0ZxVmk0bGYweG5lU2YzbmlxT2szZnZRMFFIN2hCYUx0bU9PT2Y0?oc=5",
-      "asOf": "2026-11-08T03:25:15+00:00"
+      "title": "云南建设民族团结进步示范区谱新篇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5",
+      "asOf": "2026-11-08T09:59:17+00:00"
     },
     {
-      "title": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5",
-      "asOf": "2026-11-08T02:57:19+00:00"
+      "title": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5",
+      "asOf": "2026-11-08T09:35:09+00:00"
     },
     {
-      "title": "第19届长江韬奋奖获奖者名单 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5",
-      "asOf": "2026-11-08T02:42:05+00:00"
+      "title": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5",
+      "asOf": "2026-11-08T09:06:44+00:00"
     },
     {
-      "title": "第九届进博会丨零关税举措落地半年 非洲嘉宾点赞中国机遇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JSUxFS1A1TWZWM1ZXRmNFT3A5N3dlVWVyY1lPZXotNXhYOTFTd1QwQTl6Q0ZGYTRqalN1LW9uVXlzNWRzbXgycjlDVjlLQXZRbFJtU0JDaTBkQ1QzUFIwN0tsSGZUUDJRdldBVG13N1REcHFrOWtN?oc=5",
-      "asOf": "2026-11-08T02:39:19+00:00"
-    },
-    {
-      "title": "第36届中国新闻奖获奖作品目录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
-      "asOf": "2026-11-08T02:27:56+00:00"
+      "title": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5",
+      "asOf": "2026-11-08T08:58:19+00:00"
     }
   ],
   "events": [
     {
-      "event": "现场直击丨新一轮示威游行，巴黎民族广场爆发冲突 - 新华网",
-      "published": "2026-11-08T06:43:50+00:00",
+      "event": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
+      "published": "2026-11-08T10:40:05+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02RklNcWRaMTJibC1MdnNadmYtYjI4dVEyZ1BfcEg3cUE4NF9QLWw0dWVxM2I2c3JUblFnQU5wMWg3Si1oMHRCd1RlMk9UclEybE1PYjdtVlkzZ3hWUGZWd2s1eVByUUVwdG9yNDJ3MUlfRm1wNS1GWUYzeEJfSkk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "现场直击丨新一轮示威游行，巴黎民族广场爆发冲突 - 新华网"
+      "originalTitle": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网"
     },
     {
-      "event": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网",
-      "published": "2026-11-08T05:25:12+00:00",
+      "event": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
+      "published": "2026-11-08T10:30:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTZjSWlqdU5lZDQ4dXBxdExsckFlR2E0ZHRZUEc3cjNxRUdtVzVYVC1zT2c5Qjc3NVZySWpPVHliYUt0bUlkUHpXWVczSlpRMHRabFJMMGV5Q3JjNG5hbjNCUGd4ZGpMRW1Xdlp0ajMzSVdHRWI3MEk4X3NDMEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "委内瑞拉南方电视台台长比列加斯：人工智能关乎各国信息主权 - 新华网"
+      "originalTitle": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网"
     },
     {
-      "event": "专访丨“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫 - 新华网",
-      "published": "2026-11-08T05:06:40+00:00",
+      "event": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
+      "published": "2026-11-08T10:29:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOWJNZ243b1VqQVJsNEh0M2FYUW81QW1zUnhDNV8zd1JrblBLV1BiOThhU3BFU0tsUmNCNDQtTDR5NlNaM0czQjM3dHJKc2ZQX09FR1FoNmxCQUFMN05aOFo2U1pCck5xYmM2TEJaeXE3ZU5vamVtaHE5LVFtUTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "专访丨“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫 - 新华网"
+      "originalTitle": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网"
     },
     {
-      "event": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网",
-      "published": "2026-11-08T04:45:57+00:00",
+      "event": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
+      "published": "2026-11-08T10:22:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzRGOFkxVF9Gbm80OUNqNEM1bzMwUG4zLVRwRUhodmRrQ2FnQktvX2NfUlphSWVwODF3Q0pvTzVEaTF0WXdtNVBhS3drRmRBTGdCRXY0MGtTaC1nYWV5SW0zaE14RlJtTlBaQ2JMcnZGUHdSR2ptaDc1NlhSVm9YTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "进博“心声好物”落地日常：优衣库开启“感谢季”回馈消费者 - 新华网"
+      "originalTitle": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网"
     },
     {
-      "event": "白俄罗斯国家通讯社社长安德烈·莫霍尔：人工智能将从三个方面改变媒体行业 - 新华网",
-      "published": "2026-11-08T04:18:21+00:00",
+      "event": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
+      "published": "2026-11-08T10:15:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqMEpOM3l3ODZOWDB0VU1nVFJUQlVWa3pkYnhfLU82WkEtT0dGRzF1cmQwallOOUZOV2M3WVVKWkgxaGtYbzFGVDh0cFlwdTVuQnNiLU5ISmZ6cXN6SUZKZk1RT0NadnE3eDRXdnpPNU9zSnYwUDlz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "白俄罗斯国家通讯社社长安德烈·莫霍尔：人工智能将从三个方面改变媒体行业 - 新华网"
+      "originalTitle": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网"
     },
     {
-      "event": "第九届进博会丨在进博会，遇见未来 - 新华网",
-      "published": "2026-11-08T03:25:15+00:00",
+      "event": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
+      "published": "2026-11-08T10:04:42+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OQlE1SGhnblIwUEQxLWV3cmJuSjl1aWxMNDlGN1h1RDFBZXE2T3dXWFMwaEJZbmIzSnpSUDRBTFgzdnU4RWV2ZHVpbXNQMnNua0ZxVmk0bGYweG5lU2YzbmlxT2szZnZRMFFIN2hCYUx0bU9PT2Y0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨在进博会，遇见未来 - 新华网"
+      "originalTitle": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网"
     },
     {
-      "event": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网",
-      "published": "2026-11-08T02:57:19+00:00",
+      "event": "云南建设民族团结进步示范区谱新篇 - 新华网",
+      "published": "2026-11-08T09:59:17+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNFlkblQzQ2FzYlpqWURySHFsMjNzTWVnQl9UQUpGYzc1bHB2cWVMVHhaVDFBRTJUcEJpMmxfdktGSlQzM2EzTEo3NW1TMkxDWnduc1ZFVmJsZzFMMlJndE4zMlNnOGtDS0lFQTVvdW5FOE5va21Z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "巴拉圭检方正式起诉前总统 新总统承诺保障民众权益 - 新华网"
+      "originalTitle": "云南建设民族团结进步示范区谱新篇 - 新华网"
     },
     {
-      "event": "第19届长江韬奋奖获奖者名单 - 新华网",
-      "published": "2026-11-08T02:42:05+00:00",
+      "event": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
+      "published": "2026-11-08T09:35:09+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZpM1VDU1Z2dnhQVW04VTZFczlfd2s4LVBMUldEd1hQejhxX2NpcWRJblVPLTNPWlJJSHRIbWRCVjRDUUMtQXB5Z290bWJVQ1o1TGhfR3FiSW9scE94MkQ4dS00VkxxbEtudUVEdW5MLWVUTm5ZVmRjWkxkeTZXTGZnZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第19届长江韬奋奖获奖者名单 - 新华网"
+      "originalTitle": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网"
     },
     {
-      "event": "第九届进博会丨零关税举措落地半年 非洲嘉宾点赞中国机遇 - 新华网",
-      "published": "2026-11-08T02:39:19+00:00",
+      "event": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
+      "published": "2026-11-08T09:06:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JSUxFS1A1TWZWM1ZXRmNFT3A5N3dlVWVyY1lPZXotNXhYOTFTd1QwQTl6Q0ZGYTRqalN1LW9uVXlzNWRzbXgycjlDVjlLQXZRbFJtU0JDaTBkQ1QzUFIwN0tsSGZUUDJRdldBVG13N1REcHFrOWtN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨零关税举措落地半年 非洲嘉宾点赞中国机遇 - 新华网"
+      "originalTitle": "第九届进博会丨亚欧展商的“进博之约” - 新华网"
     },
     {
-      "event": "第36届中国新闻奖获奖作品目录 - 新华网",
-      "published": "2026-11-08T02:27:56+00:00",
+      "event": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
+      "published": "2026-11-08T08:58:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCS3Qxd3VFTjlkY0dzZ0VZVE0zdW56NmJCQ0syaHFIUmp0TTdjZVBYRGlYQ1dIMFpZLU9MMXpmd2lUVnEya0ZORVpDYnZJN1JjZlJINlkzWjhTQ2k2MTFNcTRlcDJEQ3RYWmlueUxSUUw1Tk5ITVR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第36届中国新闻奖获奖作品目录 - 新华网"
+      "originalTitle": "当媒体遇上AI：世界媒体共探转型之路 - 新华网"
     }
   ],
   "quality": {
@@ -556,6 +556,8 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "中国证券网原文: URLError"
+    ]
   }
 }
