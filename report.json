@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-08",
-  "date": "更新于北京时间 2026-11-08 19:17",
-  "reportDate": "2026-11-08",
-  "updatedAt": "2026-11-08T19:17:55+08:00",
+  "edition": "财经晨报 · 2026-11-09",
+  "date": "更新于北京时间 2026-11-09 08:50",
+  "reportDate": "2026-11-09",
+  "updatedAt": "2026-11-09T08:50:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-08 财经资料（待核验）",
+    "title": "2026-11-09 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.84 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
+          "title": "世界各大媒体“掌门人”为何齐聚北京",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:40:05+00:00；来源：新华网。",
+            "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825857"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
+          "title": "上证早知道｜603595，引入广东天域半导体；601595，机构席位净买入6954.67万元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:30:26+00:00；来源：新华网。",
+            "发布时间：2026-11-09T08:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825848"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
+          "title": "稳市政策持续加码 机构：A股震荡反弹行情有望延续",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:29:40+00:00；来源：新华网。",
+            "发布时间：2026-11-09T08:17:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825854"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
+          "title": "海外长钱“叩门” 私募出海走向纵深",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:22:37+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:54:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825832"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
+          "title": "“T类份额”来了 基金投顾机构火速响应",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:15:37+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:54:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825831"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
+          "title": "新型电网，如何扣住“网眼”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T10:04:42+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825822"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "云南建设民族团结进步示范区谱新篇 - 新华网",
+          "title": "我国成功发射卫星互联网低轨29组卫星",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T09:59:17+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:20:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825821"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
+          "title": "超越煤电，光伏成为我国装机第一大电源——一束光改写电力版图 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T09:35:09+00:00；来源：新华网。",
+            "发布时间：2026-11-08T23:47:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Wa0hBR09zczFNTWFUS1lpS1diTHZmQVMxRWlCLWs5X01mdklzMUlOS2h0SHBnS3lRYW9PdkhRdTh6bzJ3RHRPUmo0Z0NzYlF1VmtIV3VPOG5TYXJIRkFwUjFxRFItcF8wSThFM1VTTnZtaml4TktJ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
+          "title": "书里长出“双头虾”，病根不在AI - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T09:06:44+00:00；来源：新华网。",
+            "发布时间：2026-11-08T23:47:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Yejk5am15clpCVXlqM2JIclJ3VVB5U0xLajRzajAybi1YRFo0MXliMWYwaURGeUU2OGhPdS1STmc5dXJLN21udzhkTFQwX19ab3ZlNVNFM2pfS2dQYmhyOWJmM2pLNnVES3hwdkZvUUJvcnp1YVNN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
+          "title": "伊拉克北部库区天然气田遭无人机袭击 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-08T08:58:19+00:00；来源：新华网。",
+            "发布时间：2026-11-08T23:17:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbHhQLTNaNXpBeXhzUjB6YWpjNU0tcWp3ZXZfWUV0RTV4QzJVeTg1WFY3SDZSZVBnSUxRd1BldjlpajBtZEdubEF4dUNkZGpyTWEwdlhqa0YzejVzM0huM05wZmwxbFhOMjlFb0xMZXN5M2xrN0R4emUtNkxpZw?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 31 课：情景分析",
+      "title": "第 32 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-06"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
     },
     {
@@ -399,151 +389,161 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5",
-      "asOf": "2026-11-08T10:40:05+00:00"
+      "title": "世界各大媒体“掌门人”为何齐聚北京",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "asOf": "2026-11-09T08:25:00+08:00"
     },
     {
-      "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5",
-      "asOf": "2026-11-08T10:30:26+00:00"
+      "title": "上证早知道｜603595，引入广东天域半导体；601595，机构席位净买入6954.67万元",
+      "url": "https://www.cnstock.com/commonDetail/825848",
+      "asOf": "2026-11-09T08:17:00+08:00"
     },
     {
-      "title": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5",
-      "asOf": "2026-11-08T10:29:40+00:00"
+      "title": "稳市政策持续加码 机构：A股震荡反弹行情有望延续",
+      "url": "https://www.cnstock.com/commonDetail/825854",
+      "asOf": "2026-11-09T08:17:00+08:00"
     },
     {
-      "title": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5",
-      "asOf": "2026-11-08T10:22:37+00:00"
+      "title": "海外长钱“叩门” 私募出海走向纵深",
+      "url": "https://www.cnstock.com/commonDetail/825832",
+      "asOf": "2026-11-09T07:54:00+08:00"
     },
     {
-      "title": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5",
-      "asOf": "2026-11-08T10:15:37+00:00"
+      "title": "“T类份额”来了 基金投顾机构火速响应",
+      "url": "https://www.cnstock.com/commonDetail/825831",
+      "asOf": "2026-11-09T07:54:00+08:00"
     },
     {
-      "title": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5",
-      "asOf": "2026-11-08T10:04:42+00:00"
+      "title": "新型电网，如何扣住“网眼”",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "云南建设民族团结进步示范区谱新篇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5",
-      "asOf": "2026-11-08T09:59:17+00:00"
+      "title": "我国成功发射卫星互联网低轨29组卫星",
+      "url": "https://www.cnstock.com/commonDetail/825821",
+      "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5",
-      "asOf": "2026-11-08T09:35:09+00:00"
+      "title": "超越煤电，光伏成为我国装机第一大电源——一束光改写电力版图 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Wa0hBR09zczFNTWFUS1lpS1diTHZmQVMxRWlCLWs5X01mdklzMUlOS2h0SHBnS3lRYW9PdkhRdTh6bzJ3RHRPUmo0Z0NzYlF1VmtIV3VPOG5TYXJIRkFwUjFxRFItcF8wSThFM1VTTnZtaml4TktJ?oc=5",
+      "asOf": "2026-11-08T23:47:40+00:00"
     },
     {
-      "title": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5",
-      "asOf": "2026-11-08T09:06:44+00:00"
+      "title": "书里长出“双头虾”，病根不在AI - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Yejk5am15clpCVXlqM2JIclJ3VVB5U0xLajRzajAybi1YRFo0MXliMWYwaURGeUU2OGhPdS1STmc5dXJLN21udzhkTFQwX19ab3ZlNVNFM2pfS2dQYmhyOWJmM2pLNnVES3hwdkZvUUJvcnp1YVNN?oc=5",
+      "asOf": "2026-11-08T23:47:19+00:00"
     },
     {
-      "title": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5",
-      "asOf": "2026-11-08T08:58:19+00:00"
+      "title": "伊拉克北部库区天然气田遭无人机袭击 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbHhQLTNaNXpBeXhzUjB6YWpjNU0tcWp3ZXZfWUV0RTV4QzJVeTg1WFY3SDZSZVBnSUxRd1BldjlpajBtZEdubEF4dUNkZGpyTWEwdlhqa0YzejVzM0huM05wZmwxbFhOMjlFb0xMZXN5M2xrN0R4emUtNkxpZw?oc=5",
+      "asOf": "2026-11-08T23:17:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网",
-      "published": "2026-11-08T10:40:05+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80bmZ1NjhKM3VwUy1yTUc4QkJUMm9vOUpzTkloYnBMWlIzZGhaOUpacWx0SmEzQ0FRSXRuUV9ON1c3Q0FKWVlFYWF6UlJkNWVjbG5qdzE4MXJsR3Jfb1JKR1Fsb0Q0RWNabzNYSzFoazktbVVFckRPa28zbTNNdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "进博会上乳业“链主”再出发：伊利用全球资源为你做一杯好奶 - 新华网"
+      "event": "世界各大媒体“掌门人”为何齐聚北京",
+      "originalTitle": "世界各大媒体“掌门人”为何齐聚北京",
+      "published": "2026-11-09T08:25:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网",
-      "published": "2026-11-08T10:30:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VWjhSYUh6a3pBdnRCWkt2T21jWERvLVowajN4SVoyVk9fdk14dkxkRXlFVTFsVHd2dDdrVzlOSi1KYndNTDFnNHo3bGJfSEhlYzhnV0ZBcWFTSTNyX3I3U2FpWTFMZ0QzRDlWbW5EY203QWFYaXR6Q29BZ2ZoN28?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "山西太原一高层建筑发生火灾 消防人员仍在扑救 - 新华网"
+      "event": "上证早知道｜603595，引入广东天域半导体；601595，机构席位净买入6954.67万元",
+      "originalTitle": "上证早知道｜603595，引入广东天域半导体；601595，机构席位净买入6954.67万元",
+      "published": "2026-11-09T08:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825848",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网",
-      "published": "2026-11-08T10:29:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNE5zbWkwUXZ2UGZlRnBsUzZlaWF4a1ZpdWZhcGwwZ0NWQ1kwSzR0cGJ4MnhjR1BUTTlLZzNDTHpGQy1zMGFTM0Z4WnBROXNqQXo2dFhjVUlwdmZLTnJmUXBid2l3VXRqT0wwY3p2QS1uc1RlMldj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "专访丨人工智能是高效工具，但新闻决定权仍属于人——访法新社社长弗里 - 新华网"
+      "event": "稳市政策持续加码 机构：A股震荡反弹行情有望延续",
+      "originalTitle": "稳市政策持续加码 机构：A股震荡反弹行情有望延续",
+      "published": "2026-11-09T08:17:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825854",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网",
-      "published": "2026-11-08T10:22:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUmFJMUdGVWVLSWg5aW5zRWdGWkE1dmhLdE9qX0ozMUhIWFNrbXhKTTRjUEdhRU5PZGdJZUZBc2hqVmF1RnVrSHpEdW9jUk56cEp1dVdIdEU5WVpqaEZ0NWh6aXNzYm9NTFNWWm5vQ0k4b3FKN0l3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济看“新”丨好物乘风，跨境电商踏浪远航 - 新华网"
+      "event": "海外长钱“叩门” 私募出海走向纵深",
+      "originalTitle": "海外长钱“叩门” 私募出海走向纵深",
+      "published": "2026-11-09T07:54:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825832",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网",
-      "published": "2026-11-08T10:15:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMWtBbTY2YTYwMVVfSzlxNzAtV2oyNVBDd3EyRm94X0RvZE16ek1faWNiYkJGam5GTzJud2s4VzFmend2VUJqTzhxQ3FiUzRCQVN4R0RKbGlhUzdEcTh3VjVSWng0aWJmMUlyM3RxTnhGN3AyZmowbE5EMUR1SHc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "财经聚焦·第九届进博会丨九届全勤，这些外企为何钟爱进博会 - 新华网"
+      "event": "“T类份额”来了 基金投顾机构火速响应",
+      "originalTitle": "“T类份额”来了 基金投顾机构火速响应",
+      "published": "2026-11-09T07:54:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825831",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网",
-      "published": "2026-11-08T10:04:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORFVaR0tyZDRUV3hrQTF3bWx6RTJmV2szQklfUWtRN0JPdHFvVVhVT1JvTEZlM0hxemN6YUpxb3RoTkxEYkxFZThPcl9BV2t2RTB4azBEQ3VEbC1ZNEktU0JIV0FqeWNMc1hiNnJOZTJ4ck80LWtV?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "沙特首都一栋沙特阿美公司建筑遭袭受损 - 新华网"
+      "event": "新型电网，如何扣住“网眼”",
+      "originalTitle": "新型电网，如何扣住“网眼”",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "云南建设民族团结进步示范区谱新篇 - 新华网",
-      "published": "2026-11-08T09:59:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWNMM281eWstcE04X3BvdERXSGthbnZma25OdUYyYXh1RHFSNVFDaC1CU3YxX2JnNnZ1NGxkY2hROEJuRjZCTDh3azZhdjZvWk5ubkREUnNfLWFzcGM3M3RyQ25LS05pa0s4cThWamZuaV90N0kwYXZydWtnT29ERFJBdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "云南建设民族团结进步示范区谱新篇 - 新华网"
+      "event": "我国成功发射卫星互联网低轨29组卫星",
+      "originalTitle": "我国成功发射卫星互联网低轨29组卫星",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825821",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网",
-      "published": "2026-11-08T09:35:09+00:00",
+      "event": "超越煤电，光伏成为我国装机第一大电源——一束光改写电力版图 - 新华网",
+      "published": "2026-11-08T23:47:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qeDFlRlpwS21meDZWZWhrLS1zNi14RXh2UTRnc1hzdkRoajZWcGc3bE5hZnRZRnJBRXRYazdGZXJyakExNWw5TFM5SlFNMVdpTEFfU0ZlbTdwXzhDVlQwUDhvU2lSbEU4OHNEVEZIRDh4M3ZoLTZqd3g1S3FLZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Wa0hBR09zczFNTWFUS1lpS1diTHZmQVMxRWlCLWs5X01mdklzMUlOS2h0SHBnS3lRYW9PdkhRdTh6bzJ3RHRPUmo0Z0NzYlF1VmtIV3VPOG5TYXJIRkFwUjFxRFItcF8wSThFM1VTTnZtaml4TktJ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨在进博会，看科技改写日常的N种方式 - 新华网"
+      "originalTitle": "超越煤电，光伏成为我国装机第一大电源——一束光改写电力版图 - 新华网"
     },
     {
-      "event": "第九届进博会丨亚欧展商的“进博之约” - 新华网",
-      "published": "2026-11-08T09:06:44+00:00",
+      "event": "书里长出“双头虾”，病根不在AI - 新华网",
+      "published": "2026-11-08T23:47:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbEpVYWYwTzdhcGtQRUtrSnJTTk9meEJhZ2ItdVV4Vk1fV1hZbENpaDBwYnpGQk1XakVuS2hkMUtFVXRJbDByZDJ6eElTSFgtNTRNbFphWWNVYkpXNmJPVWxWSHVNWTlkV2tFSFNDLXhOcENvaldUbXVaV1QzQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Yejk5am15clpCVXlqM2JIclJ3VVB5U0xLajRzajAybi1YRFo0MXliMWYwaURGeUU2OGhPdS1STmc5dXJLN21udzhkTFQwX19ab3ZlNVNFM2pfS2dQYmhyOWJmM2pLNnVES3hwdkZvUUJvcnp1YVNN?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨亚欧展商的“进博之约” - 新华网"
+      "originalTitle": "书里长出“双头虾”，病根不在AI - 新华网"
     },
     {
-      "event": "当媒体遇上AI：世界媒体共探转型之路 - 新华网",
-      "published": "2026-11-08T08:58:19+00:00",
+      "event": "伊拉克北部库区天然气田遭无人机袭击 - 新华网",
+      "published": "2026-11-08T23:17:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WTVXR0ZKMHY3X1llUk1BRXpOdG5VWFVVTUlUaVl3WHh5UGpWd0FCeUcwRmt6cDNLNE52V2tteDdxRDN0Yld5Q0U5Q1J4eDlMMEdvVnpzYmd2TDhsTU5taWhua05CVEJVdE9jNU9LMXJma0NvcDg0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbHhQLTNaNXpBeXhzUjB6YWpjNU0tcWp3ZXZfWUV0RTV4QzJVeTg1WFY3SDZSZVBnSUxRd1BldjlpajBtZEdubEF4dUNkZGpyTWEwdlhqa0YzejVzM0huM05wZmwxbFhOMjlFb0xMZXN5M2xrN0R4emUtNkxpZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "当媒体遇上AI：世界媒体共探转型之路 - 新华网"
+      "originalTitle": "伊拉克北部库区天然气田遭无人机袭击 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
