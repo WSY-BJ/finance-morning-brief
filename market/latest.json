@@ -1,25 +1,29 @@
 {
   "schema": "market_quotes_v1",
-  "collected_at_bjt": "2026-11-09T15:38:56+08:00",
+  "collected_at_bjt": "2026-11-10T01:48:10+08:00",
   "market_phase_by_clock": "outside_session",
   "quality": "ok",
   "total_symbols": 13,
   "quotes": [
     {
       "symbol": "sz159562",
-      "name": "黄金股ETF华夏",
+      "name": "黄金股",
       "price": 1.912,
       "previous_close": 1.886,
       "open": 1.916,
       "high": 1.937,
       "low": 1.9,
       "change_percent": 1.3786,
-      "volume_lots": 654290.0,
-      "turnover_cny": 125490000.0,
-      "quote_time": "2026-11-09T15:38:54+08:00",
-      "source": "tencent",
-      "age_seconds_at_collection": 2,
-      "quality": "cross_checked"
+      "volume_lots": 654290.09,
+      "turnover_cny": 125486959.445,
+      "quote_time": "2026-11-09T16:29:30+08:00",
+      "source": "sina",
+      "age_seconds_at_collection": 33520,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "tencent"
+      }
     },
     {
       "symbol": "sh518880",
@@ -32,10 +36,14 @@
       "change_percent": 1.4783,
       "volume_lots": 4128254.0,
       "turnover_cny": 3468430000.0,
-      "quote_time": "2026-11-09T15:38:49+08:00",
+      "quote_time": "2026-11-09T16:14:49+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 7,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34401,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh000001",
@@ -48,10 +56,14 @@
       "change_percent": 0.3182,
       "volume_lots": 427722257.0,
       "turnover_cny": 682532600000.0,
-      "quote_time": "2026-11-09T15:38:28+08:00",
+      "quote_time": "2026-11-09T16:14:28+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 28,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34422,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh000300",
@@ -64,10 +76,14 @@
       "change_percent": 0.0451,
       "volume_lots": 158374872.0,
       "turnover_cny": 395205080000.0,
-      "quote_time": "2026-11-09T15:38:10+08:00",
+      "quote_time": "2026-11-09T16:14:10+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 46,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34440,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sz399001",
@@ -80,9 +96,9 @@
       "change_percent": -0.271,
       "volume_lots": 514921429.0,
       "turnover_cny": 800080740000.0,
-      "quote_time": "2026-11-09T15:38:36+08:00",
+      "quote_time": "2026-11-09T16:14:36+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 20,
+      "age_seconds_at_collection": 34414,
       "quality": "single_source",
       "comparison": {
         "status": "secondary_too_old",
@@ -100,9 +116,9 @@
       "change_percent": -0.2706,
       "volume_lots": 165434913.0,
       "turnover_cny": 402067800000.0,
-      "quote_time": "2026-11-09T15:38:51+08:00",
+      "quote_time": "2026-11-09T16:14:51+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 5,
+      "age_seconds_at_collection": 34399,
       "quality": "single_source",
       "comparison": {
         "status": "secondary_too_old",
@@ -120,10 +136,14 @@
       "change_percent": 0.1455,
       "volume_lots": 10649267.0,
       "turnover_cny": 4411100000.0,
-      "quote_time": "2026-11-09T15:38:53+08:00",
+      "quote_time": "2026-11-09T16:14:57+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 3,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34393,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh512800",
@@ -136,10 +156,14 @@
       "change_percent": 0.9122,
       "volume_lots": 20056448.0,
       "turnover_cny": 1770100000.0,
-      "quote_time": "2026-11-09T15:38:44+08:00",
+      "quote_time": "2026-11-09T16:15:00+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 12,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34390,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh515080",
@@ -152,10 +176,14 @@
       "change_percent": 0.7038,
       "volume_lots": 1603635.0,
       "turnover_cny": 251920000.0,
-      "quote_time": "2026-11-09T15:38:33+08:00",
+      "quote_time": "2026-11-09T16:15:00+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 23,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34390,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh512480",
@@ -168,10 +196,14 @@
       "change_percent": 0.0,
       "volume_lots": 9911816.0,
       "turnover_cny": 772510000.0,
-      "quote_time": "2026-11-09T15:38:54+08:00",
+      "quote_time": "2026-11-09T16:14:54+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 2,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34396,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh588000",
@@ -184,10 +216,14 @@
       "change_percent": 0.0754,
       "volume_lots": 53315029.0,
       "turnover_cny": 7127770000.0,
-      "quote_time": "2026-11-09T15:38:54+08:00",
+      "quote_time": "2026-11-09T16:14:54+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 2,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34396,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh561980",
@@ -200,10 +236,14 @@
       "change_percent": -0.7812,
       "volume_lots": 4842504.0,
       "turnover_cny": 247670000.0,
-      "quote_time": "2026-11-09T15:38:43+08:00",
+      "quote_time": "2026-11-09T16:14:43+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 13,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34407,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     },
     {
       "symbol": "sh563300",
@@ -216,10 +256,14 @@
       "change_percent": 0.3205,
       "volume_lots": 4615615.0,
       "turnover_cny": 582600000.0,
-      "quote_time": "2026-11-09T15:38:42+08:00",
+      "quote_time": "2026-11-09T16:14:42+08:00",
       "source": "tencent",
-      "age_seconds_at_collection": 14,
-      "quality": "cross_checked"
+      "age_seconds_at_collection": 34408,
+      "quality": "single_source",
+      "comparison": {
+        "status": "secondary_too_old",
+        "source": "sina"
+      }
     }
   ],
   "source_urls": [
