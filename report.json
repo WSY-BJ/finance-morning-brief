@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 09:58",
+  "date": "更新于北京时间 2026-11-09 10:52",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T09:58:06+08:00",
+  "updatedAt": "2026-11-09T10:52:43+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.51 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,152 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "举重世锦赛：乌兹别克斯坦名将夺冠破纪录 刘焕华带伤出征 - 新华网",
+          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:32:10+00:00；来源：新华网。",
+            "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45SUs5NVJNS3d5LUE5enhzNTRSc1dkX2ZUTnN2YWxwaXpVRzZ1S1VzTzU4ZVNiOWhsZHhndUgxRDNfQzZlVXRWODlVZXNrZWR6MUZ1TVU1T1lRRURGM2xBWnYxNWRqZmVJMEluNUU0VWVRSWZ2bEVkVEVWRFBzQjQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825900"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国女子冰球职业联赛首站在唐山收官 - 新华网",
+          "title": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:30:47+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-09T09:48:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据国家统计局11月9日消息，10月份，居民消费价格指数（CPI）环比持平；同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点。工业生产者出厂价格指"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScHJzelgtQnFKcXp5U0FXQWVSVXZlTlhJNlkxclZRRk9kV3MwX0RWOGZDWE1jVmVqOWlpaHJPMGRxVjNLMXNyZzlueV92eUpyYm9HQlFkSHpmdldNZDlkeWNGQk9GanRSVnlyMmRodU10RjI5czFKTWpDZy10MWc?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825880"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "花滑中国杯：千叶百音领跑女单 中国选手有突破 - 新华网",
+          "title": "世界各大媒体“掌门人”为何齐聚北京",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:29:54+00:00；来源：新华网。",
+            "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MWxBczVEYzJYTmY4S3hVb0tmV21NT2pZcXlxRk9DeWdiRFNhTFNLb0kwaDc1QXhYUEpqYlhKR3piSkVFdXdVR0t6dkY5TUVFdDhqdDJ6ZGVHdUhQQUZVdG9nbEtCelBtTHQza3hmXzlpeE9mM3ZNZ2EydGR4dGs?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825857"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青岛西海岸女足冲超成功 - 新华网",
+          "title": "我国成功发射卫星互联网低轨29组卫星",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:28:12+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:20:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MVJ2MjIybUxXWmNmNXFsNkhGUGctdUJhS21nbl9wTEQzcndfX3R0QlNURWVvcG11RUlsRDlaTmJXS1A3UkxwOTFzV3hLYW4xbHBUNmtRWEg3Wno3VExEcGFNYnBPck1xUUNIQ1NkRWtBMkZ1M0NKX2kzUzd4VjQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825821"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "对接产业需求，深化产教融合——上海职教培育“新质工匠” - 新华网",
+          "title": "新型电网，如何扣住“网眼”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:28:11+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ybElNdFcyRElGUnAtNVpxM2ZQOEF6M3U2RG54cERUNV9vc19wempPN2tSMzRtYURqUi1jOFMtT09ELUg2Z2htVjdLcmFWenI3N3RUcEFpbWlsOEpPSmFIZGt6U2IzV2VWWF9hTjN3TjZYYjFPRkYzMHVXV1pRUQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825822"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "斯诺克国锦赛：常冰玉无缘决赛 - 新华网",
+          "title": "AI算力催动 国产先进封测迎来产业升级机遇",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:25:23+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0xIQk1TcXhOWkRiaWhLUmJlOHZoWGdHVmJGN3NqQnZDc3ZmR3RYc2NOOFcwREdLMWZSdjc2UkE2Rk9rRHZ3T1RXZlNOdWtOQm9ZTkxBaG5QX1NfYXJyN01wRlBaY01yelVkMHFxLXRXTnloZlkyT2xnSlItRF9uQg?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/825825"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国足协公布2027赛季男足竞赛日历 - 新华网",
+          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:22:09+00:00；来源：新华网。",
+            "发布时间：2026-11-09T02:42:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTBjRGJ6WW9HUTQ3ZmQyNnJneGNWeXJrRlRQY2RPWUNUckZlNVlZOFNqdDYxdktGSE9QVkQ5VmYxTEp0LVlRQUtKeEczNDBhSUVfVjBzeFNGeUVtTm5IUkZQaGRIMkJETUVGOWdZa2lzci1BQmo1N05DMEFyWWY5Sw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "智能向实 人才向新 合作向深——从2026自动化大会看产业新趋势 - 新华网",
+          "title": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:11:44+00:00；来源：新华网。",
+            "发布时间：2026-11-09T02:27:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SEJlTGE3cWs0b2k4bnRCcmFEUHZzSF9XTXFfSWc5ejZNNFdKOHBWN1NFNlZZRXZOTzJYRUtyZHpMY2xPQ01YVnNtSFNFa3dELUJBLS1UWDh4dE5JWkFvcGZqRVJLTzhZbjMxZ1R0SDdFZ3R6M0xEeXZSU2Q?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第九届进博会|人机乒乓球赛，开始 - 新华网",
+          "title": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:11:17+00:00；来源：新华网。",
+            "发布时间：2026-11-09T02:27:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GOThodDJzaTI5dHd6NHgxR21JNjdYeWpGNC1oTjREREktaXZtalhsc0pBOG5vNGRMU21GTEM0QXVqaUJ2OWZKa1FXZXFIR29QRGstSmhyNWRFOE1nWkRoajg3bDNBbnd6czd2VGxLbW9odUFYVERXc1k4SmY?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江苏连云港：“双十一”临近 智能分拣保障寄递 - 新华网",
+          "title": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T01:11:08+00:00；来源：新华网。",
+            "发布时间：2026-11-09T02:23:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YNjJRcFFtdU51UGY0bnlOa2V3c2VaeDJZdXdQZ2xjRDZYSHpEREVIQm12djhhWHpqemNISlNmblZ1V1VTT1BaaGhtNEdzS2l1UnJmTWFxLXZFcFBkc2FhWEY4TFNXczhvU19EUVJ6VjB1bFNVUm1fWjlKekg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5"
             }
           ]
         }
@@ -384,6 +385,11 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
@@ -394,13 +400,13 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-06"
     },
     {
@@ -409,141 +415,143 @@
       "asOf": "2026-11-05"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-05"
+      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "asOf": "2026-11-09T10:40:00+08:00"
     },
     {
-      "title": "举重世锦赛：乌兹别克斯坦名将夺冠破纪录 刘焕华带伤出征 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45SUs5NVJNS3d5LUE5enhzNTRSc1dkX2ZUTnN2YWxwaXpVRzZ1S1VzTzU4ZVNiOWhsZHhndUgxRDNfQzZlVXRWODlVZXNrZWR6MUZ1TVU1T1lRRURGM2xBWnYxNWRqZmVJMEluNUU0VWVRSWZ2bEVkVEVWRFBzQjQ?oc=5",
-      "asOf": "2026-11-09T01:32:10+00:00"
+      "title": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
+      "url": "https://www.cnstock.com/commonDetail/825880",
+      "asOf": "2026-11-09T09:48:00+08:00"
     },
     {
-      "title": "中国女子冰球职业联赛首站在唐山收官 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScHJzelgtQnFKcXp5U0FXQWVSVXZlTlhJNlkxclZRRk9kV3MwX0RWOGZDWE1jVmVqOWlpaHJPMGRxVjNLMXNyZzlueV92eUpyYm9HQlFkSHpmdldNZDlkeWNGQk9GanRSVnlyMmRodU10RjI5czFKTWpDZy10MWc?oc=5",
-      "asOf": "2026-11-09T01:30:47+00:00"
+      "title": "世界各大媒体“掌门人”为何齐聚北京",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "asOf": "2026-11-09T08:25:00+08:00"
     },
     {
-      "title": "花滑中国杯：千叶百音领跑女单 中国选手有突破 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MWxBczVEYzJYTmY4S3hVb0tmV21NT2pZcXlxRk9DeWdiRFNhTFNLb0kwaDc1QXhYUEpqYlhKR3piSkVFdXdVR0t6dkY5TUVFdDhqdDJ6ZGVHdUhQQUZVdG9nbEtCelBtTHQza3hmXzlpeE9mM3ZNZ2EydGR4dGs?oc=5",
-      "asOf": "2026-11-09T01:29:54+00:00"
+      "title": "我国成功发射卫星互联网低轨29组卫星",
+      "url": "https://www.cnstock.com/commonDetail/825821",
+      "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "青岛西海岸女足冲超成功 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MVJ2MjIybUxXWmNmNXFsNkhGUGctdUJhS21nbl9wTEQzcndfX3R0QlNURWVvcG11RUlsRDlaTmJXS1A3UkxwOTFzV3hLYW4xbHBUNmtRWEg3Wno3VExEcGFNYnBPck1xUUNIQ1NkRWtBMkZ1M0NKX2kzUzd4VjQ?oc=5",
-      "asOf": "2026-11-09T01:28:12+00:00"
+      "title": "新型电网，如何扣住“网眼”",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "对接产业需求，深化产教融合——上海职教培育“新质工匠” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ybElNdFcyRElGUnAtNVpxM2ZQOEF6M3U2RG54cERUNV9vc19wempPN2tSMzRtYURqUi1jOFMtT09ELUg2Z2htVjdLcmFWenI3N3RUcEFpbWlsOEpPSmFIZGt6U2IzV2VWWF9hTjN3TjZYYjFPRkYzMHVXV1pRUQ?oc=5",
-      "asOf": "2026-11-09T01:28:11+00:00"
+      "title": "AI算力催动 国产先进封测迎来产业升级机遇",
+      "url": "https://www.cnstock.com/commonDetail/825825",
+      "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "斯诺克国锦赛：常冰玉无缘决赛 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0xIQk1TcXhOWkRiaWhLUmJlOHZoWGdHVmJGN3NqQnZDc3ZmR3RYc2NOOFcwREdLMWZSdjc2UkE2Rk9rRHZ3T1RXZlNOdWtOQm9ZTkxBaG5QX1NfYXJyN01wRlBaY01yelVkMHFxLXRXTnloZlkyT2xnSlItRF9uQg?oc=5",
-      "asOf": "2026-11-09T01:25:23+00:00"
+      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5",
+      "asOf": "2026-11-09T02:42:53+00:00"
     },
     {
-      "title": "中国足协公布2027赛季男足竞赛日历 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTBjRGJ6WW9HUTQ3ZmQyNnJneGNWeXJrRlRQY2RPWUNUckZlNVlZOFNqdDYxdktGSE9QVkQ5VmYxTEp0LVlRQUtKeEczNDBhSUVfVjBzeFNGeUVtTm5IUkZQaGRIMkJETUVGOWdZa2lzci1BQmo1N05DMEFyWWY5Sw?oc=5",
-      "asOf": "2026-11-09T01:22:09+00:00"
+      "title": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5",
+      "asOf": "2026-11-09T02:27:16+00:00"
     },
     {
-      "title": "智能向实 人才向新 合作向深——从2026自动化大会看产业新趋势 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SEJlTGE3cWs0b2k4bnRCcmFEUHZzSF9XTXFfSWc5ejZNNFdKOHBWN1NFNlZZRXZOTzJYRUtyZHpMY2xPQ01YVnNtSFNFa3dELUJBLS1UWDh4dE5JWkFvcGZqRVJLTzhZbjMxZ1R0SDdFZ3R6M0xEeXZSU2Q?oc=5",
-      "asOf": "2026-11-09T01:11:44+00:00"
+      "title": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5",
+      "asOf": "2026-11-09T02:27:12+00:00"
     },
     {
-      "title": "第九届进博会|人机乒乓球赛，开始 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GOThodDJzaTI5dHd6NHgxR21JNjdYeWpGNC1oTjREREktaXZtalhsc0pBOG5vNGRMU21GTEM0QXVqaUJ2OWZKa1FXZXFIR29QRGstSmhyNWRFOE1nWkRoajg3bDNBbnd6czd2VGxLbW9odUFYVERXc1k4SmY?oc=5",
-      "asOf": "2026-11-09T01:11:17+00:00"
-    },
-    {
-      "title": "江苏连云港：“双十一”临近 智能分拣保障寄递 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YNjJRcFFtdU51UGY0bnlOa2V3c2VaeDJZdXdQZ2xjRDZYSHpEREVIQm12djhhWHpqemNISlNmblZ1V1VTT1BaaGhtNEdzS2l1UnJmTWFxLXZFcFBkc2FhWEY4TFNXczhvU19EUVJ6VjB1bFNVUm1fWjlKekg?oc=5",
-      "asOf": "2026-11-09T01:11:08+00:00"
+      "title": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5",
+      "asOf": "2026-11-09T02:23:42+00:00"
     }
   ],
   "events": [
     {
-      "event": "举重世锦赛：乌兹别克斯坦名将夺冠破纪录 刘焕华带伤出征 - 新华网",
-      "published": "2026-11-09T01:32:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45SUs5NVJNS3d5LUE5enhzNTRSc1dkX2ZUTnN2YWxwaXpVRzZ1S1VzTzU4ZVNiOWhsZHhndUgxRDNfQzZlVXRWODlVZXNrZWR6MUZ1TVU1T1lRRURGM2xBWnYxNWRqZmVJMEluNUU0VWVRSWZ2bEVkVEVWRFBzQjQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "举重世锦赛：乌兹别克斯坦名将夺冠破纪录 刘焕华带伤出征 - 新华网"
+      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "published": "2026-11-09T10:40:00+08:00",
+      "publisher": "新华社客户端",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国女子冰球职业联赛首站在唐山收官 - 新华网",
-      "published": "2026-11-09T01:30:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScHJzelgtQnFKcXp5U0FXQWVSVXZlTlhJNlkxclZRRk9kV3MwX0RWOGZDWE1jVmVqOWlpaHJPMGRxVjNLMXNyZzlueV92eUpyYm9HQlFkSHpmdldNZDlkeWNGQk9GanRSVnlyMmRodU10RjI5czFKTWpDZy10MWc?oc=5",
+      "event": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
+      "originalTitle": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
+      "published": "2026-11-09T09:48:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825880",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国女子冰球职业联赛首站在唐山收官 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825880",
+        "retrievedAt": "2026-11-09T10:52:43.035561+08:00",
+        "sha256": "de590990cb843b48aec2ee2b81833eae3002d8cb5a37a1a78bf3dc6de1c433c7",
+        "paragraphCount": 5,
+        "excerpt": "上证报中国证券网讯 据国家统计局11月9日消息，10月份，居民消费价格指数（CPI）环比持平；同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点。工业生产者出厂价格指"
+      }
     },
     {
-      "event": "花滑中国杯：千叶百音领跑女单 中国选手有突破 - 新华网",
-      "published": "2026-11-09T01:29:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MWxBczVEYzJYTmY4S3hVb0tmV21NT2pZcXlxRk9DeWdiRFNhTFNLb0kwaDc1QXhYUEpqYlhKR3piSkVFdXdVR0t6dkY5TUVFdDhqdDJ6ZGVHdUhQQUZVdG9nbEtCelBtTHQza3hmXzlpeE9mM3ZNZ2EydGR4dGs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "花滑中国杯：千叶百音领跑女单 中国选手有突破 - 新华网"
+      "event": "世界各大媒体“掌门人”为何齐聚北京",
+      "originalTitle": "世界各大媒体“掌门人”为何齐聚北京",
+      "published": "2026-11-09T08:25:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "青岛西海岸女足冲超成功 - 新华网",
-      "published": "2026-11-09T01:28:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MVJ2MjIybUxXWmNmNXFsNkhGUGctdUJhS21nbl9wTEQzcndfX3R0QlNURWVvcG11RUlsRDlaTmJXS1A3UkxwOTFzV3hLYW4xbHBUNmtRWEg3Wno3VExEcGFNYnBPck1xUUNIQ1NkRWtBMkZ1M0NKX2kzUzd4VjQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "青岛西海岸女足冲超成功 - 新华网"
+      "event": "我国成功发射卫星互联网低轨29组卫星",
+      "originalTitle": "我国成功发射卫星互联网低轨29组卫星",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825821",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "对接产业需求，深化产教融合——上海职教培育“新质工匠” - 新华网",
-      "published": "2026-11-09T01:28:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ybElNdFcyRElGUnAtNVpxM2ZQOEF6M3U2RG54cERUNV9vc19wempPN2tSMzRtYURqUi1jOFMtT09ELUg2Z2htVjdLcmFWenI3N3RUcEFpbWlsOEpPSmFIZGt6U2IzV2VWWF9hTjN3TjZYYjFPRkYzMHVXV1pRUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "对接产业需求，深化产教融合——上海职教培育“新质工匠” - 新华网"
+      "event": "新型电网，如何扣住“网眼”",
+      "originalTitle": "新型电网，如何扣住“网眼”",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "斯诺克国锦赛：常冰玉无缘决赛 - 新华网",
-      "published": "2026-11-09T01:25:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0xIQk1TcXhOWkRiaWhLUmJlOHZoWGdHVmJGN3NqQnZDc3ZmR3RYc2NOOFcwREdLMWZSdjc2UkE2Rk9rRHZ3T1RXZlNOdWtOQm9ZTkxBaG5QX1NfYXJyN01wRlBaY01yelVkMHFxLXRXTnloZlkyT2xnSlItRF9uQg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "斯诺克国锦赛：常冰玉无缘决赛 - 新华网"
+      "event": "AI算力催动 国产先进封测迎来产业升级机遇",
+      "originalTitle": "AI算力催动 国产先进封测迎来产业升级机遇",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825825",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国足协公布2027赛季男足竞赛日历 - 新华网",
-      "published": "2026-11-09T01:22:09+00:00",
+      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
+      "published": "2026-11-09T02:42:53+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTBjRGJ6WW9HUTQ3ZmQyNnJneGNWeXJrRlRQY2RPWUNUckZlNVlZOFNqdDYxdktGSE9QVkQ5VmYxTEp0LVlRQUtKeEczNDBhSUVfVjBzeFNGeUVtTm5IUkZQaGRIMkJETUVGOWdZa2lzci1BQmo1N05DMEFyWWY5Sw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国足协公布2027赛季男足竞赛日历 - 新华网"
+      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网"
     },
     {
-      "event": "智能向实 人才向新 合作向深——从2026自动化大会看产业新趋势 - 新华网",
-      "published": "2026-11-09T01:11:44+00:00",
+      "event": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
+      "published": "2026-11-09T02:27:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SEJlTGE3cWs0b2k4bnRCcmFEUHZzSF9XTXFfSWc5ejZNNFdKOHBWN1NFNlZZRXZOTzJYRUtyZHpMY2xPQ01YVnNtSFNFa3dELUJBLS1UWDh4dE5JWkFvcGZqRVJLTzhZbjMxZ1R0SDdFZ3R6M0xEeXZSU2Q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "智能向实 人才向新 合作向深——从2026自动化大会看产业新趋势 - 新华网"
+      "originalTitle": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网"
     },
     {
-      "event": "第九届进博会|人机乒乓球赛，开始 - 新华网",
-      "published": "2026-11-09T01:11:17+00:00",
+      "event": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
+      "published": "2026-11-09T02:27:12+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GOThodDJzaTI5dHd6NHgxR21JNjdYeWpGNC1oTjREREktaXZtalhsc0pBOG5vNGRMU21GTEM0QXVqaUJ2OWZKa1FXZXFIR29QRGstSmhyNWRFOE1nWkRoajg3bDNBbnd6czd2VGxLbW9odUFYVERXc1k4SmY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会|人机乒乓球赛，开始 - 新华网"
+      "originalTitle": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网"
     },
     {
-      "event": "江苏连云港：“双十一”临近 智能分拣保障寄递 - 新华网",
-      "published": "2026-11-09T01:11:08+00:00",
+      "event": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
+      "published": "2026-11-09T02:23:42+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YNjJRcFFtdU51UGY0bnlOa2V3c2VaeDJZdXdQZ2xjRDZYSHpEREVIQm12djhhWHpqemNISlNmblZ1V1VTT1BaaGhtNEdzS2l1UnJmTWFxLXZFcFBkc2FhWEY4TFNXczhvU19EUVJ6VjB1bFNVUm1fWjlKekg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "江苏连云港：“双十一”临近 智能分拣保障寄递 - 新华网"
+      "originalTitle": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +565,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
