@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 15:08",
+  "date": "更新于北京时间 2026-11-09 15:55",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T15:08:38+08:00",
+  "updatedAt": "2026-11-09T15:55:13+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,17 +177,32 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中际旭创，A股第一",
+          "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T13:04:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-09T15:33:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825973"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "公募调研动向曝光 三大行业关注度居前",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T14:49:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 11月9日早盘，A股主要指数集体上涨。截至午间收盘，上证指数报3665.94点，涨0.46%；深证成指涨0.27%，创业板指涨0.56%，科创综指涨0.78%。沪深北三市半日成交10181亿元；中际旭创成交额167.40"
+            "原文摘要：上证报中国证券网讯（记者 陈颖清）公募机构近期调研动向出炉。公募排排网数据显示，上周（2026年11月2日-11月8日），共有142家公募机构参与A股调研活动，覆盖27个申万一级行业中的170只个股，合计调研频次达2173次。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825932"
+              "url": "https://www.cnstock.com/commonDetail/825956"
             }
           ]
         },
@@ -209,16 +224,17 @@
         },
         {
           "type": "explainer",
-          "title": "太空算力爆发！300136，“20cm”涨停",
+          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T11:09:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，国务院关税税则委员会发布公告，自2026年11月10日13时01分起，"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825905"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825900"
             }
           ]
         },
@@ -228,13 +244,27 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月7日，北京人民大会堂宴会厅高朋满座、气氛热烈。由新华社和北京市人民政府共同主办的第七届世界媒体峰会在此拉开帷幕。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825857"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一批制售侵权盗版图书典型案件公布 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T07:23:47+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5"
             }
           ]
         },
@@ -255,16 +285,31 @@
         },
         {
           "type": "explainer",
-          "title": "霍尼韦尔科技陈延：以本土创新驱动建筑自主化 - 新华网",
+          "title": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T06:45:11+00:00；来源：新华网。",
+            "发布时间：2026-11-09T07:13:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xYzItT0VGdXBFaWR1clo0a1Y0N2pxZ29YMXJoam5OWmtUVExpMlI0WHZtbFB4YWtrMWk0anRvQ0R3SW00WENid25UVWJ2dVhTQ2hxWndMWmltXzBfQ29hRVlGRnhQM3FYLV9SQnJvTm1XU244MDhEZU5OT09NQlE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T06:44:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5"
             }
           ]
         },
@@ -280,51 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "10月份数据出炉，当前物价运行态势如何？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T06:36:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ub2M4bjU3amt5bTlYUEtnSzF2SDdSZFVHZ2tvbEpVQ3NJVEJGMVhhMWdIQUF2dk1WZE1Bc3pjSm1yT29xQjlkUVJsZUgtY1JjOHk2YlhGTUY4SDVPYi13dUtBUHEyWVhhU0xrSy1GU1BIRlhQUXJJ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "波兰克拉科夫枪击事件枪手死亡 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T06:25:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaW9xWWVISGRDR1Q5U0daTHhBdkNPOWtkX1d0QnI2cDA2NlV6Y0VHamc1WjJ1U1dld2EzTVJ6OVNLUDdtRHhNWWhiV18waHRxWjdGVWFEWjV1UHdXRjhGb2FTRUFqcmFnMWRKNGtjMVNnY2Q3RG9haDVKMXpCVzg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美众院民主党领袖：防长赫格塞思“必须走人” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T06:02:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ya01zeEJKNS1YVUFJaDNRbDlqQnBnQng1bjIxbHdXZTItbWJpZlRVWFQzZFlZY2gzZmk0OEFXQTJTcXZKMnBDWWhBWXhUN3BCcUl4UndZZWt3TEVfcFRfdGdzM0JRMl9tcE1iTnBLOU9JMHJwYjVRZUpvNi1QVUE?oc=5"
             }
           ]
         }
@@ -382,13 +382,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
     },
     {
@@ -412,14 +412,19 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "中际旭创，A股第一",
-      "url": "https://www.cnstock.com/commonDetail/825932",
-      "asOf": "2026-11-09T13:04:00+08:00"
+      "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
+      "url": "https://www.cnstock.com/commonDetail/825973",
+      "asOf": "2026-11-09T15:33:00+08:00"
+    },
+    {
+      "title": "公募调研动向曝光 三大行业关注度居前",
+      "url": "https://www.cnstock.com/commonDetail/825956",
+      "asOf": "2026-11-09T14:49:00+08:00"
     },
     {
       "title": "10月CPI同比上涨0.7%，PPI涨幅扩大",
@@ -427,9 +432,9 @@
       "asOf": "2026-11-09T11:41:00+08:00"
     },
     {
-      "title": "太空算力爆发！300136，“20cm”涨停",
-      "url": "https://www.cnstock.com/commonDetail/825905",
-      "asOf": "2026-11-09T11:09:00+08:00"
+      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "asOf": "2026-11-09T10:40:00+08:00"
     },
     {
       "title": "世界各大媒体“掌门人”为何齐聚北京",
@@ -437,50 +442,53 @@
       "asOf": "2026-11-09T08:25:00+08:00"
     },
     {
+      "title": "一批制售侵权盗版图书典型案件公布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5",
+      "asOf": "2026-11-09T07:23:47+00:00"
+    },
+    {
       "title": "新型电网，如何扣住“网眼”",
       "url": "https://www.cnstock.com/commonDetail/825822",
       "asOf": "2026-11-09T07:20:00+08:00"
     },
     {
-      "title": "霍尼韦尔科技陈延：以本土创新驱动建筑自主化 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xYzItT0VGdXBFaWR1clo0a1Y0N2pxZ29YMXJoam5OWmtUVExpMlI0WHZtbFB4YWtrMWk0anRvQ0R3SW00WENid25UVWJ2dVhTQ2hxWndMWmltXzBfQ29hRVlGRnhQM3FYLV9SQnJvTm1XU244MDhEZU5OT09NQlE?oc=5",
-      "asOf": "2026-11-09T06:45:11+00:00"
+      "title": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5",
+      "asOf": "2026-11-09T07:13:02+00:00"
+    },
+    {
+      "title": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5",
+      "asOf": "2026-11-09T06:44:26+00:00"
     },
     {
       "title": "郑州急救用上岐黄术 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5",
       "asOf": "2026-11-09T06:39:49+00:00"
-    },
-    {
-      "title": "10月份数据出炉，当前物价运行态势如何？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ub2M4bjU3amt5bTlYUEtnSzF2SDdSZFVHZ2tvbEpVQ3NJVEJGMVhhMWdIQUF2dk1WZE1Bc3pjSm1yT29xQjlkUVJsZUgtY1JjOHk2YlhGTUY4SDVPYi13dUtBUHEyWVhhU0xrSy1GU1BIRlhQUXJJ?oc=5",
-      "asOf": "2026-11-09T06:36:37+00:00"
-    },
-    {
-      "title": "波兰克拉科夫枪击事件枪手死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaW9xWWVISGRDR1Q5U0daTHhBdkNPOWtkX1d0QnI2cDA2NlV6Y0VHamc1WjJ1U1dld2EzTVJ6OVNLUDdtRHhNWWhiV18waHRxWjdGVWFEWjV1UHdXRjhGb2FTRUFqcmFnMWRKNGtjMVNnY2Q3RG9haDVKMXpCVzg?oc=5",
-      "asOf": "2026-11-09T06:25:18+00:00"
-    },
-    {
-      "title": "美众院民主党领袖：防长赫格塞思“必须走人” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ya01zeEJKNS1YVUFJaDNRbDlqQnBnQng1bjIxbHdXZTItbWJpZlRVWFQzZFlZY2gzZmk0OEFXQTJTcXZKMnBDWWhBWXhUN3BCcUl4UndZZWt3TEVfcFRfdGdzM0JRMl9tcE1iTnBLOU9JMHJwYjVRZUpvNi1QVUE?oc=5",
-      "asOf": "2026-11-09T06:02:26+00:00"
     }
   ],
   "events": [
     {
-      "event": "中际旭创，A股第一",
-      "originalTitle": "中际旭创，A股第一",
-      "published": "2026-11-09T13:04:00+08:00",
+      "event": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
+      "originalTitle": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
+      "published": "2026-11-09T15:33:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825973",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "公募调研动向曝光 三大行业关注度居前",
+      "originalTitle": "公募调研动向曝光 三大行业关注度居前",
+      "published": "2026-11-09T14:49:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825932",
+      "url": "https://www.cnstock.com/commonDetail/825956",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825932",
-        "retrievedAt": "2026-11-09T15:08:38.369011+08:00",
-        "sha256": "7e92c1ea4140e7785e59bc50d9fbbf2a5412663da912238bddedc2c0fc0a0930",
-        "paragraphCount": 10,
-        "excerpt": "上证报中国证券网讯 11月9日早盘，A股主要指数集体上涨。截至午间收盘，上证指数报3665.94点，涨0.46%；深证成指涨0.27%，创业板指涨0.56%，科创综指涨0.78%。沪深北三市半日成交10181亿元；中际旭创成交额167.40"
+        "url": "https://www.cnstock.com/commonDetail/825956",
+        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
+        "sha256": "cfa5c20b2f9a07dd9c39e1243dafdaba3179368870a922a30951f1c1dcac6450",
+        "paragraphCount": 8,
+        "excerpt": "上证报中国证券网讯（记者 陈颖清）公募机构近期调研动向出炉。公募排排网数据显示，上周（2026年11月2日-11月8日），共有142家公募机构参与A股调研活动，覆盖27个申万一级行业中的170只个股，合计调研频次达2173次。"
       }
     },
     {
@@ -492,19 +500,26 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/825914",
-        "retrievedAt": "2026-11-09T15:08:38.369011+08:00",
+        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
         "sha256": "33e77a5f34e1118df4ab5f9156c3f327b076ab5ddfa212e171e340b5d8b03c32",
         "paragraphCount": 8,
         "excerpt": "国家统计局11月9日发布的数据显示，10月份，CPI同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点；PPI同比上涨5.7%，涨幅比上月扩大0.7个百分点。"
       }
     },
     {
-      "event": "太空算力爆发！300136，“20cm”涨停",
-      "originalTitle": "太空算力爆发！300136，“20cm”涨停",
-      "published": "2026-11-09T11:09:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825905",
-      "evidenceLevel": "headline-only"
+      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "published": "2026-11-09T10:40:00+08:00",
+      "publisher": "新华社客户端",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825900",
+        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
+        "sha256": "603f20acff1461ac749bf4ef0bbbeb8219646c5ae1a9064666bfc66f1b94b6ba",
+        "paragraphCount": 3,
+        "excerpt": "为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，国务院关税税则委员会发布公告，自2026年11月10日13时01分起，"
+      }
     },
     {
       "event": "世界各大媒体“掌门人”为何齐聚北京",
@@ -512,14 +527,15 @@
       "published": "2026-11-09T08:25:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/825857",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "一批制售侵权盗版图书典型案件公布 - 新华网",
+      "published": "2026-11-09T07:23:47+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825857",
-        "retrievedAt": "2026-11-09T15:08:38.369011+08:00",
-        "sha256": "c9b4ca19004a4fca1bb38bfe23f6fe4c1e9b1c61b50d1144f6a4c0efbb57477f",
-        "paragraphCount": 16,
-        "excerpt": "11月7日，北京人民大会堂宴会厅高朋满座、气氛热烈。由新华社和北京市人民政府共同主办的第七届世界媒体峰会在此拉开帷幕。"
-      }
+      "originalTitle": "一批制售侵权盗版图书典型案件公布 - 新华网"
     },
     {
       "event": "新型电网，如何扣住“网眼”",
@@ -530,12 +546,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "霍尼韦尔科技陈延：以本土创新驱动建筑自主化 - 新华网",
-      "published": "2026-11-09T06:45:11+00:00",
+      "event": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
+      "published": "2026-11-09T07:13:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xYzItT0VGdXBFaWR1clo0a1Y0N2pxZ29YMXJoam5OWmtUVExpMlI0WHZtbFB4YWtrMWk0anRvQ0R3SW00WENid25UVWJ2dVhTQ2hxWndMWmltXzBfQ29hRVlGRnhQM3FYLV9SQnJvTm1XU244MDhEZU5OT09NQlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "霍尼韦尔科技陈延：以本土创新驱动建筑自主化 - 新华网"
+      "originalTitle": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网"
+    },
+    {
+      "event": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
+      "published": "2026-11-09T06:44:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网"
     },
     {
       "event": "郑州急救用上岐黄术 - 新华网",
@@ -544,30 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "郑州急救用上岐黄术 - 新华网"
-    },
-    {
-      "event": "10月份数据出炉，当前物价运行态势如何？ - 新华网",
-      "published": "2026-11-09T06:36:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ub2M4bjU3amt5bTlYUEtnSzF2SDdSZFVHZ2tvbEpVQ3NJVEJGMVhhMWdIQUF2dk1WZE1Bc3pjSm1yT29xQjlkUVJsZUgtY1JjOHk2YlhGTUY4SDVPYi13dUtBUHEyWVhhU0xrSy1GU1BIRlhQUXJJ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "10月份数据出炉，当前物价运行态势如何？ - 新华网"
-    },
-    {
-      "event": "波兰克拉科夫枪击事件枪手死亡 - 新华网",
-      "published": "2026-11-09T06:25:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaW9xWWVISGRDR1Q5U0daTHhBdkNPOWtkX1d0QnI2cDA2NlV6Y0VHamc1WjJ1U1dld2EzTVJ6OVNLUDdtRHhNWWhiV18waHRxWjdGVWFEWjV1UHdXRjhGb2FTRUFqcmFnMWRKNGtjMVNnY2Q3RG9haDVKMXpCVzg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "波兰克拉科夫枪击事件枪手死亡 - 新华网"
-    },
-    {
-      "event": "美众院民主党领袖：防长赫格塞思“必须走人” - 新华网",
-      "published": "2026-11-09T06:02:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ya01zeEJKNS1YVUFJaDNRbDlqQnBnQng1bjIxbHdXZTItbWJpZlRVWFQzZFlZY2gzZmk0OEFXQTJTcXZKMnBDWWhBWXhUN3BCcUl4UndZZWt3TEVfcFRfdGdzM0JRMl9tcE1iTnBLOU9JMHJwYjVRZUpvNi1QVUE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美众院民主党领袖：防长赫格塞思“必须走人” - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +581,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
