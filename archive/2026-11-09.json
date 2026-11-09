@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 11:32",
+  "date": "更新于北京时间 2026-11-09 14:02",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T11:32:15+08:00",
+  "updatedAt": "2026-11-09T14:02:36+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.46 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.84 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,61 +177,91 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
+          "title": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:22:07+00:00；来源：新华网。",
+            "发布时间：2026-11-09T05:45:59+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMXgwbTFFVEp4Z3ozd2thbHZIVnhtOUQ0VDNkSS03c0MzWENBSGJDWXNOQlRURVJVUmNFaU12cXBaY3ZFTF81Q2hFaGtJTWdraUx0RmtNdy1DU2NGbU0xanoxbEdnMmZiTkJzWHNmam5HcFFhRDcza1BRM3NqcVk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
+          "title": "“日冕加热”难题被破解 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:22:05+00:00；来源：新华网。",
+            "发布时间：2026-11-09T05:39:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHRGN0Y3ZUVhMzNEeFF5QU5LUVpKSlRwZENLRFpzUFd3VTUtcTdteWh4ZTZZbnBLT0NBdEZXN3ZfeDE5eURFQmtqaFdIOXd3ODdZZVo5OEdfd0MxeEtOOWh2YnZJbXd1d0VSQ21BUW16cjljUnVUWFZlaTlrLXVrWTdEdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
+          "title": "日本茨城县东部海域发生5.9级地震 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:22:01+00:00；来源：新华网。",
+            "发布时间：2026-11-09T05:07:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
+          "title": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:19:44+00:00；来源：新华网。",
+            "发布时间：2026-11-09T05:04:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第九届进博会丨初来，再来，还要来 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T04:44:11+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T04:35:03+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5"
             }
           ]
         },
@@ -240,88 +270,58 @@
           "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:16:34+00:00；来源：新华网。",
+            "发布时间：2026-11-09T04:32:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "九年进博会照见“中国机遇”全球引力 - 新华网",
+          "title": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:13:49+00:00；来源：新华网。",
+            "发布时间：2026-11-09T04:27:55+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
+          "title": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:13:19+00:00；来源：新华网。",
+            "发布时间：2026-11-09T04:07:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
+          "title": "泰国企业主：在进博会寻求大市场 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T03:03:42+00:00；来源：新华网。",
+            "发布时间：2026-11-09T04:00:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T03:03:05+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国空间站动态丨实验训练 步履不停 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T02:59:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5"
             }
           ]
         }
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-06"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
     },
     {
@@ -399,151 +389,161 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-05"
     },
     {
-      "title": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5",
-      "asOf": "2026-11-09T03:22:07+00:00"
+      "title": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMXgwbTFFVEp4Z3ozd2thbHZIVnhtOUQ0VDNkSS03c0MzWENBSGJDWXNOQlRURVJVUmNFaU12cXBaY3ZFTF81Q2hFaGtJTWdraUx0RmtNdy1DU2NGbU0xanoxbEdnMmZiTkJzWHNmam5HcFFhRDcza1BRM3NqcVk?oc=5",
+      "asOf": "2026-11-09T05:45:59+00:00"
     },
     {
-      "title": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5",
-      "asOf": "2026-11-09T03:22:05+00:00"
+      "title": "“日冕加热”难题被破解 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHRGN0Y3ZUVhMzNEeFF5QU5LUVpKSlRwZENLRFpzUFd3VTUtcTdteWh4ZTZZbnBLT0NBdEZXN3ZfeDE5eURFQmtqaFdIOXd3ODdZZVo5OEdfd0MxeEtOOWh2YnZJbXd1d0VSQ21BUW16cjljUnVUWFZlaTlrLXVrWTdEdw?oc=5",
+      "asOf": "2026-11-09T05:39:10+00:00"
     },
     {
-      "title": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5",
-      "asOf": "2026-11-09T03:22:01+00:00"
+      "title": "日本茨城县东部海域发生5.9级地震 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5",
+      "asOf": "2026-11-09T05:07:21+00:00"
     },
     {
-      "title": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5",
-      "asOf": "2026-11-09T03:19:44+00:00"
+      "title": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5",
+      "asOf": "2026-11-09T05:04:38+00:00"
+    },
+    {
+      "title": "第九届进博会丨初来，再来，还要来 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5",
+      "asOf": "2026-11-09T04:44:11+00:00"
+    },
+    {
+      "title": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5",
+      "asOf": "2026-11-09T04:35:03+00:00"
     },
     {
       "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5",
-      "asOf": "2026-11-09T03:16:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5",
+      "asOf": "2026-11-09T04:32:16+00:00"
     },
     {
-      "title": "九年进博会照见“中国机遇”全球引力 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5",
-      "asOf": "2026-11-09T03:13:49+00:00"
+      "title": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5",
+      "asOf": "2026-11-09T04:27:55+00:00"
     },
     {
-      "title": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5",
-      "asOf": "2026-11-09T03:13:19+00:00"
+      "title": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5",
+      "asOf": "2026-11-09T04:07:53+00:00"
     },
     {
-      "title": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5",
-      "asOf": "2026-11-09T03:03:42+00:00"
-    },
-    {
-      "title": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5",
-      "asOf": "2026-11-09T03:03:05+00:00"
-    },
-    {
-      "title": "中国空间站动态丨实验训练 步履不停 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5",
-      "asOf": "2026-11-09T02:59:37+00:00"
+      "title": "泰国企业主：在进博会寻求大市场 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5",
+      "asOf": "2026-11-09T04:00:43+00:00"
     }
   ],
   "events": [
     {
-      "event": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
-      "published": "2026-11-09T03:22:07+00:00",
+      "event": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
+      "published": "2026-11-09T05:45:59+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMXgwbTFFVEp4Z3ozd2thbHZIVnhtOUQ0VDNkSS03c0MzWENBSGJDWXNOQlRURVJVUmNFaU12cXBaY3ZFTF81Q2hFaGtJTWdraUx0RmtNdy1DU2NGbU0xanoxbEdnMmZiTkJzWHNmam5HcFFhRDcza1BRM3NqcVk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网"
+      "originalTitle": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网"
     },
     {
-      "event": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
-      "published": "2026-11-09T03:22:05+00:00",
+      "event": "“日冕加热”难题被破解 - 新华网",
+      "published": "2026-11-09T05:39:10+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHRGN0Y3ZUVhMzNEeFF5QU5LUVpKSlRwZENLRFpzUFd3VTUtcTdteWh4ZTZZbnBLT0NBdEZXN3ZfeDE5eURFQmtqaFdIOXd3ODdZZVo5OEdfd0MxeEtOOWh2YnZJbXd1d0VSQ21BUW16cjljUnVUWFZlaTlrLXVrWTdEdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网"
+      "originalTitle": "“日冕加热”难题被破解 - 新华网"
     },
     {
-      "event": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
-      "published": "2026-11-09T03:22:01+00:00",
+      "event": "日本茨城县东部海域发生5.9级地震 - 新华网",
+      "published": "2026-11-09T05:07:21+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网"
+      "originalTitle": "日本茨城县东部海域发生5.9级地震 - 新华网"
     },
     {
-      "event": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
-      "published": "2026-11-09T03:19:44+00:00",
+      "event": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
+      "published": "2026-11-09T05:04:38+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网"
+      "originalTitle": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网"
+    },
+    {
+      "event": "第九届进博会丨初来，再来，还要来 - 新华网",
+      "published": "2026-11-09T04:44:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第九届进博会丨初来，再来，还要来 - 新华网"
+    },
+    {
+      "event": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
+      "published": "2026-11-09T04:35:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网"
     },
     {
       "event": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-09T03:16:34+00:00",
+      "published": "2026-11-09T04:32:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网"
     },
     {
-      "event": "九年进博会照见“中国机遇”全球引力 - 新华网",
-      "published": "2026-11-09T03:13:49+00:00",
+      "event": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
+      "published": "2026-11-09T04:27:55+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "九年进博会照见“中国机遇”全球引力 - 新华网"
+      "originalTitle": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网"
     },
     {
-      "event": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
-      "published": "2026-11-09T03:13:19+00:00",
+      "event": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
+      "published": "2026-11-09T04:07:53+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网"
+      "originalTitle": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网"
     },
     {
-      "event": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
-      "published": "2026-11-09T03:03:42+00:00",
+      "event": "泰国企业主：在进博会寻求大市场 - 新华网",
+      "published": "2026-11-09T04:00:43+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网"
-    },
-    {
-      "event": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
-      "published": "2026-11-09T03:03:05+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "阿根廷首都举行首届国际多媒体艺术节 - 新华网"
-    },
-    {
-      "event": "中国空间站动态丨实验训练 步履不停 - 新华网",
-      "published": "2026-11-09T02:59:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国空间站动态丨实验训练 步履不停 - 新华网"
+      "originalTitle": "泰国企业主：在进博会寻求大市场 - 新华网"
     }
   ],
   "quality": {
