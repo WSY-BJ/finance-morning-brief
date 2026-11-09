@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 14:02",
+  "date": "更新于北京时间 2026-11-09 14:32",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T14:02:36+08:00",
+  "updatedAt": "2026-11-09T14:32:09+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,115 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "中际旭创，A股第一",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T13:04:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 11月9日早盘，A股主要指数集体上涨。截至午间收盘，上证指数报3665.94点，涨0.46%；深证成指涨0.27%，创业板指涨0.56%，科创综指涨0.78%。沪深北三市半日成交10181亿元；中际旭创成交额167.40"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825932"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10月CPI同比上涨0.7%，PPI涨幅扩大",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T11:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：国家统计局11月9日发布的数据显示，10月份，CPI同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点；PPI同比上涨5.7%，涨幅比上月扩大0.7个百分点。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825914"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "太空算力爆发！300136，“20cm”涨停",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T11:09:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825905"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/825900"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "世界各大媒体“掌门人”为何齐聚北京",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月7日，北京人民大会堂宴会厅高朋满座、气氛热烈。由新华社和北京市人民政府共同主办的第七届世界媒体峰会在此拉开帷幕。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825857"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新型电网，如何扣住“网眼”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月5日，国家发展改革委再度召开“六张网”规划建设调度会，部署规划衔接、项目库建设、要素保障和“六网协同”场景培育。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/825822"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "COP31前瞻：从“定目标”转向“抓落实” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T05:56:44+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zRHhmOXZMa3FqVFFMVTg4X3ZpeklFMXhmSlNJcVJZd3UtVmo2OWg0YmVtTGEyVXRkNERZWXpydC1kY1JiazJTMm5LTXBoU3Z2SkkyRVZYN0p0cUdadllQTnJoQzJTNzdPWjJiRVM2YUY0RUVyZ09J?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -217,111 +326,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T05:04:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第九届进博会丨初来，再来，还要来 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:44:11+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:35:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:32:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:27:55+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:07:53+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "泰国企业主：在进博会寻求大市场 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T04:00:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5"
             }
           ]
         }
@@ -379,8 +383,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
@@ -389,8 +393,8 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
     },
     {
@@ -404,14 +408,49 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-05"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-05"
+      "title": "中际旭创，A股第一",
+      "url": "https://www.cnstock.com/commonDetail/825932",
+      "asOf": "2026-11-09T13:04:00+08:00"
+    },
+    {
+      "title": "10月CPI同比上涨0.7%，PPI涨幅扩大",
+      "url": "https://www.cnstock.com/commonDetail/825914",
+      "asOf": "2026-11-09T11:41:00+08:00"
+    },
+    {
+      "title": "太空算力爆发！300136，“20cm”涨停",
+      "url": "https://www.cnstock.com/commonDetail/825905",
+      "asOf": "2026-11-09T11:09:00+08:00"
+    },
+    {
+      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "asOf": "2026-11-09T10:40:00+08:00"
+    },
+    {
+      "title": "世界各大媒体“掌门人”为何齐聚北京",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "asOf": "2026-11-09T08:25:00+08:00"
+    },
+    {
+      "title": "新型电网，如何扣住“网眼”",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "asOf": "2026-11-09T07:20:00+08:00"
+    },
+    {
+      "title": "COP31前瞻：从“定目标”转向“抓落实” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zRHhmOXZMa3FqVFFMVTg4X3ZpeklFMXhmSlNJcVJZd3UtVmo2OWg0YmVtTGEyVXRkNERZWXpydC1kY1JiazJTMm5LTXBoU3Z2SkkyRVZYN0p0cUdadllQTnJoQzJTNzdPWjJiRVM2YUY0RUVyZ09J?oc=5",
+      "asOf": "2026-11-09T05:56:44+00:00"
     },
     {
       "title": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
@@ -427,44 +466,93 @@
       "title": "日本茨城县东部海域发生5.9级地震 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5",
       "asOf": "2026-11-09T05:07:21+00:00"
-    },
-    {
-      "title": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5",
-      "asOf": "2026-11-09T05:04:38+00:00"
-    },
-    {
-      "title": "第九届进博会丨初来，再来，还要来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5",
-      "asOf": "2026-11-09T04:44:11+00:00"
-    },
-    {
-      "title": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5",
-      "asOf": "2026-11-09T04:35:03+00:00"
-    },
-    {
-      "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5",
-      "asOf": "2026-11-09T04:32:16+00:00"
-    },
-    {
-      "title": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5",
-      "asOf": "2026-11-09T04:27:55+00:00"
-    },
-    {
-      "title": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5",
-      "asOf": "2026-11-09T04:07:53+00:00"
-    },
-    {
-      "title": "泰国企业主：在进博会寻求大市场 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5",
-      "asOf": "2026-11-09T04:00:43+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中际旭创，A股第一",
+      "originalTitle": "中际旭创，A股第一",
+      "published": "2026-11-09T13:04:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825932",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825932",
+        "retrievedAt": "2026-11-09T14:32:09.838660+08:00",
+        "sha256": "8d31f7f7a84d8f72c2f2fd9b7b72f7fe8e35009e71d05608ea1fd09ebd44e8cd",
+        "paragraphCount": 10,
+        "excerpt": "上证报中国证券网讯 11月9日早盘，A股主要指数集体上涨。截至午间收盘，上证指数报3665.94点，涨0.46%；深证成指涨0.27%，创业板指涨0.56%，科创综指涨0.78%。沪深北三市半日成交10181亿元；中际旭创成交额167.40"
+      }
+    },
+    {
+      "event": "10月CPI同比上涨0.7%，PPI涨幅扩大",
+      "originalTitle": "10月CPI同比上涨0.7%，PPI涨幅扩大",
+      "published": "2026-11-09T11:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825914",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825914",
+        "retrievedAt": "2026-11-09T14:32:09.838660+08:00",
+        "sha256": "6a4f7b4edfc35465b7db4ee38dd360f2b6b2ff801796c496050d372bf5764286",
+        "paragraphCount": 8,
+        "excerpt": "国家统计局11月9日发布的数据显示，10月份，CPI同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点；PPI同比上涨5.7%，涨幅比上月扩大0.7个百分点。"
+      }
+    },
+    {
+      "event": "太空算力爆发！300136，“20cm”涨停",
+      "originalTitle": "太空算力爆发！300136，“20cm”涨停",
+      "published": "2026-11-09T11:09:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/825905",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+      "published": "2026-11-09T10:40:00+08:00",
+      "publisher": "新华社客户端",
+      "url": "https://www.cnstock.com/commonDetail/825900",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "世界各大媒体“掌门人”为何齐聚北京",
+      "originalTitle": "世界各大媒体“掌门人”为何齐聚北京",
+      "published": "2026-11-09T08:25:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/825857",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825857",
+        "retrievedAt": "2026-11-09T14:32:09.838660+08:00",
+        "sha256": "4b8f852c8a7cc99d334d7cef966de32d5241ad9d49f0da950d3210d241b64ca3",
+        "paragraphCount": 16,
+        "excerpt": "11月7日，北京人民大会堂宴会厅高朋满座、气氛热烈。由新华社和北京市人民政府共同主办的第七届世界媒体峰会在此拉开帷幕。"
+      }
+    },
+    {
+      "event": "新型电网，如何扣住“网眼”",
+      "originalTitle": "新型电网，如何扣住“网眼”",
+      "published": "2026-11-09T07:20:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/825822",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/825822",
+        "retrievedAt": "2026-11-09T14:32:09.838660+08:00",
+        "sha256": "80fd472825770b09254d6b4d5ce0a71203ca2cecf536109c81fd6108ec36ef8d",
+        "paragraphCount": 44,
+        "excerpt": "11月5日，国家发展改革委再度召开“六张网”规划建设调度会，部署规划衔接、项目库建设、要素保障和“六网协同”场景培育。"
+      }
+    },
+    {
+      "event": "COP31前瞻：从“定目标”转向“抓落实” - 新华网",
+      "published": "2026-11-09T05:56:44+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zRHhmOXZMa3FqVFFMVTg4X3ZpeklFMXhmSlNJcVJZd3UtVmo2OWg0YmVtTGEyVXRkNERZWXpydC1kY1JiazJTMm5LTXBoU3Z2SkkyRVZYN0p0cUdadllQTnJoQzJTNzdPWjJiRVM2YUY0RUVyZ09J?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "COP31前瞻：从“定目标”转向“抓落实” - 新华网"
+    },
     {
       "event": "日本茨城县东部海域发生5.9级地震 东京有震感 - 新华网",
       "published": "2026-11-09T05:45:59+00:00",
@@ -488,62 +576,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwR1hUQWVGaTd4ZHVnb2pvZUxURU93QVp6M0RxMHRENVVGRlZISWQzVUlsV3ozTGhocGNVOWxLbVRGQzFGLWVRNlhzdFBuODlPaDQ5RVY2MEVPTzBWQkRldmw1anlLcDNXaDlNTnpUbXNKTHp2VS1aT0d4eld3MzA?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "日本茨城县东部海域发生5.9级地震 - 新华网"
-    },
-    {
-      "event": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网",
-      "published": "2026-11-09T05:04:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRzJIbkhKbUptYjVlM20zeEFtMVJCSVF0cFd5OGlKb0xhYzF2RWE2NDN4bUFfT20yS3VTOXU4OHlUdVhNZXdORGpjZUlSbkhnR0I4eWUzQlA4TXFUX0lOWTdJQmgxLWNMalFEdGd0NmxTX19KMlJF?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "不再对伊动武？美国封锁伊朗陆路通道 - 新华网"
-    },
-    {
-      "event": "第九届进博会丨初来，再来，还要来 - 新华网",
-      "published": "2026-11-09T04:44:11+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTTcyM2tqcXZLek90Nm5XVGZfa3o1aE9kaDNZNi1kZVBWNUxBdzJaT0RnTFR0UVFUcVJGREZrU19IdEt1OVJGVGk3d2UwbjRQWURBY2dPSFhtUmxfZ1B1al94Nkd5ejRLQ2tNYU5OdDc4LWFUUGFlU1hud2syb3M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨初来，再来，还要来 - 新华网"
-    },
-    {
-      "event": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网",
-      "published": "2026-11-09T04:35:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96MExzNzBHYXp2VmxXb3lhc3BlWFFGdjl4SUJIeG9zT1F1WDlSeHlGeFEwOExMQjlLNEtrQTBER1FBVHNZenQyYVZ6SlF1Ykh3UEswek1hOXJldXVCT3o0emZQR0RjcE1xMm5fcHZ2MTRSQ2pzNWR3R0xrcC1STjA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普：不会升级伊朗战事 内阁将做些许调整 - 新华网"
-    },
-    {
-      "event": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-09T04:32:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VkUyc2dtQi1xQjFzcHpXbEVrTUt3WGRPNjVtVkVFS3FjQ0h2VFZhbnc1NnJfMHZqeHRZMmZ3SzFMbm5IdHdWMUtRWExYWGdNWUFCSGVQemI2ZzdkSVNxcGZaSkY0ZnNDaHBFRDdXUWRoeU5UemxiOERyQlN4XzQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网"
-    },
-    {
-      "event": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网",
-      "published": "2026-11-09T04:27:55+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NzBLUU54WHpPZ25DSkk1bkJoaDFoR0tQbFowZXU1bkJIT3NSV2hKOXpnemFMZG1Ba2ZfMzkyMkFDcVM0NjhaamRXaHZwbEU4eUs5U2lNdi12ZHBxemlQbXJkMGZHWnMyeDZtcUlLOG9fbGxwZm1mc2FZMldOUFk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊媒称霍尔木兹海峡南部“敌方”导航辅助系统被摧毁 - 新华网"
-    },
-    {
-      "event": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网",
-      "published": "2026-11-09T04:07:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NWWtwc0RyX2M5bWR4aXlhRWJSdVpUTTl1ZkJGRHM1WC1QODVmQXRsNnIzWFFCUktBUmN6UDc2WHZtR0RXYzdKZVV5bTE4b1dCTmlITmV2TGczRV9Eb205MGRRVnZmS0FoVjlMSVVfMnBMNTBmSHF3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第九届进博会丨埃塞俄比亚官员：进博会为对华经贸合作打开新空间 - 新华网"
-    },
-    {
-      "event": "泰国企业主：在进博会寻求大市场 - 新华网",
-      "published": "2026-11-09T04:00:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdXJHQ0VzRGRYTENnMlNTNTNWM3N6ZUpaUkYwcUhhVEJNUmMySmtQU2s0dVNiRnJkMnZDRUhOb0VMM1RUU2M3ZmZQU2ozYTF6RFdKWVBjT1lsRG1sNnZmUWgtaWVpNW00cExyOENzeHZuN2hVSDFrakE5bUhnUG8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "泰国企业主：在进博会寻求大市场 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +589,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
