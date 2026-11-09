@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 10:52",
+  "date": "更新于北京时间 2026-11-09 11:32",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T10:52:43+08:00",
+  "updatedAt": "2026-11-09T11:32:15+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,152 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+          "title": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
+            "发布时间：2026-11-09T03:22:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825900"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
+          "title": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T09:48:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国家统计局11月9日消息，10月份，居民消费价格指数（CPI）环比持平；同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点。工业生产者出厂价格指"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/825880"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "世界各大媒体“掌门人”为何齐聚北京",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
+            "发布时间：2026-11-09T03:22:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825857"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "我国成功发射卫星互联网低轨29组卫星",
+          "title": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T07:20:00+08:00；来源：新华社。",
+            "发布时间：2026-11-09T03:22:01+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825821"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新型电网，如何扣住“网眼”",
+          "title": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-09T03:19:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825822"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "AI算力催动 国产先进封测迎来产业升级机遇",
+          "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-09T03:16:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825825"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
+          "title": "九年进博会照见“中国机遇”全球引力 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T02:42:53+00:00；来源：新华网。",
+            "发布时间：2026-11-09T03:13:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
+          "title": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T02:27:16+00:00；来源：新华网。",
+            "发布时间：2026-11-09T03:13:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
+          "title": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T02:27:12+00:00；来源：新华网。",
+            "发布时间：2026-11-09T03:03:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
+          "title": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T02:23:42+00:00；来源：新华网。",
+            "发布时间：2026-11-09T03:03:05+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国空间站动态丨实验训练 步履不停 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T02:59:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5"
             }
           ]
         }
@@ -380,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
@@ -390,13 +389,13 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-06"
     },
     {
@@ -405,153 +404,146 @@
       "asOf": "2026-11-06"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-05"
+      "title": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5",
+      "asOf": "2026-11-09T03:22:07+00:00"
     },
     {
-      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "url": "https://www.cnstock.com/commonDetail/825900",
-      "asOf": "2026-11-09T10:40:00+08:00"
+      "title": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5",
+      "asOf": "2026-11-09T03:22:05+00:00"
     },
     {
-      "title": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
-      "url": "https://www.cnstock.com/commonDetail/825880",
-      "asOf": "2026-11-09T09:48:00+08:00"
+      "title": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5",
+      "asOf": "2026-11-09T03:22:01+00:00"
     },
     {
-      "title": "世界各大媒体“掌门人”为何齐聚北京",
-      "url": "https://www.cnstock.com/commonDetail/825857",
-      "asOf": "2026-11-09T08:25:00+08:00"
+      "title": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5",
+      "asOf": "2026-11-09T03:19:44+00:00"
     },
     {
-      "title": "我国成功发射卫星互联网低轨29组卫星",
-      "url": "https://www.cnstock.com/commonDetail/825821",
-      "asOf": "2026-11-09T07:20:00+08:00"
+      "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5",
+      "asOf": "2026-11-09T03:16:34+00:00"
     },
     {
-      "title": "新型电网，如何扣住“网眼”",
-      "url": "https://www.cnstock.com/commonDetail/825822",
-      "asOf": "2026-11-09T07:20:00+08:00"
+      "title": "九年进博会照见“中国机遇”全球引力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5",
+      "asOf": "2026-11-09T03:13:49+00:00"
     },
     {
-      "title": "AI算力催动 国产先进封测迎来产业升级机遇",
-      "url": "https://www.cnstock.com/commonDetail/825825",
-      "asOf": "2026-11-09T07:20:00+08:00"
+      "title": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5",
+      "asOf": "2026-11-09T03:13:19+00:00"
     },
     {
-      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5",
-      "asOf": "2026-11-09T02:42:53+00:00"
+      "title": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5",
+      "asOf": "2026-11-09T03:03:42+00:00"
     },
     {
-      "title": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5",
-      "asOf": "2026-11-09T02:27:16+00:00"
+      "title": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5",
+      "asOf": "2026-11-09T03:03:05+00:00"
     },
     {
-      "title": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5",
-      "asOf": "2026-11-09T02:27:12+00:00"
-    },
-    {
-      "title": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5",
-      "asOf": "2026-11-09T02:23:42+00:00"
+      "title": "中国空间站动态丨实验训练 步履不停 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5",
+      "asOf": "2026-11-09T02:59:37+00:00"
     }
   ],
   "events": [
     {
-      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "published": "2026-11-09T10:40:00+08:00",
-      "publisher": "新华社客户端",
-      "url": "https://www.cnstock.com/commonDetail/825900",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
-      "originalTitle": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
-      "published": "2026-11-09T09:48:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825880",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825880",
-        "retrievedAt": "2026-11-09T10:52:43.035561+08:00",
-        "sha256": "de590990cb843b48aec2ee2b81833eae3002d8cb5a37a1a78bf3dc6de1c433c7",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯 据国家统计局11月9日消息，10月份，居民消费价格指数（CPI）环比持平；同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点。工业生产者出厂价格指"
-      }
-    },
-    {
-      "event": "世界各大媒体“掌门人”为何齐聚北京",
-      "originalTitle": "世界各大媒体“掌门人”为何齐聚北京",
-      "published": "2026-11-09T08:25:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825857",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "我国成功发射卫星互联网低轨29组卫星",
-      "originalTitle": "我国成功发射卫星互联网低轨29组卫星",
-      "published": "2026-11-09T07:20:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825821",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "新型电网，如何扣住“网眼”",
-      "originalTitle": "新型电网，如何扣住“网眼”",
-      "published": "2026-11-09T07:20:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825822",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "AI算力催动 国产先进封测迎来产业升级机遇",
-      "originalTitle": "AI算力催动 国产先进封测迎来产业升级机遇",
-      "published": "2026-11-09T07:20:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825825",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网",
-      "published": "2026-11-09T02:42:53+00:00",
+      "event": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网",
+      "published": "2026-11-09T03:22:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHNiUTdESjBMdnM4eDBDV0Zpektnam1JZVBPaE9kSGxuU1FjS0lBS3QyN0JNQWlidmZiTHNnOVJNSUVEZnE5T3lrU1BVa3FQVE9SWUVpVUNTUTdQUHUwZkNwVmFwZXkxQlk2alNWTzNTd1BQdnZiS0Z4VzF6WW9Pa3NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0M3NFRFREtmeFZWWVRWQndac01kSFc0VG55RVExNTdnWTRjSUZlamRLbjdtN01CaEd2T3ZRaDBxSjFOTnNsUFZILWJaRVduREUyMFN4YkFxZjJpZXZTUExFVnpMcDFwWFc0ZlAyM3ZuN2kxVTNuOVJ6LWIwWjJ1cw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施 - 新华网"
+      "originalTitle": "网球——WTA年终总决赛开赛：高芙胜佩古拉 - 新华网"
     },
     {
-      "event": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网",
-      "published": "2026-11-09T02:27:16+00:00",
+      "event": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网",
+      "published": "2026-11-09T03:22:05+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Q3hMOE1PT09fUEl5ZmRWZllJbnd1SWRabjlSTGRTNUZFZFJnYmRCNUo1OFZCeFl6Y09FQ1k1WkFkRzRCaHBoN2hVS2ppeFhrT1R2NWZBRThPalZWTndRWGVhYUthQ05oUnY5WVBFYnpDN3Q4a0tj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUFCLXZsYXVmcTNOU1dLUk1EYm9LLUdVakpBNU1xQUYwMWNCMFFHZU9kZV90cDF5OW5ia1dNaFFoRmdoUU9wdU1NWWZvS3JmeV9yWWZGd0FVTDNSMkphYmRvbnZ0S0hYNnRwcmxSVEhpT01MVm5FVi1DR0oxdUJBaw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "向外开放 向新用力 向优发展——陕西开放型经济再提速观察 - 新华网"
+      "originalTitle": "青奥会——田径：尼日利亚选手夺得女子100米冠军 - 新华网"
     },
     {
-      "event": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网",
-      "published": "2026-11-09T02:27:12+00:00",
+      "event": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网",
+      "published": "2026-11-09T03:22:01+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMlFpVUVZZHhyaFFVaGxFR1IyY01ZbDVRV21EQjNoaUVnZWdMaEFJeTQ0M0pFUXJGTm13TkFMOXM5MUpBRjVDZEVxZWxSU2w3dkI2T01ZMkxpT203ZS1WQVlTazBGbWdoa1ZXZzI5OUktV1ZFYnlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3lSWXVHNGZKOS10TlMzZmppTkVZMV82RkstTkJRMW96b3ZDR0NidDZNUVFFbkd6NXQtNUtkNTNqaWRNRW1pMFZVYWpNc1h5aWFMLUV3YmE3bEdoS0xXTjd3dHhEMXZPbzhrdjEwSmtkNTMtRWJnWHhnQ3puVFptRw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "在韧性发展中彰显澎湃活力——广州前三季度经济增速创下近五年同期新高 - 新华网"
+      "originalTitle": "青奥会——拳击：王佳恩晋级女子60公斤级四分之一决赛 - 新华网"
     },
     {
-      "event": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网",
-      "published": "2026-11-09T02:23:42+00:00",
+      "event": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网",
+      "published": "2026-11-09T03:19:44+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISmVselU4T2lyT3h6X0lLWTdXN295N3JHWXczdXJFR1dTWVBJT0ZmYi0tWUhEYml4c29jUGc1bHpFNnViYVltRlZ6YTluQ1NYUGFZOXZMT2FIUktSUkZuSXJTSzZFbmRuZVNodktUcXhPZWZzYm9OQXlBREl4Ymc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMncwVWRmNE8xZWN2bXZ0MVJlV3pyLWN6Sks3X1Yzd2NJdmhhbVVhWm14MTZpQkhicjI5TUpCZ0xUY2NUZ1d1ODNsdV9WVzBIdVdGdV8xRnMtZGg3OTBvMVFfNjk2aHNuTmg1NzlVbmR4SWFlZDZDT2VsazhvSzZfU2RFSQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "绿色金融创新密集落地 生态价值转化提速增效 - 新华网"
+      "originalTitle": "进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施12月1日起实施 - 新华网"
+    },
+    {
+      "event": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网",
+      "published": "2026-11-09T03:16:34+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY05Wal8wX0lSdGdOYllDRTJFckc1SGcxLWJlQ09RNUxfbUlQYTNfN3ZWajJLOGo4S29wNzM1dEFGYzdzOWlMQzQ5YmxQaUlReHNrSV9ySFFFc19KNWdoSEEtOTlITGd1aDloLWhGX2hJQ2dJejhySkU1a28tdFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "辽宁省农业农村厅党组成员、副厅长冀登义接受纪律审查和监察调查 - 新华网"
+    },
+    {
+      "event": "九年进博会照见“中国机遇”全球引力 - 新华网",
+      "published": "2026-11-09T03:13:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USkVsQ2dMQUFSMlRsZlF0d0FPd3NKWUVYYS0xYk91T2M2dmZLbTFkR0hLLURNV2VNRVU1WWhkVHJkc3hfaTJ6ZDVlYkg5ci1PWnVlTTl4Q3Bad01GLWd5NlJScllLa0g0YXdXeWlTMHFiajUtWFRj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "九年进博会照见“中国机遇”全球引力 - 新华网"
+    },
+    {
+      "event": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网",
+      "published": "2026-11-09T03:13:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hR1hSTFFGdjRvZHUteE8xR3ktbi1sTmYzOTdSQlBlb24wT05FQ25tQU41UkwxZmVFQ1p0WVVLTi1GQ2dUOWpCR2ZaelIxS3RSMDRrdmlVbFk3amRxMVBxY3hlM1Q4NVBCdmtLVWRsLTNFOGFKdzJN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "长安常“新” 质领未来——西安聚力打造新质生产力发展高地 - 新华网"
+    },
+    {
+      "event": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网",
+      "published": "2026-11-09T03:03:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnh2dWE1WkJWXzhYV3V6ZzlPcTJ0OV9rNm9UVlJ2TEVKNDNtVWZmdlZEZzVVTVptSGcwcm5rZjVDNFBMOWFJNzNjQUV5bEVvOTVmNkNHVGFoMFhMdWVEWHdmTlJObnhWN1k3WHkya3lYXzZvVmZ5SWhKNFdVYk0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "青奥会——田径：刘瀚晋级男子400米决赛 - 新华网"
+    },
+    {
+      "event": "阿根廷首都举行首届国际多媒体艺术节 - 新华网",
+      "published": "2026-11-09T03:03:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZm1ZazVzYVZTbGMyajlJZG1YQVJ1YXMwTm5IUFBHQm1WejUwZVB5aF9qMFVLd3Z5eFFNbV9qT2hpT1REdGVXR3F5X0Z5c3BCTHFKYTlIaFB4RF9tdWNtbnU1ZktYNVh4QjNTMEU1WmhKWlNkMDN5RzJ6amowRkYzTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "阿根廷首都举行首届国际多媒体艺术节 - 新华网"
+    },
+    {
+      "event": "中国空间站动态丨实验训练 步履不停 - 新华网",
+      "published": "2026-11-09T02:59:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0a0JYSkhqcjVhUXhQeXR3cEVvM1dCY25jaDNRNjRIR1lFbWJEOHpMeGg0Mkl3b0xNZjFzc3Z4U3dEYzV4TWN4TUFTcHJZb2ZMR0lVS0Z0Wi1wcXplaUJZcmtlclZMSGUzRW9yaHNtVkFRd2hVYkVoZnRuSFgtUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国空间站动态丨实验训练 步履不停 - 新华网"
     }
   ],
   "quality": {
@@ -565,11 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
