@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 15:55",
+  "date": "更新于北京时间 2026-11-09 20:53",
   "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T15:55:13+08:00",
+  "updatedAt": "2026-11-09T20:53:14+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.84 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：美国财政部。"
+            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "无锡振华：25.90万股解除限售股份将于11月13日上市",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T19:34:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826070"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T19:30:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826040"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "金麒麟：每10股派0.50元，股权登记日为11月17日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T19:30:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826074"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "英伟达，在多个市场下跌",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T18:56:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826021"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "神州半导体IPO，11月16日上会",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T18:56:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826081"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
           "summary": "",
           "paragraphs": [
@@ -196,12 +271,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-09T14:49:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 陈颖清）公募机构近期调研动向出炉。公募排排网数据显示，上周（2026年11月2日-11月8日），共有142家公募机构参与A股调研活动，覆盖27个申万一级行业中的170只个股，合计调研频次达2173次。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825956"
             }
           ]
@@ -212,12 +286,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-09T11:41:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：国家统计局11月9日发布的数据显示，10月份，CPI同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点；PPI同比上涨5.7%，涨幅比上月扩大0.7个百分点。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825914"
             }
           ]
@@ -228,103 +301,27 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，国务院关税税则委员会发布公告，自2026年11月10日13时01分起，"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/825900"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "世界各大媒体“掌门人”为何齐聚北京",
+          "title": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T08:25:00+08:00；来源：新华社。",
+            "发布时间：2026-11-09T10:18:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825857"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "一批制售侵权盗版图书典型案件公布 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T07:23:47+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新型电网，如何扣住“网眼”",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T07:20:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825822"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T07:13:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T06:44:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "郑州急救用上岐黄术 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T06:39:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5"
             }
           ]
         }
@@ -382,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-06"
@@ -389,11 +391,6 @@
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-06"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-06"
     },
     {
@@ -407,14 +404,39 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-05"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-05"
+    },
+    {
+      "title": "无锡振华：25.90万股解除限售股份将于11月13日上市",
+      "url": "https://www.cnstock.com/commonDetail/826070",
+      "asOf": "2026-11-09T19:34:00+08:00"
+    },
+    {
+      "title": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/826040",
+      "asOf": "2026-11-09T19:30:00+08:00"
+    },
+    {
+      "title": "金麒麟：每10股派0.50元，股权登记日为11月17日",
+      "url": "https://www.cnstock.com/commonDetail/826074",
+      "asOf": "2026-11-09T19:30:00+08:00"
+    },
+    {
+      "title": "英伟达，在多个市场下跌",
+      "url": "https://www.cnstock.com/commonDetail/826021",
+      "asOf": "2026-11-09T18:56:00+08:00"
+    },
+    {
+      "title": "神州半导体IPO，11月16日上会",
+      "url": "https://www.cnstock.com/commonDetail/826081",
+      "asOf": "2026-11-09T18:56:00+08:00"
     },
     {
       "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
@@ -437,37 +459,52 @@
       "asOf": "2026-11-09T10:40:00+08:00"
     },
     {
-      "title": "世界各大媒体“掌门人”为何齐聚北京",
-      "url": "https://www.cnstock.com/commonDetail/825857",
-      "asOf": "2026-11-09T08:25:00+08:00"
-    },
-    {
-      "title": "一批制售侵权盗版图书典型案件公布 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5",
-      "asOf": "2026-11-09T07:23:47+00:00"
-    },
-    {
-      "title": "新型电网，如何扣住“网眼”",
-      "url": "https://www.cnstock.com/commonDetail/825822",
-      "asOf": "2026-11-09T07:20:00+08:00"
-    },
-    {
-      "title": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5",
-      "asOf": "2026-11-09T07:13:02+00:00"
-    },
-    {
-      "title": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5",
-      "asOf": "2026-11-09T06:44:26+00:00"
-    },
-    {
-      "title": "郑州急救用上岐黄术 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5",
-      "asOf": "2026-11-09T06:39:49+00:00"
+      "title": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5",
+      "asOf": "2026-11-09T10:18:03+00:00"
     }
   ],
   "events": [
+    {
+      "event": "无锡振华：25.90万股解除限售股份将于11月13日上市",
+      "originalTitle": "无锡振华：25.90万股解除限售股份将于11月13日上市",
+      "published": "2026-11-09T19:34:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826070",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
+      "originalTitle": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
+      "published": "2026-11-09T19:30:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826040",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "金麒麟：每10股派0.50元，股权登记日为11月17日",
+      "originalTitle": "金麒麟：每10股派0.50元，股权登记日为11月17日",
+      "published": "2026-11-09T19:30:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826074",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "英伟达，在多个市场下跌",
+      "originalTitle": "英伟达，在多个市场下跌",
+      "published": "2026-11-09T18:56:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826021",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "神州半导体IPO，11月16日上会",
+      "originalTitle": "神州半导体IPO，11月16日上会",
+      "published": "2026-11-09T18:56:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826081",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
       "originalTitle": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
@@ -482,14 +519,7 @@
       "published": "2026-11-09T14:49:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/825956",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825956",
-        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
-        "sha256": "cfa5c20b2f9a07dd9c39e1243dafdaba3179368870a922a30951f1c1dcac6450",
-        "paragraphCount": 8,
-        "excerpt": "上证报中国证券网讯（记者 陈颖清）公募机构近期调研动向出炉。公募排排网数据显示，上周（2026年11月2日-11月8日），共有142家公募机构参与A股调研活动，覆盖27个申万一级行业中的170只个股，合计调研频次达2173次。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "10月CPI同比上涨0.7%，PPI涨幅扩大",
@@ -497,14 +527,7 @@
       "published": "2026-11-09T11:41:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/825914",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825914",
-        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
-        "sha256": "33e77a5f34e1118df4ab5f9156c3f327b076ab5ddfa212e171e340b5d8b03c32",
-        "paragraphCount": 8,
-        "excerpt": "国家统计局11月9日发布的数据显示，10月份，CPI同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点；PPI同比上涨5.7%，涨幅比上月扩大0.7个百分点。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
@@ -512,62 +535,15 @@
       "published": "2026-11-09T10:40:00+08:00",
       "publisher": "新华社客户端",
       "url": "https://www.cnstock.com/commonDetail/825900",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/825900",
-        "retrievedAt": "2026-11-09T15:55:13.601063+08:00",
-        "sha256": "603f20acff1461ac749bf4ef0bbbeb8219646c5ae1a9064666bfc66f1b94b6ba",
-        "paragraphCount": 3,
-        "excerpt": "为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，国务院关税税则委员会发布公告，自2026年11月10日13时01分起，"
-      }
-    },
-    {
-      "event": "世界各大媒体“掌门人”为何齐聚北京",
-      "originalTitle": "世界各大媒体“掌门人”为何齐聚北京",
-      "published": "2026-11-09T08:25:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825857",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "一批制售侵权盗版图书典型案件公布 - 新华网",
-      "published": "2026-11-09T07:23:47+00:00",
+      "event": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
+      "published": "2026-11-09T10:18:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVkhOQ2JyVHdTbXNMSkt1NG9BNGM1Vllqd29zQURVLW43QVJ1cWxiLUhCaVNhRHVTR1dnMVVGUzczcThHTGkzR1RJT2psZkhjN3Z4cDJtcVR2N2Z6cFI2QWkxYjV2WkdLYkM5VVpXOTh2enh0a2FRN2xoOXUzQTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "一批制售侵权盗版图书典型案件公布 - 新华网"
-    },
-    {
-      "event": "新型电网，如何扣住“网眼”",
-      "originalTitle": "新型电网，如何扣住“网眼”",
-      "published": "2026-11-09T07:20:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/825822",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-09T07:13:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOWpSS194ZFhoUC1EV3FQWDNMdFBWYW84bEt2VlhkYjFRbnFRSHpsNUhwYmV3TU9XZV9QMkw5OHlJNVJfaTBHS1VaWWxoSWJhUll1dXRKOE8zcC14NnE4bEs4S1ZNZFl4MmRhV0ZRaUFNalUxWjNwdHZaeWNJSE0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国农业银行河北省分行原副巡视员郑学峰接受纪律审查和监察调查 - 新华网"
-    },
-    {
-      "event": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网",
-      "published": "2026-11-09T06:44:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa0JBSEIxOXJfaFRrZGtxSTFhR0JPanJpdVczT1ZCTkVOUnJXV0JRN1VPV0pSbjJvRWFFVjA2VGZUakdRdjhNbVhJcW8zdUNTTm1iajc2OVFpN2pIdlRIU0NyUU82NE9va3NncFBDdWVWcVEyOUJrdGJ0T2VOSXM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦中国人居品质升级 全球企业以创新回应多元需求 - 新华网"
-    },
-    {
-      "event": "郑州急救用上岐黄术 - 新华网",
-      "published": "2026-11-09T06:39:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tekNKdG91ZG9oZnQ3SGhzV2Nta21ESGpVQjdmQlJuZG5ybmxVdy16akZPTk1FelBlaXZDWHNiX2ZUamhPcmkzUHkyWENlaURkWHZVNzlUNWotYldUcDkzNTFXMFZwLVJtVl80dTVTZXBtMUROTUhaYnNCcElVZmM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "郑州急救用上岐黄术 - 新华网"
+      "originalTitle": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +557,12 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
