@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-10",
-  "date": "更新于北京时间 2026-11-10 15:42",
+  "date": "更新于北京时间 2026-11-10 16:23",
   "reportDate": "2026-11-10",
-  "updatedAt": "2026-11-10T15:42:42+08:00",
+  "updatedAt": "2026-11-10T16:23:37+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 7 条待核验线索",
   "notification": {
     "title": "2026-11-10 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 7 条待核验线索"
   },
   "pages": [
     {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：美国财政部。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -208,22 +208,6 @@
         },
         {
           "type": "explainer",
-          "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826177"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "华兰生物：每10股派2元，股权登记日为11月16日",
           "summary": "",
           "paragraphs": [
@@ -235,6 +219,22 @@
             {
               "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/826178"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826177"
             }
           ]
         },
@@ -260,72 +260,28 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-10T07:34:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月2日晚，被称为“口红一哥”的李佳琦在直播间开卖词元（Token），仅仅半小时，约2万亿词元的AI算力额度被消费者“囤”进购物车。消费者为词元付费，本质是为其背后消耗的算力买单。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/826369"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "深圳园博园国际主题花园开放 - 新华网",
+          "title": "坚持制度治党、依规治党——深入学习贯彻党的二十届五中全会精神系列述评之九",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T07:33:22+00:00；来源：新华网。",
+            "发布时间：2026-11-09T21:57:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T07:08:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T07:08:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T07:07:57+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/826292"
             }
           ]
         }
@@ -383,16 +339,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-09"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-09"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-09"
@@ -403,18 +349,28 @@
       "asOf": "2026-11-09"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-09"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-09"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-09"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-06"
     },
     {
@@ -428,13 +384,13 @@
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
-      "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
-      "url": "https://www.cnstock.com/commonDetail/826177",
+      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "url": "https://www.cnstock.com/commonDetail/826178",
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
-      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "url": "https://www.cnstock.com/commonDetail/826178",
+      "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "url": "https://www.cnstock.com/commonDetail/826177",
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
@@ -448,24 +404,9 @@
       "asOf": "2026-11-10T07:34:00+08:00"
     },
     {
-      "title": "深圳园博园国际主题花园开放 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5",
-      "asOf": "2026-11-10T07:33:22+00:00"
-    },
-    {
-      "title": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5",
-      "asOf": "2026-11-10T07:08:02+00:00"
-    },
-    {
-      "title": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5",
-      "asOf": "2026-11-10T07:08:02+00:00"
-    },
-    {
-      "title": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5",
-      "asOf": "2026-11-10T07:07:57+00:00"
+      "title": "坚持制度治党、依规治党——深入学习贯彻党的二十届五中全会精神系列述评之九",
+      "url": "https://www.cnstock.com/commonDetail/826292",
+      "asOf": "2026-11-09T21:57:00+08:00"
     }
   ],
   "events": [
@@ -486,25 +427,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826181",
-        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "retrievedAt": "2026-11-10T16:23:37.606732+08:00",
         "sha256": "0c3d38b14539a6a4f2eae0b2fbf3574b5fa188ae4193e83f0252fe57ed987fa3",
         "paragraphCount": 5,
         "excerpt": "上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
-      }
-    },
-    {
-      "event": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
-      "originalTitle": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
-      "published": "2026-11-10T09:51:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826177",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826177",
-        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
-        "sha256": "98847a08f9b2901ac87c12b737eb9dc82ca6315e00b68d99947c86eb377bff82",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
       }
     },
     {
@@ -516,10 +442,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826178",
-        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "retrievedAt": "2026-11-10T16:23:37.606732+08:00",
         "sha256": "d58d954586cca302ca43b015b9419f59c9431ff378af2570a1405f29c57b81b7",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+      }
+    },
+    {
+      "event": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "originalTitle": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "published": "2026-11-10T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826177",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826177",
+        "retrievedAt": "2026-11-10T16:23:37.606732+08:00",
+        "sha256": "98847a08f9b2901ac87c12b737eb9dc82ca6315e00b68d99947c86eb377bff82",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
       }
     },
     {
@@ -531,7 +472,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826380",
-        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "retrievedAt": "2026-11-10T16:23:37.606732+08:00",
         "sha256": "bf910c6128d02001b021ab4ea385c636deaa9961fe731b6555fcb2805f33555c",
         "paragraphCount": 13,
         "excerpt": "进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投"
@@ -543,45 +484,28 @@
       "published": "2026-11-10T07:34:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/826369",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826369",
+        "retrievedAt": "2026-11-10T16:23:37.606732+08:00",
+        "sha256": "72d5d30591d1966bf7ed53b7f6b53de10e631d20912cca2580cf3804c2a788ac",
+        "paragraphCount": 43,
+        "excerpt": "11月2日晚，被称为“口红一哥”的李佳琦在直播间开卖词元（Token），仅仅半小时，约2万亿词元的AI算力额度被消费者“囤”进购物车。消费者为词元付费，本质是为其背后消耗的算力买单。"
+      }
+    },
+    {
+      "event": "坚持制度治党、依规治党——深入学习贯彻党的二十届五中全会精神系列述评之九",
+      "originalTitle": "坚持制度治党、依规治党——深入学习贯彻党的二十届五中全会精神系列述评之九",
+      "published": "2026-11-09T21:57:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/826292",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "深圳园博园国际主题花园开放 - 新华网",
-      "published": "2026-11-10T07:33:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "深圳园博园国际主题花园开放 - 新华网"
-    },
-    {
-      "event": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
-      "published": "2026-11-10T07:08:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网"
-    },
-    {
-      "event": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
-      "published": "2026-11-10T07:08:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网"
-    },
-    {
-      "event": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
-      "published": "2026-11-10T07:07:57+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网"
     }
   ],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 10,
+    "news24hCount": 7,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -589,6 +513,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError"
     ]
