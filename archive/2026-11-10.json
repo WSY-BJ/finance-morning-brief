@@ -1,0 +1,563 @@
+{
+  "edition": "财经晨报 · 2026-11-10",
+  "date": "更新于北京时间 2026-11-10 11:32",
+  "reportDate": "2026-11-10",
+  "updatedAt": "2026-11-10T11:32:46+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-10 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-06：7,376.86 点；较 2026-11-05 变化 +23.13 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-06：98.32 美元/桶；较 2026-11-05 变化 +0.03 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "98.32 美元/桶；变化 +0.03 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 98.29（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.51 %；变化 +0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.86 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "102.30 点；变化 +0.75 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 101.55（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,376.86 点；变化 +23.13 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 7,353.73（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "24,579.43 点；变化 +264.43 点",
+          "paragraphs": [
+            "观测日 2026-11-06；前值 24,315.00（2026-11-05）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6760 人民币/美元；变化 -0.0120 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 6.6880（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T03:00:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "优化消费环境 让“放心消费”成为日常 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T02:43:50+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T02:34:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T02:09:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T02:09:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "承古开新 西安有章 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T01:24:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T01:14:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "在进博会上感受人工智能产业新脉动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T01:12:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T00:57:04+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "战略性矿产再评价取得新突破 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-09T23:55:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 33 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-05 前值 7353.7300，2026-11-06 现值 7376.8599，变化 +23.1299。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5",
+      "asOf": "2026-11-10T03:00:58+00:00"
+    },
+    {
+      "title": "优化消费环境 让“放心消费”成为日常 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
+      "asOf": "2026-11-10T02:43:50+00:00"
+    },
+    {
+      "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
+      "asOf": "2026-11-10T02:34:46+00:00"
+    },
+    {
+      "title": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5",
+      "asOf": "2026-11-10T02:09:42+00:00"
+    },
+    {
+      "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
+      "asOf": "2026-11-10T02:09:40+00:00"
+    },
+    {
+      "title": "承古开新 西安有章 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5",
+      "asOf": "2026-11-10T01:24:45+00:00"
+    },
+    {
+      "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
+      "asOf": "2026-11-10T01:14:38+00:00"
+    },
+    {
+      "title": "在进博会上感受人工智能产业新脉动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5",
+      "asOf": "2026-11-10T01:12:51+00:00"
+    },
+    {
+      "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
+      "asOf": "2026-11-10T00:57:04+00:00"
+    },
+    {
+      "title": "战略性矿产再评价取得新突破 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
+      "asOf": "2026-11-09T23:55:38+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
+      "published": "2026-11-10T03:00:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网"
+    },
+    {
+      "event": "优化消费环境 让“放心消费”成为日常 - 新华网",
+      "published": "2026-11-10T02:43:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "优化消费环境 让“放心消费”成为日常 - 新华网"
+    },
+    {
+      "event": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
+      "published": "2026-11-10T02:34:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网"
+    },
+    {
+      "event": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
+      "published": "2026-11-10T02:09:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网"
+    },
+    {
+      "event": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
+      "published": "2026-11-10T02:09:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网"
+    },
+    {
+      "event": "承古开新 西安有章 - 新华网",
+      "published": "2026-11-10T01:24:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "承古开新 西安有章 - 新华网"
+    },
+    {
+      "event": "全省民营企业贷款余额1.89万亿元 - 新华网",
+      "published": "2026-11-10T01:14:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全省民营企业贷款余额1.89万亿元 - 新华网"
+    },
+    {
+      "event": "在进博会上感受人工智能产业新脉动 - 新华网",
+      "published": "2026-11-10T01:12:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "在进博会上感受人工智能产业新脉动 - 新华网"
+    },
+    {
+      "event": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
+      "published": "2026-11-10T00:57:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网"
+    },
+    {
+      "event": "战略性矿产再评价取得新突破 - 新华网",
+      "published": "2026-11-09T23:55:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "战略性矿产再评价取得新突破 - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中国证券网原文: TimeoutError"
+    ]
+  }
+}

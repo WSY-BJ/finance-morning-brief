@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-09",
-  "date": "更新于北京时间 2026-11-09 20:53",
-  "reportDate": "2026-11-09",
-  "updatedAt": "2026-11-09T20:53:14+08:00",
+  "edition": "财经晨报 · 2026-11-10",
+  "date": "更新于北京时间 2026-11-10 11:32",
+  "reportDate": "2026-11-10",
+  "updatedAt": "2026-11-10T11:32:46+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-09 财经资料（待核验）",
+    "title": "2026-11-10 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-05：4.84 %；较 2026-11-04 变化 -0.06 个百分点。",
+          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.46 %；变化 -0.12 个百分点",
+          "summary": "4.51 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.58（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.84 %；变化 -0.06 个百分点",
+          "summary": "4.86 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-05；前值 4.90（2026-11-04）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6880 人民币/美元；变化 +0.0149 人民币/美元",
+          "summary": "6.6760 人民币/美元；变化 -0.0120 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-06；前值 6.6731（2026-11-05）；来源：Yahoo Finance。"
+            "观测日 2026-11-09；前值 6.6880（2026-11-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "无锡振华：25.90万股解除限售股份将于11月13日上市",
+          "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T19:34:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T03:00:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826070"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
+          "title": "优化消费环境 让“放心消费”成为日常 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T19:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T02:43:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826040"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "金麒麟：每10股派0.50元，股权登记日为11月17日",
+          "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T19:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T02:34:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826074"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "英伟达，在多个市场下跌",
+          "title": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T18:56:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T02:09:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826021"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "神州半导体IPO，11月16日上会",
+          "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T18:56:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T02:09:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826081"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
+          "title": "承古开新 西安有章 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T15:33:00+08:00；来源：新华社。",
+            "发布时间：2026-11-10T01:24:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825973"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "公募调研动向曝光 三大行业关注度居前",
+          "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T14:49:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T01:14:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825956"
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "10月CPI同比上涨0.7%，PPI涨幅扩大",
+          "title": "在进博会上感受人工智能产业新脉动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T11:41:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-10T01:12:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825914"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+          "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T10:40:00+08:00；来源：新华社客户端。",
+            "发布时间：2026-11-10T00:57:04+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/825900"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
+          "title": "战略性矿产再评价取得新突破 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-09T10:18:03+00:00；来源：新华网。",
+            "发布时间：2026-11-09T23:55:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 32 课：情景分析",
+      "title": "第 33 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -384,19 +384,19 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-06"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -404,146 +404,146 @@
       "asOf": "2026-11-06"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-05"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-06"
     },
     {
-      "title": "无锡振华：25.90万股解除限售股份将于11月13日上市",
-      "url": "https://www.cnstock.com/commonDetail/826070",
-      "asOf": "2026-11-09T19:34:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-06"
     },
     {
-      "title": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/826040",
-      "asOf": "2026-11-09T19:30:00+08:00"
+      "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5",
+      "asOf": "2026-11-10T03:00:58+00:00"
     },
     {
-      "title": "金麒麟：每10股派0.50元，股权登记日为11月17日",
-      "url": "https://www.cnstock.com/commonDetail/826074",
-      "asOf": "2026-11-09T19:30:00+08:00"
+      "title": "优化消费环境 让“放心消费”成为日常 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
+      "asOf": "2026-11-10T02:43:50+00:00"
     },
     {
-      "title": "英伟达，在多个市场下跌",
-      "url": "https://www.cnstock.com/commonDetail/826021",
-      "asOf": "2026-11-09T18:56:00+08:00"
+      "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
+      "asOf": "2026-11-10T02:34:46+00:00"
     },
     {
-      "title": "神州半导体IPO，11月16日上会",
-      "url": "https://www.cnstock.com/commonDetail/826081",
-      "asOf": "2026-11-09T18:56:00+08:00"
+      "title": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5",
+      "asOf": "2026-11-10T02:09:42+00:00"
     },
     {
-      "title": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
-      "url": "https://www.cnstock.com/commonDetail/825973",
-      "asOf": "2026-11-09T15:33:00+08:00"
+      "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
+      "asOf": "2026-11-10T02:09:40+00:00"
     },
     {
-      "title": "公募调研动向曝光 三大行业关注度居前",
-      "url": "https://www.cnstock.com/commonDetail/825956",
-      "asOf": "2026-11-09T14:49:00+08:00"
+      "title": "承古开新 西安有章 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5",
+      "asOf": "2026-11-10T01:24:45+00:00"
     },
     {
-      "title": "10月CPI同比上涨0.7%，PPI涨幅扩大",
-      "url": "https://www.cnstock.com/commonDetail/825914",
-      "asOf": "2026-11-09T11:41:00+08:00"
+      "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
+      "asOf": "2026-11-10T01:14:38+00:00"
     },
     {
-      "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "url": "https://www.cnstock.com/commonDetail/825900",
-      "asOf": "2026-11-09T10:40:00+08:00"
+      "title": "在进博会上感受人工智能产业新脉动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5",
+      "asOf": "2026-11-10T01:12:51+00:00"
     },
     {
-      "title": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5",
-      "asOf": "2026-11-09T10:18:03+00:00"
+      "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
+      "asOf": "2026-11-10T00:57:04+00:00"
+    },
+    {
+      "title": "战略性矿产再评价取得新突破 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
+      "asOf": "2026-11-09T23:55:38+00:00"
     }
   ],
   "events": [
     {
-      "event": "无锡振华：25.90万股解除限售股份将于11月13日上市",
-      "originalTitle": "无锡振华：25.90万股解除限售股份将于11月13日上市",
-      "published": "2026-11-09T19:34:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826070",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
-      "originalTitle": "英搏尔：拟斥资1.50亿元至2.50亿元回购公司股份",
-      "published": "2026-11-09T19:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826040",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "金麒麟：每10股派0.50元，股权登记日为11月17日",
-      "originalTitle": "金麒麟：每10股派0.50元，股权登记日为11月17日",
-      "published": "2026-11-09T19:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826074",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "英伟达，在多个市场下跌",
-      "originalTitle": "英伟达，在多个市场下跌",
-      "published": "2026-11-09T18:56:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826021",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "神州半导体IPO，11月16日上会",
-      "originalTitle": "神州半导体IPO，11月16日上会",
-      "published": "2026-11-09T18:56:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826081",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
-      "originalTitle": "外交部：所谓“中国间谍”论调纯属污蔑抹黑",
-      "published": "2026-11-09T15:33:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/825973",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "公募调研动向曝光 三大行业关注度居前",
-      "originalTitle": "公募调研动向曝光 三大行业关注度居前",
-      "published": "2026-11-09T14:49:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825956",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "10月CPI同比上涨0.7%，PPI涨幅扩大",
-      "originalTitle": "10月CPI同比上涨0.7%，PPI涨幅扩大",
-      "published": "2026-11-09T11:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/825914",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "originalTitle": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
-      "published": "2026-11-09T10:40:00+08:00",
-      "publisher": "新华社客户端",
-      "url": "https://www.cnstock.com/commonDetail/825900",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网",
-      "published": "2026-11-09T10:18:03+00:00",
+      "event": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
+      "published": "2026-11-10T03:00:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGdDUjUteDRYcU16MmdURzl1emt3dnhEWC1VeGUxeHRfbVB3RFl4MnYyUUxWcWJrdnpydEZ1S1pxQjFyU3JJTWRzV0IzYzN4RUNZSkpCY1dTRGNJMEZmQlRlQkd1cWtzSUZTc2lVbWJmTjRPUXhsRUhFaFY3RzVKYWF1bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQ1VNZ21yZ1k3V01lWjRySTVCMDRGSzAtVjRPd29pVzlTUnVtUjJYS09YUl9QNFBmRVR5SVR2WEt4cUlLaXNuQXBjNzJRa2Q3OG9tMWhfVGl1dVZGNkpZWkw0aXIzdUZrc3diUDB6RGx0Rm02d1BxUnlpTFV5ck0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "呼伦湖进入封冻期 现“冰浪”奇观 - 新华网"
+      "originalTitle": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网"
+    },
+    {
+      "event": "优化消费环境 让“放心消费”成为日常 - 新华网",
+      "published": "2026-11-10T02:43:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "优化消费环境 让“放心消费”成为日常 - 新华网"
+    },
+    {
+      "event": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
+      "published": "2026-11-10T02:34:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网"
+    },
+    {
+      "event": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网",
+      "published": "2026-11-10T02:09:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakdYYkRQajZoVEx1OGRmMV9aNUZRUGpXSU0xdXVKdnhOTDFSMjVhUWhycGZzX0JBVnA5Ul9Cb2kwTk05S3k2MkowTjZNU1hoWDBOWTlndGItb1l1YmR4WUtEMlc4cjN5RHYyTmF6cVI5WlBTeDQ4ZWRKZXAyTktFMTVB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "算清减重“反弹账” 破解秋冬体重复胖难题 - 新华网"
+    },
+    {
+      "event": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
+      "published": "2026-11-10T02:09:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网"
+    },
+    {
+      "event": "承古开新 西安有章 - 新华网",
+      "published": "2026-11-10T01:24:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2k3TVh1WFJOcXRZSnNSd3pXdFQ0WVppa2xWb2FUcGE2X0JONTI3clFBU3BTU01vMGVsbHFMRXFKM3AtQ2l3NnBNUi1vNmZ1RXBhTGNSbUxnX2QtRzdKcGktRk5MMHV2eU5GV2tCRllZLUpPUEJOYmdFQnQ3QTZLWS1n?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "承古开新 西安有章 - 新华网"
+    },
+    {
+      "event": "全省民营企业贷款余额1.89万亿元 - 新华网",
+      "published": "2026-11-10T01:14:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全省民营企业贷款余额1.89万亿元 - 新华网"
+    },
+    {
+      "event": "在进博会上感受人工智能产业新脉动 - 新华网",
+      "published": "2026-11-10T01:12:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT2hRVS1ZaUJkMlVPOWpqLUdsWXh4OENxZklFOFo5TUV1Q1ZnUTBtTlZhTFlRY1VIbVdXNDI3Tl9iX01XV2lQclZ0SFpZZG52c1VEN3AzQVYzdXFYWVkxOUEzX0VHZjFONXVPQlJ0dXZKVFltVkpMbkhTcXNoZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "在进博会上感受人工智能产业新脉动 - 新华网"
+    },
+    {
+      "event": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
+      "published": "2026-11-10T00:57:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网"
+    },
+    {
+      "event": "战略性矿产再评价取得新突破 - 新华网",
+      "published": "2026-11-09T23:55:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "战略性矿产再评价取得新突破 - 新华网"
     }
   ],
   "quality": {
@@ -557,15 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: TimeoutError"
     ]
   }
 }
