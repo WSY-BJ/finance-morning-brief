@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-10",
-  "date": "更新于北京时间 2026-11-10 12:44",
+  "date": "更新于北京时间 2026-11-10 13:05",
   "reportDate": "2026-11-10",
-  "updatedAt": "2026-11-10T12:44:01+08:00",
+  "updatedAt": "2026-11-10T13:05:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-06：7,376.86 点；较 2026-11-05 变化 +23.13 点。",
+          "summary": "2026-11-09：7,549.94 点；较 2026-11-06 变化 +173.08 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-06：98.32 美元/桶；较 2026-11-05 变化 +0.03 美元/桶。",
+          "summary": "2026-11-09：92.57 美元/桶；较 2026-11-06 变化 -5.75 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "98.32 美元/桶；变化 +0.03 美元/桶",
+          "summary": "92.57 美元/桶；变化 -5.75 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-06；前值 98.29（2026-11-05）；来源：Yahoo Finance。"
+            "观测日 2026-11-09；前值 98.32（2026-11-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -80,37 +80,37 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.30 点；变化 +0.75 点",
+          "summary": "101.65 点；变化 -0.65 点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 101.55（2026-11-05）；来源：Yahoo Finance。"
+            "观测日 2026-11-09；前值 102.30（2026-11-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,376.86 点；变化 +23.13 点",
+          "summary": "7,549.94 点；变化 +173.08 点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 7,353.73（2026-11-05）；来源：Yahoo Finance。"
+            "观测日 2026-11-09；前值 7,376.86（2026-11-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "24,579.43 点；变化 +264.43 点",
+          "summary": "25,253.14 点；变化 +673.71 点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 24,315.00（2026-11-05）；来源：Yahoo Finance。"
+            "观测日 2026-11-09；前值 24,579.43（2026-11-06）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -192,22 +192,6 @@
         },
         {
           "type": "explainer",
-          "title": "华兰生物：每10股派2元，股权登记日为11月16日",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826178"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
           "summary": "",
           "paragraphs": [
@@ -240,15 +224,32 @@
         },
         {
           "type": "explainer",
+          "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826178"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "多方发力稳投资 年末冲刺进行时",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-10T07:57:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/826380"
             }
           ]
@@ -265,6 +266,36 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/826369"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "与进博同行丨美敦力脑机接口闭环生态系统首秀，引领帕金森病等神经系统疾病诊疗升级 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T04:33:00+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0x5SUpLWWFjNUo3VERob3Y5c1owME9ya2hKYlZZMlphWWhLY0lGZS1fakxnT2dmWl9fZ3N3ckduYlhHZkFUMjJUcklyeVIxTk11OXlHNk9zenM0Tkl5ZWxOOVV6d1RhbVFUeHdGLXJnWTRRSE05QlQyNUU4cmZqZQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "博茨瓦纳总统强调将促进经济增长改善民生 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T03:03:09+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZalgtT1V5cGh2TnlRTWZZWHNudHJCSWxxZWZRcmFSUEx2MFBIU284MlBJcUp3M0NFUmdGRnpRTnJaX2NTSjFFeTJjWkpWVkNPWUd5RlFVR3ZLQm11R0M1c2hTZVdTRVc0R1pGaW5uckdiSU1tUkJfdXo3YlJBYzg?oc=5"
             }
           ]
         },
@@ -297,36 +328,6 @@
               "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T02:34:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T02:09:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -356,7 +357,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-05 前值 7353.7300，2026-11-06 现值 7376.8599，变化 +23.1299。",
+            "本期实例：标普 500 指数，2026-11-06 前值 7376.8599，2026-11-09 现值 7549.9399，变化 +173.0801。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -384,17 +385,17 @@
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-06"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-09"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -404,27 +405,22 @@
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-06"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-09"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-06"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-09"
     },
     {
       "title": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
       "url": "https://www.cnstock.com/commonDetail/826442",
       "asOf": "2026-11-10T10:40:00+08:00"
-    },
-    {
-      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "url": "https://www.cnstock.com/commonDetail/826178",
-      "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
       "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
@@ -434,6 +430,11 @@
     {
       "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
       "url": "https://www.cnstock.com/commonDetail/826177",
+      "asOf": "2026-11-10T09:51:00+08:00"
+    },
+    {
+      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "url": "https://www.cnstock.com/commonDetail/826178",
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
@@ -447,6 +448,16 @@
       "asOf": "2026-11-10T07:34:00+08:00"
     },
     {
+      "title": "与进博同行丨美敦力脑机接口闭环生态系统首秀，引领帕金森病等神经系统疾病诊疗升级 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0x5SUpLWWFjNUo3VERob3Y5c1owME9ya2hKYlZZMlphWWhLY0lGZS1fakxnT2dmWl9fZ3N3ckduYlhHZkFUMjJUcklyeVIxTk11OXlHNk9zenM0Tkl5ZWxOOVV6d1RhbVFUeHdGLXJnWTRRSE05QlQyNUU4cmZqZQ?oc=5",
+      "asOf": "2026-11-10T04:33:00+00:00"
+    },
+    {
+      "title": "博茨瓦纳总统强调将促进经济增长改善民生 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZalgtT1V5cGh2TnlRTWZZWHNudHJCSWxxZWZRcmFSUEx2MFBIU284MlBJcUp3M0NFUmdGRnpRTnJaX2NTSjFFeTJjWkpWVkNPWUd5RlFVR3ZLQm11R0M1c2hTZVdTRVc0R1pGaW5uckdiSU1tUkJfdXo3YlJBYzg?oc=5",
+      "asOf": "2026-11-10T03:03:09+00:00"
+    },
+    {
       "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iY29vTGFKa3dvVUl5b0M3cjFVWVk3SFJ1dFQ3QnBhNVRoUk92SkVwR3RBbUtWRGthTHRYSkZqVDhmb0gycnpxZkxrVkpvVGdwc09IX0hfZXJEUGxhd1B2dG1PMzlVZUdBdXVJaEhYMGh0LXRmNWZB?oc=5",
       "asOf": "2026-11-10T03:00:58+00:00"
@@ -455,16 +466,6 @@
       "title": "优化消费环境 让“放心消费”成为日常 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
       "asOf": "2026-11-10T02:43:50+00:00"
-    },
-    {
-      "title": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
-      "asOf": "2026-11-10T02:34:46+00:00"
-    },
-    {
-      "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
-      "asOf": "2026-11-10T02:09:40+00:00"
     }
   ],
   "events": [
@@ -477,21 +478,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "originalTitle": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "published": "2026-11-10T09:51:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826178",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826178",
-        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
-        "sha256": "b8e309c36865b554d7db92e48227868d56e1a73e2982bd88aecf77aafb4bcf94",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
-      }
-    },
-    {
       "event": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
       "originalTitle": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
       "published": "2026-11-10T09:51:00+08:00",
@@ -500,8 +486,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826181",
-        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
-        "sha256": "61af90087b8454d7a7ecf7f6a6cc627e7e6762194677ff28afabdbf3ff58f143",
+        "retrievedAt": "2026-11-10T13:05:49.100114+08:00",
+        "sha256": "6a8fea7711b56136fc80773feef79d5d9dff030854bcb8d9d2e0d04a72f7cc22",
         "paragraphCount": 5,
         "excerpt": "上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
       }
@@ -515,10 +501,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826177",
-        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
-        "sha256": "424944f0d52453667448bc6744511bb63b854191c6c13d78b319fda560102515",
+        "retrievedAt": "2026-11-10T13:05:49.100114+08:00",
+        "sha256": "515dba6bb9286d8832d557b259c3614773ac6c21d14eb958c8f0e510c6d6313f",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
+      }
+    },
+    {
+      "event": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "originalTitle": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "published": "2026-11-10T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826178",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826178",
+        "retrievedAt": "2026-11-10T13:05:49.100114+08:00",
+        "sha256": "15b9f76cded112f49717d9fac7ba3a1262e543d3fd1537d69a1927dac9e96e2e",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
       }
     },
     {
@@ -527,7 +528,14 @@
       "published": "2026-11-10T07:57:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/826380",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826380",
+        "retrievedAt": "2026-11-10T13:05:49.100114+08:00",
+        "sha256": "ba98b1b35b4ad027b38e7802c90df80d8758c3a04aeffaacf48dc92cb7a8dbb6",
+        "paragraphCount": 13,
+        "excerpt": "进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投"
+      }
     },
     {
       "event": "10万亿级大棋局：算力网建设须“协同发力”",
@@ -536,6 +544,22 @@
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/826369",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "与进博同行丨美敦力脑机接口闭环生态系统首秀，引领帕金森病等神经系统疾病诊疗升级 - 新华网",
+      "published": "2026-11-10T04:33:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0x5SUpLWWFjNUo3VERob3Y5c1owME9ya2hKYlZZMlphWWhLY0lGZS1fakxnT2dmWl9fZ3N3ckduYlhHZkFUMjJUcklyeVIxTk11OXlHNk9zenM0Tkl5ZWxOOVV6d1RhbVFUeHdGLXJnWTRRSE05QlQyNUU4cmZqZQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "与进博同行丨美敦力脑机接口闭环生态系统首秀，引领帕金森病等神经系统疾病诊疗升级 - 新华网"
+    },
+    {
+      "event": "博茨瓦纳总统强调将促进经济增长改善民生 - 新华网",
+      "published": "2026-11-10T03:03:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZalgtT1V5cGh2TnlRTWZZWHNudHJCSWxxZWZRcmFSUEx2MFBIU284MlBJcUp3M0NFUmdGRnpRTnJaX2NTSjFFeTJjWkpWVkNPWUd5RlFVR3ZLQm11R0M1c2hTZVdTRVc0R1pGaW5uckdiSU1tUkJfdXo3YlJBYzg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "博茨瓦纳总统强调将促进经济增长改善民生 - 新华网"
     },
     {
       "event": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
@@ -552,22 +576,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNnZzMVpYUTcta2tmSFhpb0FrSy1SNTh5OEMwdGVLTjNRRUwtQ2FRSnE1ek1lRjY3SnpzYnhocHV3czFYUzRpYlcxdGstd25hYXdGeE4zYnViN0JvNGVSeHphOEdQUzhpcHhaLXdKT2o0UWRMMEM4OWJXbS1EZw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "优化消费环境 让“放心消费”成为日常 - 新华网"
-    },
-    {
-      "event": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网",
-      "published": "2026-11-10T02:34:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcldlYW1wbWhTNy0tcFdrU09kUDlwNFBJSk1FeEdGZGRIYmxTelg0LUpkQm0taFQ5NHJzX0Y5Y0hsYl9UalY3elEzMDh0aV9pU1dfaHNjVUlDc2k3eGcxdm9ENzVnUjBaUkZKZm5tUndEYlJnZ3FQT2hjVmNfUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026年网络峰会开幕 中国科技力量受瞩目 - 新华网"
-    },
-    {
-      "event": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
-      "published": "2026-11-10T02:09:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网"
     }
   ],
   "quality": {
@@ -581,7 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
