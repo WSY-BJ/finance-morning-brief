@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-10",
-  "date": "更新于北京时间 2026-11-10 15:20",
+  "date": "更新于北京时间 2026-11-10 15:42",
   "reportDate": "2026-11-10",
-  "updatedAt": "2026-11-10T15:20:01+08:00",
+  "updatedAt": "2026-11-10T15:42:42+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -192,17 +192,17 @@
         },
         {
           "type": "explainer",
-          "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+          "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+            "原文摘要：上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826178"
+              "url": "https://www.cnstock.com/commonDetail/826181"
             }
           ]
         },
@@ -224,17 +224,17 @@
         },
         {
           "type": "explainer",
-          "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+          "title": "华兰生物：每10股派2元，股权登记日为11月16日",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
+            "原文摘要：上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826181"
+              "url": "https://www.cnstock.com/commonDetail/826178"
             }
           ]
         },
@@ -244,11 +244,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-10T07:57:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/826380"
             }
           ]
@@ -270,61 +271,61 @@
         },
         {
           "type": "explainer",
-          "title": "黄河壶口瀑布清流飞瀑与彩虹同框 - 新华网",
+          "title": "深圳园博园国际主题花园开放 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T06:41:30+00:00；来源：新华网。",
+            "发布时间：2026-11-10T07:33:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WX19BOXlFeXVOd19EYXlpTEh1aFJkUzR3d2ZHNlRDcjROMzVUNDkxVGNnRkNFWEp6T2FTRnZ2YVZyMVRCT2QyUzVseWFnOElsNUltNEVEY1h1Y3RfRFBWVHdEVTlsZmxzOWNXdC1QdUxORE9EM08wTGNEU0hkV0E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "COP31“中国角”机器人街舞吸引海外观众驻足 - 新华网",
+          "title": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T06:41:21+00:00；来源：新华网。",
+            "发布时间：2026-11-10T07:08:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XY0xSaGtJeDZYNU5ZTGE1Tk9ZYjhKOGJ0SW56V0prTk9RUEhxRXZUSjltUDYtV05Tb0VHSHRnTVZmMERRSVdGTkNBVzd4bVl4dU81S3B0WmFYU1pUcV9TQ3FsYWV4NmlIeDlUUG9MZHpPS0VwaU5IeHhRWm1FUE0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "来看消防员的“硬核装备” - 新华网",
+          "title": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T06:41:10+00:00；来源：新华网。",
+            "发布时间：2026-11-10T07:08:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zd3lpODZjMmpnTzFPRlAtQ1gzQllzTmRzX3RLLXdiOFNJcVdua3BCSFBXdmk0QTBZeWNJWUR0eVI1ZzY5dFhwVGhkY2RlZ1ZIUGJZeGo0LXVCeFJLUEliaXp0TG1hMVZNaTJ0ZXN4RGRBdnVZU1dvcDZadmZxaDg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "列国鉴丨记者观察：非洲最大产金国掀起矿业改革风暴 - 新华网",
+          "title": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T06:26:05+00:00；来源：新华网。",
+            "发布时间：2026-11-10T07:07:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeHBYUTFGbG1vWl9jSGFMR21LVVJ6OVdCNFppY1BsU3pwaGZpU1V6dGxvVXBlSVFuOGtDbFpJUEdtdnB2Y3g0WkZCRjZrSnczTE1BdU8xMl8zSm12ZzRWOUpOaUh3bzlpRkcyWV9EZXN3U1BLWC0xNkVjcEN6RDA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5"
             }
           ]
         }
@@ -387,13 +388,13 @@
       "asOf": "2026-11-09"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-09"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-09"
     },
     {
@@ -422,8 +423,8 @@
       "asOf": "2026-11-10T10:40:00+08:00"
     },
     {
-      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "url": "https://www.cnstock.com/commonDetail/826178",
+      "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/826181",
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
@@ -432,8 +433,8 @@
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
-      "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/826181",
+      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "url": "https://www.cnstock.com/commonDetail/826178",
       "asOf": "2026-11-10T09:51:00+08:00"
     },
     {
@@ -447,24 +448,24 @@
       "asOf": "2026-11-10T07:34:00+08:00"
     },
     {
-      "title": "黄河壶口瀑布清流飞瀑与彩虹同框 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WX19BOXlFeXVOd19EYXlpTEh1aFJkUzR3d2ZHNlRDcjROMzVUNDkxVGNnRkNFWEp6T2FTRnZ2YVZyMVRCT2QyUzVseWFnOElsNUltNEVEY1h1Y3RfRFBWVHdEVTlsZmxzOWNXdC1QdUxORE9EM08wTGNEU0hkV0E?oc=5",
-      "asOf": "2026-11-10T06:41:30+00:00"
+      "title": "深圳园博园国际主题花园开放 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5",
+      "asOf": "2026-11-10T07:33:22+00:00"
     },
     {
-      "title": "COP31“中国角”机器人街舞吸引海外观众驻足 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XY0xSaGtJeDZYNU5ZTGE1Tk9ZYjhKOGJ0SW56V0prTk9RUEhxRXZUSjltUDYtV05Tb0VHSHRnTVZmMERRSVdGTkNBVzd4bVl4dU81S3B0WmFYU1pUcV9TQ3FsYWV4NmlIeDlUUG9MZHpPS0VwaU5IeHhRWm1FUE0?oc=5",
-      "asOf": "2026-11-10T06:41:21+00:00"
+      "title": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5",
+      "asOf": "2026-11-10T07:08:02+00:00"
     },
     {
-      "title": "来看消防员的“硬核装备” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zd3lpODZjMmpnTzFPRlAtQ1gzQllzTmRzX3RLLXdiOFNJcVdua3BCSFBXdmk0QTBZeWNJWUR0eVI1ZzY5dFhwVGhkY2RlZ1ZIUGJZeGo0LXVCeFJLUEliaXp0TG1hMVZNaTJ0ZXN4RGRBdnVZU1dvcDZadmZxaDg?oc=5",
-      "asOf": "2026-11-10T06:41:10+00:00"
+      "title": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5",
+      "asOf": "2026-11-10T07:08:02+00:00"
     },
     {
-      "title": "列国鉴丨记者观察：非洲最大产金国掀起矿业改革风暴 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeHBYUTFGbG1vWl9jSGFMR21LVVJ6OVdCNFppY1BsU3pwaGZpU1V6dGxvVXBlSVFuOGtDbFpJUEdtdnB2Y3g0WkZCRjZrSnczTE1BdU8xMl8zSm12ZzRWOUpOaUh3bzlpRkcyWV9EZXN3U1BLWC0xNkVjcEN6RDA?oc=5",
-      "asOf": "2026-11-10T06:26:05+00:00"
+      "title": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5",
+      "asOf": "2026-11-10T07:07:57+00:00"
     }
   ],
   "events": [
@@ -477,18 +478,18 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "华兰生物：每10股派2元，股权登记日为11月16日",
-      "originalTitle": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "event": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "originalTitle": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
       "published": "2026-11-10T09:51:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826178",
+      "url": "https://www.cnstock.com/commonDetail/826181",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826178",
-        "retrievedAt": "2026-11-10T15:20:01.600221+08:00",
-        "sha256": "d58d954586cca302ca43b015b9419f59c9431ff378af2570a1405f29c57b81b7",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+        "url": "https://www.cnstock.com/commonDetail/826181",
+        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "sha256": "0c3d38b14539a6a4f2eae0b2fbf3574b5fa188ae4193e83f0252fe57ed987fa3",
+        "paragraphCount": 5,
+        "excerpt": "上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
       }
     },
     {
@@ -500,25 +501,25 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826177",
-        "retrievedAt": "2026-11-10T15:20:01.600221+08:00",
+        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
         "sha256": "98847a08f9b2901ac87c12b737eb9dc82ca6315e00b68d99947c86eb377bff82",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
       }
     },
     {
-      "event": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
-      "originalTitle": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "event": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "originalTitle": "华兰生物：每10股派2元，股权登记日为11月16日",
       "published": "2026-11-10T09:51:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826181",
+      "url": "https://www.cnstock.com/commonDetail/826178",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826181",
-        "retrievedAt": "2026-11-10T15:20:01.600221+08:00",
-        "sha256": "0c3d38b14539a6a4f2eae0b2fbf3574b5fa188ae4193e83f0252fe57ed987fa3",
-        "paragraphCount": 5,
-        "excerpt": "上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
+        "url": "https://www.cnstock.com/commonDetail/826178",
+        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "sha256": "d58d954586cca302ca43b015b9419f59c9431ff378af2570a1405f29c57b81b7",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
       }
     },
     {
@@ -527,7 +528,14 @@
       "published": "2026-11-10T07:57:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/826380",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826380",
+        "retrievedAt": "2026-11-10T15:42:42.819513+08:00",
+        "sha256": "bf910c6128d02001b021ab4ea385c636deaa9961fe731b6555fcb2805f33555c",
+        "paragraphCount": 13,
+        "excerpt": "进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投"
+      }
     },
     {
       "event": "10万亿级大棋局：算力网建设须“协同发力”",
@@ -538,36 +546,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "黄河壶口瀑布清流飞瀑与彩虹同框 - 新华网",
-      "published": "2026-11-10T06:41:30+00:00",
+      "event": "深圳园博园国际主题花园开放 - 新华网",
+      "published": "2026-11-10T07:33:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WX19BOXlFeXVOd19EYXlpTEh1aFJkUzR3d2ZHNlRDcjROMzVUNDkxVGNnRkNFWEp6T2FTRnZ2YVZyMVRCT2QyUzVseWFnOElsNUltNEVEY1h1Y3RfRFBWVHdEVTlsZmxzOWNXdC1QdUxORE9EM08wTGNEU0hkV0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNjVRZnFPc2RZYnE0UmlqVGtNel82ZGxmYTMyOEcyRTdJWFNCRlBLSjFqZlJ4YmNEZUVxaEdWXzA5OWZuaUw2WGRnd2xDMG9zUmprYmxLT1Iwb2FCWFpLSUFiT0hzeVhLeC1WUmhzZHNiOEE1VFI5YzF1bnZyQjA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "黄河壶口瀑布清流飞瀑与彩虹同框 - 新华网"
+      "originalTitle": "深圳园博园国际主题花园开放 - 新华网"
     },
     {
-      "event": "COP31“中国角”机器人街舞吸引海外观众驻足 - 新华网",
-      "published": "2026-11-10T06:41:21+00:00",
+      "event": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网",
+      "published": "2026-11-10T07:08:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XY0xSaGtJeDZYNU5ZTGE1Tk9ZYjhKOGJ0SW56V0prTk9RUEhxRXZUSjltUDYtV05Tb0VHSHRnTVZmMERRSVdGTkNBVzd4bVl4dU81S3B0WmFYU1pUcV9TQ3FsYWV4NmlIeDlUUG9MZHpPS0VwaU5IeHhRWm1FUE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBmamRTdmFoSGhmOVNrZjFOcUtWOUlpRUc4ZW5pUGJCYTZyMjEzaHAzZm1Wa0xqS3hqdjZlLWlLVDFvbFNadUdwMmhUdkxtSUxjRy1aMjg4SW8yc2pYQnRKWE5OdllBWDl3ZnpyMTdKRzNBNUdCcS1hbXFpWTJSRg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "COP31“中国角”机器人街舞吸引海外观众驻足 - 新华网"
+      "originalTitle": "“凝心聚力护航发展”营商网络舆情环境研讨会顺利举行 - 新华网"
     },
     {
-      "event": "来看消防员的“硬核装备” - 新华网",
-      "published": "2026-11-10T06:41:10+00:00",
+      "event": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网",
+      "published": "2026-11-10T07:08:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zd3lpODZjMmpnTzFPRlAtQ1gzQllzTmRzX3RLLXdiOFNJcVdua3BCSFBXdmk0QTBZeWNJWUR0eVI1ZzY5dFhwVGhkY2RlZ1ZIUGJZeGo0LXVCeFJLUEliaXp0TG1hMVZNaTJ0ZXN4RGRBdnVZU1dvcDZadmZxaDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZFZuM3pkWlRiaE1iZE14TGZoQUVxenV1QUFsZ2dkbDVQZVFINWZzSm9IMWtYTy1FZUw3c2J5NTN5aXBCanZQcUpfVmJFSVNldHJRUjk2UUNFSWp5QlJnalNSS01RNVpqbkpxMTNVZjU1Y3gtZk9SM3RVcFhQZm8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "来看消防员的“硬核装备” - 新华网"
+      "originalTitle": "古巴国家主席：古巴的未来绝不会由美国决定 - 新华网"
     },
     {
-      "event": "列国鉴丨记者观察：非洲最大产金国掀起矿业改革风暴 - 新华网",
-      "published": "2026-11-10T06:26:05+00:00",
+      "event": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网",
+      "published": "2026-11-10T07:07:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeHBYUTFGbG1vWl9jSGFMR21LVVJ6OVdCNFppY1BsU3pwaGZpU1V6dGxvVXBlSVFuOGtDbFpJUEdtdnB2Y3g0WkZCRjZrSnczTE1BdU8xMl8zSm12ZzRWOUpOaUh3bzlpRkcyWV9EZXN3U1BLWC0xNkVjcEN6RDA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TTkhvUDdVM2VKb2Y1MW1nSUFsS3RMU0hEUGp2S2V2VnhrWFQ3eXdyZ2RZYlhrbDdGcDZIU3JaTGVYYkNNcnN4QW5aajZUZ1Q0cTV1aFY5aERvNkJyNS0tdTF2dXphaVh2T1ZtUjFfU0RYUjJsanhn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "列国鉴丨记者观察：非洲最大产金国掀起矿业改革风暴 - 新华网"
+      "originalTitle": "中国经济看“新”丨AI短剧火到海外，千亿赛道凭“新”突围 - 新华网"
     }
   ],
   "quality": {
@@ -581,7 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
