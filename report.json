@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-10",
-  "date": "更新于北京时间 2026-11-10 12:19",
+  "date": "更新于北京时间 2026-11-10 12:44",
   "reportDate": "2026-11-10",
-  "updatedAt": "2026-11-10T12:19:04+08:00",
+  "updatedAt": "2026-11-10T12:44:01+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,99 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T10:40:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826442"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826178"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826181"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T09:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826177"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "多方发力稳投资 年末冲刺进行时",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T07:57:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826380"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "10万亿级大棋局：算力网建设须“协同发力”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T07:34:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826369"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -234,96 +327,6 @@
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T01:14:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T00:57:04+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "战略性矿产再评价取得新突破 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T23:55:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "法外长称伊朗对法国超市制冷系统遭网攻“负有责任” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T20:50:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbzZ5ZDRRRGxUWHpWaENCODJibE1aTmw5ajFqeDJsaWZpb0lQQzBvbU11MWh1MmlDb3Jmc2VPZUpUYl9oNjNLWmlacFVIeUhCZXRvYmhuNFQwYUg3OGdjanNSNzF4XzVzM2FhTFA2ZGttZm11aHNhTHdJVi1WZG8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5% - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T18:44:44+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGM5MlluNGhqRWg0SFN0MWI5Ym1ScFV2S2dlcnFNN3RWRm1GZ3BjbjVURk9XdUhXWjNKY1ZRdXYtRW03NmJYSGlqTDVJV2pVOE4xZ3JENWpKY3dFeVpzbFJ4cXJnVjVxWm4zQ0lETTA5MDVYQkdILTBKckZXRVFxRkt3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-09T16:32:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXpKajZIb3dqOTBJQ2NfVEJiRENyU2lvbzFwVnFiV092QXVjTFNkd1dsODZvd1hBU2Y2SmVIT1BXLXhvQmt4d2pNdmFmZFJLWEJzWDNXM3RXLTR5VWFhNnBFVWhGSlBxamNYNjdXZlQzZDFURUx6VWd3dGZ6N1BTbEliMTR3MTlJZmV2eHZ3?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,16 +382,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-09"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-06"
@@ -397,6 +390,16 @@
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-06"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-06"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-09"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -412,6 +415,36 @@
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-06"
+    },
+    {
+      "title": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
+      "url": "https://www.cnstock.com/commonDetail/826442",
+      "asOf": "2026-11-10T10:40:00+08:00"
+    },
+    {
+      "title": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "url": "https://www.cnstock.com/commonDetail/826178",
+      "asOf": "2026-11-10T09:51:00+08:00"
+    },
+    {
+      "title": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/826181",
+      "asOf": "2026-11-10T09:51:00+08:00"
+    },
+    {
+      "title": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "url": "https://www.cnstock.com/commonDetail/826177",
+      "asOf": "2026-11-10T09:51:00+08:00"
+    },
+    {
+      "title": "多方发力稳投资 年末冲刺进行时",
+      "url": "https://www.cnstock.com/commonDetail/826380",
+      "asOf": "2026-11-10T07:57:00+08:00"
+    },
+    {
+      "title": "10万亿级大棋局：算力网建设须“协同发力”",
+      "url": "https://www.cnstock.com/commonDetail/826369",
+      "asOf": "2026-11-10T07:34:00+08:00"
     },
     {
       "title": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
@@ -432,39 +465,78 @@
       "title": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
       "asOf": "2026-11-10T02:09:40+00:00"
-    },
-    {
-      "title": "全省民营企业贷款余额1.89万亿元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
-      "asOf": "2026-11-10T01:14:38+00:00"
-    },
-    {
-      "title": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
-      "asOf": "2026-11-10T00:57:04+00:00"
-    },
-    {
-      "title": "战略性矿产再评价取得新突破 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
-      "asOf": "2026-11-09T23:55:38+00:00"
-    },
-    {
-      "title": "法外长称伊朗对法国超市制冷系统遭网攻“负有责任” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbzZ5ZDRRRGxUWHpWaENCODJibE1aTmw5ajFqeDJsaWZpb0lQQzBvbU11MWh1MmlDb3Jmc2VPZUpUYl9oNjNLWmlacFVIeUhCZXRvYmhuNFQwYUg3OGdjanNSNzF4XzVzM2FhTFA2ZGttZm11aHNhTHdJVi1WZG8?oc=5",
-      "asOf": "2026-11-09T20:50:42+00:00"
-    },
-    {
-      "title": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5% - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGM5MlluNGhqRWg0SFN0MWI5Ym1ScFV2S2dlcnFNN3RWRm1GZ3BjbjVURk9XdUhXWjNKY1ZRdXYtRW03NmJYSGlqTDVJV2pVOE4xZ3JENWpKY3dFeVpzbFJ4cXJnVjVxWm4zQ0lETTA5MDVYQkdILTBKckZXRVFxRkt3?oc=5",
-      "asOf": "2026-11-09T18:44:44+00:00"
-    },
-    {
-      "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXpKajZIb3dqOTBJQ2NfVEJiRENyU2lvbzFwVnFiV092QXVjTFNkd1dsODZvd1hBU2Y2SmVIT1BXLXhvQmt4d2pNdmFmZFJLWEJzWDNXM3RXLTR5VWFhNnBFVWhGSlBxamNYNjdXZlQzZDFURUx6VWd3dGZ6N1BTbEliMTR3MTlJZmV2eHZ3?oc=5",
-      "asOf": "2026-11-09T16:32:31+00:00"
     }
   ],
   "events": [
+    {
+      "event": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
+      "originalTitle": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
+      "published": "2026-11-10T10:40:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826442",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "originalTitle": "华兰生物：每10股派2元，股权登记日为11月16日",
+      "published": "2026-11-10T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826178",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826178",
+        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
+        "sha256": "b8e309c36865b554d7db92e48227868d56e1a73e2982bd88aecf77aafb4bcf94",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月9日，华兰生物发布2026年半年度权益分派实施公告称，本次权益分派以公司总股本约18.26亿股为基数，向全体股东每10股派发现金红利2元（含税），合计派发现金约3.65亿元（含税），不送红股，不以公积金转增股本。自分配方案披"
+      }
+    },
+    {
+      "event": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "originalTitle": "耐普矿机：拟斥资5000万元至8000万元回购公司股份",
+      "published": "2026-11-10T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826181",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826181",
+        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
+        "sha256": "61af90087b8454d7a7ecf7f6a6cc627e7e6762194677ff28afabdbf3ff58f143",
+        "paragraphCount": 5,
+        "excerpt": "上证智讯 11月9日，耐普矿机发布关于回购公司股份方案的公告称，公司于2026年11月9日召开第六届董事会第八次会议，审议通过《关于回购公司股份方案的议案》，该事项已由三分之二以上董事出席的董事会审议通过，无需提交股东会审议。"
+      }
+    },
+    {
+      "event": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "originalTitle": "伊戈尔：限制性股票解除限售13.76万股，11月12日将上市",
+      "published": "2026-11-10T09:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826177",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826177",
+        "retrievedAt": "2026-11-10T12:44:01.239635+08:00",
+        "sha256": "424944f0d52453667448bc6744511bb63b854191c6c13d78b319fda560102515",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月9日，伊戈尔发布关于2023年股票期权与限制性股票激励计划预留授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告称，公司于2026年10月27日召开第七届董事会第八次会议，审议通过了《关于2023年股票期权与限制"
+      }
+    },
+    {
+      "event": "多方发力稳投资 年末冲刺进行时",
+      "originalTitle": "多方发力稳投资 年末冲刺进行时",
+      "published": "2026-11-10T07:57:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826380",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "10万亿级大棋局：算力网建设须“协同发力”",
+      "originalTitle": "10万亿级大棋局：算力网建设须“协同发力”",
+      "published": "2026-11-10T07:34:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826369",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "全文丨共建“一带一路”推动建设开放型世界经济 - 新华网",
       "published": "2026-11-10T03:00:58+00:00",
@@ -496,54 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTJmRkFfaGZ6UnotTk9XNi1Ga3A4R29jWnBPVmpHOFdQejBEZk1yb0M0T0RmSURaVWFfQmc3VEdIS1FZZGtyMC1KWlNwYTRocGNLNlNaTzFWcjRyeHNqY2pmZGZDaGhMUjJRd0pHVlZiT0hXUUYwTG1nOTNnV3JJLXJR?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "便利化“组合拳”出招 离境退税释放入境消费新动能 - 新华网"
-    },
-    {
-      "event": "全省民营企业贷款余额1.89万亿元 - 新华网",
-      "published": "2026-11-10T01:14:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRVZlQmp3WTZac2RyUTY0MVNtdXpfRTlPc05LMkk2dlpINGhxR3ZaMEdTbXFqNzlhRTVRRzVCcTk3aHZhbVhPak9kTlpRUk5WcllKRFhWWExsVmdJd3BqakRxQ2tHV1N6UmRnMFp3VXh1S0pteGN0cDBn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "全省民营企业贷款余额1.89万亿元 - 新华网"
-    },
-    {
-      "event": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网",
-      "published": "2026-11-10T00:57:04+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN05PQVdId09feWlFR3R1d1RYdC1PY1pkcldIX2h4NmpBTVlLNnFreEVXQkI1ZTQ1RHc5SXNmYldveS1UTXl0UThsMDB6ZElhc0cxZzFtQWxudVlZcEl5a3JycjR4eU5jNlg0Tkp6bGFEODJF?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“国社之镜·世纪光影—建设金融强国”摄影展天津分展开展 - 新华网"
-    },
-    {
-      "event": "战略性矿产再评价取得新突破 - 新华网",
-      "published": "2026-11-09T23:55:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUp0d2R1eVpIUGdFd3BqWU5WSE9uMU9nU2RUUmxGR3hHVTZKUzZUZ1A3NnFvTlZiMy1SN05Mc3RDb2hWRE03ZU9LaG80ajBacFJSNFRHa2dySXZCcWJIY3lCYXp2aXZZWHZQZWUwdU8zQWJ6dzc4U2xKcGVBcmltdE4zbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "战略性矿产再评价取得新突破 - 新华网"
-    },
-    {
-      "event": "法外长称伊朗对法国超市制冷系统遭网攻“负有责任” - 新华网",
-      "published": "2026-11-09T20:50:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbzZ5ZDRRRGxUWHpWaENCODJibE1aTmw5ajFqeDJsaWZpb0lQQzBvbU11MWh1MmlDb3Jmc2VPZUpUYl9oNjNLWmlacFVIeUhCZXRvYmhuNFQwYUg3OGdjanNSNzF4XzVzM2FhTFA2ZGttZm11aHNhTHdJVi1WZG8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "法外长称伊朗对法国超市制冷系统遭网攻“负有责任” - 新华网"
-    },
-    {
-      "event": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5% - 新华网",
-      "published": "2026-11-09T18:44:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGM5MlluNGhqRWg0SFN0MWI5Ym1ScFV2S2dlcnFNN3RWRm1GZ3BjbjVURk9XdUhXWjNKY1ZRdXYtRW03NmJYSGlqTDVJV2pVOE4xZ3JENWpKY3dFeVpzbFJ4cXJnVjVxWm4zQ0lETTA5MDVYQkdILTBKckZXRVFxRkt3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5% - 新华网"
-    },
-    {
-      "event": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话 - 新华网",
-      "published": "2026-11-09T16:32:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXpKajZIb3dqOTBJQ2NfVEJiRENyU2lvbzFwVnFiV092QXVjTFNkd1dsODZvd1hBU2Y2SmVIT1BXLXhvQmt4d2pNdmFmZFJLWEJzWDNXM3RXLTR5VWFhNnBFVWhGSlBxamNYNjdXZlQzZDFURUx6VWd3dGZ6N1BTbEliMTR3MTlJZmV2eHZ3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +581,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
