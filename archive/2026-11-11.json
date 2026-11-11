@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 14:23",
+  "date": "更新于北京时间 2026-11-11 15:03",
   "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T14:23:41+08:00",
+  "updatedAt": "2026-11-11T15:03:48+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
+          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.98 %；变化 +0.10 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -197,12 +197,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-11T11:40:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近日，港股上市公司李宁公司公告称，董事会已批准派发特别股息每股2.32元，按约25.85亿股总股本测算，派息总额约60亿元；除净日为11月18日，派付日为12月1日。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/826989"
             }
           ]
@@ -244,13 +243,72 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-11T07:07:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/826917"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美媒：情报显示伊朗仍有战前一半弹道导弹产能 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T06:48:24+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SQkV5S29QeHRaZWp2dHpkdFZlaUx5eVBMQXdOc0dFcWpNcUx1dTNqUktDRUdzRU9ucEExNEJIb1B4U011Y0Y1Z2FET2stbmcwVVZ0N3RWbXhMekRsd2xDUG1sellLMlRaTVJNbGMtb2J0Z2o2M0l4Ml9QNGVuYlE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全球瞭望丨阿尔及利亚专家：新发展理念助力中国实现高质量发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T06:44:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNzN6Xzc0ZE1RZlVkbW5aUzhtUWhMTHFCMVd0Y0FacndLaGdxcUFTNEo4NEZQUDgtTXBKaE1RVGt5THl3bldqZ0hLUGU2SFVRSElRRlRYb3pnZmM5QmdHZ1hGQ25fSTdnV3dOQ0NvNTNpRk1lY3BCbFJjMXRYQW8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "一间书屋“点绿成金” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T06:38:04+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03aVZFanBBbjJUd0VqQVhhOFdEUnVUbFFzX3FhRU9PZHE5b3VoTjBPTlhuR0RTeXZaMEZJdHNzbktzMnRXb0lkcHNidmtaRlhHbGJaT2U4QnNsQ2xnLS1kaDYxMnpOUWQwdTNmT000cEg2MFNPbTUxUDB6SlVoQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "日本大型移动通信运营商出现全国性服务故障 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T06:23:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScG9GUklUOWd6NkVDX2R3dTI5YUk1aHRUWFdkLTc5RFJKLW5wQ1FzcTdhaFMzY3JXdl9IYkhRRmROa00yNGtfR291dEhpUERVcHRuZ2kxYjRXZDVoQkZYckluZkJ5SnM3eGJFWkhQS2hMbGtYc2hLSE9hc3dBdUU?oc=5"
             }
           ]
         },
@@ -259,73 +317,13 @@
           "title": "新华社权威快报丨会计改革与发展“十五五”规划发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T06:01:53+00:00；来源：新华网。",
+            "发布时间：2026-11-11T06:01:55+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MQXVTbHdJeGVRWFVjQnE4RlBBVXgwN3RWbGJkSVJJTXR2ak1IUlFmWXBma210SHF4LVBoS2FnejNaWjhYWUNFNkpiYkljWEpPNGFOWU9lLUlfdU1vRWljSkJ0R2N2c2o2cHBDS2hZeUFKRng0WjVn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "风暴来袭 葡萄牙全国停课并叫停网络峰会 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T05:55:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdTRfTTZab0ZSaHdySmVoeFQ3dE9FeC1nOUFzTWthMFBxTHMwSW5hbDh0MGs5NDdfOW4ycnNoM29wc3NCMDBCVFRONU9KMXkxWmsxZmZIRnBpZnBjN1VodndBcnd2SE5jYTRMUGoxU3NFNkhxRU52c2FrZHhac2M?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "媒体：委内瑞拉120亿美元出口收入进入美控制账户 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T05:51:09+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MEtUd3BWbkJEWFBqSXJmOUxETGwwbUhSNVF3UVZWSG5vdUkwSmdvSjdyUHNjbk9zazU2Y2lOVG1SZXhsWjh6Wm9Ud2JyX2JsRC1WQy1QSEhVemxhZkxiZ0ZJNHBMZk9VN3I4MTM2N0p0QjJYS1hSaG9LWGtfbmc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T04:51:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "招商银行无锡分行“营+伴你行”以主动服务，让价值更有温度 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T04:24:34+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByYWtsVk9kb0FOTFFETDJqbmhFN3JYSVBYX3Y0Y1dydUNtNkpLOVhERmc5WkdiWkVNZThUYThVeVM3bGlhazBQcXA2dXFoUThKU1hKaWV3YzRYbzI4eFV0bkhXdDR6UHduWjNKR2xOVzYxRWkz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODRPbTJCY2RJYjEwTHRNSk53T2t0aDlQRlVCN3RLUFU4R3NQVlQwUHhTanhVOC1oVloya1JPYURJanVNRFNHLXVMNldCNkpqYmhFTS04dEdwYnJJdHVEdlNUNE0yTlk4SVhXZGduVktWeS04dU9rWjhhc1FCNGJqRFZObw?oc=5"
             }
           ]
         }
@@ -388,8 +386,8 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-10"
     },
     {
@@ -398,8 +396,8 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-10"
     },
     {
@@ -408,9 +406,9 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-09"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-10"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -443,29 +441,29 @@
       "asOf": "2026-11-11T07:07:00+08:00"
     },
     {
+      "title": "美媒：情报显示伊朗仍有战前一半弹道导弹产能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SQkV5S29QeHRaZWp2dHpkdFZlaUx5eVBMQXdOc0dFcWpNcUx1dTNqUktDRUdzRU9ucEExNEJIb1B4U011Y0Y1Z2FET2stbmcwVVZ0N3RWbXhMekRsd2xDUG1sellLMlRaTVJNbGMtb2J0Z2o2M0l4Ml9QNGVuYlE?oc=5",
+      "asOf": "2026-11-11T06:48:24+00:00"
+    },
+    {
+      "title": "全球瞭望丨阿尔及利亚专家：新发展理念助力中国实现高质量发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNzN6Xzc0ZE1RZlVkbW5aUzhtUWhMTHFCMVd0Y0FacndLaGdxcUFTNEo4NEZQUDgtTXBKaE1RVGt5THl3bldqZ0hLUGU2SFVRSElRRlRYb3pnZmM5QmdHZ1hGQ25fSTdnV3dOQ0NvNTNpRk1lY3BCbFJjMXRYQW8?oc=5",
+      "asOf": "2026-11-11T06:44:07+00:00"
+    },
+    {
+      "title": "一间书屋“点绿成金” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03aVZFanBBbjJUd0VqQVhhOFdEUnVUbFFzX3FhRU9PZHE5b3VoTjBPTlhuR0RTeXZaMEZJdHNzbktzMnRXb0lkcHNidmtaRlhHbGJaT2U4QnNsQ2xnLS1kaDYxMnpOUWQwdTNmT000cEg2MFNPbTUxUDB6SlVoQQ?oc=5",
+      "asOf": "2026-11-11T06:38:04+00:00"
+    },
+    {
+      "title": "日本大型移动通信运营商出现全国性服务故障 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScG9GUklUOWd6NkVDX2R3dTI5YUk1aHRUWFdkLTc5RFJKLW5wQ1FzcTdhaFMzY3JXdl9IYkhRRmROa00yNGtfR291dEhpUERVcHRuZ2kxYjRXZDVoQkZYckluZkJ5SnM3eGJFWkhQS2hMbGtYc2hLSE9hc3dBdUU?oc=5",
+      "asOf": "2026-11-11T06:23:53+00:00"
+    },
+    {
       "title": "新华社权威快报丨会计改革与发展“十五五”规划发布 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MQXVTbHdJeGVRWFVjQnE4RlBBVXgwN3RWbGJkSVJJTXR2ak1IUlFmWXBma210SHF4LVBoS2FnejNaWjhYWUNFNkpiYkljWEpPNGFOWU9lLUlfdU1vRWljSkJ0R2N2c2o2cHBDS2hZeUFKRng0WjVn?oc=5",
-      "asOf": "2026-11-11T06:01:53+00:00"
-    },
-    {
-      "title": "风暴来袭 葡萄牙全国停课并叫停网络峰会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdTRfTTZab0ZSaHdySmVoeFQ3dE9FeC1nOUFzTWthMFBxTHMwSW5hbDh0MGs5NDdfOW4ycnNoM29wc3NCMDBCVFRONU9KMXkxWmsxZmZIRnBpZnBjN1VodndBcnd2SE5jYTRMUGoxU3NFNkhxRU52c2FrZHhac2M?oc=5",
-      "asOf": "2026-11-11T05:55:38+00:00"
-    },
-    {
-      "title": "媒体：委内瑞拉120亿美元出口收入进入美控制账户 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MEtUd3BWbkJEWFBqSXJmOUxETGwwbUhSNVF3UVZWSG5vdUkwSmdvSjdyUHNjbk9zazU2Y2lOVG1SZXhsWjh6Wm9Ud2JyX2JsRC1WQy1QSEhVemxhZkxiZ0ZJNHBMZk9VN3I4MTM2N0p0QjJYS1hSaG9LWGtfbmc?oc=5",
-      "asOf": "2026-11-11T05:51:09+00:00"
-    },
-    {
-      "title": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5",
-      "asOf": "2026-11-11T04:51:31+00:00"
-    },
-    {
-      "title": "招商银行无锡分行“营+伴你行”以主动服务，让价值更有温度 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByYWtsVk9kb0FOTFFETDJqbmhFN3JYSVBYX3Y0Y1dydUNtNkpLOVhERmc5WkdiWkVNZThUYThVeVM3bGlhazBQcXA2dXFoUThKU1hKaWV3YzRYbzI4eFV0bkhXdDR6UHduWjNKR2xOVzYxRWkz?oc=5",
-      "asOf": "2026-11-11T04:24:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODRPbTJCY2RJYjEwTHRNSk53T2t0aDlQRlVCN3RLUFU4R3NQVlQwUHhTanhVOC1oVloya1JPYURJanVNRFNHLXVMNldCNkpqYmhFTS04dEdwYnJJdHVEdlNUNE0yTlk4SVhXZGduVktWeS04dU9rWjhhc1FCNGJqRFZObw?oc=5",
+      "asOf": "2026-11-11T06:01:55+00:00"
     }
   ],
   "events": [
@@ -478,7 +476,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827016",
-        "retrievedAt": "2026-11-11T14:23:41.519962+08:00",
+        "retrievedAt": "2026-11-11T15:03:48.079211+08:00",
         "sha256": "c0bb16708aa6f68e2d9133cc761f205f7f1aeb485fbbcda2930435c9c3890258",
         "paragraphCount": 25,
         "excerpt": "丝路万里，薪火赓续。初冬时节，在古丝绸之路的起点，由新华通讯社、陕西省委、陕西省人民政府主办的“一带一路”国际智库合作论坛暨第四届丝绸之路（西安）国际传播大会（以下称传播大会）拉开大幕。来自50多个国家和地区的智库学者、媒体负责人齐聚灞河之"
@@ -490,14 +488,7 @@
       "published": "2026-11-11T11:40:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/826989",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826989",
-        "retrievedAt": "2026-11-11T14:23:41.519962+08:00",
-        "sha256": "d85196cc44923c22d57679244c5168698f04f5c648f70a6ace29d592714e5da4",
-        "paragraphCount": 15,
-        "excerpt": "近日，港股上市公司李宁公司公告称，董事会已批准派发特别股息每股2.32元，按约25.85亿股总股本测算，派息总额约60亿元；除净日为11月18日，派付日为12月1日。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
@@ -516,8 +507,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826918",
-        "retrievedAt": "2026-11-11T14:23:41.519962+08:00",
-        "sha256": "5711ea5044a607ebc61424d4e85517e0b9136aeda4e1644c746be03b910eb436",
+        "retrievedAt": "2026-11-11T15:03:48.079211+08:00",
+        "sha256": "391ee8f726c0f3288d398f7510a058d9798702bfe41f801d1e47e5addff7e72c",
         "paragraphCount": 11,
         "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
       }
@@ -528,54 +519,47 @@
       "published": "2026-11-11T07:07:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/826917",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "美媒：情报显示伊朗仍有战前一半弹道导弹产能 - 新华网",
+      "published": "2026-11-11T06:48:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SQkV5S29QeHRaZWp2dHpkdFZlaUx5eVBMQXdOc0dFcWpNcUx1dTNqUktDRUdzRU9ucEExNEJIb1B4U011Y0Y1Z2FET2stbmcwVVZ0N3RWbXhMekRsd2xDUG1sellLMlRaTVJNbGMtb2J0Z2o2M0l4Ml9QNGVuYlE?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826917",
-        "retrievedAt": "2026-11-11T14:23:41.519962+08:00",
-        "sha256": "4b27b4f54844d482c5cc42aed7e63b06ea666049e8a076ce96d9a4d8f89f00e9",
-        "paragraphCount": 44,
-        "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
-      }
+      "originalTitle": "美媒：情报显示伊朗仍有战前一半弹道导弹产能 - 新华网"
+    },
+    {
+      "event": "全球瞭望丨阿尔及利亚专家：新发展理念助力中国实现高质量发展 - 新华网",
+      "published": "2026-11-11T06:44:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNzN6Xzc0ZE1RZlVkbW5aUzhtUWhMTHFCMVd0Y0FacndLaGdxcUFTNEo4NEZQUDgtTXBKaE1RVGt5THl3bldqZ0hLUGU2SFVRSElRRlRYb3pnZmM5QmdHZ1hGQ25fSTdnV3dOQ0NvNTNpRk1lY3BCbFJjMXRYQW8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全球瞭望丨阿尔及利亚专家：新发展理念助力中国实现高质量发展 - 新华网"
+    },
+    {
+      "event": "一间书屋“点绿成金” - 新华网",
+      "published": "2026-11-11T06:38:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03aVZFanBBbjJUd0VqQVhhOFdEUnVUbFFzX3FhRU9PZHE5b3VoTjBPTlhuR0RTeXZaMEZJdHNzbktzMnRXb0lkcHNidmtaRlhHbGJaT2U4QnNsQ2xnLS1kaDYxMnpOUWQwdTNmT000cEg2MFNPbTUxUDB6SlVoQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "一间书屋“点绿成金” - 新华网"
+    },
+    {
+      "event": "日本大型移动通信运营商出现全国性服务故障 - 新华网",
+      "published": "2026-11-11T06:23:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScG9GUklUOWd6NkVDX2R3dTI5YUk1aHRUWFdkLTc5RFJKLW5wQ1FzcTdhaFMzY3JXdl9IYkhRRmROa00yNGtfR291dEhpUERVcHRuZ2kxYjRXZDVoQkZYckluZkJ5SnM3eGJFWkhQS2hMbGtYc2hLSE9hc3dBdUU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "日本大型移动通信运营商出现全国性服务故障 - 新华网"
     },
     {
       "event": "新华社权威快报丨会计改革与发展“十五五”规划发布 - 新华网",
-      "published": "2026-11-11T06:01:53+00:00",
+      "published": "2026-11-11T06:01:55+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MQXVTbHdJeGVRWFVjQnE4RlBBVXgwN3RWbGJkSVJJTXR2ak1IUlFmWXBma210SHF4LVBoS2FnejNaWjhYWUNFNkpiYkljWEpPNGFOWU9lLUlfdU1vRWljSkJ0R2N2c2o2cHBDS2hZeUFKRng0WjVn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODRPbTJCY2RJYjEwTHRNSk53T2t0aDlQRlVCN3RLUFU4R3NQVlQwUHhTanhVOC1oVloya1JPYURJanVNRFNHLXVMNldCNkpqYmhFTS04dEdwYnJJdHVEdlNUNE0yTlk4SVhXZGduVktWeS04dU9rWjhhc1FCNGJqRFZObw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "新华社权威快报丨会计改革与发展“十五五”规划发布 - 新华网"
-    },
-    {
-      "event": "风暴来袭 葡萄牙全国停课并叫停网络峰会 - 新华网",
-      "published": "2026-11-11T05:55:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdTRfTTZab0ZSaHdySmVoeFQ3dE9FeC1nOUFzTWthMFBxTHMwSW5hbDh0MGs5NDdfOW4ycnNoM29wc3NCMDBCVFRONU9KMXkxWmsxZmZIRnBpZnBjN1VodndBcnd2SE5jYTRMUGoxU3NFNkhxRU52c2FrZHhac2M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "风暴来袭 葡萄牙全国停课并叫停网络峰会 - 新华网"
-    },
-    {
-      "event": "媒体：委内瑞拉120亿美元出口收入进入美控制账户 - 新华网",
-      "published": "2026-11-11T05:51:09+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MEtUd3BWbkJEWFBqSXJmOUxETGwwbUhSNVF3UVZWSG5vdUkwSmdvSjdyUHNjbk9zazU2Y2lOVG1SZXhsWjh6Wm9Ud2JyX2JsRC1WQy1QSEhVemxhZkxiZ0ZJNHBMZk9VN3I4MTM2N0p0QjJYS1hSaG9LWGtfbmc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "媒体：委内瑞拉120亿美元出口收入进入美控制账户 - 新华网"
-    },
-    {
-      "event": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
-      "published": "2026-11-11T04:51:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网"
-    },
-    {
-      "event": "招商银行无锡分行“营+伴你行”以主动服务，让价值更有温度 - 新华网江苏频道",
-      "published": "2026-11-11T04:24:34+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByYWtsVk9kb0FOTFFETDJqbmhFN3JYSVBYX3Y0Y1dydUNtNkpLOVhERmc5WkdiWkVNZThUYThVeVM3bGlhazBQcXA2dXFoUThKU1hKaWV3YzRYbzI4eFV0bkhXdDR6UHduWjNKR2xOVzYxRWkz?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "招商银行无锡分行“营+伴你行”以主动服务，让价值更有温度 - 新华网江苏频道"
     }
   ],
   "quality": {
@@ -589,6 +573,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
