@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 15:43",
+  "date": "更新于北京时间 2026-11-11 19:53",
   "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T15:43:41+08:00",
+  "updatedAt": "2026-11-11T19:53:02+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,111 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T19:24:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827082"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T19:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827125"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T19:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827138"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "央行发布2026年第三季度中国货币政策执行报告",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T18:39:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827160"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会集中回应两大标杆案件",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T17:52:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827142"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T17:26:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827107"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "离岸信托收益征税平稳有序推进",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T16:36:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/827064"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "10月新能源汽车月度新车销量占比达64.3%",
           "summary": "",
           "paragraphs": [
@@ -196,134 +301,27 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-11T13:42:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：丝路万里，薪火赓续。初冬时节，在古丝绸之路的起点，由新华通讯社、陕西省委、陕西省人民政府主办的“一带一路”国际智库合作论坛暨第四届丝绸之路（西安）国际传播大会（以下称传播大会）拉开大幕。来自50多个国家和地区的智库学者、媒体负责人齐聚灞河之"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/827016"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
+          "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T11:40:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近日，港股上市公司李宁公司公告称，董事会已批准派发特别股息每股2.32元，按约25.85亿股总股本测算，派息总额约60亿元；除净日为11月18日，派付日为12月1日。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826989"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T11:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-11T11:29:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826983"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "机构加大半导体板块掘金力度",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826918"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "世界最长海底高铁隧道舟山侧完成盾构掘进 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T07:25:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkY5dDhHZXlBaUVFX19Ca1d1QVZkX0pqWlJsRmRHOEJoQzBvOFZFTFpfZkttRmF6SGFzdTNuUWlzakV1RDZNZ1RJV3BIaFNWaUI3ZE5zTk9FYVBXNW02cWE4U3FWM1hXM0RVdWlEeEVuc2pFMWpVMnY4SFdyUWI3MHRZaw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "无锡农行：差异化金融服务助力科技企业“跑出加速度” - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T07:22:07+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeXBfYXViSUQ4LU9vRy1ad3BNWWRVbWdWNkdvNkVNQUZONzhLbldIQjdrVlhtcWRkNXpESVNHc3BpRGNKbUNNcHF5ZHhKS2poQ0pxSjkwX2ZDSnNBTTF6RHdaOEI3bmhodGs2Q2VNS0ZEWkRW?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "俄罗斯拘捕两名波兰特工 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T07:20:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42VXdSWmplYVVxODdlb280NXFIZm8wZU91Mk1ZYW5qUVN2Y2RxUi14UVBRcTVORGhDWjB1UUNubzQ0VUZvN0ZYR3VlQ19qSE9UUElBWTFvRDg2VFNQM3gyOHlURG5GWmE0X3VHYjJ6UHRXaHlTLXRFbjVrb0E0S2c?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "最高检、公安部发布依法惩治洗钱犯罪典型案例 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T07:13:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RkpfWDlyZElVd2toQ1FlcHFDVlB6V1RzRzBxZFlSc3VMQnpvVGNtUzZUVFZuWlFsS0ZQWURPQkg3QUtwUF9uOXR6WlpUS2lCekJfY1gyVWFzY2dxYmdTeURWRjFPTlNjUkM5c3BhcVFRWnhHM0ZWZVFPaHdUZm8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华视点丨多地最低工资标准上调：谁将受益、影响几何 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T07:11:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNkRsWlMzMUh1T3lHQl94X1ZYZDRCZGVIVE5aQ3NCLThoeEpRQWtRTk1vaktLMDBaX0lZOThpSkhyTG82OUhQVS1QV3pMb2o2SzNFZjJwSXVqSDY2MzR0dG43Zko2bmNNZHJKVzhOS1I0WXJEU0Fj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5"
             }
           ]
         }
@@ -381,23 +379,23 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-10"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-10"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-10"
     },
     {
@@ -416,6 +414,41 @@
       "asOf": "2026-11-09"
     },
     {
+      "title": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
+      "url": "https://www.cnstock.com/commonDetail/827082",
+      "asOf": "2026-11-11T19:24:00+08:00"
+    },
+    {
+      "title": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
+      "url": "https://www.cnstock.com/commonDetail/827125",
+      "asOf": "2026-11-11T19:23:00+08:00"
+    },
+    {
+      "title": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/827138",
+      "asOf": "2026-11-11T19:23:00+08:00"
+    },
+    {
+      "title": "央行发布2026年第三季度中国货币政策执行报告",
+      "url": "https://www.cnstock.com/commonDetail/827160",
+      "asOf": "2026-11-11T18:39:00+08:00"
+    },
+    {
+      "title": "证监会集中回应两大标杆案件",
+      "url": "https://www.cnstock.com/commonDetail/827142",
+      "asOf": "2026-11-11T17:52:00+08:00"
+    },
+    {
+      "title": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
+      "url": "https://www.cnstock.com/commonDetail/827107",
+      "asOf": "2026-11-11T17:26:00+08:00"
+    },
+    {
+      "title": "离岸信托收益征税平稳有序推进",
+      "url": "https://www.cnstock.com/commonDetail/827064",
+      "asOf": "2026-11-11T16:36:00+08:00"
+    },
+    {
       "title": "10月新能源汽车月度新车销量占比达64.3%",
       "url": "https://www.cnstock.com/commonDetail/827022",
       "asOf": "2026-11-11T14:12:00+08:00"
@@ -426,47 +459,68 @@
       "asOf": "2026-11-11T13:42:00+08:00"
     },
     {
-      "title": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
-      "url": "https://www.cnstock.com/commonDetail/826989",
-      "asOf": "2026-11-11T11:40:00+08:00"
-    },
-    {
-      "title": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
-      "url": "https://www.cnstock.com/commonDetail/826983",
-      "asOf": "2026-11-11T11:13:00+08:00"
-    },
-    {
-      "title": "机构加大半导体板块掘金力度",
-      "url": "https://www.cnstock.com/commonDetail/826918",
-      "asOf": "2026-11-11T08:04:00+08:00"
-    },
-    {
-      "title": "世界最长海底高铁隧道舟山侧完成盾构掘进 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkY5dDhHZXlBaUVFX19Ca1d1QVZkX0pqWlJsRmRHOEJoQzBvOFZFTFpfZkttRmF6SGFzdTNuUWlzakV1RDZNZ1RJV3BIaFNWaUI3ZE5zTk9FYVBXNW02cWE4U3FWM1hXM0RVdWlEeEVuc2pFMWpVMnY4SFdyUWI3MHRZaw?oc=5",
-      "asOf": "2026-11-11T07:25:06+00:00"
-    },
-    {
-      "title": "无锡农行：差异化金融服务助力科技企业“跑出加速度” - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeXBfYXViSUQ4LU9vRy1ad3BNWWRVbWdWNkdvNkVNQUZONzhLbldIQjdrVlhtcWRkNXpESVNHc3BpRGNKbUNNcHF5ZHhKS2poQ0pxSjkwX2ZDSnNBTTF6RHdaOEI3bmhodGs2Q2VNS0ZEWkRW?oc=5",
-      "asOf": "2026-11-11T07:22:07+00:00"
-    },
-    {
-      "title": "俄罗斯拘捕两名波兰特工 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42VXdSWmplYVVxODdlb280NXFIZm8wZU91Mk1ZYW5qUVN2Y2RxUi14UVBRcTVORGhDWjB1UUNubzQ0VUZvN0ZYR3VlQ19qSE9UUElBWTFvRDg2VFNQM3gyOHlURG5GWmE0X3VHYjJ6UHRXaHlTLXRFbjVrb0E0S2c?oc=5",
-      "asOf": "2026-11-11T07:20:59+00:00"
-    },
-    {
-      "title": "最高检、公安部发布依法惩治洗钱犯罪典型案例 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RkpfWDlyZElVd2toQ1FlcHFDVlB6V1RzRzBxZFlSc3VMQnpvVGNtUzZUVFZuWlFsS0ZQWURPQkg3QUtwUF9uOXR6WlpUS2lCekJfY1gyVWFzY2dxYmdTeURWRjFPTlNjUkM5c3BhcVFRWnhHM0ZWZVFPaHdUZm8?oc=5",
-      "asOf": "2026-11-11T07:13:33+00:00"
-    },
-    {
-      "title": "新华视点丨多地最低工资标准上调：谁将受益、影响几何 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNkRsWlMzMUh1T3lHQl94X1ZYZDRCZGVIVE5aQ3NCLThoeEpRQWtRTk1vaktLMDBaX0lZOThpSkhyTG82OUhQVS1QV3pMb2o2SzNFZjJwSXVqSDY2MzR0dG43Zko2bmNNZHJKVzhOS1I0WXJEU0Fj?oc=5",
-      "asOf": "2026-11-11T07:11:46+00:00"
+      "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5",
+      "asOf": "2026-11-11T11:29:48+00:00"
     }
   ],
   "events": [
+    {
+      "event": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
+      "originalTitle": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
+      "published": "2026-11-11T19:24:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827082",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
+      "originalTitle": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
+      "published": "2026-11-11T19:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827125",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
+      "originalTitle": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
+      "published": "2026-11-11T19:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827138",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "央行发布2026年第三季度中国货币政策执行报告",
+      "originalTitle": "央行发布2026年第三季度中国货币政策执行报告",
+      "published": "2026-11-11T18:39:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827160",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会集中回应两大标杆案件",
+      "originalTitle": "证监会集中回应两大标杆案件",
+      "published": "2026-11-11T17:52:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827142",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
+      "originalTitle": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
+      "published": "2026-11-11T17:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827107",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "离岸信托收益征税平稳有序推进",
+      "originalTitle": "离岸信托收益征税平稳有序推进",
+      "published": "2026-11-11T16:36:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/827064",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "10月新能源汽车月度新车销量占比达64.3%",
       "originalTitle": "10月新能源汽车月度新车销量占比达64.3%",
@@ -481,85 +535,15 @@
       "published": "2026-11-11T13:42:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/827016",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827016",
-        "retrievedAt": "2026-11-11T15:43:41.971629+08:00",
-        "sha256": "c0bb16708aa6f68e2d9133cc761f205f7f1aeb485fbbcda2930435c9c3890258",
-        "paragraphCount": 25,
-        "excerpt": "丝路万里，薪火赓续。初冬时节，在古丝绸之路的起点，由新华通讯社、陕西省委、陕西省人民政府主办的“一带一路”国际智库合作论坛暨第四届丝绸之路（西安）国际传播大会（以下称传播大会）拉开大幕。来自50多个国家和地区的智库学者、媒体负责人齐聚灞河之"
-      }
-    },
-    {
-      "event": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
-      "originalTitle": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
-      "published": "2026-11-11T11:40:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826989",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826989",
-        "retrievedAt": "2026-11-11T15:43:41.971629+08:00",
-        "sha256": "da9a936870e58db53056cdc5ceaf9e69af2bb27991aea098e8109ce6bcc3cf2a",
-        "paragraphCount": 15,
-        "excerpt": "近日，港股上市公司李宁公司公告称，董事会已批准派发特别股息每股2.32元，按约25.85亿股总股本测算，派息总额约60亿元；除净日为11月18日，派付日为12月1日。"
-      }
-    },
-    {
-      "event": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
-      "originalTitle": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
-      "published": "2026-11-11T11:13:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826983",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "机构加大半导体板块掘金力度",
-      "originalTitle": "机构加大半导体板块掘金力度",
-      "published": "2026-11-11T08:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/826918",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "世界最长海底高铁隧道舟山侧完成盾构掘进 - 新华网",
-      "published": "2026-11-11T07:25:06+00:00",
+      "event": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
+      "published": "2026-11-11T11:29:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkY5dDhHZXlBaUVFX19Ca1d1QVZkX0pqWlJsRmRHOEJoQzBvOFZFTFpfZkttRmF6SGFzdTNuUWlzakV1RDZNZ1RJV3BIaFNWaUI3ZE5zTk9FYVBXNW02cWE4U3FWM1hXM0RVdWlEeEVuc2pFMWpVMnY4SFdyUWI3MHRZaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "世界最长海底高铁隧道舟山侧完成盾构掘进 - 新华网"
-    },
-    {
-      "event": "无锡农行：差异化金融服务助力科技企业“跑出加速度” - 新华网江苏频道",
-      "published": "2026-11-11T07:22:07+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeXBfYXViSUQ4LU9vRy1ad3BNWWRVbWdWNkdvNkVNQUZONzhLbldIQjdrVlhtcWRkNXpESVNHc3BpRGNKbUNNcHF5ZHhKS2poQ0pxSjkwX2ZDSnNBTTF6RHdaOEI3bmhodGs2Q2VNS0ZEWkRW?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "无锡农行：差异化金融服务助力科技企业“跑出加速度” - 新华网江苏频道"
-    },
-    {
-      "event": "俄罗斯拘捕两名波兰特工 - 新华网",
-      "published": "2026-11-11T07:20:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42VXdSWmplYVVxODdlb280NXFIZm8wZU91Mk1ZYW5qUVN2Y2RxUi14UVBRcTVORGhDWjB1UUNubzQ0VUZvN0ZYR3VlQ19qSE9UUElBWTFvRDg2VFNQM3gyOHlURG5GWmE0X3VHYjJ6UHRXaHlTLXRFbjVrb0E0S2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "俄罗斯拘捕两名波兰特工 - 新华网"
-    },
-    {
-      "event": "最高检、公安部发布依法惩治洗钱犯罪典型案例 - 新华网",
-      "published": "2026-11-11T07:13:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RkpfWDlyZElVd2toQ1FlcHFDVlB6V1RzRzBxZFlSc3VMQnpvVGNtUzZUVFZuWlFsS0ZQWURPQkg3QUtwUF9uOXR6WlpUS2lCekJfY1gyVWFzY2dxYmdTeURWRjFPTlNjUkM5c3BhcVFRWnhHM0ZWZVFPaHdUZm8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "最高检、公安部发布依法惩治洗钱犯罪典型案例 - 新华网"
-    },
-    {
-      "event": "新华视点丨多地最低工资标准上调：谁将受益、影响几何 - 新华网",
-      "published": "2026-11-11T07:11:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNkRsWlMzMUh1T3lHQl94X1ZYZDRCZGVIVE5aQ3NCLThoeEpRQWtRTk1vaktLMDBaX0lZOThpSkhyTG82OUhQVS1QV3pMb2o2SzNFZjJwSXVqSDY2MzR0dG43Zko2bmNNZHJKVzhOS1I0WXJEU0Fj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华视点丨多地最低工资标准上调：谁将受益、影响几何 - 新华网"
+      "originalTitle": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网"
     }
   ],
   "quality": {
@@ -573,6 +557,12 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
