@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 10:55",
+  "date": "更新于北京时间 2026-11-11 11:39",
   "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T10:55:21+08:00",
+  "updatedAt": "2026-11-11T11:39:25+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.56 %；变化 +0.05 个百分点",
+          "summary": "4.73 %；变化 +0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,49 +177,46 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "有进有退 险资差异化配置银行股",
+          "title": "美国防部长弹劾案在众议院被搁置 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
+            "发布时间：2026-11-11T03:26:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826927"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "机构加大半导体板块掘金力度",
+          "title": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+            "发布时间：2026-11-11T03:09:00+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826918"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+          "title": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T07:07:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+            "发布时间：2026-11-11T03:04:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826917"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5"
             }
           ]
         },
@@ -264,7 +261,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tS2dYcE91WUlsT1V3SER5cVRReDRtUGpTLTRXZkxpWDJaTUpVb3FjdVBjSlBWdjRqQVY4blplTlJER0JkXzd1R1lDYkVUcmR0UUpSdGQyMVJTMzlGTERkQzF0d3A2V0dKQXNTblRxNEdOMHZXSGc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5"
             }
           ]
         },
@@ -280,6 +277,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T02:25:21+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5"
             }
           ]
         },
@@ -310,21 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秋意诗韵丨皖南古村秋色正好 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T01:39:24+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5"
             }
           ]
         }
@@ -382,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-09"
     },
     {
@@ -397,8 +394,8 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-09"
     },
     {
@@ -407,29 +404,29 @@
       "asOf": "2026-11-09"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-10"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-09"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-09"
+      "title": "美国防部长弹劾案在众议院被搁置 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5",
+      "asOf": "2026-11-11T03:26:53+00:00"
     },
     {
-      "title": "有进有退 险资差异化配置银行股",
-      "url": "https://www.cnstock.com/commonDetail/826927",
-      "asOf": "2026-11-11T08:04:00+08:00"
+      "title": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5",
+      "asOf": "2026-11-11T03:09:00+00:00"
     },
     {
-      "title": "机构加大半导体板块掘金力度",
-      "url": "https://www.cnstock.com/commonDetail/826918",
-      "asOf": "2026-11-11T08:04:00+08:00"
-    },
-    {
-      "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
-      "url": "https://www.cnstock.com/commonDetail/826917",
-      "asOf": "2026-11-11T07:07:00+08:00"
+      "title": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5",
+      "asOf": "2026-11-11T03:04:53+00:00"
     },
     {
       "title": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网",
@@ -443,13 +440,18 @@
     },
     {
       "title": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tS2dYcE91WUlsT1V3SER5cVRReDRtUGpTLTRXZkxpWDJaTUpVb3FjdVBjSlBWdjRqQVY4blplTlJER0JkXzd1R1lDYkVUcmR0UUpSdGQyMVJTMzlGTERkQzF0d3A2V0dKQXNTblRxNEdOMHZXSGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5",
       "asOf": "2026-11-11T02:42:37+00:00"
     },
     {
       "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5",
       "asOf": "2026-11-11T02:29:24+00:00"
+    },
+    {
+      "title": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5",
+      "asOf": "2026-11-11T02:25:21+00:00"
     },
     {
       "title": "人民空军，生日快乐 - 新华网",
@@ -460,58 +462,32 @@
       "title": "上海气质 国际风范——在进博会感受有序与活力 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5",
       "asOf": "2026-11-11T02:01:54+00:00"
-    },
-    {
-      "title": "秋意诗韵丨皖南古村秋色正好 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5",
-      "asOf": "2026-11-11T01:39:24+00:00"
     }
   ],
   "events": [
     {
-      "event": "有进有退 险资差异化配置银行股",
-      "originalTitle": "有进有退 险资差异化配置银行股",
-      "published": "2026-11-11T08:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/826927",
+      "event": "美国防部长弹劾案在众议院被搁置 - 新华网",
+      "published": "2026-11-11T03:26:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826927",
-        "retrievedAt": "2026-11-11T10:55:21.412279+08:00",
-        "sha256": "e187967da19d32a840299f369813781910d2445e60cfb5b88fb26e1f43118269",
-        "paragraphCount": 13,
-        "excerpt": "保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
-      }
+      "originalTitle": "美国防部长弹劾案在众议院被搁置 - 新华网"
     },
     {
-      "event": "机构加大半导体板块掘金力度",
-      "originalTitle": "机构加大半导体板块掘金力度",
-      "published": "2026-11-11T08:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/826918",
+      "event": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
+      "published": "2026-11-11T03:09:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826918",
-        "retrievedAt": "2026-11-11T10:55:21.412279+08:00",
-        "sha256": "b836978af41422018282994768f7c2304d5aca277d5d8c5261aedc8b41721919",
-        "paragraphCount": 11,
-        "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
-      }
+      "originalTitle": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网"
     },
     {
-      "event": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
-      "originalTitle": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
-      "published": "2026-11-11T07:07:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/826917",
+      "event": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
+      "published": "2026-11-11T03:04:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826917",
-        "retrievedAt": "2026-11-11T10:55:21.412279+08:00",
-        "sha256": "0f5780997e1dd087b5822068fa95091b75fa6d004f2cc9d2d7a58a5b5cb45160",
-        "paragraphCount": 44,
-        "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
-      }
+      "originalTitle": "因受到伊朗威胁 美财长移居军事基地 - 新华网"
     },
     {
       "event": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网",
@@ -533,7 +509,7 @@
       "event": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网",
       "published": "2026-11-11T02:42:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tS2dYcE91WUlsT1V3SER5cVRReDRtUGpTLTRXZkxpWDJaTUpVb3FjdVBjSlBWdjRqQVY4blplTlJER0JkXzd1R1lDYkVUcmR0UUpSdGQyMVJTMzlGTERkQzF0d3A2V0dKQXNTblRxNEdOMHZXSGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网"
     },
@@ -544,6 +520,14 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网"
+    },
+    {
+      "event": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
+      "published": "2026-11-11T02:25:21+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道"
     },
     {
       "event": "人民空军，生日快乐 - 新华网",
@@ -560,14 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "上海气质 国际风范——在进博会感受有序与活力 - 新华网"
-    },
-    {
-      "event": "秋意诗韵丨皖南古村秋色正好 - 新华网",
-      "published": "2026-11-11T01:39:24+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秋意诗韵丨皖南古村秋色正好 - 新华网"
     }
   ],
   "quality": {
@@ -580,6 +556,8 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "中国证券网原文: URLError"
+    ]
   }
 }
