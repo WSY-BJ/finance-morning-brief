@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 09:13",
+  "date": "更新于北京时间 2026-11-11 10:14",
   "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T09:13:42+08:00",
+  "updatedAt": "2026-11-11T10:14:28+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,17 +177,17 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+          "title": "有进有退 险资差异化配置银行股",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T08:28:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
+            "原文摘要：保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826933"
+              "url": "https://www.cnstock.com/commonDetail/826927"
             }
           ]
         },
@@ -209,22 +209,6 @@
         },
         {
           "type": "explainer",
-          "title": "有进有退 险资差异化配置银行股",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/826927"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
           "summary": "",
           "paragraphs": [
@@ -236,6 +220,66 @@
             {
               "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/826917"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "秋意诗韵丨皖南古村秋色正好 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T01:39:24+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "河北蔚县：青砂器订单旺 老窑火焕发新生机 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T01:32:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWdCS2l4WlFkWWhpU2xpbzM3Wktldy1VMlFPV2RwbWNXanZFQWRaLXVNQlRIdHBveGt4aUlwOGpCVnBjTVhTdkwyU3lzbzVvTGo0TTNrdjBPM1doSlVwV3ZJTVRTeFNaRWZyUnlTdUx6RFhJS2ZfU3VrLVJPNE0wLTRR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“双11”消费转向看品质选服务 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T01:30:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUExCLWsyeFBwQ185VENWRUctbkpGOE1IM3dOX2o3M1pPTFVDZ3FPYXlEZzZpbjBWbUZuZG5ZM3hVa2d0alJuQ1ZrMmY3ZkFFUDFWdlBURWpJV0lxWVNFY21Ua3R3dExLZk1VQ3ZpUWpVUFJmRWF0ZFhkTV80bGhtRF9R?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "也门胡塞武装称打击沙特及也门境内多个目标 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T01:12:25+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IcEdOVFNESXNRcUNNWDFEY1UyX3lPbXEtbmtmalJIVURGY2pMZUNFMm1WM1phOXpORGl6Z010ZDg2WFdZYzZfa3dEcHBBRWRCMFF1U2ZwMS05ZW5HNDJYcU1XRGtaOV9DaXFtRjBsNGtvWXk5U1huRXFtOVo0RlU?oc=5"
             }
           ]
         },
@@ -256,6 +300,21 @@
         },
         {
           "type": "explainer",
+          "title": "中国经济样本观察·“镇”了不起丨从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T00:58:23+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SenJYNTlPQlo1R2FtN1hGdTNfTmRXVEEtQ3dYWC1JZl9veFVnamlMSU4xTlhBMVpvZnpPVGZDMmZ6dTFfZkgwWEpBN2I1MnlOd0ZOaUc5WnZlN3FQdVNHRXE0ZnJUOGd1YUtNcHk0cnMyNXR0ZUpn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
           "summary": "",
           "paragraphs": [
@@ -266,66 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T00:31:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T00:26:45+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T00:05:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "水网建设刷新“进度条” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-10T23:58:17+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5"
             }
           ]
         }
@@ -383,16 +382,6 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-09"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-09"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-09"
@@ -401,6 +390,16 @@
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-10"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-09"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -418,18 +417,13 @@
       "asOf": "2026-11-09"
     },
     {
-      "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
-      "url": "https://www.cnstock.com/commonDetail/826933",
-      "asOf": "2026-11-11T08:28:00+08:00"
+      "title": "有进有退 险资差异化配置银行股",
+      "url": "https://www.cnstock.com/commonDetail/826927",
+      "asOf": "2026-11-11T08:04:00+08:00"
     },
     {
       "title": "机构加大半导体板块掘金力度",
       "url": "https://www.cnstock.com/commonDetail/826918",
-      "asOf": "2026-11-11T08:04:00+08:00"
-    },
-    {
-      "title": "有进有退 险资差异化配置银行股",
-      "url": "https://www.cnstock.com/commonDetail/826927",
       "asOf": "2026-11-11T08:04:00+08:00"
     },
     {
@@ -438,50 +432,55 @@
       "asOf": "2026-11-11T07:07:00+08:00"
     },
     {
+      "title": "秋意诗韵丨皖南古村秋色正好 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5",
+      "asOf": "2026-11-11T01:39:24+00:00"
+    },
+    {
+      "title": "河北蔚县：青砂器订单旺 老窑火焕发新生机 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWdCS2l4WlFkWWhpU2xpbzM3Wktldy1VMlFPV2RwbWNXanZFQWRaLXVNQlRIdHBveGt4aUlwOGpCVnBjTVhTdkwyU3lzbzVvTGo0TTNrdjBPM1doSlVwV3ZJTVRTeFNaRWZyUnlTdUx6RFhJS2ZfU3VrLVJPNE0wLTRR?oc=5",
+      "asOf": "2026-11-11T01:32:14+00:00"
+    },
+    {
+      "title": "“双11”消费转向看品质选服务 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUExCLWsyeFBwQ185VENWRUctbkpGOE1IM3dOX2o3M1pPTFVDZ3FPYXlEZzZpbjBWbUZuZG5ZM3hVa2d0alJuQ1ZrMmY3ZkFFUDFWdlBURWpJV0lxWVNFY21Ua3R3dExLZk1VQ3ZpUWpVUFJmRWF0ZFhkTV80bGhtRF9R?oc=5",
+      "asOf": "2026-11-11T01:30:10+00:00"
+    },
+    {
+      "title": "也门胡塞武装称打击沙特及也门境内多个目标 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IcEdOVFNESXNRcUNNWDFEY1UyX3lPbXEtbmtmalJIVURGY2pMZUNFMm1WM1phOXpORGl6Z010ZDg2WFdZYzZfa3dEcHBBRWRCMFF1U2ZwMS05ZW5HNDJYcU1XRGtaOV9DaXFtRjBsNGtvWXk5U1huRXFtOVo0RlU?oc=5",
+      "asOf": "2026-11-11T01:12:25+00:00"
+    },
+    {
       "title": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5",
       "asOf": "2026-11-11T01:00:11+00:00"
     },
     {
+      "title": "中国经济样本观察·“镇”了不起丨从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SenJYNTlPQlo1R2FtN1hGdTNfTmRXVEEtQ3dYWC1JZl9veFVnamlMSU4xTlhBMVpvZnpPVGZDMmZ6dTFfZkgwWEpBN2I1MnlOd0ZOaUc5WnZlN3FQdVNHRXE0ZnJUOGd1YUtNcHk0cnMyNXR0ZUpn?oc=5",
+      "asOf": "2026-11-11T00:58:23+00:00"
+    },
+    {
       "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
       "asOf": "2026-11-11T00:47:25+00:00"
-    },
-    {
-      "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
-      "asOf": "2026-11-11T00:31:16+00:00"
-    },
-    {
-      "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
-      "asOf": "2026-11-11T00:26:45+00:00"
-    },
-    {
-      "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
-      "asOf": "2026-11-11T00:05:58+00:00"
-    },
-    {
-      "title": "水网建设刷新“进度条” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
-      "asOf": "2026-11-10T23:58:17+00:00"
     }
   ],
   "events": [
     {
-      "event": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
-      "originalTitle": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
-      "published": "2026-11-11T08:28:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826933",
+      "event": "有进有退 险资差异化配置银行股",
+      "originalTitle": "有进有退 险资差异化配置银行股",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826927",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826933",
-        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
-        "sha256": "d4f93fa13ea0c3bd7affece777bb987262ade0b31a7bf74c83348fcc2c52f5cd",
-        "paragraphCount": 35,
-        "excerpt": "•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
+        "url": "https://www.cnstock.com/commonDetail/826927",
+        "retrievedAt": "2026-11-11T10:14:28.111718+08:00",
+        "sha256": "234e28616c73e2d5ff53100dae365a3fa4b70a6b7285cabd233b19f944f23996",
+        "paragraphCount": 13,
+        "excerpt": "保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
       }
     },
     {
@@ -493,25 +492,10 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826918",
-        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "retrievedAt": "2026-11-11T10:14:28.111718+08:00",
         "sha256": "5030df4a40bd346087fdb38b00b7f0bfc679bb1ad034f93178dddf6b4e00cc11",
         "paragraphCount": 11,
         "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
-      }
-    },
-    {
-      "event": "有进有退 险资差异化配置银行股",
-      "originalTitle": "有进有退 险资差异化配置银行股",
-      "published": "2026-11-11T08:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/826927",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/826927",
-        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
-        "sha256": "234e28616c73e2d5ff53100dae365a3fa4b70a6b7285cabd233b19f944f23996",
-        "paragraphCount": 13,
-        "excerpt": "保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
       }
     },
     {
@@ -523,11 +507,43 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/826917",
-        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "retrievedAt": "2026-11-11T10:14:28.111718+08:00",
         "sha256": "364753ac8a3142b22efd6aee7acf5fa34bb3621cfcf6b86bf78d27ff6d158336",
         "paragraphCount": 44,
         "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
       }
+    },
+    {
+      "event": "秋意诗韵丨皖南古村秋色正好 - 新华网",
+      "published": "2026-11-11T01:39:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldHhxcWZPVjgyWUJ4dVpJUjVyemFNaTBVRkgyQWNQZl82a05Gano2ZW1UcmhLQ19rRC04c0VUdDJKMnpjU2ZDb0I4OHY2MDdfWDAyd3RXNVZQSW9KWi1CczFkZlBtZnlCVm9nVFEtRVNlQUtqeTVlcERHVmw3aUU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "秋意诗韵丨皖南古村秋色正好 - 新华网"
+    },
+    {
+      "event": "河北蔚县：青砂器订单旺 老窑火焕发新生机 - 新华网",
+      "published": "2026-11-11T01:32:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWdCS2l4WlFkWWhpU2xpbzM3Wktldy1VMlFPV2RwbWNXanZFQWRaLXVNQlRIdHBveGt4aUlwOGpCVnBjTVhTdkwyU3lzbzVvTGo0TTNrdjBPM1doSlVwV3ZJTVRTeFNaRWZyUnlTdUx6RFhJS2ZfU3VrLVJPNE0wLTRR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "河北蔚县：青砂器订单旺 老窑火焕发新生机 - 新华网"
+    },
+    {
+      "event": "“双11”消费转向看品质选服务 - 新华网",
+      "published": "2026-11-11T01:30:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUExCLWsyeFBwQ185VENWRUctbkpGOE1IM3dOX2o3M1pPTFVDZ3FPYXlEZzZpbjBWbUZuZG5ZM3hVa2d0alJuQ1ZrMmY3ZkFFUDFWdlBURWpJV0lxWVNFY21Ua3R3dExLZk1VQ3ZpUWpVUFJmRWF0ZFhkTV80bGhtRF9R?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“双11”消费转向看品质选服务 - 新华网"
+    },
+    {
+      "event": "也门胡塞武装称打击沙特及也门境内多个目标 - 新华网",
+      "published": "2026-11-11T01:12:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IcEdOVFNESXNRcUNNWDFEY1UyX3lPbXEtbmtmalJIVURGY2pMZUNFMm1WM1phOXpORGl6Z010ZDg2WFdZYzZfa3dEcHBBRWRCMFF1U2ZwMS05ZW5HNDJYcU1XRGtaOV9DaXFtRjBsNGtvWXk5U1huRXFtOVo0RlU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "也门胡塞武装称打击沙特及也门境内多个目标 - 新华网"
     },
     {
       "event": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
@@ -538,44 +554,20 @@
       "originalTitle": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道"
     },
     {
+      "event": "中国经济样本观察·“镇”了不起丨从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业” - 新华网",
+      "published": "2026-11-11T00:58:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SenJYNTlPQlo1R2FtN1hGdTNfTmRXVEEtQ3dYWC1JZl9veFVnamlMSU4xTlhBMVpvZnpPVGZDMmZ6dTFfZkgwWEpBN2I1MnlOd0ZOaUc5WnZlN3FQdVNHRXE0ZnJUOGd1YUtNcHk0cnMyNXR0ZUpn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国经济样本观察·“镇”了不起丨从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业” - 新华网"
+    },
+    {
       "event": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
       "published": "2026-11-11T00:47:25+00:00",
       "publisher": "新华网重庆",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆"
-    },
-    {
-      "event": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
-      "published": "2026-11-11T00:31:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "吸引海外央行存金 新加坡争当“世界金库” - 新华网"
-    },
-    {
-      "event": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
-      "published": "2026-11-11T00:26:45+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网"
-    },
-    {
-      "event": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
-      "published": "2026-11-11T00:05:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网"
-    },
-    {
-      "event": "水网建设刷新“进度条” - 新华网",
-      "published": "2026-11-10T23:58:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "水网建设刷新“进度条” - 新华网"
     }
   ],
   "quality": {
