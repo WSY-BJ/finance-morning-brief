@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 11:39",
+  "date": "更新于北京时间 2026-11-11 13:57",
   "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T11:39:25+08:00",
+  "updatedAt": "2026-11-11T13:57:25+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-09：7,549.94 点；较 2026-11-06 变化 +173.08 点。",
+          "summary": "2026-11-10：7,520.93 点；较 2026-11-09 变化 -29.01 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-09：92.57 美元/桶；较 2026-11-06 变化 -5.75 美元/桶。",
+          "summary": "2026-11-10：91.49 美元/桶；较 2026-11-09 变化 -1.08 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "92.57 美元/桶；变化 -5.75 美元/桶",
+          "summary": "91.49 美元/桶；变化 -1.08 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-09；前值 98.32（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-10；前值 92.57（2026-11-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "101.65 点；变化 -0.65 点",
+          "summary": "102.23 点；变化 +0.58 点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 102.30（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-10；前值 101.65（2026-11-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,549.94 点；变化 +173.08 点",
+          "summary": "7,520.93 点；变化 -29.01 点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 7,376.86（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-10；前值 7,549.94（2026-11-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,253.14 点；变化 +673.71 点",
+          "summary": "25,065.87 点；变化 -187.27 点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 24,579.43（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-10；前值 25,253.14（2026-11-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,6 +177,143 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T11:40:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826989"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T11:13:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/826983"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "机构加大半导体板块掘金力度",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826918"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T07:07:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826917"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T04:51:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "金融价值观｜中信建投刘成：努力把握长期增长的机遇 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T04:15:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HS2czc2dUaUl3LVFQLUtJVkUyeFo5cUhBT29nZWh2aEtMOWFTLVpzZDhQQnl2aEVZTFJ1YVBucUo2YWoyT242cXF1bFlEMFR0bTYxQjZmZlFtbW93cDB5ZVpvTVpKN0t4YmllTUZGQS1uTmsyOWM3MkZHMThYMFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "365天24小时随时待战、随时起飞 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T03:55:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzFNaFJ6djFEakd4V2Q1ckZ4TlRXbzBCaUFwUlZsdjNWR094REs1ZnAwaWVSWXZld1dHcWRMYnM0RlJwWGc4VlB5SndwOGZCLWlSSko3RGdjU2dhaDhuQXppRHc4LThrSDJEYjByaVVxemgwS3p3dkFZVFVKUHd1VFZUdw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "心动的旅“城”丨承古迎今 皖美如画 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T03:54:57+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQ3NrR3NtTXQwV3dZaXMxV3duZHdZdk5lWkZLZ3RLVk9uMlhKa19ScFlhSEpLaXEyUzNtMUJ1dENBZHA4b3JweEhZV2psZ1NEWWhVdUs5c2NFTUZpa3BGSlJ3bk5yUEZEQXF6RlpPYzFUZUJnVVJ2cmIycm91MVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江西都昌：6万多亩再生稻开镰 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T03:35:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNkR3BhMzZGZkxqN3hSTGlMLW04SHZIVTRFdTN5ZWRwWVJNUGk4eF85T21oX1k4bWlkRWEweGNUMEJmaVZQeUpxR3k2cUwwWUo3cXFITkc2TkNWSmEyRWtQdS04Z3FtNnJRYVBxMUtXY0dKeWxBSXV5ZTJfa2JzWDFpMA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "美国防部长弹劾案在众议院被搁置 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,141 +324,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T03:09:00+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T03:04:53+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:45:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWY2U1RjQXlkTmdKQWVpekhoanNtLW52RHZZNGFBZzZuVEhveF83MHlZY2tLODZBZDZiUFB0UV9SQ1h4OEw2TTZWRUZMRjQ2a1I5a2FkLUIwWXg2Rl9OallmTzlPaEE4ZzVYamVLdUw2a19Fb1NPTlF6Y3o5aldyRG01Yw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秋冬养生正当时 专家呼吁睡好觉就是最好的“进补” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:45:25+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0poRjgzV3lZaTloLXpoLXl3NmFOOE1tX2hZOGU2a0VQYXl0VmJHNHo3bkVMaDVDN0dsdEl0Qkp5eXdfSno1MDJEYzdJWm5Oc2dPenlTb2NiYkQyeThRR3VqaG1WTy0zc0x3TUotQ2lOUE9yMnVrVTBZSG40VnZUTC1MSQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:42:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:29:24+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:25:21+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "人民空军，生日快乐 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:08:45+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSldBV29NWC1pVEw4anN0UE95YkVEaHBsMkpVS2ZibDUyYkprU0ZjNEtRYVp4d3JUREF1S3VFdjdoSWdWR3FURG81Vm9xTWtuUW5scE5RbVhSWWNtb2g2MjJNcjhRa0ZVV0NXX0NVVUdvRjhXZjNQbEpGbVI5YjNCTE9NZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上海气质 国际风范——在进博会感受有序与活力 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-11T02:01:54+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5"
             }
           ]
         }
@@ -353,7 +355,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-06 前值 7376.8599，2026-11-09 现值 7549.9399，变化 +173.0801。",
+            "本期实例：标普 500 指数，2026-11-09 前值 7549.9399，2026-11-10 现值 7520.9302，变化 -29.0098。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,14 +381,19 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-09"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-10"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -394,19 +401,14 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-09"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-10"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-10"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-09"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,57 +416,143 @@
       "asOf": "2026-11-09"
     },
     {
+      "title": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
+      "url": "https://www.cnstock.com/commonDetail/826989",
+      "asOf": "2026-11-11T11:40:00+08:00"
+    },
+    {
+      "title": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
+      "url": "https://www.cnstock.com/commonDetail/826983",
+      "asOf": "2026-11-11T11:13:00+08:00"
+    },
+    {
+      "title": "机构加大半导体板块掘金力度",
+      "url": "https://www.cnstock.com/commonDetail/826918",
+      "asOf": "2026-11-11T08:04:00+08:00"
+    },
+    {
+      "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "asOf": "2026-11-11T07:07:00+08:00"
+    },
+    {
+      "title": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5",
+      "asOf": "2026-11-11T04:51:31+00:00"
+    },
+    {
+      "title": "金融价值观｜中信建投刘成：努力把握长期增长的机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HS2czc2dUaUl3LVFQLUtJVkUyeFo5cUhBT29nZWh2aEtMOWFTLVpzZDhQQnl2aEVZTFJ1YVBucUo2YWoyT242cXF1bFlEMFR0bTYxQjZmZlFtbW93cDB5ZVpvTVpKN0t4YmllTUZGQS1uTmsyOWM3MkZHMThYMFE?oc=5",
+      "asOf": "2026-11-11T04:15:01+00:00"
+    },
+    {
+      "title": "365天24小时随时待战、随时起飞 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzFNaFJ6djFEakd4V2Q1ckZ4TlRXbzBCaUFwUlZsdjNWR094REs1ZnAwaWVSWXZld1dHcWRMYnM0RlJwWGc4VlB5SndwOGZCLWlSSko3RGdjU2dhaDhuQXppRHc4LThrSDJEYjByaVVxemgwS3p3dkFZVFVKUHd1VFZUdw?oc=5",
+      "asOf": "2026-11-11T03:55:37+00:00"
+    },
+    {
+      "title": "心动的旅“城”丨承古迎今 皖美如画 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQ3NrR3NtTXQwV3dZaXMxV3duZHdZdk5lWkZLZ3RLVk9uMlhKa19ScFlhSEpLaXEyUzNtMUJ1dENBZHA4b3JweEhZV2psZ1NEWWhVdUs5c2NFTUZpa3BGSlJ3bk5yUEZEQXF6RlpPYzFUZUJnVVJ2cmIycm91MVk?oc=5",
+      "asOf": "2026-11-11T03:54:57+00:00"
+    },
+    {
+      "title": "江西都昌：6万多亩再生稻开镰 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNkR3BhMzZGZkxqN3hSTGlMLW04SHZIVTRFdTN5ZWRwWVJNUGk4eF85T21oX1k4bWlkRWEweGNUMEJmaVZQeUpxR3k2cUwwWUo3cXFITkc2TkNWSmEyRWtQdS04Z3FtNnJRYVBxMUtXY0dKeWxBSXV5ZTJfa2JzWDFpMA?oc=5",
+      "asOf": "2026-11-11T03:35:26+00:00"
+    },
+    {
       "title": "美国防部长弹劾案在众议院被搁置 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5",
       "asOf": "2026-11-11T03:26:53+00:00"
-    },
-    {
-      "title": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5",
-      "asOf": "2026-11-11T03:09:00+00:00"
-    },
-    {
-      "title": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5",
-      "asOf": "2026-11-11T03:04:53+00:00"
-    },
-    {
-      "title": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWY2U1RjQXlkTmdKQWVpekhoanNtLW52RHZZNGFBZzZuVEhveF83MHlZY2tLODZBZDZiUFB0UV9SQ1h4OEw2TTZWRUZMRjQ2a1I5a2FkLUIwWXg2Rl9OallmTzlPaEE4ZzVYamVLdUw2a19Fb1NPTlF6Y3o5aldyRG01Yw?oc=5",
-      "asOf": "2026-11-11T02:45:29+00:00"
-    },
-    {
-      "title": "秋冬养生正当时 专家呼吁睡好觉就是最好的“进补” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0poRjgzV3lZaTloLXpoLXl3NmFOOE1tX2hZOGU2a0VQYXl0VmJHNHo3bkVMaDVDN0dsdEl0Qkp5eXdfSno1MDJEYzdJWm5Oc2dPenlTb2NiYkQyeThRR3VqaG1WTy0zc0x3TUotQ2lOUE9yMnVrVTBZSG40VnZUTC1MSQ?oc=5",
-      "asOf": "2026-11-11T02:45:25+00:00"
-    },
-    {
-      "title": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5",
-      "asOf": "2026-11-11T02:42:37+00:00"
-    },
-    {
-      "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5",
-      "asOf": "2026-11-11T02:29:24+00:00"
-    },
-    {
-      "title": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5",
-      "asOf": "2026-11-11T02:25:21+00:00"
-    },
-    {
-      "title": "人民空军，生日快乐 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSldBV29NWC1pVEw4anN0UE95YkVEaHBsMkpVS2ZibDUyYkprU0ZjNEtRYVp4d3JUREF1S3VFdjdoSWdWR3FURG81Vm9xTWtuUW5scE5RbVhSWWNtb2g2MjJNcjhRa0ZVV0NXX0NVVUdvRjhXZjNQbEpGbVI5YjNCTE9NZw?oc=5",
-      "asOf": "2026-11-11T02:08:45+00:00"
-    },
-    {
-      "title": "上海气质 国际风范——在进博会感受有序与活力 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5",
-      "asOf": "2026-11-11T02:01:54+00:00"
     }
   ],
   "events": [
+    {
+      "event": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
+      "originalTitle": "盘中拉升！分红前密集增持，李宁展露超高“财技”",
+      "published": "2026-11-11T11:40:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826989",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
+      "originalTitle": "国家发展改革委：共建“一带一路”务实合作越拓越宽 资金融通日益多元",
+      "published": "2026-11-11T11:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826983",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "机构加大半导体板块掘金力度",
+      "originalTitle": "机构加大半导体板块掘金力度",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826918",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826918",
+        "retrievedAt": "2026-11-11T13:57:25.483835+08:00",
+        "sha256": "5711ea5044a607ebc61424d4e85517e0b9136aeda4e1644c746be03b910eb436",
+        "paragraphCount": 11,
+        "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+      }
+    },
+    {
+      "event": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "originalTitle": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "published": "2026-11-11T07:07:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826917",
+        "retrievedAt": "2026-11-11T13:57:25.483835+08:00",
+        "sha256": "4b27b4f54844d482c5cc42aed7e63b06ea666049e8a076ce96d9a4d8f89f00e9",
+        "paragraphCount": 44,
+        "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+      }
+    },
+    {
+      "event": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网",
+      "published": "2026-11-11T04:51:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZkk4MUhaN3ZzbzRXV0xWLVB5OTlmT0s2ZDUyWnU5aUNfUGVlMEozbE5UR0p6RzU2dWdIXzI2NkJGaDliUG1wTWhURU9uOG9PVVFEYW9rWFR6N21OMUJJVlQ1UkRyTkROaXd6Nkt2X3M5VTlLN3BFb3cwQ2VaOVk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中药质控向产地前移 以岭药业守住药材源头品质 - 新华网"
+    },
+    {
+      "event": "金融价值观｜中信建投刘成：努力把握长期增长的机遇 - 新华网",
+      "published": "2026-11-11T04:15:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HS2czc2dUaUl3LVFQLUtJVkUyeFo5cUhBT29nZWh2aEtMOWFTLVpzZDhQQnl2aEVZTFJ1YVBucUo2YWoyT242cXF1bFlEMFR0bTYxQjZmZlFtbW93cDB5ZVpvTVpKN0t4YmllTUZGQS1uTmsyOWM3MkZHMThYMFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "金融价值观｜中信建投刘成：努力把握长期增长的机遇 - 新华网"
+    },
+    {
+      "event": "365天24小时随时待战、随时起飞 - 新华网",
+      "published": "2026-11-11T03:55:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzFNaFJ6djFEakd4V2Q1ckZ4TlRXbzBCaUFwUlZsdjNWR094REs1ZnAwaWVSWXZld1dHcWRMYnM0RlJwWGc4VlB5SndwOGZCLWlSSko3RGdjU2dhaDhuQXppRHc4LThrSDJEYjByaVVxemgwS3p3dkFZVFVKUHd1VFZUdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "365天24小时随时待战、随时起飞 - 新华网"
+    },
+    {
+      "event": "心动的旅“城”丨承古迎今 皖美如画 - 新华网",
+      "published": "2026-11-11T03:54:57+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQ3NrR3NtTXQwV3dZaXMxV3duZHdZdk5lWkZLZ3RLVk9uMlhKa19ScFlhSEpLaXEyUzNtMUJ1dENBZHA4b3JweEhZV2psZ1NEWWhVdUs5c2NFTUZpa3BGSlJ3bk5yUEZEQXF6RlpPYzFUZUJnVVJ2cmIycm91MVk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "心动的旅“城”丨承古迎今 皖美如画 - 新华网"
+    },
+    {
+      "event": "江西都昌：6万多亩再生稻开镰 - 新华网",
+      "published": "2026-11-11T03:35:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNkR3BhMzZGZkxqN3hSTGlMLW04SHZIVTRFdTN5ZWRwWVJNUGk4eF85T21oX1k4bWlkRWEweGNUMEJmaVZQeUpxR3k2cUwwWUo3cXFITkc2TkNWSmEyRWtQdS04Z3FtNnJRYVBxMUtXY0dKeWxBSXV5ZTJfa2JzWDFpMA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江西都昌：6万多亩再生稻开镰 - 新华网"
+    },
     {
       "event": "美国防部长弹劾案在众议院被搁置 - 新华网",
       "published": "2026-11-11T03:26:53+00:00",
@@ -472,78 +560,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMFNXSTY5bFV3SUxBaEdUUlVVZXNENVZnY0dIejY0OFA4Njc1WHhIUHpUMFJWQzBzLUNHSzJRN3NTQkJRbkIzVG9XdTJiaWw1NnRmM3RhWUw5Wk1VLVBXdk8xdmllU0w0NkJISFdhdlhTMUpEVk16emtjbjFpVHc?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "美国防部长弹劾案在众议院被搁置 - 新华网"
-    },
-    {
-      "event": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网",
-      "published": "2026-11-11T03:09:00+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0dmQ4eENFM1FPSm40d05NRGJPYW9Tc25ncWVjc3dLamlxRDdjRDdyWWFtTFlRYnpRYi1qaU1DaW1pellaQmJfelB5a0lweGZZY2gzdnpqZ2c1SWR4cGtVUUtWTzdtRnFTTTNjUnBFMkRjZC1QRVAySTJxbkk0LWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "国际观察丨油价“高烧” 欧洲航司重算冬航账 - 新华网"
-    },
-    {
-      "event": "因受到伊朗威胁 美财长移居军事基地 - 新华网",
-      "published": "2026-11-11T03:04:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU1RFRkNESVJGUjU2VndXaDFpR3g1N0FGZ0tJSEc3OGtoMGtzRGNXN194S0pxZlU2bzFXSmNyTGtKQU96SFd2cmt4X2FlQUtuQ3M0SjhtdzhwWlNLa2lIRGo4NThiMTdTUEo4SmNkMVppY05rUWhLRnZIamE1S0U?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "因受到伊朗威胁 美财长移居军事基地 - 新华网"
-    },
-    {
-      "event": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网",
-      "published": "2026-11-11T02:45:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWY2U1RjQXlkTmdKQWVpekhoanNtLW52RHZZNGFBZzZuVEhveF83MHlZY2tLODZBZDZiUFB0UV9SQ1h4OEw2TTZWRUZMRjQ2a1I5a2FkLUIwWXg2Rl9OallmTzlPaEE4ZzVYamVLdUw2a19Fb1NPTlF6Y3o5aldyRG01Yw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "一座铁塔的“多重身份”——“六张网”协同落地观察 - 新华网"
-    },
-    {
-      "event": "秋冬养生正当时 专家呼吁睡好觉就是最好的“进补” - 新华网",
-      "published": "2026-11-11T02:45:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0poRjgzV3lZaTloLXpoLXl3NmFOOE1tX2hZOGU2a0VQYXl0VmJHNHo3bkVMaDVDN0dsdEl0Qkp5eXdfSno1MDJEYzdJWm5Oc2dPenlTb2NiYkQyeThRR3VqaG1WTy0zc0x3TUotQ2lOUE9yMnVrVTBZSG40VnZUTC1MSQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秋冬养生正当时 专家呼吁睡好觉就是最好的“进补” - 新华网"
-    },
-    {
-      "event": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网",
-      "published": "2026-11-11T02:42:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NR0tvYmYxcXYtX09PckdQVjBPX0hkeG5FeVdQUzRVQkpvTUsyN1ZraVVab2p2NFVzaHNzcC05UnBQVVdzRGZHckxNbWkwNzBMc0NqNDlCS3FHUGRNOVVsWUFFNnpIbTNPaHZIUXJxMGYwMDZsdmZv?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "培育新质生产力 国家级园区在行动丨超级枢纽 产业高地 算力粮仓——郑州航空港区进阶三重奏 - 新华网"
-    },
-    {
-      "event": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网",
-      "published": "2026-11-11T02:29:24+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNjdRblN1UDl0bFYxVlk2UmZYSUZYdGxETW1aNi03UmwtQlVBVTgwaC11TzVvZkVFWXpwN1V4THdzR0FOdjBGRmpwdDlhaHlHNEZ3cnloZnY5YmVFaGVuU1ltaXdrZ1ExV1BNWTdlaWxqOE53ZUFyYTM2aUV3eFk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件 - 新华网"
-    },
-    {
-      "event": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道",
-      "published": "2026-11-11T02:25:21+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVM0tQNmlUbmpjNlk2Mkl5eHVLVkV2VnNIcXZOVkpaTm01Y2pZc2N1cUVLUG1wdl9xOU1qRzZMaGdLYXN2Y2xzWGttdkhYYTZxcHloS0xOVDBGWDNKUGZ6dlJLZ0FzaFJzMjIwYzJ6ZnNRZ0Jj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "南京大学南京校友银发经济产业汇在南京成立 - 新华网江苏频道"
-    },
-    {
-      "event": "人民空军，生日快乐 - 新华网",
-      "published": "2026-11-11T02:08:45+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSldBV29NWC1pVEw4anN0UE95YkVEaHBsMkpVS2ZibDUyYkprU0ZjNEtRYVp4d3JUREF1S3VFdjdoSWdWR3FURG81Vm9xTWtuUW5scE5RbVhSWWNtb2g2MjJNcjhRa0ZVV0NXX0NVVUdvRjhXZjNQbEpGbVI5YjNCTE9NZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "人民空军，生日快乐 - 新华网"
-    },
-    {
-      "event": "上海气质 国际风范——在进博会感受有序与活力 - 新华网",
-      "published": "2026-11-11T02:01:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRERVb1c3R0JjdmxYWG1YQm9yYjJ5VWxtZmRFQXpQZ1dSMGpsSmhreGVoVk5vRHd4TUpXWFRERXAwYUVSLV9Nb2NobmU1a0JyWnRMR01TalJoTGRRZ1pJWEVPZU83dlZwQVhsQzZxSGNPRTBnMkR6ZkprYUZFQ2pxc0JESQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "上海气质 国际风范——在进博会感受有序与活力 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +573,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
