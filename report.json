@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-10",
-  "date": "更新于北京时间 2026-11-10 20:39",
-  "reportDate": "2026-11-10",
-  "updatedAt": "2026-11-10T20:39:56+08:00",
+  "edition": "财经晨报 · 2026-11-11",
+  "date": "更新于北京时间 2026-11-11 09:13",
+  "reportDate": "2026-11-11",
+  "updatedAt": "2026-11-11T09:13:42+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-10 财经资料（待核验）",
+    "title": "2026-11-11 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-06：4.86 %；较 2026-11-05 变化 +0.02 个百分点。",
+          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.51 %；变化 +0.05 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.46（2026-11-05）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.86 %；变化 +0.02 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-06；前值 4.84（2026-11-05）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6760 人民币/美元；变化 -0.0120 人民币/美元",
+          "summary": "6.6727 人民币/美元；变化 -0.0033 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-09；前值 6.6880（2026-11-06）；来源：Yahoo Finance。"
+            "观测日 2026-11-10；前值 6.6760（2026-11-09）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,155 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "股价跌去30%，章建平妻子方文艳一股没卖",
+          "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T20:12:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-11T08:28:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826754"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826933"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "超130亿元，资金连续加仓半导体",
+          "title": "机构加大半导体板块掘金力度",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T20:12:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826755"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826918"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "宝丽迪：每10股派1元，股权登记日为11月16日",
+          "title": "有进有退 险资差异化配置银行股",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T18:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826596"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826927"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "端侧AI硬件，行情升温",
+          "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T18:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-11T07:07:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826631"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826917"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "隆鑫通用：每10股派2.50元，股权登记日为11月16日",
+          "title": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T18:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-11T01:00:11+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826587"
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "数码视讯：出售博汇科技328.36万股完成过户，转让款6698.56万元",
+          "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T18:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-11T00:47:25+00:00；来源：新华网重庆。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826581"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平同志《论减贫脱贫》出版发行",
+          "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T16:58:00+08:00；来源：新华社。",
+            "发布时间：2026-11-11T00:31:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826563"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国际金价震荡反弹 市场多空博弈加剧",
+          "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T16:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-11T00:26:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/826539"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "热点问答｜美国真不想再打伊朗了？ - 新华网",
+          "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T12:25:41+00:00；来源：新华网。",
+            "发布时间：2026-11-11T00:05:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85T2gwcEZ0NDVTa2xGS0VxU3JETW5sVVB4Z2YteXh5czNJMnR4OHhsdUtoMTMyWEE1bk5abVpjM3IyaGdDLXdKelB0ckRIRnVQYjFhb2VscExKcHJjenVtNVd4Z0dCSDVzdFR0blZRb1R4ZllvMnRqZGprejU0cWs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "前三季度保险业原保险保费收入5.26万亿元 - 新华网",
+          "title": "水网建设刷新“进度条” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-10T12:19:18+00:00；来源：新华网。",
+            "发布时间：2026-11-10T23:58:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzdrcTdVUTdmYVhVVGx4a1VCMERwanZtLVFDeDg3dS1RRjQ3Z0xJWHYtSF9iS3NJR2ctU0lCM3ZZUFpqWG13Nmk3YW1fd19Bc1NnVDZINWktdTFSamU0X2FOVkxwWkdEQXM5Z084NV9QQkl4ZGpUNEFlajFld2VMeHBB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5"
             }
           ]
         }
@@ -345,7 +349,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 33 课：情景分析",
+      "title": "第 34 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,8 +383,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-09"
     },
     {
@@ -389,14 +393,14 @@
       "asOf": "2026-11-09"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-09"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-10"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -404,146 +408,174 @@
       "asOf": "2026-11-09"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-06"
-    },
-    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
-      "title": "股价跌去30%，章建平妻子方文艳一股没卖",
-      "url": "https://www.cnstock.com/commonDetail/826754",
-      "asOf": "2026-11-10T20:12:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-09"
     },
     {
-      "title": "超130亿元，资金连续加仓半导体",
-      "url": "https://www.cnstock.com/commonDetail/826755",
-      "asOf": "2026-11-10T20:12:00+08:00"
+      "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "url": "https://www.cnstock.com/commonDetail/826933",
+      "asOf": "2026-11-11T08:28:00+08:00"
     },
     {
-      "title": "宝丽迪：每10股派1元，股权登记日为11月16日",
-      "url": "https://www.cnstock.com/commonDetail/826596",
-      "asOf": "2026-11-10T18:46:00+08:00"
+      "title": "机构加大半导体板块掘金力度",
+      "url": "https://www.cnstock.com/commonDetail/826918",
+      "asOf": "2026-11-11T08:04:00+08:00"
     },
     {
-      "title": "端侧AI硬件，行情升温",
-      "url": "https://www.cnstock.com/commonDetail/826631",
-      "asOf": "2026-11-10T18:46:00+08:00"
+      "title": "有进有退 险资差异化配置银行股",
+      "url": "https://www.cnstock.com/commonDetail/826927",
+      "asOf": "2026-11-11T08:04:00+08:00"
     },
     {
-      "title": "隆鑫通用：每10股派2.50元，股权登记日为11月16日",
-      "url": "https://www.cnstock.com/commonDetail/826587",
-      "asOf": "2026-11-10T18:46:00+08:00"
+      "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "asOf": "2026-11-11T07:07:00+08:00"
     },
     {
-      "title": "数码视讯：出售博汇科技328.36万股完成过户，转让款6698.56万元",
-      "url": "https://www.cnstock.com/commonDetail/826581",
-      "asOf": "2026-11-10T18:46:00+08:00"
+      "title": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5",
+      "asOf": "2026-11-11T01:00:11+00:00"
     },
     {
-      "title": "习近平同志《论减贫脱贫》出版发行",
-      "url": "https://www.cnstock.com/commonDetail/826563",
-      "asOf": "2026-11-10T16:58:00+08:00"
+      "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
+      "asOf": "2026-11-11T00:47:25+00:00"
     },
     {
-      "title": "国际金价震荡反弹 市场多空博弈加剧",
-      "url": "https://www.cnstock.com/commonDetail/826539",
-      "asOf": "2026-11-10T16:44:00+08:00"
+      "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
+      "asOf": "2026-11-11T00:31:16+00:00"
     },
     {
-      "title": "热点问答｜美国真不想再打伊朗了？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85T2gwcEZ0NDVTa2xGS0VxU3JETW5sVVB4Z2YteXh5czNJMnR4OHhsdUtoMTMyWEE1bk5abVpjM3IyaGdDLXdKelB0ckRIRnVQYjFhb2VscExKcHJjenVtNVd4Z0dCSDVzdFR0blZRb1R4ZllvMnRqZGprejU0cWs?oc=5",
-      "asOf": "2026-11-10T12:25:41+00:00"
+      "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
+      "asOf": "2026-11-11T00:26:45+00:00"
     },
     {
-      "title": "前三季度保险业原保险保费收入5.26万亿元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzdrcTdVUTdmYVhVVGx4a1VCMERwanZtLVFDeDg3dS1RRjQ3Z0xJWHYtSF9iS3NJR2ctU0lCM3ZZUFpqWG13Nmk3YW1fd19Bc1NnVDZINWktdTFSamU0X2FOVkxwWkdEQXM5Z084NV9QQkl4ZGpUNEFlajFld2VMeHBB?oc=5",
-      "asOf": "2026-11-10T12:19:18+00:00"
+      "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
+      "asOf": "2026-11-11T00:05:58+00:00"
+    },
+    {
+      "title": "水网建设刷新“进度条” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
+      "asOf": "2026-11-10T23:58:17+00:00"
     }
   ],
   "events": [
     {
-      "event": "股价跌去30%，章建平妻子方文艳一股没卖",
-      "originalTitle": "股价跌去30%，章建平妻子方文艳一股没卖",
-      "published": "2026-11-10T20:12:00+08:00",
+      "event": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "originalTitle": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "published": "2026-11-11T08:28:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826754",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "超130亿元，资金连续加仓半导体",
-      "originalTitle": "超130亿元，资金连续加仓半导体",
-      "published": "2026-11-10T20:12:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826755",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "宝丽迪：每10股派1元，股权登记日为11月16日",
-      "originalTitle": "宝丽迪：每10股派1元，股权登记日为11月16日",
-      "published": "2026-11-10T18:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826596",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "端侧AI硬件，行情升温",
-      "originalTitle": "端侧AI硬件，行情升温",
-      "published": "2026-11-10T18:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826631",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "隆鑫通用：每10股派2.50元，股权登记日为11月16日",
-      "originalTitle": "隆鑫通用：每10股派2.50元，股权登记日为11月16日",
-      "published": "2026-11-10T18:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826587",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "数码视讯：出售博汇科技328.36万股完成过户，转让款6698.56万元",
-      "originalTitle": "数码视讯：出售博汇科技328.36万股完成过户，转让款6698.56万元",
-      "published": "2026-11-10T18:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826581",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "习近平同志《论减贫脱贫》出版发行",
-      "originalTitle": "习近平同志《论减贫脱贫》出版发行",
-      "published": "2026-11-10T16:58:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/826563",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国际金价震荡反弹 市场多空博弈加剧",
-      "originalTitle": "国际金价震荡反弹 市场多空博弈加剧",
-      "published": "2026-11-10T16:44:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/826539",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "热点问答｜美国真不想再打伊朗了？ - 新华网",
-      "published": "2026-11-10T12:25:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85T2gwcEZ0NDVTa2xGS0VxU3JETW5sVVB4Z2YteXh5czNJMnR4OHhsdUtoMTMyWEE1bk5abVpjM3IyaGdDLXdKelB0ckRIRnVQYjFhb2VscExKcHJjenVtNVd4Z0dCSDVzdFR0blZRb1R4ZllvMnRqZGprejU0cWs?oc=5",
+      "url": "https://www.cnstock.com/commonDetail/826933",
       "evidenceLevel": "headline-only",
-      "originalTitle": "热点问答｜美国真不想再打伊朗了？ - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826933",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "d4f93fa13ea0c3bd7affece777bb987262ade0b31a7bf74c83348fcc2c52f5cd",
+        "paragraphCount": 35,
+        "excerpt": "•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
+      }
     },
     {
-      "event": "前三季度保险业原保险保费收入5.26万亿元 - 新华网",
-      "published": "2026-11-10T12:19:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzdrcTdVUTdmYVhVVGx4a1VCMERwanZtLVFDeDg3dS1RRjQ3Z0xJWHYtSF9iS3NJR2ctU0lCM3ZZUFpqWG13Nmk3YW1fd19Bc1NnVDZINWktdTFSamU0X2FOVkxwWkdEQXM5Z084NV9QQkl4ZGpUNEFlajFld2VMeHBB?oc=5",
+      "event": "机构加大半导体板块掘金力度",
+      "originalTitle": "机构加大半导体板块掘金力度",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826918",
       "evidenceLevel": "headline-only",
-      "originalTitle": "前三季度保险业原保险保费收入5.26万亿元 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826918",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "5030df4a40bd346087fdb38b00b7f0bfc679bb1ad034f93178dddf6b4e00cc11",
+        "paragraphCount": 11,
+        "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+      }
+    },
+    {
+      "event": "有进有退 险资差异化配置银行股",
+      "originalTitle": "有进有退 险资差异化配置银行股",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826927",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826927",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "234e28616c73e2d5ff53100dae365a3fa4b70a6b7285cabd233b19f944f23996",
+        "paragraphCount": 13,
+        "excerpt": "保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
+      }
+    },
+    {
+      "event": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "originalTitle": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "published": "2026-11-11T07:07:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826917",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "364753ac8a3142b22efd6aee7acf5fa34bb3621cfcf6b86bf78d27ff6d158336",
+        "paragraphCount": 44,
+        "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+      }
+    },
+    {
+      "event": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
+      "published": "2026-11-11T01:00:11+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道"
+    },
+    {
+      "event": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
+      "published": "2026-11-11T00:47:25+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆"
+    },
+    {
+      "event": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
+      "published": "2026-11-11T00:31:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "吸引海外央行存金 新加坡争当“世界金库” - 新华网"
+    },
+    {
+      "event": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+      "published": "2026-11-11T00:26:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网"
+    },
+    {
+      "event": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
+      "published": "2026-11-11T00:05:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网"
+    },
+    {
+      "event": "水网建设刷新“进度条” - 新华网",
+      "published": "2026-11-10T23:58:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "水网建设刷新“进度条” - 新华网"
     }
   ],
   "quality": {
@@ -556,15 +588,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }

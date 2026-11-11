@@ -1,0 +1,593 @@
+{
+  "edition": "财经晨报 · 2026-11-11",
+  "date": "更新于北京时间 2026-11-11 09:13",
+  "reportDate": "2026-11-11",
+  "updatedAt": "2026-11-11T09:13:42+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-11 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-09：7,549.94 点；较 2026-11-06 变化 +173.08 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-09：92.57 美元/桶；较 2026-11-06 变化 -5.75 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "92.57 美元/桶；变化 -5.75 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 98.32（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.56 %；变化 +0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.88 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "101.65 点；变化 -0.65 点",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 102.30（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,549.94 点；变化 +173.08 点",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 7,376.86（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "25,253.14 点；变化 +673.71 点",
+          "paragraphs": [
+            "观测日 2026-11-09；前值 24,579.43（2026-11-06）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6727 人民币/美元；变化 -0.0033 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-10；前值 6.6760（2026-11-09）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T08:28:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826933"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "机构加大半导体板块掘金力度",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826918"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "有进有退 险资差异化配置银行股",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T08:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826927"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T07:07:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/826917"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T01:00:11+00:00；来源：新华网江苏频道。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T00:47:25+00:00；来源：新华网重庆。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T00:31:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T00:26:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-11T00:05:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "水网建设刷新“进度条” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-10T23:58:17+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 34 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-06 前值 7376.8599，2026-11-09 现值 7549.9399，变化 +173.0801。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "url": "https://www.cnstock.com/commonDetail/826933",
+      "asOf": "2026-11-11T08:28:00+08:00"
+    },
+    {
+      "title": "机构加大半导体板块掘金力度",
+      "url": "https://www.cnstock.com/commonDetail/826918",
+      "asOf": "2026-11-11T08:04:00+08:00"
+    },
+    {
+      "title": "有进有退 险资差异化配置银行股",
+      "url": "https://www.cnstock.com/commonDetail/826927",
+      "asOf": "2026-11-11T08:04:00+08:00"
+    },
+    {
+      "title": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "asOf": "2026-11-11T07:07:00+08:00"
+    },
+    {
+      "title": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5",
+      "asOf": "2026-11-11T01:00:11+00:00"
+    },
+    {
+      "title": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
+      "asOf": "2026-11-11T00:47:25+00:00"
+    },
+    {
+      "title": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
+      "asOf": "2026-11-11T00:31:16+00:00"
+    },
+    {
+      "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
+      "asOf": "2026-11-11T00:26:45+00:00"
+    },
+    {
+      "title": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
+      "asOf": "2026-11-11T00:05:58+00:00"
+    },
+    {
+      "title": "水网建设刷新“进度条” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
+      "asOf": "2026-11-10T23:58:17+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "originalTitle": "上证早知道｜300979，拟跨界布局光通信；603286，电子皮肤产品处于客户验证阶段",
+      "published": "2026-11-11T08:28:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/826933",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826933",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "d4f93fa13ea0c3bd7affece777bb987262ade0b31a7bf74c83348fcc2c52f5cd",
+        "paragraphCount": 35,
+        "excerpt": "•修订后的《基金会管理条例》（以下简称《条例》）公布，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。"
+      }
+    },
+    {
+      "event": "机构加大半导体板块掘金力度",
+      "originalTitle": "机构加大半导体板块掘金力度",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826918",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826918",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "5030df4a40bd346087fdb38b00b7f0bfc679bb1ad034f93178dddf6b4e00cc11",
+        "paragraphCount": 11,
+        "excerpt": "近期，半导体板块的市场关注度有所升温。从资金流向看，3个交易日半导体主题ETF，净流入超过130亿元。就份额变化而言，近期投资者更是逆势买入，多只半导体主题ETF份额创历史新高。与此同时，公募也加大布局力度，多只半导体主题基金正在发行。"
+      }
+    },
+    {
+      "event": "有进有退 险资差异化配置银行股",
+      "originalTitle": "有进有退 险资差异化配置银行股",
+      "published": "2026-11-11T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826927",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826927",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "234e28616c73e2d5ff53100dae365a3fa4b70a6b7285cabd233b19f944f23996",
+        "paragraphCount": 13,
+        "excerpt": "保险资金配置银行股发生新变化。据上海证券报记者11月10日不完全统计，今年以来，险资机构投资银行股明显分化：一方面是和谐健康保险、富德生命人寿等中小险企卖出银行股；另一方面是中国人寿、平安人寿等大型险企买入银行股。总体来看，中小险企主要卖出"
+      }
+    },
+    {
+      "event": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "originalTitle": "5万亿元地下管网更新：怎么修建，资金在哪，谁来养护",
+      "published": "2026-11-11T07:07:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/826917",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/826917",
+        "retrievedAt": "2026-11-11T09:13:42.177761+08:00",
+        "sha256": "364753ac8a3142b22efd6aee7acf5fa34bb3621cfcf6b86bf78d27ff6d158336",
+        "paragraphCount": 44,
+        "excerpt": "上海市普陀区，地下约30米深处，一条长3.2公里的初雨调蓄管网隧道近期贯通。盾构机在软土中连续下穿多条地铁线路和中环高架，最小转弯半径仅65米，创下国内软土地区最小曲线盾构施工纪录。工程建成后，将削减初期雨水对河道的污染。"
+      }
+    },
+    {
+      "event": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道",
+      "published": "2026-11-11T01:00:11+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TenJlaDlXS2ZTMm5xNVVtXzJpX0V6YXZXQkJMTDV2Q2N6WWw3ckJCd2JsU2RBNUJ0bk1QUzRYZ1VlNTBXT0FJNlJRR1JMcmtXWU5iMDlReVdLdmpILVRiUUJUTmh4VFdRaXhscm4xUWdweGRoSmdFTmJR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "江苏成立零碳园区金融服务联盟 加速产融联动助力绿色低碳转型 - 新华网江苏频道"
+    },
+    {
+      "event": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆",
+      "published": "2026-11-11T00:47:25+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWmEyTFo3Tzh5b2VqUE5TT0g0Z21WWURoLXYxWEpjanc1WmhpOWZZbk1hWWc1d1V2RG1zQlhGcExPM1VBZTVhRlAwbl9zc21EWFpWWE9ZR1NJelc5ZnctZ1lLbjZtZWlNbmFUN0F6VHhQTmlGREE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "两江新区加快打造现代化新重庆重要增长极和动力源 - 新华网重庆"
+    },
+    {
+      "event": "吸引海外央行存金 新加坡争当“世界金库” - 新华网",
+      "published": "2026-11-11T00:31:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vXy1PbDNYcGlJLVV1VkpnRFp0T2pKWDVHb28tOUlPSWZ6d1FvZFlreDRNcnp4UWlOeEJQOUY0cnBjSHlyTndNRVZHc2UzUy13SGo3bVJTYXZ4UWxkTzZBX1E4VWtWNVNYT1gzaEZvMUVpR3I2b0I1VzFOemZXTDA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "吸引海外央行存金 新加坡争当“世界金库” - 新华网"
+    },
+    {
+      "event": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+      "published": "2026-11-11T00:26:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网"
+    },
+    {
+      "event": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网",
+      "published": "2026-11-11T00:05:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWlFRUmpiWjNNa0FoY2tySjlLeWM1WjlBdGZQSUstcTNOT1BzLUNNRloyRF9UNGg5LXhmanFNbVAzck5rcFhYSk52OHhJMHhVaU5MdlpZVndNdXJLZk5pSXVFRVctNDkzcTBDTDRPTjZEb1hYdUw1WmhYenlna0U?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "英国警方逮捕一名涉嫌为俄罗斯从事间谍活动的美军士兵 - 新华网"
+    },
+    {
+      "event": "水网建设刷新“进度条” - 新华网",
+      "published": "2026-11-10T23:58:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVJtaFNJX1o5OXZJRzFrNTlTMlhkNFE3RWNPQ2JYZ0dwTUM5WU4yOG91aTRyUy1mUmZETUxLOW11Ty00RXRzbUpzVG5KVnJyb29GeHdBZ2VId2FpN3ppcE1xRHAwU1dyS2RSNXNXMkJvQ0xpakJYVXdqUVBjSEt4d1FWMA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "水网建设刷新“进度条” - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": []
+  }
+}
