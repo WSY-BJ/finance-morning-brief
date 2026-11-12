@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-12",
-  "date": "更新于北京时间 2026-11-12 15:12",
+  "date": "更新于北京时间 2026-11-12 15:41",
   "reportDate": "2026-11-12",
-  "updatedAt": "2026-11-12T15:12:23+08:00",
+  "updatedAt": "2026-11-12T15:41:18+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,93 +177,61 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "百度推出大模型交易平台词元所 李彦宏：模型调用需求迎来大爆发",
+          "title": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T13:03:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T07:29:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827567"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
+          "title": "中部崛起 科创作答 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T12:58:00+08:00；来源：新华社。",
+            "发布时间：2026-11-12T07:25:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827570"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3o4c3NKUXFZYWthREdYWGFDYmRfa1Z5bkRNS0RUdEd5eHdJUnl2V08zTWxFdzNlMzl6R3gxdklqT0tSTno4bGN3d0c5Qk0zQWY4YmwzaGFYX1BYQ0U4V2tFdGU4YTUtTnhaLUJwR1pSWHh2b1A3eTBPV19aSEVsVQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+          "title": "《再回延安》：沉浸式演绎中感悟伟大长征精神 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T12:44:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827571"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "证监会副主席，最新发声",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T12:39:00+08:00；来源：上海证券报微信公众号。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827565"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "葵花籽油期货及期权在郑商所挂牌上市",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T11:54:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T07:24:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827550"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWxSLUo5YTR5WU90b2FWcUdaejVSZzNpSjJOREE0RXAyQ01VMDhlTTViVE1TMGVwX2hlNGZUdlpkcHBhYktjZFFVTW5WMmUwMlZsSzZfaE1XSFdIeG80dkx1RXRBdENKOUhGTElWYkR2cFQ1SUszWF9hN2o0YUl4eEtScw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
+          "title": "商务部回应欧盟有关国家禁用中国企业设备 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T09:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T07:11:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827498"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02SmdiejUteHRiZDFhTHZJWG5mT1poa0duN0ZIWWpzN2NYQ2VFN016QVphdHROZ1NtOXB2VzJ3MExCa3JRbmZsUmd0TndNX2N5S0d4QlVZc25DRkdzblBvWC13MTdBZ3d0eTJNM2JYaFEwTXY5ZXNR?oc=5"
             }
           ]
         },
@@ -326,6 +294,36 @@
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1BFM2xVMnppSmxhQ3RFUGlLRUlQVGx2ajViaFFnYlp2YWE0LXMxYXJqdkx4ZTczYm5ES0RmcUY4VE1EVHBSTW9wSTFKMEZ1R1J1NjJmZE1EeE01UHAyVGctZ0J1TTRGRzJQeFlyWjRNeXVNRk10eERNRVJKbjNveEdSQQ?oc=5"
             }
           ]
+        },
+        {
+          "type": "explainer",
+          "title": "河北：引导农户科学储粮减少产后损耗 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T06:56:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmVobUxucVlWT1g1QUotaFBfalZvb2ppQ3h1SUU4RUYydXBHY0gtR2NaYUVDSzNiazVFR3VMbkRXaXdOSDdaMUpBX1ZaTXcwNlJPUnl1ajFROXRIQmpnZzJ0VkgzTy1mMFQ0UGx2YkFUZ1B2dVBvaXRzS25DQkgzSUZlZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "外交部驻澳公署和澳门特区政府向葡语国家电视台赠送纪录片 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T06:56:35+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUp2SnhEWkdaZEFoWUNiS3VMRl9WbXF0Y0dOMjBXRjJ0MmE2TVpibHJEVUlpSEVTRW1IV1BzaHNVX1NLUE56ZVNsMFd6RWhpMXZNMVdLUXFTOGZheW1QelFWUTJjOTZJWUVDNW9RMHQ5bHBzQTNuVHJiRUxoTDJrcQ?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -381,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-11"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-11"
     },
     {
@@ -396,8 +394,8 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-11"
     },
     {
@@ -406,44 +404,34 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-09"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-09"
     },
     {
-      "title": "百度推出大模型交易平台词元所 李彦宏：模型调用需求迎来大爆发",
-      "url": "https://www.cnstock.com/commonDetail/827567",
-      "asOf": "2026-11-12T13:03:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-09"
     },
     {
-      "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "url": "https://www.cnstock.com/commonDetail/827570",
-      "asOf": "2026-11-12T12:58:00+08:00"
+      "title": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5",
+      "asOf": "2026-11-12T07:29:08+00:00"
     },
     {
-      "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "url": "https://www.cnstock.com/commonDetail/827571",
-      "asOf": "2026-11-12T12:44:00+08:00"
+      "title": "中部崛起 科创作答 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3o4c3NKUXFZYWthREdYWGFDYmRfa1Z5bkRNS0RUdEd5eHdJUnl2V08zTWxFdzNlMzl6R3gxdklqT0tSTno4bGN3d0c5Qk0zQWY4YmwzaGFYX1BYQ0U4V2tFdGU4YTUtTnhaLUJwR1pSWHh2b1A3eTBPV19aSEVsVQ?oc=5",
+      "asOf": "2026-11-12T07:25:09+00:00"
     },
     {
-      "title": "证监会副主席，最新发声",
-      "url": "https://www.cnstock.com/commonDetail/827565",
-      "asOf": "2026-11-12T12:39:00+08:00"
+      "title": "《再回延安》：沉浸式演绎中感悟伟大长征精神 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWxSLUo5YTR5WU90b2FWcUdaejVSZzNpSjJOREE0RXAyQ01VMDhlTTViVE1TMGVwX2hlNGZUdlpkcHBhYktjZFFVTW5WMmUwMlZsSzZfaE1XSFdIeG80dkx1RXRBdENKOUhGTElWYkR2cFQ1SUszWF9hN2o0YUl4eEtScw?oc=5",
+      "asOf": "2026-11-12T07:24:10+00:00"
     },
     {
-      "title": "葵花籽油期货及期权在郑商所挂牌上市",
-      "url": "https://www.cnstock.com/commonDetail/827550",
-      "asOf": "2026-11-12T11:54:00+08:00"
-    },
-    {
-      "title": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "url": "https://www.cnstock.com/commonDetail/827498",
-      "asOf": "2026-11-12T09:30:00+08:00"
+      "title": "商务部回应欧盟有关国家禁用中国企业设备 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02SmdiejUteHRiZDFhTHZJWG5mT1poa0duN0ZIWWpzN2NYQ2VFN016QVphdHROZ1NtOXB2VzJ3MExCa3JRbmZsUmd0TndNX2N5S0d4QlVZc25DRkdzblBvWC13MTdBZ3d0eTJNM2JYaFEwTXY5ZXNR?oc=5",
+      "asOf": "2026-11-12T07:11:37+00:00"
     },
     {
       "title": "李彦宏首提“组织进化三原则”，判断AI下一幕是智能组织 - 新华网",
@@ -464,70 +452,50 @@
       "title": "扬州：首笔生态损害赔偿资金用于东方白鹳喂养与康复 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1BFM2xVMnppSmxhQ3RFUGlLRUlQVGx2ajViaFFnYlp2YWE0LXMxYXJqdkx4ZTczYm5ES0RmcUY4VE1EVHBSTW9wSTFKMEZ1R1J1NjJmZE1EeE01UHAyVGctZ0J1TTRGRzJQeFlyWjRNeXVNRk10eERNRVJKbjNveEdSQQ?oc=5",
       "asOf": "2026-11-12T06:58:45+00:00"
+    },
+    {
+      "title": "河北：引导农户科学储粮减少产后损耗 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmVobUxucVlWT1g1QUotaFBfalZvb2ppQ3h1SUU4RUYydXBHY0gtR2NaYUVDSzNiazVFR3VMbkRXaXdOSDdaMUpBX1ZaTXcwNlJPUnl1ajFROXRIQmpnZzJ0VkgzTy1mMFQ0UGx2YkFUZ1B2dVBvaXRzS25DQkgzSUZlZw?oc=5",
+      "asOf": "2026-11-12T06:56:40+00:00"
+    },
+    {
+      "title": "外交部驻澳公署和澳门特区政府向葡语国家电视台赠送纪录片 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUp2SnhEWkdaZEFoWUNiS3VMRl9WbXF0Y0dOMjBXRjJ0MmE2TVpibHJEVUlpSEVTRW1IV1BzaHNVX1NLUE56ZVNsMFd6RWhpMXZNMVdLUXFTOGZheW1QelFWUTJjOTZJWUVDNW9RMHQ5bHBzQTNuVHJiRUxoTDJrcQ?oc=5",
+      "asOf": "2026-11-12T06:56:35+00:00"
     }
   ],
   "events": [
     {
-      "event": "百度推出大模型交易平台词元所 李彦宏：模型调用需求迎来大爆发",
-      "originalTitle": "百度推出大模型交易平台词元所 李彦宏：模型调用需求迎来大爆发",
-      "published": "2026-11-12T13:03:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827567",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "originalTitle": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "published": "2026-11-12T12:58:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827570",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "originalTitle": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "published": "2026-11-12T12:44:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827571",
+      "event": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
+      "published": "2026-11-12T07:29:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827571",
-        "retrievedAt": "2026-11-12T15:12:23.268230+08:00",
-        "sha256": "6ee1418f4d9111020beea5d9fe9a7c4e138644eb487505e2d463f512bee40286",
-        "paragraphCount": 8,
-        "excerpt": "上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
-      }
+      "originalTitle": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网"
     },
     {
-      "event": "证监会副主席，最新发声",
-      "originalTitle": "证监会副主席，最新发声",
-      "published": "2026-11-12T12:39:00+08:00",
-      "publisher": "上海证券报微信公众号",
-      "url": "https://www.cnstock.com/commonDetail/827565",
+      "event": "中部崛起 科创作答 - 新华网",
+      "published": "2026-11-12T07:25:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3o4c3NKUXFZYWthREdYWGFDYmRfa1Z5bkRNS0RUdEd5eHdJUnl2V08zTWxFdzNlMzl6R3gxdklqT0tSTno4bGN3d0c5Qk0zQWY4YmwzaGFYX1BYQ0U4V2tFdGU4YTUtTnhaLUJwR1pSWHh2b1A3eTBPV19aSEVsVQ?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827565",
-        "retrievedAt": "2026-11-12T15:12:23.268230+08:00",
-        "sha256": "616d627ffc285fa22b2c4975ea38b26dc27b9ee20accd51bf87d1435685f6646",
-        "paragraphCount": 9,
-        "excerpt": "“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持"
-      }
+      "originalTitle": "中部崛起 科创作答 - 新华网"
     },
     {
-      "event": "葵花籽油期货及期权在郑商所挂牌上市",
-      "originalTitle": "葵花籽油期货及期权在郑商所挂牌上市",
-      "published": "2026-11-12T11:54:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827550",
-      "evidenceLevel": "headline-only"
+      "event": "《再回延安》：沉浸式演绎中感悟伟大长征精神 - 新华网",
+      "published": "2026-11-12T07:24:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWxSLUo5YTR5WU90b2FWcUdaejVSZzNpSjJOREE0RXAyQ01VMDhlTTViVE1TMGVwX2hlNGZUdlpkcHBhYktjZFFVTW5WMmUwMlZsSzZfaE1XSFdIeG80dkx1RXRBdENKOUhGTElWYkR2cFQ1SUszWF9hN2o0YUl4eEtScw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "《再回延安》：沉浸式演绎中感悟伟大长征精神 - 新华网"
     },
     {
-      "event": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "originalTitle": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "published": "2026-11-12T09:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827498",
-      "evidenceLevel": "headline-only"
+      "event": "商务部回应欧盟有关国家禁用中国企业设备 - 新华网",
+      "published": "2026-11-12T07:11:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02SmdiejUteHRiZDFhTHZJWG5mT1poa0duN0ZIWWpzN2NYQ2VFN016QVphdHROZ1NtOXB2VzJ3MExCa3JRbmZsUmd0TndNX2N5S0d4QlVZc25DRkdzblBvWC13MTdBZ3d0eTJNM2JYaFEwTXY5ZXNR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "商务部回应欧盟有关国家禁用中国企业设备 - 新华网"
     },
     {
       "event": "李彦宏首提“组织进化三原则”，判断AI下一幕是智能组织 - 新华网",
@@ -560,6 +528,22 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1BFM2xVMnppSmxhQ3RFUGlLRUlQVGx2ajViaFFnYlp2YWE0LXMxYXJqdkx4ZTczYm5ES0RmcUY4VE1EVHBSTW9wSTFKMEZ1R1J1NjJmZE1EeE01UHAyVGctZ0J1TTRGRzJQeFlyWjRNeXVNRk10eERNRVJKbjNveEdSQQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "扬州：首笔生态损害赔偿资金用于东方白鹳喂养与康复 - 新华网"
+    },
+    {
+      "event": "河北：引导农户科学储粮减少产后损耗 - 新华网",
+      "published": "2026-11-12T06:56:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmVobUxucVlWT1g1QUotaFBfalZvb2ppQ3h1SUU4RUYydXBHY0gtR2NaYUVDSzNiazVFR3VMbkRXaXdOSDdaMUpBX1ZaTXcwNlJPUnl1ajFROXRIQmpnZzJ0VkgzTy1mMFQ0UGx2YkFUZ1B2dVBvaXRzS25DQkgzSUZlZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "河北：引导农户科学储粮减少产后损耗 - 新华网"
+    },
+    {
+      "event": "外交部驻澳公署和澳门特区政府向葡语国家电视台赠送纪录片 - 新华网",
+      "published": "2026-11-12T06:56:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUp2SnhEWkdaZEFoWUNiS3VMRl9WbXF0Y0dOMjBXRjJ0MmE2TVpibHJEVUlpSEVTRW1IV1BzaHNVX1NLUE56ZVNsMFd6RWhpMXZNMVdLUXFTOGZheW1QelFWUTJjOTZJWUVDNW9RMHQ5bHBzQTNuVHJiRUxoTDJrcQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "外交部驻澳公署和澳门特区政府向葡语国家电视台赠送纪录片 - 新华网"
     }
   ],
   "quality": {
@@ -573,10 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
