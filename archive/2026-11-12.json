@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-12",
-  "date": "更新于北京时间 2026-11-12 11:20",
+  "date": "更新于北京时间 2026-11-12 12:01",
   "reportDate": "2026-11-12",
-  "updatedAt": "2026-11-12T11:20:57+08:00",
+  "updatedAt": "2026-11-12T12:01:35+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
+          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.98 %；变化 +0.10 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -240,16 +240,31 @@
         },
         {
           "type": "explainer",
-          "title": "山东省生态环境厅原一级巡视员、原省生态环境保护督察专员霍太英被开除党籍 - 新华网",
+          "title": "日本报告本季首起禽流感疫情 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T03:02:09+00:00；来源：新华网。",
+            "发布时间：2026-11-12T03:46:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94ZGNLSW1rUzMwTTJQT0tnblNGNUlTUVBQbFRqcmR3NFlQUXhsQTlydlJ1bTJJVXRVSUJVV2VxcldLZUVrTWwyNk1fank1WnNKLS1BMUdYOWlPZVhzWTZGMlpVUDlkRDlxaDh4c0I2cVZEenlvcVlZZk0zcDBwUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T03:07:10+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5"
             }
           ]
         },
@@ -312,21 +327,6 @@
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "黄喜忠任江西省人民政府副省长 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T02:39:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG50c2NCcV9FYm9McjJtWndxRlpTU21veGFHWVRzUWpiQnlQTGh5dUZQUXB5V1RWaFZNV21WaXV5SGo1ZTdIZHU0bEZQQ0lNanhmcFNLbjhmOGxwUlFkSFA0SDV1T2IzTkZ1TkRXNlMyWVlDY1F3dHA0T3ZrSC1JSno1aw?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -382,24 +382,24 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-10"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-11"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-10"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -412,9 +412,9 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-09"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-10"
     },
     {
       "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
@@ -437,9 +437,14 @@
       "asOf": "2026-11-12T07:25:00+08:00"
     },
     {
-      "title": "山东省生态环境厅原一级巡视员、原省生态环境保护督察专员霍太英被开除党籍 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94ZGNLSW1rUzMwTTJQT0tnblNGNUlTUVBQbFRqcmR3NFlQUXhsQTlydlJ1bTJJVXRVSUJVV2VxcldLZUVrTWwyNk1fank1WnNKLS1BMUdYOWlPZVhzWTZGMlpVUDlkRDlxaDh4c0I2cVZEenlvcVlZZk0zcDBwUQ?oc=5",
-      "asOf": "2026-11-12T03:02:09+00:00"
+      "title": "日本报告本季首起禽流感疫情 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5",
+      "asOf": "2026-11-12T03:46:48+00:00"
+    },
+    {
+      "title": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5",
+      "asOf": "2026-11-12T03:07:10+00:00"
     },
     {
       "title": "怀念“人民的数学家”华罗庚 - 新华网",
@@ -460,11 +465,6 @@
       "title": "伊朗举办展览展示自研多型号导弹等装备 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5",
       "asOf": "2026-11-12T02:42:46+00:00"
-    },
-    {
-      "title": "黄喜忠任江西省人民政府副省长 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG50c2NCcV9FYm9McjJtWndxRlpTU21veGFHWVRzUWpiQnlQTGh5dUZQUXB5V1RWaFZNV21WaXV5SGo1ZTdIZHU0bEZQQ0lNanhmcFNLbjhmOGxwUlFkSFA0SDV1T2IzTkZ1TkRXNlMyWVlDY1F3dHA0T3ZrSC1JSno1aw?oc=5",
-      "asOf": "2026-11-12T02:39:02+00:00"
     }
   ],
   "events": [
@@ -485,7 +485,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827498",
-        "retrievedAt": "2026-11-12T11:20:57.612100+08:00",
+        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
         "sha256": "b3f929d66a456668f396363f48d52cfb19af447bb551adbb15c8457b20436339",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月12日早间，杭州园林发布公告称，公司控股子公司杭微天算（上海）智能科技有限公司（以下简称“杭微天算”）与云尖信息技术股份有限公司（以下简称“云尖信息”）签署《销售合同》，杭微天算向云尖信息采购2万片英伟达RTX PRO550"
@@ -500,8 +500,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827477",
-        "retrievedAt": "2026-11-12T11:20:57.612100+08:00",
-        "sha256": "f3de104ef28faedde8c0603a6d3a04ee58bf13931e77edd32742f42b5aa6cec6",
+        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
+        "sha256": "0d560cb1727a477647bae762384209d75a17a72d5f4e62818250b0c96e345c79",
         "paragraphCount": 12,
         "excerpt": "临近年末，多家券商把脉2027年A股市场。截至11月11日，已有中信证券、中信建投、华泰证券、申万宏源等多家券商举行了2027年年度策略会。部分机构认为，2027年A股结构性机会增多，下半年投资机会可能优于上半年。"
       }
@@ -515,19 +515,27 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827468",
-        "retrievedAt": "2026-11-12T11:20:57.612100+08:00",
-        "sha256": "162c2e64993c436d6c63378f901a5c66f3e639de46b95c95a738f2b0b5655516",
+        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
+        "sha256": "cd42d67af1f3174d4e025eefe39952603f4e65b1823ac27727c07e2b942a208a",
         "paragraphCount": 35,
         "excerpt": "低轨卫星密集入轨，千公里空芯光纤双向实时传输完成验证，U6GHz产业进程有序推进……11月以来，一批标志性成果接踵而至，我国新一代通信网建设步伐持续加快。"
       }
     },
     {
-      "event": "山东省生态环境厅原一级巡视员、原省生态环境保护督察专员霍太英被开除党籍 - 新华网",
-      "published": "2026-11-12T03:02:09+00:00",
+      "event": "日本报告本季首起禽流感疫情 - 新华网",
+      "published": "2026-11-12T03:46:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94ZGNLSW1rUzMwTTJQT0tnblNGNUlTUVBQbFRqcmR3NFlQUXhsQTlydlJ1bTJJVXRVSUJVV2VxcldLZUVrTWwyNk1fank1WnNKLS1BMUdYOWlPZVhzWTZGMlpVUDlkRDlxaDh4c0I2cVZEenlvcVlZZk0zcDBwUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东省生态环境厅原一级巡视员、原省生态环境保护督察专员霍太英被开除党籍 - 新华网"
+      "originalTitle": "日本报告本季首起禽流感疫情 - 新华网"
+    },
+    {
+      "event": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
+      "published": "2026-11-12T03:07:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网"
     },
     {
       "event": "怀念“人民的数学家”华罗庚 - 新华网",
@@ -560,14 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "伊朗举办展览展示自研多型号导弹等装备 - 新华网"
-    },
-    {
-      "event": "黄喜忠任江西省人民政府副省长 - 新华网",
-      "published": "2026-11-12T02:39:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG50c2NCcV9FYm9McjJtWndxRlpTU21veGFHWVRzUWpiQnlQTGh5dUZQUXB5V1RWaFZNV21WaXV5SGo1ZTdIZHU0bEZQQ0lNanhmcFNLbjhmOGxwUlFkSFA0SDV1T2IzTkZ1TkRXNlMyWVlDY1F3dHA0T3ZrSC1JSno1aw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "黄喜忠任江西省人民政府副省长 - 新华网"
     }
   ],
   "quality": {
