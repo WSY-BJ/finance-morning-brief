@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-12",
-  "date": "更新于北京时间 2026-11-12 12:01",
+  "date": "更新于北京时间 2026-11-12 12:47",
   "reportDate": "2026-11-12",
-  "updatedAt": "2026-11-12T12:01:35+08:00",
+  "updatedAt": "2026-11-12T12:47:18+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
+          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 +0.10 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,38 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T12:44:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827571"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会副主席，最新发声",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T12:39:00+08:00；来源：上海证券报微信公众号。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827565"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
           "summary": "",
           "paragraphs": [
@@ -212,12 +244,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-12T08:08:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：临近年末，多家券商把脉2027年A股市场。截至11月11日，已有中信证券、中信建投、华泰证券、申万宏源等多家券商举行了2027年年度策略会。部分机构认为，2027年A股结构性机会增多，下半年投资机会可能优于上半年。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/827477"
             }
           ]
@@ -228,103 +259,72 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-12T07:25:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：低轨卫星密集入轨，千公里空芯光纤双向实时传输完成验证，U6GHz产业进程有序推进……11月以来，一批标志性成果接踵而至，我国新一代通信网建设步伐持续加快。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/827468"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "日本报告本季首起禽流感疫情 - 新华网",
+          "title": "美媒：美国让俄罗斯提交新的俄欧安全协议方案 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T03:46:48+00:00；来源：新华网。",
+            "发布时间：2026-11-12T04:34:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1keFlJdUJDenVWTFBmNkhzOWxwUF9pMWtQOWItRTBIOVFPZUl5TXFVZlFSUHpCMFN0cFNzUWtNVkV5OUZsbm5QNDJjRGlGRDV2WnlaakpqcHdpMHhsa3F6c0JfN2d2Wk8yeGQ4dURwTXBkLVZ4RTFSRDY3STljS2s?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
+          "title": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T03:07:10+00:00；来源：新华网。",
+            "发布时间：2026-11-12T04:31:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY0NLZDBUeTktOWNTRkdUZHl1M3JHV3F3aDBQZDNtdkFxUENyRkJBVC1Pd012d2VaY0hBQ1VIX0hnTHA2cFdDWDBleGppamIxVm8tNlVxLXFVSEkxQTVLeTd2SzVtV0lZeFlTSEZadmlUYjdBazNMXzkzbVZfNjQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "怀念“人民的数学家”华罗庚 - 新华网",
+          "title": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T03:02:03+00:00；来源：新华网。",
+            "发布时间：2026-11-12T04:14:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMUpqaGE2bTJURXVfcTVwVUdFdjBkNFJkLUU5UjdGRFVkaC1XeGktZldFQ3pLQUMxQjQ2Z1o3aUxYVVdmX1lVRTBHbGI5MXlNTEk2QWhpZVplZVVnZlc3YTloeV81eG1aLUJWRzIxakFTWmpKUUJj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2dZNFhINUVRM2xtLWxDV1ZweXp5NGVuNXB4MkgybDBnRXlTRGZQVjBTLTJVM05HWGZfNzR5S2pZNXQ1MzI5UnJTQm5GQVJoWDZ0T18xNHBuaDlSZXhWZ1hROHAxcFB5S2lrSVNQNU92RGlxRFZMNGVSNWtMZkM5STlB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "山东省淄博市政协原党组副书记、副主席刘东军被开除党籍 - 新华网",
+          "title": "泽连斯基：涉及领土问题需在领导人层面讨论 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T03:01:42+00:00；来源：新华网。",
+            "发布时间：2026-11-12T04:08:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSl9ZRld5eXZaODI2WkFPLTV5dHBSY2tzM09YT29idjI3aVlQZU0yVXpOV2dlaGhKWjQ4aFZabUxHTUloT1lSdkswc1hVRnkyZUZpZktqbEFBWkZGZHJmeXhUYl9BenR5QjNrcGxBZW5oTlhXWUpPM3FQMFRzQ2M?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "贵州省农业发展集团有限责任公司原党委书记、董事长芦忠于被开除党籍和公职 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T03:01:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WjBHVlEzZVhqQzVBN2VyRUQ5TU9scHlsNzJ1MW9pYzg0THRXT2pCUk9PMFNSbVRFcDV2Nnhtb014MU8yZkMzamRUVTMtcUFCeVZHaUQ3dFpPc0hrQ2RaY05vLXR4ZS0xc3g0VTVKV21vOUd5MXc1dTNGZzA1QQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗举办展览展示自研多型号导弹等装备 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T02:42:46+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QN2NBS3ZkTVVUVWpHRlIyLUFSbmozeTJPZTRHVWJwRlFTVEZJLTRucTZGOS1VZURmUjVxN1Z1enZlUmRDZlhPVGVFa2xsQTVDZlJ0RHJDTnVxampRaTVOMHh4UTRmcHZ0WlVDMjM5bkxxMDVpZGRad3MwMl91VzA?oc=5"
             }
           ]
         }
@@ -382,13 +382,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-10"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-11"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-10"
     },
     {
@@ -397,9 +397,9 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-11"
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-10"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -407,14 +407,24 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-10"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-09"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-10"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-09"
+    },
+    {
+      "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+      "url": "https://www.cnstock.com/commonDetail/827571",
+      "asOf": "2026-11-12T12:44:00+08:00"
+    },
+    {
+      "title": "证监会副主席，最新发声",
+      "url": "https://www.cnstock.com/commonDetail/827565",
+      "asOf": "2026-11-12T12:39:00+08:00"
     },
     {
       "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
@@ -437,37 +447,57 @@
       "asOf": "2026-11-12T07:25:00+08:00"
     },
     {
-      "title": "日本报告本季首起禽流感疫情 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5",
-      "asOf": "2026-11-12T03:46:48+00:00"
+      "title": "美媒：美国让俄罗斯提交新的俄欧安全协议方案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1keFlJdUJDenVWTFBmNkhzOWxwUF9pMWtQOWItRTBIOVFPZUl5TXFVZlFSUHpCMFN0cFNzUWtNVkV5OUZsbm5QNDJjRGlGRDV2WnlaakpqcHdpMHhsa3F6c0JfN2d2Wk8yeGQ4dURwTXBkLVZ4RTFSRDY3STljS2s?oc=5",
+      "asOf": "2026-11-12T04:34:16+00:00"
     },
     {
-      "title": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5",
-      "asOf": "2026-11-12T03:07:10+00:00"
+      "title": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY0NLZDBUeTktOWNTRkdUZHl1M3JHV3F3aDBQZDNtdkFxUENyRkJBVC1Pd012d2VaY0hBQ1VIX0hnTHA2cFdDWDBleGppamIxVm8tNlVxLXFVSEkxQTVLeTd2SzVtV0lZeFlTSEZadmlUYjdBazNMXzkzbVZfNjQ?oc=5",
+      "asOf": "2026-11-12T04:31:22+00:00"
     },
     {
-      "title": "怀念“人民的数学家”华罗庚 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMUpqaGE2bTJURXVfcTVwVUdFdjBkNFJkLUU5UjdGRFVkaC1XeGktZldFQ3pLQUMxQjQ2Z1o3aUxYVVdmX1lVRTBHbGI5MXlNTEk2QWhpZVplZVVnZlc3YTloeV81eG1aLUJWRzIxakFTWmpKUUJj?oc=5",
-      "asOf": "2026-11-12T03:02:03+00:00"
+      "title": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2dZNFhINUVRM2xtLWxDV1ZweXp5NGVuNXB4MkgybDBnRXlTRGZQVjBTLTJVM05HWGZfNzR5S2pZNXQ1MzI5UnJTQm5GQVJoWDZ0T18xNHBuaDlSZXhWZ1hROHAxcFB5S2lrSVNQNU92RGlxRFZMNGVSNWtMZkM5STlB?oc=5",
+      "asOf": "2026-11-12T04:14:45+00:00"
     },
     {
-      "title": "山东省淄博市政协原党组副书记、副主席刘东军被开除党籍 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSl9ZRld5eXZaODI2WkFPLTV5dHBSY2tzM09YT29idjI3aVlQZU0yVXpOV2dlaGhKWjQ4aFZabUxHTUloT1lSdkswc1hVRnkyZUZpZktqbEFBWkZGZHJmeXhUYl9BenR5QjNrcGxBZW5oTlhXWUpPM3FQMFRzQ2M?oc=5",
-      "asOf": "2026-11-12T03:01:42+00:00"
-    },
-    {
-      "title": "贵州省农业发展集团有限责任公司原党委书记、董事长芦忠于被开除党籍和公职 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WjBHVlEzZVhqQzVBN2VyRUQ5TU9scHlsNzJ1MW9pYzg0THRXT2pCUk9PMFNSbVRFcDV2Nnhtb014MU8yZkMzamRUVTMtcUFCeVZHaUQ3dFpPc0hrQ2RaY05vLXR4ZS0xc3g0VTVKV21vOUd5MXc1dTNGZzA1QQ?oc=5",
-      "asOf": "2026-11-12T03:01:23+00:00"
-    },
-    {
-      "title": "伊朗举办展览展示自研多型号导弹等装备 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5",
-      "asOf": "2026-11-12T02:42:46+00:00"
+      "title": "泽连斯基：涉及领土问题需在领导人层面讨论 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QN2NBS3ZkTVVUVWpHRlIyLUFSbmozeTJPZTRHVWJwRlFTVEZJLTRucTZGOS1VZURmUjVxN1Z1enZlUmRDZlhPVGVFa2xsQTVDZlJ0RHJDTnVxampRaTVOMHh4UTRmcHZ0WlVDMjM5bkxxMDVpZGRad3MwMl91VzA?oc=5",
+      "asOf": "2026-11-12T04:08:36+00:00"
     }
   ],
   "events": [
+    {
+      "event": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+      "originalTitle": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+      "published": "2026-11-12T12:44:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827571",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827571",
+        "retrievedAt": "2026-11-12T12:47:18.417938+08:00",
+        "sha256": "0389287948a8b63ba83c675c837a6de0538ff041e8d41399ec14aa3fd419ec1a",
+        "paragraphCount": 8,
+        "excerpt": "上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
+      }
+    },
+    {
+      "event": "证监会副主席，最新发声",
+      "originalTitle": "证监会副主席，最新发声",
+      "published": "2026-11-12T12:39:00+08:00",
+      "publisher": "上海证券报微信公众号",
+      "url": "https://www.cnstock.com/commonDetail/827565",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827565",
+        "retrievedAt": "2026-11-12T12:47:18.417938+08:00",
+        "sha256": "940540cbedbe7e49440ff8ad2d7e28cd08a91dcfe10a8dffeffaab731bcc59dd",
+        "paragraphCount": 9,
+        "excerpt": "“中国的发展具有长期确定性，投资中国具备坚实的基础。”11月12日，中国证监会副主席在上海证券交易所2026年国际投资者大会上表示，中国证监会将持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，不断提升上市公司质量和长期投资价值，持"
+      }
+    },
     {
       "event": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
       "originalTitle": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
@@ -485,7 +515,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827498",
-        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
+        "retrievedAt": "2026-11-12T12:47:18.417938+08:00",
         "sha256": "b3f929d66a456668f396363f48d52cfb19af447bb551adbb15c8457b20436339",
         "paragraphCount": 3,
         "excerpt": "上证智讯 11月12日早间，杭州园林发布公告称，公司控股子公司杭微天算（上海）智能科技有限公司（以下简称“杭微天算”）与云尖信息技术股份有限公司（以下简称“云尖信息”）签署《销售合同》，杭微天算向云尖信息采购2万片英伟达RTX PRO550"
@@ -497,14 +527,7 @@
       "published": "2026-11-12T08:08:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/827477",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827477",
-        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
-        "sha256": "0d560cb1727a477647bae762384209d75a17a72d5f4e62818250b0c96e345c79",
-        "paragraphCount": 12,
-        "excerpt": "临近年末，多家券商把脉2027年A股市场。截至11月11日，已有中信证券、中信建投、华泰证券、申万宏源等多家券商举行了2027年年度策略会。部分机构认为，2027年A股结构性机会增多，下半年投资机会可能优于上半年。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "新一代通信网：以空天地海数字神经，开启万亿新周期",
@@ -512,62 +535,39 @@
       "published": "2026-11-12T07:25:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/827468",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827468",
-        "retrievedAt": "2026-11-12T12:01:35.777818+08:00",
-        "sha256": "cd42d67af1f3174d4e025eefe39952603f4e65b1823ac27727c07e2b942a208a",
-        "paragraphCount": 35,
-        "excerpt": "低轨卫星密集入轨，千公里空芯光纤双向实时传输完成验证，U6GHz产业进程有序推进……11月以来，一批标志性成果接踵而至，我国新一代通信网建设步伐持续加快。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "日本报告本季首起禽流感疫情 - 新华网",
-      "published": "2026-11-12T03:46:48+00:00",
+      "event": "美媒：美国让俄罗斯提交新的俄欧安全协议方案 - 新华网",
+      "published": "2026-11-12T04:34:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieDJSOXVQanBveElpMVFld3g4TnVmenRnU0lBS0xTajhjZE95S19ZZ3FJVEN3MXgyelkwc3lCcklrUHlvTzFpcEFLUmEzcHVUeEczSTdUWDlPYl9vU1hNdjYtMEtTOEYtbXV1WmphTEdOZzYtdXN4WkNHdmMwVk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1keFlJdUJDenVWTFBmNkhzOWxwUF9pMWtQOWItRTBIOVFPZUl5TXFVZlFSUHpCMFN0cFNzUWtNVkV5OUZsbm5QNDJjRGlGRDV2WnlaakpqcHdpMHhsa3F6c0JfN2d2Wk8yeGQ4dURwTXBkLVZ4RTFSRDY3STljS2s?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "日本报告本季首起禽流感疫情 - 新华网"
+      "originalTitle": "美媒：美国让俄罗斯提交新的俄欧安全协议方案 - 新华网"
     },
     {
-      "event": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网",
-      "published": "2026-11-12T03:07:10+00:00",
+      "event": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言 - 新华网",
+      "published": "2026-11-12T04:31:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2I0ZURQOUJyeDIyemM0YXFUSmdwMHE3SnlsMFhnaEFTMnRMVGlkclVPbG1UNEN4RU54QXNodG1RTXo5ai04RklaNURyc2dzblVWcGt2dzBnRlJ5bFFFUnl1Y0MzdEtjd3pJekpIYnBSLTZOSTlLMms2VGNMZWFjcklJdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY0NLZDBUeTktOWNTRkdUZHl1M3JHV3F3aDBQZDNtdkFxUENyRkJBVC1Pd012d2VaY0hBQ1VIX0hnTHA2cFdDWDBleGppamIxVm8tNlVxLXFVSEkxQTVLeTd2SzVtV0lZeFlTSEZadmlUYjdBazNMXzkzbVZfNjQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社原创话剧《永远的“四大队”》——张连生与“张连生”的对白 - 新华网"
+      "originalTitle": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言 - 新华网"
     },
     {
-      "event": "怀念“人民的数学家”华罗庚 - 新华网",
-      "published": "2026-11-12T03:02:03+00:00",
+      "event": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话 - 新华网",
+      "published": "2026-11-12T04:14:45+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TMUpqaGE2bTJURXVfcTVwVUdFdjBkNFJkLUU5UjdGRFVkaC1XeGktZldFQ3pLQUMxQjQ2Z1o3aUxYVVdmX1lVRTBHbGI5MXlNTEk2QWhpZVplZVVnZlc3YTloeV81eG1aLUJWRzIxakFTWmpKUUJj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2dZNFhINUVRM2xtLWxDV1ZweXp5NGVuNXB4MkgybDBnRXlTRGZQVjBTLTJVM05HWGZfNzR5S2pZNXQ1MzI5UnJTQm5GQVJoWDZ0T18xNHBuaDlSZXhWZ1hROHAxcFB5S2lrSVNQNU92RGlxRFZMNGVSNWtMZkM5STlB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "怀念“人民的数学家”华罗庚 - 新华网"
+      "originalTitle": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话 - 新华网"
     },
     {
-      "event": "山东省淄博市政协原党组副书记、副主席刘东军被开除党籍 - 新华网",
-      "published": "2026-11-12T03:01:42+00:00",
+      "event": "泽连斯基：涉及领土问题需在领导人层面讨论 - 新华网",
+      "published": "2026-11-12T04:08:36+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSl9ZRld5eXZaODI2WkFPLTV5dHBSY2tzM09YT29idjI3aVlQZU0yVXpOV2dlaGhKWjQ4aFZabUxHTUloT1lSdkswc1hVRnkyZUZpZktqbEFBWkZGZHJmeXhUYl9BenR5QjNrcGxBZW5oTlhXWUpPM3FQMFRzQ2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QN2NBS3ZkTVVUVWpHRlIyLUFSbmozeTJPZTRHVWJwRlFTVEZJLTRucTZGOS1VZURmUjVxN1Z1enZlUmRDZlhPVGVFa2xsQTVDZlJ0RHJDTnVxampRaTVOMHh4UTRmcHZ0WlVDMjM5bkxxMDVpZGRad3MwMl91VzA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东省淄博市政协原党组副书记、副主席刘东军被开除党籍 - 新华网"
-    },
-    {
-      "event": "贵州省农业发展集团有限责任公司原党委书记、董事长芦忠于被开除党籍和公职 - 新华网",
-      "published": "2026-11-12T03:01:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WjBHVlEzZVhqQzVBN2VyRUQ5TU9scHlsNzJ1MW9pYzg0THRXT2pCUk9PMFNSbVRFcDV2Nnhtb014MU8yZkMzamRUVTMtcUFCeVZHaUQ3dFpPc0hrQ2RaY05vLXR4ZS0xc3g0VTVKV21vOUd5MXc1dTNGZzA1QQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "贵州省农业发展集团有限责任公司原党委书记、董事长芦忠于被开除党籍和公职 - 新华网"
-    },
-    {
-      "event": "伊朗举办展览展示自研多型号导弹等装备 - 新华网",
-      "published": "2026-11-12T02:42:46+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SnZ6Y3JYcFNYOENxX1pDc0pzUTNibUFDQ1NKM0x5QUJTYUFfeDZtQjNHWjdDR0xyczZ4UWx1SDJ5dzVwWHZFYlg1VVBkcThHWjRTUEFSRWlvQVRKNldPRHhfUEFTaGFEdzNSU2FWVHFDc2FDR0FhZDZSZjk5bUE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗举办展览展示自研多型号导弹等装备 - 新华网"
+      "originalTitle": "泽连斯基：涉及领土问题需在领导人层面讨论 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +581,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
