@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-11",
-  "date": "更新于北京时间 2026-11-11 19:53",
-  "reportDate": "2026-11-11",
-  "updatedAt": "2026-11-11T19:53:02+08:00",
+  "edition": "财经晨报 · 2026-11-12",
+  "date": "更新于北京时间 2026-11-12 10:14",
+  "reportDate": "2026-11-12",
+  "updatedAt": "2026-11-12T10:14:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-11 财经资料（待核验）",
+    "title": "2026-11-12 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.56 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6727 人民币/美元；变化 -0.0033 人民币/美元",
+          "summary": "6.6703 人民币/美元；变化 -0.0024 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-10；前值 6.6760（2026-11-09）；来源：Yahoo Finance。"
+            "观测日 2026-11-11；前值 6.6727（2026-11-10）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
+          "title": "塑料包装绿色转型告别单点突围 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T19:24:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T02:04:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827082"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1FhTjhrX0pudDlId3BmdUNVNXluNmF0dnU4RjhVRW9SV1RuM0R2TWdtUEwycG5aMTZqZWpOMWc3U2pWNHMxX2lyYUFmX18wUDRXSUkwUEFrR1N6T21RYXRxWW9UYkF3dU04MXFFZTBHQ0w4UVRqZ2tsSUpIWGY4QQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
+          "title": "秀我中国｜“戏聚天津”，在小洋楼里沉浸式入戏 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T19:23:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T02:01:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827125"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFBTZXJvZXNrUUMxTEJwYUxjbHJwNDFCbWZxNkhaV202aGQ0V1NlaU1iR2ZnVXZ4eUJPVGl1Q00tY3otZ3MxTjJpR0Zib3RaT1I4Z2VMdnRrWDZhUXRlQlltZEtCaDhXeElNTllDeVhkQ0NKMzg5QkZ3U0wyd0JvaTNB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
+          "title": "2026“长安之夜”文化交流活动在西安举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T19:23:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T01:56:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827138"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUlua3N5MjVvRVkyUHFsVkp4aTUxOW1Ja21NanBSRGJIZndvSmVkTkowaTRpQzRfcjdCRG1YTXhZTEJvWFUxQkRZVEozOFpZMUhKMlRGTzZWenpzMG9MWmlZZmRyTGotUzBKZVY2NW9lMkw3ZjZRWFF3dDJTeENkcEFR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "央行发布2026年第三季度中国货币政策执行报告",
+          "title": "浙商银行青岛分行：多场景开展反洗钱宣传活动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T18:39:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T01:55:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827160"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNNVBSMy1tWWFIZE41YTJtd00tWHdzUW5RNGQ1M3pINE9wcEgxb25RN09wNDF0VzBJYjF6dDdDR2xtX3dMVVFVc0IydEZwMWRHTjZXSTRUcGx5ZlBHZFNvYkxBVEZRRmVGcDMyb2NydDhiWDFDX3k4YVEtTVFzQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证监会集中回应两大标杆案件",
+          "title": "从大地艺术到旅居生活 探究文旅发展中的美学价值 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T17:52:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T01:54:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827142"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2lkdHhXQm1vQXJheF9rMkt3ekFlaU1PVDJyaFhKQVpkYjJtZDNRTUFfUFZSbzRla0kwZzdYZkFxbTIyUjNXSHZNYXpINHdyYzEzcU9nS2RqSkRxWldNb0JQQTExS1R3Q0MxTlJtY3hzSHhDd2ZMX25sWTFUZXZjRg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
+          "title": "网友们的祝福，柏大卫收到了 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T17:26:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T01:51:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827107"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXA3bExSdlVMX0JRZ2N6WF9sS3d1LW9xV0pJalZ1THlzZzFwTUQ5S1RIZnVTNF9nVlZFSnYzbldZQW9xY28xMUZsRkpBQ0FKNlZhcTktMDNWcDBGZHhiV1ZvMmdmWDJzM0dFYmlXSF81amFkaV9xXzlwLXBUQmJEekVB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "离岸信托收益征税平稳有序推进",
+          "title": "“双11”购物车折射消费新趋势 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T16:36:00+08:00；来源：新华社。",
+            "发布时间：2026-11-12T01:17:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827064"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XUE91U1VTU3k4eWdaVUkxZWhPNW0zeXZmSmNYWEJfWG82R0IwYmFKRlZjOTlrN3g5d05kZ3lzYkNkd3g2ZGREY0dsaDdicHBSVzlQUmw4bjA4WXFsUGtQajB2M1hkMjZHeTl3cy1UaS1McmlWTjkwVm5CY1kzQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "10月新能源汽车月度新车销量占比达64.3%",
+          "title": "我国汽车出口量连续5个月超100万辆 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T14:12:00+08:00；来源：新华社。",
+            "发布时间：2026-11-12T01:17:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827022"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeUNqY1VlM1B6WWhNSmFWMWJxY2hSb3BwRmFIaVh4NkZBWXRQX1EyenBVcjl5VGpSSURsVFE0UUV4SVNVMm5MaUdaUHNGTnNQZVM2d0FKQ3pzQkZNOTNYZ25kR3F4YkJoM1NfN09aVl9IdWhXNEFoN1dRS1I?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "高质量共建“一带一路”，赋能现代化与文明互鉴",
+          "title": "毛万春在省水电设计院调研 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T13:42:00+08:00；来源：新华社。",
+            "发布时间：2026-11-12T01:14:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827016"
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vZFZuZ2F4THhDb0EtWkVRQ2pRU3Z1YmMycUJiNWhwTEJ4TGdCQlE4czVGaC1DbHJ5ek5Jancwb2hHUl9aNC1uUklNVlNqbDFheHdjRXNyOUxiMVhmeUJaTEdBdlZxOFVqamRERTF0T0JwSk5TQTctQ0RR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
+          "title": "2026世界计算大会11月19日至21日在长沙举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-11T11:29:48+00:00；来源：新华网。",
+            "发布时间：2026-11-12T01:13:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvbjJGa0t2UlVNY0pTZUZsTzBEUUdqWjJWM3Z3MjR6N3BKdzc3dGp3aEpDUVVDdlpmbGkxc1dfakx6QV9CcU1ldURybHZBU00zM1RneW5BS3JsWGJlZ0F0UnhMS05wbEN6U0ZaUHVqc0ZzTjlnT0hLcHNn?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 34 课：情景分析",
+      "title": "第 35 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,6 +379,16 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-11"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-10"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-10"
@@ -389,23 +399,8 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-10"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-10"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-10"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-10"
     },
     {
@@ -414,136 +409,141 @@
       "asOf": "2026-11-09"
     },
     {
-      "title": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
-      "url": "https://www.cnstock.com/commonDetail/827082",
-      "asOf": "2026-11-11T19:24:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-09"
     },
     {
-      "title": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
-      "url": "https://www.cnstock.com/commonDetail/827125",
-      "asOf": "2026-11-11T19:23:00+08:00"
+      "title": "塑料包装绿色转型告别单点突围 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1FhTjhrX0pudDlId3BmdUNVNXluNmF0dnU4RjhVRW9SV1RuM0R2TWdtUEwycG5aMTZqZWpOMWc3U2pWNHMxX2lyYUFmX18wUDRXSUkwUEFrR1N6T21RYXRxWW9UYkF3dU04MXFFZTBHQ0w4UVRqZ2tsSUpIWGY4QQ?oc=5",
+      "asOf": "2026-11-12T02:04:17+00:00"
     },
     {
-      "title": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/827138",
-      "asOf": "2026-11-11T19:23:00+08:00"
+      "title": "秀我中国｜“戏聚天津”，在小洋楼里沉浸式入戏 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFBTZXJvZXNrUUMxTEJwYUxjbHJwNDFCbWZxNkhaV202aGQ0V1NlaU1iR2ZnVXZ4eUJPVGl1Q00tY3otZ3MxTjJpR0Zib3RaT1I4Z2VMdnRrWDZhUXRlQlltZEtCaDhXeElNTllDeVhkQ0NKMzg5QkZ3U0wyd0JvaTNB?oc=5",
+      "asOf": "2026-11-12T02:01:36+00:00"
     },
     {
-      "title": "央行发布2026年第三季度中国货币政策执行报告",
-      "url": "https://www.cnstock.com/commonDetail/827160",
-      "asOf": "2026-11-11T18:39:00+08:00"
+      "title": "2026“长安之夜”文化交流活动在西安举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUlua3N5MjVvRVkyUHFsVkp4aTUxOW1Ja21NanBSRGJIZndvSmVkTkowaTRpQzRfcjdCRG1YTXhZTEJvWFUxQkRZVEozOFpZMUhKMlRGTzZWenpzMG9MWmlZZmRyTGotUzBKZVY2NW9lMkw3ZjZRWFF3dDJTeENkcEFR?oc=5",
+      "asOf": "2026-11-12T01:56:17+00:00"
     },
     {
-      "title": "证监会集中回应两大标杆案件",
-      "url": "https://www.cnstock.com/commonDetail/827142",
-      "asOf": "2026-11-11T17:52:00+08:00"
+      "title": "浙商银行青岛分行：多场景开展反洗钱宣传活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNNVBSMy1tWWFIZE41YTJtd00tWHdzUW5RNGQ1M3pINE9wcEgxb25RN09wNDF0VzBJYjF6dDdDR2xtX3dMVVFVc0IydEZwMWRHTjZXSTRUcGx5ZlBHZFNvYkxBVEZRRmVGcDMyb2NydDhiWDFDX3k4YVEtTVFzQQ?oc=5",
+      "asOf": "2026-11-12T01:55:25+00:00"
     },
     {
-      "title": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
-      "url": "https://www.cnstock.com/commonDetail/827107",
-      "asOf": "2026-11-11T17:26:00+08:00"
+      "title": "从大地艺术到旅居生活 探究文旅发展中的美学价值 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2lkdHhXQm1vQXJheF9rMkt3ekFlaU1PVDJyaFhKQVpkYjJtZDNRTUFfUFZSbzRla0kwZzdYZkFxbTIyUjNXSHZNYXpINHdyYzEzcU9nS2RqSkRxWldNb0JQQTExS1R3Q0MxTlJtY3hzSHhDd2ZMX25sWTFUZXZjRg?oc=5",
+      "asOf": "2026-11-12T01:54:42+00:00"
     },
     {
-      "title": "离岸信托收益征税平稳有序推进",
-      "url": "https://www.cnstock.com/commonDetail/827064",
-      "asOf": "2026-11-11T16:36:00+08:00"
+      "title": "网友们的祝福，柏大卫收到了 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXA3bExSdlVMX0JRZ2N6WF9sS3d1LW9xV0pJalZ1THlzZzFwTUQ5S1RIZnVTNF9nVlZFSnYzbldZQW9xY28xMUZsRkpBQ0FKNlZhcTktMDNWcDBGZHhiV1ZvMmdmWDJzM0dFYmlXSF81amFkaV9xXzlwLXBUQmJEekVB?oc=5",
+      "asOf": "2026-11-12T01:51:21+00:00"
     },
     {
-      "title": "10月新能源汽车月度新车销量占比达64.3%",
-      "url": "https://www.cnstock.com/commonDetail/827022",
-      "asOf": "2026-11-11T14:12:00+08:00"
+      "title": "“双11”购物车折射消费新趋势 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XUE91U1VTU3k4eWdaVUkxZWhPNW0zeXZmSmNYWEJfWG82R0IwYmFKRlZjOTlrN3g5d05kZ3lzYkNkd3g2ZGREY0dsaDdicHBSVzlQUmw4bjA4WXFsUGtQajB2M1hkMjZHeTl3cy1UaS1McmlWTjkwVm5CY1kzQQ?oc=5",
+      "asOf": "2026-11-12T01:17:22+00:00"
     },
     {
-      "title": "高质量共建“一带一路”，赋能现代化与文明互鉴",
-      "url": "https://www.cnstock.com/commonDetail/827016",
-      "asOf": "2026-11-11T13:42:00+08:00"
+      "title": "我国汽车出口量连续5个月超100万辆 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeUNqY1VlM1B6WWhNSmFWMWJxY2hSb3BwRmFIaVh4NkZBWXRQX1EyenBVcjl5VGpSSURsVFE0UUV4SVNVMm5MaUdaUHNGTnNQZVM2d0FKQ3pzQkZNOTNYZ25kR3F4YkJoM1NfN09aVl9IdWhXNEFoN1dRS1I?oc=5",
+      "asOf": "2026-11-12T01:17:12+00:00"
     },
     {
-      "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5",
-      "asOf": "2026-11-11T11:29:48+00:00"
+      "title": "毛万春在省水电设计院调研 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vZFZuZ2F4THhDb0EtWkVRQ2pRU3Z1YmMycUJiNWhwTEJ4TGdCQlE4czVGaC1DbHJ5ek5Jancwb2hHUl9aNC1uUklNVlNqbDFheHdjRXNyOUxiMVhmeUJaTEdBdlZxOFVqamRERTF0T0JwSk5TQTctQ0RR?oc=5",
+      "asOf": "2026-11-12T01:14:08+00:00"
+    },
+    {
+      "title": "2026世界计算大会11月19日至21日在长沙举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvbjJGa0t2UlVNY0pTZUZsTzBEUUdqWjJWM3Z3MjR6N3BKdzc3dGp3aEpDUVVDdlpmbGkxc1dfakx6QV9CcU1ldURybHZBU00zM1RneW5BS3JsWGJlZ0F0UnhMS05wbEN6U0ZaUHVqc0ZzTjlnT0hLcHNn?oc=5",
+      "asOf": "2026-11-12T01:13:51+00:00"
     }
   ],
   "events": [
     {
-      "event": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
-      "originalTitle": "福建高速：控股股东首次增持170.31万股，耗资约621.63万元",
-      "published": "2026-11-11T19:24:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827082",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
-      "originalTitle": "常山药业：控股股东解押700.00万股，占公司总股本0.76%",
-      "published": "2026-11-11T19:23:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827125",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
-      "originalTitle": "杭电股份：拟斥资0.50亿元至1.00亿元回购公司股份",
-      "published": "2026-11-11T19:23:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827138",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "央行发布2026年第三季度中国货币政策执行报告",
-      "originalTitle": "央行发布2026年第三季度中国货币政策执行报告",
-      "published": "2026-11-11T18:39:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827160",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "证监会集中回应两大标杆案件",
-      "originalTitle": "证监会集中回应两大标杆案件",
-      "published": "2026-11-11T17:52:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827142",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
-      "originalTitle": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
-      "published": "2026-11-11T17:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827107",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "离岸信托收益征税平稳有序推进",
-      "originalTitle": "离岸信托收益征税平稳有序推进",
-      "published": "2026-11-11T16:36:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827064",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "10月新能源汽车月度新车销量占比达64.3%",
-      "originalTitle": "10月新能源汽车月度新车销量占比达64.3%",
-      "published": "2026-11-11T14:12:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827022",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "高质量共建“一带一路”，赋能现代化与文明互鉴",
-      "originalTitle": "高质量共建“一带一路”，赋能现代化与文明互鉴",
-      "published": "2026-11-11T13:42:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827016",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网",
-      "published": "2026-11-11T11:29:48+00:00",
+      "event": "塑料包装绿色转型告别单点突围 - 新华网",
+      "published": "2026-11-12T02:04:17+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVVh0RWlRa1JRQ1JyVkNyOW1DbDA4d1RmTllNR2QycHZaYldBN25NQ0dnYUFDTGhUQlZMeFFqNjZkWHI1RzQyTUFPZmc3LVFIbG1Cd0txZzZPVTRjMVZsQ1BxZzdsbnp1YldPVFdnU0ZqTU1vekZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1FhTjhrX0pudDlId3BmdUNVNXluNmF0dnU4RjhVRW9SV1RuM0R2TWdtUEwycG5aMTZqZWpOMWc3U2pWNHMxX2lyYUFmX18wUDRXSUkwUEFrR1N6T21RYXRxWW9UYkF3dU04MXFFZTBHQ0w4UVRqZ2tsSUpIWGY4QQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话 - 新华网"
+      "originalTitle": "塑料包装绿色转型告别单点突围 - 新华网"
+    },
+    {
+      "event": "秀我中国｜“戏聚天津”，在小洋楼里沉浸式入戏 - 新华网",
+      "published": "2026-11-12T02:01:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFBTZXJvZXNrUUMxTEJwYUxjbHJwNDFCbWZxNkhaV202aGQ0V1NlaU1iR2ZnVXZ4eUJPVGl1Q00tY3otZ3MxTjJpR0Zib3RaT1I4Z2VMdnRrWDZhUXRlQlltZEtCaDhXeElNTllDeVhkQ0NKMzg5QkZ3U0wyd0JvaTNB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "秀我中国｜“戏聚天津”，在小洋楼里沉浸式入戏 - 新华网"
+    },
+    {
+      "event": "2026“长安之夜”文化交流活动在西安举行 - 新华网",
+      "published": "2026-11-12T01:56:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUlua3N5MjVvRVkyUHFsVkp4aTUxOW1Ja21NanBSRGJIZndvSmVkTkowaTRpQzRfcjdCRG1YTXhZTEJvWFUxQkRZVEozOFpZMUhKMlRGTzZWenpzMG9MWmlZZmRyTGotUzBKZVY2NW9lMkw3ZjZRWFF3dDJTeENkcEFR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026“长安之夜”文化交流活动在西安举行 - 新华网"
+    },
+    {
+      "event": "浙商银行青岛分行：多场景开展反洗钱宣传活动 - 新华网",
+      "published": "2026-11-12T01:55:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNNVBSMy1tWWFIZE41YTJtd00tWHdzUW5RNGQ1M3pINE9wcEgxb25RN09wNDF0VzBJYjF6dDdDR2xtX3dMVVFVc0IydEZwMWRHTjZXSTRUcGx5ZlBHZFNvYkxBVEZRRmVGcDMyb2NydDhiWDFDX3k4YVEtTVFzQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙商银行青岛分行：多场景开展反洗钱宣传活动 - 新华网"
+    },
+    {
+      "event": "从大地艺术到旅居生活 探究文旅发展中的美学价值 - 新华网",
+      "published": "2026-11-12T01:54:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2lkdHhXQm1vQXJheF9rMkt3ekFlaU1PVDJyaFhKQVpkYjJtZDNRTUFfUFZSbzRla0kwZzdYZkFxbTIyUjNXSHZNYXpINHdyYzEzcU9nS2RqSkRxWldNb0JQQTExS1R3Q0MxTlJtY3hzSHhDd2ZMX25sWTFUZXZjRg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从大地艺术到旅居生活 探究文旅发展中的美学价值 - 新华网"
+    },
+    {
+      "event": "网友们的祝福，柏大卫收到了 - 新华网",
+      "published": "2026-11-12T01:51:21+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXA3bExSdlVMX0JRZ2N6WF9sS3d1LW9xV0pJalZ1THlzZzFwTUQ5S1RIZnVTNF9nVlZFSnYzbldZQW9xY28xMUZsRkpBQ0FKNlZhcTktMDNWcDBGZHhiV1ZvMmdmWDJzM0dFYmlXSF81amFkaV9xXzlwLXBUQmJEekVB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "网友们的祝福，柏大卫收到了 - 新华网"
+    },
+    {
+      "event": "“双11”购物车折射消费新趋势 - 新华网",
+      "published": "2026-11-12T01:17:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XUE91U1VTU3k4eWdaVUkxZWhPNW0zeXZmSmNYWEJfWG82R0IwYmFKRlZjOTlrN3g5d05kZ3lzYkNkd3g2ZGREY0dsaDdicHBSVzlQUmw4bjA4WXFsUGtQajB2M1hkMjZHeTl3cy1UaS1McmlWTjkwVm5CY1kzQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“双11”购物车折射消费新趋势 - 新华网"
+    },
+    {
+      "event": "我国汽车出口量连续5个月超100万辆 - 新华网",
+      "published": "2026-11-12T01:17:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeUNqY1VlM1B6WWhNSmFWMWJxY2hSb3BwRmFIaVh4NkZBWXRQX1EyenBVcjl5VGpSSURsVFE0UUV4SVNVMm5MaUdaUHNGTnNQZVM2d0FKQ3pzQkZNOTNYZ25kR3F4YkJoM1NfN09aVl9IdWhXNEFoN1dRS1I?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "我国汽车出口量连续5个月超100万辆 - 新华网"
+    },
+    {
+      "event": "毛万春在省水电设计院调研 - 新华网",
+      "published": "2026-11-12T01:14:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vZFZuZ2F4THhDb0EtWkVRQ2pRU3Z1YmMycUJiNWhwTEJ4TGdCQlE4czVGaC1DbHJ5ek5Jancwb2hHUl9aNC1uUklNVlNqbDFheHdjRXNyOUxiMVhmeUJaTEdBdlZxOFVqamRERTF0T0JwSk5TQTctQ0RR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "毛万春在省水电设计院调研 - 新华网"
+    },
+    {
+      "event": "2026世界计算大会11月19日至21日在长沙举行 - 新华网",
+      "published": "2026-11-12T01:13:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvbjJGa0t2UlVNY0pTZUZsTzBEUUdqWjJWM3Z3MjR6N3BKdzc3dGp3aEpDUVVDdlpmbGkxc1dfakx6QV9CcU1ldURybHZBU00zM1RneW5BS3JsWGJlZ0F0UnhMS05wbEN6U0ZaUHVqc0ZzTjlnT0hLcHNn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026世界计算大会11月19日至21日在长沙举行 - 新华网"
     }
   ],
   "quality": {
@@ -557,15 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
