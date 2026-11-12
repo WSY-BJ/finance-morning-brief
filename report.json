@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-12",
-  "date": "更新于北京时间 2026-11-12 16:17",
+  "date": "更新于北京时间 2026-11-12 20:43",
   "reportDate": "2026-11-12",
-  "updatedAt": "2026-11-12T16:17:40+08:00",
+  "updatedAt": "2026-11-12T20:43:36+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
+          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.56 %；变化 +0.05 个百分点",
+          "summary": "4.73 %；变化 +0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.51（2026-11-06）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 +0.10 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -175,6 +175,70 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "李强主持国务院第二十二次专题学习",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T20:27:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月12日电 11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827788"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "维尔利：控股股东质押970万股，占其所持4.41%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月12日，维尔利发布公告称，公司于近日接到控股股东常州德泽实业投资有限公司（以下简称“常州德泽”）的通知，常州德泽将其所持有的公司部分股份办理了质押业务，本次质押970.00万股，占其所持股份4.41%，占公司总股本1.02%"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827717"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月12日，永贵电器发布公告称，公司控股子公司江苏永贵新能源科技有限公司（以下简称“江苏永贵”）近日收到中车物流有限公司（以下简称“中车物流”）的一份中标通知书，中标项目为中车大同电力机车有限公司动力电池采购项目，中标产品为换电"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827716"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月12日，中创智领发布公告称，公司于2026年7月16日披露增持计划，公司9名董事、高级管理人员拟自2026年7月16日起6个月内，通过上海证券交易所系统以集中竞价交易方式，以自有或自筹资金增持公司A股股份，合计拟增持金额不低"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/827715"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
@@ -254,76 +318,16 @@
         },
         {
           "type": "explainer",
-          "title": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
+          "title": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T09:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-12T12:15:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827498"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "山东省聊城经济技术开发区党工委书记、管委会主任任海波接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T08:12:00+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zcWdhMmZhYTM5alBVM1RpaFhnZnJGRmxHTmwwdGJLNnV6TEgtdHJjQmNSWkZZU050QjBMNmdWT2ltUXJlakpWMm5EY3VCWVBTYVU5S0E4bF9EaHlYSlZtLTBfRjZHWXJvdU1udDlmVDhKS0ZRNzRIdkF5UDFXb00?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华时评·中国经济新观察｜“世界工厂”与“世界市场”同频共振 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T07:55:18+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lcUloQUZZXzFBRm1sUzloMkZmUURiaVBWaVhobmtWTHViYy0tQnVlemw5MFNiWUY2VDlxTFFSTTFOcXhiQ29vRUtJbnAzVnZwTTFLc2tScDZUTXFUTmkwOFdySEQ1MWxpeE5mVXdPS3YyTlBEUjk0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中欧ESG论坛在沪举办：共探绿色规则协同，共建全球绿色公平贸易枢纽 - 新华网上海",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T07:29:21+00:00；来源：新华网上海。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcThIbV9uZl9ZbHlGQUxYY0lCZGVvVE9VYXNCZmVESENfS3R1cXA2Qmc0RFRHZUhMa21yODY2eDRpbFl2WTJXc196S25vNTN0aWJfR2h3S0NfV1Bkb3JPTDlQNmZWc0pqQUdEOEEzcE9oLUll?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T07:29:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5"
             }
           ]
         }
@@ -381,6 +385,11 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-11"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-11"
@@ -396,24 +405,39 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-11"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-10"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-09"
+    },
+    {
+      "title": "李强主持国务院第二十二次专题学习",
+      "url": "https://www.cnstock.com/commonDetail/827788",
+      "asOf": "2026-11-12T20:27:00+08:00"
+    },
+    {
+      "title": "维尔利：控股股东质押970万股，占其所持4.41%",
+      "url": "https://www.cnstock.com/commonDetail/827717",
+      "asOf": "2026-11-12T18:36:00+08:00"
+    },
+    {
+      "title": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
+      "url": "https://www.cnstock.com/commonDetail/827716",
+      "asOf": "2026-11-12T18:36:00+08:00"
+    },
+    {
+      "title": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
+      "url": "https://www.cnstock.com/commonDetail/827715",
+      "asOf": "2026-11-12T18:36:00+08:00"
     },
     {
       "title": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
@@ -441,32 +465,72 @@
       "asOf": "2026-11-12T12:39:00+08:00"
     },
     {
-      "title": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "url": "https://www.cnstock.com/commonDetail/827498",
-      "asOf": "2026-11-12T09:30:00+08:00"
-    },
-    {
-      "title": "山东省聊城经济技术开发区党工委书记、管委会主任任海波接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zcWdhMmZhYTM5alBVM1RpaFhnZnJGRmxHTmwwdGJLNnV6TEgtdHJjQmNSWkZZU050QjBMNmdWT2ltUXJlakpWMm5EY3VCWVBTYVU5S0E4bF9EaHlYSlZtLTBfRjZHWXJvdU1udDlmVDhKS0ZRNzRIdkF5UDFXb00?oc=5",
-      "asOf": "2026-11-12T08:12:00+00:00"
-    },
-    {
-      "title": "新华时评·中国经济新观察｜“世界工厂”与“世界市场”同频共振 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lcUloQUZZXzFBRm1sUzloMkZmUURiaVBWaVhobmtWTHViYy0tQnVlemw5MFNiWUY2VDlxTFFSTTFOcXhiQ29vRUtJbnAzVnZwTTFLc2tScDZUTXFUTmkwOFdySEQ1MWxpeE5mVXdPS3YyTlBEUjk0?oc=5",
-      "asOf": "2026-11-12T07:55:18+00:00"
-    },
-    {
-      "title": "中欧ESG论坛在沪举办：共探绿色规则协同，共建全球绿色公平贸易枢纽 - 新华网上海",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcThIbV9uZl9ZbHlGQUxYY0lCZGVvVE9VYXNCZmVESENfS3R1cXA2Qmc0RFRHZUhMa21yODY2eDRpbFl2WTJXc196S25vNTN0aWJfR2h3S0NfV1Bkb3JPTDlQNmZWc0pqQUdEOEEzcE9oLUll?oc=5",
-      "asOf": "2026-11-12T07:29:21+00:00"
-    },
-    {
-      "title": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5",
-      "asOf": "2026-11-12T07:29:08+00:00"
+      "title": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5",
+      "asOf": "2026-11-12T12:15:40+00:00"
     }
   ],
   "events": [
+    {
+      "event": "李强主持国务院第二十二次专题学习",
+      "originalTitle": "李强主持国务院第二十二次专题学习",
+      "published": "2026-11-12T20:27:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/827788",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827788",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "cab5c1c0485ffb6b0841362f6a6cee9617dd8e902144f647fdd58ef11a8d48a4",
+        "paragraphCount": 4,
+        "excerpt": "新华社北京11月12日电 11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署"
+      }
+    },
+    {
+      "event": "维尔利：控股股东质押970万股，占其所持4.41%",
+      "originalTitle": "维尔利：控股股东质押970万股，占其所持4.41%",
+      "published": "2026-11-12T18:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827717",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827717",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "c0829aa92dd823cbca71e212e98a446a277316cc299b0cb06541dcd8cc847203",
+        "paragraphCount": 1,
+        "excerpt": "上证智讯 11月12日，维尔利发布公告称，公司于近日接到控股股东常州德泽实业投资有限公司（以下简称“常州德泽”）的通知，常州德泽将其所持有的公司部分股份办理了质押业务，本次质押970.00万股，占其所持股份4.41%，占公司总股本1.02%"
+      }
+    },
+    {
+      "event": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
+      "originalTitle": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
+      "published": "2026-11-12T18:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827716",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827716",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "0b4735aa3dd4ba7a592e3a4e3d1a7384ef946f1dbb76b0a3fd7e72af411ff03b",
+        "paragraphCount": 1,
+        "excerpt": "上证智讯 11月12日，永贵电器发布公告称，公司控股子公司江苏永贵新能源科技有限公司（以下简称“江苏永贵”）近日收到中车物流有限公司（以下简称“中车物流”）的一份中标通知书，中标项目为中车大同电力机车有限公司动力电池采购项目，中标产品为换电"
+      }
+    },
+    {
+      "event": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
+      "originalTitle": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
+      "published": "2026-11-12T18:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/827715",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/827715",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "9834394fd150ad42489973d66b503bdb5a0a2afd712d5a44cc6b5c137dab5eac",
+        "paragraphCount": 1,
+        "excerpt": "上证智讯 11月12日，中创智领发布公告称，公司于2026年7月16日披露增持计划，公司9名董事、高级管理人员拟自2026年7月16日起6个月内，通过上海证券交易所系统以集中竞价交易方式，以自有或自筹资金增持公司A股股份，合计拟增持金额不低"
+      }
+    },
     {
       "event": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
       "originalTitle": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
@@ -492,8 +556,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827570",
-        "retrievedAt": "2026-11-12T16:17:40.168476+08:00",
-        "sha256": "2205e68898f438d6c39cb395b7542837932d953aa68551ee358290867d18b9e3",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "1cada1b73e57c41e91af4004dd82b9781ee9c91befdb77edb5ac7ef59456a594",
         "paragraphCount": 15,
         "excerpt": "新华社北京11月12日电 纪念孙中山先生诞辰160周年大会12日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，海内外全体中华儿女要更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟"
       }
@@ -507,8 +571,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/827571",
-        "retrievedAt": "2026-11-12T16:17:40.168476+08:00",
-        "sha256": "6ee1418f4d9111020beea5d9fe9a7c4e138644eb487505e2d463f512bee40286",
+        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
+        "sha256": "dcf4491e923593752ae78530ba6bcb46aa819d4f37a6aa9c54a85c97bb44e865",
         "paragraphCount": 8,
         "excerpt": "上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
       }
@@ -522,44 +586,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "originalTitle": "杭州园林：子公司分别签署2万片和1万片英伟达GPU采购合同",
-      "published": "2026-11-12T09:30:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827498",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "山东省聊城经济技术开发区党工委书记、管委会主任任海波接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-12T08:12:00+00:00",
+      "event": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
+      "published": "2026-11-12T12:15:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zcWdhMmZhYTM5alBVM1RpaFhnZnJGRmxHTmwwdGJLNnV6TEgtdHJjQmNSWkZZU050QjBMNmdWT2ltUXJlakpWMm5EY3VCWVBTYVU5S0E4bF9EaHlYSlZtLTBfRjZHWXJvdU1udDlmVDhKS0ZRNzRIdkF5UDFXb00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东省聊城经济技术开发区党工委书记、管委会主任任海波接受纪律审查和监察调查 - 新华网"
-    },
-    {
-      "event": "新华时评·中国经济新观察｜“世界工厂”与“世界市场”同频共振 - 新华网",
-      "published": "2026-11-12T07:55:18+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lcUloQUZZXzFBRm1sUzloMkZmUURiaVBWaVhobmtWTHViYy0tQnVlemw5MFNiWUY2VDlxTFFSTTFOcXhiQ29vRUtJbnAzVnZwTTFLc2tScDZUTXFUTmkwOFdySEQ1MWxpeE5mVXdPS3YyTlBEUjk0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华时评·中国经济新观察｜“世界工厂”与“世界市场”同频共振 - 新华网"
-    },
-    {
-      "event": "中欧ESG论坛在沪举办：共探绿色规则协同，共建全球绿色公平贸易枢纽 - 新华网上海",
-      "published": "2026-11-12T07:29:21+00:00",
-      "publisher": "新华网上海",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcThIbV9uZl9ZbHlGQUxYY0lCZGVvVE9VYXNCZmVESENfS3R1cXA2Qmc0RFRHZUhMa21yODY2eDRpbFl2WTJXc196S25vNTN0aWJfR2h3S0NfV1Bkb3JPTDlQNmZWc0pqQUdEOEEzcE9oLUll?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中欧ESG论坛在沪举办：共探绿色规则协同，共建全球绿色公平贸易枢纽 - 新华网上海"
-    },
-    {
-      "event": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网",
-      "published": "2026-11-12T07:29:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlhIazItVUlVMVRTRS1xWjVhMTRiam9UbUF1bXFqbFIwMDlteUZjMmZWVUJkMGJQT2h3T3A3cnZkdFAtV1pCTnN4THBwYWdGRHBGMFJnd1hoUE5Dek83aHppcTFWbWJLcnlsZktXYUZLcEktVkZydlJWdDE3cFJhMA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "从“卖Token”到“卖结果”|科技有“联想”沙龙激辩Token经济三大议题 - 新华网"
+      "originalTitle": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网"
     }
   ],
   "quality": {
@@ -573,7 +605,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
