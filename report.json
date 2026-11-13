@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-12",
-  "date": "更新于北京时间 2026-11-12 20:43",
-  "reportDate": "2026-11-12",
-  "updatedAt": "2026-11-12T20:43:36+08:00",
+  "edition": "财经晨报 · 2026-11-13",
+  "date": "更新于北京时间 2026-11-13 09:48",
+  "reportDate": "2026-11-13",
+  "updatedAt": "2026-11-13T09:48:21+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-12 财经资料（待核验）",
+    "title": "2026-11-13 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,20 +33,20 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "2026-11-11：92.76 美元/桶；较 2026-11-10 变化 +1.27 美元/桶。",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-09：4.88 %；较 2026-11-06 变化 +0.02 个百分点。",
+          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "92.76 美元/桶；变化 +1.27 美元/桶",
+          "title": "Brent 原油现货",
+          "summary": "92.14 美元/桶；变化 +1.98 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-11；前值 91.49（2026-11-10）；来源：Yahoo Finance。"
+            "观测日 2026-11-11；前值 90.16（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.98 %；变化 +0.10 个百分点",
           "paragraphs": [
-            "观测日 2026-11-09；前值 4.86（2026-11-06）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6703 人民币/美元；变化 -0.0024 人民币/美元",
+          "summary": "6.6703 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-11；前值 6.6727（2026-11-10）；来源：Yahoo Finance。"
+            "观测日 2026-11-12；前值 6.6703（2026-11-11）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,157 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "李强主持国务院第二十二次专题学习",
+          "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T20:27:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月12日电 11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827788"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "维尔利：控股股东质押970万股，占其所持4.41%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月12日，维尔利发布公告称，公司于近日接到控股股东常州德泽实业投资有限公司（以下简称“常州德泽”）的通知，常州德泽将其所持有的公司部分股份办理了质押业务，本次质押970.00万股，占其所持股份4.41%，占公司总股本1.02%"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827717"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月12日，永贵电器发布公告称，公司控股子公司江苏永贵新能源科技有限公司（以下简称“江苏永贵”）近日收到中车物流有限公司（以下简称“中车物流”）的一份中标通知书，中标项目为中车大同电力机车有限公司动力电池采购项目，中标产品为换电"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827716"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T18:36:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月12日，中创智领发布公告称，公司于2026年7月16日披露增持计划，公司9名董事、高级管理人员拟自2026年7月16日起6个月内，通过上海证券交易所系统以集中竞价交易方式，以自有或自筹资金增持公司A股股份，合计拟增持金额不低"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827715"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T15:28:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-13T09:43:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827595"
+              "url": "https://www.cnstock.com/commonDetail/828057"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
+          "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T15:27:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827601"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-12T12:58:00+08:00；来源：新华社。",
+            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月12日电 纪念孙中山先生诞辰160周年大会12日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，海内外全体中华儿女要更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟"
+            "原文摘要：上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827570"
+              "url": "https://www.cnstock.com/commonDetail/828040"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
+          "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T12:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828041"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "谁错失了这束“光”？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T07:59:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
+            "原文摘要：11月11日，科技板块大反弹，部分三季度末重仓科技股的基金净值当日涨幅有限，从侧面反映这些基金或已经撤离科技股。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/827571"
+              "url": "https://www.cnstock.com/commonDetail/828011"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证监会副主席，最新发声",
+          "title": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T12:39:00+08:00；来源：上海证券报微信公众号。",
+            "发布时间：2026-11-13T07:43:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/827565"
+              "url": "https://www.cnstock.com/commonDetail/828006"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
+          "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-12T12:15:40+00:00；来源：新华网。",
+            "发布时间：2026-11-13T07:29:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828005"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "强筋壮骨 蓄势跃升——湖南基础设施支撑更加坚实 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T01:27:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q3BWSW1ScENPTmRJVHlqVmZhSGJObmRLSXpycmNLMUQ1MEcwWVhaN1hXdV95dE5wcnJDUkc0OWNINGZpMWo1LVlGQi1pTUZpZV9UcVIxTFFldmx1Q2tUZXlRWGh1cXRPTGNOZExsNEtpY3U2YWg3aTg5Zw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "物理AI加快走向产业拐点的关键在哪？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T01:21:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWUc0aGxSYmJORU12ekhTVmZWaHRJR195MVJWY1lCMmctOXpReFdTSXVhLTFUYlExNVdITXAtd2wzMXRCcFU4WlNseFVZNnI1dDVRQ2x5VTh6QW5OTUNUQlJoTEhMakNKZVo3VEcwNldrcmxwSWVVcjg1Nkw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T01:02:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cHVrTGUxZlNEaXZKdjlhcC00SW5lMTZWUU44ZUctNERlWTIxN3pySGdfR3QzTXZneXc3RGgzVnZ4SGRMQVdvczhDNWtTQ09GMEZtVlpFX1pjWmptNlNnX0ExQURkN042eFN6cTg0QTVXMTFBdEctZG11QUZ6bU0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "北京：到2030年国际交往中心功能体系和空间格局将更加完善 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T00:48:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sUXhfTUhLMl9EQVUtMUNkMUMyeWk4Rlh2aThkV19nMkcydUR3Zk1SV1VzNXFic1ZKMXhlMjdBNFAyVWx4dENER180elFXZXlNdExtZ3Bkeno1UUY2WGhJbmJ6VFI2NmtHMExHYVh2VTVEanUyUDhYRzNR?oc=5"
             }
           ]
         }
@@ -351,7 +347,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 35 课：情景分析",
+      "title": "第 36 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -385,11 +381,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-11"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-11"
@@ -405,8 +396,13 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-11"
     },
     {
@@ -417,181 +413,153 @@
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-10"
     },
     {
-      "title": "李强主持国务院第二十二次专题学习",
-      "url": "https://www.cnstock.com/commonDetail/827788",
-      "asOf": "2026-11-12T20:27:00+08:00"
+      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "url": "https://www.cnstock.com/commonDetail/828057",
+      "asOf": "2026-11-13T09:43:00+08:00"
     },
     {
-      "title": "维尔利：控股股东质押970万股，占其所持4.41%",
-      "url": "https://www.cnstock.com/commonDetail/827717",
-      "asOf": "2026-11-12T18:36:00+08:00"
+      "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "url": "https://www.cnstock.com/commonDetail/828040",
+      "asOf": "2026-11-13T09:18:00+08:00"
     },
     {
-      "title": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
-      "url": "https://www.cnstock.com/commonDetail/827716",
-      "asOf": "2026-11-12T18:36:00+08:00"
+      "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "url": "https://www.cnstock.com/commonDetail/828041",
+      "asOf": "2026-11-13T09:18:00+08:00"
     },
     {
-      "title": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
-      "url": "https://www.cnstock.com/commonDetail/827715",
-      "asOf": "2026-11-12T18:36:00+08:00"
+      "title": "谁错失了这束“光”？",
+      "url": "https://www.cnstock.com/commonDetail/828011",
+      "asOf": "2026-11-13T07:59:00+08:00"
     },
     {
-      "title": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
-      "url": "https://www.cnstock.com/commonDetail/827595",
-      "asOf": "2026-11-12T15:28:00+08:00"
+      "title": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
+      "url": "https://www.cnstock.com/commonDetail/828006",
+      "asOf": "2026-11-13T07:43:00+08:00"
     },
     {
-      "title": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
-      "url": "https://www.cnstock.com/commonDetail/827601",
-      "asOf": "2026-11-12T15:27:00+08:00"
+      "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "url": "https://www.cnstock.com/commonDetail/828005",
+      "asOf": "2026-11-13T07:29:00+08:00"
     },
     {
-      "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "url": "https://www.cnstock.com/commonDetail/827570",
-      "asOf": "2026-11-12T12:58:00+08:00"
+      "title": "强筋壮骨 蓄势跃升——湖南基础设施支撑更加坚实 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q3BWSW1ScENPTmRJVHlqVmZhSGJObmRLSXpycmNLMUQ1MEcwWVhaN1hXdV95dE5wcnJDUkc0OWNINGZpMWo1LVlGQi1pTUZpZV9UcVIxTFFldmx1Q2tUZXlRWGh1cXRPTGNOZExsNEtpY3U2YWg3aTg5Zw?oc=5",
+      "asOf": "2026-11-13T01:27:58+00:00"
     },
     {
-      "title": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "url": "https://www.cnstock.com/commonDetail/827571",
-      "asOf": "2026-11-12T12:44:00+08:00"
+      "title": "物理AI加快走向产业拐点的关键在哪？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWUc0aGxSYmJORU12ekhTVmZWaHRJR195MVJWY1lCMmctOXpReFdTSXVhLTFUYlExNVdITXAtd2wzMXRCcFU4WlNseFVZNnI1dDVRQ2x5VTh6QW5OTUNUQlJoTEhMakNKZVo3VEcwNldrcmxwSWVVcjg1Nkw?oc=5",
+      "asOf": "2026-11-13T01:21:08+00:00"
     },
     {
-      "title": "证监会副主席，最新发声",
-      "url": "https://www.cnstock.com/commonDetail/827565",
-      "asOf": "2026-11-12T12:39:00+08:00"
+      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cHVrTGUxZlNEaXZKdjlhcC00SW5lMTZWUU44ZUctNERlWTIxN3pySGdfR3QzTXZneXc3RGgzVnZ4SGRMQVdvczhDNWtTQ09GMEZtVlpFX1pjWmptNlNnX0ExQURkN042eFN6cTg0QTVXMTFBdEctZG11QUZ6bU0?oc=5",
+      "asOf": "2026-11-13T01:02:26+00:00"
     },
     {
-      "title": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5",
-      "asOf": "2026-11-12T12:15:40+00:00"
+      "title": "北京：到2030年国际交往中心功能体系和空间格局将更加完善 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sUXhfTUhLMl9EQVUtMUNkMUMyeWk4Rlh2aThkV19nMkcydUR3Zk1SV1VzNXFic1ZKMXhlMjdBNFAyVWx4dENER180elFXZXlNdExtZ3Bkeno1UUY2WGhJbmJ6VFI2NmtHMExHYVh2VTVEanUyUDhYRzNR?oc=5",
+      "asOf": "2026-11-13T00:48:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "李强主持国务院第二十二次专题学习",
-      "originalTitle": "李强主持国务院第二十二次专题学习",
-      "published": "2026-11-12T20:27:00+08:00",
+      "event": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "originalTitle": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "published": "2026-11-13T09:43:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827788",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827788",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "cab5c1c0485ffb6b0841362f6a6cee9617dd8e902144f647fdd58ef11a8d48a4",
-        "paragraphCount": 4,
-        "excerpt": "新华社北京11月12日电 11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署"
-      }
-    },
-    {
-      "event": "维尔利：控股股东质押970万股，占其所持4.41%",
-      "originalTitle": "维尔利：控股股东质押970万股，占其所持4.41%",
-      "published": "2026-11-12T18:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827717",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827717",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "c0829aa92dd823cbca71e212e98a446a277316cc299b0cb06541dcd8cc847203",
-        "paragraphCount": 1,
-        "excerpt": "上证智讯 11月12日，维尔利发布公告称，公司于近日接到控股股东常州德泽实业投资有限公司（以下简称“常州德泽”）的通知，常州德泽将其所持有的公司部分股份办理了质押业务，本次质押970.00万股，占其所持股份4.41%，占公司总股本1.02%"
-      }
-    },
-    {
-      "event": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
-      "originalTitle": "永贵电器：控股子公司中标约2145万元动力电池采购项目",
-      "published": "2026-11-12T18:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827716",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827716",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "0b4735aa3dd4ba7a592e3a4e3d1a7384ef946f1dbb76b0a3fd7e72af411ff03b",
-        "paragraphCount": 1,
-        "excerpt": "上证智讯 11月12日，永贵电器发布公告称，公司控股子公司江苏永贵新能源科技有限公司（以下简称“江苏永贵”）近日收到中车物流有限公司（以下简称“中车物流”）的一份中标通知书，中标项目为中车大同电力机车有限公司动力电池采购项目，中标产品为换电"
-      }
-    },
-    {
-      "event": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
-      "originalTitle": "中创智领：董秘张易辰增持10.57万股，计划实施完毕",
-      "published": "2026-11-12T18:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827715",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827715",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "9834394fd150ad42489973d66b503bdb5a0a2afd712d5a44cc6b5c137dab5eac",
-        "paragraphCount": 1,
-        "excerpt": "上证智讯 11月12日，中创智领发布公告称，公司于2026年7月16日披露增持计划，公司9名董事、高级管理人员拟自2026年7月16日起6个月内，通过上海证券交易所系统以集中竞价交易方式，以自有或自筹资金增持公司A股股份，合计拟增持金额不低"
-      }
-    },
-    {
-      "event": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
-      "originalTitle": "国家发展改革委：自11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
-      "published": "2026-11-12T15:28:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827595",
+      "url": "https://www.cnstock.com/commonDetail/828057",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
-      "originalTitle": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
-      "published": "2026-11-12T15:27:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827601",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "originalTitle": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-      "published": "2026-11-12T12:58:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/827570",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827570",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "1cada1b73e57c41e91af4004dd82b9781ee9c91befdb77edb5ac7ef59456a594",
-        "paragraphCount": 15,
-        "excerpt": "新华社北京11月12日电 纪念孙中山先生诞辰160周年大会12日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，海内外全体中华儿女要更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟"
-      }
-    },
-    {
-      "event": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "originalTitle": "上交所邱勇：中国资产安全、韧性、创新核心价值凸显",
-      "published": "2026-11-12T12:44:00+08:00",
+      "event": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "originalTitle": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "published": "2026-11-13T09:18:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/827571",
+      "url": "https://www.cnstock.com/commonDetail/828040",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/827571",
-        "retrievedAt": "2026-11-12T20:43:36.224871+08:00",
-        "sha256": "dcf4491e923593752ae78530ba6bcb46aa819d4f37a6aa9c54a85c97bb44e865",
-        "paragraphCount": 8,
-        "excerpt": "上证报中国证券网讯 “当前，中国经济长期向好的基本面没有改变，中国资本市场高质量发展的趋势没有改变，中国资产安全、韧性、创新核心价值更加凸显。”11月12日，上海证券交易所理事长邱勇在上海证券交易所2026年国际投资者大会上表示，上交所真诚"
+        "url": "https://www.cnstock.com/commonDetail/828040",
+        "retrievedAt": "2026-11-13T09:48:21.224986+08:00",
+        "sha256": "ae34b8aa71cf44ef6e5dae2466356d784a4bdafd00987bf479db7f730c986fb3",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
       }
     },
     {
-      "event": "证监会副主席，最新发声",
-      "originalTitle": "证监会副主席，最新发声",
-      "published": "2026-11-12T12:39:00+08:00",
-      "publisher": "上海证券报微信公众号",
-      "url": "https://www.cnstock.com/commonDetail/827565",
+      "event": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "originalTitle": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "published": "2026-11-13T09:18:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828041",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网",
-      "published": "2026-11-12T12:15:40+00:00",
+      "event": "谁错失了这束“光”？",
+      "originalTitle": "谁错失了这束“光”？",
+      "published": "2026-11-13T07:59:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828011",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828011",
+        "retrievedAt": "2026-11-13T09:48:21.224986+08:00",
+        "sha256": "e81ffc9cf0f653a50f99d9ea229a5e29229f2b9745f6d9441b9919563bdfcb35",
+        "paragraphCount": 16,
+        "excerpt": "11月11日，科技板块大反弹，部分三季度末重仓科技股的基金净值当日涨幅有限，从侧面反映这些基金或已经撤离科技股。"
+      }
+    },
+    {
+      "event": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
+      "originalTitle": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
+      "published": "2026-11-13T07:43:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828006",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "originalTitle": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "published": "2026-11-13T07:29:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828005",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "强筋壮骨 蓄势跃升——湖南基础设施支撑更加坚实 - 新华网",
+      "published": "2026-11-13T01:27:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odndUa0s4aVJKb3M4NW9yaHBhMUpZZWxlVURDR05DX2xHOE9aR3NFbFd1TUlBT2xVYy1RN0xyU0hfSW5VUjNtNFZRcWx2R3R3RWxTWnEzWnQ2TmJrZ3BqR2xRMi02ZnQtejJITHNubGRGTXotaXNSVGFucVRPZkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q3BWSW1ScENPTmRJVHlqVmZhSGJObmRLSXpycmNLMUQ1MEcwWVhaN1hXdV95dE5wcnJDUkc0OWNINGZpMWo1LVlGQi1pTUZpZV9UcVIxTFFldmx1Q2tUZXlRWGh1cXRPTGNOZExsNEtpY3U2YWg3aTg5Zw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普威胁墨西哥：阻止移民车队 否则关税翻倍 - 新华网"
+      "originalTitle": "强筋壮骨 蓄势跃升——湖南基础设施支撑更加坚实 - 新华网"
+    },
+    {
+      "event": "物理AI加快走向产业拐点的关键在哪？ - 新华网",
+      "published": "2026-11-13T01:21:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWUc0aGxSYmJORU12ekhTVmZWaHRJR195MVJWY1lCMmctOXpReFdTSXVhLTFUYlExNVdITXAtd2wzMXRCcFU4WlNseFVZNnI1dDVRQ2x5VTh6QW5OTUNUQlJoTEhMakNKZVo3VEcwNldrcmxwSWVVcjg1Nkw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "物理AI加快走向产业拐点的关键在哪？ - 新华网"
+    },
+    {
+      "event": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "published": "2026-11-13T01:02:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cHVrTGUxZlNEaXZKdjlhcC00SW5lMTZWUU44ZUctNERlWTIxN3pySGdfR3QzTXZneXc3RGgzVnZ4SGRMQVdvczhDNWtTQ09GMEZtVlpFX1pjWmptNlNnX0ExQURkN042eFN6cTg0QTVXMTFBdEctZG11QUZ6bU0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网"
+    },
+    {
+      "event": "北京：到2030年国际交往中心功能体系和空间格局将更加完善 - 新华网",
+      "published": "2026-11-13T00:48:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sUXhfTUhLMl9EQVUtMUNkMUMyeWk4Rlh2aThkV19nMkcydUR3Zk1SV1VzNXFic1ZKMXhlMjdBNFAyVWx4dENER180elFXZXlNdExtZ3Bkeno1UUY2WGhJbmJ6VFI2NmtHMExHYVh2VTVEanUyUDhYRzNR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "北京：到2030年国际交往中心功能体系和空间格局将更加完善 - 新华网"
     }
   ],
   "quality": {
@@ -605,6 +573,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
