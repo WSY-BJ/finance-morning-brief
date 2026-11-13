@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 11:58",
+  "date": "更新于北京时间 2026-11-13 14:26",
   "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T11:58:20+08:00",
+  "updatedAt": "2026-11-13T14:26:00+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-11：7,619.38 点；较 2026-11-10 变化 +98.45 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "102.91 点；变化 +0.68 点",
+          "summary": "103.17 点；变化 +0.26 点",
           "paragraphs": [
-            "观测日 2026-11-11；前值 102.23（2026-11-10）；来源：Yahoo Finance。"
+            "观测日 2026-11-12；前值 102.91（2026-11-11）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,619.38 点；变化 +98.45 点",
+          "summary": "7,592.40 点；变化 -26.98 点",
           "paragraphs": [
-            "观测日 2026-11-11；前值 7,520.93（2026-11-10）；来源：Yahoo Finance。"
+            "观测日 2026-11-12；前值 7,619.38（2026-11-11）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,466.19 点；变化 +400.32 点",
+          "summary": "25,366.09 点；变化 -100.10 点",
           "paragraphs": [
-            "观测日 2026-11-11；前值 25,065.87（2026-11-10）；来源：Yahoo Finance。"
+            "观测日 2026-11-12；前值 25,466.19（2026-11-11）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,124 +177,61 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "10月高频数据折射中国经济稳中向好态势",
+          "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T11:29:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828086"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T11:08:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 李兴彩）“比起三个月前，我们看到客户对诸如BCD(双极-CMOS-DMOS 集成工艺)、专用存储、Controller（控制器芯片）等人工智能配套芯片拉货需求的增长速度比预期的更快，使得第三季度收入超出指引上限。”"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828082"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T09:43:00+08:00；来源：新华社。",
+            "发布时间：2026-11-13T06:12:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828057"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+          "title": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月13日，新奥股份发布公告称，公司2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售条件已成就，54名激励对象可解除限售的限制性股票数量为约507.38万股，占公司总股本的0.16%；本次解除限售股份上市流通日为"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828041"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-13T05:40:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828040"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
+          "title": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T07:43:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-13T04:16:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828006"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+          "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T07:29:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-13T03:28:01+00:00；来源：新华社广西分社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828005"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T03:33:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5"
             }
           ]
         },
@@ -327,6 +264,66 @@
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5"
             }
           ]
+        },
+        {
+          "type": "explainer",
+          "title": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T02:58:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "巴西亚马孙州面临严重旱情 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T02:54:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T02:54:28+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T02:49:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -356,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-10 前值 7520.9302，2026-11-11 现值 7619.3799，变化 +98.4497。",
+            "本期实例：标普 500 指数，2026-11-11 前值 7619.3799，2026-11-12 现值 7592.3999，变化 -26.9800。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -382,16 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-11"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-11"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-12"
@@ -404,12 +391,22 @@
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-11"
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -417,44 +414,24 @@
       "asOf": "2026-11-10"
     },
     {
-      "title": "10月高频数据折射中国经济稳中向好态势",
-      "url": "https://www.cnstock.com/commonDetail/828086",
-      "asOf": "2026-11-13T11:29:00+08:00"
+      "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5",
+      "asOf": "2026-11-13T06:12:15+00:00"
     },
     {
-      "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "url": "https://www.cnstock.com/commonDetail/828082",
-      "asOf": "2026-11-13T11:08:00+08:00"
+      "title": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5",
+      "asOf": "2026-11-13T05:40:16+00:00"
     },
     {
-      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-      "url": "https://www.cnstock.com/commonDetail/828057",
-      "asOf": "2026-11-13T09:43:00+08:00"
+      "title": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5",
+      "asOf": "2026-11-13T04:16:48+00:00"
     },
     {
-      "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
-      "url": "https://www.cnstock.com/commonDetail/828041",
-      "asOf": "2026-11-13T09:18:00+08:00"
-    },
-    {
-      "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
-      "url": "https://www.cnstock.com/commonDetail/828040",
-      "asOf": "2026-11-13T09:18:00+08:00"
-    },
-    {
-      "title": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
-      "url": "https://www.cnstock.com/commonDetail/828006",
-      "asOf": "2026-11-13T07:43:00+08:00"
-    },
-    {
-      "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
-      "url": "https://www.cnstock.com/commonDetail/828005",
-      "asOf": "2026-11-13T07:29:00+08:00"
-    },
-    {
-      "title": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5",
-      "asOf": "2026-11-13T03:33:32+00:00"
+      "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5",
+      "asOf": "2026-11-13T03:28:01+00:00"
     },
     {
       "title": "雕琢细节接住外国游客“奔县”热情 - 新华网",
@@ -465,93 +442,60 @@
       "title": "中国开源模型在全球产业端加速落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "asOf": "2026-11-13T03:00:27+00:00"
+    },
+    {
+      "title": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
+      "asOf": "2026-11-13T02:58:54+00:00"
+    },
+    {
+      "title": "巴西亚马孙州面临严重旱情 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
+      "asOf": "2026-11-13T02:54:45+00:00"
+    },
+    {
+      "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5",
+      "asOf": "2026-11-13T02:54:28+00:00"
+    },
+    {
+      "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5",
+      "asOf": "2026-11-13T02:49:01+00:00"
     }
   ],
   "events": [
     {
-      "event": "10月高频数据折射中国经济稳中向好态势",
-      "originalTitle": "10月高频数据折射中国经济稳中向好态势",
-      "published": "2026-11-13T11:29:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/828086",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828086",
-        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
-        "sha256": "067d36f30b3b616f75ef15455433c297f4e15a6c9de92465ce2c4055f41fc389",
-        "paragraphCount": 6,
-        "excerpt": "新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
-      }
-    },
-    {
-      "event": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "originalTitle": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "published": "2026-11-13T11:08:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828082",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828082",
-        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
-        "sha256": "f2be27795261df5ff122d6ee19afb14f26e75f3030b82f4625b6407a4421a5ad",
-        "paragraphCount": 8,
-        "excerpt": "上证报中国证券网讯（记者 李兴彩）“比起三个月前，我们看到客户对诸如BCD(双极-CMOS-DMOS 集成工艺)、专用存储、Controller（控制器芯片）等人工智能配套芯片拉货需求的增长速度比预期的更快，使得第三季度收入超出指引上限。”"
-      }
-    },
-    {
-      "event": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-      "originalTitle": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-      "published": "2026-11-13T09:43:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/828057",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
-      "originalTitle": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
-      "published": "2026-11-13T09:18:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828041",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828041",
-        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
-        "sha256": "e448ff1e7e7ab1a680827ca56d19f8de636ea10964824ad17217e608913d967d",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月13日，新奥股份发布公告称，公司2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售条件已成就，54名激励对象可解除限售的限制性股票数量为约507.38万股，占公司总股本的0.16%；本次解除限售股份上市流通日为"
-      }
-    },
-    {
-      "event": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
-      "originalTitle": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
-      "published": "2026-11-13T09:18:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828040",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
-      "originalTitle": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
-      "published": "2026-11-13T07:43:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828006",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "证监会：汇聚各方合力，全力维护市场平稳运行",
-      "originalTitle": "证监会：汇聚各方合力，全力维护市场平稳运行",
-      "published": "2026-11-13T07:29:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828005",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
-      "published": "2026-11-13T03:33:32+00:00",
+      "event": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
+      "published": "2026-11-13T06:12:15+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网"
+      "originalTitle": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网"
+    },
+    {
+      "event": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
+      "published": "2026-11-13T05:40:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平对国有企业党的建设工作作出重要指示 - 新华网"
+    },
+    {
+      "event": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
+      "published": "2026-11-13T04:16:48+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "俄媒：俄中联合研究助力可燃冰开采 - 新华网"
+    },
+    {
+      "event": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
+      "published": "2026-11-13T03:28:01+00:00",
+      "publisher": "新华社广西分社",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社"
     },
     {
       "event": "雕琢细节接住外国游客“奔县”热情 - 新华网",
@@ -568,6 +512,38 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中国开源模型在全球产业端加速落地 - 新华网"
+    },
+    {
+      "event": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
+      "published": "2026-11-13T02:58:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网"
+    },
+    {
+      "event": "巴西亚马孙州面临严重旱情 - 新华网",
+      "published": "2026-11-13T02:54:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴西亚马孙州面临严重旱情 - 新华网"
+    },
+    {
+      "event": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
+      "published": "2026-11-13T02:54:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网"
+    },
+    {
+      "event": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
+      "published": "2026-11-13T02:49:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网"
     }
   ],
   "quality": {
@@ -581,10 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
