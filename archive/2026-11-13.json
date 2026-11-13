@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 15:14",
+  "date": "更新于北京时间 2026-11-13 15:53",
   "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T15:14:13+08:00",
+  "updatedAt": "2026-11-13T15:53:41+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,154 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
+          "title": "10月高频数据折射中国经济稳中向好态势",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T06:57:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-13T11:29:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828086"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
+          "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T06:29:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-13T11:08:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 李兴彩）“比起三个月前，我们看到客户对诸如BCD(双极-CMOS-DMOS 集成工艺)、专用存储、Controller（控制器芯片）等人工智能配套芯片拉货需求的增长速度比预期的更快，使得第三季度收入超出指引上限。”"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828082"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
+          "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T06:12:15+00:00；来源：新华网。",
+            "发布时间：2026-11-13T09:43:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828057"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
+          "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T05:40:16+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828040"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
+          "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T04:16:48+00:00；来源：新华网。",
+            "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828041"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
+          "title": "国际智库专家在西安“穿行古今”感受千年古城魅力 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T04:04:53+00:00；来源：新华网。",
+            "发布时间：2026-11-13T07:45:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50eVl4LTQ0TmxVck1WcXBSdjRDZXZhR1N2MkotNi1MZ0tVVzItWXBKQmtfdTN3RDltX0xvMERmSUZDdkRKanBUM2l1dG01b2Vhb09XU3lmcXcxRkd6ZXdNN3NoMVNEcU12TzlQTHlta1RDOUVCdU4w?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
+          "title": "文化中国行丨渭河之畔那吼不尽的华阴老腔 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T03:28:01+00:00；来源：新华社广西分社。",
+            "发布时间：2026-11-13T07:45:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rMTZWMk5Fek1iYW93eHNXOWt5RDBpaUN2RFktNkh2MWlLblJSZWxVOVAyVWlUVUlBd3BRVVIzTERFSmhJX3lld0EyQWR4cFRaZmFNWFdvT3VNQWMzOGp4X3M0UUZvSUVvU2RPSm55azBROF85OG9B?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "雕琢细节接住外国游客“奔县”热情 - 新华网",
+          "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T03:06:25+00:00；来源：新华网。",
+            "发布时间：2026-11-13T07:40:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VX2hXdWdQUVV5dGNidFdnaERqZnBiZ3dFWTdVSjd5dC1kQ2hLX0Z1cFJYZkpzUDFtZ3h6LTZ5UG9qYXl5VkRLR1dodTJUS2dUc0phTkpnekc5NS1KMnNCbkRMeHV6TWpi?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国机器人“起舞”2026年网络峰会 - 新华网",
+          "title": "财经深一度丨从三个案例看税务合规对企业有啥好处 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T03:01:54+00:00；来源：新华网。",
+            "发布时间：2026-11-13T07:34:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TZkx2RVNvdHg2eHdjTFdndWpDRTk0XzVuVVo2UGZFWEl3QVhWckE5d2pVd0lQazdFVmFiMUlvd180bW1Ba1JzQ0lFOEU4WENLYjZoRkljYWZRdnhQOXlicGd2RnBUVktpMGZfNzVkMXQtZ2J1WlJj?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国开源模型在全球产业端加速落地 - 新华网",
+          "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T03:00:27+00:00；来源：新华网。",
+            "发布时间：2026-11-13T07:29:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828005"
             }
           ]
         }
@@ -379,8 +382,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-12"
     },
     {
@@ -389,13 +392,13 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-12"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-12"
     },
     {
@@ -404,146 +407,167 @@
       "asOf": "2026-11-11"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-12"
+    },
+    {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-12"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-10"
+      "title": "10月高频数据折射中国经济稳中向好态势",
+      "url": "https://www.cnstock.com/commonDetail/828086",
+      "asOf": "2026-11-13T11:29:00+08:00"
     },
     {
-      "title": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5",
-      "asOf": "2026-11-13T06:57:38+00:00"
+      "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
+      "url": "https://www.cnstock.com/commonDetail/828082",
+      "asOf": "2026-11-13T11:08:00+08:00"
     },
     {
-      "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5",
-      "asOf": "2026-11-13T06:29:08+00:00"
+      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "url": "https://www.cnstock.com/commonDetail/828057",
+      "asOf": "2026-11-13T09:43:00+08:00"
     },
     {
-      "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5",
-      "asOf": "2026-11-13T06:12:15+00:00"
+      "title": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "url": "https://www.cnstock.com/commonDetail/828040",
+      "asOf": "2026-11-13T09:18:00+08:00"
     },
     {
-      "title": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5",
-      "asOf": "2026-11-13T05:40:16+00:00"
+      "title": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "url": "https://www.cnstock.com/commonDetail/828041",
+      "asOf": "2026-11-13T09:18:00+08:00"
     },
     {
-      "title": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5",
-      "asOf": "2026-11-13T04:16:48+00:00"
+      "title": "国际智库专家在西安“穿行古今”感受千年古城魅力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50eVl4LTQ0TmxVck1WcXBSdjRDZXZhR1N2MkotNi1MZ0tVVzItWXBKQmtfdTN3RDltX0xvMERmSUZDdkRKanBUM2l1dG01b2Vhb09XU3lmcXcxRkd6ZXdNN3NoMVNEcU12TzlQTHlta1RDOUVCdU4w?oc=5",
+      "asOf": "2026-11-13T07:45:27+00:00"
     },
     {
-      "title": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5",
-      "asOf": "2026-11-13T04:04:53+00:00"
+      "title": "文化中国行丨渭河之畔那吼不尽的华阴老腔 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rMTZWMk5Fek1iYW93eHNXOWt5RDBpaUN2RFktNkh2MWlLblJSZWxVOVAyVWlUVUlBd3BRVVIzTERFSmhJX3lld0EyQWR4cFRaZmFNWFdvT3VNQWMzOGp4X3M0UUZvSUVvU2RPSm55azBROF85OG9B?oc=5",
+      "asOf": "2026-11-13T07:45:21+00:00"
     },
     {
-      "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5",
-      "asOf": "2026-11-13T03:28:01+00:00"
+      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VX2hXdWdQUVV5dGNidFdnaERqZnBiZ3dFWTdVSjd5dC1kQ2hLX0Z1cFJYZkpzUDFtZ3h6LTZ5UG9qYXl5VkRLR1dodTJUS2dUc0phTkpnekc5NS1KMnNCbkRMeHV6TWpi?oc=5",
+      "asOf": "2026-11-13T07:40:18+00:00"
     },
     {
-      "title": "雕琢细节接住外国游客“奔县”热情 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5",
-      "asOf": "2026-11-13T03:06:25+00:00"
+      "title": "财经深一度丨从三个案例看税务合规对企业有啥好处 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TZkx2RVNvdHg2eHdjTFdndWpDRTk0XzVuVVo2UGZFWEl3QVhWckE5d2pVd0lQazdFVmFiMUlvd180bW1Ba1JzQ0lFOEU4WENLYjZoRkljYWZRdnhQOXlicGd2RnBUVktpMGZfNzVkMXQtZ2J1WlJj?oc=5",
+      "asOf": "2026-11-13T07:34:13+00:00"
     },
     {
-      "title": "中国机器人“起舞”2026年网络峰会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5",
-      "asOf": "2026-11-13T03:01:54+00:00"
-    },
-    {
-      "title": "中国开源模型在全球产业端加速落地 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
-      "asOf": "2026-11-13T03:00:27+00:00"
+      "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "url": "https://www.cnstock.com/commonDetail/828005",
+      "asOf": "2026-11-13T07:29:00+08:00"
     }
   ],
   "events": [
     {
-      "event": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
-      "published": "2026-11-13T06:57:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5",
+      "event": "10月高频数据折射中国经济稳中向好态势",
+      "originalTitle": "10月高频数据折射中国经济稳中向好态势",
+      "published": "2026-11-13T11:29:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828086",
       "evidenceLevel": "headline-only",
-      "originalTitle": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828086",
+        "retrievedAt": "2026-11-13T15:53:41.411644+08:00",
+        "sha256": "b63eea9d31d583b939136bf73632fda74a452cdf6cbcc29a1e8ea8fe2dbeb1ae",
+        "paragraphCount": 6,
+        "excerpt": "新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
+      }
     },
     {
-      "event": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
-      "published": "2026-11-13T06:29:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5",
+      "event": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
+      "originalTitle": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
+      "published": "2026-11-13T11:08:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828082",
       "evidenceLevel": "headline-only",
-      "originalTitle": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828082",
+        "retrievedAt": "2026-11-13T15:53:41.411644+08:00",
+        "sha256": "11936e65af707b1806168ab6ec09c6fa129e2dc25c77e514ad50ada0bb368d2b",
+        "paragraphCount": 8,
+        "excerpt": "上证报中国证券网讯（记者 李兴彩）“比起三个月前，我们看到客户对诸如BCD(双极-CMOS-DMOS 集成工艺)、专用存储、Controller（控制器芯片）等人工智能配套芯片拉货需求的增长速度比预期的更快，使得第三季度收入超出指引上限。”"
+      }
     },
     {
-      "event": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
-      "published": "2026-11-13T06:12:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dZVmFLVzBpbTFwb19LTVR6UzJQZUMtMlY3MS1IRTVfS2FCX1lJb0NzN0tuRU53S0g4STRfelRKcXdaajMxcVRiSk4yWXdHZURTcjRFSWFSaE8yS2tHR0ExSk85MkhkdVJIVGxlRDl3NDdCM1RWeTZuTmZQSjhkNg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网"
+      "event": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "originalTitle": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "published": "2026-11-13T09:43:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828057",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "习近平对国有企业党的建设工作作出重要指示 - 新华网",
-      "published": "2026-11-13T05:40:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXA0aHo1QXIxbG1TUjROaTNWOG5EUnV1M24tc3gxckpXYzc1R0JwbEh6QnV6Z1FqUHVnbE53N0I3TGRjLWJzanNYdmhxaDF1YmRBbEpXdjNPMVl6MUI5NjUzQmdxR2t2TDRUa1hxLV83QXA2X3pmUXRrRkptZVdtZHJ3?oc=5",
+      "event": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "originalTitle": "英力特：拟向宝丰集团转让公司股份、购买宝丰光伏100%股权 今起停牌",
+      "published": "2026-11-13T09:18:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828040",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平对国有企业党的建设工作作出重要指示 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828040",
+        "retrievedAt": "2026-11-13T15:53:41.411644+08:00",
+        "sha256": "80ac6e4d79a1ac7dc7594849ff87a970a52b426f125d40771db99bae3dd25165",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
+      }
     },
     {
-      "event": "俄媒：俄中联合研究助力可燃冰开采 - 新华网",
-      "published": "2026-11-13T04:16:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UnBySUluaWxMbjdKRDJ4a0ZwVWp2d1FfX2FEYUdNV3BxVVdhempDNzYySGppbVp2NkcwTGNLN0F6bk5KeXhTSUNZcjNMNmF2blJGOGluMDNOUWNTV2R0WkJLM2xaWjY3aWZZc2ZfTXZZdk1qNUpFdkkyUl9zZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "俄媒：俄中联合研究助力可燃冰开采 - 新华网"
+      "event": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "originalTitle": "新奥股份：约507.38万股限售股将于11月18日解禁 占总0.16%",
+      "published": "2026-11-13T09:18:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828041",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
-      "published": "2026-11-13T04:04:53+00:00",
+      "event": "国际智库专家在西安“穿行古今”感受千年古城魅力 - 新华网",
+      "published": "2026-11-13T07:45:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50eVl4LTQ0TmxVck1WcXBSdjRDZXZhR1N2MkotNi1MZ0tVVzItWXBKQmtfdTN3RDltX0xvMERmSUZDdkRKanBUM2l1dG01b2Vhb09XU3lmcXcxRkd6ZXdNN3NoMVNEcU12TzlQTHlta1RDOUVCdU4w?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网"
+      "originalTitle": "国际智库专家在西安“穿行古今”感受千年古城魅力 - 新华网"
     },
     {
-      "event": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
-      "published": "2026-11-13T03:28:01+00:00",
-      "publisher": "新华社广西分社",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5",
+      "event": "文化中国行丨渭河之畔那吼不尽的华阴老腔 - 新华网",
+      "published": "2026-11-13T07:45:21+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rMTZWMk5Fek1iYW93eHNXOWt5RDBpaUN2RFktNkh2MWlLblJSZWxVOVAyVWlUVUlBd3BRVVIzTERFSmhJX3lld0EyQWR4cFRaZmFNWFdvT3VNQWMzOGp4X3M0UUZvSUVvU2RPSm55azBROF85OG9B?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社"
+      "originalTitle": "文化中国行丨渭河之畔那吼不尽的华阴老腔 - 新华网"
     },
     {
-      "event": "雕琢细节接住外国游客“奔县”热情 - 新华网",
-      "published": "2026-11-13T03:06:25+00:00",
+      "event": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "published": "2026-11-13T07:40:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VX2hXdWdQUVV5dGNidFdnaERqZnBiZ3dFWTdVSjd5dC1kQ2hLX0Z1cFJYZkpzUDFtZ3h6LTZ5UG9qYXl5VkRLR1dodTJUS2dUc0phTkpnekc5NS1KMnNCbkRMeHV6TWpi?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "雕琢细节接住外国游客“奔县”热情 - 新华网"
+      "originalTitle": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网"
     },
     {
-      "event": "中国机器人“起舞”2026年网络峰会 - 新华网",
-      "published": "2026-11-13T03:01:54+00:00",
+      "event": "财经深一度丨从三个案例看税务合规对企业有啥好处 - 新华网",
+      "published": "2026-11-13T07:34:13+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TZkx2RVNvdHg2eHdjTFdndWpDRTk0XzVuVVo2UGZFWEl3QVhWckE5d2pVd0lQazdFVmFiMUlvd180bW1Ba1JzQ0lFOEU4WENLYjZoRkljYWZRdnhQOXlicGd2RnBUVktpMGZfNzVkMXQtZ2J1WlJj?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国机器人“起舞”2026年网络峰会 - 新华网"
+      "originalTitle": "财经深一度丨从三个案例看税务合规对企业有啥好处 - 新华网"
     },
     {
-      "event": "中国开源模型在全球产业端加速落地 - 新华网",
-      "published": "2026-11-13T03:00:27+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国开源模型在全球产业端加速落地 - 新华网"
+      "event": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "originalTitle": "证监会：汇聚各方合力，全力维护市场平稳运行",
+      "published": "2026-11-13T07:29:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828005",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
@@ -557,7 +581,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
