@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 11:30",
+  "date": "更新于北京时间 2026-11-13 11:58",
   "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T11:30:44+08:00",
+  "updatedAt": "2026-11-13T11:58:20+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-11：7,619.38 点；较 2026-11-10 变化 +98.45 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.73 %；变化 +0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,22 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "10月高频数据折射中国经济稳中向好态势",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T11:29:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828086"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
           "summary": "",
           "paragraphs": [
@@ -228,12 +244,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-13T09:18:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828040"
             }
           ]
@@ -270,6 +285,36 @@
         },
         {
           "type": "explainer",
+          "title": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T03:33:32+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "雕琢细节接住外国游客“奔县”热情 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T03:06:25+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中国开源模型在全球产业端加速落地 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -280,51 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "巴西亚马孙州面临严重旱情 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:54:45+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:54:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10YmdPbUZOeXZUWnBVb1RLUFprdE91cjhYOEUzdnpEQzdBeXRpWGl3dWZXLWdGZUNRS1UwVVRkVkhraFBhaTA4NUkzZkJyaFhBNzBFME9QNXA5WHlBWWExUHUyYlF2eWVLWkZoTlRXalNoMVlMM3NV?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:49:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVFnWXJSZ01lQ3QwenBsZGRyNmx2ekQ1SW83WVR4TTd2Z1NuSDJkUnVFWFZkRmtlald0YkVBLTN4a3RBbzZ3MnNQa2xMRHpZdzYzbVRQWm42V2ZlczlocGVERUN0aURxcGtteHlUWnd1OURHN2pEMlRuOWtzLUVqbjB3?oc=5"
             }
           ]
         }
@@ -382,18 +382,8 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-11"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-11"
     },
     {
@@ -407,14 +397,29 @@
       "asOf": "2026-11-12"
     },
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-11"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-11"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-10"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-10"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-10"
+      "title": "10月高频数据折射中国经济稳中向好态势",
+      "url": "https://www.cnstock.com/commonDetail/828086",
+      "asOf": "2026-11-13T11:29:00+08:00"
     },
     {
       "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
@@ -447,27 +452,37 @@
       "asOf": "2026-11-13T07:29:00+08:00"
     },
     {
+      "title": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5",
+      "asOf": "2026-11-13T03:33:32+00:00"
+    },
+    {
+      "title": "雕琢细节接住外国游客“奔县”热情 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5",
+      "asOf": "2026-11-13T03:06:25+00:00"
+    },
+    {
       "title": "中国开源模型在全球产业端加速落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "asOf": "2026-11-13T03:00:27+00:00"
-    },
-    {
-      "title": "巴西亚马孙州面临严重旱情 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
-      "asOf": "2026-11-13T02:54:45+00:00"
-    },
-    {
-      "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10YmdPbUZOeXZUWnBVb1RLUFprdE91cjhYOEUzdnpEQzdBeXRpWGl3dWZXLWdGZUNRS1UwVVRkVkhraFBhaTA4NUkzZkJyaFhBNzBFME9QNXA5WHlBWWExUHUyYlF2eWVLWkZoTlRXalNoMVlMM3NV?oc=5",
-      "asOf": "2026-11-13T02:54:27+00:00"
-    },
-    {
-      "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVFnWXJSZ01lQ3QwenBsZGRyNmx2ekQ1SW83WVR4TTd2Z1NuSDJkUnVFWFZkRmtlald0YkVBLTN4a3RBbzZ3MnNQa2xMRHpZdzYzbVRQWm42V2ZlczlocGVERUN0aURxcGtteHlUWnd1OURHN2pEMlRuOWtzLUVqbjB3?oc=5",
-      "asOf": "2026-11-13T02:49:02+00:00"
     }
   ],
   "events": [
+    {
+      "event": "10月高频数据折射中国经济稳中向好态势",
+      "originalTitle": "10月高频数据折射中国经济稳中向好态势",
+      "published": "2026-11-13T11:29:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828086",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828086",
+        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
+        "sha256": "067d36f30b3b616f75ef15455433c297f4e15a6c9de92465ce2c4055f41fc389",
+        "paragraphCount": 6,
+        "excerpt": "新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
+      }
+    },
     {
       "event": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
       "originalTitle": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
@@ -477,7 +492,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/828082",
-        "retrievedAt": "2026-11-13T11:30:44.657099+08:00",
+        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
         "sha256": "f2be27795261df5ff122d6ee19afb14f26e75f3030b82f4625b6407a4421a5ad",
         "paragraphCount": 8,
         "excerpt": "上证报中国证券网讯（记者 李兴彩）“比起三个月前，我们看到客户对诸如BCD(双极-CMOS-DMOS 集成工艺)、专用存储、Controller（控制器芯片）等人工智能配套芯片拉货需求的增长速度比预期的更快，使得第三季度收入超出指引上限。”"
@@ -500,7 +515,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/828041",
-        "retrievedAt": "2026-11-13T11:30:44.657099+08:00",
+        "retrievedAt": "2026-11-13T11:58:20.997251+08:00",
         "sha256": "e448ff1e7e7ab1a680827ca56d19f8de636ea10964824ad17217e608913d967d",
         "paragraphCount": 2,
         "excerpt": "上证智讯 11月13日，新奥股份发布公告称，公司2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售条件已成就，54名激励对象可解除限售的限制性股票数量为约507.38万股，占公司总股本的0.16%；本次解除限售股份上市流通日为"
@@ -512,14 +527,7 @@
       "published": "2026-11-13T09:18:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/828040",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828040",
-        "retrievedAt": "2026-11-13T11:30:44.657099+08:00",
-        "sha256": "5749e1fdb6d1e44391516827ca4e79fdde12ae34a212f04301a654f0bbfdc357",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月13日，英力特发布公告称，公司收到控股股东国能英力特能源化工集团股份有限公司（以下简称“英力特集团”）通知，英力特集团已确定宁夏宝丰集团有限公司（以下简称“宝丰集团”）为其拟协议转让公司股份的最终受让方，拟向宝丰集团一次性整"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "安全、韧性与创新价值凸显 国际投资者看好中国资产",
@@ -538,36 +546,28 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网",
+      "published": "2026-11-13T03:33:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHU0cm1NUTFYbnpOdEcwNDVfNjA0VWtpaU8xQ01mdWlicEhvVm80aUxmZ2dQWTBpNm4tNFJfajdjSGdld3NYT1FNVTkzbElrYUNXUVhDQkQ4akRCYmU1Ql92TUtEb3pHRzg3RURzMXhULWRMT1BrclVBLUxsV00?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "哈尔滨完成1310栋历史文化建筑“数字孪生”建档 - 新华网"
+    },
+    {
+      "event": "雕琢细节接住外国游客“奔县”热情 - 新华网",
+      "published": "2026-11-13T03:06:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02Z200c2pGMUJmSXhHQUtBVkU2bVgweW1UenRUd3htcTZNQ3JUWUpUOUFJWlprZXZBNUFtb2VqeDViQjl3OEtLeHozUkhndXFuTUFqSHNJeWhEenlUbW1UOTNrOWtZc0pIak9Hc0xUNzFDNXE2S2pzYjA3STA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "雕琢细节接住外国游客“奔县”热情 - 新华网"
+    },
+    {
       "event": "中国开源模型在全球产业端加速落地 - 新华网",
       "published": "2026-11-13T03:00:27+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中国开源模型在全球产业端加速落地 - 新华网"
-    },
-    {
-      "event": "巴西亚马孙州面临严重旱情 - 新华网",
-      "published": "2026-11-13T02:54:45+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "巴西亚马孙州面临严重旱情 - 新华网"
-    },
-    {
-      "event": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-      "published": "2026-11-13T02:54:27+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10YmdPbUZOeXZUWnBVb1RLUFprdE91cjhYOEUzdnpEQzdBeXRpWGl3dWZXLWdGZUNRS1UwVVRkVkhraFBhaTA4NUkzZkJyaFhBNzBFME9QNXA5WHlBWWExUHUyYlF2eWVLWkZoTlRXalNoMVlMM3NV?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网"
-    },
-    {
-      "event": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-      "published": "2026-11-13T02:49:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVFnWXJSZ01lQ3QwenBsZGRyNmx2ekQ1SW83WVR4TTd2Z1NuSDJkUnVFWFZkRmtlald0YkVBLTN4a3RBbzZ3MnNQa2xMRHpZdzYzbVRQWm42V2ZlczlocGVERUN0aURxcGtteHlUWnd1OURHN2pEMlRuOWtzLUVqbjB3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网"
     }
   ],
   "quality": {
@@ -581,6 +581,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
