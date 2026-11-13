@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 14:47",
+  "date": "更新于北京时间 2026-11-13 15:14",
   "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T14:47:47+08:00",
+  "updatedAt": "2026-11-13T15:14:13+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
+          "summary": "2026-11-12：5.10 %；较 2026-11-10 变化 +0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 +0.10 个百分点",
+          "summary": "5.10 %；变化 +0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-12；前值 4.98（2026-11-10）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -175,6 +175,21 @@
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
       "blocks": [
+        {
+          "type": "explainer",
+          "title": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T06:57:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5"
+            }
+          ]
+        },
         {
           "type": "explainer",
           "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
@@ -309,21 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:58:54+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-12"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-12"
@@ -394,24 +399,24 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-12"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-10"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-10"
+    },
+    {
+      "title": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5",
+      "asOf": "2026-11-13T06:57:38+00:00"
     },
     {
       "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
@@ -457,14 +462,17 @@
       "title": "中国开源模型在全球产业端加速落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "asOf": "2026-11-13T03:00:27+00:00"
-    },
-    {
-      "title": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
-      "asOf": "2026-11-13T02:58:54+00:00"
     }
   ],
   "events": [
+    {
+      "event": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网",
+      "published": "2026-11-13T06:57:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ZR0pJMlpKMnh5QUVzNzJYR05UWmdJN09Pbi11Y0JxUzltUnlvdGUwQ3RiSEZ3U2c4QXdjSkI4S0F1TWoxTmIybndsSkVhU3EtcjFqeGVkeUpYajd0Z3d3OFdqajJVWno2MkZhVWRFQ2lNSHlPc1B2aEJoSU53LQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "统筹算力网节能升级 筑牢绿色新型基础设施底座 - 新华网"
+    },
     {
       "event": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
       "published": "2026-11-13T06:29:08+00:00",
@@ -536,14 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "中国开源模型在全球产业端加速落地 - 新华网"
-    },
-    {
-      "event": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
-      "published": "2026-11-13T02:58:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网"
     }
   ],
   "quality": {
