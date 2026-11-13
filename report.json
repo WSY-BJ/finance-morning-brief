@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 14:26",
+  "date": "更新于北京时间 2026-11-13 14:47",
   "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T14:26:00+08:00",
+  "updatedAt": "2026-11-13T14:47:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.73 %；变化 +0.17 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：美国财政部。"
+            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T06:29:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -222,6 +237,21 @@
         },
         {
           "type": "explainer",
+          "title": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T04:04:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
           "summary": "",
           "paragraphs": [
@@ -252,6 +282,21 @@
         },
         {
           "type": "explainer",
+          "title": "中国机器人“起舞”2026年网络峰会 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-13T03:01:54+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中国开源模型在全球产业端加速落地 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -277,51 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "巴西亚马孙州面临严重旱情 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:54:45+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:54:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T02:49:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5"
             }
           ]
         }
@@ -379,6 +379,21 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-12"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-12"
@@ -389,29 +404,19 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-12"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-10"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-10"
+    },
+    {
+      "title": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5",
+      "asOf": "2026-11-13T06:29:08+00:00"
     },
     {
       "title": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
@@ -429,6 +434,11 @@
       "asOf": "2026-11-13T04:16:48+00:00"
     },
     {
+      "title": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5",
+      "asOf": "2026-11-13T04:04:53+00:00"
+    },
+    {
       "title": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FUklWWG5iOGdVQVUwcERkZW5qQ243SS1JSVRRRE03dnpzbDBRTldqV2x5VmtpcGwtNUFsUVdnbFpfd2wtM1lEMElrWEhfczNjdW1RVkJETHQtNy1Nblp2cU1IVnd5VmJzaFRINGZaNVgya09heHIyV0F0Zw?oc=5",
       "asOf": "2026-11-13T03:28:01+00:00"
@@ -439,6 +449,11 @@
       "asOf": "2026-11-13T03:06:25+00:00"
     },
     {
+      "title": "中国机器人“起舞”2026年网络峰会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5",
+      "asOf": "2026-11-13T03:01:54+00:00"
+    },
+    {
       "title": "中国开源模型在全球产业端加速落地 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkFLd3JPakxCLVJrZ1BVU1NoeldGYXUyVVc2M19jOVYxWjNCdFhLalJnWTZwRU16S2ZoUVZiTU1nVkpWNjhsbHBCQ1BNa2p5SVRrdFF0ZUdlUDBjTmVMalFmQXI3amRaMzkwZUFTaE1xTll6QzNocEI2WGU2dHNhbnZn?oc=5",
       "asOf": "2026-11-13T03:00:27+00:00"
@@ -447,24 +462,17 @@
       "title": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
       "asOf": "2026-11-13T02:58:54+00:00"
-    },
-    {
-      "title": "巴西亚马孙州面临严重旱情 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
-      "asOf": "2026-11-13T02:54:45+00:00"
-    },
-    {
-      "title": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5",
-      "asOf": "2026-11-13T02:54:28+00:00"
-    },
-    {
-      "title": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5",
-      "asOf": "2026-11-13T02:49:01+00:00"
     }
   ],
   "events": [
+    {
+      "event": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网",
+      "published": "2026-11-13T06:29:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2amVienpKVnM0eE9rbVNCS1BQcjh2MlU0N0J3RmhLMDZaY1VPRGlHbTNEWklUT0I0WnV5Tk8tcDJDVVZSeVl2d0VfTnZjZTE2WGRFRUJWYndJMEZsOWRFMjFBc3V0TS10RU1SOEhJT0o3Y0FsSGlWNzBBUG5Ud00?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "综述丨布达佩斯论坛聚焦人民币应用新机遇 - 新华网"
+    },
     {
       "event": "合浦县亮相《300秒看家乡》：汉郡文脉传千载 向海图强产业兴 - 新华网",
       "published": "2026-11-13T06:12:15+00:00",
@@ -490,6 +498,14 @@
       "originalTitle": "俄媒：俄中联合研究助力可燃冰开采 - 新华网"
     },
     {
+      "event": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网",
+      "published": "2026-11-13T04:04:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbHotemdJT3NzWkthaTV0QldhdFh0S3cyUnZCRUlfSS1kUTZ3SjI3aDhtTUhJUUlrUThvWkJiWENXc3Baa1NGQkJtWWFzVjg5aER0U21iTklPR0JrZ1cxaW9VM21GSFZpX2ZKVmQ0SzNicUJlWHdv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社原创话剧《永远的“四大队”》——走近陕北说书人 - 新华网"
+    },
+    {
       "event": "广西优化财政贴息政策 投放“平陆贷”超3亿元 - 新华社广西分社",
       "published": "2026-11-13T03:28:01+00:00",
       "publisher": "新华社广西分社",
@@ -506,6 +522,14 @@
       "originalTitle": "雕琢细节接住外国游客“奔县”热情 - 新华网"
     },
     {
+      "event": "中国机器人“起舞”2026年网络峰会 - 新华网",
+      "published": "2026-11-13T03:01:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT19PTldpaDlkWEFwai1oTnNPVV9zT2pTc05tZnJKeXlkYmtFZ3lDTzJsMzZUcUtONS1jTG1NcFJnNlN0MEt4eVczVUdJenRpeFdfZzNRalR4T280eDd6bzh2QXRnbG9naU1vSGRsNlZpUjJKNEM2ekJRd1FFamRzQkdn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国机器人“起舞”2026年网络峰会 - 新华网"
+    },
+    {
       "event": "中国开源模型在全球产业端加速落地 - 新华网",
       "published": "2026-11-13T03:00:27+00:00",
       "publisher": "新华网",
@@ -520,30 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfV19mc09qbExYeUFrTU1ORFA3b1U0am54dWhpMVZienRsYVpyTU5zQWdoWTVtbHB0dGMyTXVYMzRia1k4am03b1loa3ZzSURxbUtEblNyOTJzclNKdzBWWFJ3RWwwVGRfYndRQUd4bFJNM0lKQlFlS1VMbw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "“涵芬书房”名家系列讲座上新，《攻玉：重读西方经典》主题对谈活动举行 - 新华网"
-    },
-    {
-      "event": "巴西亚马孙州面临严重旱情 - 新华网",
-      "published": "2026-11-13T02:54:45+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldFUzV0RFWGpPZEdWcHNnUG80TDRvUkNCbHJOOUxMc0d1MzVQUmRuRHQ1T0JMd21fYTFwSUNMZFcwaU5CUDRfaVAyWm81NFRKUUtCRUNFQTJxZ3pYcDMtUXdUQkNKVzBsLUZySU1Od0dhVHkzU0dEWmxGZ3Uxekk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "巴西亚马孙州面临严重旱情 - 新华网"
-    },
-    {
-      "event": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网",
-      "published": "2026-11-13T02:54:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkJQYW5RZzdIVkVEUUdhYkpHQWFZcEFRN3FrTG9PWFJpVHpzZHQ3eEdwTk5xMlhDQlFSQUJURlByby1OUTNJVUxVMmNZSFdKeFNyaG1ITTJpTmo5SE00VzdEXzZmck0zdlBFVkxrRFZsREdhSTBSTVVsQXoxV2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范 - 新华网"
-    },
-    {
-      "event": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网",
-      "published": "2026-11-13T02:49:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRjltREpxcFZrOTdIRXBocTFoMVM5dWh5UVdHRmtVaXhVTU5NZlVvMUMxejB1d1pjSVR5bTRpZjRmaTV4UExLVDZ2WDQtdzNlRWl3eUhvRWNMcXQwMjBaUXB6amc5MEVpallUSUlzVFpMZ0w5a2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "九年“落子”结成产业密网——进博会青浦“主场”观察 - 新华网"
     }
   ],
   "quality": {
