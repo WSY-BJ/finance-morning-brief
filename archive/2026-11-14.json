@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 11:56",
+  "date": "更新于北京时间 2026-11-14 14:06",
   "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T11:56:33+08:00",
+  "updatedAt": "2026-11-14T14:06:03+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
+          "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "103.17 点；变化 +0.26 点",
+          "summary": "103.41 点；变化 +0.24 点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 102.91（2026-11-11）；来源：Yahoo Finance。"
+            "观测日 2026-11-13；前值 103.17（2026-11-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,592.40 点；变化 -26.98 点",
+          "summary": "7,561.67 点；变化 -30.73 点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 7,619.38（2026-11-11）；来源：Yahoo Finance。"
+            "观测日 2026-11-13；前值 7,592.40（2026-11-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,366.09 点；变化 -100.10 点",
+          "summary": "25,136.27 点；变化 -229.82 点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 25,466.19（2026-11-11）；来源：Yahoo Finance。"
+            "观测日 2026-11-13；前值 25,366.09（2026-11-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,6 +177,51 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "刚刚，新版国家医保药品目录发布！",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T12:08:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828570"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "本周，英伟达市值蒸发逾3.8万亿元",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T11:25:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828561"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "3D打印拉动需求，这一材料迎多轮涨价",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T11:25:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828560"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
           "summary": "",
           "paragraphs": [
@@ -187,37 +232,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828553"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月11日晚间，珠免集团公告称，公司筹划以发行股份及支付现金的方式购买珠海市免税企业集团有限公司（下称“免税公司”）49%股权，并募集配套资金。此次交易完成后，免税公司将成为上市公司全资子公司。珠免集团股票自11月12日开市起停牌，预计停"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828549"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828543"
             }
           ]
         },
@@ -238,7 +252,7 @@
         },
         {
           "type": "explainer",
-          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
@@ -247,7 +261,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828536"
+              "url": "https://www.cnstock.com/commonDetail/828537"
             }
           ]
         },
@@ -268,7 +282,7 @@
         },
         {
           "type": "explainer",
-          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
@@ -277,52 +291,37 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828537"
+              "url": "https://www.cnstock.com/commonDetail/828536"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
+          "title": "一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T03:35:14+00:00；来源：新华网。",
+            "发布时间：2026-11-14T05:30:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWalFnSGVEa09hMG5XNF9mSXBINXozSDVmenlmTUFrRnZBZUJLQzlGaVR0aXlqQ0hTNTBocllidW9ZbC1PMGNiQ1MzaUZ2eUh4OGFHa3E4TElBby05RWJzUWdnOGxYb0RWeV9CMFJoRVROWXNNV1ZQS2tjMS1mdkk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
+          "title": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T03:35:09+00:00；来源：新华网。",
+            "发布时间：2026-11-14T05:11:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T03:11:10+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUjNRbE51QmNnbmM0UURoWC1KQVR2NXNwZ00xQXk4ZUFHck1OUUNzSzdPZU41QmxiczhzVmk1Y0FsaE1NVEdfYXNZbE1YTFlTc3ctaGs0RzE2NW1Sd3dNV0syOFN3SVdPd045UjBzYlctME92N0liZE9iNEVKMUU?oc=5"
             }
           ]
         }
@@ -354,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-11 前值 7619.3799，2026-11-12 现值 7592.3999，变化 -26.9800。",
+            "本期实例：标普 500 指数，2026-11-12 前值 7592.3999，2026-11-13 现值 7561.6699，变化 -30.7300。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -380,23 +379,18 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-12"
+      "asOf": "2026-11-13"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-13"
     },
     {
@@ -405,28 +399,38 @@
       "asOf": "2026-11-11"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-12"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-12"
+      "title": "刚刚，新版国家医保药品目录发布！",
+      "url": "https://www.cnstock.com/commonDetail/828570",
+      "asOf": "2026-11-14T12:08:00+08:00"
+    },
+    {
+      "title": "本周，英伟达市值蒸发逾3.8万亿元",
+      "url": "https://www.cnstock.com/commonDetail/828561",
+      "asOf": "2026-11-14T11:25:00+08:00"
+    },
+    {
+      "title": "3D打印拉动需求，这一材料迎多轮涨价",
+      "url": "https://www.cnstock.com/commonDetail/828560",
+      "asOf": "2026-11-14T11:25:00+08:00"
     },
     {
       "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
       "url": "https://www.cnstock.com/commonDetail/828553",
-      "asOf": "2026-11-14T09:04:00+08:00"
-    },
-    {
-      "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "url": "https://www.cnstock.com/commonDetail/828549",
-      "asOf": "2026-11-14T09:04:00+08:00"
-    },
-    {
-      "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
-      "url": "https://www.cnstock.com/commonDetail/828543",
       "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
@@ -435,8 +439,8 @@
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "url": "https://www.cnstock.com/commonDetail/828536",
+      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/828537",
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
@@ -445,56 +449,52 @@
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/828537",
+      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "url": "https://www.cnstock.com/commonDetail/828536",
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5",
-      "asOf": "2026-11-14T03:35:14+00:00"
+      "title": "一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWalFnSGVEa09hMG5XNF9mSXBINXozSDVmenlmTUFrRnZBZUJLQzlGaVR0aXlqQ0hTNTBocllidW9ZbC1PMGNiQ1MzaUZ2eUh4OGFHa3E4TElBby05RWJzUWdnOGxYb0RWeV9CMFJoRVROWXNNV1ZQS2tjMS1mdkk?oc=5",
+      "asOf": "2026-11-14T05:30:22+00:00"
     },
     {
-      "title": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5",
-      "asOf": "2026-11-14T03:35:09+00:00"
-    },
-    {
-      "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
-      "asOf": "2026-11-14T03:11:10+00:00"
+      "title": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUjNRbE51QmNnbmM0UURoWC1KQVR2NXNwZ00xQXk4ZUFHck1OUUNzSzdPZU41QmxiczhzVmk1Y0FsaE1NVEdfYXNZbE1YTFlTc3ctaGs0RzE2NW1Sd3dNV0syOFN3SVdPd045UjBzYlctME92N0liZE9iNEVKMUU?oc=5",
+      "asOf": "2026-11-14T05:11:19+00:00"
     }
   ],
   "events": [
+    {
+      "event": "刚刚，新版国家医保药品目录发布！",
+      "originalTitle": "刚刚，新版国家医保药品目录发布！",
+      "published": "2026-11-14T12:08:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828570",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "本周，英伟达市值蒸发逾3.8万亿元",
+      "originalTitle": "本周，英伟达市值蒸发逾3.8万亿元",
+      "published": "2026-11-14T11:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828561",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "3D打印拉动需求，这一材料迎多轮涨价",
+      "originalTitle": "3D打印拉动需求，这一材料迎多轮涨价",
+      "published": "2026-11-14T11:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828560",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "AI短剧概念持续上扬 机构建议聚焦四条主线",
       "originalTitle": "AI短剧概念持续上扬 机构建议聚焦四条主线",
       "published": "2026-11-14T09:04:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/828553",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "originalTitle": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "published": "2026-11-14T09:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828549",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828549",
-        "retrievedAt": "2026-11-14T11:56:33.955047+08:00",
-        "sha256": "30adee79485615199c6dbe413b135977aceefcac0ba1dd9171c059185e22f989",
-        "paragraphCount": 14,
-        "excerpt": "11月11日晚间，珠免集团公告称，公司筹划以发行股份及支付现金的方式购买珠海市免税企业集团有限公司（下称“免税公司”）49%股权，并募集配套资金。此次交易完成后，免税公司将成为上市公司全资子公司。珠免集团股票自11月12日开市起停牌，预计停"
-      }
-    },
-    {
-      "event": "ETF新款呼之欲出 中证A500产品系列迎扩容",
-      "originalTitle": "ETF新款呼之欲出 中证A500产品系列迎扩容",
-      "published": "2026-11-14T09:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828543",
       "evidenceLevel": "headline-only"
     },
     {
@@ -506,11 +506,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
       "published": "2026-11-14T08:33:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828536",
+      "url": "https://www.cnstock.com/commonDetail/828537",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,36 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
       "published": "2026-11-14T08:33:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828537",
+      "url": "https://www.cnstock.com/commonDetail/828536",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
-      "published": "2026-11-14T03:35:14+00:00",
+      "event": "一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释 - 新华网",
+      "published": "2026-11-14T05:30:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWalFnSGVEa09hMG5XNF9mSXBINXozSDVmenlmTUFrRnZBZUJLQzlGaVR0aXlqQ0hTNTBocllidW9ZbC1PMGNiQ1MzaUZ2eUh4OGFHa3E4TElBby05RWJzUWdnOGxYb0RWeV9CMFJoRVROWXNNV1ZQS2tjMS1mdkk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网"
+      "originalTitle": "一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释 - 新华网"
     },
     {
-      "event": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
-      "published": "2026-11-14T03:35:09+00:00",
+      "event": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 新华网",
+      "published": "2026-11-14T05:11:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUjNRbE51QmNnbmM0UURoWC1KQVR2NXNwZ00xQXk4ZUFHck1OUUNzSzdPZU41QmxiczhzVmk1Y0FsaE1NVEdfYXNZbE1YTFlTc3ctaGs0RzE2NW1Sd3dNV0syOFN3SVdPd045UjBzYlctME92N0liZE9iNEVKMUU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网"
-    },
-    {
-      "event": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
-      "published": "2026-11-14T03:11:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网"
+      "originalTitle": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 新华网"
     }
   ],
   "quality": {
@@ -565,6 +557,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
