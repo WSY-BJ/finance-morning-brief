@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 10:40",
+  "date": "更新于北京时间 2026-11-14 11:27",
   "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T10:40:49+08:00",
+  "updatedAt": "2026-11-14T11:27:00+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -181,12 +181,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月13日，A股市场延续震荡调整，沪指在红利资产支撑下相对抗跌。截至收盘，上证指数报3634.35点，跌0.59%；深证成指报10968.79点，跌2.05%；创业板指报2426.08点，跌3.32%；科创综指报1516.41点，跌2.7"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828553"
             }
           ]
@@ -197,12 +196,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：临近年末，ETF市场将再“上新”。上海证券报记者从市场人士处获悉，首批中证A500成长ETF即将上报，上报的公募基金公司包括华夏基金、易方达基金等6家，产品有望在年底前获批。此举也意味着中证A500 ETF系列产品迎来进一步扩容。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828543"
             }
           ]
@@ -239,21 +237,6 @@
         },
         {
           "type": "explainer",
-          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828536"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "稳市活水持续涌入 着力增强A股内在稳定性",
           "summary": "",
           "paragraphs": [
@@ -264,6 +247,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828537"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828536"
             }
           ]
         },
@@ -284,46 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
+          "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T02:28:00+00:00；来源：新华网。",
+            "发布时间：2026-11-14T03:11:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美航空局解除全国航班停飞令 - 新华网",
+          "title": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T02:22:12+00:00；来源：新华网。",
+            "发布时间：2026-11-14T02:43:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
+          "title": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T02:08:13+00:00；来源：新华网。",
+            "发布时间：2026-11-14T02:39:06+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5"
             }
           ]
         }
@@ -386,9 +384,9 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-12"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -396,9 +394,9 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-13"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -406,9 +404,9 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-12"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-13"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -436,13 +434,13 @@
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "url": "https://www.cnstock.com/commonDetail/828536",
+      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/828537",
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/828537",
+      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "url": "https://www.cnstock.com/commonDetail/828536",
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
@@ -451,19 +449,19 @@
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5",
-      "asOf": "2026-11-14T02:28:00+00:00"
+      "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
+      "asOf": "2026-11-14T03:11:10+00:00"
     },
     {
-      "title": "美航空局解除全国航班停飞令 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5",
-      "asOf": "2026-11-14T02:22:12+00:00"
+      "title": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5",
+      "asOf": "2026-11-14T02:43:26+00:00"
     },
     {
-      "title": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5",
-      "asOf": "2026-11-14T02:08:13+00:00"
+      "title": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5",
+      "asOf": "2026-11-14T02:39:06+00:00"
     }
   ],
   "events": [
@@ -473,14 +471,7 @@
       "published": "2026-11-14T09:04:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/828553",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828553",
-        "retrievedAt": "2026-11-14T10:40:49.021927+08:00",
-        "sha256": "0a00e72fc787493b09e3dba40a168fc12fbd2b53be9b53d2da923949bc4fab19",
-        "paragraphCount": 8,
-        "excerpt": "11月13日，A股市场延续震荡调整，沪指在红利资产支撑下相对抗跌。截至收盘，上证指数报3634.35点，跌0.59%；深证成指报10968.79点，跌2.05%；创业板指报2426.08点，跌3.32%；科创综指报1516.41点，跌2.7"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "ETF新款呼之欲出 中证A500产品系列迎扩容",
@@ -488,14 +479,7 @@
       "published": "2026-11-14T09:04:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/828543",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828543",
-        "retrievedAt": "2026-11-14T10:40:49.021927+08:00",
-        "sha256": "df997498e192d6abf4f6e6887963d7897a6d78ad030a389417b467c7bc1409bd",
-        "paragraphCount": 4,
-        "excerpt": "临近年末，ETF市场将再“上新”。上海证券报记者从市场人士处获悉，首批中证A500成长ETF即将上报，上报的公募基金公司包括华夏基金、易方达基金等6家，产品有望在年底前获批。此举也意味着中证A500 ETF系列产品迎来进一步扩容。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
@@ -514,19 +498,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828536",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "稳市活水持续涌入 着力增强A股内在稳定性",
       "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
       "published": "2026-11-14T08:33:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/828537",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828536",
       "evidenceLevel": "headline-only"
     },
     {
@@ -538,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
-      "published": "2026-11-14T02:28:00+00:00",
+      "event": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
+      "published": "2026-11-14T03:11:10+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网"
+      "originalTitle": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网"
     },
     {
-      "event": "美航空局解除全国航班停飞令 - 新华网",
-      "published": "2026-11-14T02:22:12+00:00",
+      "event": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
+      "published": "2026-11-14T02:43:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美航空局解除全国航班停飞令 - 新华网"
+      "originalTitle": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网"
     },
     {
-      "event": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
-      "published": "2026-11-14T02:08:13+00:00",
+      "event": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
+      "published": "2026-11-14T02:39:06+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网"
+      "originalTitle": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网"
     }
   ],
   "quality": {
@@ -573,6 +557,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
