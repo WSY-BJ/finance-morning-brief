@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-13",
-  "date": "更新于北京时间 2026-11-13 20:14",
-  "reportDate": "2026-11-13",
-  "updatedAt": "2026-11-13T20:14:04+08:00",
+  "edition": "财经晨报 · 2026-11-14",
+  "date": "更新于北京时间 2026-11-14 09:25",
+  "reportDate": "2026-11-14",
+  "updatedAt": "2026-11-14T09:25:43+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-13 财经资料（待核验）",
+    "title": "2026-11-14 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -19,18 +19,6 @@
       "title": "今天最重要的市场主线",
       "lead": "",
       "blocks": [
-        {
-          "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
         {
           "type": "explainer",
           "title": "Brent 原油现货",
@@ -45,8 +33,20 @@
         },
         {
           "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-10：4.98 %；较 2026-11-09 变化 +0.10 个百分点。",
+          "summary": "2026-11-12：5.10 %；较 2026-11-10 变化 +0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,9 +80,9 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.73 %；变化 +0.17 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.56（2026-11-09）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,9 +94,9 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.98 %；变化 +0.10 个百分点",
+          "summary": "5.10 %；变化 +0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-10；前值 4.88（2026-11-09）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-12；前值 4.98（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6703 人民币/美元；变化 +0.0000 人民币/美元",
+          "summary": "6.6704 人民币/美元；变化 +0.0001 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-12；前值 6.6703（2026-11-11）；来源：Yahoo Finance。"
+            "观测日 2026-11-13；前值 6.6703（2026-11-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,155 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中国海诚：全资子公司签订英国1.57亿英镑垃圾能源化EPC合同",
+          "title": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T17:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月13日晚间，中国海诚发布公告称，公司全资子公司中国轻工业广州工程有限公司（以下简称“广州公司”）于2026年11月13日与英国项目业主签订《英国霍顿梅恩20MWe垃圾能源化项目EPC总承包合同》，合同总价款约1.57亿英镑。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828167"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "合盛硅业：控股股东一致行动人罗燚质押350万股公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T17:46:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月13日晚间，合盛硅业发布公告称，公司控股股东宁波合盛集团有限公司（以下简称“合盛集团”）一致行动人罗燚持有公司股份约1.92亿股，占公司总股本16.28%。罗燚本次质押公司股份350.00万股，为非限售股、非补充质押，质押起"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828166"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "豫园股份：股东复地投资解押1379万股、质押1049万股公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T17:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月13日晚间，豫园股份发布公告称，公司控股股东上海复星高科技（集团）有限公司（以下简称“复星高科技”）下属上海复地投资管理有限公司（以下简称“复地投资”）持有公司股份约10.23亿股，占公司总股本26.30%。公司于2026年"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828165"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "10月高频数据折射中国经济稳中向好态势",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T11:29:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/828086"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国海警三都舰结束对马来西亚的访问 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-13T11:20:18+00:00；来源：新华网。",
+            "发布时间：2026-11-14T01:17:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5laVZaYXlTOHJrY09idlpUdXNMNHhVaDMwa2Fvd2Vhc185c3pyUnRPbnZPc0tKOExYQnk2VjAtbDZhTUoxeHd3NmdSeUZkTllNTTBmUWhtUUl3c0dFdnQ0cmlSb0gzbW9JUXg5dE9GT1BjVXFxYW5lRWhsRVVxZE0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
+          "title": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T11:08:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-14T01:07:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828082"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "横琴口岸出入境车辆年度首次突破400万辆次 - 新华网",
+          "title": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T11:07:34+00:00；来源：新华网。",
+            "发布时间：2026-11-14T01:00:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SXBYOUg2M2VkWFBuTWNpWHMwMXN3TGViQS1GYU1JdWkyLUtJWFVPdVp1aDNCalJoWUpxTUVQNG1MVTU0N1BmTnZ2MlItcmxzTFhRN09naG9ieTI1OGlXWEhPQktSNDBoQm84d0dGcFJxWEpkVmFOWGZJeTJNaUU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "刘琮睿、崔圣雨将担任达喀尔青奥会闭幕式中国代表团旗手 - 新华网",
+          "title": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T10:49:46+00:00；来源：新华网。",
+            "发布时间：2026-11-14T00:56:04+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdllERWNMZlZEcFRBaDlNX2gweXhmM2JqS1UtXzlKQUYySVZySGNHQ3hDYU1DNnE4RXZORDFqSEdDam5Ka2pTa1dKTVR3UkprOGhZN0dwVjFoREZuOVJ4X09BWDhMaUEzWTJ5Y3BISUdWWHQyWWR2QnZGVDE5M2JHZg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "西藏日喀则：增收新路在高原延伸 - 新华网",
+          "title": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T10:22:53+00:00；来源：新华网。",
+            "发布时间：2026-11-14T00:43:30+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdzU5QVAyMVFxb3ZNR01qUWpETHZDbV9KTS1IUG9aejZCczhldzNudFNVR2NxVmpDdEJScTBETzFyZTkxdHM1Smg4ODVNdXJzU2V1UTk2X28ySC1FWnlWdVk4ek1pVDdUeHAtZTNwSmpUelJiSm5N?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“十五五”我国将提升粮食产业发展质量效益 - 新华网",
+          "title": "从“红灯停表”看算法向善 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-13T10:21:50+00:00；来源：新华网。",
+            "发布时间：2026-11-14T00:40:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2Z6aWhGZVlHRzk1VjBYVlFfVUdJcnpvblhhQlBkN3BXY3k1b2lzcXBvZW1mSXRsbHdRRTd0ZjQ5YWtkZU9GTGRON3ZtS29KclVEVnpkR2xTSktmTUNkSVlFR09scFVQWHJLNXJTQW1TN05GdVJhNVF2M0JnWkZaQUktRQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美媒称全美航班停飞调查指向软件更新 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T00:29:53+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T00:27:45+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T00:24:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T00:19:52+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5"
             }
           ]
         }
@@ -349,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 36 课：情景分析",
+      "title": "第 37 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -383,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-11"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-12"
     },
     {
@@ -400,182 +396,154 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-12"
-    },
-    {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-10"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-12"
     },
     {
-      "title": "中国海诚：全资子公司签订英国1.57亿英镑垃圾能源化EPC合同",
-      "url": "https://www.cnstock.com/commonDetail/828167",
-      "asOf": "2026-11-13T17:46:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-12"
     },
     {
-      "title": "合盛硅业：控股股东一致行动人罗燚质押350万股公司股份",
-      "url": "https://www.cnstock.com/commonDetail/828166",
-      "asOf": "2026-11-13T17:46:00+08:00"
+      "title": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5",
+      "asOf": "2026-11-14T01:17:49+00:00"
     },
     {
-      "title": "豫园股份：股东复地投资解押1379万股、质押1049万股公司股份",
-      "url": "https://www.cnstock.com/commonDetail/828165",
-      "asOf": "2026-11-13T17:45:00+08:00"
+      "title": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5",
+      "asOf": "2026-11-14T01:07:21+00:00"
     },
     {
-      "title": "10月高频数据折射中国经济稳中向好态势",
-      "url": "https://www.cnstock.com/commonDetail/828086",
-      "asOf": "2026-11-13T11:29:00+08:00"
+      "title": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5",
+      "asOf": "2026-11-14T01:00:00+00:00"
     },
     {
-      "title": "中国海警三都舰结束对马来西亚的访问 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5laVZaYXlTOHJrY09idlpUdXNMNHhVaDMwa2Fvd2Vhc185c3pyUnRPbnZPc0tKOExYQnk2VjAtbDZhTUoxeHd3NmdSeUZkTllNTTBmUWhtUUl3c0dFdnQ0cmlSb0gzbW9JUXg5dE9GT1BjVXFxYW5lRWhsRVVxZE0?oc=5",
-      "asOf": "2026-11-13T11:20:18+00:00"
+      "title": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5",
+      "asOf": "2026-11-14T00:56:04+00:00"
     },
     {
-      "title": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "url": "https://www.cnstock.com/commonDetail/828082",
-      "asOf": "2026-11-13T11:08:00+08:00"
+      "title": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5",
+      "asOf": "2026-11-14T00:43:30+00:00"
     },
     {
-      "title": "横琴口岸出入境车辆年度首次突破400万辆次 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SXBYOUg2M2VkWFBuTWNpWHMwMXN3TGViQS1GYU1JdWkyLUtJWFVPdVp1aDNCalJoWUpxTUVQNG1MVTU0N1BmTnZ2MlItcmxzTFhRN09naG9ieTI1OGlXWEhPQktSNDBoQm84d0dGcFJxWEpkVmFOWGZJeTJNaUU?oc=5",
-      "asOf": "2026-11-13T11:07:34+00:00"
+      "title": "从“红灯停表”看算法向善 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5",
+      "asOf": "2026-11-14T00:40:03+00:00"
     },
     {
-      "title": "刘琮睿、崔圣雨将担任达喀尔青奥会闭幕式中国代表团旗手 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdllERWNMZlZEcFRBaDlNX2gweXhmM2JqS1UtXzlKQUYySVZySGNHQ3hDYU1DNnE4RXZORDFqSEdDam5Ka2pTa1dKTVR3UkprOGhZN0dwVjFoREZuOVJ4X09BWDhMaUEzWTJ5Y3BISUdWWHQyWWR2QnZGVDE5M2JHZg?oc=5",
-      "asOf": "2026-11-13T10:49:46+00:00"
+      "title": "美媒称全美航班停飞调查指向软件更新 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5",
+      "asOf": "2026-11-14T00:29:53+00:00"
     },
     {
-      "title": "西藏日喀则：增收新路在高原延伸 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdzU5QVAyMVFxb3ZNR01qUWpETHZDbV9KTS1IUG9aejZCczhldzNudFNVR2NxVmpDdEJScTBETzFyZTkxdHM1Smg4ODVNdXJzU2V1UTk2X28ySC1FWnlWdVk4ek1pVDdUeHAtZTNwSmpUelJiSm5N?oc=5",
-      "asOf": "2026-11-13T10:22:53+00:00"
+      "title": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5",
+      "asOf": "2026-11-14T00:27:45+00:00"
     },
     {
-      "title": "“十五五”我国将提升粮食产业发展质量效益 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2Z6aWhGZVlHRzk1VjBYVlFfVUdJcnpvblhhQlBkN3BXY3k1b2lzcXBvZW1mSXRsbHdRRTd0ZjQ5YWtkZU9GTGRON3ZtS29KclVEVnpkR2xTSktmTUNkSVlFR09scFVQWHJLNXJTQW1TN05GdVJhNVF2M0JnWkZaQUktRQ?oc=5",
-      "asOf": "2026-11-13T10:21:50+00:00"
+      "title": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5",
+      "asOf": "2026-11-14T00:24:37+00:00"
+    },
+    {
+      "title": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5",
+      "asOf": "2026-11-14T00:19:52+00:00"
     }
   ],
   "events": [
     {
-      "event": "中国海诚：全资子公司签订英国1.57亿英镑垃圾能源化EPC合同",
-      "originalTitle": "中国海诚：全资子公司签订英国1.57亿英镑垃圾能源化EPC合同",
-      "published": "2026-11-13T17:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828167",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828167",
-        "retrievedAt": "2026-11-13T20:14:04.249806+08:00",
-        "sha256": "17ffe4061aaebaa0c915be5b36e55bc2f586313a6fce19a83844768727526068",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月13日晚间，中国海诚发布公告称，公司全资子公司中国轻工业广州工程有限公司（以下简称“广州公司”）于2026年11月13日与英国项目业主签订《英国霍顿梅恩20MWe垃圾能源化项目EPC总承包合同》，合同总价款约1.57亿英镑。"
-      }
-    },
-    {
-      "event": "合盛硅业：控股股东一致行动人罗燚质押350万股公司股份",
-      "originalTitle": "合盛硅业：控股股东一致行动人罗燚质押350万股公司股份",
-      "published": "2026-11-13T17:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828166",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828166",
-        "retrievedAt": "2026-11-13T20:14:04.249806+08:00",
-        "sha256": "cef51e6041348acfa82c02c01b15e3f66cb70114514c2289f6b556574d74df8b",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月13日晚间，合盛硅业发布公告称，公司控股股东宁波合盛集团有限公司（以下简称“合盛集团”）一致行动人罗燚持有公司股份约1.92亿股，占公司总股本16.28%。罗燚本次质押公司股份350.00万股，为非限售股、非补充质押，质押起"
-      }
-    },
-    {
-      "event": "豫园股份：股东复地投资解押1379万股、质押1049万股公司股份",
-      "originalTitle": "豫园股份：股东复地投资解押1379万股、质押1049万股公司股份",
-      "published": "2026-11-13T17:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828165",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828165",
-        "retrievedAt": "2026-11-13T20:14:04.249806+08:00",
-        "sha256": "71bf8d64b447a403b0c19a8add146ad32be83d7a338d02647a30e141f978bc90",
-        "paragraphCount": 2,
-        "excerpt": "上证智讯 11月13日晚间，豫园股份发布公告称，公司控股股东上海复星高科技（集团）有限公司（以下简称“复星高科技”）下属上海复地投资管理有限公司（以下简称“复地投资”）持有公司股份约10.23亿股，占公司总股本26.30%。公司于2026年"
-      }
-    },
-    {
-      "event": "10月高频数据折射中国经济稳中向好态势",
-      "originalTitle": "10月高频数据折射中国经济稳中向好态势",
-      "published": "2026-11-13T11:29:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/828086",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828086",
-        "retrievedAt": "2026-11-13T20:14:04.249806+08:00",
-        "sha256": "b588bcde8482860860f8bc7f359860d4eaebf7fe6740b70d3c853228dbda6a0a",
-        "paragraphCount": 6,
-        "excerpt": "新华社北京11月13日电（记者 潘洁）记者13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。"
-      }
-    },
-    {
-      "event": "中国海警三都舰结束对马来西亚的访问 - 新华网",
-      "published": "2026-11-13T11:20:18+00:00",
+      "event": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
+      "published": "2026-11-14T01:17:49+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5laVZaYXlTOHJrY09idlpUdXNMNHhVaDMwa2Fvd2Vhc185c3pyUnRPbnZPc0tKOExYQnk2VjAtbDZhTUoxeHd3NmdSeUZkTllNTTBmUWhtUUl3c0dFdnQ0cmlSb0gzbW9JUXg5dE9GT1BjVXFxYW5lRWhsRVVxZE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国海警三都舰结束对马来西亚的访问 - 新华网"
+      "originalTitle": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网"
     },
     {
-      "event": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "originalTitle": "中芯国际赵海军：AI配套芯片旺盛需求推动第三季度业绩增长超出指引上限",
-      "published": "2026-11-13T11:08:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828082",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "横琴口岸出入境车辆年度首次突破400万辆次 - 新华网",
-      "published": "2026-11-13T11:07:34+00:00",
+      "event": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
+      "published": "2026-11-14T01:07:21+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SXBYOUg2M2VkWFBuTWNpWHMwMXN3TGViQS1GYU1JdWkyLUtJWFVPdVp1aDNCalJoWUpxTUVQNG1MVTU0N1BmTnZ2MlItcmxzTFhRN09naG9ieTI1OGlXWEhPQktSNDBoQm84d0dGcFJxWEpkVmFOWGZJeTJNaUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "横琴口岸出入境车辆年度首次突破400万辆次 - 新华网"
+      "originalTitle": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网"
     },
     {
-      "event": "刘琮睿、崔圣雨将担任达喀尔青奥会闭幕式中国代表团旗手 - 新华网",
-      "published": "2026-11-13T10:49:46+00:00",
+      "event": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
+      "published": "2026-11-14T01:00:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdllERWNMZlZEcFRBaDlNX2gweXhmM2JqS1UtXzlKQUYySVZySGNHQ3hDYU1DNnE4RXZORDFqSEdDam5Ka2pTa1dKTVR3UkprOGhZN0dwVjFoREZuOVJ4X09BWDhMaUEzWTJ5Y3BISUdWWHQyWWR2QnZGVDE5M2JHZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "刘琮睿、崔圣雨将担任达喀尔青奥会闭幕式中国代表团旗手 - 新华网"
+      "originalTitle": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网"
     },
     {
-      "event": "西藏日喀则：增收新路在高原延伸 - 新华网",
-      "published": "2026-11-13T10:22:53+00:00",
+      "event": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
+      "published": "2026-11-14T00:56:04+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdzU5QVAyMVFxb3ZNR01qUWpETHZDbV9KTS1IUG9aejZCczhldzNudFNVR2NxVmpDdEJScTBETzFyZTkxdHM1Smg4ODVNdXJzU2V1UTk2X28ySC1FWnlWdVk4ek1pVDdUeHAtZTNwSmpUelJiSm5N?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "西藏日喀则：增收新路在高原延伸 - 新华网"
+      "originalTitle": "特朗普说美空管系统故障与网络攻击无关 - 新华网"
     },
     {
-      "event": "“十五五”我国将提升粮食产业发展质量效益 - 新华网",
-      "published": "2026-11-13T10:21:50+00:00",
+      "event": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
+      "published": "2026-11-14T00:43:30+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2Z6aWhGZVlHRzk1VjBYVlFfVUdJcnpvblhhQlBkN3BXY3k1b2lzcXBvZW1mSXRsbHdRRTd0ZjQ5YWtkZU9GTGRON3ZtS29KclVEVnpkR2xTSktmTUNkSVlFR09scFVQWHJLNXJTQW1TN05GdVJhNVF2M0JnWkZaQUktRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“十五五”我国将提升粮食产业发展质量效益 - 新华网"
+      "originalTitle": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网"
+    },
+    {
+      "event": "从“红灯停表”看算法向善 - 新华网",
+      "published": "2026-11-14T00:40:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从“红灯停表”看算法向善 - 新华网"
+    },
+    {
+      "event": "美媒称全美航班停飞调查指向软件更新 - 新华网",
+      "published": "2026-11-14T00:29:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "美媒称全美航班停飞调查指向软件更新 - 新华网"
+    },
+    {
+      "event": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
+      "published": "2026-11-14T00:27:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网"
+    },
+    {
+      "event": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
+      "published": "2026-11-14T00:24:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "西部影像志｜高原女兵，铿锵绽放 - 新华网"
+    },
+    {
+      "event": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
+      "published": "2026-11-14T00:19:52+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网"
     }
   ],
   "quality": {
@@ -589,7 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
