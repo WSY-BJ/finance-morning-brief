@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 09:25",
+  "date": "更新于北京时间 2026-11-14 10:40",
   "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T09:25:43+08:00",
+  "updatedAt": "2026-11-14T10:40:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-12：7,592.40 点；较 2026-11-11 变化 -26.98 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -177,151 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
+          "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T01:17:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月13日，A股市场延续震荡调整，沪指在红利资产支撑下相对抗跌。截至收盘，上证指数报3634.35点，跌0.59%；深证成指报10968.79点，跌2.05%；创业板指报2426.08点，跌3.32%；科创综指报1516.41点，跌2.7"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828553"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
+          "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T01:07:21+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：临近年末，ETF市场将再“上新”。上海证券报记者从市场人士处获悉，首批中证A500成长ETF即将上报，上报的公募基金公司包括华夏基金、易方达基金等6家，产品有望在年底前获批。此举也意味着中证A500 ETF系列产品迎来进一步扩容。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828543"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
+          "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T01:00:00+00:00；来源：新华网。",
+            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828549"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
+          "title": "从中国制造到中国智造 上市公司共探出海新路径",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:56:04+00:00；来源：新华网。",
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828540"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
+          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:43:30+00:00；来源：新华网。",
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828536"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从“红灯停表”看算法向善 - 新华网",
+          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:40:03+00:00；来源：新华网。",
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828537"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美媒称全美航班停飞调查指向软件更新 - 新华网",
+          "title": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:29:53+00:00；来源：新华网。",
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828541"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
+          "title": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:27:45+00:00；来源：新华网。",
+            "发布时间：2026-11-14T02:28:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
+          "title": "美航空局解除全国航班停飞令 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:24:37+00:00；来源：新华网。",
+            "发布时间：2026-11-14T02:22:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
+          "title": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T00:19:52+00:00；来源：新华网。",
+            "发布时间：2026-11-14T02:08:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5"
             }
           ]
         }
@@ -379,18 +381,8 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-12"
     },
     {
@@ -399,8 +391,23 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-11"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-12"
     },
     {
@@ -409,141 +416,150 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-12"
+      "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
+      "url": "https://www.cnstock.com/commonDetail/828553",
+      "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5",
-      "asOf": "2026-11-14T01:17:49+00:00"
+      "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
+      "url": "https://www.cnstock.com/commonDetail/828543",
+      "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5",
-      "asOf": "2026-11-14T01:07:21+00:00"
+      "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+      "url": "https://www.cnstock.com/commonDetail/828549",
+      "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5",
-      "asOf": "2026-11-14T01:00:00+00:00"
+      "title": "从中国制造到中国智造 上市公司共探出海新路径",
+      "url": "https://www.cnstock.com/commonDetail/828540",
+      "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5",
-      "asOf": "2026-11-14T00:56:04+00:00"
+      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "url": "https://www.cnstock.com/commonDetail/828536",
+      "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5",
-      "asOf": "2026-11-14T00:43:30+00:00"
+      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/828537",
+      "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "从“红灯停表”看算法向善 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5",
-      "asOf": "2026-11-14T00:40:03+00:00"
+      "title": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
+      "url": "https://www.cnstock.com/commonDetail/828541",
+      "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
-      "title": "美媒称全美航班停飞调查指向软件更新 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5",
-      "asOf": "2026-11-14T00:29:53+00:00"
+      "title": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5",
+      "asOf": "2026-11-14T02:28:00+00:00"
     },
     {
-      "title": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5",
-      "asOf": "2026-11-14T00:27:45+00:00"
+      "title": "美航空局解除全国航班停飞令 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5",
+      "asOf": "2026-11-14T02:22:12+00:00"
     },
     {
-      "title": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5",
-      "asOf": "2026-11-14T00:24:37+00:00"
-    },
-    {
-      "title": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5",
-      "asOf": "2026-11-14T00:19:52+00:00"
+      "title": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5",
+      "asOf": "2026-11-14T02:08:13+00:00"
     }
   ],
   "events": [
     {
-      "event": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网",
-      "published": "2026-11-14T01:17:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE9hYmVMZkg2VmhDbzQ5UnBxVFhHbTh6ZWZwVmZjR1JJSkhLaV9ENXFEaEppODY5YlJaRUVmYjBkcEhxMzljZUlzaEdaUGZkdGpGZE1SdDEwdkxmWDFVX0MzR2dhTVUwalg4Um9hMHZWVGVwVHlRX1Y1bER1M2M?oc=5",
+      "event": "AI短剧概念持续上扬 机构建议聚焦四条主线",
+      "originalTitle": "AI短剧概念持续上扬 机构建议聚焦四条主线",
+      "published": "2026-11-14T09:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828553",
       "evidenceLevel": "headline-only",
-      "originalTitle": "进出美国及美国内已有近1.5万架次航班延误或取消 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828553",
+        "retrievedAt": "2026-11-14T10:40:49.021927+08:00",
+        "sha256": "0a00e72fc787493b09e3dba40a168fc12fbd2b53be9b53d2da923949bc4fab19",
+        "paragraphCount": 8,
+        "excerpt": "11月13日，A股市场延续震荡调整，沪指在红利资产支撑下相对抗跌。截至收盘，上证指数报3634.35点，跌0.59%；深证成指报10968.79点，跌2.05%；创业板指报2426.08点，跌3.32%；科创综指报1516.41点，跌2.7"
+      }
     },
     {
-      "event": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网",
-      "published": "2026-11-14T01:07:21+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10RGdmdEpYSHF1QnR5NGVSR2F1T1hYRFZ3LVdDOWk5WTl5bS1nbzlWM3ZGWmI5UzRuaWFwMVBZakMzTnppTXhTWkhpakRwZnlMaU1xYjVENFZDTmFNdFFGLTgxS0xJcXVBdHRlSGxNNUIwaFRvSkFVMzFiME9XaTQ?oc=5",
+      "event": "ETF新款呼之欲出 中证A500产品系列迎扩容",
+      "originalTitle": "ETF新款呼之欲出 中证A500产品系列迎扩容",
+      "published": "2026-11-14T09:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828543",
       "evidenceLevel": "headline-only",
-      "originalTitle": "巴新总督向第15批援巴新中国医疗队授荣誉徽章 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828543",
+        "retrievedAt": "2026-11-14T10:40:49.021927+08:00",
+        "sha256": "df997498e192d6abf4f6e6887963d7897a6d78ad030a389417b467c7bc1409bd",
+        "paragraphCount": 4,
+        "excerpt": "临近年末，ETF市场将再“上新”。上海证券报记者从市场人士处获悉，首批中证A500成长ETF即将上报，上报的公募基金公司包括华夏基金、易方达基金等6家，产品有望在年底前获批。此举也意味着中证A500 ETF系列产品迎来进一步扩容。"
+      }
     },
     {
-      "event": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网",
-      "published": "2026-11-14T01:00:00+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVNXT2hsTU9ncHpHTURYRG54cUItX0VDUG9DT1dyNmlYcmhJaDBTelpuWmxyTnpaSExBX1ZVZC1ldThoRXFwUDZqdzFnRmFFUXBvN2UwR19JX3RUdkoxYUZtTFpFMFcwMjRFRTg1ek52QThzbWppTjlwaTY1cW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "联合国糖尿病日丨张雪莲：糖尿病年轻化趋势明显，早筛早干预是关键 - 新华网"
+      "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+      "originalTitle": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+      "published": "2026-11-14T09:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828549",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "特朗普说美空管系统故障与网络攻击无关 - 新华网",
-      "published": "2026-11-14T00:56:04+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11LVdNckRHR3I1SkdvOGZ6OWFrNGpPNmtlVHZWYzJfTWtJdG1VMlV1UnNYODZ2dVU0ejcwamp4WU1HdjNxb3BXaGVBTzY0YW1EQXJoRzFYaUpZRmtOV2JMUExsTE5QRjVSLWJWdFRldlRISVBZUnEwbWlEb180TGs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普说美空管系统故障与网络攻击无关 - 新华网"
+      "event": "从中国制造到中国智造 上市公司共探出海新路径",
+      "originalTitle": "从中国制造到中国智造 上市公司共探出海新路径",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828540",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网",
-      "published": "2026-11-14T00:43:30+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMF9JeGxVd1gzcmxTOFliNzY0TFczSVJiSThjVUdjemxXX0RBN1NsNzBsWE5KN1h0eWJJZUl3ODVxQmotN3ZVZFBEUHp5R3J4UGdYUVE5dmpUOTVZdVgxNUdrMV9lZGF0c2pBeW5qeEVXU0Jlc0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "内蒙古对5名拟提拔和进一步使用干部进行公示 - 新华网"
+      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828536",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "从“红灯停表”看算法向善 - 新华网",
-      "published": "2026-11-14T00:40:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mODNvaXZwZ2NIcWlKbWd2dUd4bGNuYTJFY3RkYk8xVlBpLWpSdnhEdFRVRG9fNzNXOEpRYVplcllBUVRfWFQwN3FwMXN3elRyMlgtUEtBX1IzM3QyNzJKSGVmRDNRbVN5YjFzLXE0SVNVbHB4ZnNF?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "从“红灯停表”看算法向善 - 新华网"
+      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828537",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "美媒称全美航班停飞调查指向软件更新 - 新华网",
-      "published": "2026-11-14T00:29:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdHBBUWJwdks5V1p2RWJ0WVYwTEx2OTZSbU03UjZjaEZkLXp4UDJYM25PTnVKS3lLSG4wTDRKS0NpVmFOWkI3YzlPbVhwcmQzTnc4cm1tQXBPZDVTdURRR3k0NlZlbzAxSlRqV245elRlVkhPcVkw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美媒称全美航班停飞调查指向软件更新 - 新华网"
+      "event": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
+      "originalTitle": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828541",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网",
-      "published": "2026-11-14T00:27:45+00:00",
+      "event": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网",
+      "published": "2026-11-14T02:28:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTFnRDNQcXB3UkxLYlRUaVpEYmRlbTZnZXBPQU1qVHloRU9EWHNWQ2ZsTk1TLV83QzV5bWYwc3dSRTNXQm8zSS01OUNuY2w2eklBYjMtUzBrWXI4LWdiSlVLTVByTlFVc1l2MEZ4SDR6dG5vWDlwSVYxcldHeEZ4Z2VWWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeFIyZUxKd1MtVGRYUERPZmFEbkVJd1Awc29iN1RudmxLMU9aNkE1N2ZoWnE4cjBlNFAzeGVZTXZsUTQtU1pmVWNVX2J4V3ZmbFNhci1wN1JXb21veVpLbXFESjNpbGFrY1BwYjVSWFdNQUU3Rk15WWRqWU1fd1U?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线 - 新华网"
+      "originalTitle": "古巴国家主席：古巴决心抵制任何外国军事侵略企图 - 新华网"
     },
     {
-      "event": "西部影像志｜高原女兵，铿锵绽放 - 新华网",
-      "published": "2026-11-14T00:24:37+00:00",
+      "event": "美航空局解除全国航班停飞令 - 新华网",
+      "published": "2026-11-14T02:22:12+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcGx1UnhtRHFnOFB2MXpzVUtWX2NnYmpvS21OYVZtUHJWdFhXQ0VNMnE3V1JHU2pIM00tNTBIQ25tT0Z2dlRLYkVPQjFkUl9OV2Z4Vmw0SFJMQnJEMTNDTkEzcDB4Q0VvWV9JWUhDWXpDd3BucS1sVHgyZFcxQU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeDdONm5Tb281QzQ0NzRXalZOSERHQ294MXUzRHlzUXZHX0plbUg2aElkWTdMNXNxSVVyYjY0eHlmOXQxUWJuM2xQQmk0SW1wUlpnemVnZExiRjEtSjdnV3VRZzhNUmI5TWV3VjBlZHBIaWpwajItb1VpMnhPYkE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "西部影像志｜高原女兵，铿锵绽放 - 新华网"
+      "originalTitle": "美航空局解除全国航班停飞令 - 新华网"
     },
     {
-      "event": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网",
-      "published": "2026-11-14T00:19:52+00:00",
+      "event": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网",
+      "published": "2026-11-14T02:08:13+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DX092dFJLU1EwTEc1UkRBbTJiMkNaOERvLTZBMXdmODBCU1EyOWd5dEU0YTBqTGpUanh5YnVwWXZZbVFNNFpzeEx1RFlMMldwRWE3V1ZBNUZROUNkbDJvcXVJVWF1LS1JZERaQ2U3dW1qSm9ud2VQSzRBc3piT3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xd0xkeUhEd0xpS0lhNWtKU0pMMEZJMF9udkhuSVUwNFRPY2tLdWN4STFQVi0tLTlwZkhLd0xYeU1jeVhpcDJKOW5vbjJBRDRtTi1HdlpNVXNwMVd4VF8wVzlwbGM3WU9EUG1uUXJNUUNOM1A4dHNz?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "欧洲航空安全组织暂停成员国赴美航班起飞 - 新华网"
+      "originalTitle": "新华社出图丨这一次，奥林匹克走进非洲 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +573,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
