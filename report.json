@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 15:35",
+  "date": "更新于北京时间 2026-11-14 19:28",
   "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T15:35:39+08:00",
+  "updatedAt": "2026-11-14T19:28:54+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-12：5.10 %；较 2026-11-10 变化 +0.12 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.10 %；变化 +0.12 个百分点",
+          "summary": "5.15 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.98（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "刚刚，新版国家医保药品目录发布！",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T12:08:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828570"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "本周，英伟达市值蒸发逾3.8万亿元",
           "summary": "",
           "paragraphs": [
@@ -207,121 +222,106 @@
         },
         {
           "type": "explainer",
-          "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
+          "title": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T10:20:20+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828553"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+          "title": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T10:16:55+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828549"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从中国制造到中国智造 上市公司共探出海新路径",
+          "title": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T10:15:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828540"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
+          "title": "两岸青年用镜头记录茶马古道光影 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T10:12:25+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828541"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+          "title": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T10:03:33+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828537"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
+          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-14T09:51:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828536"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特稿丨在COP31，读懂中国“绿色答卷” - 新华网",
+          "title": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T07:15:26+00:00；来源：新华网。",
+            "发布时间：2026-11-14T09:45:11+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYy1HRmJldGQ2MGtGMENhZVBnU1JaUzZzT29qLS1sZlBBSU9uMVZVUndTTmdKVXhzZUVaRU9uZ3RxTXNZSlBUa1U2WldpZk9FT3c0QlFmM1RYZzR6RXQ0RWxuaFdLWUpBekhMRFpfZUhfTEdkZVgwNkVFUU1lLTg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美媒：民主党人要马斯克保留涉乌“星链”限速记录 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T06:58:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSEdwNi11QnY5c0JRaHhCWTdVVFJoUlVzcV9fcU1KTUNLNUEwQ09yc2ktMGJTenlad2FHTWhueHNtdEtPamk1bThlRVhGLWM1VUtOQXAwcjZqaTdrR1lIa0NDU3A0XzdUX0Jva09Gd0hMSzAtenIxY0lvS0NGdXc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5"
             }
           ]
         }
@@ -379,6 +379,16 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-11"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-13"
@@ -389,29 +399,24 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-12"
+    },
+    {
+      "title": "刚刚，新版国家医保药品目录发布！",
+      "url": "https://www.cnstock.com/commonDetail/828570",
+      "asOf": "2026-11-14T12:08:00+08:00"
     },
     {
       "title": "本周，英伟达市值蒸发逾3.8万亿元",
@@ -424,47 +429,50 @@
       "asOf": "2026-11-14T11:25:00+08:00"
     },
     {
-      "title": "AI短剧概念持续上扬 机构建议聚焦四条主线",
-      "url": "https://www.cnstock.com/commonDetail/828553",
-      "asOf": "2026-11-14T09:04:00+08:00"
+      "title": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5",
+      "asOf": "2026-11-14T10:20:20+00:00"
     },
     {
-      "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "url": "https://www.cnstock.com/commonDetail/828549",
-      "asOf": "2026-11-14T09:04:00+08:00"
+      "title": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5",
+      "asOf": "2026-11-14T10:16:55+00:00"
     },
     {
-      "title": "从中国制造到中国智造 上市公司共探出海新路径",
-      "url": "https://www.cnstock.com/commonDetail/828540",
-      "asOf": "2026-11-14T08:33:00+08:00"
+      "title": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5",
+      "asOf": "2026-11-14T10:15:23+00:00"
     },
     {
-      "title": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
-      "url": "https://www.cnstock.com/commonDetail/828541",
-      "asOf": "2026-11-14T08:33:00+08:00"
+      "title": "两岸青年用镜头记录茶马古道光影 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5",
+      "asOf": "2026-11-14T10:12:25+00:00"
     },
     {
-      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/828537",
-      "asOf": "2026-11-14T08:33:00+08:00"
+      "title": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5",
+      "asOf": "2026-11-14T10:03:33+00:00"
     },
     {
-      "title": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "url": "https://www.cnstock.com/commonDetail/828536",
-      "asOf": "2026-11-14T08:33:00+08:00"
+      "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5",
+      "asOf": "2026-11-14T09:51:46+00:00"
     },
     {
-      "title": "特稿丨在COP31，读懂中国“绿色答卷” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYy1HRmJldGQ2MGtGMENhZVBnU1JaUzZzT29qLS1sZlBBSU9uMVZVUndTTmdKVXhzZUVaRU9uZ3RxTXNZSlBUa1U2WldpZk9FT3c0QlFmM1RYZzR6RXQ0RWxuaFdLWUpBekhMRFpfZUhfTEdkZVgwNkVFUU1lLTg?oc=5",
-      "asOf": "2026-11-14T07:15:26+00:00"
-    },
-    {
-      "title": "美媒：民主党人要马斯克保留涉乌“星链”限速记录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSEdwNi11QnY5c0JRaHhCWTdVVFJoUlVzcV9fcU1KTUNLNUEwQ09yc2ktMGJTenlad2FHTWhueHNtdEtPamk1bThlRVhGLWM1VUtOQXAwcjZqaTdrR1lIa0NDU3A0XzdUX0Jva09Gd0hMSzAtenIxY0lvS0NGdXc?oc=5",
-      "asOf": "2026-11-14T06:58:43+00:00"
+      "title": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5",
+      "asOf": "2026-11-14T09:45:11+00:00"
     }
   ],
   "events": [
+    {
+      "event": "刚刚，新版国家医保药品目录发布！",
+      "originalTitle": "刚刚，新版国家医保药品目录发布！",
+      "published": "2026-11-14T12:08:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828570",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "本周，英伟达市值蒸发逾3.8万亿元",
       "originalTitle": "本周，英伟达市值蒸发逾3.8万亿元",
@@ -482,68 +490,60 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "AI短剧概念持续上扬 机构建议聚焦四条主线",
-      "originalTitle": "AI短剧概念持续上扬 机构建议聚焦四条主线",
-      "published": "2026-11-14T09:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828553",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "originalTitle": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "published": "2026-11-14T09:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828549",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "从中国制造到中国智造 上市公司共探出海新路径",
-      "originalTitle": "从中国制造到中国智造 上市公司共探出海新路径",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828540",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
-      "originalTitle": "上证深一度|“通道”不通了 理财信托合作模式面临重构",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828541",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828537",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "originalTitle": "社会融资规模存量同比增长7.2% 人民币贷款余额同比增长4.7% 宏观政策加力 10月金融总量合理增长",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828536",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "特稿丨在COP31，读懂中国“绿色答卷” - 新华网",
-      "published": "2026-11-14T07:15:26+00:00",
+      "event": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
+      "published": "2026-11-14T10:20:20+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYy1HRmJldGQ2MGtGMENhZVBnU1JaUzZzT29qLS1sZlBBSU9uMVZVUndTTmdKVXhzZUVaRU9uZ3RxTXNZSlBUa1U2WldpZk9FT3c0QlFmM1RYZzR6RXQ0RWxuaFdLWUpBekhMRFpfZUhfTEdkZVgwNkVFUU1lLTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "特稿丨在COP31，读懂中国“绿色答卷” - 新华网"
+      "originalTitle": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网"
     },
     {
-      "event": "美媒：民主党人要马斯克保留涉乌“星链”限速记录 - 新华网",
-      "published": "2026-11-14T06:58:43+00:00",
+      "event": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
+      "published": "2026-11-14T10:16:55+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSEdwNi11QnY5c0JRaHhCWTdVVFJoUlVzcV9fcU1KTUNLNUEwQ09yc2ktMGJTenlad2FHTWhueHNtdEtPamk1bThlRVhGLWM1VUtOQXAwcjZqaTdrR1lIa0NDU3A0XzdUX0Jva09Gd0hMSzAtenIxY0lvS0NGdXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "美媒：民主党人要马斯克保留涉乌“星链”限速记录 - 新华网"
+      "originalTitle": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网"
+    },
+    {
+      "event": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
+      "published": "2026-11-14T10:15:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网"
+    },
+    {
+      "event": "两岸青年用镜头记录茶马古道光影 - 新华网",
+      "published": "2026-11-14T10:12:25+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "两岸青年用镜头记录茶马古道光影 - 新华网"
+    },
+    {
+      "event": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
+      "published": "2026-11-14T10:03:33+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第十二届世界大学女校长论坛在澳门举办 - 新华网"
+    },
+    {
+      "event": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
+      "published": "2026-11-14T09:51:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网"
+    },
+    {
+      "event": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
+      "published": "2026-11-14T09:45:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网"
     }
   ],
   "quality": {
@@ -557,11 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
