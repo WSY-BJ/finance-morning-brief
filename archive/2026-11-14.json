@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 11:27",
+  "date": "更新于北京时间 2026-11-14 11:56",
   "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T11:27:00+08:00",
+  "updatedAt": "2026-11-14T11:56:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -192,6 +192,22 @@
         },
         {
           "type": "explainer",
+          "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月11日晚间，珠免集团公告称，公司筹划以发行股份及支付现金的方式购买珠海市免税企业集团有限公司（下称“免税公司”）49%股权，并募集配套资金。此次交易完成后，免税公司将成为上市公司全资子公司。珠免集团股票自11月12日开市起停牌，预计停"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828549"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
           "summary": "",
           "paragraphs": [
@@ -207,21 +223,6 @@
         },
         {
           "type": "explainer",
-          "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T09:04:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828549"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "从中国制造到中国智造 上市公司共探出海新路径",
           "summary": "",
           "paragraphs": [
@@ -232,21 +233,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828540"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828537"
             }
           ]
         },
@@ -282,6 +268,51 @@
         },
         {
           "type": "explainer",
+          "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T08:33:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828537"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T03:35:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-14T03:35:09+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -292,36 +323,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T02:43:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-14T02:39:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5"
             }
           ]
         }
@@ -379,6 +380,11 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-12"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-12"
@@ -386,11 +392,6 @@
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-12"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-12"
     },
     {
@@ -404,13 +405,13 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-12"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-12"
     },
     {
@@ -419,23 +420,18 @@
       "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
-      "url": "https://www.cnstock.com/commonDetail/828543",
-      "asOf": "2026-11-14T09:04:00+08:00"
-    },
-    {
       "title": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
       "url": "https://www.cnstock.com/commonDetail/828549",
       "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "从中国制造到中国智造 上市公司共探出海新路径",
-      "url": "https://www.cnstock.com/commonDetail/828540",
-      "asOf": "2026-11-14T08:33:00+08:00"
+      "title": "ETF新款呼之欲出 中证A500产品系列迎扩容",
+      "url": "https://www.cnstock.com/commonDetail/828543",
+      "asOf": "2026-11-14T09:04:00+08:00"
     },
     {
-      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "url": "https://www.cnstock.com/commonDetail/828537",
+      "title": "从中国制造到中国智造 上市公司共探出海新路径",
+      "url": "https://www.cnstock.com/commonDetail/828540",
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
@@ -449,19 +445,24 @@
       "asOf": "2026-11-14T08:33:00+08:00"
     },
     {
+      "title": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "url": "https://www.cnstock.com/commonDetail/828537",
+      "asOf": "2026-11-14T08:33:00+08:00"
+    },
+    {
+      "title": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5",
+      "asOf": "2026-11-14T03:35:14+00:00"
+    },
+    {
+      "title": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5",
+      "asOf": "2026-11-14T03:35:09+00:00"
+    },
+    {
       "title": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
       "asOf": "2026-11-14T03:11:10+00:00"
-    },
-    {
-      "title": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5",
-      "asOf": "2026-11-14T02:43:26+00:00"
-    },
-    {
-      "title": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5",
-      "asOf": "2026-11-14T02:39:06+00:00"
     }
   ],
   "events": [
@@ -474,6 +475,21 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+      "originalTitle": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
+      "published": "2026-11-14T09:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828549",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828549",
+        "retrievedAt": "2026-11-14T11:56:33.955047+08:00",
+        "sha256": "30adee79485615199c6dbe413b135977aceefcac0ba1dd9171c059185e22f989",
+        "paragraphCount": 14,
+        "excerpt": "11月11日晚间，珠免集团公告称，公司筹划以发行股份及支付现金的方式购买珠海市免税企业集团有限公司（下称“免税公司”）49%股权，并募集配套资金。此次交易完成后，免税公司将成为上市公司全资子公司。珠免集团股票自11月12日开市起停牌，预计停"
+      }
+    },
+    {
       "event": "ETF新款呼之欲出 中证A500产品系列迎扩容",
       "originalTitle": "ETF新款呼之欲出 中证A500产品系列迎扩容",
       "published": "2026-11-14T09:04:00+08:00",
@@ -482,27 +498,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "originalTitle": "珠免集团推进免税资产整合 珠海国资专业化重组迎新格局",
-      "published": "2026-11-14T09:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828549",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "从中国制造到中国智造 上市公司共探出海新路径",
       "originalTitle": "从中国制造到中国智造 上市公司共探出海新路径",
       "published": "2026-11-14T08:33:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/828540",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
-      "published": "2026-11-14T08:33:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828537",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,28 +522,36 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "originalTitle": "稳市活水持续涌入 着力增强A股内在稳定性",
+      "published": "2026-11-14T08:33:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828537",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网",
+      "published": "2026-11-14T03:35:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaTNQQmVWVVJOZ2FVeTNWaTlyWEdrNmM3dzFGbGJiQjJTZHNnUkh3SjhzMUdOZFBKMmtLaTZ4aWJqay1EcTdyaDE2ei05Y3VrUVdId291ZV9fbkZCVGRzNTFyaE13c3NoN2lmcjVvZzBUNzZZLWNR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "达喀尔青奥会：中国教练助力非洲体育人才培养 - 新华网"
+    },
+    {
+      "event": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网",
+      "published": "2026-11-14T03:35:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSVR2dDVUSFZ2VHNBSnpFeldUR0FNWFVjWUxDdkltTEIxcjhXUm1SY1lkbVROaTBIbVpoWDdYU19zNzMyeFNucU5TZ29MR2VFd05iYjdDbTNtbFpURnpqOTJWTGZVZU5fVU5oSEdfMGFnSXhkMjQw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从加拉加斯到达喀尔：委内瑞拉父女的奥运武术梦，圆了 - 新华网"
+    },
+    {
       "event": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网",
       "published": "2026-11-14T03:11:10+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M1JmNDB6UU5zbWFJeU9va0tFZ0NJUEVJeEtEYy1OdlEwLWxHbnFMVnFnV1g2MV9ZTjJlbjhhc2R3bG13NHVEeXFEbERxLXFyaWMwMUxOcTdFemVBbkpDQ3dZWFBqMVdCbXVfZjdzLXJHVXhvUFY4?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "五中全会精神在基层丨浙江宁波：以高质量党建引领基层发展 - 新华网"
-    },
-    {
-      "event": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网",
-      "published": "2026-11-14T02:43:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODdTaXFGczMybG9WZHRmX3M3dXNUUTVReFNCT2d5R0YzMVNMVThiU245MDJiZTdLU2NyNFVXXzh0NS1kZHY2WGhRX3RNa2ZqQlptbGNmWjZpdnkwWF9hYzlwUURXLS1uRk5iN0lxN1BDUTlEV29fUlBxMm53STJqeEQzZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录 - 新华网"
-    },
-    {
-      "event": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网",
-      "published": "2026-11-14T02:39:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazR1MXV0LVRtM0VSTWVMUW1WUnJvRWxhcFlRb0FITmF1RlFLNG8zUXljd2VKcHFiOERLUlplZkhoUFVuT0dFNE1LLU5FZVlqQWVmRTNyU3RIYWVsUGFHNFU5RXJyZlFQajlXaC1pTUE4Q0VCMmVJaEpjQ0pYeDNBNw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "岁月与共 | 贾伟平教授谈糖尿病防控：主动健康，做自己健康的第一责任人 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +565,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
