@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-15",
-  "date": "更新于北京时间 2026-11-15 15:49",
+  "date": "更新于北京时间 2026-11-15 19:57",
   "reportDate": "2026-11-15",
-  "updatedAt": "2026-11-15T15:49:40+08:00",
+  "updatedAt": "2026-11-15T19:57:28+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -207,6 +207,21 @@
         },
         {
           "type": "explainer",
+          "title": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T11:35:15+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
           "summary": "",
           "paragraphs": [
@@ -222,106 +237,91 @@
         },
         {
           "type": "explainer",
-          "title": "AI应用升温！国产大模型抢滩“高价值”场景",
+          "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T09:42:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-15T11:11:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828625"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
+          "title": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T07:40:55+00:00；来源：新华网。",
+            "发布时间：2026-11-15T10:48:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
+          "title": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T07:36:51+00:00；来源：新华网。",
+            "发布时间：2026-11-15T10:47:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "成渝中线高铁成都站主体结构完工 - 新华网",
+          "title": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T07:32:41+00:00；来源：新华网。",
+            "发布时间：2026-11-15T10:29:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平：携手共建亚太命运共同体 - 新华网",
+          "title": "研究显示全球冰冻圈正加速退化 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T07:20:46+00:00；来源：新华网。",
+            "发布时间：2026-11-15T10:29:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
+          "title": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T07:15:38+00:00；来源：新华网。",
+            "发布时间：2026-11-15T10:16:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T07:01:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5"
             }
           ]
         }
@@ -384,11 +384,6 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-13"
@@ -399,14 +394,19 @@
       "asOf": "2026-11-13"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-13"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -424,44 +424,44 @@
       "asOf": "2026-11-15T14:07:00+08:00"
     },
     {
+      "title": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5",
+      "asOf": "2026-11-15T11:35:15+00:00"
+    },
+    {
       "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
       "url": "https://www.cnstock.com/commonDetail/828633",
       "asOf": "2026-11-15T11:12:00+08:00"
     },
     {
-      "title": "AI应用升温！国产大模型抢滩“高价值”场景",
-      "url": "https://www.cnstock.com/commonDetail/828625",
-      "asOf": "2026-11-15T09:42:00+08:00"
+      "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5",
+      "asOf": "2026-11-15T11:11:17+00:00"
     },
     {
-      "title": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5",
-      "asOf": "2026-11-15T07:40:55+00:00"
+      "title": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5",
+      "asOf": "2026-11-15T10:48:41+00:00"
     },
     {
-      "title": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5",
-      "asOf": "2026-11-15T07:36:51+00:00"
+      "title": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5",
+      "asOf": "2026-11-15T10:47:10+00:00"
     },
     {
-      "title": "成渝中线高铁成都站主体结构完工 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5",
-      "asOf": "2026-11-15T07:32:41+00:00"
+      "title": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5",
+      "asOf": "2026-11-15T10:29:18+00:00"
     },
     {
-      "title": "习近平：携手共建亚太命运共同体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5",
-      "asOf": "2026-11-15T07:20:46+00:00"
+      "title": "研究显示全球冰冻圈正加速退化 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5",
+      "asOf": "2026-11-15T10:29:18+00:00"
     },
     {
-      "title": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5",
-      "asOf": "2026-11-15T07:15:38+00:00"
-    },
-    {
-      "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5",
-      "asOf": "2026-11-15T07:01:38+00:00"
+      "title": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5",
+      "asOf": "2026-11-15T10:16:16+00:00"
     }
   ],
   "events": [
@@ -482,6 +482,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
+      "published": "2026-11-15T11:35:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "COP31“中国角”聚焦全球城市可持续发展 - 新华网"
+    },
+    {
       "event": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
       "originalTitle": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
       "published": "2026-11-15T11:12:00+08:00",
@@ -490,60 +498,52 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "AI应用升温！国产大模型抢滩“高价值”场景",
-      "originalTitle": "AI应用升温！国产大模型抢滩“高价值”场景",
-      "published": "2026-11-15T09:42:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828625",
-      "evidenceLevel": "headline-only"
+      "event": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
+      "published": "2026-11-15T11:11:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网"
     },
     {
-      "event": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
-      "published": "2026-11-15T07:40:55+00:00",
+      "event": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
+      "published": "2026-11-15T10:48:41+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网"
+      "originalTitle": "乌鲁木齐地铁2号线北段开通运营 - 新华网"
     },
     {
-      "event": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
-      "published": "2026-11-15T07:36:51+00:00",
+      "event": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
+      "published": "2026-11-15T10:47:10+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网"
+      "originalTitle": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网"
     },
     {
-      "event": "成渝中线高铁成都站主体结构完工 - 新华网",
-      "published": "2026-11-15T07:32:41+00:00",
+      "event": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
+      "published": "2026-11-15T10:29:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "成渝中线高铁成都站主体结构完工 - 新华网"
+      "originalTitle": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网"
     },
     {
-      "event": "习近平：携手共建亚太命运共同体 - 新华网",
-      "published": "2026-11-15T07:20:46+00:00",
+      "event": "研究显示全球冰冻圈正加速退化 - 新华网",
+      "published": "2026-11-15T10:29:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平：携手共建亚太命运共同体 - 新华网"
+      "originalTitle": "研究显示全球冰冻圈正加速退化 - 新华网"
     },
     {
-      "event": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
-      "published": "2026-11-15T07:15:38+00:00",
+      "event": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
+      "published": "2026-11-15T10:16:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网"
-    },
-    {
-      "event": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
-      "published": "2026-11-15T07:01:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网"
+      "originalTitle": "2025年医保目录国谈药品采购金额数量双增长 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
