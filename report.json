@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-14",
-  "date": "更新于北京时间 2026-11-14 19:28",
-  "reportDate": "2026-11-14",
-  "updatedAt": "2026-11-14T19:28:54+08:00",
+  "edition": "财经晨报 · 2026-11-15",
+  "date": "更新于北京时间 2026-11-15 09:00",
+  "reportDate": "2026-11-15",
+  "updatedAt": "2026-11-15T09:00:19+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-14 财经资料（待核验）",
+    "title": "2026-11-15 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6704 人民币/美元；变化 +0.0001 人民币/美元",
+          "summary": "6.6621 人民币/美元；变化 -0.0083 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-13；前值 6.6703（2026-11-12）；来源：Yahoo Finance。"
+            "观测日 2026-11-14；前值 6.6704（2026-11-13）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "刚刚，新版国家医保药品目录发布！",
+          "title": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T12:08:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-15T00:26:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828570"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OODJudVNHSlZMcmVuSlJiNVA5N2pxamxDcDhjZzB1bWhYbkItVFI3Y1JhWkpaeDlUakZrWW13YWFpVUFJMnhEQmZicFliSTZwdk5KcXVYT3pNUEV3STFHLUVCZktrNHVpeWlxUjBtd0dFV0U3YUNRX1paNHc2Zms?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "本周，英伟达市值蒸发逾3.8万亿元",
+          "title": "追光丨一条黄河，N种运动打开方式 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T11:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-14T23:14:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828561"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZlI1aV9pZFhzZHBhYjBfVUxFeWh3b2YwT1BNUDRLbndBMUgyNEJIbWdZVlM0QU9UZ1pwY2RZOUxUc2tNbU4zMjZHeG5qamlfcjFOVkh0QlUxOVdVdHNmVHdUWXZlbzJxZklVbmdPcW8wNk1aVHlV?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "3D打印拉动需求，这一材料迎多轮涨价",
+          "title": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T11:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-14T23:04:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828560"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zQ0VIRjVUTnV5V3JLNkUtM1V3ZEtzQ0ItTGlLX3A3NGhjbGV5Rms3WXFfbHk1dENtbUVEb0tWN0F3OVJHNG9pMkFWSm1YLVhNTi10Und5Y2xEVEtwb1BIWjlWS194eEdqc1VUMkhaZ245MF96UEJJ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
+          "title": "叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T10:20:20+00:00；来源：新华网。",
+            "发布时间：2026-11-14T23:04:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85S1ppQXlSVVJJZlVfTF9VSzZMZGpVZzAxT0ZTa1hXdjhkSkxhbGMwbURRSUU1amtwQVNLOFpJSloyODVlTjZIazZyUFRyaFEzVVRvemtCQUhXNnFYZG8zUHU2eWFNME5uMTJtbUZ5X0I1TFNhQ0oxTnEtQXpSX28?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
+          "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T10:16:55+00:00；来源：新华网。",
+            "发布时间：2026-11-14T18:55:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OXBieUZnYkhYdUNyZE1NdTIwdVZnNVQ0WGxmd0c5MFlqX24ybl8xdFphV19kVGo2WWpVb2RtU2JaVGl2VE1ydHl2ZGhFcUVET3h0MFYzLXUxYV9uUUFvVnc4TjdRWVB2NFoxNzdoUUQwT2R5RElxZmxGYUhSOFk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
+          "title": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T10:15:23+00:00；来源：新华网。",
+            "发布时间：2026-11-14T18:46:04+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY2wxS2J6VzlBZDZOdVpPUnA1cXJsQ2hjWDFKR2xBOVFxY2M2eG5YT0VzdVE4TUVGX1Y3ZjZwVnY1MTFjR3dsc0pyU21GcDdObjVyTE1ONi1KTDNLcHVLeHBWYmo1aDQzUk5zeUtDa3VrQ1JfbXk1amJPQTdaQUk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "两岸青年用镜头记录茶马古道光影 - 新华网",
+          "title": "哥伦比亚西南部一客车翻车致8人死亡 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T10:12:25+00:00；来源：新华网。",
+            "发布时间：2026-11-14T16:50:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dU1GbFppZVRlY2xzYlpjSEk5U05kcUUwZ01KY1ZOaHN3VS15NFR0LVNfTnhFQnFjR3NySjZUODgwVnBfVl9idlVqMWkyNFJrOXZuT1pjYXliRVlxdi1XLWJvUm0wVzJNNVV0TjJ1bnZ1a2g1ZUoteWt6Y2NicWc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
+          "title": "学习手记｜开放是亚太合作的生命线 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T10:03:33+00:00；来源：新华网。",
+            "发布时间：2026-11-14T16:42:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcUdfWEFOektoWElPMU0wV1o2S2VPVGx0Nm1OTHZlWGVvV0lpNlItMVo2RlBhTjNkbVFZZjRYTkJHRWk3NDZqUWt2d1pHN21DSDdZcDEwOVgteXNQd2xvSS1GcnBOMldlZkl3WjI1VEdKODgtV3Bz?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
+          "title": "李强会见泰国国王哇集拉隆功 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T09:51:46+00:00；来源：新华网。",
+            "发布时间：2026-11-14T16:32:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWXVHUHhfcXd1NHRaRERWQXluVVFWWFRPd2NuQ3pTWGtSQlVtV3labWdINE44QlpWRFotOFZkWHVaS0o4TUxGbk5qRE5YeUVGUUNsT3g3ZHR1UkYzYXVYYTBfdzByXy1PRFVGdUNiQTJuWE1uMHM4aHVzbVNiUE0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
+          "title": "在构建亚太共同体之路上携手同行——国际社会热切期待习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-14T09:45:11+00:00；来源：新华网。",
+            "发布时间：2026-11-14T15:55:28+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXM1ZXVuV2JDWGFnMjZsZ1ZXTnlvNXFYbUNYc085OENPM2pkOENrQ3E3dUx0cXIzbmVVOVQ5cHdqZUxNZjRIOGRCWkVGSDYybWhtUDhDT2pJd3ZCdzhFWVIydVk4WkdBbWRZaE5ObS03TTVfT0otU2pMeExuREVuZDlMclV0XzNjTU90Yld3?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 37 课：情景分析",
+      "title": "第 38 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-13"
     },
     {
@@ -399,9 +389,19 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-14"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-13"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-11"
     },
     {
       "title": "美国 10 年期国债收益率 · 美国财政部",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "刚刚，新版国家医保药品目录发布！",
-      "url": "https://www.cnstock.com/commonDetail/828570",
-      "asOf": "2026-11-14T12:08:00+08:00"
+      "title": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OODJudVNHSlZMcmVuSlJiNVA5N2pxamxDcDhjZzB1bWhYbkItVFI3Y1JhWkpaeDlUakZrWW13YWFpVUFJMnhEQmZicFliSTZwdk5KcXVYT3pNUEV3STFHLUVCZktrNHVpeWlxUjBtd0dFV0U3YUNRX1paNHc2Zms?oc=5",
+      "asOf": "2026-11-15T00:26:40+00:00"
     },
     {
-      "title": "本周，英伟达市值蒸发逾3.8万亿元",
-      "url": "https://www.cnstock.com/commonDetail/828561",
-      "asOf": "2026-11-14T11:25:00+08:00"
+      "title": "追光丨一条黄河，N种运动打开方式 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZlI1aV9pZFhzZHBhYjBfVUxFeWh3b2YwT1BNUDRLbndBMUgyNEJIbWdZVlM0QU9UZ1pwY2RZOUxUc2tNbU4zMjZHeG5qamlfcjFOVkh0QlUxOVdVdHNmVHdUWXZlbzJxZklVbmdPcW8wNk1aVHlV?oc=5",
+      "asOf": "2026-11-14T23:14:51+00:00"
     },
     {
-      "title": "3D打印拉动需求，这一材料迎多轮涨价",
-      "url": "https://www.cnstock.com/commonDetail/828560",
-      "asOf": "2026-11-14T11:25:00+08:00"
+      "title": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zQ0VIRjVUTnV5V3JLNkUtM1V3ZEtzQ0ItTGlLX3A3NGhjbGV5Rms3WXFfbHk1dENtbUVEb0tWN0F3OVJHNG9pMkFWSm1YLVhNTi10Und5Y2xEVEtwb1BIWjlWS194eEdqc1VUMkhaZ245MF96UEJJ?oc=5",
+      "asOf": "2026-11-14T23:04:36+00:00"
     },
     {
-      "title": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5",
-      "asOf": "2026-11-14T10:20:20+00:00"
+      "title": "叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85S1ppQXlSVVJJZlVfTF9VSzZMZGpVZzAxT0ZTa1hXdjhkSkxhbGMwbURRSUU1amtwQVNLOFpJSloyODVlTjZIazZyUFRyaFEzVVRvemtCQUhXNnFYZG8zUHU2eWFNME5uMTJtbUZ5X0I1TFNhQ0oxTnEtQXpSX28?oc=5",
+      "asOf": "2026-11-14T23:04:32+00:00"
     },
     {
-      "title": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5",
-      "asOf": "2026-11-14T10:16:55+00:00"
+      "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OXBieUZnYkhYdUNyZE1NdTIwdVZnNVQ0WGxmd0c5MFlqX24ybl8xdFphV19kVGo2WWpVb2RtU2JaVGl2VE1ydHl2ZGhFcUVET3h0MFYzLXUxYV9uUUFvVnc4TjdRWVB2NFoxNzdoUUQwT2R5RElxZmxGYUhSOFk?oc=5",
+      "asOf": "2026-11-14T18:55:45+00:00"
     },
     {
-      "title": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5",
-      "asOf": "2026-11-14T10:15:23+00:00"
+      "title": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY2wxS2J6VzlBZDZOdVpPUnA1cXJsQ2hjWDFKR2xBOVFxY2M2eG5YT0VzdVE4TUVGX1Y3ZjZwVnY1MTFjR3dsc0pyU21GcDdObjVyTE1ONi1KTDNLcHVLeHBWYmo1aDQzUk5zeUtDa3VrQ1JfbXk1amJPQTdaQUk?oc=5",
+      "asOf": "2026-11-14T18:46:04+00:00"
     },
     {
-      "title": "两岸青年用镜头记录茶马古道光影 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5",
-      "asOf": "2026-11-14T10:12:25+00:00"
+      "title": "哥伦比亚西南部一客车翻车致8人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dU1GbFppZVRlY2xzYlpjSEk5U05kcUUwZ01KY1ZOaHN3VS15NFR0LVNfTnhFQnFjR3NySjZUODgwVnBfVl9idlVqMWkyNFJrOXZuT1pjYXliRVlxdi1XLWJvUm0wVzJNNVV0TjJ1bnZ1a2g1ZUoteWt6Y2NicWc?oc=5",
+      "asOf": "2026-11-14T16:50:37+00:00"
     },
     {
-      "title": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5",
-      "asOf": "2026-11-14T10:03:33+00:00"
+      "title": "学习手记｜开放是亚太合作的生命线 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcUdfWEFOektoWElPMU0wV1o2S2VPVGx0Nm1OTHZlWGVvV0lpNlItMVo2RlBhTjNkbVFZZjRYTkJHRWk3NDZqUWt2d1pHN21DSDdZcDEwOVgteXNQd2xvSS1GcnBOMldlZkl3WjI1VEdKODgtV3Bz?oc=5",
+      "asOf": "2026-11-14T16:42:53+00:00"
     },
     {
-      "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5",
-      "asOf": "2026-11-14T09:51:46+00:00"
+      "title": "李强会见泰国国王哇集拉隆功 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWXVHUHhfcXd1NHRaRERWQXluVVFWWFRPd2NuQ3pTWGtSQlVtV3labWdINE44QlpWRFotOFZkWHVaS0o4TUxGbk5qRE5YeUVGUUNsT3g3ZHR1UkYzYXVYYTBfdzByXy1PRFVGdUNiQTJuWE1uMHM4aHVzbVNiUE0?oc=5",
+      "asOf": "2026-11-14T16:32:53+00:00"
     },
     {
-      "title": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5",
-      "asOf": "2026-11-14T09:45:11+00:00"
+      "title": "在构建亚太共同体之路上携手同行——国际社会热切期待习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXM1ZXVuV2JDWGFnMjZsZ1ZXTnlvNXFYbUNYc085OENPM2pkOENrQ3E3dUx0cXIzbmVVOVQ5cHdqZUxNZjRIOGRCWkVGSDYybWhtUDhDT2pJd3ZCdzhFWVIydVk4WkdBbWRZaE5ObS03TTVfT0otU2pMeExuREVuZDlMclV0XzNjTU90Yld3?oc=5",
+      "asOf": "2026-11-14T15:55:28+00:00"
     }
   ],
   "events": [
     {
-      "event": "刚刚，新版国家医保药品目录发布！",
-      "originalTitle": "刚刚，新版国家医保药品目录发布！",
-      "published": "2026-11-14T12:08:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828570",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "本周，英伟达市值蒸发逾3.8万亿元",
-      "originalTitle": "本周，英伟达市值蒸发逾3.8万亿元",
-      "published": "2026-11-14T11:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828561",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "3D打印拉动需求，这一材料迎多轮涨价",
-      "originalTitle": "3D打印拉动需求，这一材料迎多轮涨价",
-      "published": "2026-11-14T11:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828560",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网",
-      "published": "2026-11-14T10:20:20+00:00",
+      "event": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪 - 新华网",
+      "published": "2026-11-15T00:26:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR2t0eG1UMGFwZ1hfM0xwdEluTWlyN3ZJS2w1UzVjdzJPUDBVX2tqcmp0MWFFZzNkMnVwWFdOS3VBWWlLQ2xPcTJDNVBrQzQxNk45cmtXY3Y2Y1pLUnBudUhPb2oyY0xpU2hSb1BnaVBCdWlGbUZz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OODJudVNHSlZMcmVuSlJiNVA5N2pxamxDcDhjZzB1bWhYbkItVFI3Y1JhWkpaeDlUakZrWW13YWFpVUFJMnhEQmZicFliSTZwdk5KcXVYT3pNUEV3STFHLUVCZktrNHVpeWlxUjBtd0dFV0U3YUNRX1paNHc2Zms?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "赓续血脉 传承薪火——各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 新华网"
+      "originalTitle": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪 - 新华网"
     },
     {
-      "event": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网",
-      "published": "2026-11-14T10:16:55+00:00",
+      "event": "追光丨一条黄河，N种运动打开方式 - 新华网",
+      "published": "2026-11-14T23:14:51+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVEVydVk5VVhFenVyLWNMbW5qd3hJWTBUY2xtNTF1R3BkX0ozY2s4cDNabHZ2NFhIeHJDNjNzQnFiZ0lMWnU4eVFWT2piTXlXazlWaEw4bXgwVHFsQTJmTm5PZGVQQm1FWVpSeFo4Z01Oc1c1blA4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZlI1aV9pZFhzZHBhYjBfVUxFeWh3b2YwT1BNUDRLbndBMUgyNEJIbWdZVlM0QU9UZ1pwY2RZOUxUc2tNbU4zMjZHeG5qamlfcjFOVkh0QlUxOVdVdHNmVHdUWXZlbzJxZklVbmdPcW8wNk1aVHlV?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "能源通道瓦日铁路创年运量破亿吨最快纪录 - 新华网"
+      "originalTitle": "追光丨一条黄河，N种运动打开方式 - 新华网"
     },
     {
-      "event": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网",
-      "published": "2026-11-14T10:15:23+00:00",
+      "event": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚 - 新华网",
+      "published": "2026-11-14T23:04:36+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CUVhXUXJ5a1haNi1sWkZKZUE0UEJkNE9kNFJjQl9RLS1qOHB6UmlIODNjejlrRG8wUFFNUW1vRV9hWUVCNnZmaDhVeUcyNkNBMHVkYkJ5eHJaWWZUUm5vY0JOcTR4SHB3NXVzd2hTNXpwZFdKQl9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zQ0VIRjVUTnV5V3JLNkUtM1V3ZEtzQ0ItTGlLX3A3NGhjbGV5Rms3WXFfbHk1dENtbUVEb0tWN0F3OVJHNG9pMkFWSm1YLVhNTi10Und5Y2xEVEtwb1BIWjlWS194eEdqc1VUMkhaZ245MF96UEJJ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 - 新华网"
+      "originalTitle": "埃森科特：内塔尼亚胡称组建“团结政府”是故弄玄虚 - 新华网"
     },
     {
-      "event": "两岸青年用镜头记录茶马古道光影 - 新华网",
-      "published": "2026-11-14T10:12:25+00:00",
+      "event": "叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - 新华网",
+      "published": "2026-11-14T23:04:32+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWNJZUh4V2VuOWpjMTJKbmNFMC01aXI0RWZBcW8xTEFTTFUtY2FvN0s2RkJldEREVzlJX0FCUkN0dzRLOC1qczFqM1J5elRMS2hBTkdIVWZkOEVkaFlpaXdDOS1FRUVpeDJVSDRZNUVPdDhpUjZMdkl1TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85S1ppQXlSVVJJZlVfTF9VSzZMZGpVZzAxT0ZTa1hXdjhkSkxhbGMwbURRSUU1amtwQVNLOFpJSloyODVlTjZIazZyUFRyaFEzVVRvemtCQUhXNnFYZG8zUHU2eWFNME5uMTJtbUZ5X0I1TFNhQ0oxTnEtQXpSX28?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "两岸青年用镜头记录茶马古道光影 - 新华网"
+      "originalTitle": "叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - 新华网"
     },
     {
-      "event": "第十二届世界大学女校长论坛在澳门举办 - 新华网",
-      "published": "2026-11-14T10:03:33+00:00",
+      "event": "美联邦航空局局长：全美航空运输预计15日晚恢复正常 - 新华网",
+      "published": "2026-11-14T18:55:45+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUTJqUjRfcC1td0s0eGZxVzlxY1ZWdDFJa2w3SUpQVzNRbnVOMU41Sno2RUhiNmZBX2ZOUHVwbmJzSlRMRWlYSlNrTFlqWkVyRE45MG5jeUtITW1acFVrTVAxY3Z2T3ZEZ2ZGaGU1ZFVIRWo5b29n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OXBieUZnYkhYdUNyZE1NdTIwdVZnNVQ0WGxmd0c5MFlqX24ybl8xdFphV19kVGo2WWpVb2RtU2JaVGl2VE1ydHl2ZGhFcUVET3h0MFYzLXUxYV9uUUFvVnc4TjdRWVB2NFoxNzdoUUQwT2R5RElxZmxGYUhSOFk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第十二届世界大学女校长论坛在澳门举办 - 新华网"
+      "originalTitle": "美联邦航空局局长：全美航空运输预计15日晚恢复正常 - 新华网"
     },
     {
-      "event": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网",
-      "published": "2026-11-14T09:51:46+00:00",
+      "event": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤 - 新华网",
+      "published": "2026-11-14T18:46:04+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84by1rOW9MbG5USVhDLWVJTk5Sc3VKUXlkZDIxa0pENTE0TTZRV1UtWEtkQ3RFRzg0eXZ5VFJ3VlhTa3pDZjdVYmdyZE1DUEpheHJURlVUSGY5djFvS0tULXBJb2txSThVNmowbXk2YkEwaHNCcU5DTzI3bkg5TmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY2wxS2J6VzlBZDZOdVpPUnA1cXJsQ2hjWDFKR2xBOVFxY2M2eG5YT0VzdVE4TUVGX1Y3ZjZwVnY1MTFjR3dsc0pyU21GcDdObjVyTE1ONi1KTDNLcHVLeHBWYmo1aDQzUk5zeUtDa3VrQ1JfbXk1amJPQTdaQUk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "泽连斯基：美国建议乌克兰割让领土以换取加入北约 - 新华网"
+      "originalTitle": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤 - 新华网"
     },
     {
-      "event": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网",
-      "published": "2026-11-14T09:45:11+00:00",
+      "event": "哥伦比亚西南部一客车翻车致8人死亡 - 新华网",
+      "published": "2026-11-14T16:50:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLRXozckQxWFl3OFU4VFNuMmJtbmdzU19aeGxhaS1kOHMyek93Z2RMdkgzUnNrWEJ2dkJPWXViVzZPcWRRNlZ2ekVoWVhuRzJvUVNjYTRGZDVrNVBQeTVmQ0tlNlROTkk5TkR6Y1BnVkFSQlJoWFNj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dU1GbFppZVRlY2xzYlpjSEk5U05kcUUwZ01KY1ZOaHN3VS15NFR0LVNfTnhFQnFjR3NySjZUODgwVnBfVl9idlVqMWkyNFJrOXZuT1pjYXliRVlxdi1XLWJvUm0wVzJNNVV0TjJ1bnZ1a2g1ZUoteWt6Y2NicWc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济面面观丨从Token上架到全链升级，从“双十一”看中国经济新动能 - 新华网"
+      "originalTitle": "哥伦比亚西南部一客车翻车致8人死亡 - 新华网"
+    },
+    {
+      "event": "学习手记｜开放是亚太合作的生命线 - 新华网",
+      "published": "2026-11-14T16:42:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcUdfWEFOektoWElPMU0wV1o2S2VPVGx0Nm1OTHZlWGVvV0lpNlItMVo2RlBhTjNkbVFZZjRYTkJHRWk3NDZqUWt2d1pHN21DSDdZcDEwOVgteXNQd2xvSS1GcnBOMldlZkl3WjI1VEdKODgtV3Bz?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "学习手记｜开放是亚太合作的生命线 - 新华网"
+    },
+    {
+      "event": "李强会见泰国国王哇集拉隆功 - 新华网",
+      "published": "2026-11-14T16:32:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWXVHUHhfcXd1NHRaRERWQXluVVFWWFRPd2NuQ3pTWGtSQlVtV3labWdINE44QlpWRFotOFZkWHVaS0o4TUxGbk5qRE5YeUVGUUNsT3g3ZHR1UkYzYXVYYTBfdzByXy1PRFVGdUNiQTJuWE1uMHM4aHVzbVNiUE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "李强会见泰国国王哇集拉隆功 - 新华网"
+    },
+    {
+      "event": "在构建亚太共同体之路上携手同行——国际社会热切期待习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+      "published": "2026-11-14T15:55:28+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXM1ZXVuV2JDWGFnMjZsZ1ZXTnlvNXFYbUNYc085OENPM2pkOENrQ3E3dUx0cXIzbmVVOVQ5cHdqZUxNZjRIOGRCWkVGSDYybWhtUDhDT2pJd3ZCdzhFWVIydVk4WkdBbWRZaE5ObS03TTVfT0otU2pMeExuREVuZDlMclV0XzNjTU90Yld3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "在构建亚太共同体之路上携手同行——国际社会热切期待习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网"
     }
   ],
   "quality": {
@@ -557,9 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
