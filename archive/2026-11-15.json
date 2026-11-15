@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-15",
-  "date": "更新于北京时间 2026-11-15 15:08",
+  "date": "更新于北京时间 2026-11-15 15:49",
   "reportDate": "2026-11-15",
-  "updatedAt": "2026-11-15T15:08:41+08:00",
+  "updatedAt": "2026-11-15T15:49:40+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "summary": "2026-11-12：5.10 %；较 2026-11-10 变化 +0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.15 %；变化 +0.05 个百分点",
+          "summary": "5.10 %；变化 +0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.98（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -181,12 +181,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-15T14:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：一枚早在7月31日就已依法声明作废的公章，在三个多月后，仍被离职员工握在手里，以公司名义向政府部门和客户发起投诉举报。11月13日晚间，ST恒信（300081）的一纸公告，将这家创业板公司持续近一年的内控失序与控制权裂痕，再次推到台前。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828640"
             }
           ]
@@ -197,13 +196,27 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-15T14:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：“目前的需求还是处于相对平衡的状态，涨价并不是需求拉动的一个新周期，而是由成本推动，算是一个价格修复的周期。”11月13日，TCL华星全球显示生态大会在武汉举行。期间，TCL科技集团高级副总裁、TCL华星首席执行官赵军在谈及当前面板涨价周期"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828641"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T11:12:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828633"
             }
           ]
         },
@@ -224,6 +237,81 @@
         },
         {
           "type": "explainer",
+          "title": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T07:40:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T07:36:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "成渝中线高铁成都站主体结构完工 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T07:32:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平：携手共建亚太命运共同体 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T07:20:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-15T07:15:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -234,96 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "板上逐光造绿电 板下治沙“点沙成金” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T06:54:21+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14X3dVYlY4NklKMTRWOUsyMUcyajNOVWxLX3RYbzVMdVU0WTEtUl9xbjZHV0F4NEpJMGxzZXQyR2tyZnM4LUlWNDRGcmo4RnpNb01zaDJoWTM1dXNpa1lWRktPeVFQc0Y4OGdSbUd2Tzl5MWNEb2xn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第49届东盟峰会在菲律宾开幕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T06:53:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaUhkbmJzRkNoS05iMW01UkpwRkNsX1hpUGY5dE0zYTlEQTZKelNMRjlycU5tUjZ4X29QVDRaMnlJdm5WQTVMQ1FVc0JUcklPbWNlMEJtUVVJbDhrcE1ROTQ0Rm95NVVPVEhFbjQza3JkS01BaVhoQV9wel9Zdw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "一名驻日美军涉嫌当众猥亵被捕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T06:44:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUExXRTN6OHRCaDU5ZHZpem1LRUdrXzNuSXVhRmRfVWxUNG41U3kwRDl0SExuWXh3NkdMTkM1VjU4S0RfbEVTNDVsdXplbklrTzlSLWdNb1gzOVVBVG5pOUdtNGpaRXEySmFyUWJaWmp2UGlzdjFFOFVZdl9xek0?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "日本民间团体举办纪录片放映会警示战争风险 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T06:40:36+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BcUpVLVJYTEdYX3BTX2dBWGlEdEIyNnJrSE9ERjZKSDFlMEJFZEI0M1Zyb1ZUNEZlX1BnRTVUdVpVYnRfQ1JzRmsxUE1NcDhKbWUyM201Y01GUndXNnJ4RGpJRUl5UkUyYXl6c0ZKc1lWdnYyODRv?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗称打击巴林境内美军防空雷达 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T05:46:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSy0zcF83U1owRC11MnRNekhnaGg2OF9VWnBVSHhFYlZMbksxTHFlRjZCVFBhRDE0RmxEVVJTVmQ4c21Eay14ZFpHZ3A0QkJYQXhIaWw1c0RBVldrbTYyc0tHdzVsN0tYZDJCcVRwR1QtYUJwZkNrU2tlUERjZW8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美国迈阿密国际机场发生客机与货机相撞事故 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-15T05:29:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueEdpd2hKMkc1aVp5eEFGa2txZ2RRN05Gbmh1Vmc3UlhJRU1kcVFRRC1nTlY0Y1BXclNUMHRWSTlBRWQ5LW9ibklaSmdGbTRaaEw3RkliTVhPcW80QWE0VnZtN2JXT1FsZVFCbUlGd2J2R19oR2drd1ZEQkFsaGs?oc=5"
             }
           ]
         }
@@ -381,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-13"
     },
     {
@@ -406,13 +404,13 @@
       "asOf": "2026-11-11"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-12"
     },
     {
@@ -426,44 +424,44 @@
       "asOf": "2026-11-15T14:07:00+08:00"
     },
     {
+      "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
+      "url": "https://www.cnstock.com/commonDetail/828633",
+      "asOf": "2026-11-15T11:12:00+08:00"
+    },
+    {
       "title": "AI应用升温！国产大模型抢滩“高价值”场景",
       "url": "https://www.cnstock.com/commonDetail/828625",
       "asOf": "2026-11-15T09:42:00+08:00"
     },
     {
+      "title": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5",
+      "asOf": "2026-11-15T07:40:55+00:00"
+    },
+    {
+      "title": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5",
+      "asOf": "2026-11-15T07:36:51+00:00"
+    },
+    {
+      "title": "成渝中线高铁成都站主体结构完工 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5",
+      "asOf": "2026-11-15T07:32:41+00:00"
+    },
+    {
+      "title": "习近平：携手共建亚太命运共同体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5",
+      "asOf": "2026-11-15T07:20:46+00:00"
+    },
+    {
+      "title": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5",
+      "asOf": "2026-11-15T07:15:38+00:00"
+    },
+    {
       "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5",
       "asOf": "2026-11-15T07:01:38+00:00"
-    },
-    {
-      "title": "板上逐光造绿电 板下治沙“点沙成金” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14X3dVYlY4NklKMTRWOUsyMUcyajNOVWxLX3RYbzVMdVU0WTEtUl9xbjZHV0F4NEpJMGxzZXQyR2tyZnM4LUlWNDRGcmo4RnpNb01zaDJoWTM1dXNpa1lWRktPeVFQc0Y4OGdSbUd2Tzl5MWNEb2xn?oc=5",
-      "asOf": "2026-11-15T06:54:21+00:00"
-    },
-    {
-      "title": "第49届东盟峰会在菲律宾开幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaUhkbmJzRkNoS05iMW01UkpwRkNsX1hpUGY5dE0zYTlEQTZKelNMRjlycU5tUjZ4X29QVDRaMnlJdm5WQTVMQ1FVc0JUcklPbWNlMEJtUVVJbDhrcE1ROTQ0Rm95NVVPVEhFbjQza3JkS01BaVhoQV9wel9Zdw?oc=5",
-      "asOf": "2026-11-15T06:53:06+00:00"
-    },
-    {
-      "title": "一名驻日美军涉嫌当众猥亵被捕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUExXRTN6OHRCaDU5ZHZpem1LRUdrXzNuSXVhRmRfVWxUNG41U3kwRDl0SExuWXh3NkdMTkM1VjU4S0RfbEVTNDVsdXplbklrTzlSLWdNb1gzOVVBVG5pOUdtNGpaRXEySmFyUWJaWmp2UGlzdjFFOFVZdl9xek0?oc=5",
-      "asOf": "2026-11-15T06:44:28+00:00"
-    },
-    {
-      "title": "日本民间团体举办纪录片放映会警示战争风险 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BcUpVLVJYTEdYX3BTX2dBWGlEdEIyNnJrSE9ERjZKSDFlMEJFZEI0M1Zyb1ZUNEZlX1BnRTVUdVpVYnRfQ1JzRmsxUE1NcDhKbWUyM201Y01GUndXNnJ4RGpJRUl5UkUyYXl6c0ZKc1lWdnYyODRv?oc=5",
-      "asOf": "2026-11-15T06:40:36+00:00"
-    },
-    {
-      "title": "伊朗称打击巴林境内美军防空雷达 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSy0zcF83U1owRC11MnRNekhnaGg2OF9VWnBVSHhFYlZMbksxTHFlRjZCVFBhRDE0RmxEVVJTVmQ4c21Eay14ZFpHZ3A0QkJYQXhIaWw1c0RBVldrbTYyc0tHdzVsN0tYZDJCcVRwR1QtYUJwZkNrU2tlUERjZW8?oc=5",
-      "asOf": "2026-11-15T05:46:50+00:00"
-    },
-    {
-      "title": "美国迈阿密国际机场发生客机与货机相撞事故 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueEdpd2hKMkc1aVp5eEFGa2txZ2RRN05Gbmh1Vmc3UlhJRU1kcVFRRC1nTlY0Y1BXclNUMHRWSTlBRWQ5LW9ibklaSmdGbTRaaEw3RkliTVhPcW80QWE0VnZtN2JXT1FsZVFCbUlGd2J2R19oR2drd1ZEQkFsaGs?oc=5",
-      "asOf": "2026-11-15T05:29:37+00:00"
     }
   ],
   "events": [
@@ -473,14 +471,7 @@
       "published": "2026-11-15T14:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/828640",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828640",
-        "retrievedAt": "2026-11-15T15:08:41.391065+08:00",
-        "sha256": "dea1a12f9269d94e9f4a82c1330243687c0521924ba1950783a23ee5c4ffe9e2",
-        "paragraphCount": 10,
-        "excerpt": "一枚早在7月31日就已依法声明作废的公章，在三个多月后，仍被离职员工握在手里，以公司名义向政府部门和客户发起投诉举报。11月13日晚间，ST恒信（300081）的一纸公告，将这家创业板公司持续近一年的内控失序与控制权裂痕，再次推到台前。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "内存之后，显示面板也跟涨？TCL华星最新判断",
@@ -488,14 +479,15 @@
       "published": "2026-11-15T14:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/828641",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828641",
-        "retrievedAt": "2026-11-15T15:08:41.391065+08:00",
-        "sha256": "37c9e4991c77f2b52f3e9b7525d55e006c23ae4436e6c584983761c256a9e47b",
-        "paragraphCount": 8,
-        "excerpt": "“目前的需求还是处于相对平衡的状态，涨价并不是需求拉动的一个新周期，而是由成本推动，算是一个价格修复的周期。”11月13日，TCL华星全球显示生态大会在武汉举行。期间，TCL科技集团高级副总裁、TCL华星首席执行官赵军在谈及当前面板涨价周期"
-      }
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
+      "originalTitle": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
+      "published": "2026-11-15T11:12:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828633",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "AI应用升温！国产大模型抢滩“高价值”场景",
@@ -506,60 +498,52 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网",
+      "published": "2026-11-15T07:40:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQllHU0dIaGpBcU1jYmhkdHdNQjVoNUFqLWlkWXpJYmMxSFdqdk5tVmtxMXJXRGpKRmNObUt5aHRiZEo1QnNKcTFLVjI2c1ZfcmVKb1pVZHBfQVRjM0t6NFFZbVZxRWozdG1McUtfT29xRXc0Uk5wMUZjZWRmRzFOUmp2OA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "刘慈欣：保护想象力，要允许一个想法走在用途前面 - 新华网"
+    },
+    {
+      "event": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网",
+      "published": "2026-11-15T07:36:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkVkUU1BV18tbWNZeHFwS0wzel9WLWh0cjdLNlhKaVZ2UmlOeTBpN1lMMXpraWZIU0pNQUJfV1NONWc1aFVMRUI5Y0JPZTgwYzV0ckV3dlNlWktrRlJLdEQtQWlYb2o3ekNhQlRQblI0dGw0ZExEelA1dFZmMThPdmVudw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "唠“科”话丨减脂神器还是升糖大户？土豆这样吃更健康 - 新华网"
+    },
+    {
+      "event": "成渝中线高铁成都站主体结构完工 - 新华网",
+      "published": "2026-11-15T07:32:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1pVVGQ4alFRUUxCcU01NnNISm1HMWJVZVFmZW9hek0xYkMwZWNnMExJVTNQUXhvbUh1TUZtTDRmNlZNVUlPdlNuMF9JOV9OOFhoRi1aTFktOXJNaml3WV9DVlhyTVJsbWtJcFo5STVYVG5zMnpv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "成渝中线高铁成都站主体结构完工 - 新华网"
+    },
+    {
+      "event": "习近平：携手共建亚太命运共同体 - 新华网",
+      "published": "2026-11-15T07:20:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Z0ctcmRVSHo1V0ZvYTRsYkhNdjB0Z1pQQmVYeDJVSWxOMTREdzJrX0ZscHpKaXFXNGMyU2dmejBTdGFRX1VQNFg3dEYtcnp2T3JvaEtwdEwwWVlxWjRaYktsS3NXUDJRbGkydzdOZllQMlgzcXJn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平：携手共建亚太命运共同体 - 新华网"
+    },
+    {
+      "event": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网",
+      "published": "2026-11-15T07:15:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zbzZXQU12eEd2X0E2ck5xMEtvTE1naEJObW91OGlYVVNKcllxWFpYT1hnRW81SVRCSHZvUDFHY0tvYlNQSGh2ZVFBRzJCWC1iSmpuOWltMG5mQjY2WnAxWW43SVNXUThXYVVKdEJaalpVOElpOHZj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国连续第五个周末爆发示威 记者直击巴黎游行现场 - 新华网"
+    },
+    {
       "event": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网",
       "published": "2026-11-15T07:01:38+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWpqVmFDcEwwZlJxcW9uYjhuUHM2dm9GYV9vX3pjdmtkeGswRkZ3TTlWMm13YU93N1RKVTBEX0xxWFVJUkIxdWNNc1dENjZuZ2ktY19wb2Z3dWdRa0J0ZU9icU1sWGRzaEk1bGlXWWcybWMxOHZaYVhBbnRHbGQ2QXRlQUExMm5ucWJQUzFB?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 - 新华网"
-    },
-    {
-      "event": "板上逐光造绿电 板下治沙“点沙成金” - 新华网",
-      "published": "2026-11-15T06:54:21+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14X3dVYlY4NklKMTRWOUsyMUcyajNOVWxLX3RYbzVMdVU0WTEtUl9xbjZHV0F4NEpJMGxzZXQyR2tyZnM4LUlWNDRGcmo4RnpNb01zaDJoWTM1dXNpa1lWRktPeVFQc0Y4OGdSbUd2Tzl5MWNEb2xn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "板上逐光造绿电 板下治沙“点沙成金” - 新华网"
-    },
-    {
-      "event": "第49届东盟峰会在菲律宾开幕 - 新华网",
-      "published": "2026-11-15T06:53:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaUhkbmJzRkNoS05iMW01UkpwRkNsX1hpUGY5dE0zYTlEQTZKelNMRjlycU5tUjZ4X29QVDRaMnlJdm5WQTVMQ1FVc0JUcklPbWNlMEJtUVVJbDhrcE1ROTQ0Rm95NVVPVEhFbjQza3JkS01BaVhoQV9wel9Zdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第49届东盟峰会在菲律宾开幕 - 新华网"
-    },
-    {
-      "event": "一名驻日美军涉嫌当众猥亵被捕 - 新华网",
-      "published": "2026-11-15T06:44:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUExXRTN6OHRCaDU5ZHZpem1LRUdrXzNuSXVhRmRfVWxUNG41U3kwRDl0SExuWXh3NkdMTkM1VjU4S0RfbEVTNDVsdXplbklrTzlSLWdNb1gzOVVBVG5pOUdtNGpaRXEySmFyUWJaWmp2UGlzdjFFOFVZdl9xek0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "一名驻日美军涉嫌当众猥亵被捕 - 新华网"
-    },
-    {
-      "event": "日本民间团体举办纪录片放映会警示战争风险 - 新华网",
-      "published": "2026-11-15T06:40:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BcUpVLVJYTEdYX3BTX2dBWGlEdEIyNnJrSE9ERjZKSDFlMEJFZEI0M1Zyb1ZUNEZlX1BnRTVUdVpVYnRfQ1JzRmsxUE1NcDhKbWUyM201Y01GUndXNnJ4RGpJRUl5UkUyYXl6c0ZKc1lWdnYyODRv?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "日本民间团体举办纪录片放映会警示战争风险 - 新华网"
-    },
-    {
-      "event": "伊朗称打击巴林境内美军防空雷达 - 新华网",
-      "published": "2026-11-15T05:46:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSy0zcF83U1owRC11MnRNekhnaGg2OF9VWnBVSHhFYlZMbksxTHFlRjZCVFBhRDE0RmxEVVJTVmQ4c21Eay14ZFpHZ3A0QkJYQXhIaWw1c0RBVldrbTYyc0tHdzVsN0tYZDJCcVRwR1QtYUJwZkNrU2tlUERjZW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗称打击巴林境内美军防空雷达 - 新华网"
-    },
-    {
-      "event": "美国迈阿密国际机场发生客机与货机相撞事故 - 新华网",
-      "published": "2026-11-15T05:29:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueEdpd2hKMkc1aVp5eEFGa2txZ2RRN05Gbmh1Vmc3UlhJRU1kcVFRRC1nTlY0Y1BXclNUMHRWSTlBRWQ5LW9ibklaSmdGbTRaaEw3RkliTVhPcW80QWE0VnZtN2JXT1FsZVFCbUlGd2J2R19oR2drd1ZEQkFsaGs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美国迈阿密国际机场发生客机与货机相撞事故 - 新华网"
     }
   ],
   "quality": {
@@ -573,6 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
