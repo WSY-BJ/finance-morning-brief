@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-16",
-  "date": "更新于北京时间 2026-11-16 14:31",
+  "date": "更新于北京时间 2026-11-16 15:13",
   "reportDate": "2026-11-16",
-  "updatedAt": "2026-11-16T14:31:37+08:00",
+  "updatedAt": "2026-11-16T15:13:34+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,151 +177,153 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "伊朗说两艘油轮在霍尔木兹海峡触雷爆炸 - 新华网",
+          "title": "李强出席第29次中国－东盟领导人会议",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:18:49+00:00；来源：新华网。",
+            "发布时间：2026-11-16T13:26:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbElVeWxsTjlGT1JicTFZRm5CQjhwWG5ZV0R1WHk5OGdGZHZtczNqVFByTW4ycGlTTkprSTJzOHdWMEx1NG9CRGxEcXRjRnA5U0F1VnpSZEdZRFVxYlVoWnhtVjZjeWs0ZGlNcXpkanNWNlJ3dENWWTl1c0d5ZmM?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828891"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
+          "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:14:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T10:05:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据国家统计局11月16日消息，10月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ib210SGg4RWc1RFc3MDVzQ3JacHlualNmRk1JdTRUVjJZMXNSZ0plOUtuZFM1SDc1WUJ5a0N2T2N2LTYxNHJhU19YMmlibDFPaUZMTmx2ZkhEaDRlNk5pQlBzY2FzRG13UV9Rb0pQT21XQWFsRU80?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828831"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "日本大型移动运营商一个月内第三次出现服务故障 - 新华网",
+          "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:06:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T09:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据国家统计局11月16日消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据称，2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdnNFdzZTVDcwcTlKaU5LNGlJdE1OaTdXSFRtWWwzUG8zN3k5NXNKQm1MZlVvWmlaS01GTUJMVHlTQmNzUlBQeVRuY2pRVW9oRkNkN3hoNmg2WWtmM1FPbHJtYmtMM3Q0anFlSlYwS0VUUmVpZ19faGkzS1BjcFk?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828822"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "在深圳，共创未来丨上篇：追梦 - 新华网",
+          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T05:39:34+00:00；来源：新华网。",
+            "发布时间：2026-11-16T09:12:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSk5uNXpfbEd4T1U0UXNHcjU4emJkN3A2R0dqVFlGYnM1cG1idnBOanN1N1NZMUh0MENxY2EtTFdwYi1NWkR2R1I2Vmx4NVhRWEo5WEF1NmEzZnhVd3hSVzNWVTNja21FS0t3c0VBakxuM2p3eEh6UHBsalhIVU0?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828819"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "研究发现两种可能与阿尔茨海默病有关的蛋白聚集体 - 新华网",
+          "title": "英伟达，暗盘拉升！",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T05:04:04+00:00；来源：新华网。",
+            "发布时间：2026-11-16T08:25:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUktkRi15aGhzMHd4M01rWEVERkFudVQwYjdkSXhMRk00c3ZXb0Y1VlVlSHE3b0FMLVFrX0NXZGVmNFBQS3lMR2s3dHQ4RVZfbUR5R2RpTmdjRmVQYUFRenJ4bWxONnRKazU3MWJhSVYtT3VZaDJob19pZ09mdw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828805"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "联合国官员：中国新型电力系统建设为全球提供借鉴 - 新华网",
+          "title": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T04:50:54+00:00；来源：新华网。",
+            "发布时间：2026-11-16T08:24:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByU25MX0d5YjF3YWFzeTQwdDR0RUdYYUo2dC0yVk5ncEZuWV81cWdEblZ5QlFYekdLc0dEU1Y1THNESGRXZkQxd0tnZW96YUJ6LTVlQUJXcWQ3cWhEb0ZsZWdwQ2pGNmtZLUc4Z0xIR2J5eEhTeGJ5ZTNFeU1pb2M?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828784"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "十几万顶帐篷卡在边境 以色列不放物资进加沙挨批 - 新华网",
+          "title": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T04:41:36+00:00；来源：新华网。",
+            "发布时间：2026-11-16T08:19:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xTzYyemZSZUpmS29hNjJ4bkZsWGFkQU5VQlJQUUN3NzhuRndhM0pkQTJfQ2hUNDdvWjRiX3BxOGZCM0x1U3FYZjFjSUlxSXZlcWJBNGZQR0RJS1E2N0tkNUFPSGNramZiczVmUU8ySmE5RHVISWpPSHplYWN6aUU?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/828783"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "泽连斯基再次呼吁解除对乌使用“星盾”限速 - 新华网",
+          "title": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T04:40:44+00:00；来源：新华网。",
+            "发布时间：2026-11-16T06:47:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01QWdxZENvQXlGb2NSa3JNOG0yeGJ5QllNVGdXdy1CN0g2dVg1RkxrLTg1anNzTjJYcEo0NlpXYS0wNFJudnRnY0wySEdJQUdCUkhsX0lWaWtLQjVyUHRmdkNXeDlpRXJ5WEFQcFowcGRMX254Wjh0bEJ4Wk1xVUk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "10月份国民经济运行总体平稳、向新向优 - 新华网",
+          "title": "俄媒：克里米亚大桥遭袭 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T04:27:18+00:00；来源：新华网。",
+            "发布时间：2026-11-16T06:36:56+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HOXdnaE5hMV9OWklFX3lRWHRYQjlxaGVELXpvSXVFZjB4Q3ppVFhqX3J6VFljbG5GOHZ4QW11eWpZLTdkMnBvN0ppNW11TTFSeWxLSFU0S01iYkttR21USkxiWmsyNDFNMmVrSDFiSEdLWEo3M0ZV?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "日本三季度GDP再现负增长 - 新华网",
+          "title": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T04:19:30+00:00；来源：新华网。",
+            "发布时间：2026-11-16T06:33:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01cWR3eEJsSnhqMGVISE5QR0I1SkdLUkU0YlY3ZC1jUmR6ZDdQZ2JFeHNTYnVLUmsyU2RxMTRPdzB6NXNBLVF5SUN1WjR1NTJXWTlodTBNUWpPWGFoczl1MFJMVGRFeHc4TTBwbm03akxLYl9qeDdtdU84NUZ5dw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5"
             }
           ]
         }
@@ -379,13 +381,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-13"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-13"
     },
     {
@@ -404,9 +406,9 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-13"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +416,150 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "伊朗说两艘油轮在霍尔木兹海峡触雷爆炸 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbElVeWxsTjlGT1JicTFZRm5CQjhwWG5ZV0R1WHk5OGdGZHZtczNqVFByTW4ycGlTTkprSTJzOHdWMEx1NG9CRGxEcXRjRnA5U0F1VnpSZEdZRFVxYlVoWnhtVjZjeWs0ZGlNcXpkanNWNlJ3dENWWTl1c0d5ZmM?oc=5",
-      "asOf": "2026-11-16T06:18:49+00:00"
+      "title": "李强出席第29次中国－东盟领导人会议",
+      "url": "https://www.cnstock.com/commonDetail/828891",
+      "asOf": "2026-11-16T13:26:00+08:00"
     },
     {
-      "title": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ib210SGg4RWc1RFc3MDVzQ3JacHlualNmRk1JdTRUVjJZMXNSZ0plOUtuZFM1SDc1WUJ5a0N2T2N2LTYxNHJhU19YMmlibDFPaUZMTmx2ZkhEaDRlNk5pQlBzY2FzRG13UV9Rb0pQT21XQWFsRU80?oc=5",
-      "asOf": "2026-11-16T06:14:43+00:00"
+      "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+      "url": "https://www.cnstock.com/commonDetail/828831",
+      "asOf": "2026-11-16T10:05:00+08:00"
     },
     {
-      "title": "日本大型移动运营商一个月内第三次出现服务故障 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdnNFdzZTVDcwcTlKaU5LNGlJdE1OaTdXSFRtWWwzUG8zN3k5NXNKQm1MZlVvWmlaS01GTUJMVHlTQmNzUlBQeVRuY2pRVW9oRkNkN3hoNmg2WWtmM1FPbHJtYmtMM3Q0anFlSlYwS0VUUmVpZ19faGkzS1BjcFk?oc=5",
-      "asOf": "2026-11-16T06:06:03+00:00"
+      "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+      "url": "https://www.cnstock.com/commonDetail/828822",
+      "asOf": "2026-11-16T09:36:00+08:00"
     },
     {
-      "title": "在深圳，共创未来丨上篇：追梦 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSk5uNXpfbEd4T1U0UXNHcjU4emJkN3A2R0dqVFlGYnM1cG1idnBOanN1N1NZMUh0MENxY2EtTFdwYi1NWkR2R1I2Vmx4NVhRWEo5WEF1NmEzZnhVd3hSVzNWVTNja21FS0t3c0VBakxuM2p3eEh6UHBsalhIVU0?oc=5",
-      "asOf": "2026-11-16T05:39:34+00:00"
+      "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+      "url": "https://www.cnstock.com/commonDetail/828819",
+      "asOf": "2026-11-16T09:12:00+08:00"
     },
     {
-      "title": "研究发现两种可能与阿尔茨海默病有关的蛋白聚集体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUktkRi15aGhzMHd4M01rWEVERkFudVQwYjdkSXhMRk00c3ZXb0Y1VlVlSHE3b0FMLVFrX0NXZGVmNFBQS3lMR2s3dHQ4RVZfbUR5R2RpTmdjRmVQYUFRenJ4bWxONnRKazU3MWJhSVYtT3VZaDJob19pZ09mdw?oc=5",
-      "asOf": "2026-11-16T05:04:04+00:00"
+      "title": "英伟达，暗盘拉升！",
+      "url": "https://www.cnstock.com/commonDetail/828805",
+      "asOf": "2026-11-16T08:25:00+08:00"
     },
     {
-      "title": "联合国官员：中国新型电力系统建设为全球提供借鉴 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByU25MX0d5YjF3YWFzeTQwdDR0RUdYYUo2dC0yVk5ncEZuWV81cWdEblZ5QlFYekdLc0dEU1Y1THNESGRXZkQxd0tnZW96YUJ6LTVlQUJXcWQ3cWhEb0ZsZWdwQ2pGNmtZLUc4Z0xIR2J5eEhTeGJ5ZTNFeU1pb2M?oc=5",
-      "asOf": "2026-11-16T04:50:54+00:00"
+      "title": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
+      "url": "https://www.cnstock.com/commonDetail/828784",
+      "asOf": "2026-11-16T08:24:00+08:00"
     },
     {
-      "title": "十几万顶帐篷卡在边境 以色列不放物资进加沙挨批 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xTzYyemZSZUpmS29hNjJ4bkZsWGFkQU5VQlJQUUN3NzhuRndhM0pkQTJfQ2hUNDdvWjRiX3BxOGZCM0x1U3FYZjFjSUlxSXZlcWJBNGZQR0RJS1E2N0tkNUFPSGNramZiczVmUU8ySmE5RHVISWpPSHplYWN6aUU?oc=5",
-      "asOf": "2026-11-16T04:41:36+00:00"
+      "title": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
+      "url": "https://www.cnstock.com/commonDetail/828783",
+      "asOf": "2026-11-16T08:19:00+08:00"
     },
     {
-      "title": "泽连斯基再次呼吁解除对乌使用“星盾”限速 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01QWdxZENvQXlGb2NSa3JNOG0yeGJ5QllNVGdXdy1CN0g2dVg1RkxrLTg1anNzTjJYcEo0NlpXYS0wNFJudnRnY0wySEdJQUdCUkhsX0lWaWtLQjVyUHRmdkNXeDlpRXJ5WEFQcFowcGRMX254Wjh0bEJ4Wk1xVUk?oc=5",
-      "asOf": "2026-11-16T04:40:44+00:00"
+      "title": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5",
+      "asOf": "2026-11-16T06:47:08+00:00"
     },
     {
-      "title": "10月份国民经济运行总体平稳、向新向优 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HOXdnaE5hMV9OWklFX3lRWHRYQjlxaGVELXpvSXVFZjB4Q3ppVFhqX3J6VFljbG5GOHZ4QW11eWpZLTdkMnBvN0ppNW11TTFSeWxLSFU0S01iYkttR21USkxiWmsyNDFNMmVrSDFiSEdLWEo3M0ZV?oc=5",
-      "asOf": "2026-11-16T04:27:18+00:00"
+      "title": "俄媒：克里米亚大桥遭袭 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5",
+      "asOf": "2026-11-16T06:36:56+00:00"
     },
     {
-      "title": "日本三季度GDP再现负增长 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01cWR3eEJsSnhqMGVISE5QR0I1SkdLUkU0YlY3ZC1jUmR6ZDdQZ2JFeHNTYnVLUmsyU2RxMTRPdzB6NXNBLVF5SUN1WjR1NTJXWTlodTBNUWpPWGFoczl1MFJMVGRFeHc4TTBwbm03akxLYl9qeDdtdU84NUZ5dw?oc=5",
-      "asOf": "2026-11-16T04:19:30+00:00"
+      "title": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5",
+      "asOf": "2026-11-16T06:33:23+00:00"
     }
   ],
   "events": [
     {
-      "event": "伊朗说两艘油轮在霍尔木兹海峡触雷爆炸 - 新华网",
-      "published": "2026-11-16T06:18:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbElVeWxsTjlGT1JicTFZRm5CQjhwWG5ZV0R1WHk5OGdGZHZtczNqVFByTW4ycGlTTkprSTJzOHdWMEx1NG9CRGxEcXRjRnA5U0F1VnpSZEdZRFVxYlVoWnhtVjZjeWs0ZGlNcXpkanNWNlJ3dENWWTl1c0d5ZmM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗说两艘油轮在霍尔木兹海峡触雷爆炸 - 新华网"
+      "event": "李强出席第29次中国－东盟领导人会议",
+      "originalTitle": "李强出席第29次中国－东盟领导人会议",
+      "published": "2026-11-16T13:26:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828891",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
-      "published": "2026-11-16T06:14:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ib210SGg4RWc1RFc3MDVzQ3JacHlualNmRk1JdTRUVjJZMXNSZ0plOUtuZFM1SDc1WUJ5a0N2T2N2LTYxNHJhU19YMmlibDFPaUZMTmx2ZkhEaDRlNk5pQlBzY2FzRG13UV9Rb0pQT21XQWFsRU80?oc=5",
+      "event": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+      "originalTitle": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+      "published": "2026-11-16T10:05:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828831",
       "evidenceLevel": "headline-only",
-      "originalTitle": "我国产业向新发展加快，新技术赋能作用增强 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828831",
+        "retrievedAt": "2026-11-16T15:13:34.963895+08:00",
+        "sha256": "934383fd7e260b3e6e7dd351b23e1c4969776b66fc6980d107b4605ca0110513",
+        "paragraphCount": 10,
+        "excerpt": "上证报中国证券网讯 据国家统计局11月16日消息，10月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市"
+      }
     },
     {
-      "event": "日本大型移动运营商一个月内第三次出现服务故障 - 新华网",
-      "published": "2026-11-16T06:06:03+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdnNFdzZTVDcwcTlKaU5LNGlJdE1OaTdXSFRtWWwzUG8zN3k5NXNKQm1MZlVvWmlaS01GTUJMVHlTQmNzUlBQeVRuY2pRVW9oRkNkN3hoNmg2WWtmM1FPbHJtYmtMM3Q0anFlSlYwS0VUUmVpZ19faGkzS1BjcFk?oc=5",
+      "event": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+      "originalTitle": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+      "published": "2026-11-16T09:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828822",
       "evidenceLevel": "headline-only",
-      "originalTitle": "日本大型移动运营商一个月内第三次出现服务故障 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828822",
+        "retrievedAt": "2026-11-16T15:13:34.963895+08:00",
+        "sha256": "edcd6da6bad420b432b3453ffb551bdaf21f9d36a58ee31db8a488fda6fff3e3",
+        "paragraphCount": 5,
+        "excerpt": "上证报中国证券网讯 据国家统计局11月16日消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据称，2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二"
+      }
     },
     {
-      "event": "在深圳，共创未来丨上篇：追梦 - 新华网",
-      "published": "2026-11-16T05:39:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSk5uNXpfbEd4T1U0UXNHcjU4emJkN3A2R0dqVFlGYnM1cG1idnBOanN1N1NZMUh0MENxY2EtTFdwYi1NWkR2R1I2Vmx4NVhRWEo5WEF1NmEzZnhVd3hSVzNWVTNja21FS0t3c0VBakxuM2p3eEh6UHBsalhIVU0?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "在深圳，共创未来丨上篇：追梦 - 新华网"
+      "event": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+      "originalTitle": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+      "published": "2026-11-16T09:12:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828819",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "研究发现两种可能与阿尔茨海默病有关的蛋白聚集体 - 新华网",
-      "published": "2026-11-16T05:04:04+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sUktkRi15aGhzMHd4M01rWEVERkFudVQwYjdkSXhMRk00c3ZXb0Y1VlVlSHE3b0FMLVFrX0NXZGVmNFBQS3lMR2s3dHQ4RVZfbUR5R2RpTmdjRmVQYUFRenJ4bWxONnRKazU3MWJhSVYtT3VZaDJob19pZ09mdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "研究发现两种可能与阿尔茨海默病有关的蛋白聚集体 - 新华网"
+      "event": "英伟达，暗盘拉升！",
+      "originalTitle": "英伟达，暗盘拉升！",
+      "published": "2026-11-16T08:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828805",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "联合国官员：中国新型电力系统建设为全球提供借鉴 - 新华网",
-      "published": "2026-11-16T04:50:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByU25MX0d5YjF3YWFzeTQwdDR0RUdYYUo2dC0yVk5ncEZuWV81cWdEblZ5QlFYekdLc0dEU1Y1THNESGRXZkQxd0tnZW96YUJ6LTVlQUJXcWQ3cWhEb0ZsZWdwQ2pGNmtZLUc4Z0xIR2J5eEhTeGJ5ZTNFeU1pb2M?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "联合国官员：中国新型电力系统建设为全球提供借鉴 - 新华网"
+      "event": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
+      "originalTitle": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
+      "published": "2026-11-16T08:24:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828784",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "十几万顶帐篷卡在边境 以色列不放物资进加沙挨批 - 新华网",
-      "published": "2026-11-16T04:41:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xTzYyemZSZUpmS29hNjJ4bkZsWGFkQU5VQlJQUUN3NzhuRndhM0pkQTJfQ2hUNDdvWjRiX3BxOGZCM0x1U3FYZjFjSUlxSXZlcWJBNGZQR0RJS1E2N0tkNUFPSGNramZiczVmUU8ySmE5RHVISWpPSHplYWN6aUU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "十几万顶帐篷卡在边境 以色列不放物资进加沙挨批 - 新华网"
+      "event": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
+      "originalTitle": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
+      "published": "2026-11-16T08:19:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828783",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "泽连斯基再次呼吁解除对乌使用“星盾”限速 - 新华网",
-      "published": "2026-11-16T04:40:44+00:00",
+      "event": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
+      "published": "2026-11-16T06:47:08+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01QWdxZENvQXlGb2NSa3JNOG0yeGJ5QllNVGdXdy1CN0g2dVg1RkxrLTg1anNzTjJYcEo0NlpXYS0wNFJudnRnY0wySEdJQUdCUkhsX0lWaWtLQjVyUHRmdkNXeDlpRXJ5WEFQcFowcGRMX254Wjh0bEJ4Wk1xVUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "泽连斯基再次呼吁解除对乌使用“星盾”限速 - 新华网"
+      "originalTitle": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网"
     },
     {
-      "event": "10月份国民经济运行总体平稳、向新向优 - 新华网",
-      "published": "2026-11-16T04:27:18+00:00",
+      "event": "俄媒：克里米亚大桥遭袭 - 新华网",
+      "published": "2026-11-16T06:36:56+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HOXdnaE5hMV9OWklFX3lRWHRYQjlxaGVELXpvSXVFZjB4Q3ppVFhqX3J6VFljbG5GOHZ4QW11eWpZLTdkMnBvN0ppNW11TTFSeWxLSFU0S01iYkttR21USkxiWmsyNDFNMmVrSDFiSEdLWEo3M0ZV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "10月份国民经济运行总体平稳、向新向优 - 新华网"
+      "originalTitle": "俄媒：克里米亚大桥遭袭 - 新华网"
     },
     {
-      "event": "日本三季度GDP再现负增长 - 新华网",
-      "published": "2026-11-16T04:19:30+00:00",
+      "event": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
+      "published": "2026-11-16T06:33:23+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01cWR3eEJsSnhqMGVISE5QR0I1SkdLUkU0YlY3ZC1jUmR6ZDdQZ2JFeHNTYnVLUmsyU2RxMTRPdzB6NXNBLVF5SUN1WjR1NTJXWTlodTBNUWpPWGFoczl1MFJMVGRFeHc4TTBwbm03akxLYl9qeDdtdU84NUZ5dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "日本三季度GDP再现负增长 - 新华网"
+      "originalTitle": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +573,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
