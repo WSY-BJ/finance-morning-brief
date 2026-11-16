@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-16",
-  "date": "更新于北京时间 2026-11-16 15:57",
+  "date": "更新于北京时间 2026-11-16 20:46",
   "reportDate": "2026-11-16",
-  "updatedAt": "2026-11-16T15:57:09+08:00",
+  "updatedAt": "2026-11-16T20:46:14+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,152 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "千亿市值PCB龙头跌停，谁在抛售？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-16T18:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829067"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "神州半导体IPO，过会",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-16T18:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829066"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平在广东中山考察",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-16T17:59:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829019"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "脑机接口公司，进入“物理世界模型”落地期",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-16T16:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828944"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026年APEC工商界活动形成14份成果文件",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-16T15:44:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/828936"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "李强出席第29次中国－东盟领导人会议",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-16T13:26:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社马尼拉11月16日电（记者邰背平 李萌）11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828891"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+          "title": "一组数据看10月份国民经济运行总体平稳、向新向优 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T10:05:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-16T12:10:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828831"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13M3RNbHItNWJIelpEdWZhSl9hRVVQdDhTMkZra1hJUml5MmlfZ1FQOFRnQ1FSVzcxRXBzWmkwSXNTRGEybl9PWjdRbTItR1p3eXVNeDQ0SmdIM1gyTTFIdjNINU5pbGZhaXVuQ1pIbnNBSmJ1M0xN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+          "title": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T09:36:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-16T11:49:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828822"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFRfQkVnNVpPM0dYdnJnWEZ3ZGpZT19LcVJLdFVNTjF4SlpySTZzMUdORTU0MXFRRnVkYjZ0cGctdERud0tTbGgtUm1neVlNdjBaRVhpZlkwQTk5VlBMVjBIS2hleWswNmZYYUtTTXo3amdEdHE5UlpzQnYyQkUxZQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "title": "王小洪在四川调研时强调 坚定信心 抢抓机遇 全力完成全年经济社会发展主要目标任务 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T09:12:00+08:00；来源：新华社。",
+            "发布时间：2026-11-16T11:37:30+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828819"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmhKX200WmdJMk9lSXVmNkRYYW1Fb3h4cUU3bGlvUThMMUZHNHo3VENuM19rZmUzcjJSQ3hKanRndUFhRTVGUlkwTEk0cndzNEsyX0gyaXNMbXFUZ2ZjZEtJOTRUZzIwazEzb2hWYTFHcnFBSFFmY0QzRVRUX18zQUQ3WQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "英伟达，暗盘拉升！",
+          "title": "总体平稳 向新向优——透视10月国民经济运行态势 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T08:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-16T11:16:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828805"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-16T08:24:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828784"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-16T08:19:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828783"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "南非发生枪击事件致8人死亡 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-16T07:43:51+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-16T07:43:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-16T07:29:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XdGFvWDYtZHJ3ZzlzRFNFYXQ0bGFSNWFZNVVNbnJkTW9ZOTJRU0lhcy05OHlKeDAzRzg1dVRWcklISXFNNDY3YXdrNGRVMk1ZdkRuUWdqaEdMbGVkTkhRTy0zMU5yUzlIdFhPbnVMLThJeXVkeHRN?oc=5"
             }
           ]
         }
@@ -380,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-13"
     },
     {
@@ -400,14 +389,24 @@
       "asOf": "2026-11-13"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-12"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-13"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -415,143 +414,136 @@
       "asOf": "2026-11-12"
     },
     {
+      "title": "千亿市值PCB龙头跌停，谁在抛售？",
+      "url": "https://www.cnstock.com/commonDetail/829067",
+      "asOf": "2026-11-16T18:36:00+08:00"
+    },
+    {
+      "title": "神州半导体IPO，过会",
+      "url": "https://www.cnstock.com/commonDetail/829066",
+      "asOf": "2026-11-16T18:36:00+08:00"
+    },
+    {
+      "title": "习近平在广东中山考察",
+      "url": "https://www.cnstock.com/commonDetail/829019",
+      "asOf": "2026-11-16T17:59:00+08:00"
+    },
+    {
+      "title": "脑机接口公司，进入“物理世界模型”落地期",
+      "url": "https://www.cnstock.com/commonDetail/828944",
+      "asOf": "2026-11-16T16:23:00+08:00"
+    },
+    {
+      "title": "2026年APEC工商界活动形成14份成果文件",
+      "url": "https://www.cnstock.com/commonDetail/828936",
+      "asOf": "2026-11-16T15:44:00+08:00"
+    },
+    {
       "title": "李强出席第29次中国－东盟领导人会议",
       "url": "https://www.cnstock.com/commonDetail/828891",
       "asOf": "2026-11-16T13:26:00+08:00"
     },
     {
-      "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
-      "url": "https://www.cnstock.com/commonDetail/828831",
-      "asOf": "2026-11-16T10:05:00+08:00"
+      "title": "一组数据看10月份国民经济运行总体平稳、向新向优 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13M3RNbHItNWJIelpEdWZhSl9hRVVQdDhTMkZra1hJUml5MmlfZ1FQOFRnQ1FSVzcxRXBzWmkwSXNTRGEybl9PWjdRbTItR1p3eXVNeDQ0SmdIM1gyTTFIdjNINU5pbGZhaXVuQ1pIbnNBSmJ1M0xN?oc=5",
+      "asOf": "2026-11-16T12:10:32+00:00"
     },
     {
-      "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
-      "url": "https://www.cnstock.com/commonDetail/828822",
-      "asOf": "2026-11-16T09:36:00+08:00"
+      "title": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFRfQkVnNVpPM0dYdnJnWEZ3ZGpZT19LcVJLdFVNTjF4SlpySTZzMUdORTU0MXFRRnVkYjZ0cGctdERud0tTbGgtUm1neVlNdjBaRVhpZlkwQTk5VlBMVjBIS2hleWswNmZYYUtTTXo3amdEdHE5UlpzQnYyQkUxZQ?oc=5",
+      "asOf": "2026-11-16T11:49:31+00:00"
     },
     {
-      "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-      "url": "https://www.cnstock.com/commonDetail/828819",
-      "asOf": "2026-11-16T09:12:00+08:00"
+      "title": "王小洪在四川调研时强调 坚定信心 抢抓机遇 全力完成全年经济社会发展主要目标任务 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmhKX200WmdJMk9lSXVmNkRYYW1Fb3h4cUU3bGlvUThMMUZHNHo3VENuM19rZmUzcjJSQ3hKanRndUFhRTVGUlkwTEk0cndzNEsyX0gyaXNMbXFUZ2ZjZEtJOTRUZzIwazEzb2hWYTFHcnFBSFFmY0QzRVRUX18zQUQ3WQ?oc=5",
+      "asOf": "2026-11-16T11:37:30+00:00"
     },
     {
-      "title": "英伟达，暗盘拉升！",
-      "url": "https://www.cnstock.com/commonDetail/828805",
-      "asOf": "2026-11-16T08:25:00+08:00"
-    },
-    {
-      "title": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
-      "url": "https://www.cnstock.com/commonDetail/828784",
-      "asOf": "2026-11-16T08:24:00+08:00"
-    },
-    {
-      "title": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
-      "url": "https://www.cnstock.com/commonDetail/828783",
-      "asOf": "2026-11-16T08:19:00+08:00"
-    },
-    {
-      "title": "南非发生枪击事件致8人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5",
-      "asOf": "2026-11-16T07:43:51+00:00"
-    },
-    {
-      "title": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5",
-      "asOf": "2026-11-16T07:43:42+00:00"
-    },
-    {
-      "title": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5",
-      "asOf": "2026-11-16T07:29:27+00:00"
+      "title": "总体平稳 向新向优——透视10月国民经济运行态势 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XdGFvWDYtZHJ3ZzlzRFNFYXQ0bGFSNWFZNVVNbnJkTW9ZOTJRU0lhcy05OHlKeDAzRzg1dVRWcklISXFNNDY3YXdrNGRVMk1ZdkRuUWdqaEdMbGVkTkhRTy0zMU5yUzlIdFhPbnVMLThJeXVkeHRN?oc=5",
+      "asOf": "2026-11-16T11:16:54+00:00"
     }
   ],
   "events": [
+    {
+      "event": "千亿市值PCB龙头跌停，谁在抛售？",
+      "originalTitle": "千亿市值PCB龙头跌停，谁在抛售？",
+      "published": "2026-11-16T18:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829067",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "神州半导体IPO，过会",
+      "originalTitle": "神州半导体IPO，过会",
+      "published": "2026-11-16T18:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829066",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "习近平在广东中山考察",
+      "originalTitle": "习近平在广东中山考察",
+      "published": "2026-11-16T17:59:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/829019",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "脑机接口公司，进入“物理世界模型”落地期",
+      "originalTitle": "脑机接口公司，进入“物理世界模型”落地期",
+      "published": "2026-11-16T16:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828944",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "2026年APEC工商界活动形成14份成果文件",
+      "originalTitle": "2026年APEC工商界活动形成14份成果文件",
+      "published": "2026-11-16T15:44:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/828936",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "李强出席第29次中国－东盟领导人会议",
       "originalTitle": "李强出席第29次中国－东盟领导人会议",
       "published": "2026-11-16T13:26:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/828891",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828891",
-        "retrievedAt": "2026-11-16T15:57:09.094015+08:00",
-        "sha256": "4cab6c50144f2448002da8490c550fb961f94f52a13b353b7fac9a5048811af8",
-        "paragraphCount": 5,
-        "excerpt": "新华社马尼拉11月16日电（记者邰背平 李萌）11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。"
-      }
-    },
-    {
-      "event": "国家统计局：10月份国民经济运行总体平稳、向新向优",
-      "originalTitle": "国家统计局：10月份国民经济运行总体平稳、向新向优",
-      "published": "2026-11-16T10:05:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828831",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
-      "originalTitle": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
-      "published": "2026-11-16T09:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828822",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-      "originalTitle": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-      "published": "2026-11-16T09:12:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/828819",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "英伟达，暗盘拉升！",
-      "originalTitle": "英伟达，暗盘拉升！",
-      "published": "2026-11-16T08:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828805",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
-      "originalTitle": "海内外超10万学子角逐 赛事规模再创历史新高 2026“上证杯” 全国高校ETF大赛落幕",
-      "published": "2026-11-16T08:24:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828784",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
-      "originalTitle": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动",
-      "published": "2026-11-16T08:19:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/828783",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "南非发生枪击事件致8人死亡 - 新华网",
-      "published": "2026-11-16T07:43:51+00:00",
+      "event": "一组数据看10月份国民经济运行总体平稳、向新向优 - 新华网",
+      "published": "2026-11-16T12:10:32+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13M3RNbHItNWJIelpEdWZhSl9hRVVQdDhTMkZra1hJUml5MmlfZ1FQOFRnQ1FSVzcxRXBzWmkwSXNTRGEybl9PWjdRbTItR1p3eXVNeDQ0SmdIM1gyTTFIdjNINU5pbGZhaXVuQ1pIbnNBSmJ1M0xN?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "南非发生枪击事件致8人死亡 - 新华网"
+      "originalTitle": "一组数据看10月份国民经济运行总体平稳、向新向优 - 新华网"
     },
     {
-      "event": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
-      "published": "2026-11-16T07:43:42+00:00",
+      "event": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新华网",
+      "published": "2026-11-16T11:49:31+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFRfQkVnNVpPM0dYdnJnWEZ3ZGpZT19LcVJLdFVNTjF4SlpySTZzMUdORTU0MXFRRnVkYjZ0cGctdERud0tTbGgtUm1neVlNdjBaRVhpZlkwQTk5VlBMVjBIS2hleWswNmZYYUtTTXo3amdEdHE5UlpzQnYyQkUxZQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国邮政发布《丁未年》特种邮票图稿 - 新华网"
+      "originalTitle": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新华网"
     },
     {
-      "event": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
-      "published": "2026-11-16T07:29:27+00:00",
+      "event": "王小洪在四川调研时强调 坚定信心 抢抓机遇 全力完成全年经济社会发展主要目标任务 - 新华网",
+      "published": "2026-11-16T11:37:30+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmhKX200WmdJMk9lSXVmNkRYYW1Fb3h4cUU3bGlvUThMMUZHNHo3VENuM19rZmUzcjJSQ3hKanRndUFhRTVGUlkwTEk0cndzNEsyX0gyaXNMbXFUZ2ZjZEtJOTRUZzIwazEzb2hWYTFHcnFBSFFmY0QzRVRUX18zQUQ3WQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网"
+      "originalTitle": "王小洪在四川调研时强调 坚定信心 抢抓机遇 全力完成全年经济社会发展主要目标任务 - 新华网"
+    },
+    {
+      "event": "总体平稳 向新向优——透视10月国民经济运行态势 - 新华网",
+      "published": "2026-11-16T11:16:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XdGFvWDYtZHJ3ZzlzRFNFYXQ0bGFSNWFZNVVNbnJkTW9ZOTJRU0lhcy05OHlKeDAzRzg1dVRWcklISXFNNDY3YXdrNGRVMk1ZdkRuUWdqaEdMbGVkTkhRTy0zMU5yUzlIdFhPbnVMLThJeXVkeHRN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "总体平稳 向新向优——透视10月国民经济运行态势 - 新华网"
     }
   ],
   "quality": {
