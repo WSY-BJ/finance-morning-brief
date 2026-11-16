@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-15",
-  "date": "更新于北京时间 2026-11-15 19:57",
-  "reportDate": "2026-11-15",
-  "updatedAt": "2026-11-15T19:57:28+08:00",
+  "edition": "财经晨报 · 2026-11-16",
+  "date": "更新于北京时间 2026-11-16 08:58",
+  "reportDate": "2026-11-16",
+  "updatedAt": "2026-11-16T08:58:59+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-15 财经资料（待核验）",
+    "title": "2026-11-16 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,13 +33,13 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-11：92.14 美元/桶；较 2026-11-10 变化 +1.98 美元/桶。",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-13：95.84 美元/桶；较 2026-11-12 变化 +0.02 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
@@ -65,29 +65,29 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "92.14 美元/桶；变化 +1.98 美元/桶",
+          "title": "Brent 原油期货",
+          "summary": "95.84 美元/桶；变化 +0.02 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-11；前值 90.16（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 95.82（2026-11-12）；来源：Yahoo Finance。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.86 %；变化 +0.13 个百分点",
+          "summary": "4.88 %；变化 +0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,156 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "这公司急了：公章作废仍被冒用！",
+          "title": "上证早知道｜003033，收购液冷散热器件公司；002603，1.1类中药创新药获批",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T14:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T08:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：•国务院新闻办公室将于11月16日（星期一）上午10时举行新闻发布会，介绍2026年10月份国民经济运行情况。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828640"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828807"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "内存之后，显示面板也跟涨？TCL华星最新判断",
+          "title": "科技板块调整提升投资赔率 私募积极寻找反弹机会",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T14:07:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T08:36:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近期，A股市场有所调整，前期表现强势的科技成长板块出现波动。随着部分热门赛道估值回落，市场风险收益比逐步发生变化，一些私募机构开始重新审视科技板块的布局价值，积极寻找调整后的反弹机会。受访机构认为，部分优质科技资产经过前期调整，投资赔率有所"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828641"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828798"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
+          "title": "掘金中国资产 海外资金看多信号密集显现",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T11:35:15+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T08:26:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月以来，全球股市波动，多只中概股逆势走强。截至11月12日，百济神州、小米集团、虎牙11月以来涨幅均超过10%；携程、汽车之家、爱奇艺、网易、京东等个股涨幅均超过7%。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828790"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
+          "title": "英伟达，暗盘拉升！",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T11:12:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T08:25:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 美东时间周五，美股三大指数涨跌不一。截至收盘，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。从全周表现看，三大指数均录得涨幅：标普500指数累涨2.5%，道指涨2.1%，纳指涨2.3%，结束此前连续跌势，也"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/828633"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828805"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
+          "title": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T11:11:17+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-16T08:04:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：深圳，莲花山公园，一棵习近平总书记亲手种下的高山榕，枝繁叶茂，见证这座城市的发展成长。山脚下，亚太经合组织（APEC）主题花坛色彩斑斓，层层递进的造型寓意亚太各经济体深化合作、携手共荣。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/828779"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
+          "title": "外交部与新华社联合推出APEC创意视频 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T10:48:41+00:00；来源：新华网。",
+            "发布时间：2026-11-16T00:11:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkU1FHSXZnbWdIZG54S285ZFhlZWYtQ3E0YVRvTEVIb1FWNW1keFZvQWFuZVNyZnQwazVOQ2pNUU1EeHZlU3pXUTRsQXR1Z1dONUN3M3RFQXFkNU16RXI3QkpvN2R5MEhHaGxGV0FIamtmOUJQUXVjeUtlT3A?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
+          "title": "何立峰：推动干部树立和践行正确政绩观 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T10:47:10+00:00；来源：新华网。",
+            "发布时间：2026-11-16T00:04:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qQ3JKbVB1V0pTMmNjRzVBRFdYZG9TU2JVMW9McFZjeUtkNkFqZUQ4a29tVVZLMjZaYnM2RUhacHRFcE0wODRoR2VLaXM5aXdKSnI5Z1NNbVJmRGpSbGhaNHJFUVJleDhvazEwbkVMSEc2RlVQRkI0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
+          "title": "管住AI解决问题的能力 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T10:29:18+00:00；来源：新华网。",
+            "发布时间：2026-11-16T00:03:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5V080WXdicmdRS0I5ZkxYdkZMMURTdWs1ZjBMNXJJRjRaY1hZNUpiMGprYXhtQlJXejVZd1VmSG5TYmtJbVBValVEeEVjQkh1Q2gwSXpoWXNHaDVVUnE3ME5DOXFSNDVWV29iZGRuVE5YTGx0VU05NEIzWHdTQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "研究显示全球冰冻圈正加速退化 - 新华网",
+          "title": "面试“作业”不可越界 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T10:29:18+00:00；来源：新华网。",
+            "发布时间：2026-11-16T00:02:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdFBVbkp5d0I3UndIaFFOb0FqdGRrTThpaG0yQm85bEJrMnB0YXdjUUNGaGhILW9zZ2ZPZTcxdjZaVFg2dWVKb2JuWkRtQ0VIT1lMVzZxeDlEc0JXOTBRTl9Lb3VaZTJHc1F2VXV3aV96Y0FVRUsxTDduRTZEZ3M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
+          "title": "打通算力应用“最后一公里” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-15T10:16:16+00:00；来源：新华网。",
+            "发布时间：2026-11-16T00:01:35+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnI3bjNYUGQzSlhLcmU3YXBqY1VkS1FVb1dpN1hxMTFzdV9fbTBKRUQ1MVo1Vjk4UWg3WDlyeTVlWXN0MW1rN0hjWGs5Z0hzTEYxbjY5YThmT1M2b2NFc0RlRGJvcDJOSEhZRS1LcXg3YUNtd3FqWEdlNjVJWjNMTVpoaw?oc=5"
             }
           ]
         }
@@ -345,7 +350,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 38 课：情景分析",
+      "title": "第 39 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,18 +384,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-13"
     },
     {
@@ -399,14 +399,19 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-11"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-12"
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-13"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +419,171 @@
       "asOf": "2026-11-12"
     },
     {
-      "title": "这公司急了：公章作废仍被冒用！",
-      "url": "https://www.cnstock.com/commonDetail/828640",
-      "asOf": "2026-11-15T14:07:00+08:00"
+      "title": "上证早知道｜003033，收购液冷散热器件公司；002603，1.1类中药创新药获批",
+      "url": "https://www.cnstock.com/commonDetail/828807",
+      "asOf": "2026-11-16T08:36:00+08:00"
     },
     {
-      "title": "内存之后，显示面板也跟涨？TCL华星最新判断",
-      "url": "https://www.cnstock.com/commonDetail/828641",
-      "asOf": "2026-11-15T14:07:00+08:00"
+      "title": "科技板块调整提升投资赔率 私募积极寻找反弹机会",
+      "url": "https://www.cnstock.com/commonDetail/828798",
+      "asOf": "2026-11-16T08:36:00+08:00"
     },
     {
-      "title": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5",
-      "asOf": "2026-11-15T11:35:15+00:00"
+      "title": "掘金中国资产 海外资金看多信号密集显现",
+      "url": "https://www.cnstock.com/commonDetail/828790",
+      "asOf": "2026-11-16T08:26:00+08:00"
     },
     {
-      "title": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
-      "url": "https://www.cnstock.com/commonDetail/828633",
-      "asOf": "2026-11-15T11:12:00+08:00"
+      "title": "英伟达，暗盘拉升！",
+      "url": "https://www.cnstock.com/commonDetail/828805",
+      "asOf": "2026-11-16T08:25:00+08:00"
     },
     {
-      "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5",
-      "asOf": "2026-11-15T11:11:17+00:00"
+      "title": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事",
+      "url": "https://www.cnstock.com/commonDetail/828779",
+      "asOf": "2026-11-16T08:04:00+08:00"
     },
     {
-      "title": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5",
-      "asOf": "2026-11-15T10:48:41+00:00"
+      "title": "外交部与新华社联合推出APEC创意视频 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkU1FHSXZnbWdIZG54S285ZFhlZWYtQ3E0YVRvTEVIb1FWNW1keFZvQWFuZVNyZnQwazVOQ2pNUU1EeHZlU3pXUTRsQXR1Z1dONUN3M3RFQXFkNU16RXI3QkpvN2R5MEhHaGxGV0FIamtmOUJQUXVjeUtlT3A?oc=5",
+      "asOf": "2026-11-16T00:11:31+00:00"
     },
     {
-      "title": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5",
-      "asOf": "2026-11-15T10:47:10+00:00"
+      "title": "何立峰：推动干部树立和践行正确政绩观 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qQ3JKbVB1V0pTMmNjRzVBRFdYZG9TU2JVMW9McFZjeUtkNkFqZUQ4a29tVVZLMjZaYnM2RUhacHRFcE0wODRoR2VLaXM5aXdKSnI5Z1NNbVJmRGpSbGhaNHJFUVJleDhvazEwbkVMSEc2RlVQRkI0?oc=5",
+      "asOf": "2026-11-16T00:04:29+00:00"
     },
     {
-      "title": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5",
-      "asOf": "2026-11-15T10:29:18+00:00"
+      "title": "管住AI解决问题的能力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5V080WXdicmdRS0I5ZkxYdkZMMURTdWs1ZjBMNXJJRjRaY1hZNUpiMGprYXhtQlJXejVZd1VmSG5TYmtJbVBValVEeEVjQkh1Q2gwSXpoWXNHaDVVUnE3ME5DOXFSNDVWV29iZGRuVE5YTGx0VU05NEIzWHdTQQ?oc=5",
+      "asOf": "2026-11-16T00:03:31+00:00"
     },
     {
-      "title": "研究显示全球冰冻圈正加速退化 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5",
-      "asOf": "2026-11-15T10:29:18+00:00"
+      "title": "面试“作业”不可越界 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdFBVbkp5d0I3UndIaFFOb0FqdGRrTThpaG0yQm85bEJrMnB0YXdjUUNGaGhILW9zZ2ZPZTcxdjZaVFg2dWVKb2JuWkRtQ0VIT1lMVzZxeDlEc0JXOTBRTl9Lb3VaZTJHc1F2VXV3aV96Y0FVRUsxTDduRTZEZ3M?oc=5",
+      "asOf": "2026-11-16T00:02:53+00:00"
     },
     {
-      "title": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5",
-      "asOf": "2026-11-15T10:16:16+00:00"
+      "title": "打通算力应用“最后一公里” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnI3bjNYUGQzSlhLcmU3YXBqY1VkS1FVb1dpN1hxMTFzdV9fbTBKRUQ1MVo1Vjk4UWg3WDlyeTVlWXN0MW1rN0hjWGs5Z0hzTEYxbjY5YThmT1M2b2NFc0RlRGJvcDJOSEhZRS1LcXg3YUNtd3FqWEdlNjVJWjNMTVpoaw?oc=5",
+      "asOf": "2026-11-16T00:01:35+00:00"
     }
   ],
   "events": [
     {
-      "event": "这公司急了：公章作废仍被冒用！",
-      "originalTitle": "这公司急了：公章作废仍被冒用！",
-      "published": "2026-11-15T14:07:00+08:00",
+      "event": "上证早知道｜003033，收购液冷散热器件公司；002603，1.1类中药创新药获批",
+      "originalTitle": "上证早知道｜003033，收购液冷散热器件公司；002603，1.1类中药创新药获批",
+      "published": "2026-11-16T08:36:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828640",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "内存之后，显示面板也跟涨？TCL华星最新判断",
-      "originalTitle": "内存之后，显示面板也跟涨？TCL华星最新判断",
-      "published": "2026-11-15T14:07:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/828641",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "COP31“中国角”聚焦全球城市可持续发展 - 新华网",
-      "published": "2026-11-15T11:35:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSkdCM0I0MlBMR1hFRzRuVHVjZFVGZmJPN0xIMGJNS3BSYm03Nllpa2hfa05lbFJ3aU1tSGhrQ19PSHE0Yzh2bHVMTEktNUlrSFMxX3FyUmluSFZwUHRYWVpjTGhEZFk0LVJlVmcwc3BWbDUzWXZ4cDUyR1EyWkE?oc=5",
+      "url": "https://www.cnstock.com/commonDetail/828807",
       "evidenceLevel": "headline-only",
-      "originalTitle": "COP31“中国角”聚焦全球城市可持续发展 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828807",
+        "retrievedAt": "2026-11-16T08:58:59.346498+08:00",
+        "sha256": "6cb3ef65e6fcd10025088dd91ed31f5e0cabb71685dd5f95ecb41f0362b3d3f2",
+        "paragraphCount": 31,
+        "excerpt": "•国务院新闻办公室将于11月16日（星期一）上午10时举行新闻发布会，介绍2026年10月份国民经济运行情况。"
+      }
     },
     {
-      "event": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
-      "originalTitle": "聚焦APEC·特稿｜开放融通大道宽——习近平主席推动建设“开放亚太”的故事",
-      "published": "2026-11-15T11:12:00+08:00",
+      "event": "科技板块调整提升投资赔率 私募积极寻找反弹机会",
+      "originalTitle": "科技板块调整提升投资赔率 私募积极寻找反弹机会",
+      "published": "2026-11-16T08:36:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828798",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828798",
+        "retrievedAt": "2026-11-16T08:58:59.346498+08:00",
+        "sha256": "2a93acf687a5bda792957196eaac43021ad5cd70df43d10c4c4e63c84d340a8a",
+        "paragraphCount": 9,
+        "excerpt": "近期，A股市场有所调整，前期表现强势的科技成长板块出现波动。随着部分热门赛道估值回落，市场风险收益比逐步发生变化，一些私募机构开始重新审视科技板块的布局价值，积极寻找调整后的反弹机会。受访机构认为，部分优质科技资产经过前期调整，投资赔率有所"
+      }
+    },
+    {
+      "event": "掘金中国资产 海外资金看多信号密集显现",
+      "originalTitle": "掘金中国资产 海外资金看多信号密集显现",
+      "published": "2026-11-16T08:26:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/828790",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828790",
+        "retrievedAt": "2026-11-16T08:58:59.346498+08:00",
+        "sha256": "51d7654b7ebed8d57813460780de7c52db4718cbe1051e87d9d85e2186ea95ce",
+        "paragraphCount": 20,
+        "excerpt": "11月以来，全球股市波动，多只中概股逆势走强。截至11月12日，百济神州、小米集团、虎牙11月以来涨幅均超过10%；携程、汽车之家、爱奇艺、网易、京东等个股涨幅均超过7%。"
+      }
+    },
+    {
+      "event": "英伟达，暗盘拉升！",
+      "originalTitle": "英伟达，暗盘拉升！",
+      "published": "2026-11-16T08:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/828805",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828805",
+        "retrievedAt": "2026-11-16T08:58:59.346498+08:00",
+        "sha256": "9900d3bf75ffd7276aef1e3f782bb49c38d8ba94270a3f43068046e9b00d09c7",
+        "paragraphCount": 15,
+        "excerpt": "上证报中国证券网讯 美东时间周五，美股三大指数涨跌不一。截至收盘，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。从全周表现看，三大指数均录得涨幅：标普500指数累涨2.5%，道指涨2.1%，纳指涨2.3%，结束此前连续跌势，也"
+      }
+    },
+    {
+      "event": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事",
+      "originalTitle": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事",
+      "published": "2026-11-16T08:04:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/828633",
-      "evidenceLevel": "headline-only"
+      "url": "https://www.cnstock.com/commonDetail/828779",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828779",
+        "retrievedAt": "2026-11-16T08:58:59.346498+08:00",
+        "sha256": "afdb26762e75df4cc16f13d7e743f80e0fa904ca73ebaae30da437f014278a67",
+        "paragraphCount": 20,
+        "excerpt": "深圳，莲花山公园，一棵习近平总书记亲手种下的高山榕，枝繁叶茂，见证这座城市的发展成长。山脚下，亚太经合组织（APEC）主题花坛色彩斑斓，层层递进的造型寓意亚太各经济体深化合作、携手共荣。"
+      }
     },
     {
-      "event": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网",
-      "published": "2026-11-15T11:11:17+00:00",
+      "event": "外交部与新华社联合推出APEC创意视频 - 新华网",
+      "published": "2026-11-16T00:11:31+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2blNvb0tVU0xYQzVFaUdtVUxNN21qanNKVmtyZ0dtMGxwUUZscWZJVDhFbDZMbUdIaHVKSDJNSERLN0tYeW92eFhTOEJ1X2JSQ0ZycTZOUmhyN2lGaV9yZzR3aVJZN3hvNDNST2xoaDBOYm9wSVVyTEdQRm5HZFU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkU1FHSXZnbWdIZG54S285ZFhlZWYtQ3E0YVRvTEVIb1FWNW1keFZvQWFuZVNyZnQwazVOQ2pNUU1EeHZlU3pXUTRsQXR1Z1dONUN3M3RFQXFkNU16RXI3QkpvN2R5MEhHaGxGV0FIamtmOUJQUXVjeUtlT3A?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会 - 新华网"
+      "originalTitle": "外交部与新华社联合推出APEC创意视频 - 新华网"
     },
     {
-      "event": "乌鲁木齐地铁2号线北段开通运营 - 新华网",
-      "published": "2026-11-15T10:48:41+00:00",
+      "event": "何立峰：推动干部树立和践行正确政绩观 - 新华网",
+      "published": "2026-11-16T00:04:29+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KQXpzOWtoUG5kX1EwS0JDeXljQWdzMU13NFJKQ3lfdm5WaE9Ea3NUdHRXOW9PdWxVR3N1NGhXMUZOOHR5aUZJeUtCS2JkTkhkZ1ktWFNiVzh6XzhtcGRNc1NVN0dnZ2JvQUh5cDUtRXZ3eWRob19R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qQ3JKbVB1V0pTMmNjRzVBRFdYZG9TU2JVMW9McFZjeUtkNkFqZUQ4a29tVVZLMjZaYnM2RUhacHRFcE0wODRoR2VLaXM5aXdKSnI5Z1NNbVJmRGpSbGhaNHJFUVJleDhvazEwbkVMSEc2RlVQRkI0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "乌鲁木齐地铁2号线北段开通运营 - 新华网"
+      "originalTitle": "何立峰：推动干部树立和践行正确政绩观 - 新华网"
     },
     {
-      "event": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网",
-      "published": "2026-11-15T10:47:10+00:00",
+      "event": "管住AI解决问题的能力 - 新华网",
+      "published": "2026-11-16T00:03:31+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15R2VVSmRGT293M3hHaWJiVVFZLVR2bWM3Y2xPOVJzb0hERFpZZXgwMVI0aEpRbDd2aDhxalhiNGRGX1N2ZlJnZ2R4YW5kZi1JdVlQSzdkSkFMN0I3cnltRnczMm14dmdkZVBqdF9mUTFMWG1ocUUtbllkT3RNVFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5V080WXdicmdRS0I5ZkxYdkZMMURTdWs1ZjBMNXJJRjRaY1hZNUpiMGprYXhtQlJXejVZd1VmSG5TYmtJbVBValVEeEVjQkh1Q2gwSXpoWXNHaDVVUnE3ME5DOXFSNDVWV29iZGRuVE5YTGx0VU05NEIzWHdTQQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略” - 新华网"
+      "originalTitle": "管住AI解决问题的能力 - 新华网"
     },
     {
-      "event": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网",
-      "published": "2026-11-15T10:29:18+00:00",
+      "event": "面试“作业”不可越界 - 新华网",
+      "published": "2026-11-16T00:02:53+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jU2VaTEJiN1J3Vi1aMXJmV1lzNGJ2b29OeEVJd1NiYnhzVnFlM1ZzM3BKNVNjaTJXcVNUUWRxOEwtQ3M4Y09BTEMzc1pDQ1N3Vmt2bldTSm85U3NfSDVlM0RhSWplVEh5V3RFTDdtQmw0WlNNc1VZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdFBVbkp5d0I3UndIaFFOb0FqdGRrTThpaG0yQm85bEJrMnB0YXdjUUNGaGhILW9zZ2ZPZTcxdjZaVFg2dWVKb2JuWkRtQ0VIT1lMVzZxeDlEc0JXOTBRTl9Lb3VaZTJHc1F2VXV3aV96Y0FVRUsxTDduRTZEZ3M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "人民日报评论员：筑牢“根”和“魂” 锻造“顶梁柱” - 新华网"
+      "originalTitle": "面试“作业”不可越界 - 新华网"
     },
     {
-      "event": "研究显示全球冰冻圈正加速退化 - 新华网",
-      "published": "2026-11-15T10:29:18+00:00",
+      "event": "打通算力应用“最后一公里” - 新华网",
+      "published": "2026-11-16T00:01:35+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNmxQdV9vOVRQbXFFd3NydDkxMUFUZXRZT3NRVVNYWUxPSDVGMkhmOC1aN0t1eS1sV1RnQVV4OEpYeC1pQkpjM1RPaUNVRWowTzVLbE0zZXllSnlzZHBnNUhZSVE3dHh6eWd2dnVPV2dObkhiM3JV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnI3bjNYUGQzSlhLcmU3YXBqY1VkS1FVb1dpN1hxMTFzdV9fbTBKRUQ1MVo1Vjk4UWg3WDlyeTVlWXN0MW1rN0hjWGs5Z0hzTEYxbjY5YThmT1M2b2NFc0RlRGJvcDJOSEhZRS1LcXg3YUNtd3FqWEdlNjVJWjNMTVpoaw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "研究显示全球冰冻圈正加速退化 - 新华网"
-    },
-    {
-      "event": "2025年医保目录国谈药品采购金额数量双增长 - 新华网",
-      "published": "2026-11-15T10:16:16+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFBQUtoaUF3LVFOT252b1ltZ0RLdVBUUGI2enhjTFJ0aXpJQzhOXzRtME5rMVVFeHdhMFpQTGdRSS1vYWY4WnBBaUNYUURtZC1zM1JMZl9qeEpRYWFVVmZ0Sjk5SmFMMDVhLXRBbkFkNEtQcHp4dEdSVU1yLU8yUlRkTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2025年医保目录国谈药品采购金额数量双增长 - 新华网"
+      "originalTitle": "打通算力应用“最后一公里” - 新华网"
     }
   ],
   "quality": {
@@ -556,10 +596,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
