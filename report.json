@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-16",
-  "date": "更新于北京时间 2026-11-16 10:23",
+  "date": "更新于北京时间 2026-11-16 10:56",
   "reportDate": "2026-11-16",
-  "updatedAt": "2026-11-16T10:23:13+08:00",
+  "updatedAt": "2026-11-16T10:56:55+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.86 %；变化 +0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：美国财政部。"
+            "观测日 2026-11-12；前值 4.73（2026-11-10）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -297,31 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "WCBA揭幕战卫冕冠军四川队大胜 高颂第20季创纪录 - 新华网",
+          "title": "澳加英意四国敦促以色列立即允许人道援助进入加沙 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T02:15:22+00:00；来源：新华网。",
+            "发布时间：2026-11-16T02:50:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2lGYzJfX2JwdzNiMkxkbnJ5dlBWcFRPdm9SczVHdUVRNDdhOVZJVWhPNjZqUGQ2N0NCTjM0ekEzQnB2aDNEV2JfRkdVcU1SNkxaV3BrZ3Bxcmk1akhIbDlfbkkzRm9tcWVhTXFyRy1Sb3pERVdWeUtFZ1FCODB2OQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybkxIMFFlaVo1NmZUX2NoUDZoY09jRExDbkFQOV9iRGZSWURWdGFQVW85cDl4NmV4eDhLaU1HYUlGcHItOER4V1paa01uUEY5VndTczhSdXByZHhNQzA2OFZvOEVqeTFldkZHR3g3eDdhbFVIajRRejJQSkl5dm8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "波切蒂诺出任曼联主教练 - 新华网",
+          "title": "速度滑冰——世界杯（北京站）：高亭宇夺得男子500米第二次比赛冠军 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T02:07:01+00:00；来源：新华网。",
+            "发布时间：2026-11-16T02:46:01+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFBSYXktN0RuanZKR1duM21ibThRVDczeVR1TTBqbHlTOVA1U1Z0Rk1DUFUyRzlzMWlGS3pGdUZUeFFuYnlNNEF2UkQ5SmRjemJ4NzNlQVdKQkdQLU5pNXBqOHowY01ySUE2ZmNZQ0tvWFNGMmFleXoweWh5dmVpSg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TR0hWbExlOWs3aWcxQlRFTlE3RXA0ZjBSNUFTWlJGQ1NxRGw2VFN5czBYZFpKTkZuSE9HZFhoZGd2dnBsVzZ1TWZkc3l0Q1RSYy1laExRY3RmTmFNV0VLemxqX21iYkNINzBpajBjSGdoR3JOYlJSbTNFSVdaVkU?oc=5"
             }
           ]
         }
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-13"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-13"
     },
     {
@@ -399,14 +389,24 @@
       "asOf": "2026-11-13"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-13"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-13"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-12"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -454,14 +454,14 @@
       "asOf": "2026-11-16T08:19:00+08:00"
     },
     {
-      "title": "WCBA揭幕战卫冕冠军四川队大胜 高颂第20季创纪录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2lGYzJfX2JwdzNiMkxkbnJ5dlBWcFRPdm9SczVHdUVRNDdhOVZJVWhPNjZqUGQ2N0NCTjM0ekEzQnB2aDNEV2JfRkdVcU1SNkxaV3BrZ3Bxcmk1akhIbDlfbkkzRm9tcWVhTXFyRy1Sb3pERVdWeUtFZ1FCODB2OQ?oc=5",
-      "asOf": "2026-11-16T02:15:22+00:00"
+      "title": "澳加英意四国敦促以色列立即允许人道援助进入加沙 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybkxIMFFlaVo1NmZUX2NoUDZoY09jRExDbkFQOV9iRGZSWURWdGFQVW85cDl4NmV4eDhLaU1HYUlGcHItOER4V1paa01uUEY5VndTczhSdXByZHhNQzA2OFZvOEVqeTFldkZHR3g3eDdhbFVIajRRejJQSkl5dm8?oc=5",
+      "asOf": "2026-11-16T02:50:16+00:00"
     },
     {
-      "title": "波切蒂诺出任曼联主教练 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFBSYXktN0RuanZKR1duM21ibThRVDczeVR1TTBqbHlTOVA1U1Z0Rk1DUFUyRzlzMWlGS3pGdUZUeFFuYnlNNEF2UkQ5SmRjemJ4NzNlQVdKQkdQLU5pNXBqOHowY01ySUE2ZmNZQ0tvWFNGMmFleXoweWh5dmVpSg?oc=5",
-      "asOf": "2026-11-16T02:07:01+00:00"
+      "title": "速度滑冰——世界杯（北京站）：高亭宇夺得男子500米第二次比赛冠军 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TR0hWbExlOWs3aWcxQlRFTlE3RXA0ZjBSNUFTWlJGQ1NxRGw2VFN5czBYZFpKTkZuSE9HZFhoZGd2dnBsVzZ1TWZkc3l0Q1RSYy1laExRY3RmTmFNV0VLemxqX21iYkNINzBpajBjSGdoR3JOYlJSbTNFSVdaVkU?oc=5",
+      "asOf": "2026-11-16T02:46:01+00:00"
     }
   ],
   "events": [
@@ -530,20 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "WCBA揭幕战卫冕冠军四川队大胜 高颂第20季创纪录 - 新华网",
-      "published": "2026-11-16T02:15:22+00:00",
+      "event": "澳加英意四国敦促以色列立即允许人道援助进入加沙 - 新华网",
+      "published": "2026-11-16T02:50:16+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2lGYzJfX2JwdzNiMkxkbnJ5dlBWcFRPdm9SczVHdUVRNDdhOVZJVWhPNjZqUGQ2N0NCTjM0ekEzQnB2aDNEV2JfRkdVcU1SNkxaV3BrZ3Bxcmk1akhIbDlfbkkzRm9tcWVhTXFyRy1Sb3pERVdWeUtFZ1FCODB2OQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybkxIMFFlaVo1NmZUX2NoUDZoY09jRExDbkFQOV9iRGZSWURWdGFQVW85cDl4NmV4eDhLaU1HYUlGcHItOER4V1paa01uUEY5VndTczhSdXByZHhNQzA2OFZvOEVqeTFldkZHR3g3eDdhbFVIajRRejJQSkl5dm8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "WCBA揭幕战卫冕冠军四川队大胜 高颂第20季创纪录 - 新华网"
+      "originalTitle": "澳加英意四国敦促以色列立即允许人道援助进入加沙 - 新华网"
     },
     {
-      "event": "波切蒂诺出任曼联主教练 - 新华网",
-      "published": "2026-11-16T02:07:01+00:00",
+      "event": "速度滑冰——世界杯（北京站）：高亭宇夺得男子500米第二次比赛冠军 - 新华网",
+      "published": "2026-11-16T02:46:01+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFBSYXktN0RuanZKR1duM21ibThRVDczeVR1TTBqbHlTOVA1U1Z0Rk1DUFUyRzlzMWlGS3pGdUZUeFFuYnlNNEF2UkQ5SmRjemJ4NzNlQVdKQkdQLU5pNXBqOHowY01ySUE2ZmNZQ0tvWFNGMmFleXoweWh5dmVpSg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TR0hWbExlOWs3aWcxQlRFTlE3RXA0ZjBSNUFTWlJGQ1NxRGw2VFN5czBYZFpKTkZuSE9HZFhoZGd2dnBsVzZ1TWZkc3l0Q1RSYy1laExRY3RmTmFNV0VLemxqX21iYkNINzBpajBjSGdoR3JOYlJSbTNFSVdaVkU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "波切蒂诺出任曼联主教练 - 新华网"
+      "originalTitle": "速度滑冰——世界杯（北京站）：高亭宇夺得男子500米第二次比赛冠军 - 新华网"
     }
   ],
   "quality": {
