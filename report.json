@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-16",
-  "date": "更新于北京时间 2026-11-16 15:13",
+  "date": "更新于北京时间 2026-11-16 15:57",
   "reportDate": "2026-11-16",
-  "updatedAt": "2026-11-16T15:13:34+08:00",
+  "updatedAt": "2026-11-16T15:57:09+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -181,11 +181,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-16T13:26:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社马尼拉11月16日电（记者邰背平 李萌）11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/828891"
             }
           ]
@@ -196,12 +197,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-16T10:05:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国家统计局11月16日消息，10月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828831"
             }
           ]
@@ -212,12 +212,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-16T09:36:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 据国家统计局11月16日消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据称，2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/828822"
             }
           ]
@@ -284,46 +283,46 @@
         },
         {
           "type": "explainer",
-          "title": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
+          "title": "南非发生枪击事件致8人死亡 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:47:08+00:00；来源：新华网。",
+            "发布时间：2026-11-16T07:43:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "俄媒：克里米亚大桥遭袭 - 新华网",
+          "title": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:36:56+00:00；来源：新华网。",
+            "发布时间：2026-11-16T07:43:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
+          "title": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-16T06:33:23+00:00；来源：新华网。",
+            "发布时间：2026-11-16T07:29:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5"
             }
           ]
         }
@@ -381,8 +380,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-13"
     },
     {
@@ -391,8 +390,8 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-13"
     },
     {
@@ -451,19 +450,19 @@
       "asOf": "2026-11-16T08:19:00+08:00"
     },
     {
-      "title": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5",
-      "asOf": "2026-11-16T06:47:08+00:00"
+      "title": "南非发生枪击事件致8人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5",
+      "asOf": "2026-11-16T07:43:51+00:00"
     },
     {
-      "title": "俄媒：克里米亚大桥遭袭 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5",
-      "asOf": "2026-11-16T06:36:56+00:00"
+      "title": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5",
+      "asOf": "2026-11-16T07:43:42+00:00"
     },
     {
-      "title": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5",
-      "asOf": "2026-11-16T06:33:23+00:00"
+      "title": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5",
+      "asOf": "2026-11-16T07:29:27+00:00"
     }
   ],
   "events": [
@@ -473,7 +472,14 @@
       "published": "2026-11-16T13:26:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/828891",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/828891",
+        "retrievedAt": "2026-11-16T15:57:09.094015+08:00",
+        "sha256": "4cab6c50144f2448002da8490c550fb961f94f52a13b353b7fac9a5048811af8",
+        "paragraphCount": 5,
+        "excerpt": "新华社马尼拉11月16日电（记者邰背平 李萌）11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。"
+      }
     },
     {
       "event": "国家统计局：10月份国民经济运行总体平稳、向新向优",
@@ -481,14 +487,7 @@
       "published": "2026-11-16T10:05:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/828831",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828831",
-        "retrievedAt": "2026-11-16T15:13:34.963895+08:00",
-        "sha256": "934383fd7e260b3e6e7dd351b23e1c4969776b66fc6980d107b4605ca0110513",
-        "paragraphCount": 10,
-        "excerpt": "上证报中国证券网讯 据国家统计局11月16日消息，10月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
@@ -496,14 +495,7 @@
       "published": "2026-11-16T09:36:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/828822",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/828822",
-        "retrievedAt": "2026-11-16T15:13:34.963895+08:00",
-        "sha256": "edcd6da6bad420b432b3453ffb551bdaf21f9d36a58ee31db8a488fda6fff3e3",
-        "paragraphCount": 5,
-        "excerpt": "上证报中国证券网讯 据国家统计局11月16日消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据称，2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
@@ -538,28 +530,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网",
-      "published": "2026-11-16T06:47:08+00:00",
+      "event": "南非发生枪击事件致8人死亡 - 新华网",
+      "published": "2026-11-16T07:43:51+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3BQWnhNbjhVb25VbW9nb2pZaWpfZVp1TUE5NlV2NmFYRWVwajFaczlIRU5oUlI3eFI1aV9JOG1KTjZyMEw5bWU1NHNYdmVUbkZCTWlsenREbzZJVG1kWDhiOFZGVTJQWEJOYXFCekFDQzBRaHR0aXBwVmdINTVPaFln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZ3hrUnpNc05BZVhsSF9LWWxtWkhtOTRPM2ZWS0g0WFJ1MHljN2tOQzZQMGYxUmo5b2hjNGxiMkpjX19iUnNWeFFqWDZlYUtXSThsT1dIZlJRajVnekUxS1BNZHFHOGE0Nl91OE42bWFXZXhuMWFCSVJndl9rdEE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "权威解读｜从前10个月数据看中国经济向新向优 - 新华网"
+      "originalTitle": "南非发生枪击事件致8人死亡 - 新华网"
     },
     {
-      "event": "俄媒：克里米亚大桥遭袭 - 新华网",
-      "published": "2026-11-16T06:36:56+00:00",
+      "event": "中国邮政发布《丁未年》特种邮票图稿 - 新华网",
+      "published": "2026-11-16T07:43:42+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNV9EWnpzd0FlejRoaU9CdHpnbUVXVVBobHhZbzdQTmJnblIwc0toZGJOc0RnanZHLUdRQ0o1RW1vSlE2QWd4aU5BcGRLcXpseWdOS0VqMzdra3Z1ODNtb1VHUWJXYmdyUjZDdFlxYmRRVlo4cFNnRWlaX2Z4Nk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdSNW53SC13QzRIdk9FNDNVMkVfaW5vRnExdGpMSFlXNWstRWpNQW5zTGZuMFl5U0pWM1ljUDhkeFNxNHpPWUFFU3hpMlZGSEJsV3dGaHpfOTJFdERnMTFWcllCVV9Fekc1eDdxeWRtUlRtQjVseU9rQnh5bDZ2TU1WRQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "俄媒：克里米亚大桥遭袭 - 新华网"
+      "originalTitle": "中国邮政发布《丁未年》特种邮票图稿 - 新华网"
     },
     {
-      "event": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网",
-      "published": "2026-11-16T06:33:23+00:00",
+      "event": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网",
+      "published": "2026-11-16T07:29:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FJaWttWi00Q0hoYl9CLXdCaFZNbWh0eGJ6QXJIcjAycnBXcVdKV3p0akpiMHNpQl9ZY2FWbEJhb050R2xYWXZuczZzRUFfa3owcElxemdEZTEzU1hmdWc1VFJKTGdqYk1YVUVhVm4tbVlpSW8zTzgweGtCbFE5Ug?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUGotUlFTOGs3SGltOWJobzFLdVpWV19KUmtWWU5TOVAzdXdyLV94cXlKejZ4TURRTjljZy1xMi1lOUk3eHJBdC1UdmQ1WW81SXlsTS1UUVB5ejhHeDNEaWFobVZKZzNCSTY5R19jdjNLc0stdW5sVW52RDMwSzA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "到2030年，全国新型储能装机规模达3亿千瓦——推动新型储能进入市场化发展阶段 - 新华网"
+      "originalTitle": "网球——WTA年终总决赛：安德烈耶娃夺冠 - 新华网"
     }
   ],
   "quality": {
@@ -573,6 +565,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
