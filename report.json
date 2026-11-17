@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 13:37",
+  "date": "更新于北京时间 2026-11-17 15:44",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T13:37:24+08:00",
+  "updatedAt": "2026-11-17T15:44:30+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,16 +177,16 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+          "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T11:04:00+08:00；来源：新华社。",
+            "发布时间：2026-11-17T14:02:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829416"
+              "url": "https://www.cnstock.com/commonDetail/829470"
             }
           ]
         },
@@ -282,21 +282,6 @@
         },
         {
           "type": "explainer",
-          "title": "量化“负超额”三问",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T07:53:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829342"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
           "summary": "",
           "paragraphs": [
@@ -322,6 +307,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/829335"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T06:59:46+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5"
             }
           ]
         }
@@ -379,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-16"
     },
     {
@@ -389,8 +389,8 @@
       "asOf": "2026-11-16"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-16"
     },
     {
@@ -414,9 +414,9 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "url": "https://www.cnstock.com/commonDetail/829416",
-      "asOf": "2026-11-17T11:04:00+08:00"
+      "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
+      "url": "https://www.cnstock.com/commonDetail/829470",
+      "asOf": "2026-11-17T14:02:00+08:00"
     },
     {
       "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
@@ -449,11 +449,6 @@
       "asOf": "2026-11-17T08:00:00+08:00"
     },
     {
-      "title": "量化“负超额”三问",
-      "url": "https://www.cnstock.com/commonDetail/829342",
-      "asOf": "2026-11-17T07:53:00+08:00"
-    },
-    {
       "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
       "url": "https://www.cnstock.com/commonDetail/829334",
       "asOf": "2026-11-17T07:11:00+08:00"
@@ -462,15 +457,20 @@
       "title": "政策优化显成效 楼市出现积极变化",
       "url": "https://www.cnstock.com/commonDetail/829335",
       "asOf": "2026-11-17T07:11:00+08:00"
+    },
+    {
+      "title": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5",
+      "asOf": "2026-11-17T06:59:46+00:00"
     }
   ],
   "events": [
     {
-      "event": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "originalTitle": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "published": "2026-11-17T11:04:00+08:00",
+      "event": "新华社社评：共商亚太发展大计，共创亚太美好未来",
+      "originalTitle": "新华社社评：共商亚太发展大计，共创亚太美好未来",
+      "published": "2026-11-17T14:02:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829416",
+      "url": "https://www.cnstock.com/commonDetail/829470",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,14 +522,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "量化“负超额”三问",
-      "originalTitle": "量化“负超额”三问",
-      "published": "2026-11-17T07:53:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829342",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
       "originalTitle": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
       "published": "2026-11-17T07:11:00+08:00",
@@ -544,6 +536,14 @@
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/829335",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
+      "published": "2026-11-17T06:59:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特写：台北夜市里的“生意经”与“交流盼” - 新华网"
     }
   ],
   "quality": {
@@ -557,14 +557,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
-      "article: ValueError",
+      "article: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
