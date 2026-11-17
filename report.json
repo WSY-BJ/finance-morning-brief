@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 16:27",
+  "date": "更新于北京时间 2026-11-17 17:10",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T16:27:09+08:00",
+  "updatedAt": "2026-11-17T17:10:50+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "summary": "2026-11-16：5.12 %；较 2026-11-13 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.88 %；变化 +0.02 个百分点",
+          "summary": "4.83 %；变化 -0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-16；前值 4.88（2026-11-13）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.15 %；变化 +0.05 个百分点",
+          "summary": "5.12 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-16；前值 5.15（2026-11-13）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,53 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T16:57:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829522"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T16:56:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 何奎）记者近日获悉，上海金融监管局联合中国人民银行上海市分行印发《关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知》（下称《通知》），推动上海银行业保险业构建“精准化、常态化、多元化、专业化、系统化”绿"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/829514"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "《半导体设备与零部件质量管理体系》行业标准发布",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T16:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月17日电（记者 周圆）记者17日获悉，工业和信息化部日前批准《半导体设备与零部件质量管理体系》行业标准，旨在系统规范半导体设备与零部件全生命周期质量管理。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/829497"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
           "summary": "",
           "paragraphs": [
@@ -222,6 +269,21 @@
         },
         {
           "type": "explainer",
+          "title": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:56:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
           "summary": "",
           "paragraphs": [
@@ -252,76 +314,16 @@
         },
         {
           "type": "explainer",
-          "title": "创新药鲁兹诺雷钠成功纳入新版国家医保目录 - 新华网",
+          "title": "山东省聊城市出台数字经济发展规划 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:14:22+00:00；来源：新华网。",
+            "发布时间：2026-11-17T08:38:56+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDQwczAyRGVYaDdaSFlPZlJpX3dhd2JXY25mRUdNS1dPbGQ5S0JxREdlZy1taEJjY19tVjRGOTY4NGlrYktRYmxRLTlhVHVXenpOZ2NNN1FsYlZ3ZjZiYTdGeDlJMzFlRzV5THYtOWtmZU5kamtEQnhGOHVXUm5zX0M4cFF6dw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "乌首都基辅遭袭致部分区域交通、供水、供暖中断 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:11:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ycy1WMWJ1MUk0NXBteHB0QUdHcGlDWC1sMlRiQUszay1vRGloeUVkUHRRaG1GSkNSMmk4Mi02ODZUSmR2MzU5OFY2cFNSMGRqSGVCWWF4aVJNT0w0RUVmSEpaSnNzenRkdndUV3h2MTVSRTBjR2NzSEV0Q1k5aXM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026企业家博鳌论坛将于12月1日至4日在海南博鳌举办 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:07:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfZVZYTXpXUUgwNVI0eHZsbTNDUFNJUlBhZzlzdjJwaXFNQlhKY1pYcXFnczc1VkJsb2FFMXdmM0c2OEJKc1FBaEZkZHR1VmtOcDNUb3lIQnlTUWJleVZlSzVuajNVWFhCeDBWQnh6emFSazl1MldPYTQxWUY?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华视点丨一地一特色 看乡土大地的丰收与青绿 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:04:55+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeERPd0VqQ1Q4WV9qcTBkT0dreTVRTTN6NWh1OHI3ckNyZ2dCZ0RUZmlXeWt3SkViWE9PNGo2Vm0xQkh4ZWJJRHAxbFdyeFdrSGN2WFVCbFhjQ3dnUXRKQkJlMDdMZzZjYmhkVlRQMmxpQ0kyc0daZTdicDZ6MkhIVEtVWQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:02:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829347"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5"
             }
           ]
         }
@@ -379,6 +381,11 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-16"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-16"
@@ -394,24 +401,34 @@
       "asOf": "2026-11-16"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-16"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-16"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-13"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-13"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-16"
+    },
+    {
+      "title": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
+      "url": "https://www.cnstock.com/commonDetail/829522",
+      "asOf": "2026-11-17T16:57:00+08:00"
+    },
+    {
+      "title": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
+      "url": "https://www.cnstock.com/commonDetail/829514",
+      "asOf": "2026-11-17T16:56:00+08:00"
+    },
+    {
+      "title": "《半导体设备与零部件质量管理体系》行业标准发布",
+      "url": "https://www.cnstock.com/commonDetail/829497",
+      "asOf": "2026-11-17T16:23:00+08:00"
     },
     {
       "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
@@ -429,6 +446,11 @@
       "asOf": "2026-11-17T09:23:00+08:00"
     },
     {
+      "title": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5",
+      "asOf": "2026-11-17T08:56:07+00:00"
+    },
+    {
       "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
       "url": "https://www.cnstock.com/commonDetail/829305",
       "asOf": "2026-11-17T08:41:00+08:00"
@@ -439,32 +461,50 @@
       "asOf": "2026-11-17T08:41:00+08:00"
     },
     {
-      "title": "创新药鲁兹诺雷钠成功纳入新版国家医保目录 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDQwczAyRGVYaDdaSFlPZlJpX3dhd2JXY25mRUdNS1dPbGQ5S0JxREdlZy1taEJjY19tVjRGOTY4NGlrYktRYmxRLTlhVHVXenpOZ2NNN1FsYlZ3ZjZiYTdGeDlJMzFlRzV5THYtOWtmZU5kamtEQnhGOHVXUm5zX0M4cFF6dw?oc=5",
-      "asOf": "2026-11-17T08:14:22+00:00"
-    },
-    {
-      "title": "乌首都基辅遭袭致部分区域交通、供水、供暖中断 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ycy1WMWJ1MUk0NXBteHB0QUdHcGlDWC1sMlRiQUszay1vRGloeUVkUHRRaG1GSkNSMmk4Mi02ODZUSmR2MzU5OFY2cFNSMGRqSGVCWWF4aVJNT0w0RUVmSEpaSnNzenRkdndUV3h2MTVSRTBjR2NzSEV0Q1k5aXM?oc=5",
-      "asOf": "2026-11-17T08:11:29+00:00"
-    },
-    {
-      "title": "2026企业家博鳌论坛将于12月1日至4日在海南博鳌举办 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfZVZYTXpXUUgwNVI0eHZsbTNDUFNJUlBhZzlzdjJwaXFNQlhKY1pYcXFnczc1VkJsb2FFMXdmM0c2OEJKc1FBaEZkZHR1VmtOcDNUb3lIQnlTUWJleVZlSzVuajNVWFhCeDBWQnh6emFSazl1MldPYTQxWUY?oc=5",
-      "asOf": "2026-11-17T08:07:06+00:00"
-    },
-    {
-      "title": "新华视点丨一地一特色 看乡土大地的丰收与青绿 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeERPd0VqQ1Q4WV9qcTBkT0dreTVRTTN6NWh1OHI3ckNyZ2dCZ0RUZmlXeWt3SkViWE9PNGo2Vm0xQkh4ZWJJRHAxbFdyeFdrSGN2WFVCbFhjQ3dnUXRKQkJlMDdMZzZjYmhkVlRQMmxpQ0kyc0daZTdicDZ6MkhIVEtVWQ?oc=5",
-      "asOf": "2026-11-17T08:04:55+00:00"
-    },
-    {
-      "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "url": "https://www.cnstock.com/commonDetail/829347",
-      "asOf": "2026-11-17T08:02:00+08:00"
+      "title": "山东省聊城市出台数字经济发展规划 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5",
+      "asOf": "2026-11-17T08:38:56+00:00"
     }
   ],
   "events": [
+    {
+      "event": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
+      "originalTitle": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
+      "published": "2026-11-17T16:57:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829522",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
+      "originalTitle": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
+      "published": "2026-11-17T16:56:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829514",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/829514",
+        "retrievedAt": "2026-11-17T17:10:50.480542+08:00",
+        "sha256": "fea7cec087f66500866ce29a48e8034cacd1fe0fbc87729c007ec837228f590c",
+        "paragraphCount": 7,
+        "excerpt": "上证报中国证券网讯（记者 何奎）记者近日获悉，上海金融监管局联合中国人民银行上海市分行印发《关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知》（下称《通知》），推动上海银行业保险业构建“精准化、常态化、多元化、专业化、系统化”绿"
+      }
+    },
+    {
+      "event": "《半导体设备与零部件质量管理体系》行业标准发布",
+      "originalTitle": "《半导体设备与零部件质量管理体系》行业标准发布",
+      "published": "2026-11-17T16:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/829497",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/829497",
+        "retrievedAt": "2026-11-17T17:10:50.480542+08:00",
+        "sha256": "5144d88c28dbe6c7dd30bcdadca5d24a0a5b081cae8eda756eecfd9df13c0a5f",
+        "paragraphCount": 5,
+        "excerpt": "新华社北京11月17日电（记者 周圆）记者17日获悉，工业和信息化部日前批准《半导体设备与零部件质量管理体系》行业标准，旨在系统规范半导体设备与零部件全生命周期质量管理。"
+      }
+    },
     {
       "event": "新华社社评：共商亚太发展大计，共创亚太美好未来",
       "originalTitle": "新华社社评：共商亚太发展大计，共创亚太美好未来",
@@ -490,6 +530,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
+      "published": "2026-11-17T08:56:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网"
+    },
+    {
       "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
       "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
       "published": "2026-11-17T08:41:00+08:00",
@@ -506,44 +554,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "创新药鲁兹诺雷钠成功纳入新版国家医保目录 - 新华网",
-      "published": "2026-11-17T08:14:22+00:00",
+      "event": "山东省聊城市出台数字经济发展规划 - 新华网",
+      "published": "2026-11-17T08:38:56+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDQwczAyRGVYaDdaSFlPZlJpX3dhd2JXY25mRUdNS1dPbGQ5S0JxREdlZy1taEJjY19tVjRGOTY4NGlrYktRYmxRLTlhVHVXenpOZ2NNN1FsYlZ3ZjZiYTdGeDlJMzFlRzV5THYtOWtmZU5kamtEQnhGOHVXUm5zX0M4cFF6dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "创新药鲁兹诺雷钠成功纳入新版国家医保目录 - 新华网"
-    },
-    {
-      "event": "乌首都基辅遭袭致部分区域交通、供水、供暖中断 - 新华网",
-      "published": "2026-11-17T08:11:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ycy1WMWJ1MUk0NXBteHB0QUdHcGlDWC1sMlRiQUszay1vRGloeUVkUHRRaG1GSkNSMmk4Mi02ODZUSmR2MzU5OFY2cFNSMGRqSGVCWWF4aVJNT0w0RUVmSEpaSnNzenRkdndUV3h2MTVSRTBjR2NzSEV0Q1k5aXM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "乌首都基辅遭袭致部分区域交通、供水、供暖中断 - 新华网"
-    },
-    {
-      "event": "2026企业家博鳌论坛将于12月1日至4日在海南博鳌举办 - 新华网",
-      "published": "2026-11-17T08:07:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfZVZYTXpXUUgwNVI0eHZsbTNDUFNJUlBhZzlzdjJwaXFNQlhKY1pYcXFnczc1VkJsb2FFMXdmM0c2OEJKc1FBaEZkZHR1VmtOcDNUb3lIQnlTUWJleVZlSzVuajNVWFhCeDBWQnh6emFSazl1MldPYTQxWUY?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026企业家博鳌论坛将于12月1日至4日在海南博鳌举办 - 新华网"
-    },
-    {
-      "event": "新华视点丨一地一特色 看乡土大地的丰收与青绿 - 新华网",
-      "published": "2026-11-17T08:04:55+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeERPd0VqQ1Q4WV9qcTBkT0dreTVRTTN6NWh1OHI3ckNyZ2dCZ0RUZmlXeWt3SkViWE9PNGo2Vm0xQkh4ZWJJRHAxbFdyeFdrSGN2WFVCbFhjQ3dnUXRKQkJlMDdMZzZjYmhkVlRQMmxpQ0kyc0daZTdicDZ6MkhIVEtVWQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华视点丨一地一特色 看乡土大地的丰收与青绿 - 新华网"
-    },
-    {
-      "event": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "originalTitle": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "published": "2026-11-17T08:02:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829347",
-      "evidenceLevel": "headline-only"
+      "originalTitle": "山东省聊城市出台数字经济发展规划 - 新华网"
     }
   ],
   "quality": {
@@ -557,11 +573,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
+      "article: HTTPError",
       "article: ValueError"
     ]
   }
