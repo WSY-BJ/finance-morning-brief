@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 15:44",
+  "date": "更新于北京时间 2026-11-17 15:56",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T15:44:30+08:00",
+  "updatedAt": "2026-11-17T15:56:00+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -222,21 +222,6 @@
         },
         {
           "type": "explainer",
-          "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829305"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
           "summary": "",
           "paragraphs": [
@@ -247,6 +232,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/829307"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829305"
             }
           ]
         },
@@ -282,46 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+          "title": "量化“负超额”三问",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T07:53:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829334"
+              "url": "https://www.cnstock.com/commonDetail/829342"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "政策优化显成效 楼市出现积极变化",
+          "title": "“智能好物”热卖，消费解锁新空间 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T07:44:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829335"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3djcHlDSDBfWmZjdnozTGlxc3JqaXd4X3Z3SGRhaEZkZkthZnljdWpzQ2l0elNSQk9HTUpQVG1taG5rTXU3R0NFcnBoYkphQTVzTFljeDluX0NQSUs2cGlKT1F2RUZPNWtueE5xaUxBQlJRSFBoVzhkNDBkeWZXREJB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
+          "title": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T06:59:46+00:00；来源：新华网。",
+            "发布时间：2026-11-17T07:39:20+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGp4bzVaLS1VdC1sU0lpZk1EYlJFWmg1WE1tX0FfN3JsWW5uU3QweHUxMXQ1Z2l3eVRNOGpfYzUwZ0g1WGVfRFZBbmJsXzhGeTRySlVhS3A2amw3T1FLRzNHTWg5eTRyMG45cG9DdGIzSzhXV3RGVlhyam9PWFFZRFln?oc=5"
             }
           ]
         }
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-16"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-16"
@@ -386,11 +391,6 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-16"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-16"
     },
     {
@@ -404,13 +404,13 @@
       "asOf": "2026-11-16"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-13"
     },
     {
@@ -429,13 +429,13 @@
       "asOf": "2026-11-17T09:23:00+08:00"
     },
     {
-      "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829305",
+      "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+      "url": "https://www.cnstock.com/commonDetail/829307",
       "asOf": "2026-11-17T08:41:00+08:00"
     },
     {
-      "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "url": "https://www.cnstock.com/commonDetail/829307",
+      "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "url": "https://www.cnstock.com/commonDetail/829305",
       "asOf": "2026-11-17T08:41:00+08:00"
     },
     {
@@ -449,19 +449,19 @@
       "asOf": "2026-11-17T08:00:00+08:00"
     },
     {
-      "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "url": "https://www.cnstock.com/commonDetail/829334",
-      "asOf": "2026-11-17T07:11:00+08:00"
+      "title": "量化“负超额”三问",
+      "url": "https://www.cnstock.com/commonDetail/829342",
+      "asOf": "2026-11-17T07:53:00+08:00"
     },
     {
-      "title": "政策优化显成效 楼市出现积极变化",
-      "url": "https://www.cnstock.com/commonDetail/829335",
-      "asOf": "2026-11-17T07:11:00+08:00"
+      "title": "“智能好物”热卖，消费解锁新空间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3djcHlDSDBfWmZjdnozTGlxc3JqaXd4X3Z3SGRhaEZkZkthZnljdWpzQ2l0elNSQk9HTUpQVG1taG5rTXU3R0NFcnBoYkphQTVzTFljeDluX0NQSUs2cGlKT1F2RUZPNWtueE5xaUxBQlJRSFBoVzhkNDBkeWZXREJB?oc=5",
+      "asOf": "2026-11-17T07:44:57+00:00"
     },
     {
-      "title": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5",
-      "asOf": "2026-11-17T06:59:46+00:00"
+      "title": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGp4bzVaLS1VdC1sU0lpZk1EYlJFWmg1WE1tX0FfN3JsWW5uU3QweHUxMXQ1Z2l3eVRNOGpfYzUwZ0g1WGVfRFZBbmJsXzhGeTRySlVhS3A2amw3T1FLRzNHTWg5eTRyMG45cG9DdGIzSzhXV3RGVlhyam9PWFFZRFln?oc=5",
+      "asOf": "2026-11-17T07:39:20+00:00"
     }
   ],
   "events": [
@@ -490,19 +490,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "published": "2026-11-17T08:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829305",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
       "originalTitle": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
       "published": "2026-11-17T08:41:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/829307",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "published": "2026-11-17T08:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829305",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "originalTitle": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "published": "2026-11-17T07:11:00+08:00",
+      "event": "量化“负超额”三问",
+      "originalTitle": "量化“负超额”三问",
+      "published": "2026-11-17T07:53:00+08:00",
       "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829334",
+      "url": "https://www.cnstock.com/commonDetail/829342",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "政策优化显成效 楼市出现积极变化",
-      "originalTitle": "政策优化显成效 楼市出现积极变化",
-      "published": "2026-11-17T07:11:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829335",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "特写：台北夜市里的“生意经”与“交流盼” - 新华网",
-      "published": "2026-11-17T06:59:46+00:00",
+      "event": "“智能好物”热卖，消费解锁新空间 - 新华网",
+      "published": "2026-11-17T07:44:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaERTai13Zi1Md2JobktickF1V05UaENxLXBCNmMyM1l4b2RLNm11TmpxWEV2RmtLWHRpQnZJM3NNWUhjWmw3MUZlMExUX3FYNHRYZFYwXzRtcS1HNHJPTEhSaVpkMmRrTGFWdFM4VVRZNEtFSlZkVFBjbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3djcHlDSDBfWmZjdnozTGlxc3JqaXd4X3Z3SGRhaEZkZkthZnljdWpzQ2l0elNSQk9HTUpQVG1taG5rTXU3R0NFcnBoYkphQTVzTFljeDluX0NQSUs2cGlKT1F2RUZPNWtueE5xaUxBQlJRSFBoVzhkNDBkeWZXREJB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "特写：台北夜市里的“生意经”与“交流盼” - 新华网"
+      "originalTitle": "“智能好物”热卖，消费解锁新空间 - 新华网"
+    },
+    {
+      "event": "我国产业向新发展加快，新技术赋能作用增强 - 新华网",
+      "published": "2026-11-17T07:39:20+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGp4bzVaLS1VdC1sU0lpZk1EYlJFWmg1WE1tX0FfN3JsWW5uU3QweHUxMXQ1Z2l3eVRNOGpfYzUwZ0g1WGVfRFZBbmJsXzhGeTRySlVhS3A2amw3T1FLRzNHTWg5eTRyMG45cG9DdGIzSzhXV3RGVlhyam9PWFFZRFln?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "我国产业向新发展加快，新技术赋能作用增强 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
@@ -564,8 +567,6 @@
       "article: ValueError",
       "article: ValueError",
       "article: HTTPError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError"
     ]
   }
