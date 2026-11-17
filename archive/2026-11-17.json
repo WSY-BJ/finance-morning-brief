@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 17:10",
+  "date": "更新于北京时间 2026-11-17 21:27",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T17:10:50+08:00",
+  "updatedAt": "2026-11-17T21:27:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-16：7,416.59 点；较 2026-11-13 变化 -145.08 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油期货",
           "summary": "2026-11-16：92.44 美元/桶；较 2026-11-13 变化 -3.40 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-16：5.12 %；较 2026-11-13 变化 -0.03 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-16：7,416.59 点；较 2026-11-13 变化 -145.08 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.12 %；变化 -0.03 个百分点",
+          "summary": "5.15 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-16；前值 5.15（2026-11-13）；来源：美国财政部。"
+            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T20:35:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829763"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "商务部新闻发言人就中加经贸磋商成果答记者问",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T19:32:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829679"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "聚焦APEC丨习近平主席推动亚太发展繁荣的故事",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T19:12:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829668"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "8个省份入选！事关6G，工业和信息化部公布",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T18:23:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829592"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "商务部：健全再生资源回收体系 促进回收行业高质量发展",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T17:21:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829532"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
           "summary": "",
           "paragraphs": [
@@ -192,138 +267,61 @@
         },
         {
           "type": "explainer",
-          "title": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
+          "title": "聚焦APEC丨外交部：深圳见证了亚太区域经济一体化的发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T16:56:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 何奎）记者近日获悉，上海金融监管局联合中国人民银行上海市分行印发《关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知》（下称《通知》），推动上海银行业保险业构建“精准化、常态化、多元化、专业化、系统化”绿"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/829514"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "《半导体设备与零部件质量管理体系》行业标准发布",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T16:23:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月17日电（记者 周圆）记者17日获悉，工业和信息化部日前批准《半导体设备与零部件质量管理体系》行业标准，旨在系统规范半导体设备与零部件全生命周期质量管理。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/829497"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T14:02:00+08:00；来源：新华社。",
+            "发布时间：2026-11-17T12:36:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829470"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90a3F3YnAzSWY4eHczd1M0aU5pa2pmWWZ4ZXRLT1dfUzN1UWdmRDA5LXJQM09VcWw5RTFodHNlSzZ5aktYdUttX2lELXBFaVRmR05KVHFjN1BGanFPWC1rM3dXZ3JfQ2M2d0stV0NZaWI5TXBuMVk0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+          "title": "第49届东盟峰会及系列会议闭幕 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T09:55:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-17T12:06:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829376"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHX1cyU0pvUjBLeHg1MWJ4Yk9OeHFIVEhNZ0NkRHlkSlZiM3ZHSlNfMTdBdGt4eGYxRVlnSnJpd0lWRVRmejhLa0pQUTAxRzhSTU1OYlB6MVdraDM2VHYwd2pqdENNY3FNZWRHYkVCQVFmS1RGT0lZYWJkOEkySjg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+          "title": "外交部：美方经济胁迫和“长臂管辖”损害中国企业正当权益 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T09:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-17T11:43:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829372"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UkxxNU9sV0hvV0VrLWpiREN4U1kzWjI5UUNSTjhTMGxBZ3FvcEo1TEphekp5OFltY1RQU24wWS1MVzhYMVotVFNfNVZnOFJnMU84dllRczJVd1p2dmdNd3pha1F4RnpoZGk1aGlha1ZaYmlZdUJrczNaang0dw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
+          "title": "2026年中国优选法统筹法与经济数学研究会工业工程分会学术交流暨学会年会在南京举行 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:56:07+00:00；来源：新华网。",
+            "发布时间：2026-11-17T11:37:19+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829305"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829307"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "山东省聊城市出台数字经济发展规划 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-17T08:38:56+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TUzhZMUJnbUVCWDBLNUNNSDhEM3IwZWhDNkZKZ21WOE9zSmtwN0lLVWJWanRKS2Ixc01mcHF1UmZaVHp6ZC0xMUVPR1h1a3VwRlZvUHBQY3VsUFpsU3pDeGNSczhBUXVZZ2pHZl92M3dMVGZk?oc=5"
             }
           ]
         }
@@ -381,23 +379,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-16"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-16"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-16"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-16"
     },
     {
@@ -406,8 +389,18 @@
       "asOf": "2026-11-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-16"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-16"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-16"
     },
     {
@@ -416,57 +409,102 @@
       "asOf": "2026-11-16"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
+      "url": "https://www.cnstock.com/commonDetail/829763",
+      "asOf": "2026-11-17T20:35:00+08:00"
+    },
+    {
+      "title": "商务部新闻发言人就中加经贸磋商成果答记者问",
+      "url": "https://www.cnstock.com/commonDetail/829679",
+      "asOf": "2026-11-17T19:32:00+08:00"
+    },
+    {
+      "title": "聚焦APEC丨习近平主席推动亚太发展繁荣的故事",
+      "url": "https://www.cnstock.com/commonDetail/829668",
+      "asOf": "2026-11-17T19:12:00+08:00"
+    },
+    {
+      "title": "8个省份入选！事关6G，工业和信息化部公布",
+      "url": "https://www.cnstock.com/commonDetail/829592",
+      "asOf": "2026-11-17T18:23:00+08:00"
+    },
+    {
+      "title": "商务部：健全再生资源回收体系 促进回收行业高质量发展",
+      "url": "https://www.cnstock.com/commonDetail/829532",
+      "asOf": "2026-11-17T17:21:00+08:00"
+    },
+    {
       "title": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
       "url": "https://www.cnstock.com/commonDetail/829522",
       "asOf": "2026-11-17T16:57:00+08:00"
     },
     {
-      "title": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
-      "url": "https://www.cnstock.com/commonDetail/829514",
-      "asOf": "2026-11-17T16:56:00+08:00"
+      "title": "聚焦APEC丨外交部：深圳见证了亚太区域经济一体化的发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90a3F3YnAzSWY4eHczd1M0aU5pa2pmWWZ4ZXRLT1dfUzN1UWdmRDA5LXJQM09VcWw5RTFodHNlSzZ5aktYdUttX2lELXBFaVRmR05KVHFjN1BGanFPWC1rM3dXZ3JfQ2M2d0stV0NZaWI5TXBuMVk0?oc=5",
+      "asOf": "2026-11-17T12:36:32+00:00"
     },
     {
-      "title": "《半导体设备与零部件质量管理体系》行业标准发布",
-      "url": "https://www.cnstock.com/commonDetail/829497",
-      "asOf": "2026-11-17T16:23:00+08:00"
+      "title": "第49届东盟峰会及系列会议闭幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHX1cyU0pvUjBLeHg1MWJ4Yk9OeHFIVEhNZ0NkRHlkSlZiM3ZHSlNfMTdBdGt4eGYxRVlnSnJpd0lWRVRmejhLa0pQUTAxRzhSTU1OYlB6MVdraDM2VHYwd2pqdENNY3FNZWRHYkVCQVFmS1RGT0lZYWJkOEkySjg?oc=5",
+      "asOf": "2026-11-17T12:06:07+00:00"
     },
     {
-      "title": "新华社社评：共商亚太发展大计，共创亚太美好未来",
-      "url": "https://www.cnstock.com/commonDetail/829470",
-      "asOf": "2026-11-17T14:02:00+08:00"
+      "title": "外交部：美方经济胁迫和“长臂管辖”损害中国企业正当权益 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UkxxNU9sV0hvV0VrLWpiREN4U1kzWjI5UUNSTjhTMGxBZ3FvcEo1TEphekp5OFltY1RQU24wWS1MVzhYMVotVFNfNVZnOFJnMU84dllRczJVd1p2dmdNd3pha1F4RnpoZGk1aGlha1ZaYmlZdUJrczNaang0dw?oc=5",
+      "asOf": "2026-11-17T11:43:15+00:00"
     },
     {
-      "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "url": "https://www.cnstock.com/commonDetail/829376",
-      "asOf": "2026-11-17T09:55:00+08:00"
-    },
-    {
-      "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "url": "https://www.cnstock.com/commonDetail/829372",
-      "asOf": "2026-11-17T09:23:00+08:00"
-    },
-    {
-      "title": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5",
-      "asOf": "2026-11-17T08:56:07+00:00"
-    },
-    {
-      "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829305",
-      "asOf": "2026-11-17T08:41:00+08:00"
-    },
-    {
-      "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "url": "https://www.cnstock.com/commonDetail/829307",
-      "asOf": "2026-11-17T08:41:00+08:00"
-    },
-    {
-      "title": "山东省聊城市出台数字经济发展规划 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5",
-      "asOf": "2026-11-17T08:38:56+00:00"
+      "title": "2026年中国优选法统筹法与经济数学研究会工业工程分会学术交流暨学会年会在南京举行 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TUzhZMUJnbUVCWDBLNUNNSDhEM3IwZWhDNkZKZ21WOE9zSmtwN0lLVWJWanRKS2Ixc01mcHF1UmZaVHp6ZC0xMUVPR1h1a3VwRlZvUHBQY3VsUFpsU3pDeGNSczhBUXVZZ2pHZl92M3dMVGZk?oc=5",
+      "asOf": "2026-11-17T11:37:19+00:00"
     }
   ],
   "events": [
+    {
+      "event": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
+      "originalTitle": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
+      "published": "2026-11-17T20:35:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829763",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "商务部新闻发言人就中加经贸磋商成果答记者问",
+      "originalTitle": "商务部新闻发言人就中加经贸磋商成果答记者问",
+      "published": "2026-11-17T19:32:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829679",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "聚焦APEC丨习近平主席推动亚太发展繁荣的故事",
+      "originalTitle": "聚焦APEC丨习近平主席推动亚太发展繁荣的故事",
+      "published": "2026-11-17T19:12:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/829668",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "8个省份入选！事关6G，工业和信息化部公布",
+      "originalTitle": "8个省份入选！事关6G，工业和信息化部公布",
+      "published": "2026-11-17T18:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829592",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "商务部：健全再生资源回收体系 促进回收行业高质量发展",
+      "originalTitle": "商务部：健全再生资源回收体系 促进回收行业高质量发展",
+      "published": "2026-11-17T17:21:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829532",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
       "originalTitle": "沪市公司纷纷发声：中国科技产业竞争力强、优势足",
@@ -476,90 +514,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
-      "originalTitle": "上海金融监管局：鼓励保险机构开发多元化、定制化的绿色保险产品和服务",
-      "published": "2026-11-17T16:56:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829514",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/829514",
-        "retrievedAt": "2026-11-17T17:10:50.480542+08:00",
-        "sha256": "fea7cec087f66500866ce29a48e8034cacd1fe0fbc87729c007ec837228f590c",
-        "paragraphCount": 7,
-        "excerpt": "上证报中国证券网讯（记者 何奎）记者近日获悉，上海金融监管局联合中国人民银行上海市分行印发《关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知》（下称《通知》），推动上海银行业保险业构建“精准化、常态化、多元化、专业化、系统化”绿"
-      }
-    },
-    {
-      "event": "《半导体设备与零部件质量管理体系》行业标准发布",
-      "originalTitle": "《半导体设备与零部件质量管理体系》行业标准发布",
-      "published": "2026-11-17T16:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829497",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/829497",
-        "retrievedAt": "2026-11-17T17:10:50.480542+08:00",
-        "sha256": "5144d88c28dbe6c7dd30bcdadca5d24a0a5b081cae8eda756eecfd9df13c0a5f",
-        "paragraphCount": 5,
-        "excerpt": "新华社北京11月17日电（记者 周圆）记者17日获悉，工业和信息化部日前批准《半导体设备与零部件质量管理体系》行业标准，旨在系统规范半导体设备与零部件全生命周期质量管理。"
-      }
-    },
-    {
-      "event": "新华社社评：共商亚太发展大计，共创亚太美好未来",
-      "originalTitle": "新华社社评：共商亚太发展大计，共创亚太美好未来",
-      "published": "2026-11-17T14:02:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829470",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "originalTitle": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "published": "2026-11-17T09:55:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829376",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "originalTitle": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "published": "2026-11-17T09:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829372",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网",
-      "published": "2026-11-17T08:56:07+00:00",
+      "event": "聚焦APEC丨外交部：深圳见证了亚太区域经济一体化的发展 - 新华网",
+      "published": "2026-11-17T12:36:32+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TWJPNUx3OUU5OG91ZjRvM3NNcjMtUVVBX05KelBxTGwxbHVWdGM1NXNmWi1WOG5Gbk0zbkw4S3YwVE9TRm5NOWFxLVJ0MXJpTTg5RnZ1V1FHZTBRODlQY1o3cVhLUV9HaFQtSGEwaDVFWUUzYWFpM1Q2YUdoejg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90a3F3YnAzSWY4eHczd1M0aU5pa2pmWWZ4ZXRLT1dfUzN1UWdmRDA5LXJQM09VcWw5RTFodHNlSzZ5aktYdUttX2lELXBFaVRmR05KVHFjN1BGanFPWC1rM3dXZ3JfQ2M2d0stV0NZaWI5TXBuMVk0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "欧洲俱乐部联盟对欧足联提起反垄断投诉 - 新华网"
+      "originalTitle": "聚焦APEC丨外交部：深圳见证了亚太区域经济一体化的发展 - 新华网"
     },
     {
-      "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "published": "2026-11-17T08:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829305",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "originalTitle": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "published": "2026-11-17T08:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829307",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "山东省聊城市出台数字经济发展规划 - 新华网",
-      "published": "2026-11-17T08:38:56+00:00",
+      "event": "第49届东盟峰会及系列会议闭幕 - 新华网",
+      "published": "2026-11-17T12:06:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NnNTVTRrNTN6ak9LT2R6TXp2SWxwTHBTUG1uRzVYeG5WMmw3SGxfZDZwQ2hfMXdYSmJaYk1oUDFQYU9Ld1lPSmhsTGhnRTNmTlVVTE4xbHNGbWR0SndvYXZDRjdZblVLWEJ0T2NidFBKVUpO?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHX1cyU0pvUjBLeHg1MWJ4Yk9OeHFIVEhNZ0NkRHlkSlZiM3ZHSlNfMTdBdGt4eGYxRVlnSnJpd0lWRVRmejhLa0pQUTAxRzhSTU1OYlB6MVdraDM2VHYwd2pqdENNY3FNZWRHYkVCQVFmS1RGT0lZYWJkOEkySjg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "山东省聊城市出台数字经济发展规划 - 新华网"
+      "originalTitle": "第49届东盟峰会及系列会议闭幕 - 新华网"
+    },
+    {
+      "event": "外交部：美方经济胁迫和“长臂管辖”损害中国企业正当权益 - 新华网",
+      "published": "2026-11-17T11:43:15+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UkxxNU9sV0hvV0VrLWpiREN4U1kzWjI5UUNSTjhTMGxBZ3FvcEo1TEphekp5OFltY1RQU24wWS1MVzhYMVotVFNfNVZnOFJnMU84dllRczJVd1p2dmdNd3pha1F4RnpoZGk1aGlha1ZaYmlZdUJrczNaang0dw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "外交部：美方经济胁迫和“长臂管辖”损害中国企业正当权益 - 新华网"
+    },
+    {
+      "event": "2026年中国优选法统筹法与经济数学研究会工业工程分会学术交流暨学会年会在南京举行 - 新华网江苏频道",
+      "published": "2026-11-17T11:37:19+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TUzhZMUJnbUVCWDBLNUNNSDhEM3IwZWhDNkZKZ21WOE9zSmtwN0lLVWJWanRKS2Ixc01mcHF1UmZaVHp6ZC0xMUVPR1h1a3VwRlZvUHBQY3VsUFpsU3pDeGNSczhBUXVZZ2pHZl92M3dMVGZk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026年中国优选法统筹法与经济数学研究会工业工程分会学术交流暨学会年会在南京举行 - 新华网江苏频道"
     }
   ],
   "quality": {
@@ -573,13 +557,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
-      "article: HTTPError",
       "article: ValueError"
     ]
   }
