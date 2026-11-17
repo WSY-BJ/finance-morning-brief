@@ -1,0 +1,573 @@
+{
+  "edition": "财经晨报 · 2026-11-17",
+  "date": "更新于北京时间 2026-11-17 11:48",
+  "reportDate": "2026-11-17",
+  "updatedAt": "2026-11-17T11:48:29+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-17 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-13：95.84 美元/桶；较 2026-11-12 变化 +0.02 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油期货",
+          "summary": "95.84 美元/桶；变化 +0.02 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 95.82（2026-11-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.88 %；变化 +0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 4.86（2026-11-12）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.15 %；变化 +0.05 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "103.41 点；变化 +0.24 点",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 103.17（2026-11-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,561.67 点；变化 -30.73 点",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 7,592.40（2026-11-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "25,136.27 点；变化 -229.82 点",
+          "paragraphs": [
+            "观测日 2026-11-13；前值 25,366.09（2026-11-12）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6710 人民币/美元；变化 +0.0006 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-16；前值 6.6704（2026-11-13）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T11:04:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829416"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T09:55:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829376"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T09:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829372"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829307"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829305"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:02:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829347"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T08:00:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829340"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "量化“负超额”三问",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T07:53:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829342"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829334"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "政策优化显成效 楼市出现积极变化",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829335"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 40 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-12 前值 7592.3999，2026-11-13 现值 7561.6699，变化 -30.7300。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-16"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-13"
+    },
+    {
+      "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+      "url": "https://www.cnstock.com/commonDetail/829416",
+      "asOf": "2026-11-17T11:04:00+08:00"
+    },
+    {
+      "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+      "url": "https://www.cnstock.com/commonDetail/829376",
+      "asOf": "2026-11-17T09:55:00+08:00"
+    },
+    {
+      "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+      "url": "https://www.cnstock.com/commonDetail/829372",
+      "asOf": "2026-11-17T09:23:00+08:00"
+    },
+    {
+      "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+      "url": "https://www.cnstock.com/commonDetail/829307",
+      "asOf": "2026-11-17T08:41:00+08:00"
+    },
+    {
+      "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "url": "https://www.cnstock.com/commonDetail/829305",
+      "asOf": "2026-11-17T08:41:00+08:00"
+    },
+    {
+      "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
+      "url": "https://www.cnstock.com/commonDetail/829347",
+      "asOf": "2026-11-17T08:02:00+08:00"
+    },
+    {
+      "title": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
+      "url": "https://www.cnstock.com/commonDetail/829340",
+      "asOf": "2026-11-17T08:00:00+08:00"
+    },
+    {
+      "title": "量化“负超额”三问",
+      "url": "https://www.cnstock.com/commonDetail/829342",
+      "asOf": "2026-11-17T07:53:00+08:00"
+    },
+    {
+      "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+      "url": "https://www.cnstock.com/commonDetail/829334",
+      "asOf": "2026-11-17T07:11:00+08:00"
+    },
+    {
+      "title": "政策优化显成效 楼市出现积极变化",
+      "url": "https://www.cnstock.com/commonDetail/829335",
+      "asOf": "2026-11-17T07:11:00+08:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+      "originalTitle": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+      "published": "2026-11-17T11:04:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/829416",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+      "originalTitle": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+      "published": "2026-11-17T09:55:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829376",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+      "originalTitle": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+      "published": "2026-11-17T09:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/829372",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+      "originalTitle": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+      "published": "2026-11-17T08:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829307",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+      "published": "2026-11-17T08:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829305",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
+      "originalTitle": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
+      "published": "2026-11-17T08:02:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829347",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
+      "originalTitle": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
+      "published": "2026-11-17T08:00:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829340",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "量化“负超额”三问",
+      "originalTitle": "量化“负超额”三问",
+      "published": "2026-11-17T07:53:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829342",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+      "originalTitle": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+      "published": "2026-11-17T07:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829334",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "政策优化显成效 楼市出现积极变化",
+      "originalTitle": "政策优化显成效 楼市出现积极变化",
+      "published": "2026-11-17T07:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829335",
+      "evidenceLevel": "headline-only"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
