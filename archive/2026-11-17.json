@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 12:46",
+  "date": "更新于北京时间 2026-11-17 13:11",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T12:46:11+08:00",
+  "updatedAt": "2026-11-17T13:11:05+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-13：7,561.67 点；较 2026-11-12 变化 -30.73 点。",
+          "summary": "2026-11-16：7,416.59 点；较 2026-11-13 变化 -145.08 点。",
           "paragraphs": [],
           "links": [
             {
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-13：95.84 美元/桶；较 2026-11-12 变化 +0.02 美元/桶。",
+          "summary": "2026-11-16：92.44 美元/桶；较 2026-11-13 变化 -3.40 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-16：5.12 %；较 2026-11-13 变化 -0.03 个百分点。",
+          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -66,9 +66,9 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "95.84 美元/桶；变化 +0.02 美元/桶",
+          "summary": "92.44 美元/桶；变化 -3.40 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-13；前值 95.82（2026-11-12）；来源：Yahoo Finance。"
+            "观测日 2026-11-16；前值 95.84（2026-11-13）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -94,23 +94,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.12 %；变化 -0.03 个百分点",
+          "summary": "5.15 %；变化 +0.05 个百分点",
           "paragraphs": [
-            "观测日 2026-11-16；前值 5.15（2026-11-13）；来源：美国财政部。"
+            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "103.41 点；变化 +0.24 点",
+          "summary": "103.55 点；变化 +0.14 点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 103.17（2026-11-12）；来源：Yahoo Finance。"
+            "观测日 2026-11-16；前值 103.41（2026-11-13）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,561.67 点；变化 -30.73 点",
+          "summary": "7,416.59 点；变化 -145.08 点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 7,592.40（2026-11-12）；来源：Yahoo Finance。"
+            "观测日 2026-11-16；前值 7,561.67（2026-11-13）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "25,136.27 点；变化 -229.82 点",
+          "summary": "24,509.76 点；变化 -626.51 点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 25,366.09（2026-11-12）；来源：Yahoo Finance。"
+            "观测日 2026-11-16；前值 25,136.27（2026-11-13）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
+          "title": "湖南省娄底市委原常委、市人民政府原常务副市长谢学龙严重违纪违法被开除党籍和公职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T11:04:00+08:00；来源：新华社。",
+            "发布时间：2026-11-17T05:04:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829416"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc1F0VlAzTHZwRWt5bWtJbXJTYmZWSlVsYTBrOTJfeGw3QzFEZDVSQWdlaW5DckhKS1RVLWtncnQwVVBKQ243eTRZUTd0SlhOVExqeGJSXzRPcE5GU1VXOEVWM1JpbTZCQTFDaEtUVmVOSUVFUFFIVEU3UGljV3M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
+          "title": "4天内3名驻日美军人员因涉酒事件被捕 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T09:55:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-17T04:59:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829376"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZFByaHZqTGp4RThjcXhjOHI5bW5FdXU4OGFleEMtS2lBTjBYWGkwUWdwX0RxOXlENGVoWF9UZ3l3aTBpbDFuMGlpLVp2dXljNTFoVHg5REJMWEdyeDVjNU5lcWlQV3c2WHJBSEFYSnluV3JwWUFJTXFObDEwaUE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
+          "title": "欧洲五国将在卢旺达设遣返中心 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T09:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-17T04:32:24+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829372"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RVU0ZncxbFpxb0tZY1Rlb1g0ZTFmYnA3MFZuNDNKREFIOXY3SWtjVGRNTy1WYUV1R0RGQnVqSkRmc2dwMWNJeUt5WVo3MXFzNUFBcmtRU3dtcGFDT1Nzcms4VEJSNDlCcGhLMzdLTWlSQm4tUktGaU1UdEpWdG8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
+          "title": "蒙古国总统呼日勒苏赫宣布辞职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-17T04:26:35+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829307"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdU9LcEFCSmRmMEF5aUVsVElGNWlhYWpBczFYSld5cEhNUVByRkpTRW5hMk42bDdMSS1lbXc2Y255Z1ctX1lseC1IeXJvbHBWY3c4Vm1uMVBWbnVDV0l0aFJUaWpNWlM1Y1luNzFZWDRSdlJFcFB1RS1sR1piMVU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
+          "title": "联合国报告：AI模型易迎合用户而偏离气候科学事实 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:41:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-17T04:23:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829305"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVlpTakhwRTBydmc4QURtUGF3a1hYVzl2Q2pYdHlxWDVma0hoY0MyTGd0QW04ZnRxTFNmWWRSbThlOVNRdElWeUE5bU9DRENERElkNFJqOVFpX0xCR0x2cTYzVnphcWNwOE12VURsYkMyRWpNNmdEMmVDOXItTVU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
+          "title": "新华社权威快报丨商务部等9部门深入推进再生资源回收体系建设 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:02:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T03:59:32+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829347"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVE1bmEzTV80cmRqc0JsRWFpZ2pHYjZETVBvVHVvZXF4dmhoQXBUN3lSU2V2c1JIR0FPNTVZOVN0UHFNV0F1bGw2ck9JYmlJbWdsZUUyRXpoNWdYalpnNmJNZkFKOG9kcTdNVGdnVTIxRl9PWVJEN2tPcHdrQmZtNlRn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
+          "title": "第二届中埃投资论坛在开罗举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T08:00:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T03:49:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829340"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6a045S3FrLURyZjhGdm10WmRKZk9VZEJHMW1ZM2lrcldrVlllTjg0Yk54RV9FXzkwb2R3SWlRVFNCbUxmT0o3dUxjZnZhYWY1azBBMXYxX0EyQ0RzNmhhQzdIeDhmMHMxbURENzdJRmJqcVRqanJKMEt5eG5ON2s?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "量化“负超额”三问",
+          "title": "设备数量近4200万 我国北斗产业应用持续增强 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T07:53:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T03:49:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829342"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hWk9FWG5SS3VReS1YOWJpOVJLOUdhdV9uRXN6aTBDZ0lZOUxaTUZ0X1diZ3AxVWdmQUNfWnVHX1VGZlRiQmNtc1hXMWFXcWg1SE1zYkxxTXBLaTJja3ZHSG5Qcl9rX2VBY2lZUm9IVFJGcnAwa3dNamkyamVPQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
+          "title": "新型血液标志物有望用于监测多发性硬化症进展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T03:48:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829334"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3WkN1NkwwU3dDUWcxRGNFODdKZ2lWVUhfR3U2REw3UVEzZzRQTzdielFxRUxQSF9DakdtM29lc1lCSVprNEFsUXNWNkZHWW9iZVFIdzZ2QlZJV3ZuMU1NTVZzVTdyRmc1NjlaYk1PcF9KY2JTR2hpckZyYWs?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "政策优化显成效 楼市出现积极变化",
+          "title": "《文史交响的红楼梦》在京发布 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-17T07:11:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-17T03:43:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829335"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NSER2NWJfbEIwTHBIaXVULU4weENzdTZRU0dCaTZKV0h6TWtEMlk1d2lqQzd3ZEFXU1ludVBzMDFOMk16aUpaTmRFTE45Wml5bUpreU9VcFl3M29FOE9sbGN1N3dkS1d4cGtiYmlDVFRoVW1yYXBiNnhkbVRsZw?oc=5"
             }
           ]
         }
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-12 前值 7592.3999，2026-11-13 现值 7561.6699，变化 -30.7300。",
+            "本期实例：标普 500 指数，2026-11-13 前值 7561.6699，2026-11-16 现值 7416.5898，变化 -145.0801。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,19 +379,19 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-13"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-13"
+      "asOf": "2026-11-16"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-13"
+      "asOf": "2026-11-16"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-16"
     },
     {
       "title": "美元兑人民币 · Yahoo Finance",
@@ -401,12 +401,12 @@
     {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-13"
+      "asOf": "2026-11-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-16"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-13"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "url": "https://www.cnstock.com/commonDetail/829416",
-      "asOf": "2026-11-17T11:04:00+08:00"
+      "title": "湖南省娄底市委原常委、市人民政府原常务副市长谢学龙严重违纪违法被开除党籍和公职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc1F0VlAzTHZwRWt5bWtJbXJTYmZWSlVsYTBrOTJfeGw3QzFEZDVSQWdlaW5DckhKS1RVLWtncnQwVVBKQ243eTRZUTd0SlhOVExqeGJSXzRPcE5GU1VXOEVWM1JpbTZCQTFDaEtUVmVOSUVFUFFIVEU3UGljV3M?oc=5",
+      "asOf": "2026-11-17T05:04:45+00:00"
     },
     {
-      "title": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "url": "https://www.cnstock.com/commonDetail/829376",
-      "asOf": "2026-11-17T09:55:00+08:00"
+      "title": "4天内3名驻日美军人员因涉酒事件被捕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZFByaHZqTGp4RThjcXhjOHI5bW5FdXU4OGFleEMtS2lBTjBYWGkwUWdwX0RxOXlENGVoWF9UZ3l3aTBpbDFuMGlpLVp2dXljNTFoVHg5REJMWEdyeDVjNU5lcWlQV3c2WHJBSEFYSnluV3JwWUFJTXFObDEwaUE?oc=5",
+      "asOf": "2026-11-17T04:59:45+00:00"
     },
     {
-      "title": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "url": "https://www.cnstock.com/commonDetail/829372",
-      "asOf": "2026-11-17T09:23:00+08:00"
+      "title": "欧洲五国将在卢旺达设遣返中心 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RVU0ZncxbFpxb0tZY1Rlb1g0ZTFmYnA3MFZuNDNKREFIOXY3SWtjVGRNTy1WYUV1R0RGQnVqSkRmc2dwMWNJeUt5WVo3MXFzNUFBcmtRU3dtcGFDT1Nzcms4VEJSNDlCcGhLMzdLTWlSQm4tUktGaU1UdEpWdG8?oc=5",
+      "asOf": "2026-11-17T04:32:24+00:00"
     },
     {
-      "title": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "url": "https://www.cnstock.com/commonDetail/829307",
-      "asOf": "2026-11-17T08:41:00+08:00"
+      "title": "蒙古国总统呼日勒苏赫宣布辞职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdU9LcEFCSmRmMEF5aUVsVElGNWlhYWpBczFYSld5cEhNUVByRkpTRW5hMk42bDdMSS1lbXc2Y255Z1ctX1lseC1IeXJvbHBWY3c4Vm1uMVBWbnVDV0l0aFJUaWpNWlM1Y1luNzFZWDRSdlJFcFB1RS1sR1piMVU?oc=5",
+      "asOf": "2026-11-17T04:26:35+00:00"
     },
     {
-      "title": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829305",
-      "asOf": "2026-11-17T08:41:00+08:00"
+      "title": "联合国报告：AI模型易迎合用户而偏离气候科学事实 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVlpTakhwRTBydmc4QURtUGF3a1hYVzl2Q2pYdHlxWDVma0hoY0MyTGd0QW04ZnRxTFNmWWRSbThlOVNRdElWeUE5bU9DRENERElkNFJqOVFpX0xCR0x2cTYzVnphcWNwOE12VURsYkMyRWpNNmdEMmVDOXItTVU?oc=5",
+      "asOf": "2026-11-17T04:23:31+00:00"
     },
     {
-      "title": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "url": "https://www.cnstock.com/commonDetail/829347",
-      "asOf": "2026-11-17T08:02:00+08:00"
+      "title": "新华社权威快报丨商务部等9部门深入推进再生资源回收体系建设 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVE1bmEzTV80cmRqc0JsRWFpZ2pHYjZETVBvVHVvZXF4dmhoQXBUN3lSU2V2c1JIR0FPNTVZOVN0UHFNV0F1bGw2ck9JYmlJbWdsZUUyRXpoNWdYalpnNmJNZkFKOG9kcTdNVGdnVTIxRl9PWVJEN2tPcHdrQmZtNlRn?oc=5",
+      "asOf": "2026-11-17T03:59:32+00:00"
     },
     {
-      "title": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
-      "url": "https://www.cnstock.com/commonDetail/829340",
-      "asOf": "2026-11-17T08:00:00+08:00"
+      "title": "第二届中埃投资论坛在开罗举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6a045S3FrLURyZjhGdm10WmRKZk9VZEJHMW1ZM2lrcldrVlllTjg0Yk54RV9FXzkwb2R3SWlRVFNCbUxmT0o3dUxjZnZhYWY1azBBMXYxX0EyQ0RzNmhhQzdIeDhmMHMxbURENzdJRmJqcVRqanJKMEt5eG5ON2s?oc=5",
+      "asOf": "2026-11-17T03:49:42+00:00"
     },
     {
-      "title": "量化“负超额”三问",
-      "url": "https://www.cnstock.com/commonDetail/829342",
-      "asOf": "2026-11-17T07:53:00+08:00"
+      "title": "设备数量近4200万 我国北斗产业应用持续增强 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hWk9FWG5SS3VReS1YOWJpOVJLOUdhdV9uRXN6aTBDZ0lZOUxaTUZ0X1diZ3AxVWdmQUNfWnVHX1VGZlRiQmNtc1hXMWFXcWg1SE1zYkxxTXBLaTJja3ZHSG5Qcl9rX2VBY2lZUm9IVFJGcnAwa3dNamkyamVPQQ?oc=5",
+      "asOf": "2026-11-17T03:49:14+00:00"
     },
     {
-      "title": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "url": "https://www.cnstock.com/commonDetail/829334",
-      "asOf": "2026-11-17T07:11:00+08:00"
+      "title": "新型血液标志物有望用于监测多发性硬化症进展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3WkN1NkwwU3dDUWcxRGNFODdKZ2lWVUhfR3U2REw3UVEzZzRQTzdielFxRUxQSF9DakdtM29lc1lCSVprNEFsUXNWNkZHWW9iZVFIdzZ2QlZJV3ZuMU1NTVZzVTdyRmc1NjlaYk1PcF9KY2JTR2hpckZyYWs?oc=5",
+      "asOf": "2026-11-17T03:48:39+00:00"
     },
     {
-      "title": "政策优化显成效 楼市出现积极变化",
-      "url": "https://www.cnstock.com/commonDetail/829335",
-      "asOf": "2026-11-17T07:11:00+08:00"
+      "title": "《文史交响的红楼梦》在京发布 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NSER2NWJfbEIwTHBIaXVULU4weENzdTZRU0dCaTZKV0h6TWtEMlk1d2lqQzd3ZEFXU1ludVBzMDFOMk16aUpaTmRFTE45Wml5bUpreU9VcFl3M29FOE9sbGN1N3dkS1d4cGtiYmlDVFRoVW1yYXBiNnhkbVRsZw?oc=5",
+      "asOf": "2026-11-17T03:43:36+00:00"
     }
   ],
   "events": [
     {
-      "event": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "originalTitle": "学习进行时丨习近平总书记引领推动粤港澳大湾区高质量发展",
-      "published": "2026-11-17T11:04:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829416",
-      "evidenceLevel": "headline-only"
+      "event": "湖南省娄底市委原常委、市人民政府原常务副市长谢学龙严重违纪违法被开除党籍和公职 - 新华网",
+      "published": "2026-11-17T05:04:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc1F0VlAzTHZwRWt5bWtJbXJTYmZWSlVsYTBrOTJfeGw3QzFEZDVSQWdlaW5DckhKS1RVLWtncnQwVVBKQ243eTRZUTd0SlhOVExqeGJSXzRPcE5GU1VXOEVWM1JpbTZCQTFDaEtUVmVOSUVFUFFIVEU3UGljV3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "湖南省娄底市委原常委、市人民政府原常务副市长谢学龙严重违纪违法被开除党籍和公职 - 新华网"
     },
     {
-      "event": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "originalTitle": "智算无界，创意有声 61支队伍从上万学子中脱颖而出， 2026中国高校计算机大赛—人工智能创意赛（C4-AI）圆满收官",
-      "published": "2026-11-17T09:55:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829376",
-      "evidenceLevel": "headline-only"
+      "event": "4天内3名驻日美军人员因涉酒事件被捕 - 新华网",
+      "published": "2026-11-17T04:59:45+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZFByaHZqTGp4RThjcXhjOHI5bW5FdXU4OGFleEMtS2lBTjBYWGkwUWdwX0RxOXlENGVoWF9UZ3l3aTBpbDFuMGlpLVp2dXljNTFoVHg5REJMWEdyeDVjNU5lcWlQV3c2WHJBSEFYSnluV3JwWUFJTXFObDEwaUE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "4天内3名驻日美军人员因涉酒事件被捕 - 新华网"
     },
     {
-      "event": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "originalTitle": "2000余位政商界代表参加2026年APEC工商领导人峰会",
-      "published": "2026-11-17T09:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829372",
-      "evidenceLevel": "headline-only"
+      "event": "欧洲五国将在卢旺达设遣返中心 - 新华网",
+      "published": "2026-11-17T04:32:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RVU0ZncxbFpxb0tZY1Rlb1g0ZTFmYnA3MFZuNDNKREFIOXY3SWtjVGRNTy1WYUV1R0RGQnVqSkRmc2dwMWNJeUt5WVo3MXFzNUFBcmtRU3dtcGFDT1Nzcms4VEJSNDlCcGhLMzdLTWlSQm4tUktGaU1UdEpWdG8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "欧洲五国将在卢旺达设遣返中心 - 新华网"
     },
     {
-      "event": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "originalTitle": "朗特智能：拟终止研发中心项目 约1.4亿元募资改投收购成都奥捷51%股权",
-      "published": "2026-11-17T08:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829307",
-      "evidenceLevel": "headline-only"
+      "event": "蒙古国总统呼日勒苏赫宣布辞职 - 新华网",
+      "published": "2026-11-17T04:26:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kdU9LcEFCSmRmMEF5aUVsVElGNWlhYWpBczFYSld5cEhNUVByRkpTRW5hMk42bDdMSS1lbXc2Y255Z1ctX1lseC1IeXJvbHBWY3c4Vm1uMVBWbnVDV0l0aFJUaWpNWlM1Y1luNzFZWDRSdlJFcFB1RS1sR1piMVU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "蒙古国总统呼日勒苏赫宣布辞职 - 新华网"
     },
     {
-      "event": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "originalTitle": "朗特智能：控股股东及其一致行动人拟约4.18亿元转让占总12%公司股份",
-      "published": "2026-11-17T08:41:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829305",
-      "evidenceLevel": "headline-only"
+      "event": "联合国报告：AI模型易迎合用户而偏离气候科学事实 - 新华网",
+      "published": "2026-11-17T04:23:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVlpTakhwRTBydmc4QURtUGF3a1hYVzl2Q2pYdHlxWDVma0hoY0MyTGd0QW04ZnRxTFNmWWRSbThlOVNRdElWeUE5bU9DRENERElkNFJqOVFpX0xCR0x2cTYzVnphcWNwOE12VURsYkMyRWpNNmdEMmVDOXItTVU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "联合国报告：AI模型易迎合用户而偏离气候科学事实 - 新华网"
     },
     {
-      "event": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "originalTitle": "平安养老保险董事长甘为民：养老金融是一项跨越经济周期、关乎代际民生的长期事业",
-      "published": "2026-11-17T08:02:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829347",
-      "evidenceLevel": "headline-only"
+      "event": "新华社权威快报丨商务部等9部门深入推进再生资源回收体系建设 - 新华网",
+      "published": "2026-11-17T03:59:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVE1bmEzTV80cmRqc0JsRWFpZ2pHYjZETVBvVHVvZXF4dmhoQXBUN3lSU2V2c1JIR0FPNTVZOVN0UHFNV0F1bGw2ck9JYmlJbWdsZUUyRXpoNWdYalpnNmJNZkFKOG9kcTdNVGdnVTIxRl9PWVJEN2tPcHdrQmZtNlRn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华社权威快报丨商务部等9部门深入推进再生资源回收体系建设 - 新华网"
     },
     {
-      "event": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
-      "originalTitle": "多只宽基ETF尾盘放量 机构看好科技板块配置价值",
-      "published": "2026-11-17T08:00:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829340",
-      "evidenceLevel": "headline-only"
+      "event": "第二届中埃投资论坛在开罗举行 - 新华网",
+      "published": "2026-11-17T03:49:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6a045S3FrLURyZjhGdm10WmRKZk9VZEJHMW1ZM2lrcldrVlllTjg0Yk54RV9FXzkwb2R3SWlRVFNCbUxmT0o3dUxjZnZhYWY1azBBMXYxX0EyQ0RzNmhhQzdIeDhmMHMxbURENzdJRmJqcVRqanJKMEt5eG5ON2s?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第二届中埃投资论坛在开罗举行 - 新华网"
     },
     {
-      "event": "量化“负超额”三问",
-      "originalTitle": "量化“负超额”三问",
-      "published": "2026-11-17T07:53:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829342",
-      "evidenceLevel": "headline-only"
+      "event": "设备数量近4200万 我国北斗产业应用持续增强 - 新华网",
+      "published": "2026-11-17T03:49:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hWk9FWG5SS3VReS1YOWJpOVJLOUdhdV9uRXN6aTBDZ0lZOUxaTUZ0X1diZ3AxVWdmQUNfWnVHX1VGZlRiQmNtc1hXMWFXcWg1SE1zYkxxTXBLaTJja3ZHSG5Qcl9rX2VBY2lZUm9IVFJGcnAwa3dNamkyamVPQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "设备数量近4200万 我国北斗产业应用持续增强 - 新华网"
     },
     {
-      "event": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "originalTitle": "万亿投资破局物流网“阻滞” “织就”货畅其流新通道",
-      "published": "2026-11-17T07:11:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829334",
-      "evidenceLevel": "headline-only"
+      "event": "新型血液标志物有望用于监测多发性硬化症进展 - 新华网",
+      "published": "2026-11-17T03:48:39+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3WkN1NkwwU3dDUWcxRGNFODdKZ2lWVUhfR3U2REw3UVEzZzRQTzdielFxRUxQSF9DakdtM29lc1lCSVprNEFsUXNWNkZHWW9iZVFIdzZ2QlZJV3ZuMU1NTVZzVTdyRmc1NjlaYk1PcF9KY2JTR2hpckZyYWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新型血液标志物有望用于监测多发性硬化症进展 - 新华网"
     },
     {
-      "event": "政策优化显成效 楼市出现积极变化",
-      "originalTitle": "政策优化显成效 楼市出现积极变化",
-      "published": "2026-11-17T07:11:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829335",
-      "evidenceLevel": "headline-only"
+      "event": "《文史交响的红楼梦》在京发布 - 新华网",
+      "published": "2026-11-17T03:43:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NSER2NWJfbEIwTHBIaXVULU4weENzdTZRU0dCaTZKV0h6TWtEMlk1d2lqQzd3ZEFXU1ludVBzMDFOMk16aUpaTmRFTE45Wml5bUpreU9VcFl3M29FOE9sbGN1N3dkS1d4cGtiYmlDVFRoVW1yYXBiNnhkbVRsZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "《文史交响的红楼梦》在京发布 - 新华网"
     }
   ],
   "quality": {
@@ -557,18 +557,12 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError",
+      "article: HTTPError",
+      "article: HTTPError",
+      "article: HTTPError",
+      "article: HTTPError",
+      "article: HTTPError"
     ]
   }
 }
