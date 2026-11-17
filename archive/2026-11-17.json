@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-17",
-  "date": "更新于北京时间 2026-11-17 11:48",
+  "date": "更新于北京时间 2026-11-17 12:46",
   "reportDate": "2026-11-17",
-  "updatedAt": "2026-11-17T11:48:29+08:00",
+  "updatedAt": "2026-11-17T12:46:11+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-13：5.15 %；较 2026-11-12 变化 +0.05 个百分点。",
+          "summary": "2026-11-16：5.12 %；较 2026-11-13 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.15 %；变化 +0.05 个百分点",
+          "summary": "5.12 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-13；前值 5.10（2026-11-12）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-16；前值 5.15（2026-11-13）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -404,13 +404,13 @@
       "asOf": "2026-11-13"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-13"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-13"
     },
     {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
       "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
