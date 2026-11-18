@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-18",
-  "date": "更新于北京时间 2026-11-18 10:52",
+  "date": "更新于北京时间 2026-11-18 11:51",
   "reportDate": "2026-11-18",
-  "updatedAt": "2026-11-18T10:52:32+08:00",
+  "updatedAt": "2026-11-18T11:51:15+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-16：5.12 %；较 2026-11-13 变化 -0.03 个百分点。",
+          "summary": "2026-11-17：5.10 %；较 2026-11-16 变化 -0.02 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.12 %；变化 -0.03 个百分点",
+          "summary": "5.10 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-16；前值 5.15（2026-11-13）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-17；前值 5.12（2026-11-16）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,121 +177,91 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+          "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文） - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T10:25:00+08:00；来源：新华社。",
+            "发布时间：2026-11-18T03:10:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829926"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTAydDdwcjZKcnZtbDllYkxyS2t5ajg1aTI2bzVhUkdMRlJta3BDUUpuTlk3V0FCdVg5MEJqX2I0MzJKSURNVFhYZ1pFSHEzNWNQNXdETWwwNGRBMU9ZQ2RtVExuM1ZRWk5mQUlhRHF2RFBXN1Z1TGdGTFE1YWxlOWhKeTh3dXZDNEZjd0hR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "南京新百：拟出售两家以色列护理子公司100%股权 基础股权价值约9亿元",
+          "title": "山东莱西低空经济“飞”出新高度 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T09:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-18T03:07:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829837"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KMTJYQkJ0ZzQ4eDdla1FpYjhzNFFyeHRzaHc4bEFibk1UQ0VrMVRNX0VvbWFzWmtOYzJIdVM2Qnl3RDcwY0xlc1BaM2l5SVNSc21jZVJYbEZTZ1ZBbjBoZmlBNjJXVFd0WDFOalIwZk9hZnQ2?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
+          "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T09:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-18T03:05:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829903"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjQxZS1IaVhVNnM1MHRwS2FwV1NzNWVxWW9meVpvUW5VWUhWOEhCcWRGWUN1NEcydDF2RHFVYmFLR3BaVHN0TUhXanpadzBLUW9abEpJVlNmTjJPQnpDdk1VNTZKM1M5eG9UWnJpd19qa3BmRHl2QXNuV1hoTVNmWk9GdzgxY1JMM1ZwSHFR?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
+          "title": "武汉江汉区法院发布金融审判白皮书 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T09:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-18T02:56:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829839"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGtWSnozWFhUXzRfWXNPbXJKNmJUTlZlTEk1b01ESGx0M2Zza3ZSTzQxU3RJdnM4QnlwN3ZMMkZ3SG1IVXVCcWZsMk9GR0loRlozTG52RnRkbU1STEtMeWk2OFZMS09ON283YWxGZ3dKWkZT?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "互联网巨头的AI新剧本",
+          "title": "壮大农业新兴产业重在要素协同 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T08:46:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-18T02:53:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829877"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JOHJpQmNOQ0FnY2tkOEpYMTdTaWxSN3BUWjZ2T2JLOGJ6NjlWMDNuWTJDZFRfZFgtOVRyeU8tcVFvWHhHanhjV2YzMWxzNklrRjE3US1LY2tTcWhUak5KcjMxemZXRHFzV1ZSREdJamQ3RWl1QXVJR2lHbjcwQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展",
+          "title": "农业服务瞄准综合化转型 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T07:23:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-18T02:53:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829873"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-18T07:23:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829865"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上市公司掘金“新三样”回收拆解",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-18T07:23:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829866"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBacUdaWmprN0o4Z29sMi15Yy1UekRCZmFCd3B5bDI5aTQ5VUphVmMtTk9vSzZTOU1Cc0pMNWwxdlpwbktiWUlPYjY5NEJ4Sk52RlluTndLUlNGa1Fob1lQdzNGaEk4aDVMNW9teUo2Sml4bHRVc1JHTWhSdXJkdw?oc=5"
             }
           ]
         },
@@ -315,13 +285,43 @@
           "title": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-18T02:33:44+00:00；来源：新华网。",
+            "发布时间：2026-11-18T02:33:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTlDOU5oNEZBTlgtX1NrSjNfMWF1ZlF2aC14UkRfX1JWdHFXZHZkQ250RlNrdEY2LWV4Nl8xNEhNVkpoSFhlcHBrLUNUallXejdTSFhDcnlHV3R2cHBfRkVRbjNVSW9hRWxDQ19fTFFsZEFndmEwTFMzNHhaSXJlTXgtMjg5RGRtVndET3d3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSGliU0txNmdDN2dmNkFXb2lxU1RCaGpCZXBlRWQ3V3NtNDBtUm9SOWFGWDcxb0JFMnBTRHBZSjdSVUV3dFZxM3hUR25QYlA5QXd4bmpJWEtJR3FabTNlMHZncGlYZzh5eGc2UGR0RnpmbzZqS3F3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“山海康养 旅居青岛”，释放文旅消费新可能 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-18T02:33:11+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43ZlhyMUZ0c0k1ZTNPMmFMVkl3VERONWZxMTZFejhTZ3JMV2hvMFRiUXVpWnlRXzZaT0p4X01IYll0RVAzMjlVTFNFZFNHQ2ZMckJQeVV4bVVHOTgtT2UzY0ZZU2xJamtBeVNPUEV2eFpRUjM5?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "老城里的服务新局——重庆渝中现代服务业发展观察 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-18T02:32:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPM2MwcmdYUFpnVFc2UE1ZVTBNMjlrRE92RFdWUWctaTF0OXhRdlFGRV9KSmZPYWJyTjMtMzZ1cXhhLWRFU3dub0w3VzZlWmZubzVkVEV2djAwOXUtaXpWeDFIQ29zRHR2bTN2MEFPNjNKNE1EZDg4?oc=5"
             }
           ]
         }
@@ -379,13 +379,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-16"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-16"
     },
     {
@@ -404,54 +404,44 @@
       "asOf": "2026-11-16"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-17"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-16"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-16"
+      "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文） - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTAydDdwcjZKcnZtbDllYkxyS2t5ajg1aTI2bzVhUkdMRlJta3BDUUpuTlk3V0FCdVg5MEJqX2I0MzJKSURNVFhYZ1pFSHEzNWNQNXdETWwwNGRBMU9ZQ2RtVExuM1ZRWk5mQUlhRHF2RFBXN1Z1TGdGTFE1YWxlOWhKeTh3dXZDNEZjd0hR?oc=5",
+      "asOf": "2026-11-18T03:10:51+00:00"
     },
     {
-      "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-      "url": "https://www.cnstock.com/commonDetail/829926",
-      "asOf": "2026-11-18T10:25:00+08:00"
+      "title": "山东莱西低空经济“飞”出新高度 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KMTJYQkJ0ZzQ4eDdla1FpYjhzNFFyeHRzaHc4bEFibk1UQ0VrMVRNX0VvbWFzWmtOYzJIdVM2Qnl3RDcwY0xlc1BaM2l5SVNSc21jZVJYbEZTZ1ZBbjBoZmlBNjJXVFd0WDFOalIwZk9hZnQ2?oc=5",
+      "asOf": "2026-11-18T03:07:18+00:00"
     },
     {
-      "title": "南京新百：拟出售两家以色列护理子公司100%股权 基础股权价值约9亿元",
-      "url": "https://www.cnstock.com/commonDetail/829837",
-      "asOf": "2026-11-18T09:31:00+08:00"
+      "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjQxZS1IaVhVNnM1MHRwS2FwV1NzNWVxWW9meVpvUW5VWUhWOEhCcWRGWUN1NEcydDF2RHFVYmFLR3BaVHN0TUhXanpadzBLUW9abEpJVlNmTjJPQnpDdk1VNTZKM1M5eG9UWnJpd19qa3BmRHl2QXNuV1hoTVNmWk9GdzgxY1JMM1ZwSHFR?oc=5",
+      "asOf": "2026-11-18T03:05:51+00:00"
     },
     {
-      "title": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829903",
-      "asOf": "2026-11-18T09:31:00+08:00"
+      "title": "武汉江汉区法院发布金融审判白皮书 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGtWSnozWFhUXzRfWXNPbXJKNmJUTlZlTEk1b01ESGx0M2Zza3ZSTzQxU3RJdnM4QnlwN3ZMMkZ3SG1IVXVCcWZsMk9GR0loRlozTG52RnRkbU1STEtMeWk2OFZMS09ON283YWxGZ3dKWkZT?oc=5",
+      "asOf": "2026-11-18T02:56:40+00:00"
     },
     {
-      "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829839",
-      "asOf": "2026-11-18T09:31:00+08:00"
+      "title": "壮大农业新兴产业重在要素协同 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JOHJpQmNOQ0FnY2tkOEpYMTdTaWxSN3BUWjZ2T2JLOGJ6NjlWMDNuWTJDZFRfZFgtOVRyeU8tcVFvWHhHanhjV2YzMWxzNklrRjE3US1LY2tTcWhUak5KcjMxemZXRHFzV1ZSREdJamQ3RWl1QXVJR2lHbjcwQQ?oc=5",
+      "asOf": "2026-11-18T02:53:37+00:00"
     },
     {
-      "title": "互联网巨头的AI新剧本",
-      "url": "https://www.cnstock.com/commonDetail/829877",
-      "asOf": "2026-11-18T08:46:00+08:00"
-    },
-    {
-      "title": "商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展",
-      "url": "https://www.cnstock.com/commonDetail/829873",
-      "asOf": "2026-11-18T07:23:00+08:00"
-    },
-    {
-      "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "url": "https://www.cnstock.com/commonDetail/829865",
-      "asOf": "2026-11-18T07:23:00+08:00"
-    },
-    {
-      "title": "上市公司掘金“新三样”回收拆解",
-      "url": "https://www.cnstock.com/commonDetail/829866",
-      "asOf": "2026-11-18T07:23:00+08:00"
+      "title": "农业服务瞄准综合化转型 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBacUdaWmprN0o4Z29sMi15Yy1UekRCZmFCd3B5bDI5aTQ5VUphVmMtTk9vSzZTOU1Cc0pMNWwxdlpwbktiWUlPYjY5NEJ4Sk52RlluTndLUlNGa1Fob1lQdzNGaEk4aDVMNW9teUo2Sml4bHRVc1JHTWhSdXJkdw?oc=5",
+      "asOf": "2026-11-18T02:53:36+00:00"
     },
     {
       "title": "茅台王子杯·奋斗美青春第四届大赛颁奖活动举办 - 新华网",
@@ -460,74 +450,68 @@
     },
     {
       "title": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTlDOU5oNEZBTlgtX1NrSjNfMWF1ZlF2aC14UkRfX1JWdHFXZHZkQ250RlNrdEY2LWV4Nl8xNEhNVkpoSFhlcHBrLUNUallXejdTSFhDcnlHV3R2cHBfRkVRbjNVSW9hRWxDQ19fTFFsZEFndmEwTFMzNHhaSXJlTXgtMjg5RGRtVndET3d3?oc=5",
-      "asOf": "2026-11-18T02:33:44+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSGliU0txNmdDN2dmNkFXb2lxU1RCaGpCZXBlRWQ3V3NtNDBtUm9SOWFGWDcxb0JFMnBTRHBZSjdSVUV3dFZxM3hUR25QYlA5QXd4bmpJWEtJR3FabTNlMHZncGlYZzh5eGc2UGR0RnpmbzZqS3F3?oc=5",
+      "asOf": "2026-11-18T02:33:42+00:00"
+    },
+    {
+      "title": "“山海康养 旅居青岛”，释放文旅消费新可能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43ZlhyMUZ0c0k1ZTNPMmFMVkl3VERONWZxMTZFejhTZ3JMV2hvMFRiUXVpWnlRXzZaT0p4X01IYll0RVAzMjlVTFNFZFNHQ2ZMckJQeVV4bVVHOTgtT2UzY0ZZU2xJamtBeVNPUEV2eFpRUjM5?oc=5",
+      "asOf": "2026-11-18T02:33:11+00:00"
+    },
+    {
+      "title": "老城里的服务新局——重庆渝中现代服务业发展观察 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPM2MwcmdYUFpnVFc2UE1ZVTBNMjlrRE92RFdWUWctaTF0OXhRdlFGRV9KSmZPYWJyTjMtMzZ1cXhhLWRFU3dub0w3VzZlWmZubzVkVEV2djAwOXUtaXpWeDFIQ29zRHR2bTN2MEFPNjNKNE1EZDg4?oc=5",
+      "asOf": "2026-11-18T02:32:16+00:00"
     }
   ],
   "events": [
     {
-      "event": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-      "originalTitle": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-      "published": "2026-11-18T10:25:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/829926",
-      "evidenceLevel": "headline-only"
+      "event": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文） - 新华网",
+      "published": "2026-11-18T03:10:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTAydDdwcjZKcnZtbDllYkxyS2t5ajg1aTI2bzVhUkdMRlJta3BDUUpuTlk3V0FCdVg5MEJqX2I0MzJKSURNVFhYZ1pFSHEzNWNQNXdETWwwNGRBMU9ZQ2RtVExuM1ZRWk5mQUlhRHF2RFBXN1Z1TGdGTFE1YWxlOWhKeTh3dXZDNEZjd0hR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文） - 新华网"
     },
     {
-      "event": "南京新百：拟出售两家以色列护理子公司100%股权 基础股权价值约9亿元",
-      "originalTitle": "南京新百：拟出售两家以色列护理子公司100%股权 基础股权价值约9亿元",
-      "published": "2026-11-18T09:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829837",
-      "evidenceLevel": "headline-only"
+      "event": "山东莱西低空经济“飞”出新高度 - 新华网",
+      "published": "2026-11-18T03:07:18+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KMTJYQkJ0ZzQ4eDdla1FpYjhzNFFyeHRzaHc4bEFibk1UQ0VrMVRNX0VvbWFzWmtOYzJIdVM2Qnl3RDcwY0xlc1BaM2l5SVNSc21jZVJYbEZTZ1ZBbjBoZmlBNjJXVFd0WDFOalIwZk9hZnQ2?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "山东莱西低空经济“飞”出新高度 - 新华网"
     },
     {
-      "event": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
-      "originalTitle": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
-      "published": "2026-11-18T09:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829903",
-      "evidenceLevel": "headline-only"
+      "event": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 新华网",
+      "published": "2026-11-18T03:05:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjQxZS1IaVhVNnM1MHRwS2FwV1NzNWVxWW9meVpvUW5VWUhWOEhCcWRGWUN1NEcydDF2RHFVYmFLR3BaVHN0TUhXanpadzBLUW9abEpJVlNmTjJPQnpDdk1VNTZKM1M5eG9UWnJpd19qa3BmRHl2QXNuV1hoTVNmWk9GdzgxY1JMM1ZwSHFR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 新华网"
     },
     {
-      "event": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "originalTitle": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "published": "2026-11-18T09:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829839",
-      "evidenceLevel": "headline-only"
+      "event": "武汉江汉区法院发布金融审判白皮书 - 新华网",
+      "published": "2026-11-18T02:56:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGtWSnozWFhUXzRfWXNPbXJKNmJUTlZlTEk1b01ESGx0M2Zza3ZSTzQxU3RJdnM4QnlwN3ZMMkZ3SG1IVXVCcWZsMk9GR0loRlozTG52RnRkbU1STEtMeWk2OFZMS09ON283YWxGZ3dKWkZT?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "武汉江汉区法院发布金融审判白皮书 - 新华网"
     },
     {
-      "event": "互联网巨头的AI新剧本",
-      "originalTitle": "互联网巨头的AI新剧本",
-      "published": "2026-11-18T08:46:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829877",
-      "evidenceLevel": "headline-only"
+      "event": "壮大农业新兴产业重在要素协同 - 新华网",
+      "published": "2026-11-18T02:53:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JOHJpQmNOQ0FnY2tkOEpYMTdTaWxSN3BUWjZ2T2JLOGJ6NjlWMDNuWTJDZFRfZFgtOVRyeU8tcVFvWHhHanhjV2YzMWxzNklrRjE3US1LY2tTcWhUak5KcjMxemZXRHFzV1ZSREdJamQ3RWl1QXVJR2lHbjcwQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "壮大农业新兴产业重在要素协同 - 新华网"
     },
     {
-      "event": "商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展",
-      "originalTitle": "商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展",
-      "published": "2026-11-18T07:23:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829873",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "originalTitle": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "published": "2026-11-18T07:23:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829865",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上市公司掘金“新三样”回收拆解",
-      "originalTitle": "上市公司掘金“新三样”回收拆解",
-      "published": "2026-11-18T07:23:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829866",
-      "evidenceLevel": "headline-only"
+      "event": "农业服务瞄准综合化转型 - 新华网",
+      "published": "2026-11-18T02:53:36+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBacUdaWmprN0o4Z29sMi15Yy1UekRCZmFCd3B5bDI5aTQ5VUphVmMtTk9vSzZTOU1Cc0pMNWwxdlpwbktiWUlPYjY5NEJ4Sk52RlluTndLUlNGa1Fob1lQdzNGaEk4aDVMNW9teUo2Sml4bHRVc1JHTWhSdXJkdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "农业服务瞄准综合化转型 - 新华网"
     },
     {
       "event": "茅台王子杯·奋斗美青春第四届大赛颁奖活动举办 - 新华网",
@@ -539,11 +523,27 @@
     },
     {
       "event": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约 - 新华网",
-      "published": "2026-11-18T02:33:44+00:00",
+      "published": "2026-11-18T02:33:42+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTlDOU5oNEZBTlgtX1NrSjNfMWF1ZlF2aC14UkRfX1JWdHFXZHZkQ250RlNrdEY2LWV4Nl8xNEhNVkpoSFhlcHBrLUNUallXejdTSFhDcnlHV3R2cHBfRkVRbjNVSW9hRWxDQ19fTFFsZEFndmEwTFMzNHhaSXJlTXgtMjg5RGRtVndET3d3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSGliU0txNmdDN2dmNkFXb2lxU1RCaGpCZXBlRWQ3V3NtNDBtUm9SOWFGWDcxb0JFMnBTRHBZSjdSVUV3dFZxM3hUR25QYlA5QXd4bmpJWEtJR3FabTNlMHZncGlYZzh5eGc2UGR0RnpmbzZqS3F3?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约 - 新华网"
+    },
+    {
+      "event": "“山海康养 旅居青岛”，释放文旅消费新可能 - 新华网",
+      "published": "2026-11-18T02:33:11+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43ZlhyMUZ0c0k1ZTNPMmFMVkl3VERONWZxMTZFejhTZ3JMV2hvMFRiUXVpWnlRXzZaT0p4X01IYll0RVAzMjlVTFNFZFNHQ2ZMckJQeVV4bVVHOTgtT2UzY0ZZU2xJamtBeVNPUEV2eFpRUjM5?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“山海康养 旅居青岛”，释放文旅消费新可能 - 新华网"
+    },
+    {
+      "event": "老城里的服务新局——重庆渝中现代服务业发展观察 - 新华网",
+      "published": "2026-11-18T02:32:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPM2MwcmdYUFpnVFc2UE1ZVTBNMjlrRE92RFdWUWctaTF0OXhRdlFGRV9KSmZPYWJyTjMtMzZ1cXhhLWRFU3dub0w3VzZlWmZubzVkVEV2djAwOXUtaXpWeDFIQ29zRHR2bTN2MEFPNjNKNE1EZDg4?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "老城里的服务新局——重庆渝中现代服务业发展观察 - 新华网"
     }
   ],
   "quality": {
@@ -557,14 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
