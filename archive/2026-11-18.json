@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-18",
-  "date": "更新于北京时间 2026-11-18 15:10",
+  "date": "更新于北京时间 2026-11-18 15:29",
   "reportDate": "2026-11-18",
-  "updatedAt": "2026-11-18T15:10:30+08:00",
+  "updatedAt": "2026-11-18T15:29:55+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.83 %；变化 -0.05 个百分点",
+          "summary": "4.80 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-16；前值 4.88（2026-11-13）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-17；前值 4.83（2026-11-16）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -226,28 +226,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-18T11:34:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社深圳11月18日电（记者肖文峰、韩洁）11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/829956"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-18T09:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829839"
+              "url": "https://www.cnstock.com/commonDetail/829956"
             }
           ]
         },
@@ -263,6 +247,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/829903"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-18T09:31:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829839"
             }
           ]
         },
@@ -298,21 +297,6 @@
         },
         {
           "type": "explainer",
-          "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-18T07:23:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/829865"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "上市公司掘金“新三样”回收拆解",
           "summary": "",
           "paragraphs": [
@@ -323,6 +307,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/829866"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-18T07:23:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/829865"
             }
           ]
         }
@@ -380,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-17"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-17"
@@ -400,14 +394,19 @@
       "asOf": "2026-11-17"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-17"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-16"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-17"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -435,13 +434,13 @@
       "asOf": "2026-11-18T11:34:00+08:00"
     },
     {
-      "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829839",
+      "title": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/829903",
       "asOf": "2026-11-18T09:31:00+08:00"
     },
     {
-      "title": "山鹰国际：实控人拟3个交易日内不低于1500万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/829903",
+      "title": "索宝蛋白：拟2000万元至4000万元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/829839",
       "asOf": "2026-11-18T09:31:00+08:00"
     },
     {
@@ -455,13 +454,13 @@
       "asOf": "2026-11-18T07:23:00+08:00"
     },
     {
-      "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "url": "https://www.cnstock.com/commonDetail/829865",
+      "title": "上市公司掘金“新三样”回收拆解",
+      "url": "https://www.cnstock.com/commonDetail/829866",
       "asOf": "2026-11-18T07:23:00+08:00"
     },
     {
-      "title": "上市公司掘金“新三样”回收拆解",
-      "url": "https://www.cnstock.com/commonDetail/829866",
+      "title": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
+      "url": "https://www.cnstock.com/commonDetail/829865",
       "asOf": "2026-11-18T07:23:00+08:00"
     }
   ],
@@ -496,21 +495,6 @@
       "published": "2026-11-18T11:34:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/829956",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/829956",
-        "retrievedAt": "2026-11-18T15:10:30.483280+08:00",
-        "sha256": "c8aebc4378aafa9fc50ec37def2171c06fc70802f0b15c44b5097636979c8c03",
-        "paragraphCount": 11,
-        "excerpt": "新华社深圳11月18日电（记者肖文峰、韩洁）11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。"
-      }
-    },
-    {
-      "event": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "originalTitle": "索宝蛋白：拟2000万元至4000万元回购公司股份",
-      "published": "2026-11-18T09:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/829839",
       "evidenceLevel": "headline-only"
     },
     {
@@ -519,6 +503,14 @@
       "published": "2026-11-18T09:31:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/829903",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "索宝蛋白：拟2000万元至4000万元回购公司股份",
+      "originalTitle": "索宝蛋白：拟2000万元至4000万元回购公司股份",
+      "published": "2026-11-18T09:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/829839",
       "evidenceLevel": "headline-only"
     },
     {
@@ -538,19 +530,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "originalTitle": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
-      "published": "2026-11-18T07:23:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/829865",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "上市公司掘金“新三样”回收拆解",
       "originalTitle": "上市公司掘金“新三样”回收拆解",
       "published": "2026-11-18T07:23:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/829866",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
+      "originalTitle": "深市科技龙头估值处历史低位 光通信行业订单能见度指向2027年",
+      "published": "2026-11-18T07:23:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/829865",
       "evidenceLevel": "headline-only"
     }
   ],
@@ -565,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
