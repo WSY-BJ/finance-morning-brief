@@ -1,0 +1,563 @@
+{
+  "edition": "财经晨报 · 2026-11-19",
+  "date": "更新于北京时间 2026-11-19 10:32",
+  "reportDate": "2026-11-19",
+  "updatedAt": "2026-11-19T10:32:04+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-19 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-17：7,340.53 点；较 2026-11-16 变化 -76.06 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-17：5.10 %；较 2026-11-16 变化 -0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "92.94 美元/桶；变化 +0.04 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 92.90（2026-11-16）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.80 %；变化 -0.03 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 4.83（2026-11-16）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "5.10 %；变化 -0.02 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 5.12（2026-11-16）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "103.49 点；变化 -0.06 点",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 103.55（2026-11-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,340.53 点；变化 -76.06 点",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 7,416.59（2026-11-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "24,328.38 点；变化 -181.38 点",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 24,509.76（2026-11-16）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6659 人民币/美元；变化 +0.0017 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-18；前值 6.6642（2026-11-17）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T02:19:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T02:17:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "习近平谈建设亚太共同体 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T02:16:33+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "从深圳出发的相机，能走多远？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T02:02:38+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "城事·微光丨无声肠粉店的温暖 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T01:53:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "全国花样滑冰少年锦标赛赛况 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T01:43:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T01:38:56+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T01:16:32+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T01:07:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T00:57:50+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 42 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-16 前值 7416.5898，2026-11-17 现值 7340.5298，变化 -76.0601。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-18"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5",
+      "asOf": "2026-11-19T02:19:31+00:00"
+    },
+    {
+      "title": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5",
+      "asOf": "2026-11-19T02:17:38+00:00"
+    },
+    {
+      "title": "习近平谈建设亚太共同体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5",
+      "asOf": "2026-11-19T02:16:33+00:00"
+    },
+    {
+      "title": "从深圳出发的相机，能走多远？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5",
+      "asOf": "2026-11-19T02:02:38+00:00"
+    },
+    {
+      "title": "城事·微光丨无声肠粉店的温暖 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5",
+      "asOf": "2026-11-19T01:53:05+00:00"
+    },
+    {
+      "title": "全国花样滑冰少年锦标赛赛况 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5",
+      "asOf": "2026-11-19T01:43:31+00:00"
+    },
+    {
+      "title": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5",
+      "asOf": "2026-11-19T01:38:56+00:00"
+    },
+    {
+      "title": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5",
+      "asOf": "2026-11-19T01:16:32+00:00"
+    },
+    {
+      "title": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5",
+      "asOf": "2026-11-19T01:07:14+00:00"
+    },
+    {
+      "title": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5",
+      "asOf": "2026-11-19T00:57:50+00:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
+      "published": "2026-11-19T02:19:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网"
+    },
+    {
+      "event": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
+      "published": "2026-11-19T02:17:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "会议纪要显示美联储官员倾向进一步加息 - 新华网"
+    },
+    {
+      "event": "习近平谈建设亚太共同体 - 新华网",
+      "published": "2026-11-19T02:16:33+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "习近平谈建设亚太共同体 - 新华网"
+    },
+    {
+      "event": "从深圳出发的相机，能走多远？ - 新华网",
+      "published": "2026-11-19T02:02:38+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "从深圳出发的相机，能走多远？ - 新华网"
+    },
+    {
+      "event": "城事·微光丨无声肠粉店的温暖 - 新华网",
+      "published": "2026-11-19T01:53:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "城事·微光丨无声肠粉店的温暖 - 新华网"
+    },
+    {
+      "event": "全国花样滑冰少年锦标赛赛况 - 新华网",
+      "published": "2026-11-19T01:43:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全国花样滑冰少年锦标赛赛况 - 新华网"
+    },
+    {
+      "event": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
+      "published": "2026-11-19T01:38:56+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网"
+    },
+    {
+      "event": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
+      "published": "2026-11-19T01:16:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026现代服务业高质量发展大会在渝开幕 - 新华网"
+    },
+    {
+      "event": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
+      "published": "2026-11-19T01:07:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网"
+    },
+    {
+      "event": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
+      "published": "2026-11-19T00:57:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2025年全球专利申请量创新高 中国大幅领先 - 新华网"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中国证券网原文: URLError"
+    ]
+  }
+}
