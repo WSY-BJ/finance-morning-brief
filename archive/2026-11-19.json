@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-19",
-  "date": "更新于北京时间 2026-11-19 15:11",
+  "date": "更新于北京时间 2026-11-19 15:27",
   "reportDate": "2026-11-19",
-  "updatedAt": "2026-11-19T15:11:06+08:00",
+  "updatedAt": "2026-11-19T15:27:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T15:16:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830546"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
           "summary": "",
           "paragraphs": [
@@ -188,21 +203,6 @@
             {
               "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/830519"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T12:59:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830509"
             }
           ]
         },
@@ -223,17 +223,16 @@
         },
         {
           "type": "explainer",
-          "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+          "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信勿传。此外，部分上市公司近日通过澄清公告、交易所投资者互动平台等渠道，对涉及公司经营的不实传闻及时予以回应。"
+            "发布时间：2026-11-19T12:59:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/830462"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830509"
             }
           ]
         },
@@ -254,6 +253,21 @@
         },
         {
           "type": "explainer",
+          "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830462"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新一轮国资国企改革进入全面实施阶段",
           "summary": "",
           "paragraphs": [
@@ -264,6 +278,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/830444"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第二批可信数据空间创新发展试点启动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T07:09:05+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5"
             }
           ]
         },
@@ -294,36 +323,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T06:55:10+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国男足世界排名上升一位 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T06:52:09+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5"
             }
           ]
         }
@@ -381,9 +380,9 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-18"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -396,14 +395,14 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-18"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-18"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
     },
     {
       "title": "美国 10 年期国债收益率 · 美国财政部",
@@ -416,14 +415,14 @@
       "asOf": "2026-11-17"
     },
     {
+      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+      "url": "https://www.cnstock.com/commonDetail/830546",
+      "asOf": "2026-11-19T15:16:00+08:00"
+    },
+    {
       "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
       "url": "https://www.cnstock.com/commonDetail/830519",
       "asOf": "2026-11-19T13:30:00+08:00"
-    },
-    {
-      "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-      "url": "https://www.cnstock.com/commonDetail/830509",
-      "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
       "title": "提前“达标”！虚拟电厂重磅报告出炉",
@@ -431,9 +430,9 @@
       "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
-      "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
-      "url": "https://www.cnstock.com/commonDetail/830462",
-      "asOf": "2026-11-19T08:43:00+08:00"
+      "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "url": "https://www.cnstock.com/commonDetail/830509",
+      "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
       "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
@@ -441,9 +440,19 @@
       "asOf": "2026-11-19T08:43:00+08:00"
     },
     {
+      "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "url": "https://www.cnstock.com/commonDetail/830462",
+      "asOf": "2026-11-19T08:43:00+08:00"
+    },
+    {
       "title": "新一轮国资国企改革进入全面实施阶段",
       "url": "https://www.cnstock.com/commonDetail/830444",
       "asOf": "2026-11-19T07:58:00+08:00"
+    },
+    {
+      "title": "第二批可信数据空间创新发展试点启动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5",
+      "asOf": "2026-11-19T07:09:05+00:00"
     },
     {
       "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
@@ -454,19 +463,17 @@
       "title": "健康我来说丨拨打120前要牢记八个字 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
       "asOf": "2026-11-19T07:06:02+00:00"
-    },
-    {
-      "title": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5",
-      "asOf": "2026-11-19T06:55:10+00:00"
-    },
-    {
-      "title": "中国男足世界排名上升一位 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5",
-      "asOf": "2026-11-19T06:52:09+00:00"
     }
   ],
   "events": [
+    {
+      "event": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+      "originalTitle": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+      "published": "2026-11-19T15:16:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/830546",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "国产算力板块暴跌，业界称“市场传闻不准确！”",
       "originalTitle": "国产算力板块暴跌，业界称“市场传闻不准确！”",
@@ -476,19 +483,11 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/830519",
-        "retrievedAt": "2026-11-19T15:11:06.040897+08:00",
+        "retrievedAt": "2026-11-19T15:27:33.854806+08:00",
         "sha256": "2a5501b229524a9cd0b09836c6ec9dca8c674a6aaf40174186ee2d07d0506573",
         "paragraphCount": 4,
         "excerpt": "消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。"
       }
-    },
-    {
-      "event": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-      "originalTitle": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-      "published": "2026-11-19T12:59:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830509",
-      "evidenceLevel": "headline-only"
     },
     {
       "event": "提前“达标”！虚拟电厂重磅报告出炉",
@@ -499,19 +498,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
-      "originalTitle": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
-      "published": "2026-11-19T08:43:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/830462",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/830462",
-        "retrievedAt": "2026-11-19T15:11:06.040897+08:00",
-        "sha256": "e9bfc3725c7701ef54e18e6cef96707d0b7db07ab9c29b4b991d6123f3088a0c",
-        "paragraphCount": 10,
-        "excerpt": "11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信勿传。此外，部分上市公司近日通过澄清公告、交易所投资者互动平台等渠道，对涉及公司经营的不实传闻及时予以回应。"
-      }
+      "event": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "originalTitle": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "published": "2026-11-19T12:59:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/830509",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
@@ -522,12 +514,28 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "originalTitle": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "published": "2026-11-19T08:43:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/830462",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "新一轮国资国企改革进入全面实施阶段",
       "originalTitle": "新一轮国资国企改革进入全面实施阶段",
       "published": "2026-11-19T07:58:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/830444",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "第二批可信数据空间创新发展试点启动 - 新华网",
+      "published": "2026-11-19T07:09:05+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第二批可信数据空间创新发展试点启动 - 新华网"
     },
     {
       "event": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
@@ -544,22 +552,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "健康我来说丨拨打120前要牢记八个字 - 新华网"
-    },
-    {
-      "event": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
-      "published": "2026-11-19T06:55:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "光走一天的路程，“旅行者1号”用了49年 - 新华网"
-    },
-    {
-      "event": "中国男足世界排名上升一位 - 新华网",
-      "published": "2026-11-19T06:52:09+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国男足世界排名上升一位 - 新华网"
     }
   ],
   "quality": {
@@ -573,8 +565,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: HTTPError",
+      "article: HTTPError",
       "article: ValueError",
       "article: ValueError"
     ]
