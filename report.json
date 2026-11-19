@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-19",
-  "date": "更新于北京时间 2026-11-19 15:27",
+  "date": "更新于北京时间 2026-11-19 15:53",
   "reportDate": "2026-11-19",
-  "updatedAt": "2026-11-19T15:27:33+08:00",
+  "updatedAt": "2026-11-19T15:53:56+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-18：5.07 %；较 2026-11-17 变化 -0.03 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-17：5.10 %；较 2026-11-16 变化 -0.02 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.07 %；变化 -0.03 个百分点",
+          "summary": "5.10 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：美国财政部。"
+            "观测日 2026-11-17；前值 5.12（2026-11-16）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -196,28 +196,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-19T13:30:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/830519"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "提前“达标”！虚拟电厂重磅报告出炉",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T12:59:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830510"
+              "url": "https://www.cnstock.com/commonDetail/830519"
             }
           ]
         },
@@ -238,16 +222,16 @@
         },
         {
           "type": "explainer",
-          "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+          "title": "提前“达标”！虚拟电厂重磅报告出炉",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-19T12:59:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830396"
+              "url": "https://www.cnstock.com/commonDetail/830510"
             }
           ]
         },
@@ -268,6 +252,21 @@
         },
         {
           "type": "explainer",
+          "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830396"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新一轮国资国企改革进入全面实施阶段",
           "summary": "",
           "paragraphs": [
@@ -283,46 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "第二批可信数据空间创新发展试点启动 - 新华网",
+          "title": "第八届中国—东盟法治论坛在重庆举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T07:09:05+00:00；来源：新华网。",
+            "发布时间：2026-11-19T07:46:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1va2tsNGRJWXJmaUZHZDdaMUtSRGNUajRkNFZtRjJCWkVZQzFfWnZtNFZ0eU9Ld0dDeVdlNlJSbWRBRGN1Y1lzdHdhRW9RUjUyTGxFM1NXZzRSZjdIYnVPUEZGbDJIOWhwOVpwRXZ6QmVDdGhCdUVYWFB3MVpNUXc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
+          "title": "克里米亚大桥再次遭袭 列车暂停通行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T07:07:33+00:00；来源：新华网。",
+            "发布时间：2026-11-19T07:46:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ0VmZk9ydWhQYTFrZWxZdU1ldVNyY2paSU82b2VwaFU4RXhWV1hLWUU4NG9YLWRFdE93RUFxMU05d3R4ZE1rRDdfYmNvWV9yMC1sMmVJWTRjZG4yZEt1S0JEYWFoRWUxZ1FJeXJMOHkwUklFWVV2dEJoeG83eTA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "健康我来说丨拨打120前要牢记八个字 - 新华网",
+          "title": "广西修复经营主体信用信息24.9万条 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T07:06:02+00:00；来源：新华网。",
+            "发布时间：2026-11-19T07:45:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZmtfSEhFMHZRRzU2aXNmSmR6NHV0UnR1ZUZRQncwXzBENTBZYmRCc043NFBKUEF2M3hkUXFWVFVZbUhhTDVwNDcxUldvNnR3aU5nWHUtRHQzLXUwOW5WMDNUbUUtT2F6Qzd2Qm1UblJOcl9wNXUyVDNaZExkb0E?oc=5"
             }
           ]
         }
@@ -380,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-18"
@@ -390,28 +394,23 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-18"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-18"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-17"
     },
     {
@@ -425,23 +424,23 @@
       "asOf": "2026-11-19T13:30:00+08:00"
     },
     {
-      "title": "提前“达标”！虚拟电厂重磅报告出炉",
-      "url": "https://www.cnstock.com/commonDetail/830510",
-      "asOf": "2026-11-19T12:59:00+08:00"
-    },
-    {
       "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
       "url": "https://www.cnstock.com/commonDetail/830509",
       "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
-      "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/830396",
-      "asOf": "2026-11-19T08:43:00+08:00"
+      "title": "提前“达标”！虚拟电厂重磅报告出炉",
+      "url": "https://www.cnstock.com/commonDetail/830510",
+      "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
       "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
       "url": "https://www.cnstock.com/commonDetail/830462",
+      "asOf": "2026-11-19T08:43:00+08:00"
+    },
+    {
+      "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830396",
       "asOf": "2026-11-19T08:43:00+08:00"
     },
     {
@@ -450,19 +449,19 @@
       "asOf": "2026-11-19T07:58:00+08:00"
     },
     {
-      "title": "第二批可信数据空间创新发展试点启动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5",
-      "asOf": "2026-11-19T07:09:05+00:00"
+      "title": "第八届中国—东盟法治论坛在重庆举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1va2tsNGRJWXJmaUZHZDdaMUtSRGNUajRkNFZtRjJCWkVZQzFfWnZtNFZ0eU9Ld0dDeVdlNlJSbWRBRGN1Y1lzdHdhRW9RUjUyTGxFM1NXZzRSZjdIYnVPUEZGbDJIOWhwOVpwRXZ6QmVDdGhCdUVYWFB3MVpNUXc?oc=5",
+      "asOf": "2026-11-19T07:46:58+00:00"
     },
     {
-      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5",
-      "asOf": "2026-11-19T07:07:33+00:00"
+      "title": "克里米亚大桥再次遭袭 列车暂停通行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ0VmZk9ydWhQYTFrZWxZdU1ldVNyY2paSU82b2VwaFU4RXhWV1hLWUU4NG9YLWRFdE93RUFxMU05d3R4ZE1rRDdfYmNvWV9yMC1sMmVJWTRjZG4yZEt1S0JEYWFoRWUxZ1FJeXJMOHkwUklFWVV2dEJoeG83eTA?oc=5",
+      "asOf": "2026-11-19T07:46:48+00:00"
     },
     {
-      "title": "健康我来说丨拨打120前要牢记八个字 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
-      "asOf": "2026-11-19T07:06:02+00:00"
+      "title": "广西修复经营主体信用信息24.9万条 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZmtfSEhFMHZRRzU2aXNmSmR6NHV0UnR1ZUZRQncwXzBENTBZYmRCc043NFBKUEF2M3hkUXFWVFVZbUhhTDVwNDcxUldvNnR3aU5nWHUtRHQzLXUwOW5WMDNUbUUtT2F6Qzd2Qm1UblJOcl9wNXUyVDNaZExkb0E?oc=5",
+      "asOf": "2026-11-19T07:45:02+00:00"
     }
   ],
   "events": [
@@ -480,21 +479,6 @@
       "published": "2026-11-19T13:30:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/830519",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/830519",
-        "retrievedAt": "2026-11-19T15:27:33.854806+08:00",
-        "sha256": "2a5501b229524a9cd0b09836c6ec9dca8c674a6aaf40174186ee2d07d0506573",
-        "paragraphCount": 4,
-        "excerpt": "消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。"
-      }
-    },
-    {
-      "event": "提前“达标”！虚拟电厂重磅报告出炉",
-      "originalTitle": "提前“达标”！虚拟电厂重磅报告出炉",
-      "published": "2026-11-19T12:59:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830510",
       "evidenceLevel": "headline-only"
     },
     {
@@ -506,11 +490,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
-      "originalTitle": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
-      "published": "2026-11-19T08:43:00+08:00",
+      "event": "提前“达标”！虚拟电厂重磅报告出炉",
+      "originalTitle": "提前“达标”！虚拟电厂重磅报告出炉",
+      "published": "2026-11-19T12:59:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830396",
+      "url": "https://www.cnstock.com/commonDetail/830510",
       "evidenceLevel": "headline-only"
     },
     {
@@ -522,6 +506,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "originalTitle": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "published": "2026-11-19T08:43:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830396",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "新一轮国资国企改革进入全面实施阶段",
       "originalTitle": "新一轮国资国企改革进入全面实施阶段",
       "published": "2026-11-19T07:58:00+08:00",
@@ -530,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "第二批可信数据空间创新发展试点启动 - 新华网",
-      "published": "2026-11-19T07:09:05+00:00",
+      "event": "第八届中国—东盟法治论坛在重庆举行 - 新华网",
+      "published": "2026-11-19T07:46:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVBmc3pHR2JhaEhnb2M5eVF4MTZ1RnV0RTJJTVdNTVhxem5IZFRqcW1rcFdtQzVteHVydUdmS1Q1aUQxdlQ0MkhjenpONW44QzVIeEEzR2E5TU5rcWRzSHBGYzFfUzJad2d4dVVFa1gzSkk3QTBiWnNDX3A4d0QzVzhITQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1va2tsNGRJWXJmaUZHZDdaMUtSRGNUajRkNFZtRjJCWkVZQzFfWnZtNFZ0eU9Ld0dDeVdlNlJSbWRBRGN1Y1lzdHdhRW9RUjUyTGxFM1NXZzRSZjdIYnVPUEZGbDJIOWhwOVpwRXZ6QmVDdGhCdUVYWFB3MVpNUXc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第二批可信数据空间创新发展试点启动 - 新华网"
+      "originalTitle": "第八届中国—东盟法治论坛在重庆举行 - 新华网"
     },
     {
-      "event": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
-      "published": "2026-11-19T07:07:33+00:00",
+      "event": "克里米亚大桥再次遭袭 列车暂停通行 - 新华网",
+      "published": "2026-11-19T07:46:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ0VmZk9ydWhQYTFrZWxZdU1ldVNyY2paSU82b2VwaFU4RXhWV1hLWUU4NG9YLWRFdE93RUFxMU05d3R4ZE1rRDdfYmNvWV9yMC1sMmVJWTRjZG4yZEt1S0JEYWFoRWUxZ1FJeXJMOHkwUklFWVV2dEJoeG83eTA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网"
+      "originalTitle": "克里米亚大桥再次遭袭 列车暂停通行 - 新华网"
     },
     {
-      "event": "健康我来说丨拨打120前要牢记八个字 - 新华网",
-      "published": "2026-11-19T07:06:02+00:00",
+      "event": "广西修复经营主体信用信息24.9万条 - 新华网",
+      "published": "2026-11-19T07:45:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZmtfSEhFMHZRRzU2aXNmSmR6NHV0UnR1ZUZRQncwXzBENTBZYmRCc043NFBKUEF2M3hkUXFWVFVZbUhhTDVwNDcxUldvNnR3aU5nWHUtRHQzLXUwOW5WMDNUbUUtT2F6Qzd2Qm1UblJOcl9wNXUyVDNaZExkb0E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "健康我来说丨拨打120前要牢记八个字 - 新华网"
+      "originalTitle": "广西修复经营主体信用信息24.9万条 - 新华网"
     }
   ],
   "quality": {
@@ -565,15 +557,14 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
-      "article: HTTPError",
-      "article: HTTPError",
       "article: ValueError",
-      "article: ValueError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: HTTPError"
     ]
   }
 }
