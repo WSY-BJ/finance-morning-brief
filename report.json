@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-19",
-  "date": "更新于北京时间 2026-11-19 12:55",
+  "date": "更新于北京时间 2026-11-19 15:11",
   "reportDate": "2026-11-19",
-  "updatedAt": "2026-11-19T12:55:42+08:00",
+  "updatedAt": "2026-11-19T15:11:06+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-17：7,340.53 点；较 2026-11-16 变化 -76.06 点。",
+          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-17：5.10 %；较 2026-11-16 变化 -0.02 个百分点。",
+          "summary": "2026-11-18：5.07 %；较 2026-11-17 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,23 +94,23 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.10 %；变化 -0.02 个百分点",
+          "summary": "5.07 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-17；前值 5.12（2026-11-16）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "103.49 点；变化 -0.06 点",
+          "summary": "103.86 点；变化 +0.37 点",
           "paragraphs": [
-            "观测日 2026-11-17；前值 103.55（2026-11-16）；来源：Yahoo Finance。"
+            "观测日 2026-11-18；前值 103.49（2026-11-17）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,340.53 点；变化 -76.06 点",
+          "summary": "7,323.63 点；变化 -16.90 点",
           "paragraphs": [
-            "观测日 2026-11-17；前值 7,416.59（2026-11-16）；来源：Yahoo Finance。"
+            "观测日 2026-11-18；前值 7,340.53（2026-11-17）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "24,328.38 点；变化 -181.38 点",
+          "summary": "24,429.88 点；变化 +101.50 点",
           "paragraphs": [
-            "观测日 2026-11-17；前值 24,509.76（2026-11-16）；来源：Yahoo Finance。"
+            "观测日 2026-11-18；前值 24,328.38（2026-11-17）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,33 +177,47 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+          "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T10:24:00+08:00；来源：新华社。",
+            "发布时间：2026-11-19T13:30:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：30多年前，亚太经合组织应运而生，开启了建设亚太共同体的壮阔历程。30多年来，亚太地区面貌日新月异，创造了经济快速发展的“亚太奇迹”。"
+            "原文摘要：消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/830489"
+              "url": "https://www.cnstock.com/commonDetail/830519"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "会议纪要显示美联储官员倾向进一步加息",
+          "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T10:24:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社纽约11月18日电（记者 刘亚南）美国联邦储备委员会18日公布10月货币政策会议纪要。纪要显示，尽管多数与会官员当时支持维持基准利率区间不变，但几乎所有官员认为，未来数月进一步加息可能是合适的。部分官员还提出，如果通胀数据不利，不排除"
+            "发布时间：2026-11-19T12:59:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/830488"
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830509"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "提前“达标”！虚拟电厂重磅报告出炉",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-19T12:59:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830510"
             }
           ]
         },
@@ -229,12 +243,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月18日晚间，重庆路桥发布公告称，公司于2026年11月18日收到第一大股东重庆国际信托股份有限公司（以下简称“重庆信托”）的通知，重庆信托拟自本公告披露之日起6个月内，通过上海证券交易所交易系统以集中竞价交易方式增持公司A股"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/830396"
             }
           ]
@@ -256,76 +269,61 @@
         },
         {
           "type": "explainer",
-          "title": "国际金价跌破3800美元 - 新华网",
+          "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T04:44:33+00:00；来源：新华网。",
+            "发布时间：2026-11-19T07:07:33+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIeVR3cHBteEVkc2ZUUkVXbU5rcGJEMXVHeEUwVVVTSVVXSzFEZ1hlTTJaeGdEMzFEb2hlRXhlTUtaSVp4VDJSTGFKSG1UWW4xZWJKQmFXSS1fWktMci1wa1ZmaDUwQ3dJWWVqSkNBYmtiN1RJQUw4?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "现代服务业大会Vlog丨重庆递给世界的“新名片” - 新华网",
+          "title": "健康我来说丨拨打120前要牢记八个字 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T04:34:46+00:00；来源：新华网。",
+            "发布时间：2026-11-19T07:06:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTGFmODhkMy1EWjg2azdMcEhMU0F0cC1QQ2tpMmtncTNoMlZTcnNqakRWUVZJcE5xbmRmNVpBb25HOEozZEZmSXQzRHZOTHZHcjZpLVFnMmp3a0ZFVEtFNHMxVVZ4Zi15NXVYdFlURjctbVhKMmRn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "通信故障致德国纽伦堡铁路交通一度中断 - 新华网",
+          "title": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T04:25:31+00:00；来源：新华网。",
+            "发布时间：2026-11-19T06:55:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51ZmN1ZXpLakxIM19hSjcwMGdhWVoxd01IWG1wYVlMWmJyNWtQNXA4OUZrSnJoVmdfUnRocURKMEkyRU16YTgyYVJRVTU1bjhPY2xCVHdxWGV4ZjhHQUFTN25JWDUtemZPanVtQ1Rzd2I5SmxxLUNieUlfTXdhV1E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话 - 新华网",
+          "title": "中国男足世界排名上升一位 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T04:23:17+00:00；来源：新华网。",
+            "发布时间：2026-11-19T06:52:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZlFvQks1YUVRTm53OVc5clJEd2swalAteThudFJqcDNwX3lyclZmc3hGUzZxRjhDZDlhNXZnSE5nSmVhN1hzQXBoaVN4OU5VaHJXU0todTlEdVB6SFVGMUtNMFhBY1NkZkN6TFJlQ2xFSVNRNE5B?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "IMF总裁用“海纳百川”喻APEC合作 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T04:17:39+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTXMtREZ0WEc1Y3MzbC1SbWV6eFg3SVBYTnFBUlRFR0ZkX3hsRUdkcElsS0VSbExkUEx4cG9OYVZIMjJOd1c2dWJlQlNNMUhjeTNBSDN6eDVTVGdlLW1td0JqWXJfUmVHczllNmdHcVhfRnhHZlQwc3g0Y2hmczQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5"
             }
           ]
         }
@@ -357,7 +355,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-16 前值 7416.5898，2026-11-17 现值 7340.5298，变化 -76.0601。",
+            "本期实例：标普 500 指数，2026-11-17 前值 7340.5298，2026-11-18 现值 7323.6299，变化 -16.8999。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -388,24 +386,29 @@
       "asOf": "2026-11-17"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-18"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-18"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-18"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-18"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-17"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-18"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -413,19 +416,19 @@
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-17"
+      "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
+      "url": "https://www.cnstock.com/commonDetail/830519",
+      "asOf": "2026-11-19T13:30:00+08:00"
     },
     {
-      "title": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
-      "url": "https://www.cnstock.com/commonDetail/830489",
-      "asOf": "2026-11-19T10:24:00+08:00"
+      "title": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "url": "https://www.cnstock.com/commonDetail/830509",
+      "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
-      "title": "会议纪要显示美联储官员倾向进一步加息",
-      "url": "https://www.cnstock.com/commonDetail/830488",
-      "asOf": "2026-11-19T10:24:00+08:00"
+      "title": "提前“达标”！虚拟电厂重磅报告出炉",
+      "url": "https://www.cnstock.com/commonDetail/830510",
+      "asOf": "2026-11-19T12:59:00+08:00"
     },
     {
       "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
@@ -443,61 +446,57 @@
       "asOf": "2026-11-19T07:58:00+08:00"
     },
     {
-      "title": "国际金价跌破3800美元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIeVR3cHBteEVkc2ZUUkVXbU5rcGJEMXVHeEUwVVVTSVVXSzFEZ1hlTTJaeGdEMzFEb2hlRXhlTUtaSVp4VDJSTGFKSG1UWW4xZWJKQmFXSS1fWktMci1wa1ZmaDUwQ3dJWWVqSkNBYmtiN1RJQUw4?oc=5",
-      "asOf": "2026-11-19T04:44:33+00:00"
+      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5",
+      "asOf": "2026-11-19T07:07:33+00:00"
     },
     {
-      "title": "现代服务业大会Vlog丨重庆递给世界的“新名片” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTGFmODhkMy1EWjg2azdMcEhMU0F0cC1QQ2tpMmtncTNoMlZTcnNqakRWUVZJcE5xbmRmNVpBb25HOEozZEZmSXQzRHZOTHZHcjZpLVFnMmp3a0ZFVEtFNHMxVVZ4Zi15NXVYdFlURjctbVhKMmRn?oc=5",
-      "asOf": "2026-11-19T04:34:46+00:00"
+      "title": "健康我来说丨拨打120前要牢记八个字 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
+      "asOf": "2026-11-19T07:06:02+00:00"
     },
     {
-      "title": "通信故障致德国纽伦堡铁路交通一度中断 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51ZmN1ZXpLakxIM19hSjcwMGdhWVoxd01IWG1wYVlMWmJyNWtQNXA4OUZrSnJoVmdfUnRocURKMEkyRU16YTgyYVJRVTU1bjhPY2xCVHdxWGV4ZjhHQUFTN25JWDUtemZPanVtQ1Rzd2I5SmxxLUNieUlfTXdhV1E?oc=5",
-      "asOf": "2026-11-19T04:25:31+00:00"
+      "title": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5",
+      "asOf": "2026-11-19T06:55:10+00:00"
     },
     {
-      "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZlFvQks1YUVRTm53OVc5clJEd2swalAteThudFJqcDNwX3lyclZmc3hGUzZxRjhDZDlhNXZnSE5nSmVhN1hzQXBoaVN4OU5VaHJXU0todTlEdVB6SFVGMUtNMFhBY1NkZkN6TFJlQ2xFSVNRNE5B?oc=5",
-      "asOf": "2026-11-19T04:23:17+00:00"
-    },
-    {
-      "title": "IMF总裁用“海纳百川”喻APEC合作 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTXMtREZ0WEc1Y3MzbC1SbWV6eFg3SVBYTnFBUlRFR0ZkX3hsRUdkcElsS0VSbExkUEx4cG9OYVZIMjJOd1c2dWJlQlNNMUhjeTNBSDN6eDVTVGdlLW1td0JqWXJfUmVHczllNmdHcVhfRnhHZlQwc3g0Y2hmczQ?oc=5",
-      "asOf": "2026-11-19T04:17:39+00:00"
+      "title": "中国男足世界排名上升一位 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5",
+      "asOf": "2026-11-19T06:52:09+00:00"
     }
   ],
   "events": [
     {
-      "event": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
-      "originalTitle": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
-      "published": "2026-11-19T10:24:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830489",
+      "event": "国产算力板块暴跌，业界称“市场传闻不准确！”",
+      "originalTitle": "国产算力板块暴跌，业界称“市场传闻不准确！”",
+      "published": "2026-11-19T13:30:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830519",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/830489",
-        "retrievedAt": "2026-11-19T12:55:42.493269+08:00",
-        "sha256": "5a0dfa41ee477003f023a8d27206da2636a5928fe5ba2920371f02602d7da2a4",
-        "paragraphCount": 12,
-        "excerpt": "30多年前，亚太经合组织应运而生，开启了建设亚太共同体的壮阔历程。30多年来，亚太地区面貌日新月异，创造了经济快速发展的“亚太奇迹”。"
+        "url": "https://www.cnstock.com/commonDetail/830519",
+        "retrievedAt": "2026-11-19T15:11:06.040897+08:00",
+        "sha256": "2a5501b229524a9cd0b09836c6ec9dca8c674a6aaf40174186ee2d07d0506573",
+        "paragraphCount": 4,
+        "excerpt": "消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。"
       }
     },
     {
-      "event": "会议纪要显示美联储官员倾向进一步加息",
-      "originalTitle": "会议纪要显示美联储官员倾向进一步加息",
-      "published": "2026-11-19T10:24:00+08:00",
+      "event": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "originalTitle": "聚焦APEC｜习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "published": "2026-11-19T12:59:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830488",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/830488",
-        "retrievedAt": "2026-11-19T12:55:42.493269+08:00",
-        "sha256": "2b67bace52903819c88a16435f98c1a7d6f70c8241950f8b7fc27d0e05c31324",
-        "paragraphCount": 4,
-        "excerpt": "新华社纽约11月18日电（记者 刘亚南）美国联邦储备委员会18日公布10月货币政策会议纪要。纪要显示，尽管多数与会官员当时支持维持基准利率区间不变，但几乎所有官员认为，未来数月进一步加息可能是合适的。部分官员还提出，如果通胀数据不利，不排除"
-      }
+      "url": "https://www.cnstock.com/commonDetail/830509",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "提前“达标”！虚拟电厂重磅报告出炉",
+      "originalTitle": "提前“达标”！虚拟电厂重磅报告出炉",
+      "published": "2026-11-19T12:59:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830510",
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
@@ -508,8 +507,8 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/830462",
-        "retrievedAt": "2026-11-19T12:55:42.493269+08:00",
-        "sha256": "6cb15a8f6564acdb6087e48070f006b063f77c882fff9c1010c90d14ad40b2a8",
+        "retrievedAt": "2026-11-19T15:11:06.040897+08:00",
+        "sha256": "e9bfc3725c7701ef54e18e6cef96707d0b7db07ab9c29b4b991d6123f3088a0c",
         "paragraphCount": 10,
         "excerpt": "11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信勿传。此外，部分上市公司近日通过澄清公告、交易所投资者互动平台等渠道，对涉及公司经营的不实传闻及时予以回应。"
       }
@@ -520,14 +519,7 @@
       "published": "2026-11-19T08:43:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/830396",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/830396",
-        "retrievedAt": "2026-11-19T12:55:42.493269+08:00",
-        "sha256": "dca4429b5b189ee882804615512dd325d9a829abb44b55eff0ced0124677303e",
-        "paragraphCount": 5,
-        "excerpt": "上证智讯 11月18日晚间，重庆路桥发布公告称，公司于2026年11月18日收到第一大股东重庆国际信托股份有限公司（以下简称“重庆信托”）的通知，重庆信托拟自本公告披露之日起6个月内，通过上海证券交易所交易系统以集中竞价交易方式增持公司A股"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "新一轮国资国企改革进入全面实施阶段",
@@ -538,44 +530,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "国际金价跌破3800美元 - 新华网",
-      "published": "2026-11-19T04:44:33+00:00",
+      "event": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网",
+      "published": "2026-11-19T07:07:33+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIeVR3cHBteEVkc2ZUUkVXbU5rcGJEMXVHeEUwVVVTSVVXSzFEZ1hlTTJaeGdEMzFEb2hlRXhlTUtaSVp4VDJSTGFKSG1UWW4xZWJKQmFXSS1fWktMci1wa1ZmaDUwQ3dJWWVqSkNBYmtiN1RJQUw4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmc4MnlGZGdlcFo1ZkxhYThURXNVblFESmEyZlJ6RDVzbFI5QmJWa2xzMjJqOHR1Z2piTEZOVGxxWFB4STlXakFFbTd4dGpNSTE3NG9SSmtIZ1JleGRrUXQwMzBuSWxnVWdadmJyVTlnSnpBUy1aR1M2bGcyWmR6YUNB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国际金价跌破3800美元 - 新华网"
+      "originalTitle": "商务部：中美贸易理事会农业工作组将于近期召开首次会议 - 新华网"
     },
     {
-      "event": "现代服务业大会Vlog丨重庆递给世界的“新名片” - 新华网",
-      "published": "2026-11-19T04:34:46+00:00",
+      "event": "健康我来说丨拨打120前要牢记八个字 - 新华网",
+      "published": "2026-11-19T07:06:02+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTGFmODhkMy1EWjg2azdMcEhMU0F0cC1QQ2tpMmtncTNoMlZTcnNqakRWUVZJcE5xbmRmNVpBb25HOEozZEZmSXQzRHZOTHZHcjZpLVFnMmp3a0ZFVEtFNHMxVVZ4Zi15NXVYdFlURjctbVhKMmRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXVlZHprczRlVlpMLTYtRnl2aFJCVzFfVHlRY0Mwazc0bm5DZmV5STJNYng4MGN4aHdwVUZfWUVGYmFEUkZYOHBsbVFpUWxZOWRPXzZIYUVBaVZpRDc5SS1Vend6aHlTdndYVXRkd21aZEtIYXg0bFFOcUU0WEFGOGRNVQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "现代服务业大会Vlog丨重庆递给世界的“新名片” - 新华网"
+      "originalTitle": "健康我来说丨拨打120前要牢记八个字 - 新华网"
     },
     {
-      "event": "通信故障致德国纽伦堡铁路交通一度中断 - 新华网",
-      "published": "2026-11-19T04:25:31+00:00",
+      "event": "光走一天的路程，“旅行者1号”用了49年 - 新华网",
+      "published": "2026-11-19T06:55:10+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51ZmN1ZXpLakxIM19hSjcwMGdhWVoxd01IWG1wYVlMWmJyNWtQNXA4OUZrSnJoVmdfUnRocURKMEkyRU16YTgyYVJRVTU1bjhPY2xCVHdxWGV4ZjhHQUFTN25JWDUtemZPanVtQ1Rzd2I5SmxxLUNieUlfTXdhV1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ld21fM2pPZmhpeDhJcU5hUGdPOEo4X3FVcG1jSmNMZUZVM2VhQm9FNW4zcHZMTmxOVlZxZmtWSW9kOFQyOGRuNEJfYlJNRDdSNVd0R3NfNURUY2U1ZnNQZjNWX1p6SVRmX0hpTkcyMVlhaXJ1Sl9UM1g1cWZvZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "通信故障致德国纽伦堡铁路交通一度中断 - 新华网"
+      "originalTitle": "光走一天的路程，“旅行者1号”用了49年 - 新华网"
     },
     {
-      "event": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话 - 新华网",
-      "published": "2026-11-19T04:23:17+00:00",
+      "event": "中国男足世界排名上升一位 - 新华网",
+      "published": "2026-11-19T06:52:09+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZlFvQks1YUVRTm53OVc5clJEd2swalAteThudFJqcDNwX3lyclZmc3hGUzZxRjhDZDlhNXZnSE5nSmVhN1hzQXBoaVN4OU5VaHJXU0todTlEdVB6SFVGMUtNMFhBY1NkZkN6TFJlQ2xFSVNRNE5B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZOHZld0lnY3FpMTNadjVvRTYtYXdIOXp0ZlRJdzdvNU16MFRWRVBEcGNLbzl4d2N4cGRVQVBNcWZYUDhodlNHaEJVV1BLeUVSUDdDeGZLVVVpWks4THdmZXlvV1R3Zk1hQkhOcWdwbjFzRnc1RTJDX3VzZm1HZms?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话 - 新华网"
-    },
-    {
-      "event": "IMF总裁用“海纳百川”喻APEC合作 - 新华网",
-      "published": "2026-11-19T04:17:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTXMtREZ0WEc1Y3MzbC1SbWV6eFg3SVBYTnFBUlRFR0ZkX3hsRUdkcElsS0VSbExkUEx4cG9OYVZIMjJOd1c2dWJlQlNNMUhjeTNBSDN6eDVTVGdlLW1td0JqWXJfUmVHczllNmdHcVhfRnhHZlQwc3g0Y2hmczQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "IMF总裁用“海纳百川”喻APEC合作 - 新华网"
+      "originalTitle": "中国男足世界排名上升一位 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +573,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError"
     ]
   }
