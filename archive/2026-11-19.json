@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-19",
-  "date": "更新于北京时间 2026-11-19 10:32",
+  "date": "更新于北京时间 2026-11-19 11:50",
   "reportDate": "2026-11-19",
-  "updatedAt": "2026-11-19T10:32:04+08:00",
+  "updatedAt": "2026-11-19T11:50:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 7 条待核验线索",
   "notification": {
     "title": "2026-11-19 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 7 条待核验线索"
   },
   "pages": [
     {
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-17：7,340.53 点；较 2026-11-16 变化 -76.06 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-17：7,340.53 点；较 2026-11-16 变化 -76.06 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -177,151 +177,112 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
+          "title": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T02:19:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-19T10:24:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：30多年前，亚太经合组织应运而生，开启了建设亚太共同体的壮阔历程。30多年来，亚太地区面貌日新月异，创造了经济快速发展的“亚太奇迹”。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830489"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
+          "title": "会议纪要显示美联储官员倾向进一步加息",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T02:17:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-19T10:24:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社纽约11月18日电（记者 刘亚南）美国联邦储备委员会18日公布10月货币政策会议纪要。纪要显示，尽管多数与会官员当时支持维持基准利率区间不变，但几乎所有官员认为，未来数月进一步加息可能是合适的。部分官员还提出，如果通胀数据不利，不排除"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830488"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平谈建设亚太共同体 - 新华网",
+          "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T02:16:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月18日晚间，重庆路桥发布公告称，公司于2026年11月18日收到第一大股东重庆国际信托股份有限公司（以下简称“重庆信托”）的通知，重庆信托拟自本公告披露之日起6个月内，通过上海证券交易所交易系统以集中竞价交易方式增持公司A股"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830396"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "从深圳出发的相机，能走多远？ - 新华网",
+          "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T02:02:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-19T08:43:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信勿传。此外，部分上市公司近日通过澄清公告、交易所投资者互动平台等渠道，对涉及公司经营的不实传闻及时予以回应。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830462"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "城事·微光丨无声肠粉店的温暖 - 新华网",
+          "title": "新一轮国资国企改革进入全面实施阶段",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T01:53:05+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-19T07:58:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上海证券报记者从国务院国资委11月18日举办的进一步深化国资国企改革专题研讨班上获悉，新一轮国资国企改革谋篇布局已经完成，目前各地、各中央企业均已完成工作台账编制。各地共提出3300余项改革任务、9800余项落实举措，各中央企业共提出1.1"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830444"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "全国花样滑冰少年锦标赛赛况 - 新华网",
+          "title": "金科股份：拟1.5亿至3亿元回购公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T01:43:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-18T22:01:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月18日晚间，金科股份发布公告称，公司拟使用自有及自筹资金，通过深圳证券交易所以集中竞价交易方式回购部分社会公众股份，回购资金总额不低于1.5亿元（含）且不超过3亿元（含），回购价格上限为1.5元/股（含），回购股份用于维护公"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/830325"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
+          "title": "山鹰国际：筹划重大事项 股票11月19日起停牌",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T01:38:56+00:00；来源：新华网。",
+            "发布时间：2026-11-18T22:01:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T01:16:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T01:07:14+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-19T00:57:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830361"
             }
           ]
         }
@@ -379,18 +340,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-17"
     },
     {
@@ -399,13 +350,18 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-17"
     },
     {
@@ -414,142 +370,150 @@
       "asOf": "2026-11-17"
     },
     {
-      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5",
-      "asOf": "2026-11-19T02:19:31+00:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-17"
     },
     {
-      "title": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5",
-      "asOf": "2026-11-19T02:17:38+00:00"
+      "title": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "url": "https://www.cnstock.com/commonDetail/830489",
+      "asOf": "2026-11-19T10:24:00+08:00"
     },
     {
-      "title": "习近平谈建设亚太共同体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5",
-      "asOf": "2026-11-19T02:16:33+00:00"
+      "title": "会议纪要显示美联储官员倾向进一步加息",
+      "url": "https://www.cnstock.com/commonDetail/830488",
+      "asOf": "2026-11-19T10:24:00+08:00"
     },
     {
-      "title": "从深圳出发的相机，能走多远？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5",
-      "asOf": "2026-11-19T02:02:38+00:00"
+      "title": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830396",
+      "asOf": "2026-11-19T08:43:00+08:00"
     },
     {
-      "title": "城事·微光丨无声肠粉店的温暖 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5",
-      "asOf": "2026-11-19T01:53:05+00:00"
+      "title": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "url": "https://www.cnstock.com/commonDetail/830462",
+      "asOf": "2026-11-19T08:43:00+08:00"
     },
     {
-      "title": "全国花样滑冰少年锦标赛赛况 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5",
-      "asOf": "2026-11-19T01:43:31+00:00"
+      "title": "新一轮国资国企改革进入全面实施阶段",
+      "url": "https://www.cnstock.com/commonDetail/830444",
+      "asOf": "2026-11-19T07:58:00+08:00"
     },
     {
-      "title": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5",
-      "asOf": "2026-11-19T01:38:56+00:00"
+      "title": "金科股份：拟1.5亿至3亿元回购公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830325",
+      "asOf": "2026-11-18T22:01:00+08:00"
     },
     {
-      "title": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5",
-      "asOf": "2026-11-19T01:16:32+00:00"
-    },
-    {
-      "title": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5",
-      "asOf": "2026-11-19T01:07:14+00:00"
-    },
-    {
-      "title": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5",
-      "asOf": "2026-11-19T00:57:50+00:00"
+      "title": "山鹰国际：筹划重大事项 股票11月19日起停牌",
+      "url": "https://www.cnstock.com/commonDetail/830361",
+      "asOf": "2026-11-18T22:01:00+08:00"
     }
   ],
   "events": [
     {
-      "event": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网",
-      "published": "2026-11-19T02:19:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1UyZGpmOHROUEJZZmtZVjFPUjhyU0NuNmg2bEQ3cWo0S240eGdYN1Y5bU9tcjBRUHJqZ1lpQUJ5b3hiQ041Ukx2ajBIQzM1X2YxaFRFYm04UmFYeHU5R1ZHbzIwVy1NOTd0SXBLTWg1d0VONnJCaFJ0X2x6RWs?oc=5",
+      "event": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "originalTitle": "聚焦APEC｜习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "published": "2026-11-19T10:24:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/830489",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文） - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830489",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "5a0dfa41ee477003f023a8d27206da2636a5928fe5ba2920371f02602d7da2a4",
+        "paragraphCount": 12,
+        "excerpt": "30多年前，亚太经合组织应运而生，开启了建设亚太共同体的壮阔历程。30多年来，亚太地区面貌日新月异，创造了经济快速发展的“亚太奇迹”。"
+      }
     },
     {
-      "event": "会议纪要显示美联储官员倾向进一步加息 - 新华网",
-      "published": "2026-11-19T02:17:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVnprRi1ZSnp6Tmo4Mnh3WC1iYjJlUVJoc3pIeU9vOU1OdDJ0Qnp5ekhCMzV4VGthdlNqN2hUbjdKS3RsOFdVOHhkWEhCcy1hWURjQmlhSGltUVB5cUpGM04tTjJFOGYxQ1diVXlGV2JIaVpUQUVj?oc=5",
+      "event": "会议纪要显示美联储官员倾向进一步加息",
+      "originalTitle": "会议纪要显示美联储官员倾向进一步加息",
+      "published": "2026-11-19T10:24:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/830488",
       "evidenceLevel": "headline-only",
-      "originalTitle": "会议纪要显示美联储官员倾向进一步加息 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830488",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "2b67bace52903819c88a16435f98c1a7d6f70c8241950f8b7fc27d0e05c31324",
+        "paragraphCount": 4,
+        "excerpt": "新华社纽约11月18日电（记者 刘亚南）美国联邦储备委员会18日公布10月货币政策会议纪要。纪要显示，尽管多数与会官员当时支持维持基准利率区间不变，但几乎所有官员认为，未来数月进一步加息可能是合适的。部分官员还提出，如果通胀数据不利，不排除"
+      }
     },
     {
-      "event": "习近平谈建设亚太共同体 - 新华网",
-      "published": "2026-11-19T02:16:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyM0RhT09yWXJ4SDM4cjZtVUk1QUxxVXMwd3VDQlVESlZBNG8tWWU1YXg1WEtEQmZpT0l5N29EWDFneWVMWTZoVVAtUDBVclcxUFZiZC1kVWtmaTdWQ0N4UFFTS1F5RkNMSjVHdUVpaFNJdVdYblhyZ3ZLMUZKbm9vQVc3Vkk0cXlmdDFR?oc=5",
+      "event": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "originalTitle": "重庆路桥：第一大股东重庆信托拟0.5亿至1亿元增持公司股份",
+      "published": "2026-11-19T08:43:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830396",
       "evidenceLevel": "headline-only",
-      "originalTitle": "习近平谈建设亚太共同体 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830396",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "dca4429b5b189ee882804615512dd325d9a829abb44b55eff0ced0124677303e",
+        "paragraphCount": 5,
+        "excerpt": "上证智讯 11月18日晚间，重庆路桥发布公告称，公司于2026年11月18日收到第一大股东重庆国际信托股份有限公司（以下简称“重庆信托”）的通知，重庆信托拟自本公告披露之日起6个月内，通过上海证券交易所交易系统以集中竞价交易方式增持公司A股"
+      }
     },
     {
-      "event": "从深圳出发的相机，能走多远？ - 新华网",
-      "published": "2026-11-19T02:02:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pc1kteW5VYmUwYkdhN1hkRzVMSTZ2UTM5RnhHS0F0ZGdUcGhuXzBzSmYwTndpWHp5Y1N2ZXRWU2s3RndQdWVvUzdWVjNQeHAtdlhXbHVManplUU1zTnFWODJXNkNRbmlaVDVZRVB5Vk9qNnk0Mi1B?oc=5",
+      "event": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "originalTitle": "有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态",
+      "published": "2026-11-19T08:43:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/830462",
       "evidenceLevel": "headline-only",
-      "originalTitle": "从深圳出发的相机，能走多远？ - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830462",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "6cb15a8f6564acdb6087e48070f006b063f77c882fff9c1010c90d14ad40b2a8",
+        "paragraphCount": 10,
+        "excerpt": "11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信勿传。此外，部分上市公司近日通过澄清公告、交易所投资者互动平台等渠道，对涉及公司经营的不实传闻及时予以回应。"
+      }
     },
     {
-      "event": "城事·微光丨无声肠粉店的温暖 - 新华网",
-      "published": "2026-11-19T01:53:05+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S1M5cGx1VWVMLVFoTmpuNHRNV1EydWM3U2JBd0pKcldUbFdfWEw0SGxVV21MN2RLQzUza1k5bi1NZEVUczRxRVRpWm43UXFjMTVCY0EyYUpvRVUtU2hFMFg1R1ZLMEU5TUhfRkl5VUVEOVpmM2NaMlVCT1QzLVk?oc=5",
+      "event": "新一轮国资国企改革进入全面实施阶段",
+      "originalTitle": "新一轮国资国企改革进入全面实施阶段",
+      "published": "2026-11-19T07:58:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/830444",
       "evidenceLevel": "headline-only",
-      "originalTitle": "城事·微光丨无声肠粉店的温暖 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830444",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "3529fdebcd203a843ec5e92f40c98700a571283536362c2e3b71193fc72484bb",
+        "paragraphCount": 11,
+        "excerpt": "上海证券报记者从国务院国资委11月18日举办的进一步深化国资国企改革专题研讨班上获悉，新一轮国资国企改革谋篇布局已经完成，目前各地、各中央企业均已完成工作台账编制。各地共提出3300余项改革任务、9800余项落实举措，各中央企业共提出1.1"
+      }
     },
     {
-      "event": "全国花样滑冰少年锦标赛赛况 - 新华网",
-      "published": "2026-11-19T01:43:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGthUVdLN2tlWGZnUFluZ3dmdFhSZHdKSVZlOGlkRjNudnhxMWlLb1hkZ0Fha2NPWHZfTnpzV2xCZXFLRFBGcEFaZXNMNlpEWlVUczVXTllxeW5idmNXbVBxbzZLQmREdXd0N1V0MXRqSnBWZTE5X25vUlpSOG9UcA?oc=5",
+      "event": "金科股份：拟1.5亿至3亿元回购公司股份",
+      "originalTitle": "金科股份：拟1.5亿至3亿元回购公司股份",
+      "published": "2026-11-18T22:01:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830325",
       "evidenceLevel": "headline-only",
-      "originalTitle": "全国花样滑冰少年锦标赛赛况 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/830325",
+        "retrievedAt": "2026-11-19T11:50:47.585234+08:00",
+        "sha256": "b29825c2ab7ab1f4eb64bacc92a3613f89abe5e9a629796ea2b5268e6cf8cebd",
+        "paragraphCount": 2,
+        "excerpt": "上证智讯 11月18日晚间，金科股份发布公告称，公司拟使用自有及自筹资金，通过深圳证券交易所以集中竞价交易方式回购部分社会公众股份，回购资金总额不低于1.5亿元（含）且不超过3亿元（含），回购价格上限为1.5元/股（含），回购股份用于维护公"
+      }
     },
     {
-      "event": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网",
-      "published": "2026-11-19T01:38:56+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQy1OZUYzZkNKaVl2UUt4dG9wRU42UDdwQVdkSEFNZUdWOGFmSG5WV3FwVlhvc2N3Q1V4S0NMUGllSDFWRzRDdENVWk9vVEpCUVlzeGdzY0I0MmtyaXdFbE5nNmc1Tk4wNERfSlo2S1Y1dVRsMVRZekRtMGdNdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "设备数量近4200万 我国北斗产业应用 持续增强 - 新华网"
-    },
-    {
-      "event": "2026现代服务业高质量发展大会在渝开幕 - 新华网",
-      "published": "2026-11-19T01:16:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBEbzdpNFRiMlF2bWY2Q19DbnAwanpUb3VpY2htWUVZSVQ5VkZzdDY4YVBTSTVtLVVQaGtLVnIxM2ZyOFZEYnB6X1JqQU9hZzZueWhkSk9vaXI4cndtS18zSkFRU3dobUlDNm9ya0t0T0dGcWI0b2R2R3Z5c2RyZDJHWnE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026现代服务业高质量发展大会在渝开幕 - 新华网"
-    },
-    {
-      "event": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网",
-      "published": "2026-11-19T01:07:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTnNPNnFOQmJkRUkxeGR6RTFaZkRvNEp0UTU1Tkd3Yk12cmZoMjg2SGpORHZoTGFlMW5DeHEwYllxMVpScXNaWXRoWXhVdl81RmdNUGVRMEFHYjRxZXFheXFkUDVxdzJIaGptT0JQcUdsSE5qeUVKbldsU2hPRWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗军方称3艘油轮在霍尔木兹海峡东部触雷起火 - 新华网"
-    },
-    {
-      "event": "2025年全球专利申请量创新高 中国大幅领先 - 新华网",
-      "published": "2026-11-19T00:57:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BanZRc0V5S05MWHZuVml5ZmpuNHdEMzRZMlBUdDZLUUlIZWkzR29BZnMyZEZrdG5aSmdZMGJpMG5tOWl1MlZ0bzgxSVdCcml6NXNvWWJBUktxZEo1N3JsSllZSk0yRzh4aUNmMHMyNkdEX2ZCaXI0Z2NXWjc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2025年全球专利申请量创新高 中国大幅领先 - 新华网"
+      "event": "山鹰国际：筹划重大事项 股票11月19日起停牌",
+      "originalTitle": "山鹰国际：筹划重大事项 股票11月19日起停牌",
+      "published": "2026-11-18T22:01:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830361",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 10,
+    "news24hCount": 7,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -557,7 +521,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "article: ValueError"
     ]
   }
 }
