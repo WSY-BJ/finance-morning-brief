@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-19",
-  "date": "更新于北京时间 2026-11-19 21:08",
-  "reportDate": "2026-11-19",
-  "updatedAt": "2026-11-19T21:08:34+08:00",
+  "edition": "财经晨报 · 2026-11-20",
+  "date": "更新于北京时间 2026-11-20 10:17",
+  "reportDate": "2026-11-20",
+  "updatedAt": "2026-11-20T10:17:27+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-19 财经资料（待核验）",
+    "title": "2026-11-20 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -51,7 +51,7 @@
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.80 %；变化 -0.03 个百分点",
+          "summary": "4.76 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-17；前值 4.83（2026-11-16）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -96,12 +96,12 @@
           "title": "美国 10 年期国债收益率",
           "summary": "5.07 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：美国财政部。"
+            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6659 人民币/美元；变化 +0.0017 人民币/美元",
+          "summary": "6.6676 人民币/美元；变化 +0.0017 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-18；前值 6.6642（2026-11-17）；来源：Yahoo Finance。"
+            "观测日 2026-11-19；前值 6.6659（2026-11-18）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中国重汽：将实施半年度10派5.41元 股权登记日为11月26日",
+          "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T20:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T09:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830856"
+              "url": "https://www.cnstock.com/commonDetail/831026"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "鼎阳科技：将实施前三季度10派7.5元 股权登记日为11月26日",
+          "title": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T20:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T09:20:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830801"
+              "url": "https://www.cnstock.com/commonDetail/831023"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中青旅：拟挂牌转让青乐文旅51%股权 底价不低于3619.08万元",
+          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T20:44:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830821"
+              "url": "https://www.cnstock.com/commonDetail/830958"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平主持中俄美元首会晤",
+          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T20:14:00+08:00；来源：新华社。",
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830823"
+              "url": "https://www.cnstock.com/commonDetail/830957"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+          "title": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T15:16:00+08:00；来源：新华社。",
+            "发布时间：2026-11-20T08:04:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830546"
+              "url": "https://www.cnstock.com/commonDetail/831008"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
+          "title": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T13:30:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T07:52:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830519"
+              "url": "https://www.cnstock.com/commonDetail/831007"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "提前“达标”！虚拟电厂重磅报告出炉",
+          "title": "智能制造“进阶”——2026世界智能制造大会一线观察",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T12:59:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T07:45:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830510"
+              "url": "https://www.cnstock.com/commonDetail/831003"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "ABAC新西兰代表：中国绿色方案助力较小经济体实现脱碳 - 新华网",
+          "title": "量身定制融资方案 银行加码支持“六张网”建设",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T11:54:01+00:00；来源：新华网。",
+            "发布时间：2026-11-20T07:44:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMWxmekMwaHZibkMwUlQwVzZqRm9FX2UwTFROb1ptVENFSVN3VC1mY1gzbTB2ZDhBdDA3ZmJ1bjlJRWt6akZ2TGxkMnplOWZSbkhZUnVwaUJZMTFENzNIQzJ0OVc5Zi1yZTlfZFBNcWRyZnJ0TzR5YmV3V1ItMlE?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830997"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展 - 新华网",
+          "title": "冬装消费需求更趋多元 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T10:30:27+00:00；来源：新华网。",
+            "发布时间：2026-11-20T02:00:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52SW1vaXVKTVBvVzdhS2huRW1zbzZHdEZSR0V0bFRjQTFsVkN2UDB5a19HVThyOGpIQnRUY1R4U1VvNnlyRlpyZHdnRkduckcwcGJ6ZjM3TlM3VS1xN3AzSVQxaGJrTUdlREtVdVF0R2hNckIwRzliMC0tbUc3alU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "奥运冠军揭牌，这一项目持续温暖湖北学子 - 新华网",
+          "title": "“城超”，因地制宜更出彩 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T09:47:17+00:00；来源：新华网。",
+            "发布时间：2026-11-20T01:02:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjc0Q1ZrTlM3ZkRmMENqLXl2Vi0tS0MtYVEyaDUtYUM5QWx4WXg5SzRoeXdONWFQYjYxaGlyV2lQci04dWt2VDJ5ZjJiQXlDc2pnb1ZIRXRYSTFpREdEZmpVLTVyaDJPNjljNko3aUQzUVNJX3hOeEJtTEhYNFI0QXNB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 42 课：情景分析",
+      "title": "第 43 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -384,18 +384,13 @@
       "asOf": "2026-11-17"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-18"
     },
     {
@@ -404,146 +399,151 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-18"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-17"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-19"
     },
     {
-      "title": "中国重汽：将实施半年度10派5.41元 股权登记日为11月26日",
-      "url": "https://www.cnstock.com/commonDetail/830856",
-      "asOf": "2026-11-19T20:44:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-18"
     },
     {
-      "title": "鼎阳科技：将实施前三季度10派7.5元 股权登记日为11月26日",
-      "url": "https://www.cnstock.com/commonDetail/830801",
-      "asOf": "2026-11-19T20:44:00+08:00"
+      "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "url": "https://www.cnstock.com/commonDetail/831026",
+      "asOf": "2026-11-20T09:22:00+08:00"
     },
     {
-      "title": "中青旅：拟挂牌转让青乐文旅51%股权 底价不低于3619.08万元",
-      "url": "https://www.cnstock.com/commonDetail/830821",
-      "asOf": "2026-11-19T20:44:00+08:00"
+      "title": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
+      "url": "https://www.cnstock.com/commonDetail/831023",
+      "asOf": "2026-11-20T09:20:00+08:00"
     },
     {
-      "title": "习近平主持中俄美元首会晤",
-      "url": "https://www.cnstock.com/commonDetail/830823",
-      "asOf": "2026-11-19T20:14:00+08:00"
+      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830958",
+      "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
-      "url": "https://www.cnstock.com/commonDetail/830546",
-      "asOf": "2026-11-19T15:16:00+08:00"
+      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "url": "https://www.cnstock.com/commonDetail/830957",
+      "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "国产算力板块暴跌，业界称“市场传闻不准确！”",
-      "url": "https://www.cnstock.com/commonDetail/830519",
-      "asOf": "2026-11-19T13:30:00+08:00"
+      "title": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
+      "url": "https://www.cnstock.com/commonDetail/831008",
+      "asOf": "2026-11-20T08:04:00+08:00"
     },
     {
-      "title": "提前“达标”！虚拟电厂重磅报告出炉",
-      "url": "https://www.cnstock.com/commonDetail/830510",
-      "asOf": "2026-11-19T12:59:00+08:00"
+      "title": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
+      "url": "https://www.cnstock.com/commonDetail/831007",
+      "asOf": "2026-11-20T07:52:00+08:00"
     },
     {
-      "title": "ABAC新西兰代表：中国绿色方案助力较小经济体实现脱碳 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMWxmekMwaHZibkMwUlQwVzZqRm9FX2UwTFROb1ptVENFSVN3VC1mY1gzbTB2ZDhBdDA3ZmJ1bjlJRWt6akZ2TGxkMnplOWZSbkhZUnVwaUJZMTFENzNIQzJ0OVc5Zi1yZTlfZFBNcWRyZnJ0TzR5YmV3V1ItMlE?oc=5",
-      "asOf": "2026-11-19T11:54:01+00:00"
+      "title": "智能制造“进阶”——2026世界智能制造大会一线观察",
+      "url": "https://www.cnstock.com/commonDetail/831003",
+      "asOf": "2026-11-20T07:45:00+08:00"
     },
     {
-      "title": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52SW1vaXVKTVBvVzdhS2huRW1zbzZHdEZSR0V0bFRjQTFsVkN2UDB5a19HVThyOGpIQnRUY1R4U1VvNnlyRlpyZHdnRkduckcwcGJ6ZjM3TlM3VS1xN3AzSVQxaGJrTUdlREtVdVF0R2hNckIwRzliMC0tbUc3alU?oc=5",
-      "asOf": "2026-11-19T10:30:27+00:00"
+      "title": "量身定制融资方案 银行加码支持“六张网”建设",
+      "url": "https://www.cnstock.com/commonDetail/830997",
+      "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "奥运冠军揭牌，这一项目持续温暖湖北学子 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjc0Q1ZrTlM3ZkRmMENqLXl2Vi0tS0MtYVEyaDUtYUM5QWx4WXg5SzRoeXdONWFQYjYxaGlyV2lQci04dWt2VDJ5ZjJiQXlDc2pnb1ZIRXRYSTFpREdEZmpVLTVyaDJPNjljNko3aUQzUVNJX3hOeEJtTEhYNFI0QXNB?oc=5",
-      "asOf": "2026-11-19T09:47:17+00:00"
+      "title": "冬装消费需求更趋多元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
+      "asOf": "2026-11-20T02:00:19+00:00"
+    },
+    {
+      "title": "“城超”，因地制宜更出彩 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5",
+      "asOf": "2026-11-20T01:02:14+00:00"
     }
   ],
   "events": [
     {
-      "event": "中国重汽：将实施半年度10派5.41元 股权登记日为11月26日",
-      "originalTitle": "中国重汽：将实施半年度10派5.41元 股权登记日为11月26日",
-      "published": "2026-11-19T20:44:00+08:00",
+      "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "originalTitle": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "published": "2026-11-20T09:22:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830856",
+      "url": "https://www.cnstock.com/commonDetail/831026",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "鼎阳科技：将实施前三季度10派7.5元 股权登记日为11月26日",
-      "originalTitle": "鼎阳科技：将实施前三季度10派7.5元 股权登记日为11月26日",
-      "published": "2026-11-19T20:44:00+08:00",
+      "event": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
+      "originalTitle": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
+      "published": "2026-11-20T09:20:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830801",
+      "url": "https://www.cnstock.com/commonDetail/831023",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中青旅：拟挂牌转让青乐文旅51%股权 底价不低于3619.08万元",
-      "originalTitle": "中青旅：拟挂牌转让青乐文旅51%股权 底价不低于3619.08万元",
-      "published": "2026-11-19T20:44:00+08:00",
+      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "published": "2026-11-20T09:11:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830821",
+      "url": "https://www.cnstock.com/commonDetail/830958",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "习近平主持中俄美元首会晤",
-      "originalTitle": "习近平主持中俄美元首会晤",
-      "published": "2026-11-19T20:14:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830823",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
-      "originalTitle": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
-      "published": "2026-11-19T15:16:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830546",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国产算力板块暴跌，业界称“市场传闻不准确！”",
-      "originalTitle": "国产算力板块暴跌，业界称“市场传闻不准确！”",
-      "published": "2026-11-19T13:30:00+08:00",
+      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "published": "2026-11-20T09:11:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830519",
+      "url": "https://www.cnstock.com/commonDetail/830957",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "提前“达标”！虚拟电厂重磅报告出炉",
-      "originalTitle": "提前“达标”！虚拟电厂重磅报告出炉",
-      "published": "2026-11-19T12:59:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830510",
+      "event": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
+      "originalTitle": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
+      "published": "2026-11-20T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831008",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "ABAC新西兰代表：中国绿色方案助力较小经济体实现脱碳 - 新华网",
-      "published": "2026-11-19T11:54:01+00:00",
+      "event": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
+      "originalTitle": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
+      "published": "2026-11-20T07:52:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831007",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "智能制造“进阶”——2026世界智能制造大会一线观察",
+      "originalTitle": "智能制造“进阶”——2026世界智能制造大会一线观察",
+      "published": "2026-11-20T07:45:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831003",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "量身定制融资方案 银行加码支持“六张网”建设",
+      "originalTitle": "量身定制融资方案 银行加码支持“六张网”建设",
+      "published": "2026-11-20T07:44:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/830997",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "冬装消费需求更趋多元 - 新华网",
+      "published": "2026-11-20T02:00:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMWxmekMwaHZibkMwUlQwVzZqRm9FX2UwTFROb1ptVENFSVN3VC1mY1gzbTB2ZDhBdDA3ZmJ1bjlJRWt6akZ2TGxkMnplOWZSbkhZUnVwaUJZMTFENzNIQzJ0OVc5Zi1yZTlfZFBNcWRyZnJ0TzR5YmV3V1ItMlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "ABAC新西兰代表：中国绿色方案助力较小经济体实现脱碳 - 新华网"
+      "originalTitle": "冬装消费需求更趋多元 - 新华网"
     },
     {
-      "event": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展 - 新华网",
-      "published": "2026-11-19T10:30:27+00:00",
+      "event": "“城超”，因地制宜更出彩 - 新华网",
+      "published": "2026-11-20T01:02:14+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52SW1vaXVKTVBvVzdhS2huRW1zbzZHdEZSR0V0bFRjQTFsVkN2UDB5a19HVThyOGpIQnRUY1R4U1VvNnlyRlpyZHdnRkduckcwcGJ6ZjM3TlM3VS1xN3AzSVQxaGJrTUdlREtVdVF0R2hNckIwRzliMC0tbUc3alU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展 - 新华网"
-    },
-    {
-      "event": "奥运冠军揭牌，这一项目持续温暖湖北学子 - 新华网",
-      "published": "2026-11-19T09:47:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjc0Q1ZrTlM3ZkRmMENqLXl2Vi0tS0MtYVEyaDUtYUM5QWx4WXg5SzRoeXdONWFQYjYxaGlyV2lQci04dWt2VDJ5ZjJiQXlDc2pnb1ZIRXRYSTFpREdEZmpVLTVyaDJPNjljNko3aUQzUVNJX3hOeEJtTEhYNFI0QXNB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "奥运冠军揭牌，这一项目持续温暖湖北学子 - 新华网"
+      "originalTitle": "“城超”，因地制宜更出彩 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
