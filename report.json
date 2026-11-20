@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 14:59",
+  "date": "更新于北京时间 2026-11-20 15:18",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T14:59:34+08:00",
+  "updatedAt": "2026-11-20T15:18:03+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 9 条待核验线索",
   "notification": {
     "title": "2026-11-20 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 9 条待核验线索"
   },
   "pages": [
     {
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.80 %；变化 +0.00 个百分点",
+          "summary": "4.76 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 4.80（2026-11-17）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -211,11 +211,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-20T13:10:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 梁银妍）11月19日晚，宁德时代、鹏鼎控股、领益智造、赣锋锂业等多家上市公司披露回购进展或方案，潍柴动力、*ST雅博等公司重要股东同步推进增持，以真金白银传递对公司长期投资价值的信心，为增强资本市场韧性注入力量。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/831064"
             }
           ]
@@ -282,46 +283,31 @@
         },
         {
           "type": "explainer",
-          "title": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
+          "title": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T06:07:07+00:00；来源：新华网。",
+            "发布时间：2026-11-19T22:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830920"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "流感季已至，疫苗还建议打吗？ - 新华网",
+          "title": "习近平主持中俄美元首会晤",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T06:06:50+00:00；来源：新华网。",
+            "发布时间：2026-11-19T20:14:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T05:34:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830823"
             }
           ]
         }
@@ -384,11 +370,6 @@
       "asOf": "2026-11-19"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-19"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-19"
@@ -399,14 +380,19 @@
       "asOf": "2026-11-19"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-19"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-18"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-19"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -449,19 +435,14 @@
       "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5",
-      "asOf": "2026-11-20T06:07:07+00:00"
+      "title": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
+      "url": "https://www.cnstock.com/commonDetail/830920",
+      "asOf": "2026-11-19T22:31:00+08:00"
     },
     {
-      "title": "流感季已至，疫苗还建议打吗？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5",
-      "asOf": "2026-11-20T06:06:50+00:00"
-    },
-    {
-      "title": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5",
-      "asOf": "2026-11-20T05:34:06+00:00"
+      "title": "习近平主持中俄美元首会晤",
+      "url": "https://www.cnstock.com/commonDetail/830823",
+      "asOf": "2026-11-19T20:14:00+08:00"
     }
   ],
   "events": [
@@ -487,7 +468,14 @@
       "published": "2026-11-20T13:10:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/831064",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831064",
+        "retrievedAt": "2026-11-20T15:18:03.812383+08:00",
+        "sha256": "346215009c955ee201dcb64486d20b5609ecef57e8c4435b14b5626f3c44100c",
+        "paragraphCount": 4,
+        "excerpt": "上证报中国证券网讯（记者 梁银妍）11月19日晚，宁德时代、鹏鼎控股、领益智造、赣锋锂业等多家上市公司披露回购进展或方案，潍柴动力、*ST雅博等公司重要股东同步推进增持，以真金白银传递对公司长期投资价值的信心，为增强资本市场韧性注入力量。"
+      }
     },
     {
       "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
@@ -522,34 +510,26 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
-      "published": "2026-11-20T06:07:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网"
+      "event": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
+      "originalTitle": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
+      "published": "2026-11-19T22:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830920",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "流感季已至，疫苗还建议打吗？ - 新华网",
-      "published": "2026-11-20T06:06:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "流感季已至，疫苗还建议打吗？ - 新华网"
-    },
-    {
-      "event": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
-      "published": "2026-11-20T05:34:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网"
+      "event": "习近平主持中俄美元首会晤",
+      "originalTitle": "习近平主持中俄美元首会晤",
+      "published": "2026-11-19T20:14:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/830823",
+      "evidenceLevel": "headline-only"
     }
   ],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 10,
+    "news24hCount": 9,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -557,6 +537,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
@@ -564,8 +548,7 @@
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
-      "article: HTTPError",
-      "article: HTTPError"
+      "article: ValueError"
     ]
   }
 }
