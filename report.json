@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 11:43",
+  "date": "更新于北京时间 2026-11-20 12:09",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T11:43:20+08:00",
+  "updatedAt": "2026-11-20T12:09:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-18：5.07 %；较 2026-11-17 变化 -0.03 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.07 %；变化 -0.03 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -181,11 +181,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-20T10:37:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 汤立斌）金融街证券11月20日公告称，根据北京市西城区监察委员会的通知，公司董事长祝艳辉目前正接受调查并被实施留置措施。于公告刊发时，公司未收到任何委员会需要协助调查或提供任何资料的要求，集团业务运营正常。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/831041"
             }
           ]
@@ -226,11 +227,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-20T09:20:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 当地时间11月19日，美股三大指数全线收跌，道指收于49097.06点，跌幅为2.19%；标普500指数收于7175.83点，跌幅为2.02%；纳指收于23879.20点，跌幅为2.25%。标普500指数十一大板块全线下"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/831023"
             }
           ]
@@ -282,16 +284,16 @@
         },
         {
           "type": "explainer",
-          "title": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
+          "title": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T03:31:21+00:00；来源：新华网。",
+            "发布时间：2026-11-20T04:00:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5"
             }
           ]
         },
@@ -379,6 +381,16 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-18"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-18"
@@ -389,28 +401,18 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-19"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-18"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-18"
     },
     {
@@ -449,9 +451,9 @@
       "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5",
-      "asOf": "2026-11-20T03:31:21+00:00"
+      "title": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5",
+      "asOf": "2026-11-20T04:00:26+00:00"
     },
     {
       "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
@@ -471,7 +473,14 @@
       "published": "2026-11-20T10:37:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/831041",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831041",
+        "retrievedAt": "2026-11-20T12:09:47.333650+08:00",
+        "sha256": "5c330d5664d3c873401c9ab68783394dafa67f8b5d3db785a36f791424aaa034",
+        "paragraphCount": 4,
+        "excerpt": "上证报中国证券网讯（记者 汤立斌）金融街证券11月20日公告称，根据北京市西城区监察委员会的通知，公司董事长祝艳辉目前正接受调查并被实施留置措施。于公告刊发时，公司未收到任何委员会需要协助调查或提供任何资料的要求，集团业务运营正常。"
+      }
     },
     {
       "event": "前10个月邮政行业寄递业务量同比增长3.3%",
@@ -495,7 +504,14 @@
       "published": "2026-11-20T09:20:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/831023",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831023",
+        "retrievedAt": "2026-11-20T12:09:47.333650+08:00",
+        "sha256": "58112b652a470854b874fce461ec9a8d5cef99177e1bb5e8f0521ff73cf291eb",
+        "paragraphCount": 6,
+        "excerpt": "上证报中国证券网讯 当地时间11月19日，美股三大指数全线收跌，道指收于49097.06点，跌幅为2.19%；标普500指数收于7175.83点，跌幅为2.02%；纳指收于23879.20点，跌幅为2.25%。标普500指数十一大板块全线下"
+      }
     },
     {
       "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
@@ -522,12 +538,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
-      "published": "2026-11-20T03:31:21+00:00",
+      "event": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
+      "published": "2026-11-20T04:00:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网"
+      "originalTitle": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网"
     },
     {
       "event": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
@@ -557,8 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
