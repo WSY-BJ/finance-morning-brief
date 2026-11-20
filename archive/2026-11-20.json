@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 15:18",
+  "date": "更新于北京时间 2026-11-20 15:43",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T15:18:03+08:00",
+  "updatedAt": "2026-11-20T15:43:28+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 9 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
     "title": "2026-11-20 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 9 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
     {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-18：5.07 %；较 2026-11-17 变化 -0.03 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.80 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：美国财政部。"
+            "观测日 2026-11-18；前值 4.80（2026-11-17）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.07 %；变化 -0.03 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -196,11 +196,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-20T13:23:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯（记者 邱思雨）在11月20日举办的第十一届动力电池应用国际峰会上，《2026中国固态电池行业发展蓝皮书》正式发布。报告提到，2026年至2027年为全固态电池中试线集中建成投运的关键窗口期：国内已建成及在建中试线合计超过"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/831071"
             }
           ]
@@ -238,21 +239,6 @@
         },
         {
           "type": "explainer",
-          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830957"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
           "summary": "",
           "paragraphs": [
@@ -263,6 +249,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/830958"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/830957"
             }
           ]
         },
@@ -283,31 +284,46 @@
         },
         {
           "type": "explainer",
-          "title": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
+          "title": "财政部在香港成功发行20亿美元主权债券 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T22:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T07:21:42+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830920"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXJYS01DUzBpZ09MUjdnb2dsV2Y3YU5IRXcxSnZLZWRYcVBpeE55ZDlYVFlWeTZkMFVWYjJrYmFraWszNEhpZGtvaWs1Y1hqRUNzQnVsWTAzS3U2MjF1MTZNbVg5UDE3b29LclhTWDlKNk4wb0VJQTZUWXM2bDVOdQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平主持中俄美元首会晤",
+          "title": "科学家着手制定月球统一时间标准 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-19T20:14:00+08:00；来源：新华社。",
+            "发布时间：2026-11-20T06:56:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830823"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnV6cU10bWJpLWZKbFNuekp2U1JnbkZRakF5alNhZzRTcnhBd1ByZFZPdmxsaE4ySGlVNHI3NjBPUnJRU3hGbkxQcmR3LTNrdVg3aUpNUFVCR05OWjhLZUcyaThTNTBHTGU1bnJHV1Zsa1hmM1UxclRRdTkzbF9Vb3hn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "雅鲁藏布江生物多样性图鉴：林下真菌密语 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T06:37:00+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWRpZ1lQU0xfRldCZ0Z6M1ZQdGYyTGlBZ1l2Zk9MQy1EUVB0aEQ1Tjd2Mm84U0ZPRFBGSjJzWG5PRVUwaHRhei1aS2dvTS01MHNJM1JQSXF5WXVNN0Q1TVdtZklRTU9LQ1lSV3didmV4NFhtMUtBd2RqSlpqVGZkX29B?oc=5"
             }
           ]
         }
@@ -365,16 +381,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-19"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-19"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-19"
@@ -385,18 +391,28 @@
       "asOf": "2026-11-19"
     },
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-19"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-18"
     },
     {
@@ -420,13 +436,13 @@
       "asOf": "2026-11-20T09:22:00+08:00"
     },
     {
-      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "url": "https://www.cnstock.com/commonDetail/830957",
+      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830958",
       "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/830958",
+      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "url": "https://www.cnstock.com/commonDetail/830957",
       "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
@@ -435,14 +451,19 @@
       "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
-      "url": "https://www.cnstock.com/commonDetail/830920",
-      "asOf": "2026-11-19T22:31:00+08:00"
+      "title": "财政部在香港成功发行20亿美元主权债券 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXJYS01DUzBpZ09MUjdnb2dsV2Y3YU5IRXcxSnZLZWRYcVBpeE55ZDlYVFlWeTZkMFVWYjJrYmFraWszNEhpZGtvaWs1Y1hqRUNzQnVsWTAzS3U2MjF1MTZNbVg5UDE3b29LclhTWDlKNk4wb0VJQTZUWXM2bDVOdQ?oc=5",
+      "asOf": "2026-11-20T07:21:42+00:00"
     },
     {
-      "title": "习近平主持中俄美元首会晤",
-      "url": "https://www.cnstock.com/commonDetail/830823",
-      "asOf": "2026-11-19T20:14:00+08:00"
+      "title": "科学家着手制定月球统一时间标准 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnV6cU10bWJpLWZKbFNuekp2U1JnbkZRakF5alNhZzRTcnhBd1ByZFZPdmxsaE4ySGlVNHI3NjBPUnJRU3hGbkxQcmR3LTNrdVg3aUpNUFVCR05OWjhLZUcyaThTNTBHTGU1bnJHV1Zsa1hmM1UxclRRdTkzbF9Vb3hn?oc=5",
+      "asOf": "2026-11-20T06:56:31+00:00"
+    },
+    {
+      "title": "雅鲁藏布江生物多样性图鉴：林下真菌密语 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWRpZ1lQU0xfRldCZ0Z6M1ZQdGYyTGlBZ1l2Zk9MQy1EUVB0aEQ1Tjd2Mm84U0ZPRFBGSjJzWG5PRVUwaHRhei1aS2dvTS01MHNJM1JQSXF5WXVNN0Q1TVdtZklRTU9LQ1lSV3didmV4NFhtMUtBd2RqSlpqVGZkX29B?oc=5",
+      "asOf": "2026-11-20T06:37:00+00:00"
     }
   ],
   "events": [
@@ -460,7 +481,14 @@
       "published": "2026-11-20T13:23:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/831071",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831071",
+        "retrievedAt": "2026-11-20T15:43:28.623361+08:00",
+        "sha256": "b2c351d07fcf7ee12280fb65599e05d522213d5108be93adc243fe2150aa1970",
+        "paragraphCount": 2,
+        "excerpt": "上证报中国证券网讯（记者 邱思雨）在11月20日举办的第十一届动力电池应用国际峰会上，《2026中国固态电池行业发展蓝皮书》正式发布。报告提到，2026年至2027年为全固态电池中试线集中建成投运的关键窗口期：国内已建成及在建中试线合计超过"
+      }
     },
     {
       "event": "为市场韧性“加码” 上市公司密集增持回购",
@@ -471,7 +499,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/831064",
-        "retrievedAt": "2026-11-20T15:18:03.812383+08:00",
+        "retrievedAt": "2026-11-20T15:43:28.623361+08:00",
         "sha256": "346215009c955ee201dcb64486d20b5609ecef57e8c4435b14b5626f3c44100c",
         "paragraphCount": 4,
         "excerpt": "上证报中国证券网讯（记者 梁银妍）11月19日晚，宁德时代、鹏鼎控股、领益智造、赣锋锂业等多家上市公司披露回购进展或方案，潍柴动力、*ST雅博等公司重要股东同步推进增持，以真金白银传递对公司长期投资价值的信心，为增强资本市场韧性注入力量。"
@@ -486,19 +514,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830957",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
       "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
       "published": "2026-11-20T09:11:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/830958",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "published": "2026-11-20T09:11:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830957",
       "evidenceLevel": "headline-only"
     },
     {
@@ -510,26 +538,34 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
-      "originalTitle": "英力特：控股股东拟向宝丰集团转让占总39.41%股份 继续停牌",
-      "published": "2026-11-19T22:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830920",
-      "evidenceLevel": "headline-only"
+      "event": "财政部在香港成功发行20亿美元主权债券 - 新华网",
+      "published": "2026-11-20T07:21:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXJYS01DUzBpZ09MUjdnb2dsV2Y3YU5IRXcxSnZLZWRYcVBpeE55ZDlYVFlWeTZkMFVWYjJrYmFraWszNEhpZGtvaWs1Y1hqRUNzQnVsWTAzS3U2MjF1MTZNbVg5UDE3b29LclhTWDlKNk4wb0VJQTZUWXM2bDVOdQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "财政部在香港成功发行20亿美元主权债券 - 新华网"
     },
     {
-      "event": "习近平主持中俄美元首会晤",
-      "originalTitle": "习近平主持中俄美元首会晤",
-      "published": "2026-11-19T20:14:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/830823",
-      "evidenceLevel": "headline-only"
+      "event": "科学家着手制定月球统一时间标准 - 新华网",
+      "published": "2026-11-20T06:56:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnV6cU10bWJpLWZKbFNuekp2U1JnbkZRakF5alNhZzRTcnhBd1ByZFZPdmxsaE4ySGlVNHI3NjBPUnJRU3hGbkxQcmR3LTNrdVg3aUpNUFVCR05OWjhLZUcyaThTNTBHTGU1bnJHV1Zsa1hmM1UxclRRdTkzbF9Vb3hn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "科学家着手制定月球统一时间标准 - 新华网"
+    },
+    {
+      "event": "雅鲁藏布江生物多样性图鉴：林下真菌密语 - 新华网",
+      "published": "2026-11-20T06:37:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWRpZ1lQU0xfRldCZ0Z6M1ZQdGYyTGlBZ1l2Zk9MQy1EUVB0aEQ1Tjd2Mm84U0ZPRFBGSjJzWG5PRVUwaHRhei1aS2dvTS01MHNJM1JQSXF5WXVNN0Q1TVdtZklRTU9LQ1lSV3didmV4NFhtMUtBd2RqSlpqVGZkX29B?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "雅鲁藏布江生物多样性图鉴：林下真菌密语 - 新华网"
     }
   ],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 9,
+    "news24hCount": 10,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -537,13 +573,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "中文新闻索引: HTTPError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
