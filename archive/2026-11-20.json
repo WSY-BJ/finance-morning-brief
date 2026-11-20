@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 12:09",
+  "date": "更新于北京时间 2026-11-20 12:45",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T12:09:47+08:00",
+  "updatedAt": "2026-11-20T12:45:53+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
+          "title": "标普 500 指数",
+          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-18：5.07 %；较 2026-11-17 变化 -0.03 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.04 %；变化 -0.03 个百分点",
+          "summary": "5.07 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：美国财政部。"
+            "观测日 2026-11-18；前值 5.10（2026-11-17）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,123 +177,16 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
+          "title": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T10:37:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 汤立斌）金融街证券11月20日公告称，根据北京市西城区监察委员会的通知，公司董事长祝艳辉目前正接受调查并被实施留置措施。于公告刊发时，公司未收到任何委员会需要协助调查或提供任何资料的要求，集团业务运营正常。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831041"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "前10个月邮政行业寄递业务量同比增长3.3%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T10:33:00+08:00；来源：新华社。",
+            "发布时间：2026-11-20T04:09:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831042"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:22:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831026"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:20:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯 当地时间11月19日，美股三大指数全线收跌，道指收于49097.06点，跌幅为2.19%；标普500指数收于7175.83点，跌幅为2.02%；纳指收于23879.20点，跌幅为2.25%。标普500指数十一大板块全线下"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831023"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830957"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830958"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "量身定制融资方案 银行加码支持“六张网”建设",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T07:44:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830997"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T04:00:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5"
             }
           ]
         },
@@ -314,6 +207,21 @@
         },
         {
           "type": "explainer",
+          "title": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:37:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -323,7 +231,97 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:26:30+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:22:39+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:21:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "冬装消费需求更趋多元 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:00:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T01:41:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T01:11:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5"
             }
           ]
         }
@@ -381,14 +379,9 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-19"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -396,19 +389,19 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-18"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-19"
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-18"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -416,44 +409,14 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
-      "url": "https://www.cnstock.com/commonDetail/831041",
-      "asOf": "2026-11-20T10:37:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-18"
     },
     {
-      "title": "前10个月邮政行业寄递业务量同比增长3.3%",
-      "url": "https://www.cnstock.com/commonDetail/831042",
-      "asOf": "2026-11-20T10:33:00+08:00"
-    },
-    {
-      "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "url": "https://www.cnstock.com/commonDetail/831026",
-      "asOf": "2026-11-20T09:22:00+08:00"
-    },
-    {
-      "title": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
-      "url": "https://www.cnstock.com/commonDetail/831023",
-      "asOf": "2026-11-20T09:20:00+08:00"
-    },
-    {
-      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "url": "https://www.cnstock.com/commonDetail/830957",
-      "asOf": "2026-11-20T09:11:00+08:00"
-    },
-    {
-      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "asOf": "2026-11-20T09:11:00+08:00"
-    },
-    {
-      "title": "量身定制融资方案 银行加码支持“六张网”建设",
-      "url": "https://www.cnstock.com/commonDetail/830997",
-      "asOf": "2026-11-20T07:44:00+08:00"
-    },
-    {
-      "title": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5",
-      "asOf": "2026-11-20T04:00:26+00:00"
+      "title": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5",
+      "asOf": "2026-11-20T04:09:23+00:00"
     },
     {
       "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
@@ -461,89 +424,54 @@
       "asOf": "2026-11-20T02:55:39+00:00"
     },
     {
+      "title": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5",
+      "asOf": "2026-11-20T02:37:08+00:00"
+    },
+    {
       "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5",
       "asOf": "2026-11-20T02:26:33+00:00"
+    },
+    {
+      "title": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5",
+      "asOf": "2026-11-20T02:26:30+00:00"
+    },
+    {
+      "title": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5",
+      "asOf": "2026-11-20T02:22:39+00:00"
+    },
+    {
+      "title": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5",
+      "asOf": "2026-11-20T02:21:55+00:00"
+    },
+    {
+      "title": "冬装消费需求更趋多元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
+      "asOf": "2026-11-20T02:00:19+00:00"
+    },
+    {
+      "title": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5",
+      "asOf": "2026-11-20T01:41:55+00:00"
+    },
+    {
+      "title": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5",
+      "asOf": "2026-11-20T01:11:37+00:00"
     }
   ],
   "events": [
     {
-      "event": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
-      "originalTitle": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
-      "published": "2026-11-20T10:37:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831041",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831041",
-        "retrievedAt": "2026-11-20T12:09:47.333650+08:00",
-        "sha256": "5c330d5664d3c873401c9ab68783394dafa67f8b5d3db785a36f791424aaa034",
-        "paragraphCount": 4,
-        "excerpt": "上证报中国证券网讯（记者 汤立斌）金融街证券11月20日公告称，根据北京市西城区监察委员会的通知，公司董事长祝艳辉目前正接受调查并被实施留置措施。于公告刊发时，公司未收到任何委员会需要协助调查或提供任何资料的要求，集团业务运营正常。"
-      }
-    },
-    {
-      "event": "前10个月邮政行业寄递业务量同比增长3.3%",
-      "originalTitle": "前10个月邮政行业寄递业务量同比增长3.3%",
-      "published": "2026-11-20T10:33:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/831042",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "originalTitle": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "published": "2026-11-20T09:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831026",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
-      "originalTitle": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅",
-      "published": "2026-11-20T09:20:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831023",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831023",
-        "retrievedAt": "2026-11-20T12:09:47.333650+08:00",
-        "sha256": "58112b652a470854b874fce461ec9a8d5cef99177e1bb5e8f0521ff73cf291eb",
-        "paragraphCount": 6,
-        "excerpt": "上证报中国证券网讯 当地时间11月19日，美股三大指数全线收跌，道指收于49097.06点，跌幅为2.19%；标普500指数收于7175.83点，跌幅为2.02%；纳指收于23879.20点，跌幅为2.25%。标普500指数十一大板块全线下"
-      }
-    },
-    {
-      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830957",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "量身定制融资方案 银行加码支持“六张网”建设",
-      "originalTitle": "量身定制融资方案 银行加码支持“六张网”建设",
-      "published": "2026-11-20T07:44:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/830997",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网",
-      "published": "2026-11-20T04:00:26+00:00",
+      "event": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
+      "published": "2026-11-20T04:09:23+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQkVWMEI1VWtaN29XWUZaWGVRTi0xcDZNSWlwZ1ZDUzNQMG9JNXRVMDBKbjc0ZWlFRjZoR09zcVpOOFhGTGdQcEh3bC1NQ2FIaUpsVlU0OEZDOVhoSktxbjhacEQwTHNCZ3llemduRTZwT1NXaDlvcDRLalBxZ00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中非经贸博览会“走进非洲”南非专场活动开幕 - 新华网"
+      "originalTitle": "习近平会见印度尼西亚总统普拉博沃 - 新华网"
     },
     {
       "event": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
@@ -554,12 +482,68 @@
       "originalTitle": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网"
     },
     {
+      "event": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
+      "published": "2026-11-20T02:37:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网"
+    },
+    {
       "event": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
       "published": "2026-11-20T02:26:33+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网"
+    },
+    {
+      "event": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
+      "published": "2026-11-20T02:26:30+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网"
+    },
+    {
+      "event": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
+      "published": "2026-11-20T02:22:39+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国担任2026年亚太经合组织东道主成果清单 - 新华网"
+    },
+    {
+      "event": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
+      "published": "2026-11-20T02:21:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "电力如何被调度？——当百万主体遇上“一张网” - 新华网"
+    },
+    {
+      "event": "冬装消费需求更趋多元 - 新华网",
+      "published": "2026-11-20T02:00:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "冬装消费需求更趋多元 - 新华网"
+    },
+    {
+      "event": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
+      "published": "2026-11-20T01:41:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网"
+    },
+    {
+      "event": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
+      "published": "2026-11-20T01:11:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网"
     }
   ],
   "quality": {
@@ -573,11 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
