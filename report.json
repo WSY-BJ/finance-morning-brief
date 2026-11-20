@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 16:30",
+  "date": "更新于北京时间 2026-11-20 20:54",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T16:30:34+08:00",
+  "updatedAt": "2026-11-20T20:54:36+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-19：7,175.83 点；较 2026-11-18 变化 -147.80 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -177,153 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
+          "title": "第一观察丨从这些关键词读懂习主席在深圳的繁忙日程 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T13:49:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T12:45:19+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831082"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUlKUXRjWnNpbkJrVi1Db19VZnBQRndPZE5BRTJCdEp3MDBZNWdQOHdUdkNoV0ItU0ZfeElyTzJwdGZZQ0d5bENGbTVWNlRpcmFZLXplcEJKaXliUTVpbVg4RkstSTVlSmFpdThxYWQ2OGZabEJYZHNyMm84S2xLTGNSQlNwV0V5dHM1QzRB?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
+          "title": "我国海缆巡检成功实现量子磁测实战应用 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T13:23:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 邱思雨）在11月20日举办的第十一届动力电池应用国际峰会上，《2026中国固态电池行业发展蓝皮书》正式发布。报告提到，2026年至2027年为全固态电池中试线集中建成投运的关键窗口期：国内已建成及在建中试线合计超过"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831071"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "为市场韧性“加码” 上市公司密集增持回购",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T13:10:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证报中国证券网讯（记者 梁银妍）11月19日晚，宁德时代、鹏鼎控股、领益智造、赣锋锂业等多家上市公司披露回购进展或方案，潍柴动力、*ST雅博等公司重要股东同步推进增持，以真金白银传递对公司长期投资价值的信心，为增强资本市场韧性注入力量。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831064"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T12:33:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831026"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3hMREstOFdYWjFWQ1pGV2JRcnBlQVA4YzBjWkFOcXBSWTJZWU9nRUxWbkExSGJWVE1CY1JOcWdKZVFSWFZMZUdIMFVKWUt0b00zLXY0dVVSMFhOalNqbDc1MkFabG40UENsQ3lkakNCcTkzcHhyMnVpSjJNbGRMUDJfOA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+          "title": "智联万物驭未来——我国“5G+工业互联网”加快创新发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T12:27:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830958"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQU9kQkE3aTQ2UGR0YkpJblQ2U1IzSVhDRjJFZUJ2SHBweDNyczRyR1lnaHVyNmJiWXpMQVdTTjJvVXNVanl1UW9GY2t6WEFvSW5KVEUtRW5PZ19ZR0lva1lXRnN4WXItc1RkVDhXZElla0cxQTlIVHlSZ0huRmFaRC1LTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+          "title": "最高法发布意见进一步加强人民法庭规范化建设 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T12:27:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830957"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vd1VoUkV4ZVY5TW83WnQ1ODl0VUMtSnlDY2VKRHducC1uMUVBa19XUEs5Q2pLcGlNNTFTSWI4cUhHREU1NDdBeEJEaEU2RlZQTEtaV0FlTnNqd21sY2NUVDh6bTFjbndPdTVBcEJzaVgzTUJxVnQzdEctM0hpNjg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "澳门将稳步推进与横琴粤澳深合区规则衔接机制对接 - 新华网",
+          "title": "法国上调禽流感风险级别至最高级 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T08:08:14+00:00；来源：新华网。",
+            "发布时间：2026-11-20T11:41:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGtJRUtSQ053U0s1NlhtbEhOTnJ3RkgybGctRnZwNDM4cURtTnU1MTBMTmVFc3dOcHNFQWdURTZHeUQ2bWpKYVpNU21nQXF0VUJzOTVuZzdlU2RSZGFCcmFNcVJtTkh4emNVRVFzWWV1WEFBNEhOelFZUzdSMjIyVA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYl9OVERHdVczV1R0SVNsU1RQZVE2dmF5UWlXeHNackVuaVBlVjQwWU1tUnBMTlJMalo3UWlYLXpVekVnTnhIdmQ0UE85dU8xWGxKY1JaR3NtTkY2bHVpVU1JVi1wWDNKalRlSVFET0VoUzJ5YW9uR0ZSZThqems?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "算网筑基 工业向新 湖北移动数智赋能千行百业 - 新华网",
+          "title": "数万名日本民众签名反对日本拥有核潜艇 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T07:55:08+00:00；来源：新华网。",
+            "发布时间：2026-11-20T11:41:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aUW1JbFBSU3RoYWljczFpSFdILUpoeWdvcGppTzR6UmFSSThVSzRHYldxckZJdW9ieDNJakdPRHdBcmpGLUxLTmY3ekpMU0g4ZnE2Tl9PX1llQnVqRFd0ZnprcGZRNXNNcTlKazlnNlQ0NElUNGl3WHhLOHg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRWZ3dl9fcnBRZ3B4TFZ0Wnd0dGhOalJwTUMzUnNyeVNkNUJmWmRYVGNHS3J0S29CY0d5SW5uSHpBd094TkFPRk5NY1phNTIyYmpFVWRBYVpTb2xXR2RGMEQ3eVN4Y2l1X19XRi1TVmt6SW9rdzk2Yzg5OGUtNE0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国移动低空试验网（武汉）建成 端到端联合验证启动 - 新华网",
+          "title": "前10个月全国一般公共预算收入同比增长4.9% - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T07:55:06+00:00；来源：新华网。",
+            "发布时间：2026-11-20T11:38:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybkdYQUo3cHl4SXgtZU1BVEFnSExKaTk0QmVyTnhvT1psV0xaMEN0YzJwY1gtNzRlSnBnWjBSbG9LMC1ReGN1bXhBUUNQZnoxQ19BSXdDRmZaOExOLXlYMGJKbkFqSjJKLUh6VWlmUXA0SGdUZXhjYzJLVFM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzhSY0F5X2VOVTlKdk1WUEFWNVdHUXpfR0FIekZaWGtiUG1ONlljTWZtakJFbVBPb0RIU0ZMNzJ3ek5lN0VSYVZmOFYzRXBTY2tEdm1pSFBMaHlHeERGMmtsbGJUa1doc291ZzRtdWRuT1VjNS1QaTZSTjQ0RFBzb2hn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦APEC丨亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明 - 新华网",
+          "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T07:51:38+00:00；来源：新华网。",
+            "发布时间：2026-11-20T11:29:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zak1yZHo5a3lpeGVWQWI4eGFLNDhfN0ZYUDQ2V1hzMHFoN1dURGQ2TzRNVlBaOS16cGpDSlI4WU9OazJ2cThwSGFBVWtwcXlmd2gtNms3M3dNdnItbVNscFQ3SE9Jcldta2hHRXF0THprVTdpemtVMjU3d0pZVlE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tVG93UTZEXzFtZ21TcWwtN25SLThFR1lySUotYU1XbEotNEVkUjQ2cHgwSGpnb3FubFo4QWNHWXV1azkxb01Pa24yc29aTnlZSWJtNUp0b2Q4SFZDVDl4Wkxkd0syT19WYl9QM1Z1ZHBqYV85aVJn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国教育发展战略学会体育与健康专业委员会在京成立 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T11:21:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISTNxdDBwM29RV1dMUzYwQ1pUWE1qb0VtM0tzb2daaDhUTTliNFpYSmZpSHlhdHM5Y0d4alQxX3RVdzczZXBReDIydHFXUkd5NS15dlZxOW51cUxMTFdTQnNtYkh0Z2VCMVp3VDFab3FYdThZdTU2cXJ3ak96dw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "外国使节在舟山探访中国渔业的可持续实践 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T11:09:57+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQllVWGdwWDRkWDJFUXNBY2JKalBlNzJqSGR1VU12bDJhdmJDM2Y3ai1zWjBBUXVsSi1YRTFobmtXMEF5MnZxbVE0cXN5WnBTN2NleEtZd19HYjVmSU44NDhvd3dnZDJsekNQdlZ4QzdzMVgxUnZUb216Q3pIa2c?oc=5"
             }
           ]
         }
@@ -381,16 +379,6 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-19"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-19"
@@ -401,14 +389,19 @@
       "asOf": "2026-11-19"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-19"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-18"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -416,150 +409,141 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
-      "url": "https://www.cnstock.com/commonDetail/831082",
-      "asOf": "2026-11-20T13:49:00+08:00"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-18"
     },
     {
-      "title": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
-      "url": "https://www.cnstock.com/commonDetail/831071",
-      "asOf": "2026-11-20T13:23:00+08:00"
+      "title": "第一观察丨从这些关键词读懂习主席在深圳的繁忙日程 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUlKUXRjWnNpbkJrVi1Db19VZnBQRndPZE5BRTJCdEp3MDBZNWdQOHdUdkNoV0ItU0ZfeElyTzJwdGZZQ0d5bENGbTVWNlRpcmFZLXplcEJKaXliUTVpbVg4RkstSTVlSmFpdThxYWQ2OGZabEJYZHNyMm84S2xLTGNSQlNwV0V5dHM1QzRB?oc=5",
+      "asOf": "2026-11-20T12:45:19+00:00"
     },
     {
-      "title": "为市场韧性“加码” 上市公司密集增持回购",
-      "url": "https://www.cnstock.com/commonDetail/831064",
-      "asOf": "2026-11-20T13:10:00+08:00"
+      "title": "我国海缆巡检成功实现量子磁测实战应用 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3hMREstOFdYWjFWQ1pGV2JRcnBlQVA4YzBjWkFOcXBSWTJZWU9nRUxWbkExSGJWVE1CY1JOcWdKZVFSWFZMZUdIMFVKWUt0b00zLXY0dVVSMFhOalNqbDc1MkFabG40UENsQ3lkakNCcTkzcHhyMnVpSjJNbGRMUDJfOA?oc=5",
+      "asOf": "2026-11-20T12:33:07+00:00"
     },
     {
-      "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "url": "https://www.cnstock.com/commonDetail/831026",
-      "asOf": "2026-11-20T09:22:00+08:00"
+      "title": "智联万物驭未来——我国“5G+工业互联网”加快创新发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQU9kQkE3aTQ2UGR0YkpJblQ2U1IzSVhDRjJFZUJ2SHBweDNyczRyR1lnaHVyNmJiWXpMQVdTTjJvVXNVanl1UW9GY2t6WEFvSW5KVEUtRW5PZ19ZR0lva1lXRnN4WXItc1RkVDhXZElla0cxQTlIVHlSZ0huRmFaRC1LTQ?oc=5",
+      "asOf": "2026-11-20T12:27:15+00:00"
     },
     {
-      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "asOf": "2026-11-20T09:11:00+08:00"
+      "title": "最高法发布意见进一步加强人民法庭规范化建设 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vd1VoUkV4ZVY5TW83WnQ1ODl0VUMtSnlDY2VKRHducC1uMUVBa19XUEs5Q2pLcGlNNTFTSWI4cUhHREU1NDdBeEJEaEU2RlZQTEtaV0FlTnNqd21sY2NUVDh6bTFjbndPdTVBcEJzaVgzTUJxVnQzdEctM0hpNjg?oc=5",
+      "asOf": "2026-11-20T12:27:00+00:00"
     },
     {
-      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "url": "https://www.cnstock.com/commonDetail/830957",
-      "asOf": "2026-11-20T09:11:00+08:00"
+      "title": "法国上调禽流感风险级别至最高级 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYl9OVERHdVczV1R0SVNsU1RQZVE2dmF5UWlXeHNackVuaVBlVjQwWU1tUnBMTlJMalo3UWlYLXpVekVnTnhIdmQ0UE85dU8xWGxKY1JaR3NtTkY2bHVpVU1JVi1wWDNKalRlSVFET0VoUzJ5YW9uR0ZSZThqems?oc=5",
+      "asOf": "2026-11-20T11:41:54+00:00"
     },
     {
-      "title": "澳门将稳步推进与横琴粤澳深合区规则衔接机制对接 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGtJRUtSQ053U0s1NlhtbEhOTnJ3RkgybGctRnZwNDM4cURtTnU1MTBMTmVFc3dOcHNFQWdURTZHeUQ2bWpKYVpNU21nQXF0VUJzOTVuZzdlU2RSZGFCcmFNcVJtTkh4emNVRVFzWWV1WEFBNEhOelFZUzdSMjIyVA?oc=5",
-      "asOf": "2026-11-20T08:08:14+00:00"
+      "title": "数万名日本民众签名反对日本拥有核潜艇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRWZ3dl9fcnBRZ3B4TFZ0Wnd0dGhOalJwTUMzUnNyeVNkNUJmWmRYVGNHS3J0S29CY0d5SW5uSHpBd094TkFPRk5NY1phNTIyYmpFVWRBYVpTb2xXR2RGMEQ3eVN4Y2l1X19XRi1TVmt6SW9rdzk2Yzg5OGUtNE0?oc=5",
+      "asOf": "2026-11-20T11:41:50+00:00"
     },
     {
-      "title": "算网筑基 工业向新 湖北移动数智赋能千行百业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aUW1JbFBSU3RoYWljczFpSFdILUpoeWdvcGppTzR6UmFSSThVSzRHYldxckZJdW9ieDNJakdPRHdBcmpGLUxLTmY3ekpMU0g4ZnE2Tl9PX1llQnVqRFd0ZnprcGZRNXNNcTlKazlnNlQ0NElUNGl3WHhLOHg?oc=5",
-      "asOf": "2026-11-20T07:55:08+00:00"
+      "title": "前10个月全国一般公共预算收入同比增长4.9% - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzhSY0F5X2VOVTlKdk1WUEFWNVdHUXpfR0FIekZaWGtiUG1ONlljTWZtakJFbVBPb0RIU0ZMNzJ3ek5lN0VSYVZmOFYzRXBTY2tEdm1pSFBMaHlHeERGMmtsbGJUa1doc291ZzRtdWRuT1VjNS1QaTZSTjQ0RFBzb2hn?oc=5",
+      "asOf": "2026-11-20T11:38:46+00:00"
     },
     {
-      "title": "中国移动低空试验网（武汉）建成 端到端联合验证启动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybkdYQUo3cHl4SXgtZU1BVEFnSExKaTk0QmVyTnhvT1psV0xaMEN0YzJwY1gtNzRlSnBnWjBSbG9LMC1ReGN1bXhBUUNQZnoxQ19BSXdDRmZaOExOLXlYMGJKbkFqSjJKLUh6VWlmUXA0SGdUZXhjYzJLVFM?oc=5",
-      "asOf": "2026-11-20T07:55:06+00:00"
+      "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tVG93UTZEXzFtZ21TcWwtN25SLThFR1lySUotYU1XbEotNEVkUjQ2cHgwSGpnb3FubFo4QWNHWXV1azkxb01Pa24yc29aTnlZSWJtNUp0b2Q4SFZDVDl4Wkxkd0syT19WYl9QM1Z1ZHBqYV85aVJn?oc=5",
+      "asOf": "2026-11-20T11:29:57+00:00"
     },
     {
-      "title": "聚焦APEC丨亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zak1yZHo5a3lpeGVWQWI4eGFLNDhfN0ZYUDQ2V1hzMHFoN1dURGQ2TzRNVlBaOS16cGpDSlI4WU9OazJ2cThwSGFBVWtwcXlmd2gtNms3M3dNdnItbVNscFQ3SE9Jcldta2hHRXF0THprVTdpemtVMjU3d0pZVlE?oc=5",
-      "asOf": "2026-11-20T07:51:38+00:00"
+      "title": "中国教育发展战略学会体育与健康专业委员会在京成立 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISTNxdDBwM29RV1dMUzYwQ1pUWE1qb0VtM0tzb2daaDhUTTliNFpYSmZpSHlhdHM5Y0d4alQxX3RVdzczZXBReDIydHFXUkd5NS15dlZxOW51cUxMTFdTQnNtYkh0Z2VCMVp3VDFab3FYdThZdTU2cXJ3ak96dw?oc=5",
+      "asOf": "2026-11-20T11:21:42+00:00"
+    },
+    {
+      "title": "外国使节在舟山探访中国渔业的可持续实践 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQllVWGdwWDRkWDJFUXNBY2JKalBlNzJqSGR1VU12bDJhdmJDM2Y3ai1zWjBBUXVsSi1YRTFobmtXMEF5MnZxbVE0cXN5WnBTN2NleEtZd19HYjVmSU44NDhvd3dnZDJsekNQdlZ4QzdzMVgxUnZUb216Q3pIa2c?oc=5",
+      "asOf": "2026-11-20T11:09:57+00:00"
     }
   ],
   "events": [
     {
-      "event": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
-      "originalTitle": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
-      "published": "2026-11-20T13:49:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831082",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
-      "originalTitle": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
-      "published": "2026-11-20T13:23:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831071",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831071",
-        "retrievedAt": "2026-11-20T16:30:34.773509+08:00",
-        "sha256": "b2c351d07fcf7ee12280fb65599e05d522213d5108be93adc243fe2150aa1970",
-        "paragraphCount": 2,
-        "excerpt": "上证报中国证券网讯（记者 邱思雨）在11月20日举办的第十一届动力电池应用国际峰会上，《2026中国固态电池行业发展蓝皮书》正式发布。报告提到，2026年至2027年为全固态电池中试线集中建成投运的关键窗口期：国内已建成及在建中试线合计超过"
-      }
-    },
-    {
-      "event": "为市场韧性“加码” 上市公司密集增持回购",
-      "originalTitle": "为市场韧性“加码” 上市公司密集增持回购",
-      "published": "2026-11-20T13:10:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831064",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831064",
-        "retrievedAt": "2026-11-20T16:30:34.773509+08:00",
-        "sha256": "346215009c955ee201dcb64486d20b5609ecef57e8c4435b14b5626f3c44100c",
-        "paragraphCount": 4,
-        "excerpt": "上证报中国证券网讯（记者 梁银妍）11月19日晚，宁德时代、鹏鼎控股、领益智造、赣锋锂业等多家上市公司披露回购进展或方案，潍柴动力、*ST雅博等公司重要股东同步推进增持，以真金白银传递对公司长期投资价值的信心，为增强资本市场韧性注入力量。"
-      }
-    },
-    {
-      "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "originalTitle": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
-      "published": "2026-11-20T09:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831026",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830957",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "澳门将稳步推进与横琴粤澳深合区规则衔接机制对接 - 新华网",
-      "published": "2026-11-20T08:08:14+00:00",
+      "event": "第一观察丨从这些关键词读懂习主席在深圳的繁忙日程 - 新华网",
+      "published": "2026-11-20T12:45:19+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGtJRUtSQ053U0s1NlhtbEhOTnJ3RkgybGctRnZwNDM4cURtTnU1MTBMTmVFc3dOcHNFQWdURTZHeUQ2bWpKYVpNU21nQXF0VUJzOTVuZzdlU2RSZGFCcmFNcVJtTkh4emNVRVFzWWV1WEFBNEhOelFZUzdSMjIyVA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUlKUXRjWnNpbkJrVi1Db19VZnBQRndPZE5BRTJCdEp3MDBZNWdQOHdUdkNoV0ItU0ZfeElyTzJwdGZZQ0d5bENGbTVWNlRpcmFZLXplcEJKaXliUTVpbVg4RkstSTVlSmFpdThxYWQ2OGZabEJYZHNyMm84S2xLTGNSQlNwV0V5dHM1QzRB?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "澳门将稳步推进与横琴粤澳深合区规则衔接机制对接 - 新华网"
+      "originalTitle": "第一观察丨从这些关键词读懂习主席在深圳的繁忙日程 - 新华网"
     },
     {
-      "event": "算网筑基 工业向新 湖北移动数智赋能千行百业 - 新华网",
-      "published": "2026-11-20T07:55:08+00:00",
+      "event": "我国海缆巡检成功实现量子磁测实战应用 - 新华网",
+      "published": "2026-11-20T12:33:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aUW1JbFBSU3RoYWljczFpSFdILUpoeWdvcGppTzR6UmFSSThVSzRHYldxckZJdW9ieDNJakdPRHdBcmpGLUxLTmY3ekpMU0g4ZnE2Tl9PX1llQnVqRFd0ZnprcGZRNXNNcTlKazlnNlQ0NElUNGl3WHhLOHg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3hMREstOFdYWjFWQ1pGV2JRcnBlQVA4YzBjWkFOcXBSWTJZWU9nRUxWbkExSGJWVE1CY1JOcWdKZVFSWFZMZUdIMFVKWUt0b00zLXY0dVVSMFhOalNqbDc1MkFabG40UENsQ3lkakNCcTkzcHhyMnVpSjJNbGRMUDJfOA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "算网筑基 工业向新 湖北移动数智赋能千行百业 - 新华网"
+      "originalTitle": "我国海缆巡检成功实现量子磁测实战应用 - 新华网"
     },
     {
-      "event": "中国移动低空试验网（武汉）建成 端到端联合验证启动 - 新华网",
-      "published": "2026-11-20T07:55:06+00:00",
+      "event": "智联万物驭未来——我国“5G+工业互联网”加快创新发展 - 新华网",
+      "published": "2026-11-20T12:27:15+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybkdYQUo3cHl4SXgtZU1BVEFnSExKaTk0QmVyTnhvT1psV0xaMEN0YzJwY1gtNzRlSnBnWjBSbG9LMC1ReGN1bXhBUUNQZnoxQ19BSXdDRmZaOExOLXlYMGJKbkFqSjJKLUh6VWlmUXA0SGdUZXhjYzJLVFM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQU9kQkE3aTQ2UGR0YkpJblQ2U1IzSVhDRjJFZUJ2SHBweDNyczRyR1lnaHVyNmJiWXpMQVdTTjJvVXNVanl1UW9GY2t6WEFvSW5KVEUtRW5PZ19ZR0lva1lXRnN4WXItc1RkVDhXZElla0cxQTlIVHlSZ0huRmFaRC1LTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国移动低空试验网（武汉）建成 端到端联合验证启动 - 新华网"
+      "originalTitle": "智联万物驭未来——我国“5G+工业互联网”加快创新发展 - 新华网"
     },
     {
-      "event": "聚焦APEC丨亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明 - 新华网",
-      "published": "2026-11-20T07:51:38+00:00",
+      "event": "最高法发布意见进一步加强人民法庭规范化建设 - 新华网",
+      "published": "2026-11-20T12:27:00+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zak1yZHo5a3lpeGVWQWI4eGFLNDhfN0ZYUDQ2V1hzMHFoN1dURGQ2TzRNVlBaOS16cGpDSlI4WU9OazJ2cThwSGFBVWtwcXlmd2gtNms3M3dNdnItbVNscFQ3SE9Jcldta2hHRXF0THprVTdpemtVMjU3d0pZVlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vd1VoUkV4ZVY5TW83WnQ1ODl0VUMtSnlDY2VKRHducC1uMUVBa19XUEs5Q2pLcGlNNTFTSWI4cUhHREU1NDdBeEJEaEU2RlZQTEtaV0FlTnNqd21sY2NUVDh6bTFjbndPdTVBcEJzaVgzTUJxVnQzdEctM0hpNjg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦APEC丨亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明 - 新华网"
+      "originalTitle": "最高法发布意见进一步加强人民法庭规范化建设 - 新华网"
+    },
+    {
+      "event": "法国上调禽流感风险级别至最高级 - 新华网",
+      "published": "2026-11-20T11:41:54+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYl9OVERHdVczV1R0SVNsU1RQZVE2dmF5UWlXeHNackVuaVBlVjQwWU1tUnBMTlJMalo3UWlYLXpVekVnTnhIdmQ0UE85dU8xWGxKY1JaR3NtTkY2bHVpVU1JVi1wWDNKalRlSVFET0VoUzJ5YW9uR0ZSZThqems?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国上调禽流感风险级别至最高级 - 新华网"
+    },
+    {
+      "event": "数万名日本民众签名反对日本拥有核潜艇 - 新华网",
+      "published": "2026-11-20T11:41:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRWZ3dl9fcnBRZ3B4TFZ0Wnd0dGhOalJwTUMzUnNyeVNkNUJmWmRYVGNHS3J0S29CY0d5SW5uSHpBd094TkFPRk5NY1phNTIyYmpFVWRBYVpTb2xXR2RGMEQ3eVN4Y2l1X19XRi1TVmt6SW9rdzk2Yzg5OGUtNE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "数万名日本民众签名反对日本拥有核潜艇 - 新华网"
+    },
+    {
+      "event": "前10个月全国一般公共预算收入同比增长4.9% - 新华网",
+      "published": "2026-11-20T11:38:46+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzhSY0F5X2VOVTlKdk1WUEFWNVdHUXpfR0FIekZaWGtiUG1ONlljTWZtakJFbVBPb0RIU0ZMNzJ3ek5lN0VSYVZmOFYzRXBTY2tEdm1pSFBMaHlHeERGMmtsbGJUa1doc291ZzRtdWRuT1VjNS1QaTZSTjQ0RFBzb2hn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "前10个月全国一般公共预算收入同比增长4.9% - 新华网"
+    },
+    {
+      "event": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 新华网",
+      "published": "2026-11-20T11:29:57+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tVG93UTZEXzFtZ21TcWwtN25SLThFR1lySUotYU1XbEotNEVkUjQ2cHgwSGpnb3FubFo4QWNHWXV1azkxb01Pa24yc29aTnlZSWJtNUp0b2Q4SFZDVDl4Wkxkd0syT19WYl9QM1Z1ZHBqYV85aVJn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 新华网"
+    },
+    {
+      "event": "中国教育发展战略学会体育与健康专业委员会在京成立 - 新华网",
+      "published": "2026-11-20T11:21:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISTNxdDBwM29RV1dMUzYwQ1pUWE1qb0VtM0tzb2daaDhUTTliNFpYSmZpSHlhdHM5Y0d4alQxX3RVdzczZXBReDIydHFXUkd5NS15dlZxOW51cUxMTFdTQnNtYkh0Z2VCMVp3VDFab3FYdThZdTU2cXJ3ak96dw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国教育发展战略学会体育与健康专业委员会在京成立 - 新华网"
+    },
+    {
+      "event": "外国使节在舟山探访中国渔业的可持续实践 - 新华网",
+      "published": "2026-11-20T11:09:57+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQllVWGdwWDRkWDJFUXNBY2JKalBlNzJqSGR1VU12bDJhdmJDM2Y3ai1zWjBBUXVsSi1YRTFobmtXMEF5MnZxbVE0cXN5WnBTN2NleEtZd19HYjVmSU44NDhvd3dnZDJsekNQdlZ4QzdzMVgxUnZUb216Q3pIa2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "外国使节在舟山探访中国渔业的可持续实践 - 新华网"
     }
   ],
   "quality": {
@@ -573,12 +557,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
+      "中国证券网原文: URLError",
       "article: HTTPError",
       "article: HTTPError",
-      "article: ValueError",
-      "article: ValueError"
+      "article: HTTPError"
     ]
   }
 }
