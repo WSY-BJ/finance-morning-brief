@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 12:45",
+  "date": "更新于北京时间 2026-11-20 14:59",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T12:45:53+08:00",
+  "updatedAt": "2026-11-20T14:59:34+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,6 +21,18 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-19：7,175.83 点；较 2026-11-18 变化 -147.80 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
           "paragraphs": [],
@@ -28,18 +40,6 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -108,9 +108,9 @@
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "103.86 点；变化 +0.37 点",
+          "summary": "103.90 点；变化 +0.04 点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 103.49（2026-11-17）；来源：Yahoo Finance。"
+            "观测日 2026-11-19；前值 103.86（2026-11-18）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,323.63 点；变化 -16.90 点",
+          "summary": "7,175.83 点；变化 -147.80 点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 7,340.53（2026-11-17）；来源：Yahoo Finance。"
+            "观测日 2026-11-19；前值 7,323.63（2026-11-18）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "24,429.88 点；变化 +101.50 点",
+          "summary": "23,879.20 点；变化 -550.68 点",
           "paragraphs": [
-            "观测日 2026-11-18；前值 24,328.38（2026-11-17）；来源：Yahoo Finance。"
+            "观测日 2026-11-19；前值 24,429.88（2026-11-18）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
+          "title": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T04:09:23+00:00；来源：新华网。",
+            "发布时间：2026-11-20T13:49:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831082"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
+          "title": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:55:39+00:00；来源：新华网。",
+            "发布时间：2026-11-20T13:23:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831071"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
+          "title": "为市场韧性“加码” 上市公司密集增持回购",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:37:08+00:00；来源：新华网。",
+            "发布时间：2026-11-20T13:10:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831064"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
+          "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:26:33+00:00；来源：新华网。",
+            "发布时间：2026-11-20T09:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831026"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
+          "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:26:30+00:00；来源：新华网。",
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830957"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
+          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:22:39+00:00；来源：新华网。",
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830958"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
+          "title": "量身定制融资方案 银行加码支持“六张网”建设",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:21:55+00:00；来源：新华网。",
+            "发布时间：2026-11-20T07:44:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/830997"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "冬装消费需求更趋多元 - 新华网",
+          "title": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:00:19+00:00；来源：新华网。",
+            "发布时间：2026-11-20T06:07:07+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
+          "title": "流感季已至，疫苗还建议打吗？ - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T01:41:55+00:00；来源：新华网。",
+            "发布时间：2026-11-20T06:06:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
+          "title": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T01:11:37+00:00；来源：新华网。",
+            "发布时间：2026-11-20T05:34:06+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5"
             }
           ]
         }
@@ -353,7 +353,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-17 前值 7340.5298，2026-11-18 现值 7323.6299，变化 -16.8999。",
+            "本期实例：标普 500 指数，2026-11-18 前值 7323.6299，2026-11-19 现值 7175.8301，变化 -147.7998。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -379,21 +379,6 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-18"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-19"
@@ -401,7 +386,22 @@
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5",
-      "asOf": "2026-11-20T04:09:23+00:00"
+      "title": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
+      "url": "https://www.cnstock.com/commonDetail/831082",
+      "asOf": "2026-11-20T13:49:00+08:00"
     },
     {
-      "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5",
-      "asOf": "2026-11-20T02:55:39+00:00"
+      "title": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
+      "url": "https://www.cnstock.com/commonDetail/831071",
+      "asOf": "2026-11-20T13:23:00+08:00"
     },
     {
-      "title": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5",
-      "asOf": "2026-11-20T02:37:08+00:00"
+      "title": "为市场韧性“加码” 上市公司密集增持回购",
+      "url": "https://www.cnstock.com/commonDetail/831064",
+      "asOf": "2026-11-20T13:10:00+08:00"
     },
     {
-      "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5",
-      "asOf": "2026-11-20T02:26:33+00:00"
+      "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "url": "https://www.cnstock.com/commonDetail/831026",
+      "asOf": "2026-11-20T09:22:00+08:00"
     },
     {
-      "title": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5",
-      "asOf": "2026-11-20T02:26:30+00:00"
+      "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "url": "https://www.cnstock.com/commonDetail/830957",
+      "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5",
-      "asOf": "2026-11-20T02:22:39+00:00"
+      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830958",
+      "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5",
-      "asOf": "2026-11-20T02:21:55+00:00"
+      "title": "量身定制融资方案 银行加码支持“六张网”建设",
+      "url": "https://www.cnstock.com/commonDetail/830997",
+      "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "冬装消费需求更趋多元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
-      "asOf": "2026-11-20T02:00:19+00:00"
+      "title": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5",
+      "asOf": "2026-11-20T06:07:07+00:00"
     },
     {
-      "title": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5",
-      "asOf": "2026-11-20T01:41:55+00:00"
+      "title": "流感季已至，疫苗还建议打吗？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5",
+      "asOf": "2026-11-20T06:06:50+00:00"
     },
     {
-      "title": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5",
-      "asOf": "2026-11-20T01:11:37+00:00"
+      "title": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5",
+      "asOf": "2026-11-20T05:34:06+00:00"
     }
   ],
   "events": [
     {
-      "event": "习近平会见印度尼西亚总统普拉博沃 - 新华网",
-      "published": "2026-11-20T04:09:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzkwdHdnYWRJcko0aWloSk9ESHdzdjBSWExKeXdNVllWdWVkMzRpdzJSUmo1eUU3VzdEaktjQ1RnYkNtNVdhY1JYcjZ0djBYR0FQVzE1akhDVUlfYVljaUtNaVdvQU81WXg3aHVtcE9OblNoWExWVzlYWVM4N1ZyUzJB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "习近平会见印度尼西亚总统普拉博沃 - 新华网"
+      "event": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
+      "originalTitle": "机构：沪深两市只有30余家公司较多参与达链 集中度低于市场预期",
+      "published": "2026-11-20T13:49:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831082",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
-      "published": "2026-11-20T02:55:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网"
+      "event": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
+      "originalTitle": "《2026中国固态电池行业发展蓝皮书》：2030年全固态电池占总出货量约20%",
+      "published": "2026-11-20T13:23:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831071",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网",
-      "published": "2026-11-20T02:37:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmw0OVpNWVlEbVVzQ2I1dUV0bnZpTW8tTjNFQkR5SmlVTXdfY1U4NzAtQ3pSM0hLZWxWQTd1RGoyNWE2UEJmNE1hdHIyNWZOYllkd21vV0hhd2JMeDVIYm85djBLd0dHeTExOFd1ekdfYm9kb19XWUNvWlFJMHIwOA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "阿瓦提县亮相《300秒看家乡》：雪水滋棉海 沃野织锦绣 - 新华网"
+      "event": "为市场韧性“加码” 上市公司密集增持回购",
+      "originalTitle": "为市场韧性“加码” 上市公司密集增持回购",
+      "published": "2026-11-20T13:10:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831064",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
-      "published": "2026-11-20T02:26:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV3g1d0ZPMWIySzNfT2R0LUhsOVd1QnJrMllaWkRCN1NkNURUQXVmdlJRNWtxSUNZZnVyQ1B0UEZWY3FHUEVDLTFWSWFaMzlhTHFKWEZEeDU0dmNEWDd2VHN2V2xucFU4Qmt1VnQzSGhiTFg4VXc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网"
+      "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "originalTitle": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
+      "published": "2026-11-20T09:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831026",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网",
-      "published": "2026-11-20T02:26:30+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZGw0aFh5YmRoNzZGVF9mT2ZDYUwtc09VelpzVV91MkdkRU9ES0duWEtVS214TTI5Y21HTTJrVDBiRXlZdHp5VFZKV2xjTEEzUmhudzVkMnRwLWx3UG1FRjBPYmM1SUxEbXFrV2t2TENySE9Hc0w5aW5vT0I?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "冷空气催热“暖经济” 御寒商品和暖食茶饮走俏 - 新华网"
+      "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
+      "published": "2026-11-20T09:11:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830957",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国担任2026年亚太经合组织东道主成果清单 - 新华网",
-      "published": "2026-11-20T02:22:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSFM3Qkp5X18xdkFsamR2V19yNDZ1RC1sZ1BYb3hkMzUxRUZpZHFGeUQydld6NWdQbi1NNWN2UVlSNWZEcTI5MFFvMGE3NlREOEVUYXNPa2ZsNHVTQ0hHUXRGVzl2dmpTZzBMeFJKM3dFMDRwOGsyYjJmUGhUN1E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国担任2026年亚太经合组织东道主成果清单 - 新华网"
+      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "published": "2026-11-20T09:11:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830958",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "电力如何被调度？——当百万主体遇上“一张网” - 新华网",
-      "published": "2026-11-20T02:21:55+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNFlPUW04bTBMMG5lNE4xQmFpRkZnUmdWVlVFRnlQN0RvNXNMb2pNZTNZRGdDSU5sUGR6alVRbHlQOFdQaXBPVU1WZ2JTYy1nelZheFJoT2lQTzU1MFlRYm4zb3Y1aDNjNXA5MW9jSnBYazR1cVlB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "电力如何被调度？——当百万主体遇上“一张网” - 新华网"
+      "event": "量身定制融资方案 银行加码支持“六张网”建设",
+      "originalTitle": "量身定制融资方案 银行加码支持“六张网”建设",
+      "published": "2026-11-20T07:44:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/830997",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "冬装消费需求更趋多元 - 新华网",
-      "published": "2026-11-20T02:00:19+00:00",
+      "event": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网",
+      "published": "2026-11-20T06:07:07+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mTHVOZTNSUkQycjQydHVDcFVtYnRjd2JnY1JrNURaLTAyVndVRXpiZFZlZXhmWjI4Sk1YdzFOY0xvR0gzTDJBUkczTUhCOS01TG16NGYwOGVzNUhKM3V0QmRhZC16dEdoLW5UYVo2UE53ZmZxVnBYV2ZMb04xZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "冬装消费需求更趋多元 - 新华网"
+      "originalTitle": "记者观察：欧盟拟限制15岁以下青少年使用社交媒体 - 新华网"
     },
     {
-      "event": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网",
-      "published": "2026-11-20T01:41:55+00:00",
+      "event": "流感季已至，疫苗还建议打吗？ - 新华网",
+      "published": "2026-11-20T06:06:50+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MS28yNEhWOXFFUDdzQnVZcG1Na2NxeERwYWtlRVVIbFZyTkFUZmdNX0R4RVpUQ2tza2JvQ2VHdnF1U0dVOFRfREFnbm0zemM2VHZsUm5oczJ4UG44Q1pNU3hzYXppS3Q2Xzh1elIybk1DdVJjZkww?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM01RNFFweVFSZEU1c3BlcmV2cmtPWm5MT2ljYVpQeGpDSVBlTzZjeHVaNk9qRDlMUl9xY1I4MkxEX2dQUnNvTnhjdlF5c1RGdlNnWWIycTNENjBnN0NXLU5id0VYWExOWjQ2NjFxcUhCMWhFdHlDMDRGa29mMVJid183RQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "宁波：抖擞“精气神”，奋起“挑大梁” - 新华网"
+      "originalTitle": "流感季已至，疫苗还建议打吗？ - 新华网"
     },
     {
-      "event": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网",
-      "published": "2026-11-20T01:11:37+00:00",
+      "event": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网",
+      "published": "2026-11-20T05:34:06+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rcE9GVklLTnFSbTdpRU9PSlBUTjZRUjltNUNWa0lxYVZTQTIyYzlucktKekpvN2h5djBuczJSSGtHeUFnSUNMb3JvR1BXZVlOclFMcUJQQ041OS1od0xUbDktMWVPTTN2VTk5aGJOcUx1UWZ0SFVDTWdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXpMckRQQXQ1b2Zhd1M1U0t1NU03LVVwZHRzT0pDOWhlcDBYdWEyLTcxWndaV0ZoZ3JCbng3dVV4cHVJU29XakwzdEhmOEVpMjdMcHJoOXFhbDNsRi00bEltWmZIeTN5N2RTZHA1N1lrYmNDZUpnUlhCb3Q3OTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "千年古都绽放别样生机——“十五五”开局之年的首都新脉动 - 新华网"
+      "originalTitle": "五角大楼官员：美国已为伊朗战事花费超480亿美元 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,15 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: HTTPError",
+      "article: HTTPError"
     ]
   }
 }
