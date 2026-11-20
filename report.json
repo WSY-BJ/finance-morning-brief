@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-20",
-  "date": "更新于北京时间 2026-11-20 10:17",
+  "date": "更新于北京时间 2026-11-20 11:43",
   "reportDate": "2026-11-20",
-  "updatedAt": "2026-11-20T10:17:27+08:00",
+  "updatedAt": "2026-11-20T11:43:20+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-18：7,323.63 点；较 2026-11-17 变化 -16.90 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.80 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：美国财政部。"
+            "观测日 2026-11-18；前值 4.80（2026-11-17）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,36 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T10:37:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831041"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "前10个月邮政行业寄递业务量同比增长3.3%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T10:33:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831042"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
           "summary": "",
           "paragraphs": [
@@ -207,21 +237,6 @@
         },
         {
           "type": "explainer",
-          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/830958"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
           "summary": "",
           "paragraphs": [
@@ -237,46 +252,16 @@
         },
         {
           "type": "explainer",
-          "title": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
+          "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T08:04:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-20T09:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831008"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T07:52:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831007"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "智能制造“进阶”——2026世界智能制造大会一线观察",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-20T07:45:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831003"
+              "url": "https://www.cnstock.com/commonDetail/830958"
             }
           ]
         },
@@ -297,31 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "冬装消费需求更趋多元 - 新华网",
+          "title": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T02:00:19+00:00；来源：新华网。",
+            "发布时间：2026-11-20T03:31:21+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“城超”，因地制宜更出彩 - 新华网",
+          "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T01:02:14+00:00；来源：新华网。",
+            "发布时间：2026-11-20T02:55:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T02:26:33+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5"
             }
           ]
         }
@@ -379,21 +379,6 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-19"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-18"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-18"
@@ -404,14 +389,39 @@
       "asOf": "2026-11-18"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-18"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-19"
+    },
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-18"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-18"
+    },
+    {
+      "title": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
+      "url": "https://www.cnstock.com/commonDetail/831041",
+      "asOf": "2026-11-20T10:37:00+08:00"
+    },
+    {
+      "title": "前10个月邮政行业寄递业务量同比增长3.3%",
+      "url": "https://www.cnstock.com/commonDetail/831042",
+      "asOf": "2026-11-20T10:33:00+08:00"
     },
     {
       "title": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
@@ -424,29 +434,14 @@
       "asOf": "2026-11-20T09:20:00+08:00"
     },
     {
-      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "asOf": "2026-11-20T09:11:00+08:00"
-    },
-    {
       "title": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
       "url": "https://www.cnstock.com/commonDetail/830957",
       "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
-      "title": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
-      "url": "https://www.cnstock.com/commonDetail/831008",
-      "asOf": "2026-11-20T08:04:00+08:00"
-    },
-    {
-      "title": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
-      "url": "https://www.cnstock.com/commonDetail/831007",
-      "asOf": "2026-11-20T07:52:00+08:00"
-    },
-    {
-      "title": "智能制造“进阶”——2026世界智能制造大会一线观察",
-      "url": "https://www.cnstock.com/commonDetail/831003",
-      "asOf": "2026-11-20T07:45:00+08:00"
+      "title": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "url": "https://www.cnstock.com/commonDetail/830958",
+      "asOf": "2026-11-20T09:11:00+08:00"
     },
     {
       "title": "量身定制融资方案 银行加码支持“六张网”建设",
@@ -454,17 +449,38 @@
       "asOf": "2026-11-20T07:44:00+08:00"
     },
     {
-      "title": "冬装消费需求更趋多元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
-      "asOf": "2026-11-20T02:00:19+00:00"
+      "title": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5",
+      "asOf": "2026-11-20T03:31:21+00:00"
     },
     {
-      "title": "“城超”，因地制宜更出彩 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5",
-      "asOf": "2026-11-20T01:02:14+00:00"
+      "title": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5",
+      "asOf": "2026-11-20T02:55:39+00:00"
+    },
+    {
+      "title": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5",
+      "asOf": "2026-11-20T02:26:33+00:00"
     }
   ],
   "events": [
+    {
+      "event": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
+      "originalTitle": "金融街证券：公司董事长祝艳辉目前正接受调查并被实施留置措施",
+      "published": "2026-11-20T10:37:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831041",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "前10个月邮政行业寄递业务量同比增长3.3%",
+      "originalTitle": "前10个月邮政行业寄递业务量同比增长3.3%",
+      "published": "2026-11-20T10:33:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/831042",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
       "originalTitle": "11月LPR报价出炉：1年期和5年期以上LPR均保持不变",
@@ -482,14 +498,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
-      "published": "2026-11-20T09:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/830958",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
       "originalTitle": "紫金矿业：拟20亿至30亿元回购公司股份用于员工持股或股权激励",
       "published": "2026-11-20T09:11:00+08:00",
@@ -498,27 +506,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
-      "originalTitle": "部分基金经理“抄底”科技股 外资巨头频频加仓 上市公司回购公告透底机构动向",
-      "published": "2026-11-20T08:04:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831008",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
-      "originalTitle": "上证院士说 | 专访中国科学院院士封东来：为中国产业铺设“科技高速公路”",
-      "published": "2026-11-20T07:52:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831007",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "智能制造“进阶”——2026世界智能制造大会一线观察",
-      "originalTitle": "智能制造“进阶”——2026世界智能制造大会一线观察",
-      "published": "2026-11-20T07:45:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831003",
+      "event": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "originalTitle": "重庆路桥：第二大股东拟1500万至3000万元增持公司股份",
+      "published": "2026-11-20T09:11:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/830958",
       "evidenceLevel": "headline-only"
     },
     {
@@ -530,20 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "冬装消费需求更趋多元 - 新华网",
-      "published": "2026-11-20T02:00:19+00:00",
+      "event": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网",
+      "published": "2026-11-20T03:31:21+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmNCd3VqUzhYTkhkZEFjVnBLMzk2SmNDSjhDNHVOUkhCM3p2SW1QOHJHTkI0TXd6Z21sMG00ZkVkM0ZUMHBtSGVsYlV6d21nVVp1S182UjlLblQ5Z2ZLZFZrdVY5bmxZLUtGd1pKeG43WFEyVURvOFdTdnJTUFBCZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWhvb1JtaW9ERWhQbHJ3aVoxMXRpa2hUbkluZXdxSHNFYzRrNVRSMHhfVXNqWHQyR1loNzI0SmJyanRJZklPbV9UeXJjWkhQNzhlQ3dzQVV3MC1PV0tzcHN0cUp1Y3dkc09zWEEzTFRhWE1SbTJiTnRkUjdrWHU3WA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "冬装消费需求更趋多元 - 新华网"
+      "originalTitle": "中国经济样本观察·“镇”了不起丨锤头对石头，凿出60亿元“硬碰硬”产业 - 新华网"
     },
     {
-      "event": "“城超”，因地制宜更出彩 - 新华网",
-      "published": "2026-11-20T01:02:14+00:00",
+      "event": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网",
+      "published": "2026-11-20T02:55:39+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NHYzbVRVM1VwZUVFcVBSTE1rYy1iQmxKajZHb2xGWnZhT2NHTUp5MHhNcjVHY3p4SDdRdGNVRGtNTVRsQ0gydnNoNV9aTG1UdkQyYzNXRTJIdUU4THRUVVZ2dEtwd3JNM1R6d0hmSG1sbFZJMlgw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWFiRVRYZlNBcE5sWWg0bzVFRlFDMHl1YWhnak4tc0FjQ012NzltQ2ljZWRXSlR0bHdOMTZuMkc2TlUtakNwZ0Mxb0RYZVhmRF92LXdSYV83Nm1BTEpyajBvZHNuU3ZNYnVzdXRvQnVmQktRNW9rZzJqUFdWX2hYbkJzRXdBdw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "“城超”，因地制宜更出彩 - 新华网"
+      "originalTitle": "聚焦零售能力重构 2026 CCFA零售创新大会在沪举行 - 新华网"
+    },
+    {
+      "event": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网",
+      "published": "2026-11-20T02:26:33+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWWtNNjh0OU52bEprbFZMSkxjTU5mdUdMVGdRRE94ZUU2RkNHaHpxT3hNNS1TS19jYUJiNXdjbXhjVWpRWmJEZW5PaS1tY3hMSEs2WGIwMmJham5PeDVVTTA4bzFTMVhVRURmRXRrZTZMcDNna3NZ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "场景开放项目集中亮相 拓宽民企发展空间 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
