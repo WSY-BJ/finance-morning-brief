@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-21",
-  "date": "更新于北京时间 2026-11-21 10:11",
+  "date": "更新于北京时间 2026-11-21 11:28",
   "reportDate": "2026-11-21",
-  "updatedAt": "2026-11-21T10:11:04+08:00",
+  "updatedAt": "2026-11-21T11:28:25+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-19：7,175.83 点；较 2026-11-18 变化 -147.80 点。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.63 %；变化 -0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,155 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+          "title": "2026年亚太经合组织领导人会议周巡礼 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T09:11:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：3900美元/盎司、3800美元/盎司、3700美元/盎司、3600美元/盎司，11月16日至20日，国际现货黄金仅用5个交易日便失守四道整数关口，创今年3月以来最惨一周。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831742"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "证监会：持续打击编造传播涉资本市场网络谣言行为",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：从捏造“互联网要按25%交税”，到利用人工智能生成“证监会暂缓IPO”假消息，再到篡改媒体快讯分享页截图伪造监管执法信息，以及杜撰上市公司“裁员30%”博关注，4起案例覆盖了税收政策、监管政策、执法信息、涉企经营等场景，涉案人员均被依法作出"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831731"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "阶段性调整未改底色 多家机构看好A股估值与韧性",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：近日，A股市场出现阶段性调整，多家公募基金、券商等机构密集发声。上海证券报记者梳理发现，机构观点在三个方面形成共识：一是A股调整受外部与内部双重因素影响；二是主要指数估值已处于历史低位；三是市场韧性正由盈利修复与政策工具共同支撑。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831732"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "突发利空，英伟达跌超14%",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：美股遭遇“黑色星期五”，三大指数全线重挫。当地时间11月20日，道指跌1.93%，标普500指数跌3.7%，纳指跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831749"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "亚太媒体合作伙伴计划正式成立",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-21T02:42:43+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831721"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51TkNraFNCV3dtVFRSMnBhS0VxQTRFcXRWSHhfVzRRS01mZEtrdHo1MUpSYVZSNHpvQm5adE01VG5HSnZJWTRWeHlSTXRraG5HM3BwY1dhcl84ZnZaUjdFUzNINkJIenNqRjZOa05QVGV4MEFHdXNJ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+          "title": "以枢纽聚资源、兴产业、塑城市 江津高水平建设开放枢纽之城 - 新华网重庆",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-21T01:12:46+00:00；来源：新华网重庆。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831722"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRjdPenlwbkNvR1lndVk1UG1HX0kxSGN0bzF0YVRZNWNZQk83Tm4tNWloTkdlMXJZSzdvNXNvN2dMR0JReXJwTUJ1Smd4UEhPdkVtbi1qM2RSaGRNUFpORTVOQWNQOXVYckdZYlQ2dmpCSFppYlE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+          "title": "前10月江西经济运行稳中向好 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "发布时间：2026-11-21T01:05:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831725"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xNXh2UVF4YjlEZ3AwYXpQQVhsMFhXbWVtZ3V1aDZWQjdfUUkzVjZBeE9rWmEyQTZTOTZtNTQ1Qi12R2szUmFMTm52dzkxNThrUVZFT0F1UG9uNUFYUmZBOThuQWEwemxhTDBYa2Foc1owNkJh?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
+          "title": "瞭望·治国理政纪事丨塑造更高水平开放型经济新优势 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-21T00:21:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831258"
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUENkQVBiSEJxYjdSdHVUM2hJaTlxRlM1SnBid2ZGSTVhWElQSHNveFNNSW1UeURRVW9PNy1BUTJNWnNhMTNaMTBNMkMybVo4ek1NejV1MjJlc0xpOFNtOXFwQzhkUzNKLTdmU3VLeG9QdWlqRkZRTzc2UUk0U0d0M1Z1WGVzekt2b1cyNDJn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
+          "title": "聚焦APEC丨APEC参会来宾眼中的“奇迹之城” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-21T00:07:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831313"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ganl3dk4xWkdkZVNfU3RUZUhuaWE2MWUwcFIxRXh4ZEttQWFvdlVCTG1XN010LWVCbFhqYUNUa21MbEVyVjBNYnRiNnV6SzZqVms4RXNqb1FVd1lzMjc2Q3dHYWpfaGFLeWVKRlhJc04xUDlNM0ExR0JkTzhmRk0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "连城数控：约1093.90万股限售股将于11月25日解禁",
+          "title": "中国非洲研究院－亚的斯亚贝巴大学中非研究中心在埃塞揭牌 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-20T23:15:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831309"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54RmRkemJ1dVNyc3lrVzF5NzgyT25HNjB6Q2UtbF9zUW1RbEZFS2o5SXNIenVRNG1ZbkhpMUVsNkk1S2lpY0FNUnl4VTcwXzhzWG9oblh0X1dEd0JfOUQwMTYxQU5vckl6b3lxbnVFaUgtVE5UQ3Rv?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国稀土一度触及跌停 - 上海证券报·中国证券网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T21:35:00+00:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43b2FjRmUwSWpuTmZ6clRJbVQ3TlZhM3NHQXVyOTJ4dmVDRE85djdObTc4d2xxd295X2xDcjIxd2pVeERzM2gzcm44TGNnUG1wTkszd2Qyc0hlYmVhX2VERXBDZw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特朗普：中俄美元首会晤“史无前例”“意义重大” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T21:01:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5malhENy1NZG5seDM5X0RtQncyci15WnJqMnpjVTZSdDJDWHVicEhub3czRlNhTFAtSU9raTEzUUxmSkxpNnJFMlNxTU1fR0YwQjQwRWNuM096bEl3YzA4ZnZpRnNQUHpybnBFUlRsdTJzTVZhN1lN?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伦敦股市20日下跌 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T18:28:00+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ocGhUaDVsMjBxRFppa2l3dzFaZlE1MEVzVjFkZUYtTlVJU3lPY19YWjlHTWs3aEtOOHRVTUdGTWxIOFMzZkJnSnpIUWlFb1FzYW5xRnBwQXMzbkFXNnFpNFRUbWJKOHNhYVlpYTZGekNwMDF5LTRrYUJ0V2RUcms?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T17:33:59+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTjctd2Itemo0Njh1Z01XZFQwd2hjbDZMX3dBbzd5X2NvTzA0Z05kd0RnLVphaVZQdlhqSF82bGJCc0hqS1Foa1RpQmV4UlJoM3hOYlBMV19qdWtib21ZcERxT3o2R2FoY1FrVFUwazJ1dHBWQ3VV?oc=5"
             }
           ]
         }
@@ -383,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
@@ -408,174 +399,151 @@
       "asOf": "2026-11-19"
     },
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-19"
+      "title": "2026年亚太经合组织领导人会议周巡礼 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51TkNraFNCV3dtVFRSMnBhS0VxQTRFcXRWSHhfVzRRS01mZEtrdHo1MUpSYVZSNHpvQm5adE01VG5HSnZJWTRWeHlSTXRraG5HM3BwY1dhcl84ZnZaUjdFUzNINkJIenNqRjZOa05QVGV4MEFHdXNJ?oc=5",
+      "asOf": "2026-11-21T02:42:43+00:00"
     },
     {
-      "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
-      "url": "https://www.cnstock.com/commonDetail/831742",
-      "asOf": "2026-11-21T09:11:00+08:00"
+      "title": "以枢纽聚资源、兴产业、塑城市 江津高水平建设开放枢纽之城 - 新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRjdPenlwbkNvR1lndVk1UG1HX0kxSGN0bzF0YVRZNWNZQk83Tm4tNWloTkdlMXJZSzdvNXNvN2dMR0JReXJwTUJ1Smd4UEhPdkVtbi1qM2RSaGRNUFpORTVOQWNQOXVYckdZYlQ2dmpCSFppYlE?oc=5",
+      "asOf": "2026-11-21T01:12:46+00:00"
     },
     {
-      "title": "证监会：持续打击编造传播涉资本市场网络谣言行为",
-      "url": "https://www.cnstock.com/commonDetail/831731",
-      "asOf": "2026-11-21T09:10:00+08:00"
+      "title": "前10月江西经济运行稳中向好 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xNXh2UVF4YjlEZ3AwYXpQQVhsMFhXbWVtZ3V1aDZWQjdfUUkzVjZBeE9rWmEyQTZTOTZtNTQ1Qi12R2szUmFMTm52dzkxNThrUVZFT0F1UG9uNUFYUmZBOThuQWEwemxhTDBYa2Foc1owNkJh?oc=5",
+      "asOf": "2026-11-21T01:05:27+00:00"
     },
     {
-      "title": "阶段性调整未改底色 多家机构看好A股估值与韧性",
-      "url": "https://www.cnstock.com/commonDetail/831732",
-      "asOf": "2026-11-21T09:10:00+08:00"
+      "title": "瞭望·治国理政纪事丨塑造更高水平开放型经济新优势 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUENkQVBiSEJxYjdSdHVUM2hJaTlxRlM1SnBid2ZGSTVhWElQSHNveFNNSW1UeURRVW9PNy1BUTJNWnNhMTNaMTBNMkMybVo4ek1NejV1MjJlc0xpOFNtOXFwQzhkUzNKLTdmU3VLeG9QdWlqRkZRTzc2UUk0U0d0M1Z1WGVzekt2b1cyNDJn?oc=5",
+      "asOf": "2026-11-21T00:21:37+00:00"
     },
     {
-      "title": "突发利空，英伟达跌超14%",
-      "url": "https://www.cnstock.com/commonDetail/831749",
-      "asOf": "2026-11-21T09:10:00+08:00"
+      "title": "聚焦APEC丨APEC参会来宾眼中的“奇迹之城” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ganl3dk4xWkdkZVNfU3RUZUhuaWE2MWUwcFIxRXh4ZEttQWFvdlVCTG1XN010LWVCbFhqYUNUa21MbEVyVjBNYnRiNnV6SzZqVms4RXNqb1FVd1lzMjc2Q3dHYWpfaGFLeWVKRlhJc04xUDlNM0ExR0JkTzhmRk0?oc=5",
+      "asOf": "2026-11-21T00:07:44+00:00"
     },
     {
-      "title": "亚太媒体合作伙伴计划正式成立",
-      "url": "https://www.cnstock.com/commonDetail/831721",
-      "asOf": "2026-11-21T08:23:00+08:00"
+      "title": "中国非洲研究院－亚的斯亚贝巴大学中非研究中心在埃塞揭牌 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54RmRkemJ1dVNyc3lrVzF5NzgyT25HNjB6Q2UtbF9zUW1RbEZFS2o5SXNIenVRNG1ZbkhpMUVsNkk1S2lpY0FNUnl4VTcwXzhzWG9oblh0X1dEd0JfOUQwMTYxQU5vckl6b3lxbnVFaUgtVE5UQ3Rv?oc=5",
+      "asOf": "2026-11-20T23:15:27+00:00"
     },
     {
-      "title": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
-      "url": "https://www.cnstock.com/commonDetail/831722",
-      "asOf": "2026-11-21T08:23:00+08:00"
+      "title": "中国稀土一度触及跌停 - 上海证券报·中国证券网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43b2FjRmUwSWpuTmZ6clRJbVQ3TlZhM3NHQXVyOTJ4dmVDRE85djdObTc4d2xxd295X2xDcjIxd2pVeERzM2gzcm44TGNnUG1wTkszd2Qyc0hlYmVhX2VERXBDZw?oc=5",
+      "asOf": "2026-11-20T21:35:00+00:00"
     },
     {
-      "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-      "url": "https://www.cnstock.com/commonDetail/831725",
-      "asOf": "2026-11-21T08:23:00+08:00"
+      "title": "特朗普：中俄美元首会晤“史无前例”“意义重大” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5malhENy1NZG5seDM5X0RtQncyci15WnJqMnpjVTZSdDJDWHVicEhub3czRlNhTFAtSU9raTEzUUxmSkxpNnJFMlNxTU1fR0YwQjQwRWNuM096bEl3YzA4ZnZpRnNQUHpybnBFUlRsdTJzTVZhN1lN?oc=5",
+      "asOf": "2026-11-20T21:01:01+00:00"
     },
     {
-      "title": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
-      "url": "https://www.cnstock.com/commonDetail/831258",
-      "asOf": "2026-11-20T23:46:00+08:00"
+      "title": "伦敦股市20日下跌 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ocGhUaDVsMjBxRFppa2l3dzFaZlE1MEVzVjFkZUYtTlVJU3lPY19YWjlHTWs3aEtOOHRVTUdGTWxIOFMzZkJnSnpIUWlFb1FzYW5xRnBwQXMzbkFXNnFpNFRUbWJKOHNhYVlpYTZGekNwMDF5LTRrYUJ0V2RUcms?oc=5",
+      "asOf": "2026-11-20T18:28:00+00:00"
     },
     {
-      "title": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
-      "url": "https://www.cnstock.com/commonDetail/831313",
-      "asOf": "2026-11-20T23:46:00+08:00"
-    },
-    {
-      "title": "连城数控：约1093.90万股限售股将于11月25日解禁",
-      "url": "https://www.cnstock.com/commonDetail/831309",
-      "asOf": "2026-11-20T23:46:00+08:00"
+      "title": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTjctd2Itemo0Njh1Z01XZFQwd2hjbDZMX3dBbzd5X2NvTzA0Z05kd0RnLVphaVZQdlhqSF82bGJCc0hqS1Foa1RpQmV4UlJoM3hOYlBMV19qdWtib21ZcERxT3o2R2FoY1FrVFUwazJ1dHBWQ3VV?oc=5",
+      "asOf": "2026-11-20T17:33:59+00:00"
     }
   ],
   "events": [
     {
-      "event": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
-      "originalTitle": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
-      "published": "2026-11-21T09:11:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831742",
+      "event": "2026年亚太经合组织领导人会议周巡礼 - 新华网",
+      "published": "2026-11-21T02:42:43+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51TkNraFNCV3dtVFRSMnBhS0VxQTRFcXRWSHhfVzRRS01mZEtrdHo1MUpSYVZSNHpvQm5adE01VG5HSnZJWTRWeHlSTXRraG5HM3BwY1dhcl84ZnZaUjdFUzNINkJIenNqRjZOa05QVGV4MEFHdXNJ?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831742",
-        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
-        "sha256": "22d188cabed4c041103fd4e7451a2cb13a0150897a9a6504c434c296895e4ebe",
-        "paragraphCount": 13,
-        "excerpt": "3900美元/盎司、3800美元/盎司、3700美元/盎司、3600美元/盎司，11月16日至20日，国际现货黄金仅用5个交易日便失守四道整数关口，创今年3月以来最惨一周。"
-      }
+      "originalTitle": "2026年亚太经合组织领导人会议周巡礼 - 新华网"
     },
     {
-      "event": "证监会：持续打击编造传播涉资本市场网络谣言行为",
-      "originalTitle": "证监会：持续打击编造传播涉资本市场网络谣言行为",
-      "published": "2026-11-21T09:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831731",
+      "event": "以枢纽聚资源、兴产业、塑城市 江津高水平建设开放枢纽之城 - 新华网重庆",
+      "published": "2026-11-21T01:12:46+00:00",
+      "publisher": "新华网重庆",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoRjdPenlwbkNvR1lndVk1UG1HX0kxSGN0bzF0YVRZNWNZQk83Tm4tNWloTkdlMXJZSzdvNXNvN2dMR0JReXJwTUJ1Smd4UEhPdkVtbi1qM2RSaGRNUFpORTVOQWNQOXVYckdZYlQ2dmpCSFppYlE?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831731",
-        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
-        "sha256": "4de0eeb8f7c583347b28b4d66665b1a6bfaa459c4abb7de2b7d8ec8d571a2c80",
-        "paragraphCount": 12,
-        "excerpt": "从捏造“互联网要按25%交税”，到利用人工智能生成“证监会暂缓IPO”假消息，再到篡改媒体快讯分享页截图伪造监管执法信息，以及杜撰上市公司“裁员30%”博关注，4起案例覆盖了税收政策、监管政策、执法信息、涉企经营等场景，涉案人员均被依法作出"
-      }
+      "originalTitle": "以枢纽聚资源、兴产业、塑城市 江津高水平建设开放枢纽之城 - 新华网重庆"
     },
     {
-      "event": "阶段性调整未改底色 多家机构看好A股估值与韧性",
-      "originalTitle": "阶段性调整未改底色 多家机构看好A股估值与韧性",
-      "published": "2026-11-21T09:10:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831732",
+      "event": "前10月江西经济运行稳中向好 - 新华网",
+      "published": "2026-11-21T01:05:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xNXh2UVF4YjlEZ3AwYXpQQVhsMFhXbWVtZ3V1aDZWQjdfUUkzVjZBeE9rWmEyQTZTOTZtNTQ1Qi12R2szUmFMTm52dzkxNThrUVZFT0F1UG9uNUFYUmZBOThuQWEwemxhTDBYa2Foc1owNkJh?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831732",
-        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
-        "sha256": "a0499ddfe62ff3a0a33b2a200efeb5656cb28042f30536c535ec0d51d088908a",
-        "paragraphCount": 16,
-        "excerpt": "近日，A股市场出现阶段性调整，多家公募基金、券商等机构密集发声。上海证券报记者梳理发现，机构观点在三个方面形成共识：一是A股调整受外部与内部双重因素影响；二是主要指数估值已处于历史低位；三是市场韧性正由盈利修复与政策工具共同支撑。"
-      }
+      "originalTitle": "前10月江西经济运行稳中向好 - 新华网"
     },
     {
-      "event": "突发利空，英伟达跌超14%",
-      "originalTitle": "突发利空，英伟达跌超14%",
-      "published": "2026-11-21T09:10:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831749",
+      "event": "瞭望·治国理政纪事丨塑造更高水平开放型经济新优势 - 新华网",
+      "published": "2026-11-21T00:21:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUENkQVBiSEJxYjdSdHVUM2hJaTlxRlM1SnBid2ZGSTVhWElQSHNveFNNSW1UeURRVW9PNy1BUTJNWnNhMTNaMTBNMkMybVo4ek1NejV1MjJlc0xpOFNtOXFwQzhkUzNKLTdmU3VLeG9QdWlqRkZRTzc2UUk0U0d0M1Z1WGVzekt2b1cyNDJn?oc=5",
       "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831749",
-        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
-        "sha256": "591443be4c470a9f6021ec0358fda7e6ebbf75c49b57e209cb27d8d513a844f1",
-        "paragraphCount": 21,
-        "excerpt": "美股遭遇“黑色星期五”，三大指数全线重挫。当地时间11月20日，道指跌1.93%，标普500指数跌3.7%，纳指跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。"
-      }
+      "originalTitle": "瞭望·治国理政纪事丨塑造更高水平开放型经济新优势 - 新华网"
     },
     {
-      "event": "亚太媒体合作伙伴计划正式成立",
-      "originalTitle": "亚太媒体合作伙伴计划正式成立",
-      "published": "2026-11-21T08:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/831721",
-      "evidenceLevel": "headline-only"
+      "event": "聚焦APEC丨APEC参会来宾眼中的“奇迹之城” - 新华网",
+      "published": "2026-11-21T00:07:44+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ganl3dk4xWkdkZVNfU3RUZUhuaWE2MWUwcFIxRXh4ZEttQWFvdlVCTG1XN010LWVCbFhqYUNUa21MbEVyVjBNYnRiNnV6SzZqVms4RXNqb1FVd1lzMjc2Q3dHYWpfaGFLeWVKRlhJc04xUDlNM0ExR0JkTzhmRk0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "聚焦APEC丨APEC参会来宾眼中的“奇迹之城” - 新华网"
     },
     {
-      "event": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
-      "originalTitle": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
-      "published": "2026-11-21T08:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/831722",
-      "evidenceLevel": "headline-only"
+      "event": "中国非洲研究院－亚的斯亚贝巴大学中非研究中心在埃塞揭牌 - 新华网",
+      "published": "2026-11-20T23:15:27+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54RmRkemJ1dVNyc3lrVzF5NzgyT25HNjB6Q2UtbF9zUW1RbEZFS2o5SXNIenVRNG1ZbkhpMUVsNkk1S2lpY0FNUnl4VTcwXzhzWG9oblh0X1dEd0JfOUQwMTYxQU5vckl6b3lxbnVFaUgtVE5UQ3Rv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国非洲研究院－亚的斯亚贝巴大学中非研究中心在埃塞揭牌 - 新华网"
     },
     {
-      "event": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-      "originalTitle": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-      "published": "2026-11-21T08:23:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/831725",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
-      "originalTitle": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
-      "published": "2026-11-20T23:46:00+08:00",
+      "event": "中国稀土一度触及跌停 - 上海证券报·中国证券网",
+      "published": "2026-11-20T21:35:00+00:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831258",
-      "evidenceLevel": "headline-only"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43b2FjRmUwSWpuTmZ6clRJbVQ3TlZhM3NHQXVyOTJ4dmVDRE85djdObTc4d2xxd295X2xDcjIxd2pVeERzM2gzcm44TGNnUG1wTkszd2Qyc0hlYmVhX2VERXBDZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国稀土一度触及跌停 - 上海证券报·中国证券网"
     },
     {
-      "event": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
-      "originalTitle": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
-      "published": "2026-11-20T23:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831313",
-      "evidenceLevel": "headline-only"
+      "event": "特朗普：中俄美元首会晤“史无前例”“意义重大” - 新华网",
+      "published": "2026-11-20T21:01:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5malhENy1NZG5seDM5X0RtQncyci15WnJqMnpjVTZSdDJDWHVicEhub3czRlNhTFAtSU9raTEzUUxmSkxpNnJFMlNxTU1fR0YwQjQwRWNuM096bEl3YzA4ZnZpRnNQUHpybnBFUlRsdTJzTVZhN1lN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特朗普：中俄美元首会晤“史无前例”“意义重大” - 新华网"
     },
     {
-      "event": "连城数控：约1093.90万股限售股将于11月25日解禁",
-      "originalTitle": "连城数控：约1093.90万股限售股将于11月25日解禁",
-      "published": "2026-11-20T23:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831309",
-      "evidenceLevel": "headline-only"
+      "event": "伦敦股市20日下跌 - 新华网",
+      "published": "2026-11-20T18:28:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ocGhUaDVsMjBxRFppa2l3dzFaZlE1MEVzVjFkZUYtTlVJU3lPY19YWjlHTWs3aEtOOHRVTUdGTWxIOFMzZkJnSnpIUWlFb1FzYW5xRnBwQXMzbkFXNnFpNFRUbWJKOHNhYVlpYTZGekNwMDF5LTRrYUJ0V2RUcms?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伦敦股市20日下跌 - 新华网"
+    },
+    {
+      "event": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实 - 新华网",
+      "published": "2026-11-20T17:33:59+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTjctd2Itemo0Njh1Z01XZFQwd2hjbDZMX3dBbzd5X2NvTzA0Z05kd0RnLVphaVZQdlhqSF82bGJCc0hqS1Foa1RpQmV4UlJoM3hOYlBMV19qdWtib21ZcERxT3o2R2FoY1FrVFUwazJ1dHBWQ3VV?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实 - 新华网"
     }
   ],
   "quality": {
@@ -589,13 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
