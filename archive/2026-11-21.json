@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-21",
-  "date": "更新于北京时间 2026-11-21 16:15",
+  "date": "更新于北京时间 2026-11-21 20:40",
   "reportDate": "2026-11-21",
-  "updatedAt": "2026-11-21T16:15:56+08:00",
+  "updatedAt": "2026-11-21T20:40:03+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.04 %；变化 -0.03 个百分点",
+          "summary": "4.92 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "国产120kV冷冻透射电子显微镜发布 - 新华网",
+          "title": "国家数据局：将积极拓展词元服务应用场景",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T07:49:04+00:00；来源：新华网。",
+            "发布时间：2026-11-21T19:26:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fdnd1ZTF3Q0JxRURaRlFmTzFELTVkMmhRcDNYbi1FRGJtck9BZ2R4VFhwLTREMG0yVWM0TGREN18zS3lKak53b3F3eDRXeS02SzlRN0pjaEFSM3J0NThYZjF5VlU1dFFNTklTSlRrdG14ZlN3bG5sbjI2MVhBdw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831778"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "刘家峡水库腾出18.5亿立方米防凌库容迎战凌汛期 - 新华网",
+          "title": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T07:32:55+00:00；来源：新华网。",
+            "发布时间：2026-11-21T12:19:45+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmtyV1MwRGtkUTI0dEhGTWJrdXMzeWhMYkpIckFzZzhJdEtJSWZZWEFqWWJGM2Jkel95MXhFOUdNX2pKWDNUVm42XzRfNW9VRktQaDR3ODdvMlEwY0dZNGpKdHVZaDNhQjJpYlpnSWJkWjlXTEtaZEhoYWVzaWFYeUxn?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "英国伦敦举行反战示威集会活动 - 新华网",
+          "title": "200余名中外人士徒步寻访“南京安全区” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T06:28:11+00:00；来源：新华网。",
+            "发布时间：2026-11-21T12:17:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbU5BMHdyNmJVaVp4d0cwM25XMUdLOGpydzRvOWwta05JSEhGRW9VeERScHNrS1FORk9lblRFNzM4VE1rd2hPN3hKZEgzRG9SNTdFaEg4VHYta2thbklDUmhZVkFFSS1TRHdPOFVUMk9hLTdsRGI0UExXalZydw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华视点丨冬来胜景 文旅富民 - 新华网",
+          "title": "美元指数，冲击104关口",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T06:27:34+00:00；来源：新华网。",
+            "发布时间：2026-11-21T12:00:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NDZ1bDJVRjh1dHhFT216aHZFN2VOX1NVaDF4Tnptd2daTkdyM3BqdG1BVjNYSl94bkdaQWtrZTZkQkVVYWNPNXNWTVZFWUF2LWhuR1FvNWZSVXVZMW0zRjFadDhkT3p6MC1nbG13anhRVHJ3dXRN?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831751"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "马来西亚华人张慧清：看了纪念碑 心真的好酸好痛 - 新华网",
+          "title": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T05:57:58+00:00；来源：新华网。",
+            "发布时间：2026-11-21T12:00:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQ3Ffd3FSZHJTZUVLNTJycGwwSmVEUzhLem1NWXByWGo2YXVkbnlzcmx6RWlqNE1BVVZfV2llbmZnNnBJU2NxbUxwX2c2U25ZN0ZtX2Y5emdJVnhOTUx3NUVIZ0lDSmx0SThiSjJjRnBLNWEzRW44?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831757"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "南侨机工后人来到保山 路人向其致敬 - 新华网",
+          "title": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T05:56:19+00:00；来源：新华网。",
+            "发布时间：2026-11-21T11:58:24+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82aHdOMHMyMkxKTmJNdnJFdjgway1Xekk0LWlSNV9QWjhMQ20wZHZSWUFYc1FrYzlRbDdHUjRQN1lXdnRnWUpYZlA1ZURmS0RNZ0x1SGpKeG5PMjhMd08xQklQSl9GMUdMMnFTcjFaNFgwaEJIaHQw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "餐盒化作公共座椅：可回收物这样再“上岗” - 新华网",
+          "title": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T05:37:35+00:00；来源：新华网。",
+            "发布时间：2026-11-21T11:44:01+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5md0pNUWhta1pWMWZBcFNNeHJ4TF9PbG5PQmdPNEZ2ZG50aEZoZjZfWHZKSlk0RF9NWm5KT1cxSHdiS1Y3emkwZVV5MnY2dXREZUdVaExlNzJDeGxidi13aWV4NlBVUTliTFcyWGZkbVFMMERWQjd3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "陶冶Vlog：肿瘤医院门口，她送来一碗热饭 - 新华网",
+          "title": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T05:25:48+00:00；来源：新华网。",
+            "发布时间：2026-11-21T11:43:54+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0dJbjFaeHpHMEdGTFZMNllIdGlId3M2WnRFWXMwYWJ5NWtybDJKUEQ1WUNGcDlYamdBV3YzYmxUZ0dvU2dJc2hPek91bXN5R0tiWV9pVzhYR3JHbVA4cFBydFFCM0ZkdzNheHNqazlyX3Q2blg3M3RRczNjTU9CNlFSTQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "意大利多地举行罢工和游行 - 新华网",
+          "title": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T05:00:53+00:00；来源：新华网。",
+            "发布时间：2026-11-21T11:40:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdXhCQmNOYWRpTXUwWlF2b1FMVnR5LVg3RjVvQXE0dDhZSHl4aEVVVVNsM1oxMzVXaFhlY3BDOFZsOHNFRGJ4RU14dnRaS29PeXkteWM1RXBvb3ltTkQ5a1ZqTGQxUy1hU0pUclF5NkcxWWR4YXQ2YmhBNkpKR0U?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "潍宿高铁最长标段连续梁全部合龙 - 新华网",
+          "title": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T04:06:06+00:00；来源：新华网。",
+            "发布时间：2026-11-21T11:30:59+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSDRGV0xWeHBIMTVEbDk3a1VFOWVNZXczcjR1cHZLcFkxd3B6WXdGemZoUk9DeFF1ck13dGZURGVLWnh5NHFuanYtdlRNNERuUTdGQ0duMlZsdUdZZEY3Y1dreEJ0MnUzc0tLdzF2aWtKN1JXYWhiOWxiZ2xKUm8?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5"
             }
           ]
         }
@@ -379,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,9 +404,9 @@
       "asOf": "2026-11-17"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-19"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-19"
     },
     {
-      "title": "国产120kV冷冻透射电子显微镜发布 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fdnd1ZTF3Q0JxRURaRlFmTzFELTVkMmhRcDNYbi1FRGJtck9BZ2R4VFhwLTREMG0yVWM0TGREN18zS3lKak53b3F3eDRXeS02SzlRN0pjaEFSM3J0NThYZjF5VlU1dFFNTklTSlRrdG14ZlN3bG5sbjI2MVhBdw?oc=5",
-      "asOf": "2026-11-21T07:49:04+00:00"
+      "title": "国家数据局：将积极拓展词元服务应用场景",
+      "url": "https://www.cnstock.com/commonDetail/831778",
+      "asOf": "2026-11-21T19:26:00+08:00"
     },
     {
-      "title": "刘家峡水库腾出18.5亿立方米防凌库容迎战凌汛期 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmtyV1MwRGtkUTI0dEhGTWJrdXMzeWhMYkpIckFzZzhJdEtJSWZZWEFqWWJGM2Jkel95MXhFOUdNX2pKWDNUVm42XzRfNW9VRktQaDR3ODdvMlEwY0dZNGpKdHVZaDNhQjJpYlpnSWJkWjlXTEtaZEhoYWVzaWFYeUxn?oc=5",
-      "asOf": "2026-11-21T07:32:55+00:00"
+      "title": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5",
+      "asOf": "2026-11-21T12:19:45+00:00"
     },
     {
-      "title": "英国伦敦举行反战示威集会活动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbU5BMHdyNmJVaVp4d0cwM25XMUdLOGpydzRvOWwta05JSEhGRW9VeERScHNrS1FORk9lblRFNzM4VE1rd2hPN3hKZEgzRG9SNTdFaEg4VHYta2thbklDUmhZVkFFSS1TRHdPOFVUMk9hLTdsRGI0UExXalZydw?oc=5",
-      "asOf": "2026-11-21T06:28:11+00:00"
+      "title": "200余名中外人士徒步寻访“南京安全区” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5",
+      "asOf": "2026-11-21T12:17:18+00:00"
     },
     {
-      "title": "新华视点丨冬来胜景 文旅富民 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NDZ1bDJVRjh1dHhFT216aHZFN2VOX1NVaDF4Tnptd2daTkdyM3BqdG1BVjNYSl94bkdaQWtrZTZkQkVVYWNPNXNWTVZFWUF2LWhuR1FvNWZSVXVZMW0zRjFadDhkT3p6MC1nbG13anhRVHJ3dXRN?oc=5",
-      "asOf": "2026-11-21T06:27:34+00:00"
+      "title": "美元指数，冲击104关口",
+      "url": "https://www.cnstock.com/commonDetail/831751",
+      "asOf": "2026-11-21T12:00:00+08:00"
     },
     {
-      "title": "马来西亚华人张慧清：看了纪念碑 心真的好酸好痛 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQ3Ffd3FSZHJTZUVLNTJycGwwSmVEUzhLem1NWXByWGo2YXVkbnlzcmx6RWlqNE1BVVZfV2llbmZnNnBJU2NxbUxwX2c2U25ZN0ZtX2Y5emdJVnhOTUx3NUVIZ0lDSmx0SThiSjJjRnBLNWEzRW44?oc=5",
-      "asOf": "2026-11-21T05:57:58+00:00"
+      "title": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
+      "url": "https://www.cnstock.com/commonDetail/831757",
+      "asOf": "2026-11-21T12:00:00+08:00"
     },
     {
-      "title": "南侨机工后人来到保山 路人向其致敬 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82aHdOMHMyMkxKTmJNdnJFdjgway1Xekk0LWlSNV9QWjhMQ20wZHZSWUFYc1FrYzlRbDdHUjRQN1lXdnRnWUpYZlA1ZURmS0RNZ0x1SGpKeG5PMjhMd08xQklQSl9GMUdMMnFTcjFaNFgwaEJIaHQw?oc=5",
-      "asOf": "2026-11-21T05:56:19+00:00"
+      "title": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5",
+      "asOf": "2026-11-21T11:58:24+00:00"
     },
     {
-      "title": "餐盒化作公共座椅：可回收物这样再“上岗” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5md0pNUWhta1pWMWZBcFNNeHJ4TF9PbG5PQmdPNEZ2ZG50aEZoZjZfWHZKSlk0RF9NWm5KT1cxSHdiS1Y3emkwZVV5MnY2dXREZUdVaExlNzJDeGxidi13aWV4NlBVUTliTFcyWGZkbVFMMERWQjd3?oc=5",
-      "asOf": "2026-11-21T05:37:35+00:00"
+      "title": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5",
+      "asOf": "2026-11-21T11:44:01+00:00"
     },
     {
-      "title": "陶冶Vlog：肿瘤医院门口，她送来一碗热饭 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0dJbjFaeHpHMEdGTFZMNllIdGlId3M2WnRFWXMwYWJ5NWtybDJKUEQ1WUNGcDlYamdBV3YzYmxUZ0dvU2dJc2hPek91bXN5R0tiWV9pVzhYR3JHbVA4cFBydFFCM0ZkdzNheHNqazlyX3Q2blg3M3RRczNjTU9CNlFSTQ?oc=5",
-      "asOf": "2026-11-21T05:25:48+00:00"
+      "title": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5",
+      "asOf": "2026-11-21T11:43:54+00:00"
     },
     {
-      "title": "意大利多地举行罢工和游行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdXhCQmNOYWRpTXUwWlF2b1FMVnR5LVg3RjVvQXE0dDhZSHl4aEVVVVNsM1oxMzVXaFhlY3BDOFZsOHNFRGJ4RU14dnRaS29PeXkteWM1RXBvb3ltTkQ5a1ZqTGQxUy1hU0pUclF5NkcxWWR4YXQ2YmhBNkpKR0U?oc=5",
-      "asOf": "2026-11-21T05:00:53+00:00"
+      "title": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5",
+      "asOf": "2026-11-21T11:40:22+00:00"
     },
     {
-      "title": "潍宿高铁最长标段连续梁全部合龙 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSDRGV0xWeHBIMTVEbDk3a1VFOWVNZXczcjR1cHZLcFkxd3B6WXdGemZoUk9DeFF1ck13dGZURGVLWnh5NHFuanYtdlRNNERuUTdGQ0duMlZsdUdZZEY3Y1dreEJ0MnUzc0tLdzF2aWtKN1JXYWhiOWxiZ2xKUm8?oc=5",
-      "asOf": "2026-11-21T04:06:06+00:00"
+      "title": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5",
+      "asOf": "2026-11-21T11:30:59+00:00"
     }
   ],
   "events": [
     {
-      "event": "国产120kV冷冻透射电子显微镜发布 - 新华网",
-      "published": "2026-11-21T07:49:04+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fdnd1ZTF3Q0JxRURaRlFmTzFELTVkMmhRcDNYbi1FRGJtck9BZ2R4VFhwLTREMG0yVWM0TGREN18zS3lKak53b3F3eDRXeS02SzlRN0pjaEFSM3J0NThYZjF5VlU1dFFNTklTSlRrdG14ZlN3bG5sbjI2MVhBdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "国产120kV冷冻透射电子显微镜发布 - 新华网"
+      "event": "国家数据局：将积极拓展词元服务应用场景",
+      "originalTitle": "国家数据局：将积极拓展词元服务应用场景",
+      "published": "2026-11-21T19:26:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831778",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "刘家峡水库腾出18.5亿立方米防凌库容迎战凌汛期 - 新华网",
-      "published": "2026-11-21T07:32:55+00:00",
+      "event": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
+      "published": "2026-11-21T12:19:45+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmtyV1MwRGtkUTI0dEhGTWJrdXMzeWhMYkpIckFzZzhJdEtJSWZZWEFqWWJGM2Jkel95MXhFOUdNX2pKWDNUVm42XzRfNW9VRktQaDR3ODdvMlEwY0dZNGpKdHVZaDNhQjJpYlpnSWJkWjlXTEtaZEhoYWVzaWFYeUxn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "刘家峡水库腾出18.5亿立方米防凌库容迎战凌汛期 - 新华网"
+      "originalTitle": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网"
     },
     {
-      "event": "英国伦敦举行反战示威集会活动 - 新华网",
-      "published": "2026-11-21T06:28:11+00:00",
+      "event": "200余名中外人士徒步寻访“南京安全区” - 新华网",
+      "published": "2026-11-21T12:17:18+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JbU5BMHdyNmJVaVp4d0cwM25XMUdLOGpydzRvOWwta05JSEhGRW9VeERScHNrS1FORk9lblRFNzM4VE1rd2hPN3hKZEgzRG9SNTdFaEg4VHYta2thbklDUmhZVkFFSS1TRHdPOFVUMk9hLTdsRGI0UExXalZydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "英国伦敦举行反战示威集会活动 - 新华网"
+      "originalTitle": "200余名中外人士徒步寻访“南京安全区” - 新华网"
     },
     {
-      "event": "新华视点丨冬来胜景 文旅富民 - 新华网",
-      "published": "2026-11-21T06:27:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NDZ1bDJVRjh1dHhFT216aHZFN2VOX1NVaDF4Tnptd2daTkdyM3BqdG1BVjNYSl94bkdaQWtrZTZkQkVVYWNPNXNWTVZFWUF2LWhuR1FvNWZSVXVZMW0zRjFadDhkT3p6MC1nbG13anhRVHJ3dXRN?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华视点丨冬来胜景 文旅富民 - 新华网"
+      "event": "美元指数，冲击104关口",
+      "originalTitle": "美元指数，冲击104关口",
+      "published": "2026-11-21T12:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831751",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "马来西亚华人张慧清：看了纪念碑 心真的好酸好痛 - 新华网",
-      "published": "2026-11-21T05:57:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQ3Ffd3FSZHJTZUVLNTJycGwwSmVEUzhLem1NWXByWGo2YXVkbnlzcmx6RWlqNE1BVVZfV2llbmZnNnBJU2NxbUxwX2c2U25ZN0ZtX2Y5emdJVnhOTUx3NUVIZ0lDSmx0SThiSjJjRnBLNWEzRW44?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "马来西亚华人张慧清：看了纪念碑 心真的好酸好痛 - 新华网"
+      "event": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
+      "originalTitle": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
+      "published": "2026-11-21T12:00:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831757",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "南侨机工后人来到保山 路人向其致敬 - 新华网",
-      "published": "2026-11-21T05:56:19+00:00",
+      "event": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
+      "published": "2026-11-21T11:58:24+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82aHdOMHMyMkxKTmJNdnJFdjgway1Xekk0LWlSNV9QWjhMQ20wZHZSWUFYc1FrYzlRbDdHUjRQN1lXdnRnWUpYZlA1ZURmS0RNZ0x1SGpKeG5PMjhMd08xQklQSl9GMUdMMnFTcjFaNFgwaEJIaHQw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "南侨机工后人来到保山 路人向其致敬 - 新华网"
+      "originalTitle": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网"
     },
     {
-      "event": "餐盒化作公共座椅：可回收物这样再“上岗” - 新华网",
-      "published": "2026-11-21T05:37:35+00:00",
+      "event": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
+      "published": "2026-11-21T11:44:01+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5md0pNUWhta1pWMWZBcFNNeHJ4TF9PbG5PQmdPNEZ2ZG50aEZoZjZfWHZKSlk0RF9NWm5KT1cxSHdiS1Y3emkwZVV5MnY2dXREZUdVaExlNzJDeGxidi13aWV4NlBVUTliTFcyWGZkbVFMMERWQjd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "餐盒化作公共座椅：可回收物这样再“上岗” - 新华网"
+      "originalTitle": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网"
     },
     {
-      "event": "陶冶Vlog：肿瘤医院门口，她送来一碗热饭 - 新华网",
-      "published": "2026-11-21T05:25:48+00:00",
+      "event": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
+      "published": "2026-11-21T11:43:54+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0dJbjFaeHpHMEdGTFZMNllIdGlId3M2WnRFWXMwYWJ5NWtybDJKUEQ1WUNGcDlYamdBV3YzYmxUZ0dvU2dJc2hPek91bXN5R0tiWV9pVzhYR3JHbVA4cFBydFFCM0ZkdzNheHNqazlyX3Q2blg3M3RRczNjTU9CNlFSTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "陶冶Vlog：肿瘤医院门口，她送来一碗热饭 - 新华网"
+      "originalTitle": "印尼马鲁古省附近海域发生7.2级地震 - 新华网"
     },
     {
-      "event": "意大利多地举行罢工和游行 - 新华网",
-      "published": "2026-11-21T05:00:53+00:00",
+      "event": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
+      "published": "2026-11-21T11:40:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdXhCQmNOYWRpTXUwWlF2b1FMVnR5LVg3RjVvQXE0dDhZSHl4aEVVVVNsM1oxMzVXaFhlY3BDOFZsOHNFRGJ4RU14dnRaS29PeXkteWM1RXBvb3ltTkQ5a1ZqTGQxUy1hU0pUclF5NkcxWWR4YXQ2YmhBNkpKR0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "意大利多地举行罢工和游行 - 新华网"
+      "originalTitle": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网"
     },
     {
-      "event": "潍宿高铁最长标段连续梁全部合龙 - 新华网",
-      "published": "2026-11-21T04:06:06+00:00",
+      "event": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
+      "published": "2026-11-21T11:30:59+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSDRGV0xWeHBIMTVEbDk3a1VFOWVNZXczcjR1cHZLcFkxd3B6WXdGemZoUk9DeFF1ck13dGZURGVLWnh5NHFuanYtdlRNNERuUTdGQ0duMlZsdUdZZEY3Y1dreEJ0MnUzc0tLdzF2aWtKN1JXYWhiOWxiZ2xKUm8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "潍宿高铁最长标段连续梁全部合龙 - 新华网"
+      "originalTitle": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,9 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
