@@ -1,0 +1,601 @@
+{
+  "edition": "财经晨报 · 2026-11-21",
+  "date": "更新于北京时间 2026-11-21 10:11",
+  "reportDate": "2026-11-21",
+  "updatedAt": "2026-11-21T10:11:04+08:00",
+  "status": "published",
+  "generatorVersion": 3,
+  "title": "财经资料（待核验）",
+  "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "notification": {
+    "title": "2026-11-21 财经资料（待核验）",
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+  },
+  "pages": [
+    {
+      "id": "overview",
+      "eyebrow": "01 · 市场主线",
+      "title": "今天最重要的市场主线",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-19：7,175.83 点；较 2026-11-18 变化 -147.80 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "eyebrow": "02 · 市场数据",
+      "title": "关键市场数据",
+      "lead": "逐项提供日期、前值、变化和来源；期货与现货分开。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "Brent 原油现货",
+          "summary": "92.94 美元/桶；变化 +0.04 美元/桶",
+          "paragraphs": [
+            "观测日 2026-11-17；前值 92.90（2026-11-16）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 2 年期国债收益率",
+          "summary": "4.76 %；变化 -0.04 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "4.92 %；变化 -0.12 个百分点",
+          "paragraphs": [
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元指数 DXY",
+          "summary": "103.90 点；变化 +0.04 点",
+          "paragraphs": [
+            "观测日 2026-11-19；前值 103.86（2026-11-18）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "7,175.83 点；变化 -147.80 点",
+          "paragraphs": [
+            "观测日 2026-11-19；前值 7,323.63（2026-11-18）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "纳斯达克综合指数",
+          "summary": "23,879.20 点；变化 -550.68 点",
+          "paragraphs": [
+            "观测日 2026-11-19；前值 24,429.88（2026-11-18）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/%5EIXIC/"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美元兑人民币",
+          "summary": "6.6665 人民币/美元；变化 -0.0011 人民币/美元",
+          "paragraphs": [
+            "观测日 2026-11-20；前值 6.6676（2026-11-19）；来源：Yahoo Finance。"
+          ],
+          "links": [
+            {
+              "title": "原始数据与口径",
+              "url": "https://finance.yahoo.com/quote/CNY%3DX/"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "tone": "warning",
+          "title": "数据缺口",
+          "text": "滞后：；缺失：gold"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "eyebrow": "03 · 财经新闻",
+      "title": "过去 24 小时财经线索",
+      "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T09:11:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：3900美元/盎司、3800美元/盎司、3700美元/盎司、3600美元/盎司，11月16日至20日，国际现货黄金仅用5个交易日便失守四道整数关口，创今年3月以来最惨一周。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/831742"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会：持续打击编造传播涉资本市场网络谣言行为",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：从捏造“互联网要按25%交税”，到利用人工智能生成“证监会暂缓IPO”假消息，再到篡改媒体快讯分享页截图伪造监管执法信息，以及杜撰上市公司“裁员30%”博关注，4起案例覆盖了税收政策、监管政策、执法信息、涉企经营等场景，涉案人员均被依法作出"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/831731"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "阶段性调整未改底色 多家机构看好A股估值与韧性",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：近日，A股市场出现阶段性调整，多家公募基金、券商等机构密集发声。上海证券报记者梳理发现，机构观点在三个方面形成共识：一是A股调整受外部与内部双重因素影响；二是主要指数估值已处于历史低位；三是市场韧性正由盈利修复与政策工具共同支撑。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/831732"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "突发利空，英伟达跌超14%",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T09:10:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：美股遭遇“黑色星期五”，三大指数全线重挫。当地时间11月20日，道指跌1.93%，标普500指数跌3.7%，纳指跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/831749"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "亚太媒体合作伙伴计划正式成立",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831721"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831722"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T08:23:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831725"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831258"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831313"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "连城数控：约1093.90万股限售股将于11月25日解禁",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-20T23:46:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/831309"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "eyebrow": "04 · 产业研究",
+      "title": "产业利润增长雷达",
+      "lead": "",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "今日线索",
+          "summary": "今日暂无新增线索。",
+          "paragraphs": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "eyebrow": "05 · 每日一课",
+      "title": "第 44 课：情景分析",
+      "lead": "按日期推进；先认识数据，再学习定价和风险。",
+      "blocks": [
+        {
+          "type": "explainer",
+          "title": "情景分析",
+          "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
+          "paragraphs": [
+            "本期实例：标普 500 指数，2026-11-18 前值 7323.6299，2026-11-19 现值 7175.8301，变化 -147.7998。",
+            "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
+          ],
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "eyebrow": "06 · 下一步",
+      "title": "接下来重点观察什么",
+      "lead": "用数据检验判断。",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "核对同一交易日的 2 年与 10 年美债收益率：区分短期政策预期和长期资金价格。",
+            "核对原油同一合约的前后价格与库存数据：判断价格变化是否有供需证据。",
+            "核对企业公告中的订单金额、交付时间和现金回款，观察收入确认能否转化为经营现金流。"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-17"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+      "url": "https://www.cnstock.com/commonDetail/831742",
+      "asOf": "2026-11-21T09:11:00+08:00"
+    },
+    {
+      "title": "证监会：持续打击编造传播涉资本市场网络谣言行为",
+      "url": "https://www.cnstock.com/commonDetail/831731",
+      "asOf": "2026-11-21T09:10:00+08:00"
+    },
+    {
+      "title": "阶段性调整未改底色 多家机构看好A股估值与韧性",
+      "url": "https://www.cnstock.com/commonDetail/831732",
+      "asOf": "2026-11-21T09:10:00+08:00"
+    },
+    {
+      "title": "突发利空，英伟达跌超14%",
+      "url": "https://www.cnstock.com/commonDetail/831749",
+      "asOf": "2026-11-21T09:10:00+08:00"
+    },
+    {
+      "title": "亚太媒体合作伙伴计划正式成立",
+      "url": "https://www.cnstock.com/commonDetail/831721",
+      "asOf": "2026-11-21T08:23:00+08:00"
+    },
+    {
+      "title": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+      "url": "https://www.cnstock.com/commonDetail/831722",
+      "asOf": "2026-11-21T08:23:00+08:00"
+    },
+    {
+      "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+      "url": "https://www.cnstock.com/commonDetail/831725",
+      "asOf": "2026-11-21T08:23:00+08:00"
+    },
+    {
+      "title": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
+      "url": "https://www.cnstock.com/commonDetail/831258",
+      "asOf": "2026-11-20T23:46:00+08:00"
+    },
+    {
+      "title": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
+      "url": "https://www.cnstock.com/commonDetail/831313",
+      "asOf": "2026-11-20T23:46:00+08:00"
+    },
+    {
+      "title": "连城数控：约1093.90万股限售股将于11月25日解禁",
+      "url": "https://www.cnstock.com/commonDetail/831309",
+      "asOf": "2026-11-20T23:46:00+08:00"
+    }
+  ],
+  "events": [
+    {
+      "event": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+      "originalTitle": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+      "published": "2026-11-21T09:11:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831742",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831742",
+        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
+        "sha256": "22d188cabed4c041103fd4e7451a2cb13a0150897a9a6504c434c296895e4ebe",
+        "paragraphCount": 13,
+        "excerpt": "3900美元/盎司、3800美元/盎司、3700美元/盎司、3600美元/盎司，11月16日至20日，国际现货黄金仅用5个交易日便失守四道整数关口，创今年3月以来最惨一周。"
+      }
+    },
+    {
+      "event": "证监会：持续打击编造传播涉资本市场网络谣言行为",
+      "originalTitle": "证监会：持续打击编造传播涉资本市场网络谣言行为",
+      "published": "2026-11-21T09:10:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831731",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831731",
+        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
+        "sha256": "4de0eeb8f7c583347b28b4d66665b1a6bfaa459c4abb7de2b7d8ec8d571a2c80",
+        "paragraphCount": 12,
+        "excerpt": "从捏造“互联网要按25%交税”，到利用人工智能生成“证监会暂缓IPO”假消息，再到篡改媒体快讯分享页截图伪造监管执法信息，以及杜撰上市公司“裁员30%”博关注，4起案例覆盖了税收政策、监管政策、执法信息、涉企经营等场景，涉案人员均被依法作出"
+      }
+    },
+    {
+      "event": "阶段性调整未改底色 多家机构看好A股估值与韧性",
+      "originalTitle": "阶段性调整未改底色 多家机构看好A股估值与韧性",
+      "published": "2026-11-21T09:10:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831732",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831732",
+        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
+        "sha256": "a0499ddfe62ff3a0a33b2a200efeb5656cb28042f30536c535ec0d51d088908a",
+        "paragraphCount": 16,
+        "excerpt": "近日，A股市场出现阶段性调整，多家公募基金、券商等机构密集发声。上海证券报记者梳理发现，机构观点在三个方面形成共识：一是A股调整受外部与内部双重因素影响；二是主要指数估值已处于历史低位；三是市场韧性正由盈利修复与政策工具共同支撑。"
+      }
+    },
+    {
+      "event": "突发利空，英伟达跌超14%",
+      "originalTitle": "突发利空，英伟达跌超14%",
+      "published": "2026-11-21T09:10:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831749",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/831749",
+        "retrievedAt": "2026-11-21T10:11:04.938165+08:00",
+        "sha256": "591443be4c470a9f6021ec0358fda7e6ebbf75c49b57e209cb27d8d513a844f1",
+        "paragraphCount": 21,
+        "excerpt": "美股遭遇“黑色星期五”，三大指数全线重挫。当地时间11月20日，道指跌1.93%，标普500指数跌3.7%，纳指跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。"
+      }
+    },
+    {
+      "event": "亚太媒体合作伙伴计划正式成立",
+      "originalTitle": "亚太媒体合作伙伴计划正式成立",
+      "published": "2026-11-21T08:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/831721",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+      "originalTitle": "聚焦APEC｜“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+      "published": "2026-11-21T08:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/831722",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+      "originalTitle": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+      "published": "2026-11-21T08:23:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/831725",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
+      "originalTitle": "科大讯飞：已斥资约9061.55万元回购241.16万股股份",
+      "published": "2026-11-20T23:46:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831258",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
+      "originalTitle": "顺网科技：拟斥资约0.50亿元至1.00亿元回购股份并注销",
+      "published": "2026-11-20T23:46:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831313",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "连城数控：约1093.90万股限售股将于11月25日解禁",
+      "originalTitle": "连城数控：约1093.90万股限售股将于11月25日解禁",
+      "published": "2026-11-20T23:46:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831309",
+      "evidenceLevel": "headline-only"
+    }
+  ],
+  "quality": {
+    "mode": "limited",
+    "indicatorCount": 7,
+    "news24hCount": 10,
+    "reviewedNewsCount": 0,
+    "radarCount": 0,
+    "staleIndicators": [],
+    "unavailableIndicators": [
+      "gold"
+    ],
+    "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
+  }
+}
