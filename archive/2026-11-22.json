@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 14:31",
+  "date": "更新于北京时间 2026-11-22 14:50",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T14:31:49+08:00",
+  "updatedAt": "2026-11-22T14:50:16+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.63 %；变化 -0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,66 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:35:22+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "来松花江畔，看雾凇仙境到底有多美 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:35:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTRoZUtYUVNBaTRmTF9yTU5CUkhQMDU4SzNBblBfNElmZGh4c1FtV0FPUzI3d3RBNUdrNUQwWnRWLUptd3JZOEFoNlNhNmloekJ1VXlYRko4RjBseW05eUZ3VjU5clBMcVJ0MjdOeDVYZFVJajktTGtudlBxTkx5Qy1RSQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:34:35+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:15:47+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -264,66 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T03:08:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T03:03:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T02:59:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T02:44:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,13 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
     },
     {
@@ -394,8 +389,13 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,14 +404,34 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-19"
+      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5",
+      "asOf": "2026-11-22T06:35:22+00:00"
+    },
+    {
+      "title": "来松花江畔，看雾凇仙境到底有多美 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTRoZUtYUVNBaTRmTF9yTU5CUkhQMDU4SzNBblBfNElmZGh4c1FtV0FPUzI3d3RBNUdrNUQwWnRWLUptd3JZOEFoNlNhNmloekJ1VXlYRko4RjBseW05eUZ3VjU5clBMcVJ0MjdOeDVYZFVJajktTGtudlBxTkx5Qy1RSQ?oc=5",
+      "asOf": "2026-11-22T06:35:08+00:00"
+    },
+    {
+      "title": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5",
+      "asOf": "2026-11-22T06:34:35+00:00"
+    },
+    {
+      "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
+      "asOf": "2026-11-22T06:15:47+00:00"
     },
     {
       "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
@@ -442,29 +462,41 @@
       "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
       "asOf": "2026-11-22T03:13:01+00:00"
-    },
-    {
-      "title": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5",
-      "asOf": "2026-11-22T03:08:07+00:00"
-    },
-    {
-      "title": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5",
-      "asOf": "2026-11-22T03:03:35+00:00"
-    },
-    {
-      "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5",
-      "asOf": "2026-11-22T02:59:08+00:00"
-    },
-    {
-      "title": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
-      "asOf": "2026-11-22T02:44:08+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
+      "published": "2026-11-22T06:35:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网"
+    },
+    {
+      "event": "来松花江畔，看雾凇仙境到底有多美 - 新华网",
+      "published": "2026-11-22T06:35:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTRoZUtYUVNBaTRmTF9yTU5CUkhQMDU4SzNBblBfNElmZGh4c1FtV0FPUzI3d3RBNUdrNUQwWnRWLUptd3JZOEFoNlNhNmloekJ1VXlYRko4RjBseW05eUZ3VjU5clBMcVJ0MjdOeDVYZFVJajktTGtudlBxTkx5Qy1RSQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "来松花江畔，看雾凇仙境到底有多美 - 新华网"
+    },
+    {
+      "event": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
+      "published": "2026-11-22T06:34:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网"
+    },
+    {
+      "event": "战事影响能源供应 伊朗实施限电措施 - 新华网",
+      "published": "2026-11-22T06:15:47+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "战事影响能源供应 伊朗实施限电措施 - 新华网"
+    },
     {
       "event": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
       "published": "2026-11-22T06:09:29+00:00",
@@ -512,38 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "经济日报：“温差”待消弭 信心不可失 - 新华网"
-    },
-    {
-      "event": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
-      "published": "2026-11-22T03:08:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网"
-    },
-    {
-      "event": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
-      "published": "2026-11-22T03:03:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网"
-    },
-    {
-      "event": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
-      "published": "2026-11-22T02:59:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网"
-    },
-    {
-      "event": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
-      "published": "2026-11-22T02:44:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网"
     }
   ],
   "quality": {
