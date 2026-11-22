@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 11:21",
+  "date": "更新于北京时间 2026-11-22 11:55",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T11:21:31+08:00",
+  "updatedAt": "2026-11-22T11:55:28+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6623 人民币/美元；变化 -0.0042 人民币/美元",
+          "summary": "6.6665 人民币/美元；变化 -0.0011 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-21；前值 6.6665（2026-11-20）；来源：Yahoo Finance。"
+            "观测日 2026-11-20；前值 6.6676（2026-11-19）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -237,6 +237,36 @@
         },
         {
           "type": "explainer",
+          "title": "创新求进，共享机遇 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T02:32:40+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T02:30:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -292,36 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T23:18:19+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "加拿大正式加入北约创新基金 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T23:10:07+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5"
             }
           ]
         }
@@ -384,19 +384,19 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-21"
+      "asOf": "2026-11-20"
     },
     {
       "title": "Brent 原油期货 · Yahoo Finance",
@@ -434,6 +434,16 @@
       "asOf": "2026-11-22T02:44:08+00:00"
     },
     {
+      "title": "创新求进，共享机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5",
+      "asOf": "2026-11-22T02:32:40+00:00"
+    },
+    {
+      "title": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5",
+      "asOf": "2026-11-22T02:30:37+00:00"
+    },
+    {
       "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5",
       "asOf": "2026-11-22T01:27:30+00:00"
@@ -452,16 +462,6 @@
       "title": "法国连续第6个周六举行示威活动 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
       "asOf": "2026-11-22T01:15:26+00:00"
-    },
-    {
-      "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5",
-      "asOf": "2026-11-21T23:18:19+00:00"
-    },
-    {
-      "title": "加拿大正式加入北约创新基金 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
-      "asOf": "2026-11-21T23:10:07+00:00"
     }
   ],
   "events": [
@@ -498,6 +498,22 @@
       "originalTitle": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网"
     },
     {
+      "event": "创新求进，共享机遇 - 新华网",
+      "published": "2026-11-22T02:32:40+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "创新求进，共享机遇 - 新华网"
+    },
+    {
+      "event": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
+      "published": "2026-11-22T02:30:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网"
+    },
+    {
       "event": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
       "published": "2026-11-22T01:27:30+00:00",
       "publisher": "新华网",
@@ -528,22 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "法国连续第6个周六举行示威活动 - 新华网"
-    },
-    {
-      "event": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
-      "published": "2026-11-21T23:18:19+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网"
-    },
-    {
-      "event": "加拿大正式加入北约创新基金 - 新华网",
-      "published": "2026-11-21T23:10:07+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "加拿大正式加入北约创新基金 - 新华网"
     }
   ],
   "quality": {
