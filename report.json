@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 14:50",
+  "date": "更新于北京时间 2026-11-22 15:24",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T14:50:16+08:00",
+  "updatedAt": "2026-11-22T15:24:32+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 -0.13 个百分点",
+          "summary": "4.76 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "地震发生的瞬间 他们的第一反应是叫住车 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T07:04:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRlB2ZEsyb2I3Y1d4bEJRbFYwTDFKWWI4cFpHN01xR0FKTHMxSE5jQ3NYZXpRU0ZQSHdGUGFnTURoZ2gtSVhRb2x3MUh4QW9XVzNYX0d4ZGdRdXBWSllDa1hmSXdDMWlIMy0xQ1h5anFHWFV5c1dEMURDUHQxSE0?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:56:31+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "铁路车次编排改革问答丨普速旅客列车的车次字头字母为何采用英文发音？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:56:18+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTlnWUpXM2dxekFLV0dacXBJM2d6SGpYaUhrRV9PWlp4U2JxbmlLaDhULTF4cGFtZnZuTEdzR18wajUxaTdwMXVIT1FUQ0pLblEwQVRPazV5VHFFZzZBZDdQMzdfWkJYRHlfdFVoamxmeGI0c2xjaGhYZ3NaYmZPQkV4Yw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:56:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "雅鲁藏布江生物多样性图鉴：来自湿地的消息 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:52:12+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xa2dacEhrZ1o1M3VOT1M1XzJlLUJFclp0b085NEI1bzQ0M2JKT1ZJNzYzWU02R1RJWGFyaEZHbGtYS1dXdUwwcFdKSmRCd041NkNmMHRkZUFpa0I1b0xBVmpVbHpYTUxqdVJYbUc1THdXdUNSVFdn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -222,6 +297,21 @@
         },
         {
           "type": "explainer",
+          "title": "万鸟翔集绘就吉林生态画卷 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:31:04+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSzVGd3JjekdwUTI2Zmp2T2h6bzFQMTB6bG1qWW84Rkd4N0lmSmJWLUhYMHlmS1JvTFo4bUk5c1hfdE96d05ZNF9paGRkellDMFlSZVZId2l5YWVvRWI2dk42SnRtS181NkNnb2RJTFFOaWhIQWNoM0p0NVJSSXc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -232,96 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T06:09:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T04:47:24+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T04:01:33+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T03:49:14+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "印尼糖果厂火灾已造成3人死亡 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T03:42:42+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T03:13:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5"
             }
           ]
         }
@@ -379,8 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-20"
     },
     {
@@ -389,13 +389,13 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,14 +404,39 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-20"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-20"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "地震发生的瞬间 他们的第一反应是叫住车 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRlB2ZEsyb2I3Y1d4bEJRbFYwTDFKWWI4cFpHN01xR0FKTHMxSE5jQ3NYZXpRU0ZQSHdGUGFnTURoZ2gtSVhRb2x3MUh4QW9XVzNYX0d4ZGdRdXBWSllDa1hmSXdDMWlIMy0xQ1h5anFHWFV5c1dEMURDUHQxSE0?oc=5",
+      "asOf": "2026-11-22T07:04:26+00:00"
+    },
+    {
+      "title": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5",
+      "asOf": "2026-11-22T06:56:31+00:00"
+    },
+    {
+      "title": "铁路车次编排改革问答丨普速旅客列车的车次字头字母为何采用英文发音？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTlnWUpXM2dxekFLV0dacXBJM2d6SGpYaUhrRV9PWlp4U2JxbmlLaDhULTF4cGFtZnZuTEdzR18wajUxaTdwMXVIT1FUQ0pLblEwQVRPazV5VHFFZzZBZDdQMzdfWkJYRHlfdFVoamxmeGI0c2xjaGhYZ3NaYmZPQkV4Yw?oc=5",
+      "asOf": "2026-11-22T06:56:18+00:00"
+    },
+    {
+      "title": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5",
+      "asOf": "2026-11-22T06:56:08+00:00"
+    },
+    {
+      "title": "雅鲁藏布江生物多样性图鉴：来自湿地的消息 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xa2dacEhrZ1o1M3VOT1M1XzJlLUJFclp0b085NEI1bzQ0M2JKT1ZJNzYzWU02R1RJWGFyaEZHbGtYS1dXdUwwcFdKSmRCd041NkNmMHRkZUFpa0I1b0xBVmpVbHpYTUxqdVJYbUc1THdXdUNSVFdn?oc=5",
+      "asOf": "2026-11-22T06:52:12+00:00"
     },
     {
       "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
@@ -429,42 +454,57 @@
       "asOf": "2026-11-22T06:34:35+00:00"
     },
     {
+      "title": "万鸟翔集绘就吉林生态画卷 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSzVGd3JjekdwUTI2Zmp2T2h6bzFQMTB6bG1qWW84Rkd4N0lmSmJWLUhYMHlmS1JvTFo4bUk5c1hfdE96d05ZNF9paGRkellDMFlSZVZId2l5YWVvRWI2dk42SnRtS181NkNnb2RJTFFOaWhIQWNoM0p0NVJSSXc?oc=5",
+      "asOf": "2026-11-22T06:31:04+00:00"
+    },
+    {
       "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
       "asOf": "2026-11-22T06:15:47+00:00"
-    },
-    {
-      "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5",
-      "asOf": "2026-11-22T06:09:29+00:00"
-    },
-    {
-      "title": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5",
-      "asOf": "2026-11-22T04:47:24+00:00"
-    },
-    {
-      "title": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5",
-      "asOf": "2026-11-22T04:01:33+00:00"
-    },
-    {
-      "title": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5",
-      "asOf": "2026-11-22T03:49:14+00:00"
-    },
-    {
-      "title": "印尼糖果厂火灾已造成3人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5",
-      "asOf": "2026-11-22T03:42:42+00:00"
-    },
-    {
-      "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
-      "asOf": "2026-11-22T03:13:01+00:00"
     }
   ],
   "events": [
+    {
+      "event": "地震发生的瞬间 他们的第一反应是叫住车 - 新华网",
+      "published": "2026-11-22T07:04:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRlB2ZEsyb2I3Y1d4bEJRbFYwTDFKWWI4cFpHN01xR0FKTHMxSE5jQ3NYZXpRU0ZQSHdGUGFnTURoZ2gtSVhRb2x3MUh4QW9XVzNYX0d4ZGdRdXBWSllDa1hmSXdDMWlIMy0xQ1h5anFHWFV5c1dEMURDUHQxSE0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "地震发生的瞬间 他们的第一反应是叫住车 - 新华网"
+    },
+    {
+      "event": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
+      "published": "2026-11-22T06:56:31+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网"
+    },
+    {
+      "event": "铁路车次编排改革问答丨普速旅客列车的车次字头字母为何采用英文发音？ - 新华网",
+      "published": "2026-11-22T06:56:18+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTlnWUpXM2dxekFLV0dacXBJM2d6SGpYaUhrRV9PWlp4U2JxbmlLaDhULTF4cGFtZnZuTEdzR18wajUxaTdwMXVIT1FUQ0pLblEwQVRPazV5VHFFZzZBZDdQMzdfWkJYRHlfdFVoamxmeGI0c2xjaGhYZ3NaYmZPQkV4Yw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "铁路车次编排改革问答丨普速旅客列车的车次字头字母为何采用英文发音？ - 新华网"
+    },
+    {
+      "event": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
+      "published": "2026-11-22T06:56:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网"
+    },
+    {
+      "event": "雅鲁藏布江生物多样性图鉴：来自湿地的消息 - 新华网",
+      "published": "2026-11-22T06:52:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xa2dacEhrZ1o1M3VOT1M1XzJlLUJFclp0b085NEI1bzQ0M2JKT1ZJNzYzWU02R1RJWGFyaEZHbGtYS1dXdUwwcFdKSmRCd041NkNmMHRkZUFpa0I1b0xBVmpVbHpYTUxqdVJYbUc1THdXdUNSVFdn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "雅鲁藏布江生物多样性图鉴：来自湿地的消息 - 新华网"
+    },
     {
       "event": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
       "published": "2026-11-22T06:35:22+00:00",
@@ -490,60 +530,20 @@
       "originalTitle": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网"
     },
     {
+      "event": "万鸟翔集绘就吉林生态画卷 - 新华网",
+      "published": "2026-11-22T06:31:04+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSzVGd3JjekdwUTI2Zmp2T2h6bzFQMTB6bG1qWW84Rkd4N0lmSmJWLUhYMHlmS1JvTFo4bUk5c1hfdE96d05ZNF9paGRkellDMFlSZVZId2l5YWVvRWI2dk42SnRtS181NkNnb2RJTFFOaWhIQWNoM0p0NVJSSXc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "万鸟翔集绘就吉林生态画卷 - 新华网"
+    },
+    {
       "event": "战事影响能源供应 伊朗实施限电措施 - 新华网",
       "published": "2026-11-22T06:15:47+00:00",
       "publisher": "新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "战事影响能源供应 伊朗实施限电措施 - 新华网"
-    },
-    {
-      "event": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
-      "published": "2026-11-22T06:09:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网"
-    },
-    {
-      "event": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
-      "published": "2026-11-22T04:47:24+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网"
-    },
-    {
-      "event": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
-      "published": "2026-11-22T04:01:33+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网"
-    },
-    {
-      "event": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
-      "published": "2026-11-22T03:49:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网"
-    },
-    {
-      "event": "印尼糖果厂火灾已造成3人死亡 - 新华网",
-      "published": "2026-11-22T03:42:42+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "印尼糖果厂火灾已造成3人死亡 - 新华网"
-    },
-    {
-      "event": "经济日报：“温差”待消弭 信心不可失 - 新华网",
-      "published": "2026-11-22T03:13:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "经济日报：“温差”待消弭 信心不可失 - 新华网"
     }
   ],
   "quality": {
