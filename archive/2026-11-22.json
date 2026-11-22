@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 11:55",
+  "date": "更新于北京时间 2026-11-22 14:31",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T11:55:28+08:00",
+  "updatedAt": "2026-11-22T14:31:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-20：92.57 美元/桶；较 2026-11-19 变化 +0.59 美元/桶。",
+          "summary": "2026-11-20：89.95 美元/桶；较 2026-11-19 变化 -2.03 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "92.57 美元/桶；变化 +0.59 美元/桶",
+          "summary": "89.95 美元/桶；变化 -2.03 美元/桶",
           "paragraphs": [
             "观测日 2026-11-20；前值 91.98（2026-11-19）；来源：Yahoo Finance。"
           ],
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.04 %；变化 -0.03 个百分点",
+          "summary": "4.92 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T06:09:29+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T04:47:24+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T04:01:33+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T03:49:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "印尼糖果厂火灾已造成3人死亡 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T03:42:42+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -207,6 +282,21 @@
         },
         {
           "type": "explainer",
+          "title": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T03:03:35+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -232,96 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "创新求进，共享机遇 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T02:32:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T02:30:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T01:27:30+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T01:25:43+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "权威数读·观中国（11月15日-11月21日） - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T01:17:32+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "法国连续第6个周六举行示威活动 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-22T01:15:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5"
             }
           ]
         }
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
@@ -391,6 +386,11 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,14 +404,39 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-19"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-19"
+      "title": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5",
+      "asOf": "2026-11-22T06:09:29+00:00"
+    },
+    {
+      "title": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5",
+      "asOf": "2026-11-22T04:47:24+00:00"
+    },
+    {
+      "title": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5",
+      "asOf": "2026-11-22T04:01:33+00:00"
+    },
+    {
+      "title": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5",
+      "asOf": "2026-11-22T03:49:14+00:00"
+    },
+    {
+      "title": "印尼糖果厂火灾已造成3人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5",
+      "asOf": "2026-11-22T03:42:42+00:00"
     },
     {
       "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
@@ -424,6 +449,11 @@
       "asOf": "2026-11-22T03:08:07+00:00"
     },
     {
+      "title": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5",
+      "asOf": "2026-11-22T03:03:35+00:00"
+    },
+    {
       "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5",
       "asOf": "2026-11-22T02:59:08+00:00"
@@ -432,39 +462,49 @@
       "title": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
       "asOf": "2026-11-22T02:44:08+00:00"
-    },
-    {
-      "title": "创新求进，共享机遇 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5",
-      "asOf": "2026-11-22T02:32:40+00:00"
-    },
-    {
-      "title": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5",
-      "asOf": "2026-11-22T02:30:37+00:00"
-    },
-    {
-      "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5",
-      "asOf": "2026-11-22T01:27:30+00:00"
-    },
-    {
-      "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5",
-      "asOf": "2026-11-22T01:25:43+00:00"
-    },
-    {
-      "title": "权威数读·观中国（11月15日-11月21日） - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5",
-      "asOf": "2026-11-22T01:17:32+00:00"
-    },
-    {
-      "title": "法国连续第6个周六举行示威活动 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
-      "asOf": "2026-11-22T01:15:26+00:00"
     }
   ],
   "events": [
+    {
+      "event": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网",
+      "published": "2026-11-22T06:09:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRF9XNTJPWVBiT3J1bGpnVUtpNThvUTFjRzNkWWZ2Z19kMXJPa180SnYxaG5aSkxUZG1td2RMaDg2SDBzNURmMVFZSG5HQUVwRFJqa1FFeDRSQVc3N1J4UTZRNHI4b1RGbWJ3ejBPZUFTRC1aU2lBNzRuTnlxMW8?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊美军事冲突持续 双方表态愿谈判达成协议 - 新华网"
+    },
+    {
+      "event": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网",
+      "published": "2026-11-22T04:47:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMzVsT0hwck9WS3VMYkxwOGFjdjdFeG1ZWDdLbC1Fb0daMmlxNkxLVEk0V1IwM2xTQnZiN2dNVnZtaGpzNmFGLXh2dVBEZ0FXOGZCOUhWYU5Qc1lOM08wTXpkbm82VEQxYnZyQm1GRzU0ekFkM1JJ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "历史经典产业焕新丨长白山人参：本草珍材的科学赋能 - 新华网"
+    },
+    {
+      "event": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网",
+      "published": "2026-11-22T04:01:33+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlF1MDRKZzlmYVNhZVhBaXB3bGgyUVpDc0F2Znd5MmNTRHNBak5IN1ZKM1FBMnVnVmFHQmhseVFKUnhMZ3E4QzVRelZnX3daRlhVV1FjVHNXbW5GRmJOLWwyb1NqeUVKNzJacEdDZGo4Q3owTW1pRlZkX0ZnZUNtSHVCbw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "共听雨林长歌 海南热带雨林保护实践提供中国方案 - 新华网"
+    },
+    {
+      "event": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网",
+      "published": "2026-11-22T03:49:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZFlEZWVaSUZCa2RMUUozQ0dqNkdBdnJtVGd6NV81NkhqT0NmUmcxZ1dGbEZDb0lJN09tWEtDbnNfSzRaSHRvRkdzeXd5V0RvOFhOTUh1T2hLaUVVMThpUTMycWdlVXJqRkVoUEdqY0RkLWJaajNCQUs5N0tyZDg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "历史经典产业焕新丨云南茶叶：一片茶叶的双向突围 - 新华网"
+    },
+    {
+      "event": "印尼糖果厂火灾已造成3人死亡 - 新华网",
+      "published": "2026-11-22T03:42:42+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWkZNS19VUmQ1TERqZkNQdWpLNF9KZnJJQlg2dVlnSGFxaXdRUGZPa2cyODZYdWxFMVdac3Qta2J5OXFUSGZsOXBNckdpdUpFbmVURmM5TUFmTVdBc0xseUoxNk40b3BBVldXVm5aSUM4S1RtVUxBVHR5Y25neUU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "印尼糖果厂火灾已造成3人死亡 - 新华网"
+    },
     {
       "event": "经济日报：“温差”待消弭 信心不可失 - 新华网",
       "published": "2026-11-22T03:13:01+00:00",
@@ -482,6 +522,14 @@
       "originalTitle": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网"
     },
     {
+      "event": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网",
+      "published": "2026-11-22T03:03:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbmJ5czd4REpteC1qMzR2ay13TjVabUk1dno0NE1fNFRqZ0FJSFR0ZE1ZVk1JMWlZLVJEZ1lXMlA3c2RsbkViTEVvZXJueGxTOVFjOV9zZnh4M0dFNVdwUWJJb2pMelo0OTVEcFMtVlpxemx4ci01YVJyLXVyN1E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第五批中国援基里巴斯医疗队受基卫生部表彰 - 新华网"
+    },
+    {
       "event": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
       "published": "2026-11-22T02:59:08+00:00",
       "publisher": "新华网",
@@ -496,54 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网"
-    },
-    {
-      "event": "创新求进，共享机遇 - 新华网",
-      "published": "2026-11-22T02:32:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTcU5ZNlpFR2Z6eXdhTHdxenZtTUg0aEoxMWc4N2lOXzN2Z1oyNjB2QUk5MkJqZTJGZGFTa05lS1VhRWE0bXF1QjNKbHUwbGxDdEUtQTlIRnN2cHlxbHRWdnpVblFDM3pXS0Z5R1dKRDdhXy1fc05mYTFtM2VHaW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "创新求进，共享机遇 - 新华网"
-    },
-    {
-      "event": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网",
-      "published": "2026-11-22T02:30:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WVFZYXdkSUdqUWotSk1kd0xFalRoWUR2VEhzcE5yM0JxZi16QkJNcmx0enh3TEZacXEya3BIaXJLTkdYdklLMW9vZVdOa2dOT0NNZzcxU2UxNGRKVWN1bEVta05Sd1NleXBnT21RRXd4dmRNQkl5OHhrNTRqSmM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "记者手记丨这条造福非洲的“自由之路”正在激活 - 新华网"
-    },
-    {
-      "event": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
-      "published": "2026-11-22T01:27:30+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网"
-    },
-    {
-      "event": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
-      "published": "2026-11-22T01:25:43+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网"
-    },
-    {
-      "event": "权威数读·观中国（11月15日-11月21日） - 新华网",
-      "published": "2026-11-22T01:17:32+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "权威数读·观中国（11月15日-11月21日） - 新华网"
-    },
-    {
-      "event": "法国连续第6个周六举行示威活动 - 新华网",
-      "published": "2026-11-22T01:15:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "法国连续第6个周六举行示威活动 - 新华网"
     }
   ],
   "quality": {
