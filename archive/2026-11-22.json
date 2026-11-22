@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 15:58",
+  "date": "更新于北京时间 2026-11-22 20:36",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T15:58:06+08:00",
+  "updatedAt": "2026-11-22T20:36:24+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "5.04 %；变化 -0.03 个百分点",
+          "summary": "4.92 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "热爱与执着 南京保洁阿姨办起了个人画展 - 新华网",
+          "title": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T07:35:36+00:00；来源：新华网。",
+            "发布时间：2026-11-22T19:38:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMnhuZXlXNDRFUzBWLUU5WndhZWM5YXNtdjIwMFR2T2ZFLTJGcERKRTNya2ktTDFqaDg2RjRJcnZzdDdrLVhiVmlfaVJ2cUY4RWo5UUVlLW9MVk1UZDl2eEdQOGRNVlRHWm0wNVdHX3psZTl1aVdvN3U5ZTVSTTQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831842"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "欧日水星探测器进入环水星轨道 - 新华网",
+          "title": "创业板将引入做市商制度",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T07:09:54+00:00；来源：新华网。",
+            "发布时间：2026-11-22T19:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMWdad1RnMUNSVU9IMGZremktbDRqN09nbG9ma2tPMVZZZ0hHaDR3WWRVR3NRd1NfRmxaSkY4djgyUkxUSmFHWHh5UmRhY2N2ZnpRVEtFTGR1RnpqN290OFNaOGJqN0VOR0hnR1dwdEFvM3pHbmV6SXpsblZEcW8?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831839"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "阿富汗首都发生枪战 警方说打死3名武装分子 - 新华网",
+          "title": "沪深交易所、中国结算集体降费",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T07:07:29+00:00；来源：新华网。",
+            "发布时间：2026-11-22T19:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUeGpwMlBnN3pRTnBwZkdWT3BJZWhSS3lRc193Q0RvUjRsMVBBTVFZTW9WSFBIWlVaSmlRRnRHSTlUVnlMMHBlMlQza25yalFxeUJ3Ui1xdjNhM1ZNTTNKZFJ6LVVmeF9pNkpQcUFkbnNqUnhsbWhB?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831840"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
+          "title": "今晚，稳市出手！三箭齐发",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:56:31+00:00；来源：新华网。",
+            "发布时间：2026-11-22T19:17:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831835"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
+          "title": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:56:08+00:00；来源：新华网。",
+            "发布时间：2026-11-22T11:12:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "大型民族管弦乐《长征》专辑出版发行 - 新华网",
+          "title": "今冬在瑞士滑雪将更昂贵 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:54:38+00:00；来源：新华网。",
+            "发布时间：2026-11-22T09:55:49+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHZMZTloNTBpTVVNWkFNamk0OHFBSVExLWZuMWJ1eHZuQVVyR0tzcmxtV2tkUkhJN2toVS05bTFHWTRxMG5ZZDJUZ252c1dXQ0Qta2lLUnB3MDgtMDUzU2duTUswSWM5NmV5ZDhDRXdPTnVHcy0tY09DU0ltQXFRN0Z4NA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "贵州从江针对伤鸟现象进行整治和问责 - 新华网",
+          "title": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:50:36+00:00；来源：新华网。",
+            "发布时间：2026-11-22T09:48:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhY3VySFphNkM3blJ1ZjNuUFBvNkQ1TFlrZkNpSGFOZE9zRFpaMXNnazBuZ1B3dnF4d184ZWtSY0cwWkJGd1BSanJ1dU1vT0pzbldsWmNsN0RoYkl6UjJNNV80Y2dZR2NjMUdUMXRhcTlES1BQTHEw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
+          "title": "这条造福非洲的“自由之路”正在激活 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:35:22+00:00；来源：新华网。",
+            "发布时间：2026-11-22T09:38:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
+          "title": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:34:35+00:00；来源：新华网。",
+            "发布时间：2026-11-22T09:21:34+00:00；来源：新华网浙江。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
+          "title": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T06:15:47+00:00；来源：新华网。",
+            "发布时间：2026-11-22T08:57:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5"
             }
           ]
         }
@@ -379,18 +379,13 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-20"
     },
     {
@@ -399,14 +394,19 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-19"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-19"
     },
     {
-      "title": "热爱与执着 南京保洁阿姨办起了个人画展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMnhuZXlXNDRFUzBWLUU5WndhZWM5YXNtdjIwMFR2T2ZFLTJGcERKRTNya2ktTDFqaDg2RjRJcnZzdDdrLVhiVmlfaVJ2cUY4RWo5UUVlLW9MVk1UZDl2eEdQOGRNVlRHWm0wNVdHX3psZTl1aVdvN3U5ZTVSTTQ?oc=5",
-      "asOf": "2026-11-22T07:35:36+00:00"
+      "title": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
+      "url": "https://www.cnstock.com/commonDetail/831842",
+      "asOf": "2026-11-22T19:38:00+08:00"
     },
     {
-      "title": "欧日水星探测器进入环水星轨道 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMWdad1RnMUNSVU9IMGZremktbDRqN09nbG9ma2tPMVZZZ0hHaDR3WWRVR3NRd1NfRmxaSkY4djgyUkxUSmFHWHh5UmRhY2N2ZnpRVEtFTGR1RnpqN290OFNaOGJqN0VOR0hnR1dwdEFvM3pHbmV6SXpsblZEcW8?oc=5",
-      "asOf": "2026-11-22T07:09:54+00:00"
+      "title": "创业板将引入做市商制度",
+      "url": "https://www.cnstock.com/commonDetail/831839",
+      "asOf": "2026-11-22T19:31:00+08:00"
     },
     {
-      "title": "阿富汗首都发生枪战 警方说打死3名武装分子 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUeGpwMlBnN3pRTnBwZkdWT3BJZWhSS3lRc193Q0RvUjRsMVBBTVFZTW9WSFBIWlVaSmlRRnRHSTlUVnlMMHBlMlQza25yalFxeUJ3Ui1xdjNhM1ZNTTNKZFJ6LVVmeF9pNkpQcUFkbnNqUnhsbWhB?oc=5",
-      "asOf": "2026-11-22T07:07:29+00:00"
+      "title": "沪深交易所、中国结算集体降费",
+      "url": "https://www.cnstock.com/commonDetail/831840",
+      "asOf": "2026-11-22T19:31:00+08:00"
     },
     {
-      "title": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5",
-      "asOf": "2026-11-22T06:56:31+00:00"
+      "title": "今晚，稳市出手！三箭齐发",
+      "url": "https://www.cnstock.com/commonDetail/831835",
+      "asOf": "2026-11-22T19:17:00+08:00"
     },
     {
-      "title": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5",
-      "asOf": "2026-11-22T06:56:08+00:00"
+      "title": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5",
+      "asOf": "2026-11-22T11:12:26+00:00"
     },
     {
-      "title": "大型民族管弦乐《长征》专辑出版发行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHZMZTloNTBpTVVNWkFNamk0OHFBSVExLWZuMWJ1eHZuQVVyR0tzcmxtV2tkUkhJN2toVS05bTFHWTRxMG5ZZDJUZ252c1dXQ0Qta2lLUnB3MDgtMDUzU2duTUswSWM5NmV5ZDhDRXdPTnVHcy0tY09DU0ltQXFRN0Z4NA?oc=5",
-      "asOf": "2026-11-22T06:54:38+00:00"
+      "title": "今冬在瑞士滑雪将更昂贵 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5",
+      "asOf": "2026-11-22T09:55:49+00:00"
     },
     {
-      "title": "贵州从江针对伤鸟现象进行整治和问责 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhY3VySFphNkM3blJ1ZjNuUFBvNkQ1TFlrZkNpSGFOZE9zRFpaMXNnazBuZ1B3dnF4d184ZWtSY0cwWkJGd1BSanJ1dU1vT0pzbldsWmNsN0RoYkl6UjJNNV80Y2dZR2NjMUdUMXRhcTlES1BQTHEw?oc=5",
-      "asOf": "2026-11-22T06:50:36+00:00"
+      "title": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5",
+      "asOf": "2026-11-22T09:48:41+00:00"
     },
     {
-      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5",
-      "asOf": "2026-11-22T06:35:22+00:00"
+      "title": "这条造福非洲的“自由之路”正在激活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5",
+      "asOf": "2026-11-22T09:38:17+00:00"
     },
     {
-      "title": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5",
-      "asOf": "2026-11-22T06:34:35+00:00"
+      "title": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5",
+      "asOf": "2026-11-22T09:21:34+00:00"
     },
     {
-      "title": "战事影响能源供应 伊朗实施限电措施 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
-      "asOf": "2026-11-22T06:15:47+00:00"
+      "title": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5",
+      "asOf": "2026-11-22T08:57:48+00:00"
     }
   ],
   "events": [
     {
-      "event": "热爱与执着 南京保洁阿姨办起了个人画展 - 新华网",
-      "published": "2026-11-22T07:35:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMnhuZXlXNDRFUzBWLUU5WndhZWM5YXNtdjIwMFR2T2ZFLTJGcERKRTNya2ktTDFqaDg2RjRJcnZzdDdrLVhiVmlfaVJ2cUY4RWo5UUVlLW9MVk1UZDl2eEdQOGRNVlRHWm0wNVdHX3psZTl1aVdvN3U5ZTVSTTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "热爱与执着 南京保洁阿姨办起了个人画展 - 新华网"
+      "event": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
+      "originalTitle": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
+      "published": "2026-11-22T19:38:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831842",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "欧日水星探测器进入环水星轨道 - 新华网",
-      "published": "2026-11-22T07:09:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMWdad1RnMUNSVU9IMGZremktbDRqN09nbG9ma2tPMVZZZ0hHaDR3WWRVR3NRd1NfRmxaSkY4djgyUkxUSmFHWHh5UmRhY2N2ZnpRVEtFTGR1RnpqN290OFNaOGJqN0VOR0hnR1dwdEFvM3pHbmV6SXpsblZEcW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "欧日水星探测器进入环水星轨道 - 新华网"
+      "event": "创业板将引入做市商制度",
+      "originalTitle": "创业板将引入做市商制度",
+      "published": "2026-11-22T19:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831839",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "阿富汗首都发生枪战 警方说打死3名武装分子 - 新华网",
-      "published": "2026-11-22T07:07:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUeGpwMlBnN3pRTnBwZkdWT3BJZWhSS3lRc193Q0RvUjRsMVBBTVFZTW9WSFBIWlVaSmlRRnRHSTlUVnlMMHBlMlQza25yalFxeUJ3Ui1xdjNhM1ZNTTNKZFJ6LVVmeF9pNkpQcUFkbnNqUnhsbWhB?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "阿富汗首都发生枪战 警方说打死3名武装分子 - 新华网"
+      "event": "沪深交易所、中国结算集体降费",
+      "originalTitle": "沪深交易所、中国结算集体降费",
+      "published": "2026-11-22T19:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831840",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网",
-      "published": "2026-11-22T06:56:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW43bFpwV0ZnQjlFR0N2bTcwV3RlOV9zbW1RbjBGeHJmQnhOdzlvVGZBN013V1JhNHVlbTNVUEl6WlRrU1UwcVBXOGVNeU1sbUZZclAwZkxuQjJKRXRuYlF2Q3lNU0tXbU94R09VODlER0xKWWlYWnA4SlBFZ0xOcElyTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "铁路车次编排改革问答丨普速旅客列车为何选择Z、N、V？ - 新华网"
+      "event": "今晚，稳市出手！三箭齐发",
+      "originalTitle": "今晚，稳市出手！三箭齐发",
+      "published": "2026-11-22T19:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/831835",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网",
-      "published": "2026-11-22T06:56:08+00:00",
+      "event": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
+      "published": "2026-11-22T11:12:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTh1ZDNXZktXV0xWcHVMRTFJTWRjVnVidlZOVXd3X3JkRlNDVWs1UXdIUzN4czZ0Ml91NS1XNFpZUGFwc0FKTllCMm9pS05BVXFYaXdndEZkSkVVVzY5OW1sVU5BcWEyaUc5SGpxX011cTEySmhBYU1tQmIyUWNfMHl3VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "铁路车次编排改革问答丨字头字母采用英文发音对不熟悉英文的旅客出行是否有影响？ - 新华网"
+      "originalTitle": "洋洋大观丨中国短剧：从出海到共创 - 新华网"
     },
     {
-      "event": "大型民族管弦乐《长征》专辑出版发行 - 新华网",
-      "published": "2026-11-22T06:54:38+00:00",
+      "event": "今冬在瑞士滑雪将更昂贵 - 新华网",
+      "published": "2026-11-22T09:55:49+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHZMZTloNTBpTVVNWkFNamk0OHFBSVExLWZuMWJ1eHZuQVVyR0tzcmxtV2tkUkhJN2toVS05bTFHWTRxMG5ZZDJUZ252c1dXQ0Qta2lLUnB3MDgtMDUzU2duTUswSWM5NmV5ZDhDRXdPTnVHcy0tY09DU0ltQXFRN0Z4NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "大型民族管弦乐《长征》专辑出版发行 - 新华网"
+      "originalTitle": "今冬在瑞士滑雪将更昂贵 - 新华网"
     },
     {
-      "event": "贵州从江针对伤鸟现象进行整治和问责 - 新华网",
-      "published": "2026-11-22T06:50:36+00:00",
+      "event": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
+      "published": "2026-11-22T09:48:41+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhY3VySFphNkM3blJ1ZjNuUFBvNkQ1TFlrZkNpSGFOZE9zRFpaMXNnazBuZ1B3dnF4d184ZWtSY0cwWkJGd1BSanJ1dU1vT0pzbldsWmNsN0RoYkl6UjJNNV80Y2dZR2NjMUdUMXRhcTlES1BQTHEw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "贵州从江针对伤鸟现象进行整治和问责 - 新华网"
+      "originalTitle": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网"
     },
     {
-      "event": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网",
-      "published": "2026-11-22T06:35:22+00:00",
+      "event": "这条造福非洲的“自由之路”正在激活 - 新华网",
+      "published": "2026-11-22T09:38:17+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGlvTHI3UFlHendSSTNXVzBFUEpZWUsydmUtRG44dTRkS0psVGhNM3FwcUhIYzBOeFo0OC1sSDNuZzRVa0txX2pOT2VEdFBNTTE2cWZRNkRTQ3JIYW9jbkxfNEppb3prZW1SLVNWbHFGX0R4bm5YRUNUdXlPSDFQczlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 新华网"
+      "originalTitle": "这条造福非洲的“自由之路”正在激活 - 新华网"
     },
     {
-      "event": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网",
-      "published": "2026-11-22T06:34:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QWVrODItRW5yZUlBU0t5OS1XYXNUU2lMRk4wU0JHSDZub1Q1RnV2UHZKM3I1NFZycGJzbVJsaDg0dDZtSjItM3pIbEtrVDJPVy1BOVBtS3RORUs1c29UYzJWZ0VXcW5YYzBZV09MMENMT3piSUo4NW1SbmhlbG8?oc=5",
+      "event": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
+      "published": "2026-11-22T09:21:34+00:00",
+      "publisher": "新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华读报丨给中国寄一张感谢卡？外媒为何有此提议 - 新华网"
+      "originalTitle": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江"
     },
     {
-      "event": "战事影响能源供应 伊朗实施限电措施 - 新华网",
-      "published": "2026-11-22T06:15:47+00:00",
+      "event": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
+      "published": "2026-11-22T08:57:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVC1hQnhDSjBoMERSX1VmbHVtOTVUUnJXUC02bXA2cnZPbzJtWTBOOFl5NzFhbHc3RGZpYWdxd0hPeDN4aVlLX2pWRkxtdXo2emgtRm5ZcHZ6MGJ4TlBZYVBtZEZrR0Rlc09rNFhVbzVSQlR1MGtBN1kyaWJqbGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "战事影响能源供应 伊朗实施限电措施 - 新华网"
+      "originalTitle": "私自放水改造管道 这些操作影响暖气供热 - 新华网"
     }
   ],
   "quality": {
@@ -556,6 +556,11 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": []
+    "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
+    ]
   }
 }
