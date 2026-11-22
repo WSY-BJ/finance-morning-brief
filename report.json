@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 10:38",
+  "date": "更新于北京时间 2026-11-22 11:21",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T10:38:57+08:00",
+  "updatedAt": "2026-11-22T11:21:31+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 -0.13 个百分点",
+          "summary": "4.76 %；变化 -0.04 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,66 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T03:13:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T03:08:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T02:59:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T02:44:08+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -264,66 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T23:10:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T22:18:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T21:00:56+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T21:00:51+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,18 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-21"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
     },
     {
@@ -399,19 +389,49 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-21"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-20"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-19"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-19"
+    },
+    {
+      "title": "经济日报：“温差”待消弭 信心不可失 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
+      "asOf": "2026-11-22T03:13:01+00:00"
+    },
+    {
+      "title": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5",
+      "asOf": "2026-11-22T03:08:07+00:00"
+    },
+    {
+      "title": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5",
+      "asOf": "2026-11-22T02:59:08+00:00"
+    },
+    {
+      "title": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
+      "asOf": "2026-11-22T02:44:08+00:00"
     },
     {
       "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
@@ -442,29 +462,41 @@
       "title": "加拿大正式加入北约创新基金 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
       "asOf": "2026-11-21T23:10:07+00:00"
-    },
-    {
-      "title": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5",
-      "asOf": "2026-11-21T23:10:01+00:00"
-    },
-    {
-      "title": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5",
-      "asOf": "2026-11-21T22:18:49+00:00"
-    },
-    {
-      "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
-      "asOf": "2026-11-21T21:00:56+00:00"
-    },
-    {
-      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
-      "asOf": "2026-11-21T21:00:51+00:00"
     }
   ],
   "events": [
+    {
+      "event": "经济日报：“温差”待消弭 信心不可失 - 新华网",
+      "published": "2026-11-22T03:13:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy02VGxKOU1lci0tU3VJX29DOVk2LWpLMGJocmNyNk13NWJoOE5HR2prTEJPWmtPQVpVOVEwc1BIYlZSTU5PRjA4SHZyVEJFN2hMNWhwVnlVZnUtUU54RWpnOVJzaTFKSTVUaGdEYndjSWtLTnZMcVVRS0h0aVBlTThB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "经济日报：“温差”待消弭 信心不可失 - 新华网"
+    },
+    {
+      "event": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网",
+      "published": "2026-11-22T03:08:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlV3BTRVhOcHR6aHZpZ2tIMTdKR2o3VTBoVTlIU3BSM2NKdXAySmVkZzA1QXZGMFc3NGlPal9xaGF5MFhfTDFFQzA1cTR2MGZnbnVuM2Z3SkJ6MTJwTGJzTXpoZ1FQQ2I4cjk3cXhhMUlkZ09NY216T3pJMUJoUQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "通讯丨中企承建水电站助力巴基斯坦绿色发展 - 新华网"
+    },
+    {
+      "event": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网",
+      "published": "2026-11-22T02:59:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHJNMFVtRzBXTFJOWWZleTl5VDBVX0FfWUY5VUdzVGxJUmRhOGRmV0pPMlpGX0xDRlowb3h3cmlGWGwxeEoyY0FYWGpRM0hrZmgzQmNQaDdEeVRCVHVsbXJNSnhoVmRZWTVNUTBGSEV1OVdndUZEaDRGMEgyZ19sUTBDcw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "非遗为媒 长江流域省市深化文旅协同发展 - 新华网"
+    },
+    {
+      "event": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网",
+      "published": "2026-11-22T02:44:08+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdnAwbV9tZkx6TzBGS0pzdmdnRFhkY2NFUXZEMGV5UkpVWnl4UjBLeTB3c1lDN0J5RHVOcU5MSlk1SEhRYm1ZWnJ4Tm9XV0t6bWc5Y3NsZkE3bldfZWRwbVMyb3hsLUo3N09jeF9POHNaMnh4X1FiQmo2Mlp5TFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访丨期待中国东盟全面战略伙伴关系开创新的篇章——访中国驻东盟大使王擎 - 新华网"
+    },
     {
       "event": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
       "published": "2026-11-22T01:27:30+00:00",
@@ -512,38 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "加拿大正式加入北约创新基金 - 新华网"
-    },
-    {
-      "event": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
-      "published": "2026-11-21T23:10:01+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网"
-    },
-    {
-      "event": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
-      "published": "2026-11-21T22:18:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网"
-    },
-    {
-      "event": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
-      "published": "2026-11-21T21:00:56+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网"
-    },
-    {
-      "event": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
-      "published": "2026-11-21T21:00:51+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网"
     }
   ],
   "quality": {
