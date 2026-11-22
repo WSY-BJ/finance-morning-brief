@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-21",
-  "date": "更新于北京时间 2026-11-21 20:40",
-  "reportDate": "2026-11-21",
-  "updatedAt": "2026-11-21T20:40:03+08:00",
+  "edition": "财经晨报 · 2026-11-22",
+  "date": "更新于北京时间 2026-11-22 09:14",
+  "reportDate": "2026-11-22",
+  "updatedAt": "2026-11-22T09:14:54+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-21 财经资料（待核验）",
+    "title": "2026-11-22 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,25 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-17：92.94 美元/桶；较 2026-11-16 变化 +0.04 美元/桶。",
+          "title": "Brent 原油期货",
+          "summary": "2026-11-20：92.57 美元/桶；较 2026-11-19 变化 +0.59 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "92.94 美元/桶；变化 +0.04 美元/桶",
+          "title": "Brent 原油期货",
+          "summary": "92.57 美元/桶；变化 +0.59 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-17；前值 92.90（2026-11-16）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 91.98（2026-11-19）；来源：Yahoo Finance。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
             }
           ]
         },
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6665 人民币/美元；变化 -0.0011 人民币/美元",
+          "summary": "6.6623 人民币/美元；变化 -0.0042 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-20；前值 6.6676（2026-11-19）；来源：Yahoo Finance。"
+            "观测日 2026-11-21；前值 6.6665（2026-11-20）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T23:18:18+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "加拿大正式加入北约创新基金 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T23:10:07+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T23:10:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T21:00:56+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T21:00:51+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "国家数据局：将积极拓展词元服务应用场景",
           "summary": "",
           "paragraphs": [
@@ -192,136 +267,61 @@
         },
         {
           "type": "explainer",
-          "title": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
+          "title": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T12:19:45+00:00；来源：新华网。",
+            "发布时间：2026-11-21T17:45:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "200余名中外人士徒步寻访“南京安全区” - 新华网",
+          "title": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T12:17:18+00:00；来源：新华网。",
+            "发布时间：2026-11-21T17:44:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "美元指数，冲击104关口",
+          "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T12:00:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-21T16:47:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831751"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
+          "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T12:00:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-21T16:45:06+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831757"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T11:58:24+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T11:44:01+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T11:43:54+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T11:40:22+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T11:30:59+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 44 课：情景分析",
+      "title": "第 45 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -381,6 +381,11 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-21"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-20"
     },
     {
@@ -394,19 +399,14 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-20"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-17"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-20"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-19"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,57 +414,97 @@
       "asOf": "2026-11-19"
     },
     {
+      "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5",
+      "asOf": "2026-11-21T23:18:18+00:00"
+    },
+    {
+      "title": "加拿大正式加入北约创新基金 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
+      "asOf": "2026-11-21T23:10:07+00:00"
+    },
+    {
+      "title": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5",
+      "asOf": "2026-11-21T23:10:01+00:00"
+    },
+    {
+      "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
+      "asOf": "2026-11-21T21:00:56+00:00"
+    },
+    {
+      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
+      "asOf": "2026-11-21T21:00:51+00:00"
+    },
+    {
       "title": "国家数据局：将积极拓展词元服务应用场景",
       "url": "https://www.cnstock.com/commonDetail/831778",
       "asOf": "2026-11-21T19:26:00+08:00"
     },
     {
-      "title": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5",
-      "asOf": "2026-11-21T12:19:45+00:00"
+      "title": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5",
+      "asOf": "2026-11-21T17:45:29+00:00"
     },
     {
-      "title": "200余名中外人士徒步寻访“南京安全区” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5",
-      "asOf": "2026-11-21T12:17:18+00:00"
+      "title": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5",
+      "asOf": "2026-11-21T17:44:29+00:00"
     },
     {
-      "title": "美元指数，冲击104关口",
-      "url": "https://www.cnstock.com/commonDetail/831751",
-      "asOf": "2026-11-21T12:00:00+08:00"
+      "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5",
+      "asOf": "2026-11-21T16:47:48+00:00"
     },
     {
-      "title": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
-      "url": "https://www.cnstock.com/commonDetail/831757",
-      "asOf": "2026-11-21T12:00:00+08:00"
-    },
-    {
-      "title": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5",
-      "asOf": "2026-11-21T11:58:24+00:00"
-    },
-    {
-      "title": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5",
-      "asOf": "2026-11-21T11:44:01+00:00"
-    },
-    {
-      "title": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5",
-      "asOf": "2026-11-21T11:43:54+00:00"
-    },
-    {
-      "title": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5",
-      "asOf": "2026-11-21T11:40:22+00:00"
-    },
-    {
-      "title": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5",
-      "asOf": "2026-11-21T11:30:59+00:00"
+      "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5",
+      "asOf": "2026-11-21T16:45:06+00:00"
     }
   ],
   "events": [
+    {
+      "event": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+      "published": "2026-11-21T23:18:18+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网"
+    },
+    {
+      "event": "加拿大正式加入北约创新基金 - 新华网",
+      "published": "2026-11-21T23:10:07+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b2duUEtJSlZXVzVlX1VsVGJQbkRtOXF5VVJicXVSLUFHcEItekp2OS1NMnp0a0tUaldoR0VZS3czZ2lQdlBaR3Q4Y1FpbXdjVmJFN2twX0JWVWNpVnVkR3VyV0JldXdUWHdhQ3RRSHdkdktaMkxzZzBDZ2NhQzA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "加拿大正式加入北约创新基金 - 新华网"
+    },
+    {
+      "event": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网",
+      "published": "2026-11-21T23:10:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NFlWOHRvbkM1Wl8tWC1ZQnBsNXdfU0ZRSFpyWkFfUDFPbGJiTmF0TGxxVG5wdFd5VGp4X1UxaWlQUkNlNVhMZElWSjNUenctbW81QmNPN1ZoeF8wZDAyZkRPT0daakFWNktRbWVnakhzSHQtUF9WOW82YTFkckE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网"
+    },
+    {
+      "event": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
+      "published": "2026-11-21T21:00:56+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网"
+    },
+    {
+      "event": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
+      "published": "2026-11-21T21:00:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网"
+    },
     {
       "event": "国家数据局：将积极拓展词元服务应用场景",
       "originalTitle": "国家数据局：将积极拓展词元服务应用场景",
@@ -474,76 +514,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网",
-      "published": "2026-11-21T12:19:45+00:00",
+      "event": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
+      "published": "2026-11-21T17:45:29+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tODAwbzFWZTBIaE5YX2JDN3dVWF90TEpYMnBXQmRjQkdCRHJNc0pZbXU0Y29HLWl6cFhFbGlwaHYzOFc0LWxadHdUazdvcmNxRU9ZamRLZzhhc2Y3aGdkZU5RYjYwRVBocmVJNTlJdzZjaWI5VlY2bUxoR0FlN2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "广西壮族自治区总工会原党组书记、常务副主席韦永山严重违纪违法被开除党籍和公职 - 新华网"
+      "originalTitle": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网"
     },
     {
-      "event": "200余名中外人士徒步寻访“南京安全区” - 新华网",
-      "published": "2026-11-21T12:17:18+00:00",
+      "event": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
+      "published": "2026-11-21T17:44:29+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX2xvOGdOWFNMTEdxS0ZUbHhVV083TXNIZjJjckQwYWVnOTh4ZlpZUHhnY2R1NTB1ODlsN2pGRGZLOFY3dDBqSGFCUGVCdm53bzZSWFRIRUgwOUh3R3BQUE1WVDNfQmRuRmV6NXlEb285V0liZTZZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "200余名中外人士徒步寻访“南京安全区” - 新华网"
+      "originalTitle": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网"
     },
     {
-      "event": "美元指数，冲击104关口",
-      "originalTitle": "美元指数，冲击104关口",
-      "published": "2026-11-21T12:00:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831751",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
-      "originalTitle": "国家发展改革委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
-      "published": "2026-11-21T12:00:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831757",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网",
-      "published": "2026-11-21T11:58:24+00:00",
+      "event": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
+      "published": "2026-11-21T16:47:48+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE1sNUJxVTVuZ1F1NnFyRTItMzNuNlNxWHEzTGdHbDM2OS1LNmdMaTJiMnZPRFB6alVVRkRkYnNpS09oSXh1ZndJb1Q5aEdVUk9YdnhIUzY2clgzQzgzc2IwTWFCeEZkVXgwV0Q1Q3BkbE5MaXhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨在塞纳河畔“品味”中国古代饮食文化 - 新华网"
+      "originalTitle": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网"
     },
     {
-      "event": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网",
-      "published": "2026-11-21T11:44:01+00:00",
+      "event": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
+      "published": "2026-11-21T16:45:06+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SYnBsSXFvaVJaTzlES0x3NmpSeDV5VWwyWUVtYUhiQVNEZW9jUUdreUNnUWZNdHJ4TVVpbkYtZUIwQkJyQVVDWTZkdXQ3OWlqbVpOaDRpLU1za1dkeHExcVB4OGVGbzViWUlWVTVfQl9UcEtTQ3FzNnhkd3l6Q2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国际观察丨英欧峰会：合作升温 “心结”难解 - 新华网"
-    },
-    {
-      "event": "印尼马鲁古省附近海域发生7.2级地震 - 新华网",
-      "published": "2026-11-21T11:43:54+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWEZRYlVjNW11WldYU3dqZW1yZ3RxUHlFNzRfTS1JeTZoS1JXU3JxNEcxS29hZUlFZWljc2tpX29rTFMzT083cURyTGNjTkpkb19HVktpOV92bkI2RlA1UVNiMGJHT2JwcWxRMExxY0xwZlJXdFBF?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "印尼马鲁古省附近海域发生7.2级地震 - 新华网"
-    },
-    {
-      "event": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网",
-      "published": "2026-11-21T11:40:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNHRLWmdBeGROcHh3Um1Tbm9IVFlHXzMxd0FqQS16bTliTmhBNGZGRXZ4WElNUEdsMEk5ZjRDY0xVX25FWmdzZmM0NG52T2o3cS1QYUZzUDc0bXkwbHI1NEVJamtNOHBKS09OVGxoaHpTRHFzMUpWTnRfOA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "第三届广州台湾青少年宣讲员大赛在穗举办 - 新华网"
-    },
-    {
-      "event": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网",
-      "published": "2026-11-21T11:30:59+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMklFaThrNTZRSU5LRlNicmRncVVRbFh4Sk9WQUgxNU5uVWhIbllaUTctNEtycWxhSmYtLW5VdmgzZjBWRUVmeG9jdDlUVWZnYmpDcjZHUTFjWnd0WE9pQ2tjT1hpTElmU2tEUm5XYjRBXzVrNEdSbHBYYU8takk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗伊斯兰革命卫队总司令视察导弹基地 - 新华网"
+      "originalTitle": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网"
     }
   ],
   "quality": {
@@ -557,8 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError"
     ]
   }
