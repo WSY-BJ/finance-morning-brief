@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 09:14",
+  "date": "更新于北京时间 2026-11-22 10:38",
   "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T09:14:54+08:00",
+  "updatedAt": "2026-11-22T10:38:57+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.63 %；变化 -0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,16 +177,76 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+          "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-21T23:18:18+00:00；来源：新华网。",
+            "发布时间：2026-11-22T01:27:30+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T01:25:43+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "权威数读·观中国（11月15日-11月21日） - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T01:17:32+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "法国连续第6个周六举行示威活动 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-22T01:15:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T23:18:19+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5"
             }
           ]
         },
@@ -222,6 +282,21 @@
         },
         {
           "type": "explainer",
+          "title": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-21T22:18:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
           "summary": "",
           "paragraphs": [
@@ -247,81 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家数据局：将积极拓展词元服务应用场景",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T19:26:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831778"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T17:45:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T17:44:29+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T16:47:48+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-21T16:45:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5"
             }
           ]
         }
@@ -384,8 +384,8 @@
       "asOf": "2026-11-21"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-20"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,19 +404,39 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-19"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-19"
+      "title": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5",
+      "asOf": "2026-11-22T01:27:30+00:00"
+    },
+    {
+      "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5",
+      "asOf": "2026-11-22T01:25:43+00:00"
+    },
+    {
+      "title": "权威数读·观中国（11月15日-11月21日） - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5",
+      "asOf": "2026-11-22T01:17:32+00:00"
+    },
+    {
+      "title": "法国连续第6个周六举行示威活动 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
+      "asOf": "2026-11-22T01:15:26+00:00"
     },
     {
       "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5",
-      "asOf": "2026-11-21T23:18:18+00:00"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5",
+      "asOf": "2026-11-21T23:18:19+00:00"
     },
     {
       "title": "加拿大正式加入北约创新基金 - 新华网",
@@ -429,6 +449,11 @@
       "asOf": "2026-11-21T23:10:01+00:00"
     },
     {
+      "title": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5",
+      "asOf": "2026-11-21T22:18:49+00:00"
+    },
+    {
       "title": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
       "asOf": "2026-11-21T21:00:56+00:00"
@@ -437,39 +462,46 @@
       "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
       "asOf": "2026-11-21T21:00:51+00:00"
-    },
-    {
-      "title": "国家数据局：将积极拓展词元服务应用场景",
-      "url": "https://www.cnstock.com/commonDetail/831778",
-      "asOf": "2026-11-21T19:26:00+08:00"
-    },
-    {
-      "title": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5",
-      "asOf": "2026-11-21T17:45:29+00:00"
-    },
-    {
-      "title": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5",
-      "asOf": "2026-11-21T17:44:29+00:00"
-    },
-    {
-      "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5",
-      "asOf": "2026-11-21T16:47:48+00:00"
-    },
-    {
-      "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5",
-      "asOf": "2026-11-21T16:45:06+00:00"
     }
   ],
   "events": [
     {
-      "event": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
-      "published": "2026-11-21T23:18:18+00:00",
+      "event": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网",
+      "published": "2026-11-22T01:27:30+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vbmgxOEZQQ1BiTGtUdDNTYWxGdVNqUnNKcllkQnQ3WDB5RFR1M2Zyc1J3SFNFVHVFMlk1VzdXQldoc0FtV19hWmQyNTJ3bzVPaFMxMFBLQXZhczFzQTR5cm44YTJMR1VxT0gzRUtiY0NxaHRYRFlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMS1SU0ppX01qc1lDN2pyRm1GenFCa2VYUUxVZldKVHUyT3VVaV80QlVfbWVLMU53eFZ6c0ZYMGVfLVF4cDNlUVVSQzFTTUgtejQ4Y2FhaUt6YVg4eXhPNU1IQUtNczdVMjEzeFhhMWhhYzJieXpN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "图说节令丨在小雪时节体验过冬的仪式感 - 新华网"
+    },
+    {
+      "event": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网",
+      "published": "2026-11-22T01:25:43+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMa0JiUlZKVE9Zb0diTHNRZFYyQ2hPRjhFUHVkMktPb3BXNU9KN3Z1YWVrVUw3aVZwVUNOZVpUOERKRWZ6aEdkR2FCNWYycVEwT2MzX21VVG85ay1KNDFRUjBmdU41MkVGbWtUdUtqaGZZdFk2aW96Wm9RSGRDU00?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问 - 新华网"
+    },
+    {
+      "event": "权威数读·观中国（11月15日-11月21日） - 新华网",
+      "published": "2026-11-22T01:17:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVlEdDBMLXRGcU9VS2tzOHJOQlAxWFZlNkxvNUtvczRmV1l4c0FLQVVBajVGQ1RwNUR4ZmluN2NXZkEyNFBGc1FoOXhCdHJJU3B5NHV3SV9lTkFlOG9CZDVlVXFQdG9paTBqaGp6OGtTY1JUSy1IU2VXUzFvZmlKbDZ3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "权威数读·观中国（11月15日-11月21日） - 新华网"
+    },
+    {
+      "event": "法国连续第6个周六举行示威活动 - 新华网",
+      "published": "2026-11-22T01:15:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eTRiVWNhZDc5ZEFoWlJ3QW5jQUJ2bmVJbFdFVFJDXzRRSjZWTHRNaENHRGNQOHJaWTlmVnFMbWlsY2lnRFNhUGVXUHRTVm15ZXZyTElmZ1J0cDMzRkxvZGhuTHNabVpDZER0dUREQjN5WVhWQWxF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "法国连续第6个周六举行示威活动 - 新华网"
+    },
+    {
+      "event": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网",
+      "published": "2026-11-21T23:18:19+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UGp0ZGdRM1M4eTFkUkFSMER6MzYyU3NkaHlRQVJ2cWhCTV95cG9SV1BKbzlGNTNYVFJUQVROVHhCa0hybUQ4LTRnYmFocWJwUFV6LWhxWGlxazFkaHFTc0lmV2IxSGRqWEc4N0JkZURIdTc5ZUgwLWxseXZSVEk?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "伊朗总统：正进行的经济战远比军事冲突“更为艰难” - 新华网"
     },
@@ -490,6 +522,14 @@
       "originalTitle": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民 - 新华网"
     },
     {
+      "event": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网",
+      "published": "2026-11-21T22:18:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jUEhLNmlCMFBjN1dKT3FuaGpvY3ZOVFlqMzNtS291MEh4eDMxODljVFo4dHVtNkM1N1E3S05KY05QVDJQWEtYdEFmbE1BN3Y3blA3cGdWNi1HMXJRd1FrZUJhQWliSVZ1d2NxTG9sdFJ1VnBJcTYwanNGeHNnYms?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "白俄罗斯举行历史重现表演致敬“炮兵节” - 新华网"
+    },
+    {
       "event": "墨西哥抓获大毒枭“矮子伊西德罗” - 新华网",
       "published": "2026-11-21T21:00:56+00:00",
       "publisher": "新华网",
@@ -504,46 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达 - 新华网"
-    },
-    {
-      "event": "国家数据局：将积极拓展词元服务应用场景",
-      "originalTitle": "国家数据局：将积极拓展词元服务应用场景",
-      "published": "2026-11-21T19:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831778",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
-      "published": "2026-11-21T17:45:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网"
-    },
-    {
-      "event": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网",
-      "published": "2026-11-21T17:44:29+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰 - 新华网"
-    },
-    {
-      "event": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网",
-      "published": "2026-11-21T16:47:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzZROGlPM0psMnpoWUR0Wm9CSEJMTXZJMy1WbXVZS3E1OVpuNk9Bckk0d1ZONlJzajRPSmg1MEQ4N3UtSC16bWJtQ1NobTM1cHl6Y3hJb3Fod1g2cXVHTnNiR0dQS3pET3hnWlB1ZWtyM1VDV0w3MXhHYTFxZlU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行 - 新华网"
-    },
-    {
-      "event": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网",
-      "published": "2026-11-21T16:45:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEdWZXJSX2ZvblVnV3I5YTRIOXlVbjg0dXAxcVR2dVNfWnZNOVBWMHh1UHI1ejhlMnpJZHVVaG91UUhmSWtHd19zWUpKSGhyWlFoeUJoMm1ja0h1dmRvd3lTSGZfVFJ6eld5NkY5VjhyY3FoUTE1ZERhNWViSjYwdUlRR1RQdklPWVctWQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行 - 新华网"
     }
   ],
   "quality": {
@@ -556,8 +556,6 @@
     "unavailableIndicators": [
       "gold"
     ],
-    "unavailableNewsSources": [
-      "article: ValueError"
-    ]
+    "unavailableNewsSources": []
   }
 }
