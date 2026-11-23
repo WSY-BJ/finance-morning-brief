@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-22",
-  "date": "更新于北京时间 2026-11-22 20:36",
-  "reportDate": "2026-11-22",
-  "updatedAt": "2026-11-22T20:36:24+08:00",
+  "edition": "财经晨报 · 2026-11-23",
+  "date": "更新于北京时间 2026-11-23 09:39",
+  "reportDate": "2026-11-23",
+  "updatedAt": "2026-11-23T09:39:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-22 财经资料（待核验）",
+    "title": "2026-11-23 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -34,7 +34,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "2026-11-20：89.95 美元/桶；较 2026-11-19 变化 -2.03 美元/桶。",
+          "summary": "2026-11-20：92.57 美元/桶；较 2026-11-19 变化 +0.59 美元/桶。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -66,7 +66,7 @@
         {
           "type": "explainer",
           "title": "Brent 原油期货",
-          "summary": "89.95 美元/桶；变化 -2.03 美元/桶",
+          "summary": "92.57 美元/桶；变化 +0.59 美元/桶",
           "paragraphs": [
             "观测日 2026-11-20；前值 91.98（2026-11-19）；来源：Yahoo Finance。"
           ],
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.76 %；变化 -0.04 个百分点",
+          "summary": "4.63 %；变化 -0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-19；前值 4.80（2026-11-18）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
+          "title": "学习进行时｜“深圳的成功，给人们许多启示”",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T19:38:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-23T08:43:00+08:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831842"
+              "url": "https://www.cnstock.com/commonDetail/831981"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "创业板将引入做市商制度",
+          "title": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T19:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-23T08:38:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831839"
+              "url": "https://www.cnstock.com/commonDetail/831822"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "沪深交易所、中国结算集体降费",
+          "title": "沪深交易所、中国结算推出一揽子降费措施",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T19:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-23T08:23:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831840"
+              "url": "https://www.cnstock.com/commonDetail/831974"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "今晚，稳市出手！三箭齐发",
+          "title": "创业板拟引入做市商制度 进一步壮大稳市力量",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T19:17:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-23T08:12:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831835"
+              "url": "https://www.cnstock.com/commonDetail/831968"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
+          "title": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T11:12:26+00:00；来源：新华网。",
+            "发布时间：2026-11-23T08:12:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831969"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "今冬在瑞士滑雪将更昂贵 - 新华网",
+          "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T09:55:49+00:00；来源：新华网。",
+            "发布时间：2026-11-23T08:08:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831963"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
+          "title": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T09:48:41+00:00；来源：新华网。",
+            "发布时间：2026-11-23T08:04:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831945"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "这条造福非洲的“自由之路”正在激活 - 新华网",
+          "title": "三项新政发布 稳市场“组合拳”来了",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T09:38:17+00:00；来源：新华网。",
+            "发布时间：2026-11-23T08:01:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/831944"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
+          "title": "黎政府谴责以军闯入黎学校拍摄宣传视频 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T09:21:34+00:00；来源：新华网浙江。",
+            "发布时间：2026-11-23T01:31:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Md0tZRW9uR05Ec2JlWmpXQWhUVWVpa0ZmbEFpUnVScmNLTEEtZ2x3dDFZdmw1Q3F1ZENQcXMtRjNPcVRrMUNGQnlwdlEyaHQxTDlVMm93Nzh5OE15aTlPNGc0aWUycU1lRWNKWTZCNkw2T00zc2djWFNiNkZaem8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
+          "title": "短道速滑世巡赛首尔站开赛 中国队男子接力晋级半决赛 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-22T08:57:48+00:00；来源：新华网。",
+            "发布时间：2026-11-23T01:25:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1hFTnVRVk5ScUZ5ZS1mRU1EdkpsQ2J4TUtUMG82UXN6UjNtV2h1Q0hFSnNOMTJOTlYxbHUxTmtFY3R1SFFUellnVTBseS14NVBEMWNPYXp0SmpwUE1YNllJTlpvWnVKaUZVVmpXekJiRlN3ZV80UUVTNkxlLW1CXw?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 45 课：情景分析",
+      "title": "第 46 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
@@ -386,11 +391,6 @@
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
     },
     {
@@ -404,146 +404,146 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-19"
     },
     {
-      "title": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
-      "url": "https://www.cnstock.com/commonDetail/831842",
-      "asOf": "2026-11-22T19:38:00+08:00"
+      "title": "学习进行时｜“深圳的成功，给人们许多启示”",
+      "url": "https://www.cnstock.com/commonDetail/831981",
+      "asOf": "2026-11-23T08:43:00+08:00"
     },
     {
-      "title": "创业板将引入做市商制度",
-      "url": "https://www.cnstock.com/commonDetail/831839",
-      "asOf": "2026-11-22T19:31:00+08:00"
+      "title": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
+      "url": "https://www.cnstock.com/commonDetail/831822",
+      "asOf": "2026-11-23T08:38:00+08:00"
     },
     {
-      "title": "沪深交易所、中国结算集体降费",
-      "url": "https://www.cnstock.com/commonDetail/831840",
-      "asOf": "2026-11-22T19:31:00+08:00"
+      "title": "沪深交易所、中国结算推出一揽子降费措施",
+      "url": "https://www.cnstock.com/commonDetail/831974",
+      "asOf": "2026-11-23T08:23:00+08:00"
     },
     {
-      "title": "今晚，稳市出手！三箭齐发",
-      "url": "https://www.cnstock.com/commonDetail/831835",
-      "asOf": "2026-11-22T19:17:00+08:00"
+      "title": "创业板拟引入做市商制度 进一步壮大稳市力量",
+      "url": "https://www.cnstock.com/commonDetail/831968",
+      "asOf": "2026-11-23T08:12:00+08:00"
     },
     {
-      "title": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5",
-      "asOf": "2026-11-22T11:12:26+00:00"
+      "title": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
+      "url": "https://www.cnstock.com/commonDetail/831969",
+      "asOf": "2026-11-23T08:12:00+08:00"
     },
     {
-      "title": "今冬在瑞士滑雪将更昂贵 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5",
-      "asOf": "2026-11-22T09:55:49+00:00"
+      "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
+      "url": "https://www.cnstock.com/commonDetail/831963",
+      "asOf": "2026-11-23T08:08:00+08:00"
     },
     {
-      "title": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5",
-      "asOf": "2026-11-22T09:48:41+00:00"
+      "title": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金",
+      "url": "https://www.cnstock.com/commonDetail/831945",
+      "asOf": "2026-11-23T08:04:00+08:00"
     },
     {
-      "title": "这条造福非洲的“自由之路”正在激活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5",
-      "asOf": "2026-11-22T09:38:17+00:00"
+      "title": "三项新政发布 稳市场“组合拳”来了",
+      "url": "https://www.cnstock.com/commonDetail/831944",
+      "asOf": "2026-11-23T08:01:00+08:00"
     },
     {
-      "title": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5",
-      "asOf": "2026-11-22T09:21:34+00:00"
+      "title": "黎政府谴责以军闯入黎学校拍摄宣传视频 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Md0tZRW9uR05Ec2JlWmpXQWhUVWVpa0ZmbEFpUnVScmNLTEEtZ2x3dDFZdmw1Q3F1ZENQcXMtRjNPcVRrMUNGQnlwdlEyaHQxTDlVMm93Nzh5OE15aTlPNGc0aWUycU1lRWNKWTZCNkw2T00zc2djWFNiNkZaem8?oc=5",
+      "asOf": "2026-11-23T01:31:44+00:00"
     },
     {
-      "title": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5",
-      "asOf": "2026-11-22T08:57:48+00:00"
+      "title": "短道速滑世巡赛首尔站开赛 中国队男子接力晋级半决赛 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1hFTnVRVk5ScUZ5ZS1mRU1EdkpsQ2J4TUtUMG82UXN6UjNtV2h1Q0hFSnNOMTJOTlYxbHUxTmtFY3R1SFFUellnVTBseS14NVBEMWNPYXp0SmpwUE1YNllJTlpvWnVKaUZVVmpXekJiRlN3ZV80UUVTNkxlLW1CXw?oc=5",
+      "asOf": "2026-11-23T01:25:08+00:00"
     }
   ],
   "events": [
     {
-      "event": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
-      "originalTitle": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
-      "published": "2026-11-22T19:38:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831842",
+      "event": "学习进行时｜“深圳的成功，给人们许多启示”",
+      "originalTitle": "学习进行时｜“深圳的成功，给人们许多启示”",
+      "published": "2026-11-23T08:43:00+08:00",
+      "publisher": "新华网",
+      "url": "https://www.cnstock.com/commonDetail/831981",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "创业板将引入做市商制度",
-      "originalTitle": "创业板将引入做市商制度",
-      "published": "2026-11-22T19:31:00+08:00",
+      "event": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
+      "originalTitle": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
+      "published": "2026-11-23T08:38:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831839",
+      "url": "https://www.cnstock.com/commonDetail/831822",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "沪深交易所、中国结算集体降费",
-      "originalTitle": "沪深交易所、中国结算集体降费",
-      "published": "2026-11-22T19:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831840",
+      "event": "沪深交易所、中国结算推出一揽子降费措施",
+      "originalTitle": "沪深交易所、中国结算推出一揽子降费措施",
+      "published": "2026-11-23T08:23:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831974",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "今晚，稳市出手！三箭齐发",
-      "originalTitle": "今晚，稳市出手！三箭齐发",
-      "published": "2026-11-22T19:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831835",
+      "event": "创业板拟引入做市商制度 进一步壮大稳市力量",
+      "originalTitle": "创业板拟引入做市商制度 进一步壮大稳市力量",
+      "published": "2026-11-23T08:12:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831968",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "洋洋大观丨中国短剧：从出海到共创 - 新华网",
-      "published": "2026-11-22T11:12:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGRvd3BYRVVkRDY3bDRVOXJsX0NaVGE1U1d3X1J4LVJ3Y3FCTnhMdWRwLXdaODJvb00ySUxURGhYaHRiVVhwYmFWcFZoYm1wTU8xVU9BaDRSemRMZXBIVlpVUk1HbTdldVNZUjlJUXhnUHk2N2Itc28wdFdDekk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "洋洋大观丨中国短剧：从出海到共创 - 新华网"
+      "event": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
+      "originalTitle": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
+      "published": "2026-11-23T08:12:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831969",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "今冬在瑞士滑雪将更昂贵 - 新华网",
-      "published": "2026-11-22T09:55:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sem5WWmp4eW9ud3hSbTNxOGswdkVwb2gtNklQS2poTGllbHJ3dDU3TUNtX0c3Z3ExUmt1UElGZ0IzT3U5LV8wb3lOazdWcS1DaGxCNUJIVTJXYmdtajh2djdiY2dhazd6bGJQeHZuYTczRzQ4Zm5VQUVxdkNMZw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "今冬在瑞士滑雪将更昂贵 - 新华网"
+      "event": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
+      "originalTitle": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
+      "published": "2026-11-23T08:08:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831963",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网",
-      "published": "2026-11-22T09:48:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRHlaT2FKV21ZS0FYZzVuTnpLV1VRMWxEbl9POFdqajRtZnZaUkhad09KemdaR1g5SEttbmhPbFhwS1k4M0xjSUZJZjhUeGFubTFlckI1YzJRNm0zdklpNG0tdF9JUWpMWEJZQk9CenlwNUd4OFIzbmZMNHBPZnM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "印尼糖果厂火灾仍未完全扑灭 约50人失联 - 新华网"
+      "event": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金",
+      "originalTitle": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金",
+      "published": "2026-11-23T08:04:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831945",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "这条造福非洲的“自由之路”正在激活 - 新华网",
-      "published": "2026-11-22T09:38:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUnVVYU1LazM3QUQ1Qi1IU1RTT0hEUy1BUDNuRXRpTzc4YkhRdFQtd3ZVbFQ3SGRpM3ZRS3ltSDlqdXYxZVNSQ3IzUE1leE1QTml1UGdXNVFoeDNVNHJhZkxHUDd4T1lQdXRhcnhxUUF3ZTdXQ040?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "这条造福非洲的“自由之路”正在激活 - 新华网"
+      "event": "三项新政发布 稳市场“组合拳”来了",
+      "originalTitle": "三项新政发布 稳市场“组合拳”来了",
+      "published": "2026-11-23T08:01:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/831944",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江",
-      "published": "2026-11-22T09:21:34+00:00",
-      "publisher": "新华网浙江",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XcmM0TTZKS3lrLVhEUU1yTTRYZGRRdTczMUpqWFFYSDlsT0Z2SWRkcURnaklfUldFalZWaDNEUS02Sm5FU2hiMWctNHR1ZVBHUkFxcUJ3WUxLRlVlSFVlc1dGQzJrYU95MHBxaktRTGh0dkYt?oc=5",
+      "event": "黎政府谴责以军闯入黎学校拍摄宣传视频 - 新华网",
+      "published": "2026-11-23T01:31:44+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Md0tZRW9uR05Ec2JlWmpXQWhUVWVpa0ZmbEFpUnVScmNLTEEtZ2x3dDFZdmw1Q3F1ZENQcXMtRjNPcVRrMUNGQnlwdlEyaHQxTDlVMm93Nzh5OE15aTlPNGc0aWUycU1lRWNKWTZCNkw2T00zc2djWFNiNkZaem8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "浙江衢州上洋村：以“小村规”撬动基层“大治理” - 新华网浙江"
+      "originalTitle": "黎政府谴责以军闯入黎学校拍摄宣传视频 - 新华网"
     },
     {
-      "event": "私自放水改造管道 这些操作影响暖气供热 - 新华网",
-      "published": "2026-11-22T08:57:48+00:00",
+      "event": "短道速滑世巡赛首尔站开赛 中国队男子接力晋级半决赛 - 新华网",
+      "published": "2026-11-23T01:25:08+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fOEhRa1NHZlhKM3h1RXJ5X0o0UWk3TnBNODlqbF81NUFUWkZ2djQ2TEFNazBEWTRDQVJRdXlscV8xSm9ZUGk0bGt4TFZpRDk4NXJhbUNlMHY5MGVQZE9pOHM0R19ZU1RpTVNUX2ZLVTUtN193WVFj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1hFTnVRVk5ScUZ5ZS1mRU1EdkpsQ2J4TUtUMG82UXN6UjNtV2h1Q0hFSnNOMTJOTlYxbHUxTmtFY3R1SFFUellnVTBseS14NVBEMWNPYXp0SmpwUE1YNllJTlpvWnVKaUZVVmpXekJiRlN3ZV80UUVTNkxlLW1CXw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "私自放水改造管道 这些操作影响暖气供热 - 新华网"
+      "originalTitle": "短道速滑世巡赛首尔站开赛 中国队男子接力晋级半决赛 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
