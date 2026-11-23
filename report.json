@@ -1,16 +1,16 @@
 {
   "edition": "财经晨报 · 2026-11-23",
-  "date": "更新于北京时间 2026-11-23 16:09",
+  "date": "更新于北京时间 2026-11-23 16:58",
   "reportDate": "2026-11-23",
-  "updatedAt": "2026-11-23T16:09:55+08:00",
+  "updatedAt": "2026-11-23T16:58:51+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
-  "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
+  "intro": "7 项市场数据 · 0 条正文审核事件 · 0 条待核验线索",
   "notification": {
     "title": "2026-11-23 财经资料（待核验）",
-    "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
+    "summary": "7 项市场数据 · 0 条正文审核事件 · 0 条待核验线索"
   },
   "pages": [
     {
@@ -174,158 +174,7 @@
       "eyebrow": "03 · 财经新闻",
       "title": "过去 24 小时财经线索",
       "lead": "仅经过正文证据核验的事件才可作为产业研究依据；其余仅供进一步查证。",
-      "blocks": [
-        {
-          "type": "explainer",
-          "title": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T15:03:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832069"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "首批主动ETF，挂牌上市！增量资金来了",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T14:16:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832063"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T13:17:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832026"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T10:44:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832007"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "海军多型舰机将亮相第十六届中国航展",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T10:21:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832004"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "《“一老一小”服务体系建设实施方案》发布",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T10:19:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832005"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T08:38:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831822"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "三项新政发布 稳市场“组合拳”来了",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T08:01:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831944"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T07:52:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T07:52:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5"
-            }
-          ]
-        }
-      ]
+      "blocks": []
     },
     {
       "id": "radar",
@@ -379,13 +228,8 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
     },
     {
@@ -394,8 +238,13 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-20"
     },
     {
@@ -412,144 +261,13 @@
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-19"
-    },
-    {
-      "title": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
-      "url": "https://www.cnstock.com/commonDetail/832069",
-      "asOf": "2026-11-23T15:03:00+08:00"
-    },
-    {
-      "title": "首批主动ETF，挂牌上市！增量资金来了",
-      "url": "https://www.cnstock.com/commonDetail/832063",
-      "asOf": "2026-11-23T14:16:00+08:00"
-    },
-    {
-      "title": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
-      "url": "https://www.cnstock.com/commonDetail/832026",
-      "asOf": "2026-11-23T13:17:00+08:00"
-    },
-    {
-      "title": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
-      "url": "https://www.cnstock.com/commonDetail/832007",
-      "asOf": "2026-11-23T10:44:00+08:00"
-    },
-    {
-      "title": "海军多型舰机将亮相第十六届中国航展",
-      "url": "https://www.cnstock.com/commonDetail/832004",
-      "asOf": "2026-11-23T10:21:00+08:00"
-    },
-    {
-      "title": "《“一老一小”服务体系建设实施方案》发布",
-      "url": "https://www.cnstock.com/commonDetail/832005",
-      "asOf": "2026-11-23T10:19:00+08:00"
-    },
-    {
-      "title": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
-      "url": "https://www.cnstock.com/commonDetail/831822",
-      "asOf": "2026-11-23T08:38:00+08:00"
-    },
-    {
-      "title": "三项新政发布 稳市场“组合拳”来了",
-      "url": "https://www.cnstock.com/commonDetail/831944",
-      "asOf": "2026-11-23T08:01:00+08:00"
-    },
-    {
-      "title": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5",
-      "asOf": "2026-11-23T07:52:37+00:00"
-    },
-    {
-      "title": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5",
-      "asOf": "2026-11-23T07:52:31+00:00"
     }
   ],
-  "events": [
-    {
-      "event": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
-      "originalTitle": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
-      "published": "2026-11-23T15:03:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/832069",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "首批主动ETF，挂牌上市！增量资金来了",
-      "originalTitle": "首批主动ETF，挂牌上市！增量资金来了",
-      "published": "2026-11-23T14:16:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832063",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
-      "originalTitle": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
-      "published": "2026-11-23T13:17:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832026",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
-      "originalTitle": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
-      "published": "2026-11-23T10:44:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832007",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "海军多型舰机将亮相第十六届中国航展",
-      "originalTitle": "海军多型舰机将亮相第十六届中国航展",
-      "published": "2026-11-23T10:21:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/832004",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "《“一老一小”服务体系建设实施方案》发布",
-      "originalTitle": "《“一老一小”服务体系建设实施方案》发布",
-      "published": "2026-11-23T10:19:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/832005",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
-      "originalTitle": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
-      "published": "2026-11-23T08:38:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/831822",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "三项新政发布 稳市场“组合拳”来了",
-      "originalTitle": "三项新政发布 稳市场“组合拳”来了",
-      "published": "2026-11-23T08:01:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831944",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
-      "published": "2026-11-23T07:52:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网"
-    },
-    {
-      "event": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
-      "published": "2026-11-23T07:52:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网"
-    }
-  ],
+  "events": [],
   "quality": {
     "mode": "limited",
     "indicatorCount": 7,
-    "news24hCount": 10,
+    "news24hCount": 0,
     "reviewedNewsCount": 0,
     "radarCount": 0,
     "staleIndicators": [],
@@ -557,14 +275,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中文新闻索引: HTTPError",
+      "中国证券网原文: URLError"
     ]
   }
 }
