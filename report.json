@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-23",
-  "date": "更新于北京时间 2026-11-23 15:40",
+  "date": "更新于北京时间 2026-11-23 16:09",
   "reportDate": "2026-11-23",
-  "updatedAt": "2026-11-23T15:40:48+08:00",
+  "updatedAt": "2026-11-23T16:09:55+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -297,31 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "青海首次开展小时级绿电交易 - 新华网",
+          "title": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-23T07:31:56+00:00；来源：新华网。",
+            "发布时间：2026-11-23T07:52:37+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByMDFlQzRkUlVLUl91OUFLWjBmcTJDYjFuaTFFSWZoQTlxYkJ2ZW9jQ2FkU0NlQzhXeEFvT09KNEtIMVVQOG5vWjhPNE9wM0xxQ2ROeWRoV1doYnRvZXdBX3F6Q3NFck96NXVfOUI4ZWh6VnRiRE9B?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "前沿科技科普解读 | 动画：气候坐标——陕西秋淋：秋雨为何没完没了？ - 新华网",
+          "title": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-23T07:17:36+00:00；来源：新华网。",
+            "发布时间：2026-11-23T07:52:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVDB5QU16SFZXX2NranVnN1hfejVPZU4xXzl1TmFPS25ySFk0MFZyMFRXc09IZUltNWk5Qm5rOXNiZUFsUnVNVUlJSkVnQmJuQTJ6a3ppVHozdS16UDhSOWhvcXJiWGtLbXFkY0JzenZTTVdHbGQyRzlQZUFqaExIMlJlUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5"
             }
           ]
         }
@@ -379,16 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-20"
@@ -399,18 +389,28 @@
       "asOf": "2026-11-20"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-20"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-19"
     },
     {
@@ -454,14 +454,14 @@
       "asOf": "2026-11-23T08:01:00+08:00"
     },
     {
-      "title": "青海首次开展小时级绿电交易 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByMDFlQzRkUlVLUl91OUFLWjBmcTJDYjFuaTFFSWZoQTlxYkJ2ZW9jQ2FkU0NlQzhXeEFvT09KNEtIMVVQOG5vWjhPNE9wM0xxQ2ROeWRoV1doYnRvZXdBX3F6Q3NFck96NXVfOUI4ZWh6VnRiRE9B?oc=5",
-      "asOf": "2026-11-23T07:31:56+00:00"
+      "title": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5",
+      "asOf": "2026-11-23T07:52:37+00:00"
     },
     {
-      "title": "前沿科技科普解读 | 动画：气候坐标——陕西秋淋：秋雨为何没完没了？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVDB5QU16SFZXX2NranVnN1hfejVPZU4xXzl1TmFPS25ySFk0MFZyMFRXc09IZUltNWk5Qm5rOXNiZUFsUnVNVUlJSkVnQmJuQTJ6a3ppVHozdS16UDhSOWhvcXJiWGtLbXFkY0JzenZTTVdHbGQyRzlQZUFqaExIMlJlUQ?oc=5",
-      "asOf": "2026-11-23T07:17:36+00:00"
+      "title": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5",
+      "asOf": "2026-11-23T07:52:31+00:00"
     }
   ],
   "events": [
@@ -530,20 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "青海首次开展小时级绿电交易 - 新华网",
-      "published": "2026-11-23T07:31:56+00:00",
+      "event": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网",
+      "published": "2026-11-23T07:52:37+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByMDFlQzRkUlVLUl91OUFLWjBmcTJDYjFuaTFFSWZoQTlxYkJ2ZW9jQ2FkU0NlQzhXeEFvT09KNEtIMVVQOG5vWjhPNE9wM0xxQ2ROeWRoV1doYnRvZXdBX3F6Q3NFck96NXVfOUI4ZWh6VnRiRE9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b3dZUWkxcGhrenE5WUVFc1ZxaVZRR0hKQjZlOGdFMlNYbWJsb3pJRWZQRnpQX3lIRTBjWERfZkxNYkkwTmY4OVhoY3JqOC0tVEZTWDd5NUFIYWM2UTRadWZHQVJpLVV1bW5VLVFvYlBnaThaZFNqX2drNUY0ZXc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "青海首次开展小时级绿电交易 - 新华网"
+      "originalTitle": "伊朗革命卫队高官视察导弹基地 新型发射装置亮相 - 新华网"
     },
     {
-      "event": "前沿科技科普解读 | 动画：气候坐标——陕西秋淋：秋雨为何没完没了？ - 新华网",
-      "published": "2026-11-23T07:17:36+00:00",
+      "event": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网",
+      "published": "2026-11-23T07:52:31+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVDB5QU16SFZXX2NranVnN1hfejVPZU4xXzl1TmFPS25ySFk0MFZyMFRXc09IZUltNWk5Qm5rOXNiZUFsUnVNVUlJSkVnQmJuQTJ6a3ppVHozdS16UDhSOWhvcXJiWGtLbXFkY0JzenZTTVdHbGQyRzlQZUFqaExIMlJlUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlg4WnItc0VreG5HRG1TZWJCbzBpUjNJNERWUkFsYi01WHBWcUE2cEFLNmpmY0RUM21hSzhuaUFRcDFLY3lkdDhDQkVHSjdqRDVvRF81SndiTnFvcDZUdXN2WUJhX21kaWpxWFFvMGNXMkZrUW5IVzAzSWVIYjg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "前沿科技科普解读 | 动画：气候坐标——陕西秋淋：秋雨为何没完没了？ - 新华网"
+      "originalTitle": "俄方考虑在阿布扎比举行新一轮俄美乌三方会谈 - 新华网"
     }
   ],
   "quality": {
