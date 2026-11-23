@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-23",
-  "date": "更新于北京时间 2026-11-23 12:36",
+  "date": "更新于北京时间 2026-11-23 15:21",
   "reportDate": "2026-11-23",
-  "updatedAt": "2026-11-23T12:36:17+08:00",
+  "updatedAt": "2026-11-23T15:21:52+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-19：5.04 %；较 2026-11-18 变化 -0.03 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "5.04 %；变化 -0.03 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：美国财政部。"
+            "观测日 2026-11-19；前值 5.07（2026-11-18）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,16 +177,75 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-23T15:03:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832069"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "首批主动ETF，挂牌上市！增量资金来了",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-23T14:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832063"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-23T13:17:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832026"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-23T10:44:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832007"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "海军多型舰机将亮相第十六届中国航展",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-23T10:21:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：新华社北京11月23日电（记者 李秉宣、李杰）记者23日从海军有关部门获悉，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次开设海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动，全景式亮相，多型"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/832004"
             }
           ]
@@ -197,29 +256,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-23T10:19:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：为深入贯彻落实党中央和国务院关于促进人口高质量发展的决策部署，扩大养老、托育服务有效供给，日前，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部印发《“一老一小”服务体系建设实施方案》（以下简称《实施方案》）。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/832005"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "学习进行时｜“深圳的成功，给人们许多启示”",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T08:43:00+08:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：亚太经合组织第三十三次领导人非正式会议期间，习近平主席深情讲述深圳故事，深刻揭示深圳故事蕴含的经验启示，就亚太共同体建设阐明中国主张。"
-          ],
-          "links": [
-            {
-              "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/831981"
             }
           ]
         },
@@ -229,43 +271,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-23T08:38:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月22日晚间，深圳证券交易所（以下简称“深交所”）发布《关于对启迪设计集团股份有限公司及相关当事人给予纪律处分的决定》称，启迪设计及相关当事人存在两项违规行为。一是关联方资金占用且未及时披露，公司时任董事、子公司深圳嘉力达节能"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/831822"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T08:12:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831969"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T08:08:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/831963"
             }
           ]
         },
@@ -286,46 +297,31 @@
         },
         {
           "type": "explainer",
-          "title": "重庆国际人才交流大会人工智能产业人才发展大会举行 - 新华网重庆",
+          "title": "丝路鄯善新图景 现代农业新标杆 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-23T03:36:38+00:00；来源：新华网重庆。",
+            "发布时间：2026-11-23T06:54:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NMXh5bGl1QmtUZnY4UTZHMWphWmIxZ1Y0MTY0Qkt5Skdia010ZHNxTXEtSllvNEtXalBLN1FETjBhMVo2a1gtS1dGa0VQeFJXUXBjN2hsRU9EcGZPWVYwM19xVlhkR240RnltdWFQbU1aalhtVVE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRGc0N09qdmlLRTY5cHhrU3MxSzB0Ums2YVNuNFpJdTJoMFgxOUlxaFhBbzZCSHJ4bnlBWXdtYjdWajJaV0JGb3dndGxZZWduNDZzVjJlUmN2Yzc5cGF0TUlyR2pvTUpId0Jid1RIU2MxY3ZsN2EwNQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国医学科学院肿瘤医院田艳涛：重视肿瘤科普 多元传递健康认知 - 新华网",
+          "title": "60余部短片亮相“天才发现计划”短片展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-23T03:34:06+00:00；来源：新华网。",
+            "发布时间：2026-11-23T06:52:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVzlvV3k0enJjak1OWU4zbVI0cGFFc1NTanViMnFEWExDWk5NbU96NXdJXzlFMWVWSmZ0Q2VXUmhIamI5U19IVUF0VFFLSXNsa3dVTUpHWDBLRE00ZnNyU3FRaDAtU09Gc0xmWlgwR0piaVQwVkhWNV9xRFY2ZUk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社消息丨海军多型舰机将亮相第十六届中国航展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-23T03:28:10+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcUl0eEEwT1lveFZ4NVJuUG10UmZfeTFHQWUzcUxuV3dVam9na3FabmtCWU1CLW5oZkZ4bTYzQnZoNTJwcTRsQ2hicHU3ak5nN2VvQjJuZWVLR2VjQUl1UmVXMGZ6dW1jRGExY1g0WDZWeW9GTkcw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDNpUnpjSzFRSWlsbEZZN1htYm5mMDhyV2llUzl5cFhJYmRNMEt5T1lsc29XQlA4TVc4SWdZX1lmSU1iQk5zQVFXRzVXMGxobUtJWFRpdk9ROGdwRDlsZXNSNXhQaThDMVRpVnNnV2d5RHJIVllqY1FsbnlHa19KdUxtMA?oc=5"
             }
           ]
         }
@@ -383,6 +379,16 @@
   ],
   "sources": [
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-20"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-20"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-20"
@@ -393,29 +399,39 @@
       "asOf": "2026-11-20"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-20"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-20"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-20"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-19"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-19"
+    },
+    {
+      "title": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
+      "url": "https://www.cnstock.com/commonDetail/832069",
+      "asOf": "2026-11-23T15:03:00+08:00"
+    },
+    {
+      "title": "首批主动ETF，挂牌上市！增量资金来了",
+      "url": "https://www.cnstock.com/commonDetail/832063",
+      "asOf": "2026-11-23T14:16:00+08:00"
+    },
+    {
+      "title": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
+      "url": "https://www.cnstock.com/commonDetail/832026",
+      "asOf": "2026-11-23T13:17:00+08:00"
+    },
+    {
+      "title": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
+      "url": "https://www.cnstock.com/commonDetail/832007",
+      "asOf": "2026-11-23T10:44:00+08:00"
     },
     {
       "title": "海军多型舰机将亮相第十六届中国航展",
@@ -428,24 +444,9 @@
       "asOf": "2026-11-23T10:19:00+08:00"
     },
     {
-      "title": "学习进行时｜“深圳的成功，给人们许多启示”",
-      "url": "https://www.cnstock.com/commonDetail/831981",
-      "asOf": "2026-11-23T08:43:00+08:00"
-    },
-    {
       "title": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
       "url": "https://www.cnstock.com/commonDetail/831822",
       "asOf": "2026-11-23T08:38:00+08:00"
-    },
-    {
-      "title": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
-      "url": "https://www.cnstock.com/commonDetail/831969",
-      "asOf": "2026-11-23T08:12:00+08:00"
-    },
-    {
-      "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
-      "url": "https://www.cnstock.com/commonDetail/831963",
-      "asOf": "2026-11-23T08:08:00+08:00"
     },
     {
       "title": "三项新政发布 稳市场“组合拳”来了",
@@ -453,36 +454,56 @@
       "asOf": "2026-11-23T08:01:00+08:00"
     },
     {
-      "title": "重庆国际人才交流大会人工智能产业人才发展大会举行 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NMXh5bGl1QmtUZnY4UTZHMWphWmIxZ1Y0MTY0Qkt5Skdia010ZHNxTXEtSllvNEtXalBLN1FETjBhMVo2a1gtS1dGa0VQeFJXUXBjN2hsRU9EcGZPWVYwM19xVlhkR240RnltdWFQbU1aalhtVVE?oc=5",
-      "asOf": "2026-11-23T03:36:38+00:00"
+      "title": "丝路鄯善新图景 现代农业新标杆 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRGc0N09qdmlLRTY5cHhrU3MxSzB0Ums2YVNuNFpJdTJoMFgxOUlxaFhBbzZCSHJ4bnlBWXdtYjdWajJaV0JGb3dndGxZZWduNDZzVjJlUmN2Yzc5cGF0TUlyR2pvTUpId0Jid1RIU2MxY3ZsN2EwNQ?oc=5",
+      "asOf": "2026-11-23T06:54:17+00:00"
     },
     {
-      "title": "中国医学科学院肿瘤医院田艳涛：重视肿瘤科普 多元传递健康认知 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVzlvV3k0enJjak1OWU4zbVI0cGFFc1NTanViMnFEWExDWk5NbU96NXdJXzlFMWVWSmZ0Q2VXUmhIamI5U19IVUF0VFFLSXNsa3dVTUpHWDBLRE00ZnNyU3FRaDAtU09Gc0xmWlgwR0piaVQwVkhWNV9xRFY2ZUk?oc=5",
-      "asOf": "2026-11-23T03:34:06+00:00"
-    },
-    {
-      "title": "新华社消息丨海军多型舰机将亮相第十六届中国航展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcUl0eEEwT1lveFZ4NVJuUG10UmZfeTFHQWUzcUxuV3dVam9na3FabmtCWU1CLW5oZkZ4bTYzQnZoNTJwcTRsQ2hicHU3ak5nN2VvQjJuZWVLR2VjQUl1UmVXMGZ6dW1jRGExY1g0WDZWeW9GTkcw?oc=5",
-      "asOf": "2026-11-23T03:28:10+00:00"
+      "title": "60余部短片亮相“天才发现计划”短片展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDNpUnpjSzFRSWlsbEZZN1htYm5mMDhyV2llUzl5cFhJYmRNMEt5T1lsc29XQlA4TVc4SWdZX1lmSU1iQk5zQVFXRzVXMGxobUtJWFRpdk9ROGdwRDlsZXNSNXhQaThDMVRpVnNnV2d5RHJIVllqY1FsbnlHa19KdUxtMA?oc=5",
+      "asOf": "2026-11-23T06:52:09+00:00"
     }
   ],
   "events": [
+    {
+      "event": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
+      "originalTitle": "聚焦APEC｜共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
+      "published": "2026-11-23T15:03:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/832069",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "首批主动ETF，挂牌上市！增量资金来了",
+      "originalTitle": "首批主动ETF，挂牌上市！增量资金来了",
+      "published": "2026-11-23T14:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/832063",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
+      "originalTitle": "深交所首批主动ETF平稳上市 引入180亿元增量资金",
+      "published": "2026-11-23T13:17:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/832026",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
+      "originalTitle": "上金所：贵金属价格波动显著加剧 做好风险防范工作",
+      "published": "2026-11-23T10:44:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/832007",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "海军多型舰机将亮相第十六届中国航展",
       "originalTitle": "海军多型舰机将亮相第十六届中国航展",
       "published": "2026-11-23T10:21:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/832004",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/832004",
-        "retrievedAt": "2026-11-23T12:36:17.779794+08:00",
-        "sha256": "478a848618dd82e33d8fb401f16658756ee3b0a3b98a31d4440a107df8ad7da0",
-        "paragraphCount": 4,
-        "excerpt": "新华社北京11月23日电（记者 李秉宣、李杰）记者23日从海军有关部门获悉，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次开设海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动，全景式亮相，多型"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "《“一老一小”服务体系建设实施方案》发布",
@@ -490,29 +511,7 @@
       "published": "2026-11-23T10:19:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/832005",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/832005",
-        "retrievedAt": "2026-11-23T12:36:17.779794+08:00",
-        "sha256": "890ffd6cf2ad8931f737077ae3f156a78d465116e7852fa5428ab3e5c4c702aa",
-        "paragraphCount": 5,
-        "excerpt": "为深入贯彻落实党中央和国务院关于促进人口高质量发展的决策部署，扩大养老、托育服务有效供给，日前，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部印发《“一老一小”服务体系建设实施方案》（以下简称《实施方案》）。"
-      }
-    },
-    {
-      "event": "学习进行时｜“深圳的成功，给人们许多启示”",
-      "originalTitle": "学习进行时｜“深圳的成功，给人们许多启示”",
-      "published": "2026-11-23T08:43:00+08:00",
-      "publisher": "新华网",
-      "url": "https://www.cnstock.com/commonDetail/831981",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831981",
-        "retrievedAt": "2026-11-23T12:36:17.779794+08:00",
-        "sha256": "b92426dd4448b1b50cc1fa19930c65b076112ce9dcf4ff3d3f50b4e9133ce28c",
-        "paragraphCount": 25,
-        "excerpt": "亚太经合组织第三十三次领导人非正式会议期间，习近平主席深情讲述深圳故事，深刻揭示深圳故事蕴含的经验启示，就亚太共同体建设阐明中国主张。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "启迪设计：因关联方资金占用及会计差错被深交所公开谴责",
@@ -520,29 +519,6 @@
       "published": "2026-11-23T08:38:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/831822",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/831822",
-        "retrievedAt": "2026-11-23T12:36:17.779794+08:00",
-        "sha256": "938c13d630acbc31613df35686770faf8af18401fa7ee01e0d2f5742e07a611b",
-        "paragraphCount": 1,
-        "excerpt": "上证智讯 11月22日晚间，深圳证券交易所（以下简称“深交所”）发布《关于对启迪设计集团股份有限公司及相关当事人给予纪律处分的决定》称，启迪设计及相关当事人存在两项违规行为。一是关联方资金占用且未及时披露，公司时任董事、子公司深圳嘉力达节能"
-      }
-    },
-    {
-      "event": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
-      "originalTitle": "机构展望 | 理性看待短期外部扰动 机构：中国资产长期向好趋势未改",
-      "published": "2026-11-23T08:12:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831969",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
-      "originalTitle": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
-      "published": "2026-11-23T08:08:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/831963",
       "evidenceLevel": "headline-only"
     },
     {
@@ -554,28 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "重庆国际人才交流大会人工智能产业人才发展大会举行 - 新华网重庆",
-      "published": "2026-11-23T03:36:38+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NMXh5bGl1QmtUZnY4UTZHMWphWmIxZ1Y0MTY0Qkt5Skdia010ZHNxTXEtSllvNEtXalBLN1FETjBhMVo2a1gtS1dGa0VQeFJXUXBjN2hsRU9EcGZPWVYwM19xVlhkR240RnltdWFQbU1aalhtVVE?oc=5",
+      "event": "丝路鄯善新图景 现代农业新标杆 - 新华网",
+      "published": "2026-11-23T06:54:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRGc0N09qdmlLRTY5cHhrU3MxSzB0Ums2YVNuNFpJdTJoMFgxOUlxaFhBbzZCSHJ4bnlBWXdtYjdWajJaV0JGb3dndGxZZWduNDZzVjJlUmN2Yzc5cGF0TUlyR2pvTUpId0Jid1RIU2MxY3ZsN2EwNQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "重庆国际人才交流大会人工智能产业人才发展大会举行 - 新华网重庆"
+      "originalTitle": "丝路鄯善新图景 现代农业新标杆 - 新华网"
     },
     {
-      "event": "中国医学科学院肿瘤医院田艳涛：重视肿瘤科普 多元传递健康认知 - 新华网",
-      "published": "2026-11-23T03:34:06+00:00",
+      "event": "60余部短片亮相“天才发现计划”短片展 - 新华网",
+      "published": "2026-11-23T06:52:09+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVzlvV3k0enJjak1OWU4zbVI0cGFFc1NTanViMnFEWExDWk5NbU96NXdJXzlFMWVWSmZ0Q2VXUmhIamI5U19IVUF0VFFLSXNsa3dVTUpHWDBLRE00ZnNyU3FRaDAtU09Gc0xmWlgwR0piaVQwVkhWNV9xRFY2ZUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDNpUnpjSzFRSWlsbEZZN1htYm5mMDhyV2llUzl5cFhJYmRNMEt5T1lsc29XQlA4TVc4SWdZX1lmSU1iQk5zQVFXRzVXMGxobUtJWFRpdk9ROGdwRDlsZXNSNXhQaThDMVRpVnNnV2d5RHJIVllqY1FsbnlHa19KdUxtMA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国医学科学院肿瘤医院田艳涛：重视肿瘤科普 多元传递健康认知 - 新华网"
-    },
-    {
-      "event": "新华社消息丨海军多型舰机将亮相第十六届中国航展 - 新华网",
-      "published": "2026-11-23T03:28:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcUl0eEEwT1lveFZ4NVJuUG10UmZfeTFHQWUzcUxuV3dVam9na3FabmtCWU1CLW5oZkZ4bTYzQnZoNTJwcTRsQ2hicHU3ak5nN2VvQjJuZWVLR2VjQUl1UmVXMGZ6dW1jRGExY1g0WDZWeW9GTkcw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨海军多型舰机将亮相第十六届中国航展 - 新华网"
+      "originalTitle": "60余部短片亮相“天才发现计划”短片展 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +557,11 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError"
