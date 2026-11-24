@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-24",
-  "date": "更新于北京时间 2026-11-24 15:01",
+  "date": "更新于北京时间 2026-11-24 15:29",
   "reportDate": "2026-11-24",
-  "updatedAt": "2026-11-24T15:01:49+08:00",
+  "updatedAt": "2026-11-24T15:29:05+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 +0.00 个百分点",
+          "summary": "4.92 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：美国财政部。"
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "古特雷斯呼吁建立人工智能风险管理多边框架 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T07:06:58+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gbk9HMDVUNjlXMVZrTVg4ZjBpcDd6SUxmYkRpNFk3ZXNnQ0drVUdtcy1zOHpnUXVIX1c4UFk1Z3dmdzA0bEJaZ2I0NjJ2LVVKUjVIUklCOUJvZDBiWDFOZmFTTmFEYkJDU2M4VHJBbFJDRjdCdmpiUjNUM2dNTDA?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "国家疾控局：流感已进入流行季 及时接种流感疫苗 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T07:06:24+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHhkYTBERkI5XzJ4MDVkRWNDTjFILUFvcVdCNEU4Vi12cWxhWmt0TmdsVEMzUGNNSkpLN1dPYVdxS2NpMVhaTkQxQkh2VEhBdXJIZlVqU25UMElSS2lQN09TR3BXMkx4SS0wU1pMRW5kaHJVaElfZm90VDhnNy1hQmdyQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "生态岛上观星河 崇明东滩打造湿地文旅新名片 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T06:59:55+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6WFVPenVhejhkaXA5TDh2TzczMmpLdW42OFhjYi1kLTZyMS16M2tYVTBvQ2xod05DeUpycHBEalhDV1gtVFFLb0J6dE1TbnNIeEpmWEhKS3I3azRlMlVQYl81MDRrRE9SMklOb29zTlRSazczYWdZaWVkQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华裳巡方城 汉服节掀开沈阳冬季文旅活动序幕 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T06:59:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRa2dvbF81Y0xIMUlWTlplX3FyZ1RsXzNDd3JQc0pNdU5iZHhaNzl1YS1yNDJEdjlWcGFYUGdJR2VSblZjV1lRM2RpZU9wWVA4aDQta3ZaV3BTb2F1Q2dlcGNRN29Va3hnbGplenI1ZnFNUG9xZU80TWkzaw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "第十届“对话中国”论坛聚焦中哥双边投资合作 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T06:58:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMDVpUTZlcVpQUV9SWTBEU0dZbHlfV19oZ3ZxeGFRejdhWG5XTG52NEprWmUxRTlGbzEwMHRFdHcwblpzUFVNamprU3V2Wkc3MUFRUWlsRHc0YXhXemk0OUg4dkloaTRfRG84aWQ4ellZaWU3QTd0c1NzUDB3Z3M?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "联想携手厦门大学打造高校智能化算力底座 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -249,81 +324,6 @@
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTgwWXNYUklNNG9sOEl2TTNTMm5HNHVJVFlXb085M2ZPQkxfQzhLR1hTWGJSSlRHampGUWhYcGhpQ0lPcjE2ekN6V21fM3FyLVJpSkswRmxKa1llMVczdlJHdTJXSjhRNXhSWFlGakNyUFBsZ2tLQzFnUEhTSWdCRkpYSQ?oc=5"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "前沿科技科普解读 | 动画:微观物理——一束激光，怎么就抓住了活细胞？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T06:19:28+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3ZHZ1NGQll1QmdLQUpZZ3VoMTd4SkE3M1c5YThvWTVvSUhYcUZhXzVrREdzV3J1S2xRTTRNdk9PR2Juem9yMWszSTJHbzVrbklmNlpUTkJyRFlXaDFJSzB3cHJzMFZua3dUZEowVFRHcExWT0RtN2l0SXdJNm5WTmllcw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "前沿科技科普解读 | 动画:微观物理——细菌搭迷宫，褶皱里竟藏着“双曲面” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T06:19:06+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHhMcnZjQjFRQVFxak5zTXp0WW5YbGpXbVdXaXg1UFladEkyaE1HQjdrYU0wNTFFWEVNcDZ1ekJrM09RTmxOZzhfd1VMbmloWllQaS1IWExFNGdwR0w2M2lRcHBYT1J1NUFmU1hkWWk4M09ZSE01cFVGRnRwUXVBWjZ1Zw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "前沿科技科普解读 | 动画:微观物理——一张切片，怎么就看清了上百种分子？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T06:18:44+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRlM4QlVPTjRIam1HdWU1cXFQeHdGZXByTkpPOV9WbXZObkRnQWluOE04YTVVUElUZGlHWGNIWnVFZnVBdC1ocGdzTXlGQ0l5M01taG5OMkRUcDR0ZEZGQktCUXdZdjlfZElSRDIzLTRxbU9vM1ktcnlFWnlPdDcxV1Itdw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "前沿科技科普解读 | 动画:微观物理——手环照绿光，怎么就测出了心跳？ - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T06:18:25+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3cwcjkxRUJVVGk3dmNHLU5UeHlsUVBrWWpzOVRiUjMzTXhkNUVFZm1qVUdLUjlwa0dHdmNEUjRfRFNXblJIVFZkSUVYaUxvWnhoa09DSV80aGhYRmxiYWFQT0JBUUlWcjE0OTF5bkV1Njl1dXR1MlFGTGpUSkhDWHJnNA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华社消息丨2026全球6G发展大会在上海举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T06:16:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZFZQM2VRMVpuZThsQTc4TzhCbFJ4MTBMelJLVmN5Zld5MGtCbWV0SDRHaUNWX0JkSmg1RUVITE1CTHUtM1ZNYUt6WV92czVyaDhqRjBCSC02aG1UeFdUUEF2MDVBX3FFS1EyMmwySlhUbDZHTGc?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,18 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-23"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-23"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-23"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-23"
     },
     {
@@ -399,19 +394,49 @@
       "asOf": "2026-11-23"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-23"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-23"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-20"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-20"
+    },
+    {
+      "title": "古特雷斯呼吁建立人工智能风险管理多边框架 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gbk9HMDVUNjlXMVZrTVg4ZjBpcDd6SUxmYkRpNFk3ZXNnQ0drVUdtcy1zOHpnUXVIX1c4UFk1Z3dmdzA0bEJaZ2I0NjJ2LVVKUjVIUklCOUJvZDBiWDFOZmFTTmFEYkJDU2M4VHJBbFJDRjdCdmpiUjNUM2dNTDA?oc=5",
+      "asOf": "2026-11-24T07:06:58+00:00"
+    },
+    {
+      "title": "国家疾控局：流感已进入流行季 及时接种流感疫苗 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHhkYTBERkI5XzJ4MDVkRWNDTjFILUFvcVdCNEU4Vi12cWxhWmt0TmdsVEMzUGNNSkpLN1dPYVdxS2NpMVhaTkQxQkh2VEhBdXJIZlVqU25UMElSS2lQN09TR3BXMkx4SS0wU1pMRW5kaHJVaElfZm90VDhnNy1hQmdyQQ?oc=5",
+      "asOf": "2026-11-24T07:06:24+00:00"
+    },
+    {
+      "title": "生态岛上观星河 崇明东滩打造湿地文旅新名片 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6WFVPenVhejhkaXA5TDh2TzczMmpLdW42OFhjYi1kLTZyMS16M2tYVTBvQ2xod05DeUpycHBEalhDV1gtVFFLb0J6dE1TbnNIeEpmWEhKS3I3azRlMlVQYl81MDRrRE9SMklOb29zTlRSazczYWdZaWVkQQ?oc=5",
+      "asOf": "2026-11-24T06:59:55+00:00"
+    },
+    {
+      "title": "华裳巡方城 汉服节掀开沈阳冬季文旅活动序幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRa2dvbF81Y0xIMUlWTlplX3FyZ1RsXzNDd3JQc0pNdU5iZHhaNzl1YS1yNDJEdjlWcGFYUGdJR2VSblZjV1lRM2RpZU9wWVA4aDQta3ZaV3BTb2F1Q2dlcGNRN29Va3hnbGplenI1ZnFNUG9xZU80TWkzaw?oc=5",
+      "asOf": "2026-11-24T06:59:49+00:00"
+    },
+    {
+      "title": "第十届“对话中国”论坛聚焦中哥双边投资合作 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMDVpUTZlcVpQUV9SWTBEU0dZbHlfV19oZ3ZxeGFRejdhWG5XTG52NEprWmUxRTlGbzEwMHRFdHcwblpzUFVNamprU3V2Wkc3MUFRUWlsRHc0YXhXemk0OUg4dkloaTRfRG84aWQ4ellZaWU3QTd0c1NzUDB3Z3M?oc=5",
+      "asOf": "2026-11-24T06:58:41+00:00"
     },
     {
       "title": "联想携手厦门大学打造高校智能化算力底座 - 新华网",
@@ -437,34 +462,49 @@
       "title": "前沿科技科普解读 | 动画:微观物理——小小洋葱，怎么就藏着21个大气压？ - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTgwWXNYUklNNG9sOEl2TTNTMm5HNHVJVFlXb085M2ZPQkxfQzhLR1hTWGJSSlRHampGUWhYcGhpQ0lPcjE2ekN6V21fM3FyLVJpSkswRmxKa1llMVczdlJHdTJXSjhRNXhSWFlGakNyUFBsZ2tLQzFnUEhTSWdCRkpYSQ?oc=5",
       "asOf": "2026-11-24T06:19:48+00:00"
-    },
-    {
-      "title": "前沿科技科普解读 | 动画:微观物理——一束激光，怎么就抓住了活细胞？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3ZHZ1NGQll1QmdLQUpZZ3VoMTd4SkE3M1c5YThvWTVvSUhYcUZhXzVrREdzV3J1S2xRTTRNdk9PR2Juem9yMWszSTJHbzVrbklmNlpUTkJyRFlXaDFJSzB3cHJzMFZua3dUZEowVFRHcExWT0RtN2l0SXdJNm5WTmllcw?oc=5",
-      "asOf": "2026-11-24T06:19:28+00:00"
-    },
-    {
-      "title": "前沿科技科普解读 | 动画:微观物理——细菌搭迷宫，褶皱里竟藏着“双曲面” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHhMcnZjQjFRQVFxak5zTXp0WW5YbGpXbVdXaXg1UFladEkyaE1HQjdrYU0wNTFFWEVNcDZ1ekJrM09RTmxOZzhfd1VMbmloWllQaS1IWExFNGdwR0w2M2lRcHBYT1J1NUFmU1hkWWk4M09ZSE01cFVGRnRwUXVBWjZ1Zw?oc=5",
-      "asOf": "2026-11-24T06:19:06+00:00"
-    },
-    {
-      "title": "前沿科技科普解读 | 动画:微观物理——一张切片，怎么就看清了上百种分子？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRlM4QlVPTjRIam1HdWU1cXFQeHdGZXByTkpPOV9WbXZObkRnQWluOE04YTVVUElUZGlHWGNIWnVFZnVBdC1ocGdzTXlGQ0l5M01taG5OMkRUcDR0ZEZGQktCUXdZdjlfZElSRDIzLTRxbU9vM1ktcnlFWnlPdDcxV1Itdw?oc=5",
-      "asOf": "2026-11-24T06:18:44+00:00"
-    },
-    {
-      "title": "前沿科技科普解读 | 动画:微观物理——手环照绿光，怎么就测出了心跳？ - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3cwcjkxRUJVVGk3dmNHLU5UeHlsUVBrWWpzOVRiUjMzTXhkNUVFZm1qVUdLUjlwa0dHdmNEUjRfRFNXblJIVFZkSUVYaUxvWnhoa09DSV80aGhYRmxiYWFQT0JBUUlWcjE0OTF5bkV1Njl1dXR1MlFGTGpUSkhDWHJnNA?oc=5",
-      "asOf": "2026-11-24T06:18:25+00:00"
-    },
-    {
-      "title": "新华社消息丨2026全球6G发展大会在上海举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZFZQM2VRMVpuZThsQTc4TzhCbFJ4MTBMelJLVmN5Zld5MGtCbWV0SDRHaUNWX0JkSmg1RUVITE1CTHUtM1ZNYUt6WV92czVyaDhqRjBCSC02aG1UeFdUUEF2MDVBX3FFS1EyMmwySlhUbDZHTGc?oc=5",
-      "asOf": "2026-11-24T06:16:49+00:00"
     }
   ],
   "events": [
+    {
+      "event": "古特雷斯呼吁建立人工智能风险管理多边框架 - 新华网",
+      "published": "2026-11-24T07:06:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gbk9HMDVUNjlXMVZrTVg4ZjBpcDd6SUxmYkRpNFk3ZXNnQ0drVUdtcy1zOHpnUXVIX1c4UFk1Z3dmdzA0bEJaZ2I0NjJ2LVVKUjVIUklCOUJvZDBiWDFOZmFTTmFEYkJDU2M4VHJBbFJDRjdCdmpiUjNUM2dNTDA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "古特雷斯呼吁建立人工智能风险管理多边框架 - 新华网"
+    },
+    {
+      "event": "国家疾控局：流感已进入流行季 及时接种流感疫苗 - 新华网",
+      "published": "2026-11-24T07:06:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHhkYTBERkI5XzJ4MDVkRWNDTjFILUFvcVdCNEU4Vi12cWxhWmt0TmdsVEMzUGNNSkpLN1dPYVdxS2NpMVhaTkQxQkh2VEhBdXJIZlVqU25UMElSS2lQN09TR3BXMkx4SS0wU1pMRW5kaHJVaElfZm90VDhnNy1hQmdyQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "国家疾控局：流感已进入流行季 及时接种流感疫苗 - 新华网"
+    },
+    {
+      "event": "生态岛上观星河 崇明东滩打造湿地文旅新名片 - 新华网",
+      "published": "2026-11-24T06:59:55+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6WFVPenVhejhkaXA5TDh2TzczMmpLdW42OFhjYi1kLTZyMS16M2tYVTBvQ2xod05DeUpycHBEalhDV1gtVFFLb0J6dE1TbnNIeEpmWEhKS3I3azRlMlVQYl81MDRrRE9SMklOb29zTlRSazczYWdZaWVkQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "生态岛上观星河 崇明东滩打造湿地文旅新名片 - 新华网"
+    },
+    {
+      "event": "华裳巡方城 汉服节掀开沈阳冬季文旅活动序幕 - 新华网",
+      "published": "2026-11-24T06:59:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRa2dvbF81Y0xIMUlWTlplX3FyZ1RsXzNDd3JQc0pNdU5iZHhaNzl1YS1yNDJEdjlWcGFYUGdJR2VSblZjV1lRM2RpZU9wWVA4aDQta3ZaV3BTb2F1Q2dlcGNRN29Va3hnbGplenI1ZnFNUG9xZU80TWkzaw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "华裳巡方城 汉服节掀开沈阳冬季文旅活动序幕 - 新华网"
+    },
+    {
+      "event": "第十届“对话中国”论坛聚焦中哥双边投资合作 - 新华网",
+      "published": "2026-11-24T06:58:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMDVpUTZlcVpQUV9SWTBEU0dZbHlfV19oZ3ZxeGFRejdhWG5XTG52NEprWmUxRTlGbzEwMHRFdHcwblpzUFVNamprU3V2Wkc3MUFRUWlsRHc0YXhXemk0OUg4dkloaTRfRG84aWQ4ellZaWU3QTd0c1NzUDB3Z3M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第十届“对话中国”论坛聚焦中哥双边投资合作 - 新华网"
+    },
     {
       "event": "联想携手厦门大学打造高校智能化算力底座 - 新华网",
       "published": "2026-11-24T06:50:19+00:00",
@@ -504,46 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTgwWXNYUklNNG9sOEl2TTNTMm5HNHVJVFlXb085M2ZPQkxfQzhLR1hTWGJSSlRHampGUWhYcGhpQ0lPcjE2ekN6V21fM3FyLVJpSkswRmxKa1llMVczdlJHdTJXSjhRNXhSWFlGakNyUFBsZ2tLQzFnUEhTSWdCRkpYSQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "前沿科技科普解读 | 动画:微观物理——小小洋葱，怎么就藏着21个大气压？ - 新华网"
-    },
-    {
-      "event": "前沿科技科普解读 | 动画:微观物理——一束激光，怎么就抓住了活细胞？ - 新华网",
-      "published": "2026-11-24T06:19:28+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3ZHZ1NGQll1QmdLQUpZZ3VoMTd4SkE3M1c5YThvWTVvSUhYcUZhXzVrREdzV3J1S2xRTTRNdk9PR2Juem9yMWszSTJHbzVrbklmNlpUTkJyRFlXaDFJSzB3cHJzMFZua3dUZEowVFRHcExWT0RtN2l0SXdJNm5WTmllcw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "前沿科技科普解读 | 动画:微观物理——一束激光，怎么就抓住了活细胞？ - 新华网"
-    },
-    {
-      "event": "前沿科技科普解读 | 动画:微观物理——细菌搭迷宫，褶皱里竟藏着“双曲面” - 新华网",
-      "published": "2026-11-24T06:19:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHhMcnZjQjFRQVFxak5zTXp0WW5YbGpXbVdXaXg1UFladEkyaE1HQjdrYU0wNTFFWEVNcDZ1ekJrM09RTmxOZzhfd1VMbmloWllQaS1IWExFNGdwR0w2M2lRcHBYT1J1NUFmU1hkWWk4M09ZSE01cFVGRnRwUXVBWjZ1Zw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "前沿科技科普解读 | 动画:微观物理——细菌搭迷宫，褶皱里竟藏着“双曲面” - 新华网"
-    },
-    {
-      "event": "前沿科技科普解读 | 动画:微观物理——一张切片，怎么就看清了上百种分子？ - 新华网",
-      "published": "2026-11-24T06:18:44+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRlM4QlVPTjRIam1HdWU1cXFQeHdGZXByTkpPOV9WbXZObkRnQWluOE04YTVVUElUZGlHWGNIWnVFZnVBdC1ocGdzTXlGQ0l5M01taG5OMkRUcDR0ZEZGQktCUXdZdjlfZElSRDIzLTRxbU9vM1ktcnlFWnlPdDcxV1Itdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "前沿科技科普解读 | 动画:微观物理——一张切片，怎么就看清了上百种分子？ - 新华网"
-    },
-    {
-      "event": "前沿科技科普解读 | 动画:微观物理——手环照绿光，怎么就测出了心跳？ - 新华网",
-      "published": "2026-11-24T06:18:25+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3cwcjkxRUJVVGk3dmNHLU5UeHlsUVBrWWpzOVRiUjMzTXhkNUVFZm1qVUdLUjlwa0dHdmNEUjRfRFNXblJIVFZkSUVYaUxvWnhoa09DSV80aGhYRmxiYWFQT0JBUUlWcjE0OTF5bkV1Njl1dXR1MlFGTGpUSkhDWHJnNA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "前沿科技科普解读 | 动画:微观物理——手环照绿光，怎么就测出了心跳？ - 新华网"
-    },
-    {
-      "event": "新华社消息丨2026全球6G发展大会在上海举行 - 新华网",
-      "published": "2026-11-24T06:16:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ZFZQM2VRMVpuZThsQTc4TzhCbFJ4MTBMelJLVmN5Zld5MGtCbWV0SDRHaUNWX0JkSmg1RUVITE1CTHUtM1ZNYUt6WV92czVyaDhqRjBCSC02aG1UeFdUUEF2MDVBX3FFS1EyMmwySlhUbDZHTGc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨2026全球6G发展大会在上海举行 - 新华网"
     }
   ],
   "quality": {
