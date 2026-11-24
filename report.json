@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-24",
-  "date": "更新于北京时间 2026-11-24 17:42",
+  "date": "更新于北京时间 2026-11-24 17:55",
   "reportDate": "2026-11-24",
-  "updatedAt": "2026-11-24T17:42:02+08:00",
+  "updatedAt": "2026-11-24T17:55:29+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -192,21 +192,6 @@
         },
         {
           "type": "explainer",
-          "title": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T17:03:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832814"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "金道科技：累计获杭叉集团订单约3.4656亿元 超上年主营收入50%",
           "summary": "",
           "paragraphs": [
@@ -217,6 +202,21 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/832817"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T17:03:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832814"
             }
           ]
         },
@@ -267,6 +267,36 @@
         },
         {
           "type": "explainer",
+          "title": "上海：建设一批高质量概念验证平台 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T09:38:26+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibk1TRjNndk9iLTU1aEJmM0dMYXVYQkduekFjU1k3ZGdQU2NJVVFEc0s2Uk9WM1RrV1lXcnY4Qmcxb0VuVFJ1SUxkbFB6azVSWURXcnZTQ1h1WF9jek5RQU9LUjlxUjB2dUdCZXVxVV9EMGdfZUdZWWtCZ0NJZFk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中投保加入网商银行“1平米书架”公益行动，打造乡镇“微型图书馆” - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T09:25:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ka1dxajNGdHlIZWlWTFdQTC1ydDVLcHhzY2hkWHVUU0lHczA5bWZGd2t1VXAxa2xBWk1yZUhTZ0RpT21rdnE3NTJNSmRWTEtvYU1sSGZxOGxXLWRnTDV6aVV3dTI2WDN1d0lOaXRlR0hUY0hqZXJxT25tSFQ?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "马达加斯加国民议会议长被罢免 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -282,46 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "阿联酋发生交通事故致11人死亡 - 新华网",
+          "title": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T09:07:47+00:00；来源：新华网。",
+            "发布时间：2026-11-24T09:14:28+00:00；来源：新华网上海频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV2xGQmZzTHZESERzR29QcG9hOWRnUXdxaHVwRER5eVRFbTM1ejlCQUU1aHBZQlZZMUNfV0FIeXptNWlKWVJjS3NkbWJEODhLZmpCc3I5WWl0bkItYUJka05NZ3pmbmFFMUd2dklOOUVoWVlURXRrM2JUNUNqdjA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "+N！北京多所高校又有新学院了 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T09:03:20+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ONWNyekdHdjhENFd4Y2tWeHFKaHJ4Q2ZuSzJoOUQ5R1ppNzNfRllMNjRWaVJGVmR6ZWpKZWdDTFZIZGp0Q2RaR3BDeC1KY25BNXdkR0tuYk1lbU1ZbjhRby1Sb1Y1Q0gzTlJnc0JkQzI0WnRDdDgxWGVUY1ExUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T09:01:21+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXRmxYVEJSWXdKdnV3M29vVnVCSDFYNDF1MVBGZjNmUnpsX21QMFdrOFJYY3VtTmdQNzR0Y0tlZ29kWUhydGpqdm5uZVJrZzNZaGRHNnpqdWZ6dTZjdUtha2hzVVVrQkpoVTlyT1ZtYlRXVnFYTG1rN3JYV3R1c1E?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5"
             }
           ]
         }
@@ -379,11 +379,6 @@
   ],
   "sources": [
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-23"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-23"
@@ -396,6 +391,11 @@
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-23"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-23"
     },
     {
@@ -419,13 +419,13 @@
       "asOf": "2026-11-24T17:03:00+08:00"
     },
     {
-      "title": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
-      "url": "https://www.cnstock.com/commonDetail/832814",
+      "title": "金道科技：累计获杭叉集团订单约3.4656亿元 超上年主营收入50%",
+      "url": "https://www.cnstock.com/commonDetail/832817",
       "asOf": "2026-11-24T17:03:00+08:00"
     },
     {
-      "title": "金道科技：累计获杭叉集团订单约3.4656亿元 超上年主营收入50%",
-      "url": "https://www.cnstock.com/commonDetail/832817",
+      "title": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
+      "url": "https://www.cnstock.com/commonDetail/832814",
       "asOf": "2026-11-24T17:03:00+08:00"
     },
     {
@@ -444,24 +444,24 @@
       "asOf": "2026-11-24T13:26:00+08:00"
     },
     {
+      "title": "上海：建设一批高质量概念验证平台 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibk1TRjNndk9iLTU1aEJmM0dMYXVYQkduekFjU1k3ZGdQU2NJVVFEc0s2Uk9WM1RrV1lXcnY4Qmcxb0VuVFJ1SUxkbFB6azVSWURXcnZTQ1h1WF9jek5RQU9LUjlxUjB2dUdCZXVxVV9EMGdfZUdZWWtCZ0NJZFk?oc=5",
+      "asOf": "2026-11-24T09:38:26+00:00"
+    },
+    {
+      "title": "中投保加入网商银行“1平米书架”公益行动，打造乡镇“微型图书馆” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ka1dxajNGdHlIZWlWTFdQTC1ydDVLcHhzY2hkWHVUU0lHczA5bWZGd2t1VXAxa2xBWk1yZUhTZ0RpT21rdnE3NTJNSmRWTEtvYU1sSGZxOGxXLWRnTDV6aVV3dTI2WDN1d0lOaXRlR0hUY0hqZXJxT25tSFQ?oc=5",
+      "asOf": "2026-11-24T09:25:49+00:00"
+    },
+    {
       "title": "马达加斯加国民议会议长被罢免 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQmNndmhFUTNLVlE1WVhBdDNXVE52SVZLbFVOT3pGc2pLWlhkYlBtb2pEWnEyaDZDOU1VSmVEVUdkem5DYmRudjQyZE93ZkxvMl9SYVdGWmZDY3ItUFBPQkoxQ0tOSVNkZl8tTl83WlhPbThiSE9hRkxRT0JnN2s?oc=5",
       "asOf": "2026-11-24T09:18:43+00:00"
     },
     {
-      "title": "阿联酋发生交通事故致11人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV2xGQmZzTHZESERzR29QcG9hOWRnUXdxaHVwRER5eVRFbTM1ejlCQUU1aHBZQlZZMUNfV0FIeXptNWlKWVJjS3NkbWJEODhLZmpCc3I5WWl0bkItYUJka05NZ3pmbmFFMUd2dklOOUVoWVlURXRrM2JUNUNqdjA?oc=5",
-      "asOf": "2026-11-24T09:07:47+00:00"
-    },
-    {
-      "title": "+N！北京多所高校又有新学院了 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ONWNyekdHdjhENFd4Y2tWeHFKaHJ4Q2ZuSzJoOUQ5R1ppNzNfRllMNjRWaVJGVmR6ZWpKZWdDTFZIZGp0Q2RaR3BDeC1KY25BNXdkR0tuYk1lbU1ZbjhRby1Sb1Y1Q0gzTlJnc0JkQzI0WnRDdDgxWGVUY1ExUQ?oc=5",
-      "asOf": "2026-11-24T09:03:20+00:00"
-    },
-    {
-      "title": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXRmxYVEJSWXdKdnV3M29vVnVCSDFYNDF1MVBGZjNmUnpsX21QMFdrOFJYY3VtTmdQNzR0Y0tlZ29kWUhydGpqdm5uZVJrZzNZaGRHNnpqdWZ6dTZjdUtha2hzVVVrQkpoVTlyT1ZtYlRXVnFYTG1rN3JYV3R1c1E?oc=5",
-      "asOf": "2026-11-24T09:01:21+00:00"
+      "title": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5",
+      "asOf": "2026-11-24T09:14:28+00:00"
     }
   ],
   "events": [
@@ -474,19 +474,19 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
-      "originalTitle": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
-      "published": "2026-11-24T17:03:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832814",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "金道科技：累计获杭叉集团订单约3.4656亿元 超上年主营收入50%",
       "originalTitle": "金道科技：累计获杭叉集团订单约3.4656亿元 超上年主营收入50%",
       "published": "2026-11-24T17:03:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/832817",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
+      "originalTitle": "固德威：拟1.5亿至3亿元回购公司股份用于维护公司价值及股东权益",
+      "published": "2026-11-24T17:03:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/832814",
       "evidenceLevel": "headline-only"
     },
     {
@@ -514,6 +514,22 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "上海：建设一批高质量概念验证平台 - 新华网",
+      "published": "2026-11-24T09:38:26+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibk1TRjNndk9iLTU1aEJmM0dMYXVYQkduekFjU1k3ZGdQU2NJVVFEc0s2Uk9WM1RrV1lXcnY4Qmcxb0VuVFJ1SUxkbFB6azVSWURXcnZTQ1h1WF9jek5RQU9LUjlxUjB2dUdCZXVxVV9EMGdfZUdZWWtCZ0NJZFk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "上海：建设一批高质量概念验证平台 - 新华网"
+    },
+    {
+      "event": "中投保加入网商银行“1平米书架”公益行动，打造乡镇“微型图书馆” - 新华网",
+      "published": "2026-11-24T09:25:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ka1dxajNGdHlIZWlWTFdQTC1ydDVLcHhzY2hkWHVUU0lHczA5bWZGd2t1VXAxa2xBWk1yZUhTZ0RpT21rdnE3NTJNSmRWTEtvYU1sSGZxOGxXLWRnTDV6aVV3dTI2WDN1d0lOaXRlR0hUY0hqZXJxT25tSFQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中投保加入网商银行“1平米书架”公益行动，打造乡镇“微型图书馆” - 新华网"
+    },
+    {
       "event": "马达加斯加国民议会议长被罢免 - 新华网",
       "published": "2026-11-24T09:18:43+00:00",
       "publisher": "新华网",
@@ -522,28 +538,12 @@
       "originalTitle": "马达加斯加国民议会议长被罢免 - 新华网"
     },
     {
-      "event": "阿联酋发生交通事故致11人死亡 - 新华网",
-      "published": "2026-11-24T09:07:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV2xGQmZzTHZESERzR29QcG9hOWRnUXdxaHVwRER5eVRFbTM1ejlCQUU1aHBZQlZZMUNfV0FIeXptNWlKWVJjS3NkbWJEODhLZmpCc3I5WWl0bkItYUJka05NZ3pmbmFFMUd2dklOOUVoWVlURXRrM2JUNUNqdjA?oc=5",
+      "event": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
+      "published": "2026-11-24T09:14:28+00:00",
+      "publisher": "新华网上海频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "阿联酋发生交通事故致11人死亡 - 新华网"
-    },
-    {
-      "event": "+N！北京多所高校又有新学院了 - 新华网",
-      "published": "2026-11-24T09:03:20+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ONWNyekdHdjhENFd4Y2tWeHFKaHJ4Q2ZuSzJoOUQ5R1ppNzNfRllMNjRWaVJGVmR6ZWpKZWdDTFZIZGp0Q2RaR3BDeC1KY25BNXdkR0tuYk1lbU1ZbjhRby1Sb1Y1Q0gzTlJnc0JkQzI0WnRDdDgxWGVUY1ExUQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "+N！北京多所高校又有新学院了 - 新华网"
-    },
-    {
-      "event": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判 - 新华网",
-      "published": "2026-11-24T09:01:21+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXRmxYVEJSWXdKdnV3M29vVnVCSDFYNDF1MVBGZjNmUnpsX21QMFdrOFJYY3VtTmdQNzR0Y0tlZ29kWUhydGpqdm5uZVJrZzNZaGRHNnpqdWZ6dTZjdUtha2hzVVVrQkpoVTlyT1ZtYlRXVnFYTG1rN3JYV3R1c1E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判 - 新华网"
+      "originalTitle": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道"
     }
   ],
   "quality": {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
