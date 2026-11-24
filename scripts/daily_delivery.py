@@ -27,7 +27,7 @@ def render(report, today, published, site_url):
         if mode != 'research':
             lines += ['今日先送达已采集资料；产业研究仍在补充。']
         for page in report.get('pages', []):
-            if page.get('id') not in ('markets', 'news', 'radar', 'lesson'):
+            if mode != 'research' and page.get('id') not in ('markets', 'news', 'radar', 'lesson'):
                 continue
             entries = []
             for block in page.get('blocks', []):
@@ -38,15 +38,17 @@ def render(report, today, published, site_url):
                     continue
                 summary = str(block.get('summary') or '')
                 paragraphs = block.get('paragraphs') or []
-                if page['id'] == 'news':
+                if mode == 'research':
+                    text = '\n\n'.join([heading, summary, *map(str, paragraphs), *[f"[{link.get('title', '原文')}]({link['url']})" for link in block.get('links', []) if link.get('url')]])
+                elif page['id'] == 'news':
                     # Index titles remain labeled as clues; do not imply semantic review.
                     prefix = '线索：' if mode != 'research' else ''
                     text = prefix + heading + ('：' + summary if summary else '')
                 else:
                     text = heading + '：' + summary + ' ' + ' '.join(str(p) for p in paragraphs[:2])
-                entries.append('• ' + ' '.join(text.split())[:300])
+                entries.append(text if mode == 'research' else '• ' + ' '.join(text.split())[:300])
             if entries:
-                lines += ['', str(page.get('title') or ''), *entries[:10]]
+                lines += ['', str(page.get('title') or ''), *(entries if mode == 'research' else entries[:10])]
         missing = report.get('quality', {}).get('unavailableIndicators') or []
         if missing:
             lines += ['数据缺口：' + '、'.join(missing)]
@@ -82,7 +84,7 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
     today = now.astimezone(TZ).date().isoformat()
     path = root / '.state' / 'notifications' / f'{today}.json'
     previous = json.loads(path.read_text()) if path.exists() else {}
-    if previous.get('status') == 'accepted':
+    if previous.get('status') == 'accepted' and previous.get('edition') == 'research':
         print('Daily notification already accepted; no duplicate request')
         return
     # A crashed runner may have submitted the request. Wait for the next recovery window.
@@ -93,6 +95,10 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
         report = json.loads((root / 'report.json').read_text())
     except (OSError, ValueError):
         report = {}
+    research = report.get('reportDate') == today and report.get('quality', {}).get('mode') == 'research'
+    if previous.get('status') == 'accepted' and not research:
+        print('Fallback already accepted; waiting for verified research edition')
+        return
     published = False
     site_url = env.get('SITE_URL', 'https://wsy-bj.github.io/finance-morning-brief/')
     if report.get('reportDate') == today:
@@ -106,7 +112,7 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
     if not key.startswith('SCT'):
         raise RuntimeError('ServerChan SendKey missing or invalid; no request made')
     state = dict(date=today, status='sending', delivery='unverified', attemptedAt=now.isoformat(),
-                 attempt=int(previous.get('attempt', 0)) + 1, edition='current' if report.get('reportDate') == today else 'outage')
+                 attempt=int(previous.get('attempt', 0)) + 1, edition='research' if research else 'limited' if report.get('reportDate') == today else 'outage')
     # Persist BEFORE network access. A push failure prevents a potentially untracked send.
     save(root, path, state)
     payload = urllib.parse.urlencode({'title': title, 'desp': body}).encode()
