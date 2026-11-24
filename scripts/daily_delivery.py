@@ -95,7 +95,12 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
         report = json.loads((root / 'report.json').read_text())
     except (OSError, ValueError):
         report = {}
-    research = report.get('reportDate') == today and report.get('quality', {}).get('mode') == 'research'
+    # Canonical full text authored by the research task, never by RSS collection.
+    canonical = root / 'research' / f'{today}.md'
+    full_text = canonical.read_text(encoding='utf-8').strip() if canonical.exists() else ''
+    if full_text and (len(full_text) < 1200 or full_text.count('https://') < 5 or today not in full_text):
+        raise RuntimeError('Canonical research text failed minimum structural checks')
+    research = bool(full_text)
     if previous.get('status') == 'accepted' and not research:
         print('Fallback already accepted; waiting for verified research edition')
         return
@@ -108,6 +113,8 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
         except Exception:
             pass
     title, body = render(report, today, published, site_url)
+    if research:
+        title, body = f'{today} 财经晨报', full_text
     key = env.get('SERVERCHAN_SENDKEY', '').strip()
     if not key.startswith('SCT'):
         raise RuntimeError('ServerChan SendKey missing or invalid; no request made')
@@ -128,7 +135,8 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
         state.update(status='rejected', code=result.get('code'))
         save(root, path, state)
         raise RuntimeError('ServerChan rejected request')
-    state.update(status='accepted', acceptedAt=datetime.now(TZ).isoformat())
+    state.update(status='accepted', acceptedAt=datetime.now(TZ).isoformat(),
+                 pushid=(result.get('data') or {}).get('pushid'))
     save(root, path, state)
     print('ServerChan accepted daily message; client delivery unverified')
 
