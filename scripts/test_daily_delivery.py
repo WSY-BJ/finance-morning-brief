@@ -91,9 +91,10 @@ class DailyDeliveryTests(unittest.TestCase):
         r=self.report();r['pages']=[{'id':'radar','blocks':[{'type':'explainer','title':'今日线索','paragraphs':[]}]},{'id':'news','blocks':[{'type':'explainer','title':'CBA新闻'},{'type':'explainer','title':'央行政策'}]}]
         title,body=render(r,'2026-10-27',False,'https://example.com/')
         self.assertNotIn('CBA',body);self.assertIn('央行政策',body)
-    def test_invalid_json_sends_outage(self):
+    def test_invalid_json_blocked(self):
         (self.root/'report.json').write_text('broken');self.send()
-        self.assertEqual(json.loads(self.state.read_text())['edition'],'outage')
+        self.assertEqual(len(self.calls),0)
+        self.assertFalse(self.state.exists())
     def test_missing_key_does_not_claim(self):
         self.formal()
         self.env['SERVERCHAN_SENDKEY']=''
