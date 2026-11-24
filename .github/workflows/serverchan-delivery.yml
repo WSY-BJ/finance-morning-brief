@@ -12,6 +12,7 @@ on:
       - .github/workflows/serverchan-delivery.yml
       - scripts/daily_delivery.py
       - scripts/test_daily_delivery.py
+      - 'research/*.md'
   workflow_dispatch:
 
 permissions:
