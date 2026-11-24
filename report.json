@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-24",
-  "date": "更新于北京时间 2026-11-24 18:23",
+  "date": "更新于北京时间 2026-11-24 18:54",
   "reportDate": "2026-11-24",
-  "updatedAt": "2026-11-24T18:23:29+08:00",
+  "updatedAt": "2026-11-24T18:54:11+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
+          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 -0.13 个百分点",
+          "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 +0.00 个百分点",
+          "summary": "4.92 %；变化 -0.12 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：美国财政部。"
+            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,7 +177,7 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "华资实业：董事长提议公司斥资1亿元至2亿元回购股份",
+          "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-24T18:20:00+08:00；来源：上海证券报·中国证券网。",
@@ -186,7 +186,7 @@
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832907"
+              "url": "https://www.cnstock.com/commonDetail/832911"
             }
           ]
         },
@@ -207,21 +207,6 @@
         },
         {
           "type": "explainer",
-          "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T18:20:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832911"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "央行将开展5000亿元7天期逆回购操作",
           "summary": "",
           "paragraphs": [
@@ -232,21 +217,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/832843"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中东资本，加码A股",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T17:03:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832827"
             }
           ]
         },
@@ -267,6 +237,21 @@
         },
         {
           "type": "explainer",
+          "title": "中东资本，加码A股",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T17:03:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/832827"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
           "summary": "",
           "paragraphs": [
@@ -282,46 +267,61 @@
         },
         {
           "type": "explainer",
-          "title": "新型电力系统现代产业链共链行动大会在京举办 - 新华网",
+          "title": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T09:24:29+00:00；来源：新华网。",
+            "发布时间：2026-11-24T10:43:59+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU1uT1NOazJBWVVhb1dzRHl4Nmo0elZwaHF3cGtMR1daM1B1YnNyMzJrdWJQRnY5a3ZGWjBUVmtWRFZXOVpNTjNYbjRMSTdvNWViTG1vTjREM2ZlZ1ZQWS1qRGZ1czdHSFRhem0xLUF4TjJwaTJSc0xJeDkyN0QwbQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "工银安盛人寿荣膺“年度卓越品牌机构” - 新华网上海频道",
+          "title": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T09:14:41+00:00；来源：新华网上海频道。",
+            "发布时间：2026-11-24T10:36:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vSFRXQzFvZUoyc3ZWcGlHeTUzbFZZb05aUkRDSUwxMERueVR6VWRjbm9qMWF4bGhoazhuZjNKM1Q5cGV6RHpzUDgtcmROSTNMN1Fic1dhbUVJXy1rUmtYT2E5LWUyRUN6NjJPZl9pWXVRWEJq?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
+          "title": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T09:14:28+00:00；来源：新华网上海频道。",
+            "发布时间：2026-11-24T10:28:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T10:12:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5"
             }
           ]
         }
@@ -384,11 +384,6 @@
       "asOf": "2026-11-23"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-23"
-    },
-    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-23"
@@ -399,23 +394,28 @@
       "asOf": "2026-11-23"
     },
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-23"
+    },
+    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-20"
     },
     {
-      "title": "华资实业：董事长提议公司斥资1亿元至2亿元回购股份",
-      "url": "https://www.cnstock.com/commonDetail/832907",
+      "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
+      "url": "https://www.cnstock.com/commonDetail/832911",
       "asOf": "2026-11-24T18:20:00+08:00"
     },
     {
@@ -424,23 +424,18 @@
       "asOf": "2026-11-24T18:20:00+08:00"
     },
     {
-      "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "url": "https://www.cnstock.com/commonDetail/832911",
-      "asOf": "2026-11-24T18:20:00+08:00"
-    },
-    {
       "title": "央行将开展5000亿元7天期逆回购操作",
       "url": "https://www.cnstock.com/commonDetail/832843",
       "asOf": "2026-11-24T17:34:00+08:00"
     },
     {
-      "title": "中东资本，加码A股",
-      "url": "https://www.cnstock.com/commonDetail/832827",
+      "title": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
+      "url": "https://www.cnstock.com/commonDetail/832829",
       "asOf": "2026-11-24T17:03:00+08:00"
     },
     {
-      "title": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
-      "url": "https://www.cnstock.com/commonDetail/832829",
+      "title": "中东资本，加码A股",
+      "url": "https://www.cnstock.com/commonDetail/832827",
       "asOf": "2026-11-24T17:03:00+08:00"
     },
     {
@@ -449,28 +444,33 @@
       "asOf": "2026-11-24T15:39:00+08:00"
     },
     {
-      "title": "新型电力系统现代产业链共链行动大会在京举办 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU1uT1NOazJBWVVhb1dzRHl4Nmo0elZwaHF3cGtMR1daM1B1YnNyMzJrdWJQRnY5a3ZGWjBUVmtWRFZXOVpNTjNYbjRMSTdvNWViTG1vTjREM2ZlZ1ZQWS1qRGZ1czdHSFRhem0xLUF4TjJwaTJSc0xJeDkyN0QwbQ?oc=5",
-      "asOf": "2026-11-24T09:24:29+00:00"
+      "title": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5",
+      "asOf": "2026-11-24T10:43:59+00:00"
     },
     {
-      "title": "工银安盛人寿荣膺“年度卓越品牌机构” - 新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vSFRXQzFvZUoyc3ZWcGlHeTUzbFZZb05aUkRDSUwxMERueVR6VWRjbm9qMWF4bGhoazhuZjNKM1Q5cGV6RHpzUDgtcmROSTNMN1Fic1dhbUVJXy1rUmtYT2E5LWUyRUN6NjJPZl9pWXVRWEJq?oc=5",
-      "asOf": "2026-11-24T09:14:41+00:00"
+      "title": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5",
+      "asOf": "2026-11-24T10:36:02+00:00"
     },
     {
-      "title": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5",
-      "asOf": "2026-11-24T09:14:28+00:00"
+      "title": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5",
+      "asOf": "2026-11-24T10:28:16+00:00"
+    },
+    {
+      "title": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5",
+      "asOf": "2026-11-24T10:12:49+00:00"
     }
   ],
   "events": [
     {
-      "event": "华资实业：董事长提议公司斥资1亿元至2亿元回购股份",
-      "originalTitle": "华资实业：董事长提议公司斥资1亿元至2亿元回购股份",
+      "event": "联美控股：已斥资7886.83万元回购1569.65万股股份",
+      "originalTitle": "联美控股：已斥资7886.83万元回购1569.65万股股份",
       "published": "2026-11-24T18:20:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832907",
+      "url": "https://www.cnstock.com/commonDetail/832911",
       "evidenceLevel": "headline-only"
     },
     {
@@ -482,27 +482,11 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "originalTitle": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "published": "2026-11-24T18:20:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832911",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "央行将开展5000亿元7天期逆回购操作",
       "originalTitle": "央行将开展5000亿元7天期逆回购操作",
       "published": "2026-11-24T17:34:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/832843",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中东资本，加码A股",
-      "originalTitle": "中东资本，加码A股",
-      "published": "2026-11-24T17:03:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832827",
       "evidenceLevel": "headline-only"
     },
     {
@@ -514,6 +498,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "中东资本，加码A股",
+      "originalTitle": "中东资本，加码A股",
+      "published": "2026-11-24T17:03:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/832827",
+      "evidenceLevel": "headline-only"
+    },
+    {
       "event": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
       "originalTitle": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
       "published": "2026-11-24T15:39:00+08:00",
@@ -522,28 +514,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "新型电力系统现代产业链共链行动大会在京举办 - 新华网",
-      "published": "2026-11-24T09:24:29+00:00",
+      "event": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
+      "published": "2026-11-24T10:43:59+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSU1uT1NOazJBWVVhb1dzRHl4Nmo0elZwaHF3cGtMR1daM1B1YnNyMzJrdWJQRnY5a3ZGWjBUVmtWRFZXOVpNTjNYbjRMSTdvNWViTG1vTjREM2ZlZ1ZQWS1qRGZ1czdHSFRhem0xLUF4TjJwaTJSc0xJeDkyN0QwbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新型电力系统现代产业链共链行动大会在京举办 - 新华网"
+      "originalTitle": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网"
     },
     {
-      "event": "工银安盛人寿荣膺“年度卓越品牌机构” - 新华网上海频道",
-      "published": "2026-11-24T09:14:41+00:00",
-      "publisher": "新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vSFRXQzFvZUoyc3ZWcGlHeTUzbFZZb05aUkRDSUwxMERueVR6VWRjbm9qMWF4bGhoazhuZjNKM1Q5cGV6RHpzUDgtcmROSTNMN1Fic1dhbUVJXy1rUmtYT2E5LWUyRUN6NjJPZl9pWXVRWEJq?oc=5",
+      "event": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
+      "published": "2026-11-24T10:36:02+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "工银安盛人寿荣膺“年度卓越品牌机构” - 新华网上海频道"
+      "originalTitle": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网"
     },
     {
-      "event": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道",
-      "published": "2026-11-24T09:14:28+00:00",
-      "publisher": "新华网上海频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dVd5bDM0ZFpVRVV5TEJIMmhLWDB1b3Z3bWZfMXMzdWQ1T3dXV1h2ZXk4Sk5IbUtSaEFZYnBSel9PektEQXl3NHJzT1RaNHE3Z0ZndGV6YlFsak9CLTZjRGpVc3VVWHdfNEM0UTA2aF9VTVVu?oc=5",
+      "event": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
+      "published": "2026-11-24T10:28:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "破局与长青：创业者与守业者的代际对话与传承暨“虹口企业之声专题频道”系列活动（第十八季）举行 - 新华网上海频道"
+      "originalTitle": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网"
+    },
+    {
+      "event": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
+      "published": "2026-11-24T10:12:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
