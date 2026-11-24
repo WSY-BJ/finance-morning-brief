@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-24",
-  "date": "更新于北京时间 2026-11-24 18:54",
+  "date": "更新于北京时间 2026-11-24 22:53",
   "reportDate": "2026-11-24",
-  "updatedAt": "2026-11-24T18:54:11+08:00",
+  "updatedAt": "2026-11-24T22:53:07+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-20：4.92 %；较 2026-11-19 变化 -0.12 个百分点。",
+          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 +0.00 个百分点",
+          "summary": "4.63 %；变化 -0.13 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：美国财政部。"
+            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 -0.12 个百分点",
+          "summary": "4.92 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 5.04（2026-11-19）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,46 +177,61 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
+          "title": "她，也卖飞了",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T18:20:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-24T22:33:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832911"
+              "url": "https://www.cnstock.com/commonDetail/833182"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "格林生物：每10股派10元，股权登记日为12月1日",
+          "title": "管理费率“上蹿下跳”！这只基金怎么了？",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T18:20:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-24T22:33:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832916"
+              "url": "https://www.cnstock.com/commonDetail/833184"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "央行将开展5000亿元7天期逆回购操作",
+          "title": "频现大单拉升！4分钟成交22亿元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T17:34:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-24T19:36:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832843"
+              "url": "https://www.cnstock.com/commonDetail/833029"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "存储芯片，供不应求还能延续多久？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-24T19:36:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833028"
             }
           ]
         },
@@ -267,61 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
+          "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T10:43:59+00:00；来源：新华网。",
+            "发布时间：2026-11-24T14:41:36+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
+          "title": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T10:36:02+00:00；来源：新华网。",
+            "发布时间：2026-11-24T14:17:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
+          "title": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T10:28:16+00:00；来源：新华网。",
+            "发布时间：2026-11-24T13:51:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-24T10:12:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5"
             }
           ]
         }
@@ -404,29 +404,34 @@
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-20"
     },
     {
-      "title": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "url": "https://www.cnstock.com/commonDetail/832911",
-      "asOf": "2026-11-24T18:20:00+08:00"
+      "title": "她，也卖飞了",
+      "url": "https://www.cnstock.com/commonDetail/833182",
+      "asOf": "2026-11-24T22:33:00+08:00"
     },
     {
-      "title": "格林生物：每10股派10元，股权登记日为12月1日",
-      "url": "https://www.cnstock.com/commonDetail/832916",
-      "asOf": "2026-11-24T18:20:00+08:00"
+      "title": "管理费率“上蹿下跳”！这只基金怎么了？",
+      "url": "https://www.cnstock.com/commonDetail/833184",
+      "asOf": "2026-11-24T22:33:00+08:00"
     },
     {
-      "title": "央行将开展5000亿元7天期逆回购操作",
-      "url": "https://www.cnstock.com/commonDetail/832843",
-      "asOf": "2026-11-24T17:34:00+08:00"
+      "title": "频现大单拉升！4分钟成交22亿元",
+      "url": "https://www.cnstock.com/commonDetail/833029",
+      "asOf": "2026-11-24T19:36:00+08:00"
+    },
+    {
+      "title": "存储芯片，供不应求还能延续多久？",
+      "url": "https://www.cnstock.com/commonDetail/833028",
+      "asOf": "2026-11-24T19:36:00+08:00"
     },
     {
       "title": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
@@ -444,49 +449,52 @@
       "asOf": "2026-11-24T15:39:00+08:00"
     },
     {
-      "title": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5",
-      "asOf": "2026-11-24T10:43:59+00:00"
+      "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5",
+      "asOf": "2026-11-24T14:41:36+00:00"
     },
     {
-      "title": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5",
-      "asOf": "2026-11-24T10:36:02+00:00"
+      "title": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5",
+      "asOf": "2026-11-24T14:17:57+00:00"
     },
     {
-      "title": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5",
-      "asOf": "2026-11-24T10:28:16+00:00"
-    },
-    {
-      "title": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5",
-      "asOf": "2026-11-24T10:12:49+00:00"
+      "title": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5",
+      "asOf": "2026-11-24T13:51:46+00:00"
     }
   ],
   "events": [
     {
-      "event": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "originalTitle": "联美控股：已斥资7886.83万元回购1569.65万股股份",
-      "published": "2026-11-24T18:20:00+08:00",
+      "event": "她，也卖飞了",
+      "originalTitle": "她，也卖飞了",
+      "published": "2026-11-24T22:33:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832911",
+      "url": "https://www.cnstock.com/commonDetail/833182",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "格林生物：每10股派10元，股权登记日为12月1日",
-      "originalTitle": "格林生物：每10股派10元，股权登记日为12月1日",
-      "published": "2026-11-24T18:20:00+08:00",
+      "event": "管理费率“上蹿下跳”！这只基金怎么了？",
+      "originalTitle": "管理费率“上蹿下跳”！这只基金怎么了？",
+      "published": "2026-11-24T22:33:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832916",
+      "url": "https://www.cnstock.com/commonDetail/833184",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "央行将开展5000亿元7天期逆回购操作",
-      "originalTitle": "央行将开展5000亿元7天期逆回购操作",
-      "published": "2026-11-24T17:34:00+08:00",
+      "event": "频现大单拉升！4分钟成交22亿元",
+      "originalTitle": "频现大单拉升！4分钟成交22亿元",
+      "published": "2026-11-24T19:36:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832843",
+      "url": "https://www.cnstock.com/commonDetail/833029",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "存储芯片，供不应求还能延续多久？",
+      "originalTitle": "存储芯片，供不应求还能延续多久？",
+      "published": "2026-11-24T19:36:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833028",
       "evidenceLevel": "headline-only"
     },
     {
@@ -514,36 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网",
-      "published": "2026-11-24T10:43:59+00:00",
+      "event": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
+      "published": "2026-11-24T14:41:36+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRzh6YVFrRWpCX3hNT1hKOEJXcERvdC1jdEhOSzducmhnODA4c18tVEZtNFZMaGNjZEpFek5qZ0l6bndXLWdPNVJ3Q1dWN2N6YUt3VGhZeVliYU9Bc3F5b25BRE9wN1A3LTZaNE0yNzZwWnVKemVUUzlKQ3h3ZEU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "原创MV《向山河》发布：沿长征来路，听山河回响 - 新华网"
+      "originalTitle": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网"
     },
     {
-      "event": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网",
-      "published": "2026-11-24T10:36:02+00:00",
+      "event": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
+      "published": "2026-11-24T14:17:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Uk96OUlMTFg4aUlBVlU3cHBUSUJ3dGlxQkgzZVVIRDZKbkM5SVQ5RkV5TXI3d295ajd1MTRyY2R5bWY3NVY0U0FjaGszaFMxNkZ2b0JJaUdMVy1uaURBQjJwS25MXy0xa2NKdGxMZlY4cmExVHVlaXlmZmxJb1U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "做好养老金融大文章 绘就银龄幸福新图景 中信银行北京分行扎实推进养老金融服务提质增效 - 新华网"
+      "originalTitle": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网"
     },
     {
-      "event": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-24T10:28:16+00:00",
+      "event": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
+      "published": "2026-11-24T13:51:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TFFvUW52Qk00X3l2VUwxdVg0dnNGMGVzNmJlVVdnRjRNMU5TazM2RDhoQ2d0UFBGOTBQeTBDbGJNbmNfbm1CRjBTM1drTlV4Zk9MY1oySGRyTC1hZGdER1k5V2JLaXRKcjJtSTV4Z2JIZjNDQW1Ca0NKbnBndw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓接受纪律审查和监察调查 - 新华网"
-    },
-    {
-      "event": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网",
-      "published": "2026-11-24T10:12:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFQdGR2Z3hMOGxvR2l3NmlmbDRnM2ZYNFR3LVB3dFBTcVpWaEFMYXYtMVk2OVpCU2JjOEQ2RmozS0UxTloyZGlDeXpvd3Y2SlIyeFdrV094aWdFZWM2ZU5rbEZnWU5iT2xtMlFFcXMwVHlHQ2xiVHR4d2FXeW9iVw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "健康中国共行动丨浙大二院：多学科协同，解码免疫炎症疾病诊疗 - 新华网"
+      "originalTitle": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
