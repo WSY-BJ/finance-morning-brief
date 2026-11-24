@@ -128,6 +128,9 @@ jobs:
 
   notify:
     name: Deliver daily message even when publication fails
+    concurrency:
+      group: serverchan-delivery
+      cancel-in-progress: false
     needs: publish
     if: ${{ always() && (github.event_name == 'schedule' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.send_notification)) }}
     runs-on: ubuntu-latest
