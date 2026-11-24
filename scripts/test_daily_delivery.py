@@ -30,23 +30,28 @@ class DailyDeliveryTests(unittest.TestCase):
         self.calls.append(request)
         if self.timeout: raise TimeoutError()
         return Response(json.dumps({'code':self.status}).encode())
+    def formal(self):
+        p=self.root/'research/2026-10-27.md'
+        p.parent.mkdir(exist_ok=True)
+        p.write_text('2026-10-27\n'+'正文'*700+'\n'+'https://example.com/news\n'*5,encoding='utf-8')
     def send(self):
         deliver(self.root,self.env,self.now,self.save,self.open)
     def report(self, mode='limited'):
         r={'reportDate':'2026-10-27','quality':{'mode':mode},'pages':[]}
         (self.root/'report.json').write_text(json.dumps(r));return r
-    def test_limited_quality_still_sends(self):
-        self.report();self.send();self.assertEqual(len(self.calls),1)
-        self.assertEqual(json.loads(self.state.read_text())['status'],'accepted')
-    def test_missing_report_sends_outage(self):
-        self.send();self.assertEqual(json.loads(self.state.read_text())['edition'],'outage')
+    def test_limited_quality_blocked(self):
+        self.report();self.send();self.assertEqual(len(self.calls),0)
+        self.assertFalse(self.state.exists())
+    def test_missing_report_blocked(self):
+        self.send();self.assertEqual(len(self.calls),0)
+        self.assertFalse(self.state.exists())
     def test_stale_report_never_pretends_today(self):
         r=self.report();r['reportDate']='2026-10-26'
         title,body=render(r,'2026-10-27',False,'https://example.com/')
         self.assertIn('更新通知',title);self.assertIn('2026-10-26',body)
         self.assertNotIn('?date=2026-10-27',body)
     def test_accepted_receipt_suppresses_duplicate(self):
-        self.send();self.send();self.assertEqual(len(self.calls),1)
+        self.formal();self.send();self.send();self.assertEqual(len(self.calls),1)
     def test_research_can_follow_outage(self):
         self.send()
         self.report('research')
@@ -55,7 +60,7 @@ class DailyDeliveryTests(unittest.TestCase):
         canonical.write_text('2026-10-27\n'+'正文'*700+'\n'+'https://example.com/news\n'*5,encoding='utf-8')
         self.send()
         self.send()
-        self.assertEqual(len(self.calls),2)
+        self.assertEqual(len(self.calls),1)
         self.assertEqual(json.loads(self.state.read_text())['edition'],'research')
     def test_research_text_not_truncated(self):
         r=self.report('research')
@@ -64,11 +69,13 @@ class DailyDeliveryTests(unittest.TestCase):
         self.assertIn('长'*500,body)
         self.assertIn('https://example.com/news',body)
     def test_rejected_request_is_retried(self):
+        self.formal()
         self.status=1
         with self.assertRaises(RuntimeError):self.send()
         self.assertEqual(json.loads(self.state.read_text())['status'],'rejected')
         self.status=0;self.send();self.assertEqual(len(self.calls),2)
     def test_timeout_recovery_waits_ten_minutes(self):
+        self.formal()
         self.timeout=True
         with self.assertRaises(RuntimeError):self.send()
         self.timeout=False
@@ -76,6 +83,7 @@ class DailyDeliveryTests(unittest.TestCase):
         self.assertEqual(len(self.calls),1)
         self.now+=timedelta(minutes=11);self.send();self.assertEqual(len(self.calls),2)
     def test_failed_checkpoint_prevents_network_send(self):
+        self.formal()
         def fail(*args):raise OSError('push failed')
         with self.assertRaises(OSError):deliver(self.root,self.env,self.now,fail,self.open)
         self.assertEqual(len(self.calls),0)
@@ -87,6 +95,7 @@ class DailyDeliveryTests(unittest.TestCase):
         (self.root/'report.json').write_text('broken');self.send()
         self.assertEqual(json.loads(self.state.read_text())['edition'],'outage')
     def test_missing_key_does_not_claim(self):
+        self.formal()
         self.env['SERVERCHAN_SENDKEY']=''
         with self.assertRaises(RuntimeError):self.send()
         self.assertFalse(self.state.exists())
