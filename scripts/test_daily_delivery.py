@@ -47,6 +47,19 @@ class DailyDeliveryTests(unittest.TestCase):
         self.assertNotIn('?date=2026-10-27',body)
     def test_accepted_receipt_suppresses_duplicate(self):
         self.send();self.send();self.assertEqual(len(self.calls),1)
+    def test_research_can_follow_outage(self):
+        self.send()
+        self.report('research')
+        self.send()
+        self.send()
+        self.assertEqual(len(self.calls),2)
+        self.assertEqual(json.loads(self.state.read_text())['edition'],'research')
+    def test_research_text_not_truncated(self):
+        r=self.report('research')
+        r['pages']=[{'id':'news','blocks':[{'type':'explainer','title':'事件','paragraphs':['长'*500],'links':[{'title':'原文','url':'https://example.com/news'}]}]}]
+        title,body=render(r,'2026-10-27',False,'https://example.com/')
+        self.assertIn('长'*500,body)
+        self.assertIn('https://example.com/news',body)
     def test_rejected_request_is_retried(self):
         self.status=1
         with self.assertRaises(RuntimeError):self.send()
