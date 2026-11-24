@@ -50,6 +50,9 @@ class DailyDeliveryTests(unittest.TestCase):
     def test_research_can_follow_outage(self):
         self.send()
         self.report('research')
+        canonical=self.root/'research/2026-10-27.md'
+        canonical.parent.mkdir()
+        canonical.write_text('2026-10-27\n'+'正文'*700+'\n'+'https://example.com/news\n'*5,encoding='utf-8')
         self.send()
         self.send()
         self.assertEqual(len(self.calls),2)
