@@ -91,35 +91,19 @@ def deliver(root, env, now, save=checkpoint, opener=urllib.request.urlopen):
     if previous.get('status') in ('sending', 'request_unknown') and previous.get('attemptedAt'):
         if now - datetime.fromisoformat(previous['attemptedAt']) < timedelta(minutes=10):
             raise RuntimeError('Previous attempt unresolved; recovery waits ten minutes')
-    try:
-        report = json.loads((root / 'report.json').read_text())
-    except (OSError, ValueError):
-        report = {}
-    # Canonical full text authored by the research task, never by RSS collection.
     canonical = root / 'research' / f'{today}.md'
-    full_text = canonical.read_text(encoding='utf-8').strip() if canonical.exists() else ''
-    if full_text and (len(full_text) < 1200 or full_text.count('https://') < 5 or today not in full_text):
-        raise RuntimeError('Canonical research text failed minimum structural checks')
-    research = bool(full_text)
-    if previous.get('status') == 'accepted' and not research:
-        print('Fallback already accepted; waiting for verified research edition')
+    if not canonical.exists():
+        print('BLOCKED: no formal research edition; no ServerChan request')
         return
-    published = False
-    site_url = env.get('SITE_URL', 'https://wsy-bj.github.io/finance-morning-brief/')
-    if report.get('reportDate') == today:
-        try:
-            with opener(site_url.rstrip('/') + '/report.json?delivery=' + str(int(now.timestamp())), timeout=12) as response:
-                published = json.load(response) == report
-        except Exception:
-            pass
-    title, body = render(report, today, published, site_url)
-    if research:
-        title, body = f'{today} 财经晨报', full_text
+    full_text = canonical.read_text(encoding='utf-8').strip()
+    if len(full_text) < 1200 or full_text.count('https://') < 5 or today not in full_text:
+        raise RuntimeError('BLOCKED: formal research failed structural checks')
+    title, body = f'{today} 财经晨报', full_text
     key = env.get('SERVERCHAN_SENDKEY', '').strip()
     if not key.startswith('SCT'):
         raise RuntimeError('ServerChan SendKey missing or invalid; no request made')
     state = dict(date=today, status='sending', delivery='unverified', attemptedAt=now.isoformat(),
-                 attempt=int(previous.get('attempt', 0)) + 1, edition='research' if research else 'limited' if report.get('reportDate') == today else 'outage')
+                 attempt=int(previous.get('attempt', 0)) + 1, edition='research')
     # Persist BEFORE network access. A push failure prevents a potentially untracked send.
     save(root, path, state)
     payload = urllib.parse.urlencode({'title': title, 'desp': body}).encode()
