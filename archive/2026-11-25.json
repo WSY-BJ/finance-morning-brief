@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 17:05",
+  "date": "更新于北京时间 2026-11-25 17:49",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T17:05:49+08:00",
+  "updatedAt": "2026-11-25T17:49:25+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,16 +177,61 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "最后15分钟，突然放量",
+          "title": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T16:42:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833418"
+              "url": "https://www.cnstock.com/commonDetail/833437"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833429"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833435"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T17:12:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833444"
             }
           ]
         },
@@ -237,91 +282,46 @@
         },
         {
           "type": "explainer",
-          "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+          "title": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T09:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T09:20:26+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833291"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "华发股份：终止2026年度定增事项并撤回申请文件",
+          "title": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T09:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T09:04:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833290"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+          "title": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:51:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T08:57:30+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833208"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:43:45+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:35:09+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:25:57+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5"
             }
           ]
         }
@@ -379,13 +379,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-24"
     },
     {
@@ -394,8 +389,13 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-24"
     },
     {
@@ -404,9 +404,9 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-23"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-24"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,9 +414,24 @@
       "asOf": "2026-11-23"
     },
     {
-      "title": "最后15分钟，突然放量",
-      "url": "https://www.cnstock.com/commonDetail/833418",
-      "asOf": "2026-11-25T16:42:00+08:00"
+      "title": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
+      "url": "https://www.cnstock.com/commonDetail/833437",
+      "asOf": "2026-11-25T17:13:00+08:00"
+    },
+    {
+      "title": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
+      "url": "https://www.cnstock.com/commonDetail/833429",
+      "asOf": "2026-11-25T17:13:00+08:00"
+    },
+    {
+      "title": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
+      "url": "https://www.cnstock.com/commonDetail/833435",
+      "asOf": "2026-11-25T17:13:00+08:00"
+    },
+    {
+      "title": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
+      "url": "https://www.cnstock.com/commonDetail/833444",
+      "asOf": "2026-11-25T17:12:00+08:00"
     },
     {
       "title": "坚守四年的黄金多头，离场",
@@ -434,43 +449,52 @@
       "asOf": "2026-11-25T13:19:00+08:00"
     },
     {
-      "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "url": "https://www.cnstock.com/commonDetail/833291",
-      "asOf": "2026-11-25T09:25:00+08:00"
+      "title": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5",
+      "asOf": "2026-11-25T09:20:26+00:00"
     },
     {
-      "title": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "url": "https://www.cnstock.com/commonDetail/833290",
-      "asOf": "2026-11-25T09:22:00+08:00"
+      "title": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5",
+      "asOf": "2026-11-25T09:04:47+00:00"
     },
     {
-      "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "url": "https://www.cnstock.com/commonDetail/833208",
-      "asOf": "2026-11-25T08:51:00+08:00"
-    },
-    {
-      "title": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5",
-      "asOf": "2026-11-25T08:43:45+00:00"
-    },
-    {
-      "title": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5",
-      "asOf": "2026-11-25T08:35:09+00:00"
-    },
-    {
-      "title": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5",
-      "asOf": "2026-11-25T08:25:57+00:00"
+      "title": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5",
+      "asOf": "2026-11-25T08:57:30+00:00"
     }
   ],
   "events": [
     {
-      "event": "最后15分钟，突然放量",
-      "originalTitle": "最后15分钟，突然放量",
-      "published": "2026-11-25T16:42:00+08:00",
+      "event": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
+      "originalTitle": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
+      "published": "2026-11-25T17:13:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833418",
+      "url": "https://www.cnstock.com/commonDetail/833437",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
+      "originalTitle": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
+      "published": "2026-11-25T17:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833429",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
+      "originalTitle": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
+      "published": "2026-11-25T17:13:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833435",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
+      "originalTitle": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
+      "published": "2026-11-25T17:12:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833444",
       "evidenceLevel": "headline-only"
     },
     {
@@ -498,52 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "originalTitle": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "published": "2026-11-25T09:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833291",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "originalTitle": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "published": "2026-11-25T09:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833290",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "originalTitle": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "published": "2026-11-25T08:51:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833208",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
-      "published": "2026-11-25T08:43:45+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道"
-    },
-    {
-      "event": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
-      "published": "2026-11-25T08:35:09+00:00",
+      "event": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
+      "published": "2026-11-25T09:20:26+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "浙商银行南宁分行：对公金融服务助企发展 - 新华网"
+      "originalTitle": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网"
     },
     {
-      "event": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
-      "published": "2026-11-25T08:25:57+00:00",
+      "event": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
+      "published": "2026-11-25T09:04:47+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网"
+      "originalTitle": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网"
+    },
+    {
+      "event": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
+      "published": "2026-11-25T08:57:30+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网"
     }
   ],
   "quality": {
