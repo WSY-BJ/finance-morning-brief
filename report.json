@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-24",
-  "date": "更新于北京时间 2026-11-24 22:53",
-  "reportDate": "2026-11-24",
-  "updatedAt": "2026-11-24T22:53:07+08:00",
+  "edition": "财经晨报 · 2026-11-25",
+  "date": "更新于北京时间 2026-11-25 12:08",
+  "reportDate": "2026-11-25",
+  "updatedAt": "2026-11-25T12:08:53+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-24 财经资料（待核验）",
+    "title": "2026-11-25 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,7 +46,7 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
+          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
@@ -80,23 +80,23 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 -0.13 个百分点",
+          "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-20；前值 4.76（2026-11-19）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 +0.00 个百分点",
+          "summary": "4.91 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：美国财政部。"
+            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：美国财政部。"
           ],
           "links": [
             {
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6770 人民币/美元；变化 +0.0105 人民币/美元",
+          "summary": "6.6643 人民币/美元；变化 -0.0127 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-23；前值 6.6665（2026-11-20）；来源：Yahoo Finance。"
+            "观测日 2026-11-24；前值 6.6770（2026-11-23）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "她，也卖飞了",
+          "title": "学习新语｜习近平总书记深情寄语航天工作者",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T22:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T11:56:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833182"
+              "url": "https://www.cnstock.com/commonDetail/833351"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "管理费率“上蹿下跳”！这只基金怎么了？",
+          "title": "扩产项目开工！光芯片龙头拉升",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T22:33:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T11:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833184"
+              "url": "https://www.cnstock.com/commonDetail/833337"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "频现大单拉升！4分钟成交22亿元",
+          "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T19:36:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T09:25:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833029"
+              "url": "https://www.cnstock.com/commonDetail/833291"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "存储芯片，供不应求还能延续多久？",
+          "title": "华发股份：终止2026年度定增事项并撤回申请文件",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T19:36:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T09:22:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833028"
+              "url": "https://www.cnstock.com/commonDetail/833290"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
+          "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T17:03:00+08:00；来源：新华社客户端。",
+            "发布时间：2026-11-25T08:51:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832829"
+              "url": "https://www.cnstock.com/commonDetail/833208"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中东资本，加码A股",
+          "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T17:03:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T08:17:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832827"
+              "url": "https://www.cnstock.com/commonDetail/833267"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
+          "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T15:39:00+08:00；来源：新华社。",
+            "发布时间：2026-11-25T08:09:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/832792"
+              "url": "https://www.cnstock.com/commonDetail/833261"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
+          "title": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T14:41:36+00:00；来源：新华网。",
+            "发布时间：2026-11-25T07:59:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833256"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
+          "title": "黄仁勋回归：全球AI供应链的变局与新机",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T14:17:57+00:00；来源：新华网。",
+            "发布时间：2026-11-25T07:55:00+08:00；来源：上海证券报。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833250"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
+          "title": "中国助力津巴布韦加强艾滋病防治 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-24T13:51:46+00:00；来源：新华网。",
+            "发布时间：2026-11-25T03:48:40+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ET0x4QVRwY2hBREdqS0tJZGxjMEoycEo3VDZzb3ZMdVNkb0V3TktNcVNXRkhMZVpLbGVfRUR0Vk0xdzdhYUNaQmFBdGstaXpxQjBrR0RGUjQzNDRpbktiTkRXbzF0ZURqdVVoQXY2YjU4RU9ETXF3bWJtVzZaNnc?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 47 课：情景分析",
+      "title": "第 48 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -381,11 +381,11 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-23"
+      "asOf": "2026-11-24"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-23"
     },
     {
@@ -394,8 +394,8 @@
       "asOf": "2026-11-23"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-23"
     },
     {
@@ -406,144 +406,144 @@
     {
       "title": "美国 10 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-23"
+      "asOf": "2026-11-24"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-20"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-24"
     },
     {
-      "title": "她，也卖飞了",
-      "url": "https://www.cnstock.com/commonDetail/833182",
-      "asOf": "2026-11-24T22:33:00+08:00"
+      "title": "学习新语｜习近平总书记深情寄语航天工作者",
+      "url": "https://www.cnstock.com/commonDetail/833351",
+      "asOf": "2026-11-25T11:56:00+08:00"
     },
     {
-      "title": "管理费率“上蹿下跳”！这只基金怎么了？",
-      "url": "https://www.cnstock.com/commonDetail/833184",
-      "asOf": "2026-11-24T22:33:00+08:00"
+      "title": "扩产项目开工！光芯片龙头拉升",
+      "url": "https://www.cnstock.com/commonDetail/833337",
+      "asOf": "2026-11-25T11:22:00+08:00"
     },
     {
-      "title": "频现大单拉升！4分钟成交22亿元",
-      "url": "https://www.cnstock.com/commonDetail/833029",
-      "asOf": "2026-11-24T19:36:00+08:00"
+      "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "url": "https://www.cnstock.com/commonDetail/833291",
+      "asOf": "2026-11-25T09:25:00+08:00"
     },
     {
-      "title": "存储芯片，供不应求还能延续多久？",
-      "url": "https://www.cnstock.com/commonDetail/833028",
-      "asOf": "2026-11-24T19:36:00+08:00"
+      "title": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "url": "https://www.cnstock.com/commonDetail/833290",
+      "asOf": "2026-11-25T09:22:00+08:00"
     },
     {
-      "title": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
-      "url": "https://www.cnstock.com/commonDetail/832829",
-      "asOf": "2026-11-24T17:03:00+08:00"
+      "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "url": "https://www.cnstock.com/commonDetail/833208",
+      "asOf": "2026-11-25T08:51:00+08:00"
     },
     {
-      "title": "中东资本，加码A股",
-      "url": "https://www.cnstock.com/commonDetail/832827",
-      "asOf": "2026-11-24T17:03:00+08:00"
+      "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "url": "https://www.cnstock.com/commonDetail/833267",
+      "asOf": "2026-11-25T08:17:00+08:00"
     },
     {
-      "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
-      "url": "https://www.cnstock.com/commonDetail/832792",
-      "asOf": "2026-11-24T15:39:00+08:00"
+      "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "url": "https://www.cnstock.com/commonDetail/833261",
+      "asOf": "2026-11-25T08:09:00+08:00"
     },
     {
-      "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5",
-      "asOf": "2026-11-24T14:41:36+00:00"
+      "title": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
+      "url": "https://www.cnstock.com/commonDetail/833256",
+      "asOf": "2026-11-25T07:59:00+08:00"
     },
     {
-      "title": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5",
-      "asOf": "2026-11-24T14:17:57+00:00"
+      "title": "黄仁勋回归：全球AI供应链的变局与新机",
+      "url": "https://www.cnstock.com/commonDetail/833250",
+      "asOf": "2026-11-25T07:55:00+08:00"
     },
     {
-      "title": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5",
-      "asOf": "2026-11-24T13:51:46+00:00"
+      "title": "中国助力津巴布韦加强艾滋病防治 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ET0x4QVRwY2hBREdqS0tJZGxjMEoycEo3VDZzb3ZMdVNkb0V3TktNcVNXRkhMZVpLbGVfRUR0Vk0xdzdhYUNaQmFBdGstaXpxQjBrR0RGUjQzNDRpbktiTkRXbzF0ZURqdVVoQXY2YjU4RU9ETXF3bWJtVzZaNnc?oc=5",
+      "asOf": "2026-11-25T03:48:40+00:00"
     }
   ],
   "events": [
     {
-      "event": "她，也卖飞了",
-      "originalTitle": "她，也卖飞了",
-      "published": "2026-11-24T22:33:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833182",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "管理费率“上蹿下跳”！这只基金怎么了？",
-      "originalTitle": "管理费率“上蹿下跳”！这只基金怎么了？",
-      "published": "2026-11-24T22:33:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833184",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "频现大单拉升！4分钟成交22亿元",
-      "originalTitle": "频现大单拉升！4分钟成交22亿元",
-      "published": "2026-11-24T19:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833029",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "存储芯片，供不应求还能延续多久？",
-      "originalTitle": "存储芯片，供不应求还能延续多久？",
-      "published": "2026-11-24T19:36:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833028",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
-      "originalTitle": "商务部回应欧盟宣布对混动汽车采取临时保障措施",
-      "published": "2026-11-24T17:03:00+08:00",
-      "publisher": "新华社客户端",
-      "url": "https://www.cnstock.com/commonDetail/832829",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中东资本，加码A股",
-      "originalTitle": "中东资本，加码A股",
-      "published": "2026-11-24T17:03:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/832827",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
-      "originalTitle": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
-      "published": "2026-11-24T15:39:00+08:00",
+      "event": "学习新语｜习近平总书记深情寄语航天工作者",
+      "originalTitle": "学习新语｜习近平总书记深情寄语航天工作者",
+      "published": "2026-11-25T11:56:00+08:00",
       "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/832792",
+      "url": "https://www.cnstock.com/commonDetail/833351",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网",
-      "published": "2026-11-24T14:41:36+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXVSYTlpQVk4Z3pKWHVMVkRBLVVSNTBJN2ppV3I0ZkRiUS1vRnNpVnBpWWNHZTNod21qU1FhMjhrYlh3dk5KZDJhZTZyakxuLV9BenBzS09LTmRLRlhVTFZldnF2bWJ5dnBpUzUySGx6aE5DS0VmYmJkR2owSnc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行 - 新华网"
+      "event": "扩产项目开工！光芯片龙头拉升",
+      "originalTitle": "扩产项目开工！光芯片龙头拉升",
+      "published": "2026-11-25T11:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833337",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网",
-      "published": "2026-11-24T14:17:57+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YRTVjcFNNc0l0U1hDYzFlbVZvbHo3NzBZYkNqV2xzM0lsQjNUSDZQWDZtblZKUWZXUElsb1pOYkwtb3hKUW83UDdXNldndmozQXVJMk9UVGVjZTVCaV9vbDBRRjJ5ZUF2Y3FuTGF5Um9QSzBwLVVPM3c2T3dWXzg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "欧洲专家呼吁以务实合作推动欧中关系发展 - 新华网"
+      "event": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "originalTitle": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "published": "2026-11-25T09:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833291",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网",
-      "published": "2026-11-24T13:51:46+00:00",
+      "event": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "originalTitle": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "published": "2026-11-25T09:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833290",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "originalTitle": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "published": "2026-11-25T08:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833208",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "originalTitle": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "published": "2026-11-25T08:17:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833267",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "originalTitle": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "published": "2026-11-25T08:09:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833261",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
+      "originalTitle": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
+      "published": "2026-11-25T07:59:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833256",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "黄仁勋回归：全球AI供应链的变局与新机",
+      "originalTitle": "黄仁勋回归：全球AI供应链的变局与新机",
+      "published": "2026-11-25T07:55:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833250",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中国助力津巴布韦加强艾滋病防治 - 新华网",
+      "published": "2026-11-25T03:48:40+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ET0x4QVRwY2hBREdqS0tJZGxjMEoycEo3VDZzb3ZMdVNkb0V3TktNcVNXRkhMZVpLbGVfRUR0Vk0xdzdhYUNaQmFBdGstaXpxQjBrR0RGUjQzNDRpbktiTkRXbzF0ZURqdVVoQXY2YjU4RU9ETXF3bWJtVzZaNnc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击” - 新华网"
+      "originalTitle": "中国助力津巴布韦加强艾滋病防治 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,8 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
