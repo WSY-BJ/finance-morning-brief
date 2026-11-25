@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 13:01",
+  "date": "更新于北京时间 2026-11-25 13:35",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T13:01:32+08:00",
+  "updatedAt": "2026-11-25T13:35:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,21 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T13:19:00+08:00；来源：新华社客户端。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833366"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "学习新语｜习近平总书记深情寄语航天工作者",
           "summary": "",
           "paragraphs": [
@@ -309,21 +324,6 @@
               "url": "https://www.cnstock.com/commonDetail/833250"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T04:37:04+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkx6dnFnQVByQXd3LUIyRmdjRlFiaEFPeHFTbG5lQWFFZmE0Z3dpbzEwM3Ruc1dnNVJlbzlDVUVnLUxncjVWLVNSTXRTaDZPYWljR0prNmphRnRUcTZGRm5fbGtXaEZHTkFiN3R0cEdodEJ6Y1VoM1dqb0VPV3pMckx3?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -379,8 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-24"
     },
     {
@@ -389,13 +394,8 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-24"
     },
     {
@@ -412,6 +412,11 @@
       "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-24"
+    },
+    {
+      "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "url": "https://www.cnstock.com/commonDetail/833366",
+      "asOf": "2026-11-25T13:19:00+08:00"
     },
     {
       "title": "学习新语｜习近平总书记深情寄语航天工作者",
@@ -457,14 +462,17 @@
       "title": "黄仁勋回归：全球AI供应链的变局与新机",
       "url": "https://www.cnstock.com/commonDetail/833250",
       "asOf": "2026-11-25T07:55:00+08:00"
-    },
-    {
-      "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkx6dnFnQVByQXd3LUIyRmdjRlFiaEFPeHFTbG5lQWFFZmE0Z3dpbzEwM3Ruc1dnNVJlbzlDVUVnLUxncjVWLVNSTXRTaDZPYWljR0prNmphRnRUcTZGRm5fbGtXaEZHTkFiN3R0cEdodEJ6Y1VoM1dqb0VPV3pMckx3?oc=5",
-      "asOf": "2026-11-25T04:37:04+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "originalTitle": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "published": "2026-11-25T13:19:00+08:00",
+      "publisher": "新华社客户端",
+      "url": "https://www.cnstock.com/commonDetail/833366",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "学习新语｜习近平总书记深情寄语航天工作者",
       "originalTitle": "学习新语｜习近平总书记深情寄语航天工作者",
@@ -536,14 +544,6 @@
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/833250",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
-      "published": "2026-11-25T04:37:04+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkx6dnFnQVByQXd3LUIyRmdjRlFiaEFPeHFTbG5lQWFFZmE0Z3dpbzEwM3Ruc1dnNVJlbzlDVUVnLUxncjVWLVNSTXRTaDZPYWljR0prNmphRnRUcTZGRm5fbGtXaEZHTkFiN3R0cEdodEJ6Y1VoM1dqb0VPV3pMckx3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网"
     }
   ],
   "quality": {
@@ -564,7 +564,7 @@
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
-      "article: HTTPError",
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError"
     ]
