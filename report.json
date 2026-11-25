@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 13:58",
+  "date": "更新于北京时间 2026-11-25 16:16",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T13:58:19+08:00",
+  "updatedAt": "2026-11-25T16:16:45+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
+          "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T05:22:18+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:08:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
+          "title": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T05:12:12+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:07:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
+          "title": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T05:00:16+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:06:08+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
+          "title": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:58:44+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:05:38+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
+          "title": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:55:51+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:05:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "全区经济形势分析会召开 - 新华网江苏频道",
+          "title": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:30:08+00:00；来源：新华网江苏频道。",
+            "发布时间：2026-11-25T08:04:39+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
+          "title": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:11:50+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:01:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
+          "title": "青岛全力打造民营经济发展强市 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:08:22+00:00；来源：新华网。",
+            "发布时间：2026-11-25T07:58:15+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
+          "title": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:07:24+00:00；来源：新华网。",
+            "发布时间：2026-11-25T07:55:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
+          "title": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T04:05:03+00:00；来源：新华网。",
+            "发布时间：2026-11-25T07:41:27+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5"
             }
           ]
         }
@@ -384,13 +384,13 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-24"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-24"
     },
     {
@@ -404,146 +404,146 @@
       "asOf": "2026-11-24"
     },
     {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-23"
+      "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
+      "asOf": "2026-11-25T08:08:27+00:00"
     },
     {
-      "title": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5",
-      "asOf": "2026-11-25T05:22:18+00:00"
+      "title": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5",
+      "asOf": "2026-11-25T08:07:08+00:00"
     },
     {
-      "title": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5",
-      "asOf": "2026-11-25T05:12:12+00:00"
+      "title": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5",
+      "asOf": "2026-11-25T08:06:08+00:00"
     },
     {
-      "title": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5",
-      "asOf": "2026-11-25T05:00:16+00:00"
+      "title": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5",
+      "asOf": "2026-11-25T08:05:38+00:00"
     },
     {
-      "title": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5",
-      "asOf": "2026-11-25T04:58:44+00:00"
+      "title": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5",
+      "asOf": "2026-11-25T08:05:12+00:00"
     },
     {
-      "title": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5",
-      "asOf": "2026-11-25T04:55:51+00:00"
+      "title": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5",
+      "asOf": "2026-11-25T08:04:39+00:00"
     },
     {
-      "title": "全区经济形势分析会召开 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5",
-      "asOf": "2026-11-25T04:30:08+00:00"
+      "title": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5",
+      "asOf": "2026-11-25T08:01:58+00:00"
     },
     {
-      "title": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5",
-      "asOf": "2026-11-25T04:11:50+00:00"
+      "title": "青岛全力打造民营经济发展强市 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5",
+      "asOf": "2026-11-25T07:58:15+00:00"
     },
     {
-      "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5",
-      "asOf": "2026-11-25T04:08:22+00:00"
+      "title": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5",
+      "asOf": "2026-11-25T07:55:22+00:00"
     },
     {
-      "title": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5",
-      "asOf": "2026-11-25T04:07:24+00:00"
-    },
-    {
-      "title": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5",
-      "asOf": "2026-11-25T04:05:03+00:00"
+      "title": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5",
+      "asOf": "2026-11-25T07:41:27+00:00"
     }
   ],
   "events": [
     {
-      "event": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
-      "published": "2026-11-25T05:22:18+00:00",
+      "event": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
+      "published": "2026-11-25T08:08:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网"
+      "originalTitle": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网"
     },
     {
-      "event": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
-      "published": "2026-11-25T05:12:12+00:00",
+      "event": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
+      "published": "2026-11-25T08:07:08+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网"
+      "originalTitle": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网"
     },
     {
-      "event": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
-      "published": "2026-11-25T05:00:16+00:00",
+      "event": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
+      "published": "2026-11-25T08:06:08+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网"
+      "originalTitle": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网"
     },
     {
-      "event": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
-      "published": "2026-11-25T04:58:44+00:00",
+      "event": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
+      "published": "2026-11-25T08:05:38+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网"
+      "originalTitle": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网"
     },
     {
-      "event": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
-      "published": "2026-11-25T04:55:51+00:00",
+      "event": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
+      "published": "2026-11-25T08:05:12+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网"
+      "originalTitle": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网"
     },
     {
-      "event": "全区经济形势分析会召开 - 新华网江苏频道",
-      "published": "2026-11-25T04:30:08+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5",
+      "event": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
+      "published": "2026-11-25T08:04:39+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "全区经济形势分析会召开 - 新华网江苏频道"
+      "originalTitle": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网"
     },
     {
-      "event": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
-      "published": "2026-11-25T04:11:50+00:00",
+      "event": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
+      "published": "2026-11-25T08:01:58+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网"
+      "originalTitle": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网"
     },
     {
-      "event": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
-      "published": "2026-11-25T04:08:22+00:00",
+      "event": "青岛全力打造民营经济发展强市 - 新华网",
+      "published": "2026-11-25T07:58:15+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网"
+      "originalTitle": "青岛全力打造民营经济发展强市 - 新华网"
     },
     {
-      "event": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
-      "published": "2026-11-25T04:07:24+00:00",
+      "event": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
+      "published": "2026-11-25T07:55:22+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网"
+      "originalTitle": "健康我来说丨“闪身步”暗藏健康风险 - 新华网"
     },
     {
-      "event": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
-      "published": "2026-11-25T04:05:03+00:00",
+      "event": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
+      "published": "2026-11-25T07:41:27+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网"
+      "originalTitle": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "中文新闻索引: HTTPError",
       "中国证券网原文: URLError"
     ]
   }
