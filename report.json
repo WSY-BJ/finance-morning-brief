@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 17:49",
+  "date": "更新于北京时间 2026-11-25 22:23",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T17:49:25+08:00",
+  "updatedAt": "2026-11-25T22:23:27+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
+            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,76 +177,136 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
+          "title": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T21:49:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833437"
+              "url": "https://www.cnstock.com/commonDetail/833688"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
+          "title": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T21:49:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833429"
+              "url": "https://www.cnstock.com/commonDetail/833689"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
+          "title": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T17:13:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T21:07:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833435"
+              "url": "https://www.cnstock.com/commonDetail/833732"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
+          "title": "行业人士：公募REITs市场具备长期配置价值",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T17:12:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T21:07:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833444"
+              "url": "https://www.cnstock.com/commonDetail/833737"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "坚守四年的黄金多头，离场",
+          "title": "华东重机：简易程序定增申请获证监会同意注册批复",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T16:41:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T20:42:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833416"
+              "url": "https://www.cnstock.com/commonDetail/833615"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T14:11:32+00:00；来源：新华网浙江。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T14:10:35+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "英国家庭能源价格上限将上调近三成 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T13:59:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广东台山核电项目3号机组主体工程开工 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T13:36:23+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5"
             }
           ]
         },
@@ -262,66 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/833373"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中美贸易理事会项下农业工作组首次会议在京举行",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T13:19:00+08:00；来源：新华社客户端。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833366"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T09:20:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T09:04:47+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:57:30+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5"
             }
           ]
         }
@@ -379,16 +379,6 @@
   ],
   "sources": [
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-24"
@@ -399,13 +389,18 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "Brent 原油期货 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-24"
     },
     {
@@ -414,96 +409,133 @@
       "asOf": "2026-11-23"
     },
     {
-      "title": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
-      "url": "https://www.cnstock.com/commonDetail/833437",
-      "asOf": "2026-11-25T17:13:00+08:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-23"
     },
     {
-      "title": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
-      "url": "https://www.cnstock.com/commonDetail/833429",
-      "asOf": "2026-11-25T17:13:00+08:00"
+      "title": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
+      "url": "https://www.cnstock.com/commonDetail/833688",
+      "asOf": "2026-11-25T21:49:00+08:00"
     },
     {
-      "title": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
-      "url": "https://www.cnstock.com/commonDetail/833435",
-      "asOf": "2026-11-25T17:13:00+08:00"
+      "title": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
+      "url": "https://www.cnstock.com/commonDetail/833689",
+      "asOf": "2026-11-25T21:49:00+08:00"
     },
     {
-      "title": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
-      "url": "https://www.cnstock.com/commonDetail/833444",
-      "asOf": "2026-11-25T17:12:00+08:00"
+      "title": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
+      "url": "https://www.cnstock.com/commonDetail/833732",
+      "asOf": "2026-11-25T21:07:00+08:00"
     },
     {
-      "title": "坚守四年的黄金多头，离场",
-      "url": "https://www.cnstock.com/commonDetail/833416",
-      "asOf": "2026-11-25T16:41:00+08:00"
+      "title": "行业人士：公募REITs市场具备长期配置价值",
+      "url": "https://www.cnstock.com/commonDetail/833737",
+      "asOf": "2026-11-25T21:07:00+08:00"
+    },
+    {
+      "title": "华东重机：简易程序定增申请获证监会同意注册批复",
+      "url": "https://www.cnstock.com/commonDetail/833615",
+      "asOf": "2026-11-25T20:42:00+08:00"
+    },
+    {
+      "title": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5",
+      "asOf": "2026-11-25T14:11:32+00:00"
+    },
+    {
+      "title": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5",
+      "asOf": "2026-11-25T14:10:35+00:00"
+    },
+    {
+      "title": "英国家庭能源价格上限将上调近三成 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5",
+      "asOf": "2026-11-25T13:59:49+00:00"
+    },
+    {
+      "title": "广东台山核电项目3号机组主体工程开工 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5",
+      "asOf": "2026-11-25T13:36:23+00:00"
     },
     {
       "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
       "url": "https://www.cnstock.com/commonDetail/833373",
       "asOf": "2026-11-25T13:35:00+08:00"
-    },
-    {
-      "title": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "url": "https://www.cnstock.com/commonDetail/833366",
-      "asOf": "2026-11-25T13:19:00+08:00"
-    },
-    {
-      "title": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5",
-      "asOf": "2026-11-25T09:20:26+00:00"
-    },
-    {
-      "title": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5",
-      "asOf": "2026-11-25T09:04:47+00:00"
-    },
-    {
-      "title": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5",
-      "asOf": "2026-11-25T08:57:30+00:00"
     }
   ],
   "events": [
     {
-      "event": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
-      "originalTitle": "融发核电：子公司中标约1.63亿元核电主管道及波动管项目",
-      "published": "2026-11-25T17:13:00+08:00",
+      "event": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
+      "originalTitle": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
+      "published": "2026-11-25T21:49:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833437",
+      "url": "https://www.cnstock.com/commonDetail/833688",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
-      "originalTitle": "南山铝业：境外全资公司拟1美元受让境外合资公司20%股权",
-      "published": "2026-11-25T17:13:00+08:00",
+      "event": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
+      "originalTitle": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
+      "published": "2026-11-25T21:49:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833429",
+      "url": "https://www.cnstock.com/commonDetail/833689",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
-      "originalTitle": "中国瑞林：董事长提议公司3000万至5000万元回购股份",
-      "published": "2026-11-25T17:13:00+08:00",
+      "event": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
+      "originalTitle": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
+      "published": "2026-11-25T21:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833435",
+      "url": "https://www.cnstock.com/commonDetail/833732",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
-      "originalTitle": "中国证券业协会赵立新：推动证券行业投研与财富管理高质量发展",
-      "published": "2026-11-25T17:12:00+08:00",
+      "event": "行业人士：公募REITs市场具备长期配置价值",
+      "originalTitle": "行业人士：公募REITs市场具备长期配置价值",
+      "published": "2026-11-25T21:07:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833444",
+      "url": "https://www.cnstock.com/commonDetail/833737",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "坚守四年的黄金多头，离场",
-      "originalTitle": "坚守四年的黄金多头，离场",
-      "published": "2026-11-25T16:41:00+08:00",
+      "event": "华东重机：简易程序定增申请获证监会同意注册批复",
+      "originalTitle": "华东重机：简易程序定增申请获证监会同意注册批复",
+      "published": "2026-11-25T20:42:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833416",
+      "url": "https://www.cnstock.com/commonDetail/833615",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
+      "published": "2026-11-25T14:11:32+00:00",
+      "publisher": "新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江"
+    },
+    {
+      "event": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
+      "published": "2026-11-25T14:10:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网"
+    },
+    {
+      "event": "英国家庭能源价格上限将上调近三成 - 新华网",
+      "published": "2026-11-25T13:59:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "英国家庭能源价格上限将上调近三成 - 新华网"
+    },
+    {
+      "event": "广东台山核电项目3号机组主体工程开工 - 新华网",
+      "published": "2026-11-25T13:36:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广东台山核电项目3号机组主体工程开工 - 新华网"
     },
     {
       "event": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
@@ -512,38 +544,6 @@
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/833373",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "originalTitle": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "published": "2026-11-25T13:19:00+08:00",
-      "publisher": "新华社客户端",
-      "url": "https://www.cnstock.com/commonDetail/833366",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网",
-      "published": "2026-11-25T09:20:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRk5nX2VaaUw1ekRYYk55bTFWZkVNdjlfZ0JDZDNzSWo5Y2g4dUEwWDJiSnNHUEZHVXFxMjRCdzhCV0N5SVF6RkVvR012czBDajBEcm5tdDFqV3ZwRUhCbFJfUTdpeDQzWjg0Yl96RFJXdUlFWGRTbWtLTWo0S0U?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "马来西亚政府官员基础汉语课程42名学员结业 - 新华网"
-    },
-    {
-      "event": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网",
-      "published": "2026-11-25T09:04:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY1pac2c3ZHVoYmxVRWNlTEpaMVQ4NTlpMjMtNEFoY0Ztcnp6bHFXLTRMcHpGNVMzUUtTTmotSzllQ1FZR0VzNjdtN0xvbmlxWXl5YlRfSHJuWE5mSFBlcWU4TnYxd195a3plNUlaamhqaW5u?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“十五五”@你｜旧物新生 一台旧冰箱的“重生之旅” - 新华网"
-    },
-    {
-      "event": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网",
-      "published": "2026-11-25T08:57:30+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xR0cwbkxmTUJHa0JBcmdBeDlEWmQ0ZE1tb2Z5aDNOMEVUNnhrSTl5b3FCc1YwSmlwV3hoU01fRUVHcDhob3hidlIxZkRucjBOQW16S0RSaDRuYTgyN1U1RmxTR0V1azNKVGgycWhNYmhvWlo4RVJv?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "家乡连线丨化学老师回忆航天员武毅的高中生活 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
