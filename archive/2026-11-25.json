@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 13:35",
+  "date": "更新于北京时间 2026-11-25 13:58",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T13:35:22+08:00",
+  "updatedAt": "2026-11-25T13:58:19+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
+          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -82,26 +82,26 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
+            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.01 个百分点",
+          "summary": "4.92 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：美国财政部。"
+            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+          "title": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T13:19:00+08:00；来源：新华社客户端。",
+            "发布时间：2026-11-25T05:22:18+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833366"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "学习新语｜习近平总书记深情寄语航天工作者",
+          "title": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T11:56:00+08:00；来源：新华社。",
+            "发布时间：2026-11-25T05:12:12+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833351"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "扩产项目开工！光芯片龙头拉升",
+          "title": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T11:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T05:00:16+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833337"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+          "title": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T09:25:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T04:58:44+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833291"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "华发股份：终止2026年度定增事项并撤回申请文件",
+          "title": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T09:22:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T04:55:51+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833290"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+          "title": "全区经济形势分析会召开 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:51:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-25T04:30:08+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833208"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+          "title": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:17:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T04:11:50+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833267"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
+          "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:09:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T04:08:22+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833261"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
+          "title": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T07:59:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T04:07:24+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833256"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "黄仁勋回归：全球AI供应链的变局与新机",
+          "title": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T07:55:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T04:05:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833250"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5"
             }
           ]
         }
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-24"
@@ -394,156 +399,151 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-24"
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-23"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-24"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-23"
     },
     {
-      "title": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "url": "https://www.cnstock.com/commonDetail/833366",
-      "asOf": "2026-11-25T13:19:00+08:00"
+      "title": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5",
+      "asOf": "2026-11-25T05:22:18+00:00"
     },
     {
-      "title": "学习新语｜习近平总书记深情寄语航天工作者",
-      "url": "https://www.cnstock.com/commonDetail/833351",
-      "asOf": "2026-11-25T11:56:00+08:00"
+      "title": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5",
+      "asOf": "2026-11-25T05:12:12+00:00"
     },
     {
-      "title": "扩产项目开工！光芯片龙头拉升",
-      "url": "https://www.cnstock.com/commonDetail/833337",
-      "asOf": "2026-11-25T11:22:00+08:00"
+      "title": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5",
+      "asOf": "2026-11-25T05:00:16+00:00"
     },
     {
-      "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "url": "https://www.cnstock.com/commonDetail/833291",
-      "asOf": "2026-11-25T09:25:00+08:00"
+      "title": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5",
+      "asOf": "2026-11-25T04:58:44+00:00"
     },
     {
-      "title": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "url": "https://www.cnstock.com/commonDetail/833290",
-      "asOf": "2026-11-25T09:22:00+08:00"
+      "title": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5",
+      "asOf": "2026-11-25T04:55:51+00:00"
     },
     {
-      "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "url": "https://www.cnstock.com/commonDetail/833208",
-      "asOf": "2026-11-25T08:51:00+08:00"
+      "title": "全区经济形势分析会召开 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5",
+      "asOf": "2026-11-25T04:30:08+00:00"
     },
     {
-      "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "url": "https://www.cnstock.com/commonDetail/833267",
-      "asOf": "2026-11-25T08:17:00+08:00"
+      "title": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5",
+      "asOf": "2026-11-25T04:11:50+00:00"
     },
     {
-      "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "url": "https://www.cnstock.com/commonDetail/833261",
-      "asOf": "2026-11-25T08:09:00+08:00"
+      "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5",
+      "asOf": "2026-11-25T04:08:22+00:00"
     },
     {
-      "title": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
-      "url": "https://www.cnstock.com/commonDetail/833256",
-      "asOf": "2026-11-25T07:59:00+08:00"
+      "title": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5",
+      "asOf": "2026-11-25T04:07:24+00:00"
     },
     {
-      "title": "黄仁勋回归：全球AI供应链的变局与新机",
-      "url": "https://www.cnstock.com/commonDetail/833250",
-      "asOf": "2026-11-25T07:55:00+08:00"
+      "title": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5",
+      "asOf": "2026-11-25T04:05:03+00:00"
     }
   ],
   "events": [
     {
-      "event": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "originalTitle": "中美贸易理事会项下农业工作组首次会议在京举行",
-      "published": "2026-11-25T13:19:00+08:00",
-      "publisher": "新华社客户端",
-      "url": "https://www.cnstock.com/commonDetail/833366",
-      "evidenceLevel": "headline-only"
+      "event": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网",
+      "published": "2026-11-25T05:22:18+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQjg2VFhfMkphWlViRnVjOTZCOFBlZ2VLUEt3TEloZnMwWl9Fb3Zqal9BNFFGN0JleWUxTndiU0lDZ1VpSlhlaWN0WGlXVUJ4VHRSNndUSF9DRFBtSm0tMFpNU0NQbE1JeUNFUlBTaHhmbmc2YmNNdXloWUpjVms?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "特朗普：对伊朗军事行动经费能撑到明年1月底 - 新华网"
     },
     {
-      "event": "学习新语｜习近平总书记深情寄语航天工作者",
-      "originalTitle": "学习新语｜习近平总书记深情寄语航天工作者",
-      "published": "2026-11-25T11:56:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/833351",
-      "evidenceLevel": "headline-only"
+      "event": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网",
+      "published": "2026-11-25T05:12:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wV3FTRVI2MzNoRklHX1hLOEcwRTR1WW5Uel9WNDRfN0Z2VlU0MkExWlRQMXRUdHF3WTBLRTJpeWxCamJCVmtGN2lBYnl4OHp6Z20wSzJmU2xoZ2Zqdnp4aFRMVzhuVmZYU3Z3ZkY2UmJyMjNEQV8xTWljUVVJQUk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "加防长回应五角大楼指责：“我们不向美国汇报” - 新华网"
     },
     {
-      "event": "扩产项目开工！光芯片龙头拉升",
-      "originalTitle": "扩产项目开工！光芯片龙头拉升",
-      "published": "2026-11-25T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833337",
-      "evidenceLevel": "headline-only"
+      "event": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网",
+      "published": "2026-11-25T05:00:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMWJTb1BOM2hLTW9OcHVoa1BwLWdHRWswOG5UN1hxZHVYakhGVnBHUnk5R3NaclhTSlROZ2NNTWlZNy1obUZnZFdPcWZrYVBSMVRSYXM0OXhUY3JXMDhIcnRzZXNXNm5qOWxIMWZkWThtd25jMHZV?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "行走拉美手记丨阿卡普尔科的跨洋记忆 - 新华网"
     },
     {
-      "event": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "originalTitle": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
-      "published": "2026-11-25T09:25:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833291",
-      "evidenceLevel": "headline-only"
+      "event": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
+      "published": "2026-11-25T04:58:44+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpczFiSG1JbXVkaHdZZFNhMEQwQU1SWU9WNGFNUnZxYnFHbUwxTjFlRUNqdUliZ3dRUkVNRFNNNTNUSVdqUXVDTXQxeDg3aDdvdk1sSlFjQ3lzMzR1ZGNxd2pNVHhNMzViUUdBRTFXV0VJVmZZWXR6NUVZLUl1Zw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网"
     },
     {
-      "event": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "originalTitle": "华发股份：终止2026年度定增事项并撤回申请文件",
-      "published": "2026-11-25T09:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833290",
-      "evidenceLevel": "headline-only"
+      "event": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网",
+      "published": "2026-11-25T04:55:51+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1MlRsT3hUVE16MUFMakVzRlNaZGNDWER0Skk5alRDb3UwX05WNFM2VFR2Tk9YYU1HMzFrTmJfaloyLU9tZFBxS0lWeU9FRUxHRUJabXF3SFZxcjZheC05UXBlbXRRamlGc2FoMmdVenVBSFNTRGxobU5CTG0?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "中国联通吉林分公司完成长春大冬会五环体育馆通信压力测试演练 - 新华网"
     },
     {
-      "event": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "originalTitle": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
-      "published": "2026-11-25T08:51:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833208",
-      "evidenceLevel": "headline-only"
+      "event": "全区经济形势分析会召开 - 新华网江苏频道",
+      "published": "2026-11-25T04:30:08+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrejRtWTZKMGFyZzFKRGVLeExMNjFZYTZkeW5SalVQbWthNkZPNElqR1RKNUxjTE5HTGFvc0lfYzNpRjllOWNVX3M2VnpXSnlsQTFla2ZsQjZmb200M2VMRVRSUWhxYUFNM19YNWc3RldrQ2ts?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "全区经济形势分析会召开 - 新华网江苏频道"
     },
     {
-      "event": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "originalTitle": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "published": "2026-11-25T08:17:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833267",
-      "evidenceLevel": "headline-only"
+      "event": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网",
+      "published": "2026-11-25T04:11:50+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlF0aG9SNWR6Mzcwbnhtb3o3bGk0RXZqMmdWVktiM2NvTVEwcFdMR3FpR1Vnb0ZXbmJUYTNzR1pVOERMenM4cXlMM29QRGJwOTFWRl9kdUV0MjMwMlJycFZER0ZLT1pZWTBRSmhwU3FxcFU1SUtFQjlvMnB3QQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "在场丨独家视角近距离感受神舟二十四号点火出发瞬间 - 新华网"
     },
     {
-      "event": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "originalTitle": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "published": "2026-11-25T08:09:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833261",
-      "evidenceLevel": "headline-only"
+      "event": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网",
+      "published": "2026-11-25T04:08:22+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVVdHN2F4OVpyT0RzdjlMckJNcldYWXB4WXJSQUk0cVIxZjJ2VXVibUdfZWFBSmdlMnQ1WFRQSmlHaFZLcmEtRkdNZElfWkJMamd6YjhEQ1BpNUdrVTRoWmNHSm1TaFRKR0RsZHZvSFl6dDJSSzFDZUZVV3Utb0k?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊 - 新华网"
     },
     {
-      "event": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
-      "originalTitle": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值",
-      "published": "2026-11-25T07:59:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833256",
-      "evidenceLevel": "headline-only"
+      "event": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网",
+      "published": "2026-11-25T04:07:24+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43dGIxM2hzcUhfOEplSGltM3F1MnptU0VwRl9RNzJzVnV0NjRZam8wTlRLd2RQNk1ZYjBXWV83Q1pKR3l3Um42d3VZQ1NsQXhqTjZLVXg2N1Niam41SGViTnI0QkdubFd4S1E1bFpjZUJBcjAxTmtIU2pENGFLZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "通讯丨中巴农业技术合作助力巴基斯坦奶农增产 - 新华网"
     },
     {
-      "event": "黄仁勋回归：全球AI供应链的变局与新机",
-      "originalTitle": "黄仁勋回归：全球AI供应链的变局与新机",
-      "published": "2026-11-25T07:55:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833250",
-      "evidenceLevel": "headline-only"
+      "event": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网",
+      "published": "2026-11-25T04:05:03+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84c1l5OUZxWkJ4WU9hMW9WUFpHYnhJUHVVTHpZN19KS0pUSkh6U013eTlrUlNxY1MtTjRDUnF3Vk9pTi1tMGVoY1RiX2NvRnBkQVV4WjdyLU5lRVlzMlk2SFA4VTVJR2VjN3JfSkZBNk5tb1luZ1o2d2t5b0o2dw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "神舟二十四号丨神舟二十四号载人飞船与空间站组合体完成自主快速交会对接 - 新华网"
     }
   ],
   "quality": {
@@ -557,16 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
