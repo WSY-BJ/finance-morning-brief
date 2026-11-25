@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 16:36",
+  "date": "更新于北京时间 2026-11-25 17:05",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T16:36:34+08:00",
+  "updatedAt": "2026-11-25T17:05:49+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,36 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "最后15分钟，突然放量",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T16:42:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833418"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "坚守四年的黄金多头，离场",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T16:41:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833416"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
           "summary": "",
           "paragraphs": [
@@ -202,21 +232,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/833366"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "扩产项目开工！光芯片龙头拉升",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T11:22:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833337"
             }
           ]
         },
@@ -252,76 +267,61 @@
         },
         {
           "type": "explainer",
-          "title": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
+          "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:17:14+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:51:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833208"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+          "title": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:17:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T08:43:45+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833267"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
+          "title": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:13:57+00:00；来源：新华网。",
+            "发布时间：2026-11-25T08:35:09+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
+          "title": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T08:09:00+08:00；来源：上海证券报。",
+            "发布时间：2026-11-25T08:25:57+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833261"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:08:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5"
             }
           ]
         }
@@ -379,23 +379,23 @@
   ],
   "sources": [
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-24"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-24"
     },
     {
@@ -414,6 +414,16 @@
       "asOf": "2026-11-23"
     },
     {
+      "title": "最后15分钟，突然放量",
+      "url": "https://www.cnstock.com/commonDetail/833418",
+      "asOf": "2026-11-25T16:42:00+08:00"
+    },
+    {
+      "title": "坚守四年的黄金多头，离场",
+      "url": "https://www.cnstock.com/commonDetail/833416",
+      "asOf": "2026-11-25T16:41:00+08:00"
+    },
+    {
       "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
       "url": "https://www.cnstock.com/commonDetail/833373",
       "asOf": "2026-11-25T13:35:00+08:00"
@@ -422,11 +432,6 @@
       "title": "中美贸易理事会项下农业工作组首次会议在京举行",
       "url": "https://www.cnstock.com/commonDetail/833366",
       "asOf": "2026-11-25T13:19:00+08:00"
-    },
-    {
-      "title": "扩产项目开工！光芯片龙头拉升",
-      "url": "https://www.cnstock.com/commonDetail/833337",
-      "asOf": "2026-11-25T11:22:00+08:00"
     },
     {
       "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
@@ -439,32 +444,43 @@
       "asOf": "2026-11-25T09:22:00+08:00"
     },
     {
-      "title": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5",
-      "asOf": "2026-11-25T08:17:14+00:00"
+      "title": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "url": "https://www.cnstock.com/commonDetail/833208",
+      "asOf": "2026-11-25T08:51:00+08:00"
     },
     {
-      "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "url": "https://www.cnstock.com/commonDetail/833267",
-      "asOf": "2026-11-25T08:17:00+08:00"
+      "title": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5",
+      "asOf": "2026-11-25T08:43:45+00:00"
     },
     {
-      "title": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5",
-      "asOf": "2026-11-25T08:13:57+00:00"
+      "title": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5",
+      "asOf": "2026-11-25T08:35:09+00:00"
     },
     {
-      "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "url": "https://www.cnstock.com/commonDetail/833261",
-      "asOf": "2026-11-25T08:09:00+08:00"
-    },
-    {
-      "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
-      "asOf": "2026-11-25T08:08:27+00:00"
+      "title": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5",
+      "asOf": "2026-11-25T08:25:57+00:00"
     }
   ],
   "events": [
+    {
+      "event": "最后15分钟，突然放量",
+      "originalTitle": "最后15分钟，突然放量",
+      "published": "2026-11-25T16:42:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833418",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "坚守四年的黄金多头，离场",
+      "originalTitle": "坚守四年的黄金多头，离场",
+      "published": "2026-11-25T16:41:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833416",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
       "originalTitle": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
@@ -479,14 +495,6 @@
       "published": "2026-11-25T13:19:00+08:00",
       "publisher": "新华社客户端",
       "url": "https://www.cnstock.com/commonDetail/833366",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "扩产项目开工！光芯片龙头拉升",
-      "originalTitle": "扩产项目开工！光芯片龙头拉升",
-      "published": "2026-11-25T11:22:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833337",
       "evidenceLevel": "headline-only"
     },
     {
@@ -506,44 +514,36 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
-      "published": "2026-11-25T08:17:14+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网"
-    },
-    {
-      "event": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "originalTitle": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
-      "published": "2026-11-25T08:17:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833267",
+      "event": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "originalTitle": "天齐锂业：拟约77.9256亿元收购关联方矿业资产",
+      "published": "2026-11-25T08:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833208",
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
-      "published": "2026-11-25T08:13:57+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5",
+      "event": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道",
+      "published": "2026-11-25T08:43:45+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYnlIaDNVVU1RdGlzeFZtYmtuemZ6QUNSeFpJVDh6SEFHT1Ezd25HcGRlLVBsVVBlYWowT1Eta2xVb3AyMllPWTFrQ3kxQ0NHaW5abE4yRFk1U3pxRU5ibDd1TTBUWVFybXhkRnlaLVZ5b0pt?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网"
+      "originalTitle": "中国银行江苏省分行参与主办2026年“智享银龄”科普嘉年华活动 - 新华网江苏频道"
     },
     {
-      "event": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "originalTitle": "以退为进、布局向优 央企“无关多元”资产处置提速",
-      "published": "2026-11-25T08:09:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/833261",
-      "evidenceLevel": "headline-only"
+      "event": "浙商银行南宁分行：对公金融服务助企发展 - 新华网",
+      "published": "2026-11-25T08:35:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNGNklNRlp2RVJtQTFqeUFZeTc1aHp4NHFtalA3QXpLMUR6dlZPTjdqXzFCelJ2UGNIX29aNjJaRHpJeGF3Q2dHN0hmVlBoekFYZDRVeG5NbHRsaVVLRUdHcWdQdnd1RTJpdTBPdTRiU05yN1B5eXMtdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "浙商银行南宁分行：对公金融服务助企发展 - 新华网"
     },
     {
-      "event": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
-      "published": "2026-11-25T08:08:27+00:00",
+      "event": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网",
+      "published": "2026-11-25T08:25:57+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2czRDBzb012WWtrV1gtTzV5VHZHNFVYWnZNbmFTenZvb2NnNEU0bEQycmpJOG1BVEV1a0ZRN19admZJWVBiV1VvZVFuaVVpZFowRUpJaURSUnNTOVBNYWlvZy1nOURiQ1VkV3pRZXF4YWt3UDRtUWJzMA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网"
+      "originalTitle": "国台办：大陆始终是广大台商投资发展的最佳选择 - 新华网"
     }
   ],
   "quality": {
