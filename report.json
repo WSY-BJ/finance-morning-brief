@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 16:16",
+  "date": "更新于北京时间 2026-11-25 16:36",
   "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T16:16:45+08:00",
+  "updatedAt": "2026-11-25T16:36:34+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -82,12 +82,12 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：美国财政部。"
+            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,6 +177,141 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T13:35:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833373"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T13:19:00+08:00；来源：新华社客户端。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833366"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "扩产项目开工！光芯片龙头拉升",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T11:22:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833337"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T09:25:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833291"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "华发股份：终止2026年度定增事项并撤回申请文件",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T09:22:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833290"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T08:17:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T08:17:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833267"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T08:13:57+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-25T08:09:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833261"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,141 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:07:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:06:08+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:05:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:05:12+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:04:39+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T08:01:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "青岛全力打造民营经济发展强市 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T07:58:15+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T07:55:22+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-25T07:41:27+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5"
             }
           ]
         }
@@ -379,6 +379,16 @@
   ],
   "sources": [
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-24"
@@ -389,24 +399,14 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "Brent 原油期货 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/BZ%3DF/",
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-24"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-23"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,57 +414,129 @@
       "asOf": "2026-11-23"
     },
     {
+      "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
+      "url": "https://www.cnstock.com/commonDetail/833373",
+      "asOf": "2026-11-25T13:35:00+08:00"
+    },
+    {
+      "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "url": "https://www.cnstock.com/commonDetail/833366",
+      "asOf": "2026-11-25T13:19:00+08:00"
+    },
+    {
+      "title": "扩产项目开工！光芯片龙头拉升",
+      "url": "https://www.cnstock.com/commonDetail/833337",
+      "asOf": "2026-11-25T11:22:00+08:00"
+    },
+    {
+      "title": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "url": "https://www.cnstock.com/commonDetail/833291",
+      "asOf": "2026-11-25T09:25:00+08:00"
+    },
+    {
+      "title": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "url": "https://www.cnstock.com/commonDetail/833290",
+      "asOf": "2026-11-25T09:22:00+08:00"
+    },
+    {
+      "title": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5",
+      "asOf": "2026-11-25T08:17:14+00:00"
+    },
+    {
+      "title": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "url": "https://www.cnstock.com/commonDetail/833267",
+      "asOf": "2026-11-25T08:17:00+08:00"
+    },
+    {
+      "title": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5",
+      "asOf": "2026-11-25T08:13:57+00:00"
+    },
+    {
+      "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "url": "https://www.cnstock.com/commonDetail/833261",
+      "asOf": "2026-11-25T08:09:00+08:00"
+    },
+    {
       "title": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
       "asOf": "2026-11-25T08:08:27+00:00"
-    },
-    {
-      "title": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5",
-      "asOf": "2026-11-25T08:07:08+00:00"
-    },
-    {
-      "title": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5",
-      "asOf": "2026-11-25T08:06:08+00:00"
-    },
-    {
-      "title": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5",
-      "asOf": "2026-11-25T08:05:38+00:00"
-    },
-    {
-      "title": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5",
-      "asOf": "2026-11-25T08:05:12+00:00"
-    },
-    {
-      "title": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5",
-      "asOf": "2026-11-25T08:04:39+00:00"
-    },
-    {
-      "title": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5",
-      "asOf": "2026-11-25T08:01:58+00:00"
-    },
-    {
-      "title": "青岛全力打造民营经济发展强市 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5",
-      "asOf": "2026-11-25T07:58:15+00:00"
-    },
-    {
-      "title": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5",
-      "asOf": "2026-11-25T07:55:22+00:00"
-    },
-    {
-      "title": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5",
-      "asOf": "2026-11-25T07:41:27+00:00"
     }
   ],
   "events": [
+    {
+      "event": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
+      "originalTitle": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
+      "published": "2026-11-25T13:35:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/833373",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "originalTitle": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "published": "2026-11-25T13:19:00+08:00",
+      "publisher": "新华社客户端",
+      "url": "https://www.cnstock.com/commonDetail/833366",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "扩产项目开工！光芯片龙头拉升",
+      "originalTitle": "扩产项目开工！光芯片龙头拉升",
+      "published": "2026-11-25T11:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833337",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "originalTitle": "鲁阳节能：境外间接股东持股降至0 公司变更为无实控人",
+      "published": "2026-11-25T09:25:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833291",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "originalTitle": "华发股份：终止2026年度定增事项并撤回申请文件",
+      "published": "2026-11-25T09:22:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833290",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网",
+      "published": "2026-11-25T08:17:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eUJ3cGtZUlU1ajlYT3FEU3NvRjJTRmJfc0NzRmx0T0tXd2tSSGhQZ1FiMjFhWXhac2NfRU5YOFVqUDBHXzRlcnFPU2ZUR3BMdHlCTUNsTmpQUkVYWk5fLVU1ZW9lYWFBZFhUMWNkWkNIYVpCajNqQXhEajg5Vjg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "确保“十五五”时期健康中国建设取得决定性进展 - 新华网"
+    },
+    {
+      "event": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "originalTitle": "上证面对面｜华安资产总裁周嘉伟：厚植险资“耐心”底色 对接国家战略所需",
+      "published": "2026-11-25T08:17:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833267",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网",
+      "published": "2026-11-25T08:13:57+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMEVQejJJYjFfNGw5WGtsUUlYN2YwVTdSdDhHYVF2bS1FNlktQmdneXVVcVhLUk1CdGp3dk45WV9fVGIwQ0xVdGlvbVVOX3ZIWlotdko4c1B0VzhzZzhueFZWbHM1NnN5dWtjOGpSbkRFRFdBUkRPaUxiejhrQzg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "大咖说 | 武大靖：重塑信心 找回精气神 - 新华网"
+    },
+    {
+      "event": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "originalTitle": "以退为进、布局向优 央企“无关多元”资产处置提速",
+      "published": "2026-11-25T08:09:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833261",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网",
       "published": "2026-11-25T08:08:27+00:00",
@@ -472,78 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1dnUkl2NFdrWURLS2lwWTVHVjNrRmRDNFpYekwzTGhNblAwRDBZWllNWGdJU2NjUFNTRjRWWGNBaVoyLV8tYXgyUEtCN01Pc0N3a1lBWXFtN09GWG96cWNrZ0JLQmc1aFlKaDF4Wl93SVZHS0p3NGdnMmpSWDlxXw?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "九牧全球首发可持续生态马桶，适配全球普惠需求与古建文物保护 - 新华网"
-    },
-    {
-      "event": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网",
-      "published": "2026-11-25T08:07:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3oyWTFhMGNfM0xHOXBlMkdQcXgzR1NmVzdnbVZQemt2MXdiMDdndHhPRmZKdElaYkJ0eU13aDA4NW02cE5UaU9tT0RyUFVZV1VGOUZjNXdic2xFUmxGMGNGOGp4bl8tQjY1VUV0THVIaGc0LUIwOGw0ZDkyMm9yZA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "以数字版权赋能文化传承创新——中国技术交易所携手国声智库、紫泥春华博物馆共建“大国陶瓷数字版权交易专区” - 新华网"
-    },
-    {
-      "event": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网",
-      "published": "2026-11-25T08:06:08+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NDQzNleTlINElHYlE2akp5Z3RJelJSYlJSTUN4aVI3dkZTZU1pTVZsREhlTjlHQkt5dlRqazIyaGJuNFlGTFFINzhlTlp3TFNpNHZ6M0N6UWM3T1ZqX2cwRGhwc0N1MEo0RTdtVGJnOU5DbFJGSF9kcWlLX04xaA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "兴业银行泉州分行多举措推进金融消费者权益保护 - 新华网"
-    },
-    {
-      "event": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网",
-      "published": "2026-11-25T08:05:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFzcTM3bUxpeGFrUUwwM29RcW9ObFJ2U0Vxb1RxSDJYUFJ6VDZicDhYUm8xcm5rUG1JQ2pHZWI0dmUzUkdTdWNQbEMwamduWWJONjZ4ZFRMck5DWVJEb0ppdEx0Y0R0aGg1VnNpN2hGaUNyQXdxMHdTbHNqenVocA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "兴业银行泉州分行依托惠民驿站拓展便民服务 - 新华网"
-    },
-    {
-      "event": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网",
-      "published": "2026-11-25T08:05:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGlyUHh5dnJzQmtpMVJwM1NNc2ZIS25saE8zNmJyWWQzTEZ1MEtjTHRLdkhwYzJVa3BQVzRFb2pTc0Yxa0RVTXBNUVhNa040aHBRcHhyTXJIaURIVV9sZWpjT3NwQ0dDT0swQ0hlUmhSdUZxWlJ0WmRzVDZfaFVPbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "福建泉州：转型金融模式助力再生化纤产业绿色升级 - 新华网"
-    },
-    {
-      "event": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网",
-      "published": "2026-11-25T08:04:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnAzckVndU9GdjFIZzMzd051bjhyUElrc1diWTV2U3M4M21ZTE44YXVrUXNMS3VGNGRyZXNkQTVVcHNwUEd1dm1rUFpHeTJXUEpXR2JrZjZrZHpBYVkxWGliRVJ5UElpdjZZN2x1U1lpM2RqbXMwdVV3QzR3eGk2aWZMOA?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "河南省焦作市政协原党组成员、副主席吕沛被开除党籍和公职 - 新华网"
-    },
-    {
-      "event": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网",
-      "published": "2026-11-25T08:01:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10U1BXR0Z2SmNIbl9BSGlKMTQ0QnRGUVFyZlRQUGgtOUJXdktrWlBZQ0FQNEQ1SFd4YzZuYWRHWWhoWFZvZDVSUkpMLTVCbVY2bGdWWk9qdDNEOWJBR29zWWtHZWhsSU1Pb1lyYjNQOVRKYjdublVLTWlUV3czYW8?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "叫“流感”却不是流感 一图说清“流感嗜血杆菌” - 新华网"
-    },
-    {
-      "event": "青岛全力打造民营经济发展强市 - 新华网",
-      "published": "2026-11-25T07:58:15+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bFlBd1VmZmRma1pJdXpXZGpwOG1CU2hCMVBDdUJ0R0FsSVFLcU1NNE9JQkZodHEtYWpwUWROUk9YbkhKSGxMYWlBX0NKbkdsWFZhWUNvUnN4Yk9LcUZYdjhqd3E2eHRjc09qRmpSbHJyZkFw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "青岛全力打造民营经济发展强市 - 新华网"
-    },
-    {
-      "event": "健康我来说丨“闪身步”暗藏健康风险 - 新华网",
-      "published": "2026-11-25T07:55:22+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlpuT1dHOWJ2cllHcUNBZXRIZktZeWpBTGFHZzl1dWhtenp6eGFSQ1Q1Q0djLUlqaElmZEcxenVnajdpSEZBaFpIMlhOMDFzMnUydHBLT2dvVDVuYnktZEUzcklVcVVLZE1KcE1OMXF4bVJvUW1fVkVhNDdWNnNuMXZDbw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "健康我来说丨“闪身步”暗藏健康风险 - 新华网"
-    },
-    {
-      "event": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网",
-      "published": "2026-11-25T07:41:27+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZM01ocVVOQlJtN0VMRnB6WFJyR2Y1X1B0Z0ZvZkFxNnprdnBnaDNCUWNia1ZoZFM2eEY2MzhaUDV5amtxUDBMdm5acUE0OUJZZWlzdkc1NU9nLTM4eUw3WGF4d3VUcGI3a0NVUGxWSFZ5dm9FbzlWRzF3bzVkSUk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "树顶牵绳 哥斯达黎加为树懒开通“空中走廊” - 新华网"
     }
   ],
   "quality": {
@@ -557,8 +557,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
