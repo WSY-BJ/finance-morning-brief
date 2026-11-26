@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-26",
-  "date": "更新于北京时间 2026-11-26 11:32",
+  "date": "更新于北京时间 2026-11-26 12:22",
   "reportDate": "2026-11-26",
-  "updatedAt": "2026-11-26T11:32:08+08:00",
+  "updatedAt": "2026-11-26T12:22:22+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
+          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.85 %；变化 -0.06 个百分点",
+          "summary": "4.91 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
+            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -177,6 +177,142 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "商务部等八部门印发《服务贸易发展“十五五”规划》",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T10:16:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833918"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "SpaceX太空数据中心获批！可部署至多100万颗卫星",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T09:59:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833903"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T09:44:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月25日晚间，美年健康发布公告称，公司于2026年11月24日召开第九届董事会第二十九次（临时）会议，审议通过《关于收购股权暨关联交易的议案》。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/833887"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "韩国央行加息25个基点 下半年来第三次加息",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T09:43:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833894"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T09:06:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833784"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T09:06:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833889"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新华社权威快报 | 新一代通信网建设迎来路线图",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T08:18:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833879"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T07:45:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/833857"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-26T03:34:14+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,141 +323,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:54:41+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:45:34+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:38:13+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:36:48+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:26:08+00:00；来源：新华网江苏频道。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:23:23+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:21:48+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "福建：兴业富民再争先 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:14:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "河北：产业转型向新行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-26T02:14:53+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5"
             }
           ]
         }
@@ -379,8 +380,18 @@
   ],
   "sources": [
     {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-25"
+    },
+    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-24"
     },
     {
@@ -389,24 +400,9 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-25"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-24"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
-      "asOf": "2026-11-25"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,57 +410,141 @@
       "asOf": "2026-11-24"
     },
     {
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "asOf": "2026-11-24"
+    },
+    {
+      "title": "商务部等八部门印发《服务贸易发展“十五五”规划》",
+      "url": "https://www.cnstock.com/commonDetail/833918",
+      "asOf": "2026-11-26T10:16:00+08:00"
+    },
+    {
+      "title": "SpaceX太空数据中心获批！可部署至多100万颗卫星",
+      "url": "https://www.cnstock.com/commonDetail/833903",
+      "asOf": "2026-11-26T09:59:00+08:00"
+    },
+    {
+      "title": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "url": "https://www.cnstock.com/commonDetail/833887",
+      "asOf": "2026-11-26T09:44:00+08:00"
+    },
+    {
+      "title": "韩国央行加息25个基点 下半年来第三次加息",
+      "url": "https://www.cnstock.com/commonDetail/833894",
+      "asOf": "2026-11-26T09:43:00+08:00"
+    },
+    {
+      "title": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "url": "https://www.cnstock.com/commonDetail/833784",
+      "asOf": "2026-11-26T09:06:00+08:00"
+    },
+    {
+      "title": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "url": "https://www.cnstock.com/commonDetail/833889",
+      "asOf": "2026-11-26T09:06:00+08:00"
+    },
+    {
+      "title": "新华社权威快报 | 新一代通信网建设迎来路线图",
+      "url": "https://www.cnstock.com/commonDetail/833879",
+      "asOf": "2026-11-26T08:18:00+08:00"
+    },
+    {
+      "title": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+      "url": "https://www.cnstock.com/commonDetail/833857",
+      "asOf": "2026-11-26T07:45:00+08:00"
+    },
+    {
+      "title": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5",
+      "asOf": "2026-11-26T03:34:14+00:00"
+    },
+    {
       "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
       "asOf": "2026-11-26T02:54:46+00:00"
-    },
-    {
-      "title": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5",
-      "asOf": "2026-11-26T02:54:41+00:00"
-    },
-    {
-      "title": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5",
-      "asOf": "2026-11-26T02:45:34+00:00"
-    },
-    {
-      "title": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5",
-      "asOf": "2026-11-26T02:38:13+00:00"
-    },
-    {
-      "title": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5",
-      "asOf": "2026-11-26T02:36:48+00:00"
-    },
-    {
-      "title": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5",
-      "asOf": "2026-11-26T02:26:08+00:00"
-    },
-    {
-      "title": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5",
-      "asOf": "2026-11-26T02:23:23+00:00"
-    },
-    {
-      "title": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5",
-      "asOf": "2026-11-26T02:21:48+00:00"
-    },
-    {
-      "title": "福建：兴业富民再争先 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5",
-      "asOf": "2026-11-26T02:14:58+00:00"
-    },
-    {
-      "title": "河北：产业转型向新行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5",
-      "asOf": "2026-11-26T02:14:53+00:00"
     }
   ],
   "events": [
+    {
+      "event": "商务部等八部门印发《服务贸易发展“十五五”规划》",
+      "originalTitle": "商务部等八部门印发《服务贸易发展“十五五”规划》",
+      "published": "2026-11-26T10:16:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833918",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "SpaceX太空数据中心获批！可部署至多100万颗卫星",
+      "originalTitle": "SpaceX太空数据中心获批！可部署至多100万颗卫星",
+      "published": "2026-11-26T09:59:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833903",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "originalTitle": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "published": "2026-11-26T09:44:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833887",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/833887",
+        "retrievedAt": "2026-11-26T12:22:22.131262+08:00",
+        "sha256": "9805fceff06ba29536529045b2a8f15f7df80bab40144d5c9514fd7ab690b178",
+        "paragraphCount": 5,
+        "excerpt": "上证智讯 11月25日晚间，美年健康发布公告称，公司于2026年11月24日召开第九届董事会第二十九次（临时）会议，审议通过《关于收购股权暨关联交易的议案》。"
+      }
+    },
+    {
+      "event": "韩国央行加息25个基点 下半年来第三次加息",
+      "originalTitle": "韩国央行加息25个基点 下半年来第三次加息",
+      "published": "2026-11-26T09:43:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833894",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "originalTitle": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "published": "2026-11-26T09:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833784",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "originalTitle": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "published": "2026-11-26T09:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833889",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新华社权威快报 | 新一代通信网建设迎来路线图",
+      "originalTitle": "新华社权威快报 | 新一代通信网建设迎来路线图",
+      "published": "2026-11-26T08:18:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/833879",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+      "originalTitle": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+      "published": "2026-11-26T07:45:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/833857",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
+      "published": "2026-11-26T03:34:14+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "日媒：日本拟引进新型远程反舰导弹 - 新华网"
+    },
     {
       "event": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
       "published": "2026-11-26T02:54:46+00:00",
@@ -472,78 +552,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网"
-    },
-    {
-      "event": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
-      "published": "2026-11-26T02:54:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网"
-    },
-    {
-      "event": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
-      "published": "2026-11-26T02:45:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网"
-    },
-    {
-      "event": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
-      "published": "2026-11-26T02:38:13+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网"
-    },
-    {
-      "event": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
-      "published": "2026-11-26T02:36:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网"
-    },
-    {
-      "event": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
-      "published": "2026-11-26T02:26:08+00:00",
-      "publisher": "新华网江苏频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道"
-    },
-    {
-      "event": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
-      "published": "2026-11-26T02:23:23+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网"
-    },
-    {
-      "event": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
-      "published": "2026-11-26T02:21:48+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网"
-    },
-    {
-      "event": "福建：兴业富民再争先 - 新华网",
-      "published": "2026-11-26T02:14:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "福建：兴业富民再争先 - 新华网"
-    },
-    {
-      "event": "河北：产业转型向新行 - 新华网",
-      "published": "2026-11-26T02:14:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "河北：产业转型向新行 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +565,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
