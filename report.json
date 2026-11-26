@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-25",
-  "date": "更新于北京时间 2026-11-25 22:23",
-  "reportDate": "2026-11-25",
-  "updatedAt": "2026-11-25T22:23:27+08:00",
+  "edition": "财经晨报 · 2026-11-26",
+  "date": "更新于北京时间 2026-11-26 11:32",
+  "reportDate": "2026-11-26",
+  "updatedAt": "2026-11-26T11:32:08+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-25 财经资料（待核验）",
+    "title": "2026-11-26 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -33,25 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "2026-11-24：91.40 美元/桶；较 2026-11-23 变化 +2.03 美元/桶。",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-23：4.92 %；较 2026-11-20 变化 +0.00 个百分点。",
+          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -65,15 +65,15 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油期货",
-          "summary": "91.40 美元/桶；变化 +2.03 美元/桶",
+          "title": "Brent 原油现货",
+          "summary": "91.80 美元/桶；变化 +0.60 美元/桶",
           "paragraphs": [
-            "观测日 2026-11-24；前值 89.37（2026-11-23）；来源：Yahoo Finance。"
+            "观测日 2026-11-24；前值 91.20（2026-11-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://finance.yahoo.com/quote/BZ%3DF/"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
             }
           ]
         },
@@ -82,7 +82,7 @@
           "title": "美国 2 年期国债收益率",
           "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.63（2026-11-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.92 %；变化 +0.00 个百分点",
+          "summary": "4.85 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-23；前值 4.92（2026-11-20）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6643 人民币/美元；变化 -0.0127 人民币/美元",
+          "summary": "6.6640 人民币/美元；变化 -0.0003 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-24；前值 6.6770（2026-11-23）；来源：Yahoo Finance。"
+            "观测日 2026-11-25；前值 6.6643（2026-11-24）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
+          "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T21:49:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T02:54:46+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833688"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
+          "title": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T21:49:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T02:54:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833689"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
+          "title": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T21:07:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T02:45:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833732"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "行业人士：公募REITs市场具备长期配置价值",
+          "title": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T21:07:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T02:38:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833737"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "华东重机：简易程序定增申请获证监会同意注册批复",
+          "title": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T20:42:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T02:36:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833615"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
+          "title": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T14:11:32+00:00；来源：新华网浙江。",
+            "发布时间：2026-11-26T02:26:08+00:00；来源：新华网江苏频道。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
+          "title": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T14:10:35+00:00；来源：新华网。",
+            "发布时间：2026-11-26T02:23:23+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "英国家庭能源价格上限将上调近三成 - 新华网",
+          "title": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T13:59:49+00:00；来源：新华网。",
+            "发布时间：2026-11-26T02:21:48+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "广东台山核电项目3号机组主体工程开工 - 新华网",
+          "title": "福建：兴业富民再争先 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T13:36:23+00:00；来源：新华网。",
+            "发布时间：2026-11-26T02:14:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
+          "title": "河北：产业转型向新行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T13:35:00+08:00；来源：新华社。",
+            "发布时间：2026-11-26T02:14:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833373"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5"
             }
           ]
         }
@@ -345,7 +345,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 48 课：情景分析",
+      "title": "第 49 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-24"
@@ -386,7 +391,7 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "title": "美元指数 DXY · Yahoo Finance",
@@ -394,156 +399,151 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-24"
     },
     {
-      "title": "Brent 原油期货 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/BZ%3DF/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-23"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-25"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-23"
+      "asOf": "2026-11-24"
     },
     {
-      "title": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
-      "url": "https://www.cnstock.com/commonDetail/833688",
-      "asOf": "2026-11-25T21:49:00+08:00"
+      "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
+      "asOf": "2026-11-26T02:54:46+00:00"
     },
     {
-      "title": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
-      "url": "https://www.cnstock.com/commonDetail/833689",
-      "asOf": "2026-11-25T21:49:00+08:00"
+      "title": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5",
+      "asOf": "2026-11-26T02:54:41+00:00"
     },
     {
-      "title": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
-      "url": "https://www.cnstock.com/commonDetail/833732",
-      "asOf": "2026-11-25T21:07:00+08:00"
+      "title": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5",
+      "asOf": "2026-11-26T02:45:34+00:00"
     },
     {
-      "title": "行业人士：公募REITs市场具备长期配置价值",
-      "url": "https://www.cnstock.com/commonDetail/833737",
-      "asOf": "2026-11-25T21:07:00+08:00"
+      "title": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5",
+      "asOf": "2026-11-26T02:38:13+00:00"
     },
     {
-      "title": "华东重机：简易程序定增申请获证监会同意注册批复",
-      "url": "https://www.cnstock.com/commonDetail/833615",
-      "asOf": "2026-11-25T20:42:00+08:00"
+      "title": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5",
+      "asOf": "2026-11-26T02:36:48+00:00"
     },
     {
-      "title": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5",
-      "asOf": "2026-11-25T14:11:32+00:00"
+      "title": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5",
+      "asOf": "2026-11-26T02:26:08+00:00"
     },
     {
-      "title": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5",
-      "asOf": "2026-11-25T14:10:35+00:00"
+      "title": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5",
+      "asOf": "2026-11-26T02:23:23+00:00"
     },
     {
-      "title": "英国家庭能源价格上限将上调近三成 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5",
-      "asOf": "2026-11-25T13:59:49+00:00"
+      "title": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5",
+      "asOf": "2026-11-26T02:21:48+00:00"
     },
     {
-      "title": "广东台山核电项目3号机组主体工程开工 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5",
-      "asOf": "2026-11-25T13:36:23+00:00"
+      "title": "福建：兴业富民再争先 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5",
+      "asOf": "2026-11-26T02:14:58+00:00"
     },
     {
-      "title": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
-      "url": "https://www.cnstock.com/commonDetail/833373",
-      "asOf": "2026-11-25T13:35:00+08:00"
+      "title": "河北：产业转型向新行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5",
+      "asOf": "2026-11-26T02:14:53+00:00"
     }
   ],
   "events": [
     {
-      "event": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
-      "originalTitle": "江苏国泰：已斥资约799.69万元回购108.01万股股份",
-      "published": "2026-11-25T21:49:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833688",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
-      "originalTitle": "生益科技：已斥资约3.00亿元回购406.87万股股份用于股权激励",
-      "published": "2026-11-25T21:49:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833689",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
-      "originalTitle": "“科创板八条”以来并购交易达244单 科创板并购重组活力稳步提升",
-      "published": "2026-11-25T21:07:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833732",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "行业人士：公募REITs市场具备长期配置价值",
-      "originalTitle": "行业人士：公募REITs市场具备长期配置价值",
-      "published": "2026-11-25T21:07:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833737",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "华东重机：简易程序定增申请获证监会同意注册批复",
-      "originalTitle": "华东重机：简易程序定增申请获证监会同意注册批复",
-      "published": "2026-11-25T20:42:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833615",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江",
-      "published": "2026-11-25T14:11:32+00:00",
-      "publisher": "新华网浙江",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVFA5RVVZanR6bmR2Ym9RQk0yS3M4RHh1cU40anBCRmNZTzZheWgyVEFQbmlUNmxsZDR5VDB5cUdPZW1HUTZ2MUNjb0xFV0FaZGlpTlFfLU40c2VWOTRWam92TDR5QXRBcmRmaTJvS0pCa3hycGtKNFV3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "吉利控股集团：全球化要融入当地 实现共同发展 - 新华网浙江"
-    },
-    {
-      "event": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网",
-      "published": "2026-11-25T14:10:35+00:00",
+      "event": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
+      "published": "2026-11-26T02:54:46+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0Ywd1JURWF3R0xqeVVGeVQ3WkhqMWNjVjFQbFNyV29STU5Mc2c1YnE5MmJOcmgtbWJQSjVvY1BFRTZIVU1CcV85NWpsREZIYlY0c0hzOW5Ua2JXU0hmTkNRWlNhcFNkN1ZGSUFxTENzc1hWWjlj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "重庆市人大社会委原副主任委员张兴益严重违纪违法被开除党籍 - 新华网"
+      "originalTitle": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网"
     },
     {
-      "event": "英国家庭能源价格上限将上调近三成 - 新华网",
-      "published": "2026-11-25T13:59:49+00:00",
+      "event": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网",
+      "published": "2026-11-26T02:54:41+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TzhFWXM5Z3d4SHplYVAyb0QxNXJPbS03dklVdGxOdlpZZlNxQTE4cmFPME4xYm8xSWxNclF3eTFqMUEtUDBhQnRzRy01UXM0R0F4XzBYZEhyWGpRTzRfVU5zbHdCTXZjRC1OS2JCT1JhYTlEamdfMGJLX0Nadw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWVh1eTZKZnRuLWplSENOUlpBaDFicjBCQXQ2WU01akZHTC1RS2NKQXU1V2QzaGd6azhsdWFpdi1lTmFlRk16eEdPVTlXWDJqMk5sZnJWamp2RzFRLUVxa2Vaa1M5TDBwYS1xeU9ndGN0OG9fMUE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "英国家庭能源价格上限将上调近三成 - 新华网"
+      "originalTitle": "秦川浩气贯长空——陕西咸阳打通文化转化产业路径观察 - 新华网"
     },
     {
-      "event": "广东台山核电项目3号机组主体工程开工 - 新华网",
-      "published": "2026-11-25T13:36:23+00:00",
+      "event": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网",
+      "published": "2026-11-26T02:45:34+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNy1jSEw1Mm1wX1F2XzlXV3NnVDNCVUx1RTFBQzVFVExSLUV6d3l5SFBrM1dtT2tXajZ2UnYzSTRfcFduSjdWdGlsR3lzVGpCeGlEQy1tUXpmc3FoQUo0dE44ZV9TV0RwXzNxTTMzOVFfQlVhbEF3QUxDWVdJS2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWHdHX0RiaU8tMkxSNHNiUFlIREwtRUM1ZExScWwtUjJYYjJHSDNoNW14RHM3T3VlNS1WQ2tSdUZIYWhLUkE3c0NUTk1LQ2VWRGNSLWpxblBXQXFaaVVyRDloQms2Wmc3Szh6R1BYbWE1UTBjQnc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "广东台山核电项目3号机组主体工程开工 - 新华网"
+      "originalTitle": "两载驻村路 把答卷写在阿尔山的山野间 - 新华网"
     },
     {
-      "event": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
-      "originalTitle": "习近平对党内法规工作作出重要指示强调 坚持把依规治党当作管党治党基本方式 持续高质量推进党内法规制度建设 蔡奇出席全国党内法规工作会议并讲话",
-      "published": "2026-11-25T13:35:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/833373",
-      "evidenceLevel": "headline-only"
+      "event": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网",
+      "published": "2026-11-26T02:38:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR1RaYTFocXhlZ2padk1faDZLdHVVZmY0QWZhUUNJMVNwNEJOVm5PeEhOejhDRi1rQWxqQ0wxRy1TTFo3T05ORkJrSG9WVDJ0TTJRR2FfYVRONkRIREFOOHdFbkR6OEI0NDB4VGM2NGFIek1IbFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "十载筑基 沐光笃行——“上海价格”助力我国能源产业高质量发展 - 新华网"
+    },
+    {
+      "event": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网",
+      "published": "2026-11-26T02:36:48+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z05aOVRkb0t2MzlrSTZXOGEtck5XR0RUODJ1VnkwUU9JbFJ6N0NQNEREejVyZmwyN1JncHJFRmVHc3A5VTMzYzNxMHJaOWlWc1ZRaVhMWEhHWXpQV0NMZHBwVFNzd2RBZW1IeWd6SDBZb2RjMHVSUHFDaFgwdEk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "美联储“褐皮书”：高物价促使美国消费者精打细算 - 新华网"
+    },
+    {
+      "event": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道",
+      "published": "2026-11-26T02:26:08+00:00",
+      "publisher": "新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbUJIb3BuZkNfQmxSQU1iSV84UEdQdHE5UDgtQnNoNlpfeFNFdXZCWThwSDdQbFRIeVJJMFJIUGNHem92MFpISzF6aUplUThscDlYTVR6QnUtR2xhLVI0VVhZc2RRYXNfTTJNREZmR0d3SzY1?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "农行宜兴分行举办汇率主题公益宣讲活动 - 新华网江苏频道"
+    },
+    {
+      "event": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网",
+      "published": "2026-11-26T02:23:23+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU0hvU0xuV2pDMVhLSDIzM2otVVpDRzBuWHZITzd4WFg4UGlIMlNNMHlMVU15Qzl1WTBHNXIzTWpKeWYxcDAyUkNDSk5ZeTlQblZfWW82NHNRZHByazhmUEhDNm42akhMOWplZU5FckQ4TnB0M0hXYUFLMFE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "蚂蚁消金以数智技术创新金融服务 带动超300亿元绿色消费 - 新华网"
+    },
+    {
+      "event": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网",
+      "published": "2026-11-26T02:21:48+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IajlVd2dueExBU1RJVDBiMEowOHQyWGFEdEhxeWNSb1g1OHlEQWt1aF9PbjdqNC1ybkRPZGJMbl9HS04xVjRuWlpia2lScnVucHIyMl9ZNFhhdnhrNmNjWFltdEkwemtaY1ZhNk56NTU0ckxuUEhOS1g1TW9sSTQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "记者手记丨智慧口岸建设助力中越经贸往来再提升 - 新华网"
+    },
+    {
+      "event": "福建：兴业富民再争先 - 新华网",
+      "published": "2026-11-26T02:14:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbS1QQVVSbXIzeXVYWnZZd2VZdW1QYXBzN1AyNTVKRUNzdC1fX2RCb3FSRVZKV21vUHdfa3l5LU96aHd2dGo3djZiY25GQjVYUVdUMzh2RlpQcWRsSXRsSDRyNlRGV2ZyenhjWEdKdXNiNVh1Z0E?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "福建：兴业富民再争先 - 新华网"
+    },
+    {
+      "event": "河北：产业转型向新行 - 新华网",
+      "published": "2026-11-26T02:14:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ISG9nWm4taUlFUGNrbEh2WlliUnBoN0NYMmZJWThrZll5ZjhyVlRhNTdYZVB1dzhlUkFMcngtckRfRFFEeHJ0aUlUWV9ReFhVY3ZCR0xyc2dfZHVsVHhNRGV0OXVVZTZvVUNsX3Bid2VNZExWY2c?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "河北：产业转型向新行 - 新华网"
     }
   ],
   "quality": {
@@ -557,12 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError"
+      "中国证券网原文: URLError"
     ]
   }
 }
