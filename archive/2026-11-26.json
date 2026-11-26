@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-26",
-  "date": "更新于北京时间 2026-11-26 16:19",
+  "date": "更新于北京时间 2026-11-26 16:51",
   "reportDate": "2026-11-26",
-  "updatedAt": "2026-11-26T16:19:56+08:00",
+  "updatedAt": "2026-11-26T16:51:56+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 +0.00 个百分点",
+          "summary": "4.61 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.63（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "诺安智盈优选三个月持有期混合型发起式基金中基金（FOF）招募说明书、基金产品资料概要（更新）的提示性公告20261126 - 证券时报网",
+          "title": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T01:19:35+00:00；来源：证券时报网。",
+            "发布时间：2026-11-26T08:22:47+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eGlRYTgzZ2hwZlF2M3pRZHNjZkhXc3VxWFdUOGFuWndYR2lGU1Z5WFcxV2tfdzBOQ0Qyc0tkYU1EVng3b2VvclFWd0E1TjJMWThNQU1YWGpCdWFJbFplUS1mVnBhRjl3dkE?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "网站免费阅读重大财经新闻资讯及上市公司公告 - 证券时报网",
+          "title": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T01:18:18+00:00；来源：证券时报网。",
+            "发布时间：2026-11-26T08:18:34+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abzgyUWd3NEtoNXJYTnZSYVVobE9xZVRleFppVHBoTkxkV0w0OGdtNlcxZTY1ZHFkOGMzZDE3VGVFWFh5X28xM05Db1ZTWnJXZG5uWkR2cFdKZGZHQVNGYW5WR3lLT2gyNWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "深圳A股上市公司前三季度营收净利增速创五年新高 - 证券时报网",
+          "title": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T23:26:43+00:00；来源：证券时报网。",
+            "发布时间：2026-11-26T08:12:06+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iUDYwYWk2WF80X0UtVjhIUEdQQTlfc21aMm9XdzhkMF90MnVBV3EzNGhIWkVmMWlvT3A3VE43SXpTeFVYNXhOdU9DUU5PVF9NdDhibHd2elpiS3AxR18yZ0ZyLVlNclpX?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "立华股份：实控人程立力质押4000万股、解押3250万股 - 上海证券报·中国证券网",
+          "title": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T14:28:03+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T08:04:35+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14S2hwNjlPeGFkSUVnbWRvUUdzZ3ktUWdYVk1EYUFaTWVlUFpLQ25uXzdIbVFfdVFhQ0VZQU9Mekw2N21PanNMelVyYTdlWDZLNFRYOV9nUExBMS0xT2hVcG9QYw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国能建：子公司中标55.82亿元煤电工程EPC总承包项目 - 上海证券报·中国证券网",
+          "title": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T12:38:00+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T08:03:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YmU4TDhOUFgtQnBjalVhUmZucGVpc0VQNmhMbXI3WWNaYl9vOFpCRndHNU5kYmNUdHVhU09hWmlnbXFuWnJFeXNxZENLTDduWS01VG9B?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "浦江中国：12月词元产量目标为7万亿至8.4万亿 - 上海证券报·中国证券网",
+          "title": "中国算法赛事吸引全球万余支队伍 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T11:19:00+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T07:44:53+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmRVJXZnJydlFqWVhVQ1hOR2lSeG85U0NUU0pIQTFvdWpHaVoxVi1UdWFnRS1HczFFSUZrM1JiY1kyTGlJc1ZCZ2RZYlE0WmxDcmI2REpR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "华伍股份：控股股东一致行动人质押40.00万股，占其所持5.13% - 上海证券报·中国证券网",
+          "title": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T11:15:38+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T07:11:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HTk5LdFJLVmxsZ3lqcEtqWmxXOEd3MzRoS0NsV3pJVDY4RGx3Y21WaEJyY1RWVlZpcmhtMUVicm1aSThYMDRadE91Rm9mdy1qZkJybHJR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "绿田机械：耗资约8999.12万元回购约519.50万股股份 - 上海证券报·中国证券网",
+          "title": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T11:15:34+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T06:59:41+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zeFE0aU9mRXBla2dQZk9tNGJDNXRWTEtWblBYRzdpbzVDVWd5dThZd1Mxdm1tczVpX3N5QXJRdGdzY1hoRWt3ZHEwVWhfV3FEOUlVeV93?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华百货完成股份回购计划 共3.34亿元回购占总9.908%股份 - 上海证券报·中国证券网",
+          "title": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T10:46:00+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T06:52:20+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUXk3WnJHMkpCdGFWRnc0YjF1S2tpOW9MZkJLRmxocnVPdkNFc3pLazhhWnBaeGZIZXNVYk8yRHRsN1hpV2tsdTBQUHJnejBPNDBXODFR?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "金信诺：定增限售股约2206.01万股11月30日上市流通 - 上海证券报·中国证券网",
+          "title": "《新一代通信网建设实施方案》印发 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-25T10:44:29+00:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-26T06:41:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTE9uRWRuMzBQZDBlblFpXzhhLVlHeHg5YUs1SVVjNmUwLUVrOFFES2xvbHUwckZoTlduakFrcEF6VXdIc0x2Xy1MZGR5NnNFS01RTmh3?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5"
             }
           ]
         }
@@ -389,6 +389,11 @@
       "asOf": "2026-11-25"
     },
     {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-25"
+    },
+    {
       "title": "美元指数 DXY · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
@@ -399,14 +404,9 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-25"
-    },
-    {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-24"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -414,136 +414,136 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "诺安智盈优选三个月持有期混合型发起式基金中基金（FOF）招募说明书、基金产品资料概要（更新）的提示性公告20261126 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eGlRYTgzZ2hwZlF2M3pRZHNjZkhXc3VxWFdUOGFuWndYR2lGU1Z5WFcxV2tfdzBOQ0Qyc0tkYU1EVng3b2VvclFWd0E1TjJMWThNQU1YWGpCdWFJbFplUS1mVnBhRjl3dkE?oc=5",
-      "asOf": "2026-11-26T01:19:35+00:00"
+      "title": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5",
+      "asOf": "2026-11-26T08:22:47+00:00"
     },
     {
-      "title": "网站免费阅读重大财经新闻资讯及上市公司公告 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abzgyUWd3NEtoNXJYTnZSYVVobE9xZVRleFppVHBoTkxkV0w0OGdtNlcxZTY1ZHFkOGMzZDE3VGVFWFh5X28xM05Db1ZTWnJXZG5uWkR2cFdKZGZHQVNGYW5WR3lLT2gyNWc?oc=5",
-      "asOf": "2026-11-26T01:18:18+00:00"
+      "title": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5",
+      "asOf": "2026-11-26T08:18:34+00:00"
     },
     {
-      "title": "深圳A股上市公司前三季度营收净利增速创五年新高 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iUDYwYWk2WF80X0UtVjhIUEdQQTlfc21aMm9XdzhkMF90MnVBV3EzNGhIWkVmMWlvT3A3VE43SXpTeFVYNXhOdU9DUU5PVF9NdDhibHd2elpiS3AxR18yZ0ZyLVlNclpX?oc=5",
-      "asOf": "2026-11-25T23:26:43+00:00"
+      "title": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5",
+      "asOf": "2026-11-26T08:12:06+00:00"
     },
     {
-      "title": "立华股份：实控人程立力质押4000万股、解押3250万股 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14S2hwNjlPeGFkSUVnbWRvUUdzZ3ktUWdYVk1EYUFaTWVlUFpLQ25uXzdIbVFfdVFhQ0VZQU9Mekw2N21PanNMelVyYTdlWDZLNFRYOV9nUExBMS0xT2hVcG9QYw?oc=5",
-      "asOf": "2026-11-25T14:28:03+00:00"
+      "title": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5",
+      "asOf": "2026-11-26T08:04:35+00:00"
     },
     {
-      "title": "中国能建：子公司中标55.82亿元煤电工程EPC总承包项目 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YmU4TDhOUFgtQnBjalVhUmZucGVpc0VQNmhMbXI3WWNaYl9vOFpCRndHNU5kYmNUdHVhU09hWmlnbXFuWnJFeXNxZENLTDduWS01VG9B?oc=5",
-      "asOf": "2026-11-25T12:38:00+00:00"
+      "title": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5",
+      "asOf": "2026-11-26T08:03:53+00:00"
     },
     {
-      "title": "浦江中国：12月词元产量目标为7万亿至8.4万亿 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmRVJXZnJydlFqWVhVQ1hOR2lSeG85U0NUU0pIQTFvdWpHaVoxVi1UdWFnRS1HczFFSUZrM1JiY1kyTGlJc1ZCZ2RZYlE0WmxDcmI2REpR?oc=5",
-      "asOf": "2026-11-25T11:19:00+00:00"
+      "title": "中国算法赛事吸引全球万余支队伍 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5",
+      "asOf": "2026-11-26T07:44:53+00:00"
     },
     {
-      "title": "华伍股份：控股股东一致行动人质押40.00万股，占其所持5.13% - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HTk5LdFJLVmxsZ3lqcEtqWmxXOEd3MzRoS0NsV3pJVDY4RGx3Y21WaEJyY1RWVlZpcmhtMUVicm1aSThYMDRadE91Rm9mdy1qZkJybHJR?oc=5",
-      "asOf": "2026-11-25T11:15:38+00:00"
+      "title": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5",
+      "asOf": "2026-11-26T07:11:17+00:00"
     },
     {
-      "title": "绿田机械：耗资约8999.12万元回购约519.50万股股份 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zeFE0aU9mRXBla2dQZk9tNGJDNXRWTEtWblBYRzdpbzVDVWd5dThZd1Mxdm1tczVpX3N5QXJRdGdzY1hoRWt3ZHEwVWhfV3FEOUlVeV93?oc=5",
-      "asOf": "2026-11-25T11:15:34+00:00"
+      "title": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5",
+      "asOf": "2026-11-26T06:59:41+00:00"
     },
     {
-      "title": "新华百货完成股份回购计划 共3.34亿元回购占总9.908%股份 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUXk3WnJHMkpCdGFWRnc0YjF1S2tpOW9MZkJLRmxocnVPdkNFc3pLazhhWnBaeGZIZXNVYk8yRHRsN1hpV2tsdTBQUHJnejBPNDBXODFR?oc=5",
-      "asOf": "2026-11-25T10:46:00+00:00"
+      "title": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5",
+      "asOf": "2026-11-26T06:52:20+00:00"
     },
     {
-      "title": "金信诺：定增限售股约2206.01万股11月30日上市流通 - 上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTE9uRWRuMzBQZDBlblFpXzhhLVlHeHg5YUs1SVVjNmUwLUVrOFFES2xvbHUwckZoTlduakFrcEF6VXdIc0x2Xy1MZGR5NnNFS01RTmh3?oc=5",
-      "asOf": "2026-11-25T10:44:29+00:00"
+      "title": "《新一代通信网建设实施方案》印发 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5",
+      "asOf": "2026-11-26T06:41:29+00:00"
     }
   ],
   "events": [
     {
-      "event": "诺安智盈优选三个月持有期混合型发起式基金中基金（FOF）招募说明书、基金产品资料概要（更新）的提示性公告20261126 - 证券时报网",
-      "published": "2026-11-26T01:19:35+00:00",
-      "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eGlRYTgzZ2hwZlF2M3pRZHNjZkhXc3VxWFdUOGFuWndYR2lGU1Z5WFcxV2tfdzBOQ0Qyc0tkYU1EVng3b2VvclFWd0E1TjJMWThNQU1YWGpCdWFJbFplUS1mVnBhRjl3dkE?oc=5",
+      "event": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
+      "published": "2026-11-26T08:22:47+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "诺安智盈优选三个月持有期混合型发起式基金中基金（FOF）招募说明书、基金产品资料概要（更新）的提示性公告20261126 - 证券时报网"
+      "originalTitle": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网"
     },
     {
-      "event": "网站免费阅读重大财经新闻资讯及上市公司公告 - 证券时报网",
-      "published": "2026-11-26T01:18:18+00:00",
-      "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abzgyUWd3NEtoNXJYTnZSYVVobE9xZVRleFppVHBoTkxkV0w0OGdtNlcxZTY1ZHFkOGMzZDE3VGVFWFh5X28xM05Db1ZTWnJXZG5uWkR2cFdKZGZHQVNGYW5WR3lLT2gyNWc?oc=5",
+      "event": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+      "published": "2026-11-26T08:18:34+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "网站免费阅读重大财经新闻资讯及上市公司公告 - 证券时报网"
+      "originalTitle": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网"
     },
     {
-      "event": "深圳A股上市公司前三季度营收净利增速创五年新高 - 证券时报网",
-      "published": "2026-11-25T23:26:43+00:00",
-      "publisher": "证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iUDYwYWk2WF80X0UtVjhIUEdQQTlfc21aMm9XdzhkMF90MnVBV3EzNGhIWkVmMWlvT3A3VE43SXpTeFVYNXhOdU9DUU5PVF9NdDhibHd2elpiS3AxR18yZ0ZyLVlNclpX?oc=5",
+      "event": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
+      "published": "2026-11-26T08:12:06+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "深圳A股上市公司前三季度营收净利增速创五年新高 - 证券时报网"
+      "originalTitle": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网"
     },
     {
-      "event": "立华股份：实控人程立力质押4000万股、解押3250万股 - 上海证券报·中国证券网",
-      "published": "2026-11-25T14:28:03+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14S2hwNjlPeGFkSUVnbWRvUUdzZ3ktUWdYVk1EYUFaTWVlUFpLQ25uXzdIbVFfdVFhQ0VZQU9Mekw2N21PanNMelVyYTdlWDZLNFRYOV9nUExBMS0xT2hVcG9QYw?oc=5",
+      "event": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
+      "published": "2026-11-26T08:04:35+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "立华股份：实控人程立力质押4000万股、解押3250万股 - 上海证券报·中国证券网"
+      "originalTitle": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网"
     },
     {
-      "event": "中国能建：子公司中标55.82亿元煤电工程EPC总承包项目 - 上海证券报·中国证券网",
-      "published": "2026-11-25T12:38:00+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YmU4TDhOUFgtQnBjalVhUmZucGVpc0VQNmhMbXI3WWNaYl9vOFpCRndHNU5kYmNUdHVhU09hWmlnbXFuWnJFeXNxZENLTDduWS01VG9B?oc=5",
+      "event": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
+      "published": "2026-11-26T08:03:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "中国能建：子公司中标55.82亿元煤电工程EPC总承包项目 - 上海证券报·中国证券网"
+      "originalTitle": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网"
     },
     {
-      "event": "浦江中国：12月词元产量目标为7万亿至8.4万亿 - 上海证券报·中国证券网",
-      "published": "2026-11-25T11:19:00+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmRVJXZnJydlFqWVhVQ1hOR2lSeG85U0NUU0pIQTFvdWpHaVoxVi1UdWFnRS1HczFFSUZrM1JiY1kyTGlJc1ZCZ2RZYlE0WmxDcmI2REpR?oc=5",
+      "event": "中国算法赛事吸引全球万余支队伍 - 新华网",
+      "published": "2026-11-26T07:44:53+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "浦江中国：12月词元产量目标为7万亿至8.4万亿 - 上海证券报·中国证券网"
+      "originalTitle": "中国算法赛事吸引全球万余支队伍 - 新华网"
     },
     {
-      "event": "华伍股份：控股股东一致行动人质押40.00万股，占其所持5.13% - 上海证券报·中国证券网",
-      "published": "2026-11-25T11:15:38+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HTk5LdFJLVmxsZ3lqcEtqWmxXOEd3MzRoS0NsV3pJVDY4RGx3Y21WaEJyY1RWVlZpcmhtMUVicm1aSThYMDRadE91Rm9mdy1qZkJybHJR?oc=5",
+      "event": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+      "published": "2026-11-26T07:11:17+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "华伍股份：控股股东一致行动人质押40.00万股，占其所持5.13% - 上海证券报·中国证券网"
+      "originalTitle": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网"
     },
     {
-      "event": "绿田机械：耗资约8999.12万元回购约519.50万股股份 - 上海证券报·中国证券网",
-      "published": "2026-11-25T11:15:34+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zeFE0aU9mRXBla2dQZk9tNGJDNXRWTEtWblBYRzdpbzVDVWd5dThZd1Mxdm1tczVpX3N5QXJRdGdzY1hoRWt3ZHEwVWhfV3FEOUlVeV93?oc=5",
+      "event": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
+      "published": "2026-11-26T06:59:41+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "绿田机械：耗资约8999.12万元回购约519.50万股股份 - 上海证券报·中国证券网"
+      "originalTitle": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网"
     },
     {
-      "event": "新华百货完成股份回购计划 共3.34亿元回购占总9.908%股份 - 上海证券报·中国证券网",
-      "published": "2026-11-25T10:46:00+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUXk3WnJHMkpCdGFWRnc0YjF1S2tpOW9MZkJLRmxocnVPdkNFc3pLazhhWnBaeGZIZXNVYk8yRHRsN1hpV2tsdTBQUHJnejBPNDBXODFR?oc=5",
+      "event": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
+      "published": "2026-11-26T06:52:20+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华百货完成股份回购计划 共3.34亿元回购占总9.908%股份 - 上海证券报·中国证券网"
+      "originalTitle": "南侨机工后人在云南畹町写下“我爱中国” - 新华网"
     },
     {
-      "event": "金信诺：定增限售股约2206.01万股11月30日上市流通 - 上海证券报·中国证券网",
-      "published": "2026-11-25T10:44:29+00:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTE9uRWRuMzBQZDBlblFpXzhhLVlHeHg5YUs1SVVjNmUwLUVrOFFES2xvbHUwckZoTlduakFrcEF6VXdIc0x2Xy1MZGR5NnNFS01RTmh3?oc=5",
+      "event": "《新一代通信网建设实施方案》印发 - 新华网",
+      "published": "2026-11-26T06:41:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "金信诺：定增限售股约2206.01万股11月30日上市流通 - 上海证券报·中国证券网"
+      "originalTitle": "《新一代通信网建设实施方案》印发 - 新华网"
     }
   ],
   "quality": {
