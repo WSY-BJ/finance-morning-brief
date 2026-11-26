@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-26",
-  "date": "更新于北京时间 2026-11-26 16:51",
+  "date": "更新于北京时间 2026-11-26 17:30",
   "reportDate": "2026-11-26",
-  "updatedAt": "2026-11-26T16:51:56+08:00",
+  "updatedAt": "2026-11-26T17:30:02+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -80,14 +80,14 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.61 %；变化 -0.02 个百分点",
+          "summary": "4.63 %；变化 +0.00 个百分点",
           "paragraphs": [
-            "观测日 2026-11-25；前值 4.63（2026-11-24）；来源：美国财政部。"
+            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS2"
             }
           ]
         },
@@ -177,151 +177,151 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
+          "title": "尾盘放量，资金进场，主攻成长风格",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T08:22:47+00:00；来源：新华网。",
+            "发布时间：2026-11-26T16:31:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/834011"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+          "title": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T08:18:34+00:00；来源：新华网。",
+            "发布时间：2026-11-26T15:11:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833985"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
+          "title": "商务部：坚决反对美对中国等经济体加征301关税",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T08:12:06+00:00；来源：新华网。",
+            "发布时间：2026-11-26T15:11:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833987"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
+          "title": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T08:04:35+00:00；来源：新华网。",
+            "发布时间：2026-11-26T13:38:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833969"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
+          "title": "加强新一代通信网规划建设 三部门印发实施方案",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T08:03:53+00:00；来源：新华网。",
+            "发布时间：2026-11-26T12:25:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833946"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中国算法赛事吸引全球万余支队伍 - 新华网",
+          "title": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T07:44:53+00:00；来源：新华网。",
+            "发布时间：2026-11-26T09:44:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833887"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
+          "title": "构筑新优势 释放新活力——“中国经济圆桌会”共话高水平对外开放",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T07:11:17+00:00；来源：新华网。",
+            "发布时间：2026-11-26T09:43:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833901"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
+          "title": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T06:59:41+00:00；来源：新华网。",
+            "发布时间：2026-11-26T09:06:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833889"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
+          "title": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T06:52:20+00:00；来源：新华网。",
+            "发布时间：2026-11-26T09:06:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5"
+              "url": "https://www.cnstock.com/commonDetail/833784"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《新一代通信网建设实施方案》印发 - 新华网",
+          "title": "《含花生肽肥料》团体标准发布，填补了国内该领域空白 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T06:41:29+00:00；来源：新华网。",
+            "发布时间：2026-11-26T09:01:14+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CcHRJalBTQjh3bVlFVHJXandEMGgzc3V4VnVBVTFTMXhsdFFNYmRhRjNGSGJ5eEdESE5PNXJTeEtob2JJY2FOVy10QU1EUC1BbjZPb3dTMk81SXhTa1JLS0FCV1ZnY194UmRuQ2tMTXM1MkxhTnQ5SmV0SUk?oc=5"
             }
           ]
         }
@@ -384,18 +384,8 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-25"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-25"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
@@ -404,8 +394,13 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 2 年期国债收益率 · 美国财政部",
-      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-25"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
@@ -414,136 +409,141 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5",
-      "asOf": "2026-11-26T08:22:47+00:00"
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "asOf": "2026-11-24"
     },
     {
-      "title": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5",
-      "asOf": "2026-11-26T08:18:34+00:00"
+      "title": "尾盘放量，资金进场，主攻成长风格",
+      "url": "https://www.cnstock.com/commonDetail/834011",
+      "asOf": "2026-11-26T16:31:00+08:00"
     },
     {
-      "title": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5",
-      "asOf": "2026-11-26T08:12:06+00:00"
+      "title": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
+      "url": "https://www.cnstock.com/commonDetail/833985",
+      "asOf": "2026-11-26T15:11:00+08:00"
     },
     {
-      "title": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5",
-      "asOf": "2026-11-26T08:04:35+00:00"
+      "title": "商务部：坚决反对美对中国等经济体加征301关税",
+      "url": "https://www.cnstock.com/commonDetail/833987",
+      "asOf": "2026-11-26T15:11:00+08:00"
     },
     {
-      "title": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5",
-      "asOf": "2026-11-26T08:03:53+00:00"
+      "title": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
+      "url": "https://www.cnstock.com/commonDetail/833969",
+      "asOf": "2026-11-26T13:38:00+08:00"
     },
     {
-      "title": "中国算法赛事吸引全球万余支队伍 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5",
-      "asOf": "2026-11-26T07:44:53+00:00"
+      "title": "加强新一代通信网规划建设 三部门印发实施方案",
+      "url": "https://www.cnstock.com/commonDetail/833946",
+      "asOf": "2026-11-26T12:25:00+08:00"
     },
     {
-      "title": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5",
-      "asOf": "2026-11-26T07:11:17+00:00"
+      "title": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "url": "https://www.cnstock.com/commonDetail/833887",
+      "asOf": "2026-11-26T09:44:00+08:00"
     },
     {
-      "title": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5",
-      "asOf": "2026-11-26T06:59:41+00:00"
+      "title": "构筑新优势 释放新活力——“中国经济圆桌会”共话高水平对外开放",
+      "url": "https://www.cnstock.com/commonDetail/833901",
+      "asOf": "2026-11-26T09:43:00+08:00"
     },
     {
-      "title": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5",
-      "asOf": "2026-11-26T06:52:20+00:00"
+      "title": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "url": "https://www.cnstock.com/commonDetail/833889",
+      "asOf": "2026-11-26T09:06:00+08:00"
     },
     {
-      "title": "《新一代通信网建设实施方案》印发 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5",
-      "asOf": "2026-11-26T06:41:29+00:00"
+      "title": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "url": "https://www.cnstock.com/commonDetail/833784",
+      "asOf": "2026-11-26T09:06:00+08:00"
+    },
+    {
+      "title": "《含花生肽肥料》团体标准发布，填补了国内该领域空白 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CcHRJalBTQjh3bVlFVHJXandEMGgzc3V4VnVBVTFTMXhsdFFNYmRhRjNGSGJ5eEdESE5PNXJTeEtob2JJY2FOVy10QU1EUC1BbjZPb3dTMk81SXhTa1JLS0FCV1ZnY194UmRuQ2tMTXM1MkxhTnQ5SmV0SUk?oc=5",
+      "asOf": "2026-11-26T09:01:14+00:00"
     }
   ],
   "events": [
     {
-      "event": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网",
-      "published": "2026-11-26T08:22:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT2l6WFBtcTFhQ2MyZUtNQlB1c3dWeFlIM19PT2J0cEMwN1hvRWNoMkFRT0pSYmtjS01MaVJaby1kcXdOQ1JuR3F4aFdFVWNJX2VTeDBFcWI1NHFhaGtteXRZMW9IU29pSGxJSmJLZTZDS0ZpSXV2bVoxT0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "2026数字低空大会聚焦数字低空基础设施全链路能力建设 - 新华网"
+      "event": "尾盘放量，资金进场，主攻成长风格",
+      "originalTitle": "尾盘放量，资金进场，主攻成长风格",
+      "published": "2026-11-26T16:31:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834011",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
-      "published": "2026-11-26T08:18:34+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZTVvZVRFbWVBdWtSLWpXcGhMWmtuVHF5YmRiQktXbWJvRFl6Y21Ic3hIRV9QazRabXc4dTVFQ0lhdnAxcGxEbVoyUllwNU0yN0NQWDJDNDB1M01oYTJUSWtIX25yOUMwZ2tJLWVxeEFucmZuYkZN?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华社消息丨商务部：坚决反对美对中国等经济体加征301关税 - 新华网"
+      "event": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
+      "originalTitle": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
+      "published": "2026-11-26T15:11:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833985",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网",
-      "published": "2026-11-26T08:12:06+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUx4bi11czhkckRqaUdoVXdtbzBSSzR1QUtGajlmVlVsWWNtVFZzRVQzYkVScFY3M1I3ZGVxYnpUWXVzWUdwU0ppYVVHWXF6anZndWM0MlJOTHg2THNBclhXRU5OSGZ5eDNicmZPUGNQNm9TNHc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "内蒙古乌审旗赴青岛开展“双招双引”推介 - 新华网"
+      "event": "商务部：坚决反对美对中国等经济体加征301关税",
+      "originalTitle": "商务部：坚决反对美对中国等经济体加征301关税",
+      "published": "2026-11-26T15:11:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/833987",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网",
-      "published": "2026-11-26T08:04:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkQ3M0VuVm5UVjFjMFpzVDhreFE5NkNZV3pOdTlLSTE5dlFqTnk0eGNkNjhVSExxSTZvUmtPWTZnMC1MUjVSaHRuQXJnS3ZaaTVCcUNYWWpwdXZYd0pxLTExVUVXNEhycExiVS1KQjVMLWhDUEtDckRxUlJUdkE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "内塔尼亚胡称以军打死哈马斯经济和教育部门负责人 - 新华网"
+      "event": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
+      "originalTitle": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
+      "published": "2026-11-26T13:38:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833969",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网",
-      "published": "2026-11-26T08:03:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRVY4ZkpwczVRMVp2b0I4c2NYTEVxTU11VVBRYmpFYkdYUTN5NTc5aklwQlBOYkoyRnl2UGdvVjZkRDc5b1VmRW5mUzlnUk1sdnNaS2pGaS1fTFpHbWtJTmdRVF9SY0huV2RDb00yNWFWSmN1?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "湖北黄石创新创业大赛引入特色应用场景以产业需求牵引未来产业培育 - 新华网"
+      "event": "加强新一代通信网规划建设 三部门印发实施方案",
+      "originalTitle": "加强新一代通信网规划建设 三部门印发实施方案",
+      "published": "2026-11-26T12:25:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/833946",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "中国算法赛事吸引全球万余支队伍 - 新华网",
-      "published": "2026-11-26T07:44:53+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmtaVElfRkVQZ1o3MGNoRHFkYVQ4a1pwM0ZKZVR1c2I1V2xKb0NyRElpd28zSkxCcWVkLUxHd21hR2pYd0ltaC1pd29iMXplRWt2Z0ZZTzBONGxleUxpR25OYjFzMm5sREhJeHZPWl9IYTVQaVk4YVhCNEhGcTFGTGp3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中国算法赛事吸引全球万余支队伍 - 新华网"
+      "event": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "originalTitle": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
+      "published": "2026-11-26T09:44:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833887",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网",
-      "published": "2026-11-26T07:11:17+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qdjVldXdRZERfT3dqdGJWNERTU2UxWlNYSWRnX0JESXpXQWFaZzRzeTF0QmFWd0U2SUtqMGhlb1JuZ2VLcWdrRHNqNHNOWlloenV5RFg4YlhTRW5zYlpRR0lwREItNHZKdU51LU5TMXp4YlZEbUFV?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "商务部：坚决反对美对中国等经济体加征301关税 - 新华网"
+      "event": "构筑新优势 释放新活力——“中国经济圆桌会”共话高水平对外开放",
+      "originalTitle": "构筑新优势 释放新活力——“中国经济圆桌会”共话高水平对外开放",
+      "published": "2026-11-26T09:43:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/833901",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网",
-      "published": "2026-11-26T06:59:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0ZkTDJzRVcyY3ZuQ2Z6WWhCOGFYSU9meUY2MmU3dzlxNFZPSWR0c19FcVhGT25Fa0M0T0x5UlFHdFRjZTcwSTVHcjZ1RW4yTy1WNEpZaVk5LWtic0dUd24wZUFuYWdvUjlySTN5U1pTZWIxazd6T2pLak9jOTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秀我中国丨“只有河南”：悲声里生生不息 - 新华网"
+      "event": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "originalTitle": "*ST华幸：法院裁定受理公司重整事宜 今起叠加实施退市风险警示",
+      "published": "2026-11-26T09:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833889",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "南侨机工后人在云南畹町写下“我爱中国” - 新华网",
-      "published": "2026-11-26T06:52:20+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdYTDVhbXgyMVBoaFJTaTdaUlBiUnl6dnZ3bW52U055SzVmYXRXWUNOcUVxc3hkVkFTLXloLUlmMWFDQlo5Y256NTlNdG9fdm5FWnRKTTJKeFFEYmZSNVVuMWwtVGtPMU95di1FSEdXcHFFYjc5a0FXblRUZ3ZhXzBn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "南侨机工后人在云南畹町写下“我爱中国” - 新华网"
+      "event": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "originalTitle": "*ST瑞茂：连续10个交易日收盘低于1元 再次提示终止上市风险",
+      "published": "2026-11-26T09:06:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/833784",
+      "evidenceLevel": "headline-only"
     },
     {
-      "event": "《新一代通信网建设实施方案》印发 - 新华网",
-      "published": "2026-11-26T06:41:29+00:00",
+      "event": "《含花生肽肥料》团体标准发布，填补了国内该领域空白 - 新华网",
+      "published": "2026-11-26T09:01:14+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yODJyOWlvS0Qxd3NmaGQ5MjJYejI4OU5makN2eTgxaXhSM01jbmhBeVpmUzhHelZmUWNzTFlYcE9adkFzcUhJNmJDUTFLUEJPYTFON29qeDNQZFd0elc5UDVpR3Y5OWN0YmpobE9RVktoSU5VdGwza3lHNXdDUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CcHRJalBTQjh3bVlFVHJXandEMGgzc3V4VnVBVTFTMXhsdFFNYmRhRjNGSGJ5eEdESE5PNXJTeEtob2JJY2FOVy10QU1EUC1BbjZPb3dTMk81SXhTa1JLS0FCV1ZnY194UmRuQ2tMTXM1MkxhTnQ5SmV0SUk?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "《新一代通信网建设实施方案》印发 - 新华网"
+      "originalTitle": "《含花生肽肥料》团体标准发布，填补了国内该领域空白 - 新华网"
     }
   ],
   "quality": {
@@ -557,8 +557,15 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中文新闻索引: HTTPError",
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
