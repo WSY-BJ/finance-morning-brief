@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-26",
-  "date": "更新于北京时间 2026-11-26 12:22",
+  "date": "更新于北京时间 2026-11-26 13:18",
   "reportDate": "2026-11-26",
-  "updatedAt": "2026-11-26T12:22:22+08:00",
+  "updatedAt": "2026-11-26T13:18:47+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -22,7 +22,7 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "2026-11-24：7,201.09 点；较 2026-11-23 变化 -36.08 点。",
+          "summary": "2026-11-25：7,182.78 点；较 2026-11-24 变化 -18.31 点。",
           "paragraphs": [],
           "links": [
             {
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
+          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -80,37 +80,37 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 +0.00 个百分点",
+          "summary": "4.61 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.63（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.01 个百分点",
+          "summary": "4.85 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美元指数 DXY",
-          "summary": "103.81 点；变化 -0.51 点",
+          "summary": "103.67 点；变化 -0.14 点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 104.32（2026-11-23）；来源：Yahoo Finance。"
+            "观测日 2026-11-25；前值 103.81（2026-11-24）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -122,9 +122,9 @@
         {
           "type": "explainer",
           "title": "标普 500 指数",
-          "summary": "7,201.09 点；变化 -36.08 点",
+          "summary": "7,182.78 点；变化 -18.31 点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 7,237.17（2026-11-23）；来源：Yahoo Finance。"
+            "观测日 2026-11-25；前值 7,201.09（2026-11-24）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -136,9 +136,9 @@
         {
           "type": "explainer",
           "title": "纳斯达克综合指数",
-          "summary": "23,733.54 点；变化 -356.02 点",
+          "summary": "23,585.80 点；变化 -147.74 点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 24,089.56（2026-11-23）；来源：Yahoo Finance。"
+            "观测日 2026-11-25；前值 23,733.54（2026-11-24）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -196,11 +196,12 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-26T09:59:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：当地时间11月25日，美国联邦通信委员会（FCC）发布公告称，已附条件批准美国太空探索技术公司（SpaceX）部署至多100万颗卫星，组建名为“Starmind”的太空数据中心星座，以满足快速增长的人工智能算力需求。据悉，这是美国监管机构首"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
+              "title": "新闻原文",
               "url": "https://www.cnstock.com/commonDetail/833903"
             }
           ]
@@ -211,12 +212,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-26T09:44:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月25日晚间，美年健康发布公告称，公司于2026年11月24日召开第九届董事会第二十九次（临时）会议，审议通过《关于收购股权暨关联交易的议案》。"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/833887"
             }
           ]
@@ -298,31 +298,31 @@
         },
         {
           "type": "explainer",
-          "title": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
+          "title": "美批准马斯克旗下公司部署百万卫星 建太空数据中心 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T03:34:14+00:00；来源：新华网。",
+            "发布时间：2026-11-26T05:02:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMnJINXUyNldsSlBSZFB0MllpLUY4NFllRndyOFRCSWJESklVMl82U0JjcmU0dkhyR1RRdXBLN1QzS2ctLXMteFdoUGRGOUFyRFEtdEU0Y3RQUVFxQVhURHFLYzF2ZnNOWXVmUWQ4VjVPcHFMcWMtY2tJRzd3c2M?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
+          "title": "点心债市场扩容 人民币资产更受青睐 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T02:54:46+00:00；来源：新华网。",
+            "发布时间：2026-11-26T04:54:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6b1pnZHkzcXkzTkNzaWpEOTZfeGNKQVM3ZnRoa2NMdlNiZzJCN1JabF9HR0dUUzN3MUlWQmUtNVdoQmdTT25Za2JvYXN6Z19SVjFxemQ3ekxNdk5qaEZ1SXVRRDVrc2RtY05TdEhGbndxZVhyR3Q1dlp2d3RfMzA?oc=5"
             }
           ]
         }
@@ -354,7 +354,7 @@
           "title": "情景分析",
           "summary": "把销量、价格和成本分别改变，计算利润敏感度，而非给一个无条件预测。",
           "paragraphs": [
-            "本期实例：标普 500 指数，2026-11-23 前值 7237.1699，2026-11-24 现值 7201.0898，变化 -36.0801。",
+            "本期实例：标普 500 指数，2026-11-24 前值 7201.0898，2026-11-25 现值 7182.7798，变化 -18.3101。",
             "利润近似 = 销量 × (售价 − 单位变动成本) − 固定成本。"
           ],
           "links": []
@@ -380,24 +380,24 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-25"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-24"
-    },
-    {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-24"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-25"
     },
     {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
@@ -405,14 +405,14 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
-      "asOf": "2026-11-24"
+      "title": "美国 2 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-25"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-24"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-25"
     },
     {
       "title": "商务部等八部门印发《服务贸易发展“十五五”规划》",
@@ -455,14 +455,14 @@
       "asOf": "2026-11-26T07:45:00+08:00"
     },
     {
-      "title": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5",
-      "asOf": "2026-11-26T03:34:14+00:00"
+      "title": "美批准马斯克旗下公司部署百万卫星 建太空数据中心 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMnJINXUyNldsSlBSZFB0MllpLUY4NFllRndyOFRCSWJESklVMl82U0JjcmU0dkhyR1RRdXBLN1QzS2ctLXMteFdoUGRGOUFyRFEtdEU0Y3RQUVFxQVhURHFLYzF2ZnNOWXVmUWQ4VjVPcHFMcWMtY2tJRzd3c2M?oc=5",
+      "asOf": "2026-11-26T05:02:03+00:00"
     },
     {
-      "title": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
-      "asOf": "2026-11-26T02:54:46+00:00"
+      "title": "点心债市场扩容 人民币资产更受青睐 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6b1pnZHkzcXkzTkNzaWpEOTZfeGNKQVM3ZnRoa2NMdlNiZzJCN1JabF9HR0dUUzN3MUlWQmUtNVdoQmdTT25Za2JvYXN6Z19SVjFxemQ3ekxNdk5qaEZ1SXVRRDVrc2RtY05TdEhGbndxZVhyR3Q1dlp2d3RfMzA?oc=5",
+      "asOf": "2026-11-26T04:54:13+00:00"
     }
   ],
   "events": [
@@ -480,7 +480,14 @@
       "published": "2026-11-26T09:59:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/833903",
-      "evidenceLevel": "headline-only"
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/833903",
+        "retrievedAt": "2026-11-26T13:18:47.265339+08:00",
+        "sha256": "6891a0452129df7f273ba571ee501005c115e77296fc8d3a3bd0d3594d897c15",
+        "paragraphCount": 10,
+        "excerpt": "当地时间11月25日，美国联邦通信委员会（FCC）发布公告称，已附条件批准美国太空探索技术公司（SpaceX）部署至多100万颗卫星，组建名为“Starmind”的太空数据中心星座，以满足快速增长的人工智能算力需求。据悉，这是美国监管机构首"
+      }
     },
     {
       "event": "美年健康：拟收购成都美年壹中心以及郑州美健股权",
@@ -488,14 +495,7 @@
       "published": "2026-11-26T09:44:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/833887",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/833887",
-        "retrievedAt": "2026-11-26T12:22:22.131262+08:00",
-        "sha256": "9805fceff06ba29536529045b2a8f15f7df80bab40144d5c9514fd7ab690b178",
-        "paragraphCount": 5,
-        "excerpt": "上证智讯 11月25日晚间，美年健康发布公告称，公司于2026年11月24日召开第九届董事会第二十九次（临时）会议，审议通过《关于收购股权暨关联交易的议案》。"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "韩国央行加息25个基点 下半年来第三次加息",
@@ -538,20 +538,20 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "日媒：日本拟引进新型远程反舰导弹 - 新华网",
-      "published": "2026-11-26T03:34:14+00:00",
+      "event": "美批准马斯克旗下公司部署百万卫星 建太空数据中心 - 新华网",
+      "published": "2026-11-26T05:02:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRnpIakdxOGQwYmlNZlBiZlloYjQ2VDExRi1iTDcyVlhrRXotbDlHWjhkRVBRQnhiVmd2bWExbXQ2NUxPVy16ckJUdDViOXNOaGNYSjJsdlpOZ3hSbHJFd3k2NnM3akNJQ0tIRkEwZ3lhVHU2RDZMTWx2M1NZRHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMnJINXUyNldsSlBSZFB0MllpLUY4NFllRndyOFRCSWJESklVMl82U0JjcmU0dkhyR1RRdXBLN1QzS2ctLXMteFdoUGRGOUFyRFEtdEU0Y3RQUVFxQVhURHFLYzF2ZnNOWXVmUWQ4VjVPcHFMcWMtY2tJRzd3c2M?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "日媒：日本拟引进新型远程反舰导弹 - 新华网"
+      "originalTitle": "美批准马斯克旗下公司部署百万卫星 建太空数据中心 - 新华网"
     },
     {
-      "event": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网",
-      "published": "2026-11-26T02:54:46+00:00",
+      "event": "点心债市场扩容 人民币资产更受青睐 - 新华网",
+      "published": "2026-11-26T04:54:13+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpV2ZMc2NERVJNSUZ1czY4LTVCYjRfazF0N3liNHNGcThBXzRGa2Z3TDcyU3JSdUNoUHl5TmZ6Tk5wT1NSenJXbU9jYTF3dUlMSnN3OElPczhwYXc1dzJkRGc5UWJ3YklVQXRYck5IXzBQOEdrSWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6b1pnZHkzcXkzTkNzaWpEOTZfeGNKQVM3ZnRoa2NMdlNiZzJCN1JabF9HR0dUUzN3MUlWQmUtNVdoQmdTT25Za2JvYXN6Z19SVjFxemQ3ekxNdk5qaEZ1SXVRRDVrc2RtY05TdEhGbndxZVhyR3Q1dlp2d3RfMzA?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "迎峰度冬进入关键期 能源保供“工具箱”升级 - 新华网"
+      "originalTitle": "点心债市场扩容 人民币资产更受青睐 - 新华网"
     }
   ],
   "quality": {
