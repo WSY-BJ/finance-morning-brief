@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-27",
-  "date": "更新于北京时间 2026-11-27 17:39",
+  "date": "更新于北京时间 2026-11-27 21:52",
   "reportDate": "2026-11-27",
-  "updatedAt": "2026-11-27T17:39:16+08:00",
+  "updatedAt": "2026-11-27T21:52:57+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,81 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "中国证监会：落实落细各项存量政策 会同有关方面抓紧研究出台相关增量政策",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T19:35:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/834880"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "《人民币存贷款利率管理规定》自2027年3月21日起施行",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T18:52:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/834787"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "320亿元！贵州茅台“大红包”来了！",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T18:51:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/834790"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "大奇迹日！百点长阳，后市怎么走？",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T17:57:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/834656"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "利好又来了！国务院国资委最新部署",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T17:57:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/834685"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "国务院常务会议解读丨国常会关于资本市场部署释放五大鲜明信号",
           "summary": "",
           "paragraphs": [
@@ -207,21 +282,6 @@
         },
         {
           "type": "explainer",
-          "title": "中赋科技：固废板块四家标的股权二轮挂牌拟以5.95亿元成交",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T14:26:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834560"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "强烈信号！大资金涌入",
           "summary": "",
           "paragraphs": [
@@ -237,6 +297,21 @@
         },
         {
           "type": "explainer",
+          "title": "新华鲜报丨迎来200期，新闻茶座助力更好读懂中国 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T12:46:09+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Z2dzWFVvU2JqTW8xTVRGakhkTGVyY2ZFc1RtTkIzem1EbHNBZk4tekFUUnV0dm9wbkxpSXVZRWxsYlpHRUlPLTJuSzFxcDFBbk1qMFI3cUI3WkNaWXpXS0hnMWFqU3MyZjQtUXJDcHhmMWQ3WGxR?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "李强主持召开国务院常务会议",
           "summary": "",
           "paragraphs": [
@@ -247,81 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/834555"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "关键时刻，陈光明出手",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T09:59:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834531"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T09:45:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834527"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T09:22:37+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "三线齐发 长三角高铁营业里程突破8500公里",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T09:18:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834511"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T09:13:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5"
             }
           ]
         }
@@ -379,23 +379,23 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-26"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-25"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-26"
+    },
+    {
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-25"
     },
     {
@@ -414,6 +414,31 @@
       "asOf": "2026-11-24"
     },
     {
+      "title": "中国证监会：落实落细各项存量政策 会同有关方面抓紧研究出台相关增量政策",
+      "url": "https://www.cnstock.com/commonDetail/834880",
+      "asOf": "2026-11-27T19:35:00+08:00"
+    },
+    {
+      "title": "《人民币存贷款利率管理规定》自2027年3月21日起施行",
+      "url": "https://www.cnstock.com/commonDetail/834787",
+      "asOf": "2026-11-27T18:52:00+08:00"
+    },
+    {
+      "title": "320亿元！贵州茅台“大红包”来了！",
+      "url": "https://www.cnstock.com/commonDetail/834790",
+      "asOf": "2026-11-27T18:51:00+08:00"
+    },
+    {
+      "title": "大奇迹日！百点长阳，后市怎么走？",
+      "url": "https://www.cnstock.com/commonDetail/834656",
+      "asOf": "2026-11-27T17:57:00+08:00"
+    },
+    {
+      "title": "利好又来了！国务院国资委最新部署",
+      "url": "https://www.cnstock.com/commonDetail/834685",
+      "asOf": "2026-11-27T17:57:00+08:00"
+    },
+    {
       "title": "国务院常务会议解读丨国常会关于资本市场部署释放五大鲜明信号",
       "url": "https://www.cnstock.com/commonDetail/834614",
       "asOf": "2026-11-27T15:41:00+08:00"
@@ -424,47 +449,62 @@
       "asOf": "2026-11-27T15:28:00+08:00"
     },
     {
-      "title": "中赋科技：固废板块四家标的股权二轮挂牌拟以5.95亿元成交",
-      "url": "https://www.cnstock.com/commonDetail/834560",
-      "asOf": "2026-11-27T14:26:00+08:00"
-    },
-    {
       "title": "强烈信号！大资金涌入",
       "url": "https://www.cnstock.com/commonDetail/834577",
       "asOf": "2026-11-27T14:03:00+08:00"
     },
     {
+      "title": "新华鲜报丨迎来200期，新闻茶座助力更好读懂中国 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Z2dzWFVvU2JqTW8xTVRGakhkTGVyY2ZFc1RtTkIzem1EbHNBZk4tekFUUnV0dm9wbkxpSXVZRWxsYlpHRUlPLTJuSzFxcDFBbk1qMFI3cUI3WkNaWXpXS0hnMWFqU3MyZjQtUXJDcHhmMWQ3WGxR?oc=5",
+      "asOf": "2026-11-27T12:46:09+00:00"
+    },
+    {
       "title": "李强主持召开国务院常务会议",
       "url": "https://www.cnstock.com/commonDetail/834555",
       "asOf": "2026-11-27T12:25:00+08:00"
-    },
-    {
-      "title": "关键时刻，陈光明出手",
-      "url": "https://www.cnstock.com/commonDetail/834531",
-      "asOf": "2026-11-27T09:59:00+08:00"
-    },
-    {
-      "title": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
-      "url": "https://www.cnstock.com/commonDetail/834527",
-      "asOf": "2026-11-27T09:45:00+08:00"
-    },
-    {
-      "title": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5",
-      "asOf": "2026-11-27T09:22:37+00:00"
-    },
-    {
-      "title": "三线齐发 长三角高铁营业里程突破8500公里",
-      "url": "https://www.cnstock.com/commonDetail/834511",
-      "asOf": "2026-11-27T09:18:00+08:00"
-    },
-    {
-      "title": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5",
-      "asOf": "2026-11-27T09:13:31+00:00"
     }
   ],
   "events": [
+    {
+      "event": "中国证监会：落实落细各项存量政策 会同有关方面抓紧研究出台相关增量政策",
+      "originalTitle": "中国证监会：落实落细各项存量政策 会同有关方面抓紧研究出台相关增量政策",
+      "published": "2026-11-27T19:35:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834880",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "《人民币存贷款利率管理规定》自2027年3月21日起施行",
+      "originalTitle": "《人民币存贷款利率管理规定》自2027年3月21日起施行",
+      "published": "2026-11-27T18:52:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834787",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "320亿元！贵州茅台“大红包”来了！",
+      "originalTitle": "320亿元！贵州茅台“大红包”来了！",
+      "published": "2026-11-27T18:51:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834790",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "大奇迹日！百点长阳，后市怎么走？",
+      "originalTitle": "大奇迹日！百点长阳，后市怎么走？",
+      "published": "2026-11-27T17:57:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834656",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "利好又来了！国务院国资委最新部署",
+      "originalTitle": "利好又来了！国务院国资委最新部署",
+      "published": "2026-11-27T17:57:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834685",
+      "evidenceLevel": "headline-only"
+    },
     {
       "event": "国务院常务会议解读丨国常会关于资本市场部署释放五大鲜明信号",
       "originalTitle": "国务院常务会议解读丨国常会关于资本市场部署释放五大鲜明信号",
@@ -482,14 +522,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "中赋科技：固废板块四家标的股权二轮挂牌拟以5.95亿元成交",
-      "originalTitle": "中赋科技：固废板块四家标的股权二轮挂牌拟以5.95亿元成交",
-      "published": "2026-11-27T14:26:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834560",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "强烈信号！大资金涌入",
       "originalTitle": "强烈信号！大资金涌入",
       "published": "2026-11-27T14:03:00+08:00",
@@ -498,52 +530,20 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "新华鲜报丨迎来200期，新闻茶座助力更好读懂中国 - 新华网",
+      "published": "2026-11-27T12:46:09+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Z2dzWFVvU2JqTW8xTVRGakhkTGVyY2ZFc1RtTkIzem1EbHNBZk4tekFUUnV0dm9wbkxpSXVZRWxsYlpHRUlPLTJuSzFxcDFBbk1qMFI3cUI3WkNaWXpXS0hnMWFqU3MyZjQtUXJDcHhmMWQ3WGxR?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华鲜报丨迎来200期，新闻茶座助力更好读懂中国 - 新华网"
+    },
+    {
       "event": "李强主持召开国务院常务会议",
       "originalTitle": "李强主持召开国务院常务会议",
       "published": "2026-11-27T12:25:00+08:00",
       "publisher": "新华社",
       "url": "https://www.cnstock.com/commonDetail/834555",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "关键时刻，陈光明出手",
-      "originalTitle": "关键时刻，陈光明出手",
-      "published": "2026-11-27T09:59:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834531",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
-      "originalTitle": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
-      "published": "2026-11-27T09:45:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834527",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
-      "published": "2026-11-27T09:22:37+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网"
-    },
-    {
-      "event": "三线齐发 长三角高铁营业里程突破8500公里",
-      "originalTitle": "三线齐发 长三角高铁营业里程突破8500公里",
-      "published": "2026-11-27T09:18:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/834511",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
-      "published": "2026-11-27T09:13:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网"
     }
   ],
   "quality": {
@@ -557,6 +557,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
