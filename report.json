@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-27",
-  "date": "更新于北京时间 2026-11-27 17:01",
+  "date": "更新于北京时间 2026-11-27 17:39",
   "reportDate": "2026-11-27",
-  "updatedAt": "2026-11-27T17:01:53+08:00",
+  "updatedAt": "2026-11-27T17:39:16+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-25：7,182.78 点；较 2026-11-24 变化 -18.31 点。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.01 个百分点",
+          "summary": "4.85 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -282,6 +282,21 @@
         },
         {
           "type": "explainer",
+          "title": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T09:22:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "三线齐发 长三角高铁营业里程突破8500公里",
           "summary": "",
           "paragraphs": [
@@ -297,31 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
+          "title": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-27T09:01:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T09:13:31+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834428"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T08:44:03+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5"
             }
           ]
         }
@@ -379,23 +379,18 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-24"
-    },
-    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-26"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "title": "标普 500 指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-25"
     },
     {
-      "title": "标普 500 指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
       "asOf": "2026-11-25"
     },
     {
@@ -404,9 +399,14 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-24"
+    },
+    {
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-25"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -449,19 +449,19 @@
       "asOf": "2026-11-27T09:45:00+08:00"
     },
     {
+      "title": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5",
+      "asOf": "2026-11-27T09:22:37+00:00"
+    },
+    {
       "title": "三线齐发 长三角高铁营业里程突破8500公里",
       "url": "https://www.cnstock.com/commonDetail/834511",
       "asOf": "2026-11-27T09:18:00+08:00"
     },
     {
-      "title": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
-      "url": "https://www.cnstock.com/commonDetail/834428",
-      "asOf": "2026-11-27T09:01:00+08:00"
-    },
-    {
-      "title": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5",
-      "asOf": "2026-11-27T08:44:03+00:00"
+      "title": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5",
+      "asOf": "2026-11-27T09:13:31+00:00"
     }
   ],
   "events": [
@@ -522,6 +522,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网",
+      "published": "2026-11-27T09:22:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ra1czVTBMSlY1c2pDMkhzOHlJNUVta0NzQUtlMnptbWE5bDNoemlXYTlnbFd4ZDUtalVsYkVfVHlTcno4SDZ4VTVkWGV3d1BGSllOcmd3UnRfU2s3RThfZnBUelFhNEFpT3JkcUNROUNhSzJfRnIyR0JnUmwxdw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "新华网走进宝妈时光 记录母婴渠道恪守专业边界的线下服务实践 - 新华网"
+    },
+    {
       "event": "三线齐发 长三角高铁营业里程突破8500公里",
       "originalTitle": "三线齐发 长三角高铁营业里程突破8500公里",
       "published": "2026-11-27T09:18:00+08:00",
@@ -530,20 +538,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
-      "originalTitle": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
-      "published": "2026-11-27T09:01:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834428",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
-      "published": "2026-11-27T08:44:03+00:00",
+      "event": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网",
+      "published": "2026-11-27T09:13:31+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDQtb2ZGdzlWd1FJSEdpNHRtZWVuM2VHOXFPelhFNGdXTnRUeFdKeWF1ai1hWXRKdV90anQ0STUyRjd6VzVKSHZUR3Qtd1NQOE1BVjQzN1pCbDFpejg1MHBhdTdkRHpxcGc3QkhpTFVGZ1FvUVdSUTl5RzBPSlE?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "新华解码丨新一代通信网怎么建，专家详解 - 新华网"
+      "originalTitle": "中储粮集团新疆分公司党委委员、副总经理王建接受纪律审查和监察调查 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
