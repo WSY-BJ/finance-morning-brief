@@ -1,15 +1,15 @@
 {
-  "edition": "财经晨报 · 2026-11-26",
-  "date": "更新于北京时间 2026-11-26 21:54",
-  "reportDate": "2026-11-26",
-  "updatedAt": "2026-11-26T21:54:24+08:00",
+  "edition": "财经晨报 · 2026-11-27",
+  "date": "更新于北京时间 2026-11-27 11:37",
+  "reportDate": "2026-11-27",
+  "updatedAt": "2026-11-27T11:37:15+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
   "subtitle": "市场数据 · 中文新闻 · 企业利润 · 每日一课",
   "intro": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索",
   "notification": {
-    "title": "2026-11-26 财经资料（待核验）",
+    "title": "2026-11-27 财经资料（待核验）",
     "summary": "7 项市场数据 · 0 条正文审核事件 · 10 条待核验线索"
   },
   "pages": [
@@ -46,12 +46,12 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
+          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         }
@@ -80,28 +80,28 @@
         {
           "type": "explainer",
           "title": "美国 2 年期国债收益率",
-          "summary": "4.63 %；变化 +0.00 个百分点",
+          "summary": "4.61 %；变化 -0.02 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.63（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.63（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS2"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.85 %；变化 -0.06 个百分点",
+          "summary": "4.91 %；变化 -0.01 个百分点",
           "paragraphs": [
-            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
+            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：FRED / 原始发布机构。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+              "url": "https://fred.stlouisfed.org/series/DGS10"
             }
           ]
         },
@@ -150,9 +150,9 @@
         {
           "type": "explainer",
           "title": "美元兑人民币",
-          "summary": "6.6640 人民币/美元；变化 -0.0003 人民币/美元",
+          "summary": "6.6640 人民币/美元；变化 +0.0000 人民币/美元",
           "paragraphs": [
-            "观测日 2026-11-25；前值 6.6643（2026-11-24）；来源：Yahoo Finance。"
+            "观测日 2026-11-26；前值 6.6640（2026-11-25）；来源：Yahoo Finance。"
           ],
           "links": [
             {
@@ -177,152 +177,155 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "天齐锂业：拟斥资4.00亿元至8.00亿元回购A股股份",
+          "title": "关键时刻，陈光明出手",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T21:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T09:59:00+08:00；来源：上海证券报·中国证券网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月26日，天齐锂业发布回购A股股份方案称，公司拟使用自有资金或自筹资金，通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的部分A股股份，回购资金总额不低于4.00亿元（含）且不超过8.00亿元（含），回购价格不超过5"
+            "原文摘要：关键时刻，陈光明出手了。11月27日，睿远基金宣布将自购旗下基金1亿元。值得注意的是，近期多家基金公司出手，自购旗下权益类基金。"
           ],
           "links": [
             {
               "title": "新闻原文",
-              "url": "https://www.cnstock.com/commonDetail/834309"
+              "url": "https://www.cnstock.com/commonDetail/834531"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "深粮控股：约6.56亿股限售股份12月2日将上市流通",
+          "title": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T21:31:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-27T09:45:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证报中国证券网讯 据国家统计局11月27日消息，国家统计局工业司首席统计师于卫宁解读2026年1—10月份工业企业利润数据表示，1—10月份，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834289"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/834527"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中天精装：已斥资约7471.98万元回购约424.94万股股份",
+          "title": "三线齐发 长三角高铁营业里程突破8500公里",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T21:31:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-27T09:18:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：11月27日，安徽巢马高铁、淮蚌高铁、淮阜高铁开通运营，马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县和利辛县共5个县告别不通高铁的历史，长三角铁路营业里程超1.58万公里，高铁里程突破8500公里，“轨道上的长三角”再添新动脉。"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834260"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/834511"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
+          "title": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T18:46:00+08:00；来源：新华社。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+            "发布时间：2026-11-27T09:01:00+08:00；来源：上海证券报·中国证券网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：上证智讯 11月26日晚间，菱电电控发布公告称，公司2021年限制性股票激励计划首次授予部分第五个归属期、预留授予部分第四个归属期及2023年限制性股票激励计划首次授予部分第三个归属期、预留授予部分第二个归属期的归属股份登记已于2026年1"
           ],
           "links": [
             {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834107"
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/834428"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "马云，现身平头哥",
+          "title": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础——各级党组织和广大党员干部认真学习贯彻习近平关于基层工作方法的重要论述情况综述",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T18:46:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T07:56:00+08:00；来源：新华社。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834109"
+              "url": "https://www.cnstock.com/commonDetail/834483"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "尾盘放量，资金进场，主攻成长风格",
+          "title": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T16:31:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T03:18:29+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/834011"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54THBvS29ndmhrX1ZjTmE5UDhyc0tCX3BDU2VIVmpZaG9LS0Z0WkZHT21Sb25NdGczaWpXYWNRclV3OGlHR1pjVFZQNDNzUHlsWHMzZGlaTGllWVZzLW1Db3RYdVZSOUdJeWdLOEprY2xfVW41ZVA2STZWLXlSSjA?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "商务部：坚决反对美对中国等经济体加征301关税",
+          "title": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T15:11:00+08:00；来源：新华社。",
+            "发布时间：2026-11-27T03:08:10+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833987"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
+          "title": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T15:11:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T02:56:02+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833985"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
+          "title": "走，种冬小麦去 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T13:38:00+08:00；来源：上海证券报·中国证券网。",
+            "发布时间：2026-11-27T02:54:58+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/833969"
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5"
             }
           ]
         },
         {
           "type": "explainer",
-          "title": "斥10亿欧元加码在华投资 拜耳坚定看好中国市场 - 新华网",
+          "title": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-26T12:57:05+00:00；来源：新华网。",
+            "发布时间：2026-11-27T02:51:13+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKV0FzQVJxSUN5VEFwRi1UMk5reDhwNEQ3ejBUdjl0UGN2aHFNd2xoVEM1ajlBZnVmTGFuaUtGdWQ2YW0wak9adW1CamNGYlJJcmFzcEZqNjE1LThFbVVKREd5WjRqbkhyS3REdXpZdXphZjBmcXhMX01vMGM?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5"
             }
           ]
         }
@@ -346,7 +349,7 @@
     {
       "id": "lesson",
       "eyebrow": "05 · 每日一课",
-      "title": "第 49 课：情景分析",
+      "title": "第 50 课：情景分析",
       "lead": "按日期推进；先认识数据，再学习定价和风险。",
       "blocks": [
         {
@@ -385,18 +388,8 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-25"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-25"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
@@ -405,153 +398,184 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-25"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-26"
+    },
+    {
+      "title": "美国 2 年期国债收益率 · 美国财政部",
       "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-24"
     },
     {
-      "title": "天齐锂业：拟斥资4.00亿元至8.00亿元回购A股股份",
-      "url": "https://www.cnstock.com/commonDetail/834309",
-      "asOf": "2026-11-26T21:31:00+08:00"
+      "title": "关键时刻，陈光明出手",
+      "url": "https://www.cnstock.com/commonDetail/834531",
+      "asOf": "2026-11-27T09:59:00+08:00"
     },
     {
-      "title": "深粮控股：约6.56亿股限售股份12月2日将上市流通",
-      "url": "https://www.cnstock.com/commonDetail/834289",
-      "asOf": "2026-11-26T21:31:00+08:00"
+      "title": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
+      "url": "https://www.cnstock.com/commonDetail/834527",
+      "asOf": "2026-11-27T09:45:00+08:00"
     },
     {
-      "title": "中天精装：已斥资约7471.98万元回购约424.94万股股份",
-      "url": "https://www.cnstock.com/commonDetail/834260",
-      "asOf": "2026-11-26T21:31:00+08:00"
+      "title": "三线齐发 长三角高铁营业里程突破8500公里",
+      "url": "https://www.cnstock.com/commonDetail/834511",
+      "asOf": "2026-11-27T09:18:00+08:00"
     },
     {
-      "title": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
-      "url": "https://www.cnstock.com/commonDetail/834107",
-      "asOf": "2026-11-26T18:46:00+08:00"
+      "title": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
+      "url": "https://www.cnstock.com/commonDetail/834428",
+      "asOf": "2026-11-27T09:01:00+08:00"
     },
     {
-      "title": "马云，现身平头哥",
-      "url": "https://www.cnstock.com/commonDetail/834109",
-      "asOf": "2026-11-26T18:46:00+08:00"
+      "title": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础——各级党组织和广大党员干部认真学习贯彻习近平关于基层工作方法的重要论述情况综述",
+      "url": "https://www.cnstock.com/commonDetail/834483",
+      "asOf": "2026-11-27T07:56:00+08:00"
     },
     {
-      "title": "尾盘放量，资金进场，主攻成长风格",
-      "url": "https://www.cnstock.com/commonDetail/834011",
-      "asOf": "2026-11-26T16:31:00+08:00"
+      "title": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54THBvS29ndmhrX1ZjTmE5UDhyc0tCX3BDU2VIVmpZaG9LS0Z0WkZHT21Sb25NdGczaWpXYWNRclV3OGlHR1pjVFZQNDNzUHlsWHMzZGlaTGllWVZzLW1Db3RYdVZSOUdJeWdLOEprY2xfVW41ZVA2STZWLXlSSjA?oc=5",
+      "asOf": "2026-11-27T03:18:29+00:00"
     },
     {
-      "title": "商务部：坚决反对美对中国等经济体加征301关税",
-      "url": "https://www.cnstock.com/commonDetail/833987",
-      "asOf": "2026-11-26T15:11:00+08:00"
+      "title": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5",
+      "asOf": "2026-11-27T03:08:10+00:00"
     },
     {
-      "title": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
-      "url": "https://www.cnstock.com/commonDetail/833985",
-      "asOf": "2026-11-26T15:11:00+08:00"
+      "title": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5",
+      "asOf": "2026-11-27T02:56:02+00:00"
     },
     {
-      "title": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
-      "url": "https://www.cnstock.com/commonDetail/833969",
-      "asOf": "2026-11-26T13:38:00+08:00"
+      "title": "走，种冬小麦去 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5",
+      "asOf": "2026-11-27T02:54:58+00:00"
     },
     {
-      "title": "斥10亿欧元加码在华投资 拜耳坚定看好中国市场 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKV0FzQVJxSUN5VEFwRi1UMk5reDhwNEQ3ejBUdjl0UGN2aHFNd2xoVEM1ajlBZnVmTGFuaUtGdWQ2YW0wak9adW1CamNGYlJJcmFzcEZqNjE1LThFbVVKREd5WjRqbkhyS3REdXpZdXphZjBmcXhMX01vMGM?oc=5",
-      "asOf": "2026-11-26T12:57:05+00:00"
+      "title": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5",
+      "asOf": "2026-11-27T02:51:13+00:00"
     }
   ],
   "events": [
     {
-      "event": "天齐锂业：拟斥资4.00亿元至8.00亿元回购A股股份",
-      "originalTitle": "天齐锂业：拟斥资4.00亿元至8.00亿元回购A股股份",
-      "published": "2026-11-26T21:31:00+08:00",
+      "event": "关键时刻，陈光明出手",
+      "originalTitle": "关键时刻，陈光明出手",
+      "published": "2026-11-27T09:59:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834309",
+      "url": "https://www.cnstock.com/commonDetail/834531",
       "evidenceLevel": "headline-only",
       "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/834309",
-        "retrievedAt": "2026-11-26T21:54:24.632985+08:00",
-        "sha256": "9631e67ec40296b432527a0594d7e467d92810779e48804c56ba32ce2bb969b8",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月26日，天齐锂业发布回购A股股份方案称，公司拟使用自有资金或自筹资金，通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的部分A股股份，回购资金总额不低于4.00亿元（含）且不超过8.00亿元（含），回购价格不超过5"
+        "url": "https://www.cnstock.com/commonDetail/834531",
+        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "sha256": "a5e24075ecb61cb2429f991b136da5ca8ce2ad0a40f2664bd9dc74e9680f8395",
+        "paragraphCount": 13,
+        "excerpt": "关键时刻，陈光明出手了。11月27日，睿远基金宣布将自购旗下基金1亿元。值得注意的是，近期多家基金公司出手，自购旗下权益类基金。"
       }
     },
     {
-      "event": "深粮控股：约6.56亿股限售股份12月2日将上市流通",
-      "originalTitle": "深粮控股：约6.56亿股限售股份12月2日将上市流通",
-      "published": "2026-11-26T21:31:00+08:00",
+      "event": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
+      "originalTitle": "国家统计局：1—10月份规模以上工业企业利润保持较快增长",
+      "published": "2026-11-27T09:45:00+08:00",
       "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834289",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中天精装：已斥资约7471.98万元回购约424.94万股股份",
-      "originalTitle": "中天精装：已斥资约7471.98万元回购约424.94万股股份",
-      "published": "2026-11-26T21:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834260",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
-      "originalTitle": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
-      "published": "2026-11-26T18:46:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/834107",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "马云，现身平头哥",
-      "originalTitle": "马云，现身平头哥",
-      "published": "2026-11-26T18:46:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834109",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "尾盘放量，资金进场，主攻成长风格",
-      "originalTitle": "尾盘放量，资金进场，主攻成长风格",
-      "published": "2026-11-26T16:31:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/834011",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "商务部：坚决反对美对中国等经济体加征301关税",
-      "originalTitle": "商务部：坚决反对美对中国等经济体加征301关税",
-      "published": "2026-11-26T15:11:00+08:00",
-      "publisher": "新华社",
-      "url": "https://www.cnstock.com/commonDetail/833987",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
-      "originalTitle": "国家发展改革委：自11月26日24时起国内汽、柴油价格每吨分别下调440元、425元",
-      "published": "2026-11-26T15:11:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833985",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
-      "originalTitle": "《服务贸易发展“十五五”规划》出台 专家：云计算和大模型相关服务将直接受益",
-      "published": "2026-11-26T13:38:00+08:00",
-      "publisher": "上海证券报·中国证券网",
-      "url": "https://www.cnstock.com/commonDetail/833969",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "斥10亿欧元加码在华投资 拜耳坚定看好中国市场 - 新华网",
-      "published": "2026-11-26T12:57:05+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKV0FzQVJxSUN5VEFwRi1UMk5reDhwNEQ3ejBUdjl0UGN2aHFNd2xoVEM1ajlBZnVmTGFuaUtGdWQ2YW0wak9adW1CamNGYlJJcmFzcEZqNjE1LThFbVVKREd5WjRqbkhyS3REdXpZdXphZjBmcXhMX01vMGM?oc=5",
+      "url": "https://www.cnstock.com/commonDetail/834527",
       "evidenceLevel": "headline-only",
-      "originalTitle": "斥10亿欧元加码在华投资 拜耳坚定看好中国市场 - 新华网"
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/834527",
+        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "sha256": "ebeb2463ad95b64ec588aa0ae1f2a8f14956966747208d84f24c7dd65b615206",
+        "paragraphCount": 6,
+        "excerpt": "上证报中国证券网讯 据国家统计局11月27日消息，国家统计局工业司首席统计师于卫宁解读2026年1—10月份工业企业利润数据表示，1—10月份，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加"
+      }
+    },
+    {
+      "event": "三线齐发 长三角高铁营业里程突破8500公里",
+      "originalTitle": "三线齐发 长三角高铁营业里程突破8500公里",
+      "published": "2026-11-27T09:18:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/834511",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/834511",
+        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "sha256": "19de362bfdee064d41a7eba18e32536bc507c9dd237e5224d15a8df339604a53",
+        "paragraphCount": 3,
+        "excerpt": "11月27日，安徽巢马高铁、淮蚌高铁、淮阜高铁开通运营，马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县和利辛县共5个县告别不通高铁的历史，长三角铁路营业里程超1.58万公里，高铁里程突破8500公里，“轨道上的长三角”再添新动脉。"
+      }
+    },
+    {
+      "event": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
+      "originalTitle": "菱电电控：58.43万股股权激励归属股份将于12月2日上市",
+      "published": "2026-11-27T09:01:00+08:00",
+      "publisher": "上海证券报·中国证券网",
+      "url": "https://www.cnstock.com/commonDetail/834428",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/834428",
+        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "sha256": "5abf5407e71e87d2dab9a2f3f8e3312b31c4e4dbe68083092f4e6397539485d1",
+        "paragraphCount": 3,
+        "excerpt": "上证智讯 11月26日晚间，菱电电控发布公告称，公司2021年限制性股票激励计划首次授予部分第五个归属期、预留授予部分第四个归属期及2023年限制性股票激励计划首次授予部分第三个归属期、预留授予部分第二个归属期的归属股份登记已于2026年1"
+      }
+    },
+    {
+      "event": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础——各级党组织和广大党员干部认真学习贯彻习近平关于基层工作方法的重要论述情况综述",
+      "originalTitle": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础——各级党组织和广大党员干部认真学习贯彻习近平关于基层工作方法的重要论述情况综述",
+      "published": "2026-11-27T07:56:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/834483",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
+      "published": "2026-11-27T03:18:29+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54THBvS29ndmhrX1ZjTmE5UDhyc0tCX3BDU2VIVmpZaG9LS0Z0WkZHT21Sb25NdGczaWpXYWNRclV3OGlHR1pjVFZQNDNzUHlsWHMzZGlaTGllWVZzLW1Db3RYdVZSOUdJeWdLOEprY2xfVW41ZVA2STZWLXlSSjA?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网"
+    },
+    {
+      "event": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
+      "published": "2026-11-27T03:08:10+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网"
+    },
+    {
+      "event": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
+      "published": "2026-11-27T02:56:02+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网"
+    },
+    {
+      "event": "走，种冬小麦去 - 新华网",
+      "published": "2026-11-27T02:54:58+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "走，种冬小麦去 - 新华网"
+    },
+    {
+      "event": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
+      "published": "2026-11-27T02:51:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网"
     }
   ],
   "quality": {
@@ -565,13 +589,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError"
     ]
   }
