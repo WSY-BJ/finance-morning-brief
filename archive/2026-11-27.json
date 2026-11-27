@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-27",
-  "date": "更新于北京时间 2026-11-27 16:35",
+  "date": "更新于北京时间 2026-11-27 17:01",
   "reportDate": "2026-11-27",
-  "updatedAt": "2026-11-27T16:35:47+08:00",
+  "updatedAt": "2026-11-27T17:01:53+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "标普 500 指数",
-          "summary": "2026-11-25：7,182.78 点；较 2026-11-24 变化 -18.31 点。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "Brent 原油现货",
           "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
           "paragraphs": [],
@@ -40,6 +28,18 @@
             {
               "title": "数据来源",
               "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "标普 500 指数",
+          "summary": "2026-11-25：7,182.78 点；较 2026-11-24 变化 -18.31 点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://finance.yahoo.com/quote/%5EGSPC/"
             }
           ]
         },
@@ -312,16 +312,16 @@
         },
         {
           "type": "explainer",
-          "title": "南昌高新区Token工厂启动内测 - 新华网",
+          "title": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-27T08:15:51+00:00；来源：新华网。",
+            "发布时间：2026-11-27T08:44:03+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ga21feEQ1aEpQeVp1bTdjczA5RDdJM3JOZ0wxYUMwc1g3VjF4a1JnaFNtN2hSeFc4MHluR0xPYjdfaVQteXU3ZjhUOXF3ZE10cXExUE03cFFiTjl3OUxjYk1KYkRtNkFwQV9SU0Y1dmhjOWRr?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5"
             }
           ]
         }
@@ -379,6 +379,11 @@
   ],
   "sources": [
     {
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-24"
+    },
+    {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-26"
@@ -389,19 +394,14 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-25"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-25"
     },
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-24"
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-25"
     },
     {
       "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
@@ -459,9 +459,9 @@
       "asOf": "2026-11-27T09:01:00+08:00"
     },
     {
-      "title": "南昌高新区Token工厂启动内测 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ga21feEQ1aEpQeVp1bTdjczA5RDdJM3JOZ0wxYUMwc1g3VjF4a1JnaFNtN2hSeFc4MHluR0xPYjdfaVQteXU3ZjhUOXF3ZE10cXExUE03cFFiTjl3OUxjYk1KYkRtNkFwQV9SU0Y1dmhjOWRr?oc=5",
-      "asOf": "2026-11-27T08:15:51+00:00"
+      "title": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5",
+      "asOf": "2026-11-27T08:44:03+00:00"
     }
   ],
   "events": [
@@ -538,12 +538,12 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "南昌高新区Token工厂启动内测 - 新华网",
-      "published": "2026-11-27T08:15:51+00:00",
+      "event": "新华解码丨新一代通信网怎么建，专家详解 - 新华网",
+      "published": "2026-11-27T08:44:03+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ga21feEQ1aEpQeVp1bTdjczA5RDdJM3JOZ0wxYUMwc1g3VjF4a1JnaFNtN2hSeFc4MHluR0xPYjdfaVQteXU3ZjhUOXF3ZE10cXExUE03cFFiTjl3OUxjYk1KYkRtNkFwQV9SU0Y1dmhjOWRr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR251Wmk0WHVKam1kX292UmFoMEJ3dFhvc0xERU84RFE5VFd3bm5pYUtzSWJuS0hwV2tKSGRFZkthX1ktOEtIN2lTYzc0SWV1SnRRNXMwQ0NSMWNXNThrX1hicF9ESU5VaG4tT3NVOXY1SUF2c2FrVmJLVnU?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "南昌高新区Token工厂启动内测 - 新华网"
+      "originalTitle": "新华解码丨新一代通信网怎么建，专家详解 - 新华网"
     }
   ],
   "quality": {
