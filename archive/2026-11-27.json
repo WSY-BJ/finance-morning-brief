@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-27",
-  "date": "更新于北京时间 2026-11-27 11:37",
+  "date": "更新于北京时间 2026-11-27 12:31",
   "reportDate": "2026-11-27",
-  "updatedAt": "2026-11-27T11:37:15+08:00",
+  "updatedAt": "2026-11-27T12:31:29+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -21,18 +21,6 @@
       "blocks": [
         {
           "type": "explainer",
-          "title": "Brent 原油现货",
-          "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
-          "paragraphs": [],
-          "links": [
-            {
-              "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "标普 500 指数",
           "summary": "2026-11-25：7,182.78 点；较 2026-11-24 变化 -18.31 点。",
           "paragraphs": [],
@@ -45,13 +33,25 @@
         },
         {
           "type": "explainer",
-          "title": "美国 10 年期国债收益率",
-          "summary": "2026-11-24：4.91 %；较 2026-11-23 变化 -0.01 个百分点。",
+          "title": "Brent 原油现货",
+          "summary": "2026-11-24：91.80 美元/桶；较 2026-11-23 变化 +0.60 美元/桶。",
           "paragraphs": [],
           "links": [
             {
               "title": "数据来源",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "美国 10 年期国债收益率",
+          "summary": "2026-11-25：4.85 %；较 2026-11-24 变化 -0.06 个百分点。",
+          "paragraphs": [],
+          "links": [
+            {
+              "title": "数据来源",
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         }
@@ -94,14 +94,14 @@
         {
           "type": "explainer",
           "title": "美国 10 年期国债收益率",
-          "summary": "4.91 %；变化 -0.01 个百分点",
+          "summary": "4.85 %；变化 -0.06 个百分点",
           "paragraphs": [
-            "观测日 2026-11-24；前值 4.92（2026-11-23）；来源：FRED / 原始发布机构。"
+            "观测日 2026-11-25；前值 4.91（2026-11-24）；来源：美国财政部。"
           ],
           "links": [
             {
               "title": "原始数据与口径",
-              "url": "https://fred.stlouisfed.org/series/DGS10"
+              "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
             }
           ]
         },
@@ -177,6 +177,22 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "李强主持召开国务院常务会议",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T12:25:00+08:00；来源：新华社。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：新华社北京11月27日电 国务院总理李强11月27日主持召开国务院常务会议，听取推动高质量发展综合督查情况汇报，研究持续深化资本市场投融资综合改革工作，听取国家标准体系建设情况汇报，审议通过《生产安全事故隐患排查治理条例（草案）》。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/834555"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "关键时刻，陈光明出手",
           "summary": "",
           "paragraphs": [
@@ -229,12 +245,11 @@
           "summary": "",
           "paragraphs": [
             "发布时间：2026-11-27T09:01:00+08:00；来源：上海证券报·中国证券网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
-            "原文摘要：上证智讯 11月26日晚间，菱电电控发布公告称，公司2021年限制性股票激励计划首次授予部分第五个归属期、预留授予部分第四个归属期及2023年限制性股票激励计划首次授予部分第三个归属期、预留授予部分第二个归属期的归属股份登记已于2026年1"
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
-              "title": "新闻原文",
+              "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/834428"
             }
           ]
@@ -256,6 +271,36 @@
         },
         {
           "type": "explainer",
+          "title": "李强主持召开国务院常务会议 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T04:24:37+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVJhSjQ2OU53QVVzMGJYdWk5YTVVT1AxcERKZlpXX1Y5THI5V0dleFpFOFNSeWVHX09tN0F1aFBMZXJWb1hwNnZaaDdBbUxZU2Q5RWMzZmV0NVhzcHBfQ0lpOWk0Y1hpbG80NzlQdkxHVUxqcjhFTHZOZlk3RGQzVVFPLUhzREdobS1qZjBn?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "强化投资者回报导向 债基迎来集中分红期 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-27T03:18:32+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQWFYMkxzRWVmWnZhb3cxUkxTemhBeE9kMllSa0pKQmdZZUlNQVZnTFQ5al9jN3BWTjBKRjFibGdIMjJDWTJjWGpqZTY3cGlBdmlqaTVnWW1UaHYwNnB4UEQ3VkNoc3l3dFpNa1pieTQzMHAyNVQ2R05IZEpnOEE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
           "summary": "",
           "paragraphs": [
@@ -271,61 +316,16 @@
         },
         {
           "type": "explainer",
-          "title": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
+          "title": "引“智慧活水”润产业沃土——2026年“北京院士专家十堰行”活动综述 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-27T03:08:10+00:00；来源：新华网。",
+            "发布时间：2026-11-27T02:59:17+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T02:56:02+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "走，种冬小麦去 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T02:54:58+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-27T02:51:13+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3M2dTcUQ1WXBfa3o2bXJ2cHIwODN6R2VGOWpYRjhEc3oyai1USTJSR2ZVTkhpbUo0VXZBR0FqcWFLczNDeUEydU45OXBhY3d3cVBJMS1CbkhhSW1TUjVBV3FTNnRWdzhPb3hWdXRZbF96TVJQ?oc=5"
             }
           ]
         }
@@ -383,9 +383,14 @@
   ],
   "sources": [
     {
-      "title": "Brent 原油现货 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "asOf": "2026-11-24"
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-26"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-25"
     },
     {
       "title": "纳斯达克综合指数 · Yahoo Finance",
@@ -398,14 +403,9 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-25"
-    },
-    {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-26"
+      "title": "Brent 原油现货 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "asOf": "2026-11-24"
     },
     {
       "title": "美国 2 年期国债收益率 · 美国财政部",
@@ -413,9 +413,14 @@
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
-      "asOf": "2026-11-24"
+      "title": "美国 10 年期国债收益率 · 美国财政部",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "asOf": "2026-11-25"
+    },
+    {
+      "title": "李强主持召开国务院常务会议",
+      "url": "https://www.cnstock.com/commonDetail/834555",
+      "asOf": "2026-11-27T12:25:00+08:00"
     },
     {
       "title": "关键时刻，陈光明出手",
@@ -443,32 +448,42 @@
       "asOf": "2026-11-27T07:56:00+08:00"
     },
     {
+      "title": "李强主持召开国务院常务会议 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVJhSjQ2OU53QVVzMGJYdWk5YTVVT1AxcERKZlpXX1Y5THI5V0dleFpFOFNSeWVHX09tN0F1aFBMZXJWb1hwNnZaaDdBbUxZU2Q5RWMzZmV0NVhzcHBfQ0lpOWk0Y1hpbG80NzlQdkxHVUxqcjhFTHZOZlk3RGQzVVFPLUhzREdobS1qZjBn?oc=5",
+      "asOf": "2026-11-27T04:24:37+00:00"
+    },
+    {
+      "title": "强化投资者回报导向 债基迎来集中分红期 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQWFYMkxzRWVmWnZhb3cxUkxTemhBeE9kMllSa0pKQmdZZUlNQVZnTFQ5al9jN3BWTjBKRjFibGdIMjJDWTJjWGpqZTY3cGlBdmlqaTVnWW1UaHYwNnB4UEQ3VkNoc3l3dFpNa1pieTQzMHAyNVQ2R05IZEpnOEE?oc=5",
+      "asOf": "2026-11-27T03:18:32+00:00"
+    },
+    {
       "title": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54THBvS29ndmhrX1ZjTmE5UDhyc0tCX3BDU2VIVmpZaG9LS0Z0WkZHT21Sb25NdGczaWpXYWNRclV3OGlHR1pjVFZQNDNzUHlsWHMzZGlaTGllWVZzLW1Db3RYdVZSOUdJeWdLOEprY2xfVW41ZVA2STZWLXlSSjA?oc=5",
       "asOf": "2026-11-27T03:18:29+00:00"
     },
     {
-      "title": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5",
-      "asOf": "2026-11-27T03:08:10+00:00"
-    },
-    {
-      "title": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5",
-      "asOf": "2026-11-27T02:56:02+00:00"
-    },
-    {
-      "title": "走，种冬小麦去 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5",
-      "asOf": "2026-11-27T02:54:58+00:00"
-    },
-    {
-      "title": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5",
-      "asOf": "2026-11-27T02:51:13+00:00"
+      "title": "引“智慧活水”润产业沃土——2026年“北京院士专家十堰行”活动综述 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3M2dTcUQ1WXBfa3o2bXJ2cHIwODN6R2VGOWpYRjhEc3oyai1USTJSR2ZVTkhpbUo0VXZBR0FqcWFLczNDeUEydU45OXBhY3d3cVBJMS1CbkhhSW1TUjVBV3FTNnRWdzhPb3hWdXRZbF96TVJQ?oc=5",
+      "asOf": "2026-11-27T02:59:17+00:00"
     }
   ],
   "events": [
+    {
+      "event": "李强主持召开国务院常务会议",
+      "originalTitle": "李强主持召开国务院常务会议",
+      "published": "2026-11-27T12:25:00+08:00",
+      "publisher": "新华社",
+      "url": "https://www.cnstock.com/commonDetail/834555",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/834555",
+        "retrievedAt": "2026-11-27T12:31:29.351070+08:00",
+        "sha256": "1b49669022c0e87d250e05600c68da09f685c8bac5be84fe17a59fa65ce23c97",
+        "paragraphCount": 5,
+        "excerpt": "新华社北京11月27日电 国务院总理李强11月27日主持召开国务院常务会议，听取推动高质量发展综合督查情况汇报，研究持续深化资本市场投融资综合改革工作，听取国家标准体系建设情况汇报，审议通过《生产安全事故隐患排查治理条例（草案）》。"
+      }
+    },
     {
       "event": "关键时刻，陈光明出手",
       "originalTitle": "关键时刻，陈光明出手",
@@ -478,7 +493,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/834531",
-        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "retrievedAt": "2026-11-27T12:31:29.351070+08:00",
         "sha256": "a5e24075ecb61cb2429f991b136da5ca8ce2ad0a40f2664bd9dc74e9680f8395",
         "paragraphCount": 13,
         "excerpt": "关键时刻，陈光明出手了。11月27日，睿远基金宣布将自购旗下基金1亿元。值得注意的是，近期多家基金公司出手，自购旗下权益类基金。"
@@ -493,7 +508,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/834527",
-        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "retrievedAt": "2026-11-27T12:31:29.351070+08:00",
         "sha256": "ebeb2463ad95b64ec588aa0ae1f2a8f14956966747208d84f24c7dd65b615206",
         "paragraphCount": 6,
         "excerpt": "上证报中国证券网讯 据国家统计局11月27日消息，国家统计局工业司首席统计师于卫宁解读2026年1—10月份工业企业利润数据表示，1—10月份，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加"
@@ -508,7 +523,7 @@
       "evidenceLevel": "headline-only",
       "articleEvidence": {
         "url": "https://www.cnstock.com/commonDetail/834511",
-        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
+        "retrievedAt": "2026-11-27T12:31:29.351070+08:00",
         "sha256": "19de362bfdee064d41a7eba18e32536bc507c9dd237e5224d15a8df339604a53",
         "paragraphCount": 3,
         "excerpt": "11月27日，安徽巢马高铁、淮蚌高铁、淮阜高铁开通运营，马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县和利辛县共5个县告别不通高铁的历史，长三角铁路营业里程超1.58万公里，高铁里程突破8500公里，“轨道上的长三角”再添新动脉。"
@@ -520,14 +535,7 @@
       "published": "2026-11-27T09:01:00+08:00",
       "publisher": "上海证券报·中国证券网",
       "url": "https://www.cnstock.com/commonDetail/834428",
-      "evidenceLevel": "headline-only",
-      "articleEvidence": {
-        "url": "https://www.cnstock.com/commonDetail/834428",
-        "retrievedAt": "2026-11-27T11:37:15.706468+08:00",
-        "sha256": "5abf5407e71e87d2dab9a2f3f8e3312b31c4e4dbe68083092f4e6397539485d1",
-        "paragraphCount": 3,
-        "excerpt": "上证智讯 11月26日晚间，菱电电控发布公告称，公司2021年限制性股票激励计划首次授予部分第五个归属期、预留授予部分第四个归属期及2023年限制性股票激励计划首次授予部分第三个归属期、预留授予部分第二个归属期的归属股份登记已于2026年1"
-      }
+      "evidenceLevel": "headline-only"
     },
     {
       "event": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础——各级党组织和广大党员干部认真学习贯彻习近平关于基层工作方法的重要论述情况综述",
@@ -538,6 +546,22 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "李强主持召开国务院常务会议 - 新华网",
+      "published": "2026-11-27T04:24:37+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVJhSjQ2OU53QVVzMGJYdWk5YTVVT1AxcERKZlpXX1Y5THI5V0dleFpFOFNSeWVHX09tN0F1aFBMZXJWb1hwNnZaaDdBbUxZU2Q5RWMzZmV0NVhzcHBfQ0lpOWk0Y1hpbG80NzlQdkxHVUxqcjhFTHZOZlk3RGQzVVFPLUhzREdobS1qZjBn?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "李强主持召开国务院常务会议 - 新华网"
+    },
+    {
+      "event": "强化投资者回报导向 债基迎来集中分红期 - 新华网",
+      "published": "2026-11-27T03:18:32+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQWFYMkxzRWVmWnZhb3cxUkxTemhBeE9kMllSa0pKQmdZZUlNQVZnTFQ5al9jN3BWTjBKRjFibGdIMjJDWTJjWGpqZTY3cGlBdmlqaTVnWW1UaHYwNnB4UEQ3VkNoc3l3dFpNa1pieTQzMHAyNVQ2R05IZEpnOEE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "强化投资者回报导向 债基迎来集中分红期 - 新华网"
+    },
+    {
       "event": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网",
       "published": "2026-11-27T03:18:29+00:00",
       "publisher": "新华网",
@@ -546,36 +570,12 @@
       "originalTitle": "险资一级市场投资剪影：做“出资人”也做“合伙人” - 新华网"
     },
     {
-      "event": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网",
-      "published": "2026-11-27T03:08:10+00:00",
+      "event": "引“智慧活水”润产业沃土——2026年“北京院士专家十堰行”活动综述 - 新华网",
+      "published": "2026-11-27T02:59:17+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BQlZhRG5qMHdKWkFiMnA2VEVXOExsMENRTTE2c0tOSzAxYnRzNWZWb3pVSGtPaUhWYlNqQkNPTEd2Z19VR094dzBKRWFsMFBPRnNhWndiamVLTzh2ejc0RWprVllvc1VWLVNkWWI4MUJ1VXZFYU5tVmY4WXpHZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3M2dTcUQ1WXBfa3o2bXJ2cHIwODN6R2VGOWpYRjhEc3oyai1USTJSR2ZVTkhpbUo0VXZBR0FqcWFLczNDeUEydU45OXBhY3d3cVBJMS1CbkhhSW1TUjVBV3FTNnRWdzhPb3hWdXRZbF96TVJQ?oc=5",
       "evidenceLevel": "headline-only",
-      "originalTitle": "第23届国际法论坛聚焦“全球治理与国际法：挑战和应对” - 新华网"
-    },
-    {
-      "event": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网",
-      "published": "2026-11-27T02:56:02+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMS11OUtKR2NCbjBfbmJYRFNTV2x1TEttbFlzSWpaNldfd21Ja05jM2QyaEUwU3U3WjAwOVZ4TEZSTjRUMmNGQjhwVlo1cDlyN2p4Umc1b09JTkQ0QTJnRE9tOGg2YldONHI1TGx3LUNSZFhOUUszWmF4SDg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "走进格力高工厂，看见一盒百奇背后的品质坚守 - 新华网"
-    },
-    {
-      "event": "走，种冬小麦去 - 新华网",
-      "published": "2026-11-27T02:54:58+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T1lxaXBHVzVZQzI0QzhHQmIwUnZxZlY2QVlnWnJpcjZ2ME5TMUdBemxxRE53TXRSbnpfUDZJeWdudlNKT1hVNmVoemQxT3pzdUlEWnZ5TWQ1M2xGT3FUSGZ4TnJCcDlIYlV0bUVEV1BvTkdxc2h5a0ZWYmhHQQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "走，种冬小麦去 - 新华网"
-    },
-    {
-      "event": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网",
-      "published": "2026-11-27T02:51:13+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUtRZzdqU1NHSTBCNHlxZGFnUVd5MWUtMXpydXQ5Q2g2a0hDWWQwZElnTUpBZ3RfNTVjbDEzcGZua2pGWFdneGpEYkpoWW15N2N3V0xRNEczNjN1TXZyWjZWSHlsVnRHV3dIZlN0S0RRUjczZ2oxNTg1TnpjRWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "“出口中国”丹麦专场活动在哥本哈根举行 - 新华网"
+      "originalTitle": "引“智慧活水”润产业沃土——2026年“北京院士专家十堰行”活动综述 - 新华网"
     }
   ],
   "quality": {
@@ -589,6 +589,7 @@
       "gold"
     ],
     "unavailableNewsSources": [
+      "article: ValueError",
       "article: ValueError"
     ]
   }
