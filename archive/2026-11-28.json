@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-28",
-  "date": "更新于北京时间 2026-11-28 16:24",
+  "date": "更新于北京时间 2026-11-28 16:53",
   "reportDate": "2026-11-28",
-  "updatedAt": "2026-11-28T16:24:02+08:00",
+  "updatedAt": "2026-11-28T16:53:33+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -192,6 +192,36 @@
         },
         {
           "type": "explainer",
+          "title": "2027年预算案在德国联邦议院过关 多数民众反对 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:46:12+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbXFsd1dOTFY2Q2tHQ1Vwck5la21fTlRYVlAzcjBwZS1lX2ctMmppcWZqbHNxZm82dE9QOEtZU01fNEs4bHAyaUo3Z182WGVYcmJyWTlFTHl5enhRMVJBZlVUSy0tN185ZjA5dFZsY3BIUlN6REhHT2xOa0pkRVU?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "四川绵遂资内铁路全线首座跨铁路转体桥梁成功转体 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:35:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQeDJ1bjBSTW5LN0UtQWtydm9sejAteHlYTFZBaEoyRjlGamdsbE1VdjZ5Q0huTGFLejhrTnlGMnVmUWdGZ2NJaU02UDJJYmNfUWlwZG1EeXhUZ21UUHlYM2RxTUMyWkNuWWVoekRJNnkyZ3VZWVJ4Wk9Sd2JtOWM?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "新雪季，冷资源释放“热”动能",
           "summary": "",
           "paragraphs": [
@@ -202,6 +232,36 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://www.cnstock.com/commonDetail/835170"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "专访丨期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:06:16+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Ni0zQmY2cVNzSkIwYUM2Q2pBSmhwWUF4amJjb3d6ZFJqMjFnR0V1ck1obkNxOHN2elJnVkRhckJZRkQ2a3o0cWcxR0hYNWZPMjB5YmFLaVBmaHNaX0RJckdMTXk4RWpfTm9CUEtZeXZka3ViRXhN?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026中国文化产业发展大会聚焦提升文化产业竞争力 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:05:13+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkdZaU05NDZlX0ZpY1UtbllCSWVLamJBV1h4QTI5VmtqOUlGQ2RMZ1UyblRMZW1sRmZIS2xXMjBZd3diRHY0SGdFV2pQMEhoOVdtMm1KRklQckcxaks4QmNxa3o5eUNIbllQOVhoc296Ti1QdkgyOXpSOHhodE5GTFl3?oc=5"
             }
           ]
         },
@@ -264,66 +324,6 @@
               "url": "https://www.cnstock.com/commonDetail/835156"
             }
           ]
-        },
-        {
-          "type": "explainer",
-          "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/835159"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/835158"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:37:41+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "大熊猫“冉冉”前往比利时 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:34:00+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -384,11 +384,6 @@
       "asOf": "2026-11-27"
     },
     {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
-      "asOf": "2026-11-27"
-    },
-    {
       "title": "标普 500 指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "asOf": "2026-11-27"
@@ -396,6 +391,11 @@
     {
       "title": "美元兑人民币 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-27"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-27"
     },
     {
@@ -419,9 +419,29 @@
       "asOf": "2026-11-28T09:22:00+08:00"
     },
     {
+      "title": "2027年预算案在德国联邦议院过关 多数民众反对 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbXFsd1dOTFY2Q2tHQ1Vwck5la21fTlRYVlAzcjBwZS1lX2ctMmppcWZqbHNxZm82dE9QOEtZU01fNEs4bHAyaUo3Z182WGVYcmJyWTlFTHl5enhRMVJBZlVUSy0tN185ZjA5dFZsY3BIUlN6REhHT2xOa0pkRVU?oc=5",
+      "asOf": "2026-11-28T08:46:12+00:00"
+    },
+    {
+      "title": "四川绵遂资内铁路全线首座跨铁路转体桥梁成功转体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQeDJ1bjBSTW5LN0UtQWtydm9sejAteHlYTFZBaEoyRjlGamdsbE1VdjZ5Q0huTGFLejhrTnlGMnVmUWdGZ2NJaU02UDJJYmNfUWlwZG1EeXhUZ21UUHlYM2RxTUMyWkNuWWVoekRJNnkyZ3VZWVJ4Wk9Sd2JtOWM?oc=5",
+      "asOf": "2026-11-28T08:35:49+00:00"
+    },
+    {
       "title": "新雪季，冷资源释放“热”动能",
       "url": "https://www.cnstock.com/commonDetail/835170",
       "asOf": "2026-11-28T08:08:00+08:00"
+    },
+    {
+      "title": "专访丨期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Ni0zQmY2cVNzSkIwYUM2Q2pBSmhwWUF4amJjb3d6ZFJqMjFnR0V1ck1obkNxOHN2elJnVkRhckJZRkQ2a3o0cWcxR0hYNWZPMjB5YmFLaVBmaHNaX0RJckdMTXk4RWpfTm9CUEtZeXZka3ViRXhN?oc=5",
+      "asOf": "2026-11-28T08:06:16+00:00"
+    },
+    {
+      "title": "2026中国文化产业发展大会聚焦提升文化产业竞争力 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkdZaU05NDZlX0ZpY1UtbllCSWVLamJBV1h4QTI5VmtqOUlGQ2RMZ1UyblRMZW1sRmZIS2xXMjBZd3diRHY0SGdFV2pQMEhoOVdtMm1KRklQckcxaks4QmNxa3o5eUNIbllQOVhoc296Ti1QdkgyOXpSOHhodE5GTFl3?oc=5",
+      "asOf": "2026-11-28T08:05:13+00:00"
     },
     {
       "title": "科技股再定价 基金经理拆解反弹逻辑",
@@ -442,26 +462,6 @@
       "title": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
       "url": "https://www.cnstock.com/commonDetail/835156",
       "asOf": "2026-11-28T07:57:00+08:00"
-    },
-    {
-      "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
-      "url": "https://www.cnstock.com/commonDetail/835159",
-      "asOf": "2026-11-28T07:56:00+08:00"
-    },
-    {
-      "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "url": "https://www.cnstock.com/commonDetail/835158",
-      "asOf": "2026-11-28T07:56:00+08:00"
-    },
-    {
-      "title": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5",
-      "asOf": "2026-11-28T07:37:41+00:00"
-    },
-    {
-      "title": "大熊猫“冉冉”前往比利时 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5",
-      "asOf": "2026-11-28T07:34:00+00:00"
     }
   ],
   "events": [
@@ -474,12 +474,44 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "2027年预算案在德国联邦议院过关 多数民众反对 - 新华网",
+      "published": "2026-11-28T08:46:12+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbXFsd1dOTFY2Q2tHQ1Vwck5la21fTlRYVlAzcjBwZS1lX2ctMmppcWZqbHNxZm82dE9QOEtZU01fNEs4bHAyaUo3Z182WGVYcmJyWTlFTHl5enhRMVJBZlVUSy0tN185ZjA5dFZsY3BIUlN6REhHT2xOa0pkRVU?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2027年预算案在德国联邦议院过关 多数民众反对 - 新华网"
+    },
+    {
+      "event": "四川绵遂资内铁路全线首座跨铁路转体桥梁成功转体 - 新华网",
+      "published": "2026-11-28T08:35:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQeDJ1bjBSTW5LN0UtQWtydm9sejAteHlYTFZBaEoyRjlGamdsbE1VdjZ5Q0huTGFLejhrTnlGMnVmUWdGZ2NJaU02UDJJYmNfUWlwZG1EeXhUZ21UUHlYM2RxTUMyWkNuWWVoekRJNnkyZ3VZWVJ4Wk9Sd2JtOWM?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "四川绵遂资内铁路全线首座跨铁路转体桥梁成功转体 - 新华网"
+    },
+    {
       "event": "新雪季，冷资源释放“热”动能",
       "originalTitle": "新雪季，冷资源释放“热”动能",
       "published": "2026-11-28T08:08:00+08:00",
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/835170",
       "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "专访丨期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔 - 新华网",
+      "published": "2026-11-28T08:06:16+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Ni0zQmY2cVNzSkIwYUM2Q2pBSmhwWUF4amJjb3d6ZFJqMjFnR0V1ck1obkNxOHN2elJnVkRhckJZRkQ2a3o0cWcxR0hYNWZPMjB5YmFLaVBmaHNaX0RJckdMTXk4RWpfTm9CUEtZeXZka3ViRXhN?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "专访丨期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔 - 新华网"
+    },
+    {
+      "event": "2026中国文化产业发展大会聚焦提升文化产业竞争力 - 新华网",
+      "published": "2026-11-28T08:05:13+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkdZaU05NDZlX0ZpY1UtbllCSWVLamJBV1h4QTI5VmtqOUlGQ2RMZ1UyblRMZW1sRmZIS2xXMjBZd3diRHY0SGdFV2pQMEhoOVdtMm1KRklQckcxaks4QmNxa3o5eUNIbllQOVhoc296Ti1QdkgyOXpSOHhodE5GTFl3?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026中国文化产业发展大会聚焦提升文化产业竞争力 - 新华网"
     },
     {
       "event": "科技股再定价 基金经理拆解反弹逻辑",
@@ -512,38 +544,6 @@
       "publisher": "上海证券报",
       "url": "https://www.cnstock.com/commonDetail/835156",
       "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
-      "originalTitle": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
-      "published": "2026-11-28T07:56:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/835159",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "originalTitle": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "published": "2026-11-28T07:56:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/835158",
-      "evidenceLevel": "headline-only"
-    },
-    {
-      "event": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
-      "published": "2026-11-28T07:37:41+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网"
-    },
-    {
-      "event": "大熊猫“冉冉”前往比利时 - 新华网",
-      "published": "2026-11-28T07:34:00+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "大熊猫“冉冉”前往比利时 - 新华网"
     }
   ],
   "quality": {
@@ -557,8 +557,6 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "article: ValueError",
-      "article: ValueError",
       "article: ValueError",
       "article: ValueError",
       "article: ValueError",
