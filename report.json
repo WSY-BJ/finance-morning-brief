@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-28",
-  "date": "更新于北京时间 2026-11-28 15:50",
+  "date": "更新于北京时间 2026-11-28 16:24",
   "reportDate": "2026-11-28",
-  "updatedAt": "2026-11-28T15:50:35+08:00",
+  "updatedAt": "2026-11-28T16:24:02+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -222,6 +222,21 @@
         },
         {
           "type": "explainer",
+          "title": "秀我中国丨塑料大棚聚来欢声笑语 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:00:18+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXJqQ2ZaWUpyZEEzRDFEbXc2bi1DV3V5MXBSbms0OW9JTjdlcFdodjhsems5NTJNc3BUaDFFR0RDN1lTUzFiQUZVNE0zWW1DVk13cVFpS1VXSmFOeFRFTnlOY3JPTXJPcTVhYVJiazdkSWJ6clhHRC1Seks0TDhyZU5R?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "月内两提资本市场 国常会释放多重鲜明信号",
           "summary": "",
           "paragraphs": [
@@ -252,21 +267,6 @@
         },
         {
           "type": "explainer",
-          "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://www.cnstock.com/commonDetail/835158"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
           "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
           "summary": "",
           "paragraphs": [
@@ -282,46 +282,46 @@
         },
         {
           "type": "explainer",
+          "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835158"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:37:41+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "大熊猫“冉冉”前往比利时 - 新华网",
           "summary": "",
           "paragraphs": [
-            "发布时间：2026-11-28T07:34:01+00:00；来源：新华网。",
+            "发布时间：2026-11-28T07:34:00+00:00；来源：新华网。",
             "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
           ],
           "links": [
             {
               "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:24:49+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T07:11:47+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5"
             }
           ]
         }
@@ -404,13 +404,13 @@
       "asOf": "2026-11-24"
     },
     {
-      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS2",
       "asOf": "2026-11-25"
     },
     {
-      "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
-      "url": "https://fred.stlouisfed.org/series/DGS2",
+      "title": "美国 10 年期国债收益率 · FRED / 原始发布机构",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
       "asOf": "2026-11-25"
     },
     {
@@ -429,6 +429,11 @@
       "asOf": "2026-11-28T08:03:00+08:00"
     },
     {
+      "title": "秀我中国丨塑料大棚聚来欢声笑语 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXJqQ2ZaWUpyZEEzRDFEbXc2bi1DV3V5MXBSbms0OW9JTjdlcFdodjhsems5NTJNc3BUaDFFR0RDN1lTUzFiQUZVNE0zWW1DVk13cVFpS1VXSmFOeFRFTnlOY3JPTXJPcTVhYVJiazdkSWJ6clhHRC1Seks0TDhyZU5R?oc=5",
+      "asOf": "2026-11-28T08:00:18+00:00"
+    },
+    {
       "title": "月内两提资本市场 国常会释放多重鲜明信号",
       "url": "https://www.cnstock.com/commonDetail/835154",
       "asOf": "2026-11-28T07:57:00+08:00"
@@ -439,29 +444,24 @@
       "asOf": "2026-11-28T07:57:00+08:00"
     },
     {
-      "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "url": "https://www.cnstock.com/commonDetail/835158",
-      "asOf": "2026-11-28T07:56:00+08:00"
-    },
-    {
       "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
       "url": "https://www.cnstock.com/commonDetail/835159",
       "asOf": "2026-11-28T07:56:00+08:00"
     },
     {
+      "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "asOf": "2026-11-28T07:56:00+08:00"
+    },
+    {
+      "title": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5",
+      "asOf": "2026-11-28T07:37:41+00:00"
+    },
+    {
       "title": "大熊猫“冉冉”前往比利时 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5",
-      "asOf": "2026-11-28T07:34:01+00:00"
-    },
-    {
-      "title": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5",
-      "asOf": "2026-11-28T07:24:49+00:00"
-    },
-    {
-      "title": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5",
-      "asOf": "2026-11-28T07:11:47+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5",
+      "asOf": "2026-11-28T07:34:00+00:00"
     }
   ],
   "events": [
@@ -490,6 +490,14 @@
       "evidenceLevel": "headline-only"
     },
     {
+      "event": "秀我中国丨塑料大棚聚来欢声笑语 - 新华网",
+      "published": "2026-11-28T08:00:18+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXJqQ2ZaWUpyZEEzRDFEbXc2bi1DV3V5MXBSbms0OW9JTjdlcFdodjhsems5NTJNc3BUaDFFR0RDN1lTUzFiQUZVNE0zWW1DVk13cVFpS1VXSmFOeFRFTnlOY3JPTXJPcTVhYVJiazdkSWJ6clhHRC1Seks0TDhyZU5R?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "秀我中国丨塑料大棚聚来欢声笑语 - 新华网"
+    },
+    {
       "event": "月内两提资本市场 国常会释放多重鲜明信号",
       "originalTitle": "月内两提资本市场 国常会释放多重鲜明信号",
       "published": "2026-11-28T07:57:00+08:00",
@@ -506,14 +514,6 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "originalTitle": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
-      "published": "2026-11-28T07:56:00+08:00",
-      "publisher": "上海证券报",
-      "url": "https://www.cnstock.com/commonDetail/835158",
-      "evidenceLevel": "headline-only"
-    },
-    {
       "event": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
       "originalTitle": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
       "published": "2026-11-28T07:56:00+08:00",
@@ -522,28 +522,28 @@
       "evidenceLevel": "headline-only"
     },
     {
-      "event": "大熊猫“冉冉”前往比利时 - 新华网",
-      "published": "2026-11-28T07:34:01+00:00",
+      "event": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "originalTitle": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "published": "2026-11-28T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网",
+      "published": "2026-11-28T07:37:41+00:00",
       "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExHS1hFWE1rdVVVZXlqeGZNZWlBOWtWNXVxeTVmNndPM0Z5RVB1T25ZTHBLT0RQU3ktdTJLdWw4bmZaeUhXSUZ3TVctYmk0cWQ2QXZIc0dJcDZXSkVHbDdGSHVqdGdfRUI4WF9CQ0Jidjc1UDRUQi1tZlUwcVE?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "秀我中国丨在俄罗斯的大学上一堂汉语课 - 新华网"
+    },
+    {
+      "event": "大熊猫“冉冉”前往比利时 - 新华网",
+      "published": "2026-11-28T07:34:00+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBycEZMOWxFNTBUdE5yMWpjRFFFb1EyNUlLeEgzejFWS1Vtak5ud3ZYZzdKX0NHU21ZRmVhOEQyb3R5WGxXN1BJOGJMSFZVb1pGZUVBeGpjbjRkaEpWejE0MHcwRGRrXzhnMjRSM3o4UEpIejFoZVVn?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "大熊猫“冉冉”前往比利时 - 新华网"
-    },
-    {
-      "event": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
-      "published": "2026-11-28T07:24:49+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网"
-    },
-    {
-      "event": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
-      "published": "2026-11-28T07:11:47+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网"
     }
   ],
   "quality": {
