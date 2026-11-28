@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-28",
-  "date": "更新于北京时间 2026-11-28 15:33",
+  "date": "更新于北京时间 2026-11-28 15:50",
   "reportDate": "2026-11-28",
-  "updatedAt": "2026-11-28T15:33:24+08:00",
+  "updatedAt": "2026-11-28T15:50:35+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,141 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "瞭望·治国理政纪事丨更高标准推进改革开放",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T09:22:00+08:00；来源：《瞭望》。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835189"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新雪季，冷资源释放“热”动能",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:08:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835170"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "科技股再定价 基金经理拆解反弹逻辑",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:03:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835165"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "月内两提资本市场 国常会释放多重鲜明信号",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:57:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835154"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:57:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835156"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835158"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835159"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "大熊猫“冉冉”前往比利时 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:34:01+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:24:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
           "summary": "",
           "paragraphs": [
@@ -187,141 +322,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "全国电力版图更迭：内蒙古何以登顶 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T06:40:39+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TzRiMnpJZ21LQUd0SnRReHFEeHNadEwybUJrVlltNnBvaGVjTTFzZUEyV05GVVBiTVVIYTFTRzh3UWoxLWtsTkU2M3V1VUdyWGktUG1ndEE3cDgwYzllNDlDLTJveTVQMHhVUERBclktb3B5V0E?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "记者直击丨古巴纪念菲德尔·卡斯特罗逝世十周年 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T06:25:26+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4NHBGTjhVeXkzVl9jbXlyU2lUX3N0Sks5dHVfWUxvUDJnNXN2TGM0WDdKd0N3UjZfQVNqVjF5NThZeERuNzI3UFA5MEJFQmxpYkN2anp5d3NjcXBSUF9uNnExLXZyZ1JrakxqTXlEUS00OF9Henpj?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "阿曼湾货船“试图突破美海军封锁” 美战机发动打击 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T06:23:10+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdzduVDBzNXZFYXcxYjVUZHpackZZQmNmMTdTNl9iYWxDem5vUWkyaHdFR2gxbGYtSW9RR1VnbWttMTBkU1ExWXkyWW9fSndDRnRkX2tJck54YkNCMG10TUozZzV5X09YYWR3MGpFbWZsVGt0elhyVVpjYkUwNmc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T05:57:50+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tk1HcVI3LVEzM0RGSUUydWZqc0NvejNyNTZsbDdNODFLM0xlM3NyeHRnRHJxWG1NX056bWVkTGFSSXktT3V4amZSM2ZfVi1hMmtGZU9PcTVwcjFrUV9QVWd4LVdzd0w0bHE1RnpvWXE2N3drUkJ0aDliQVVmTkU?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T04:01:55+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T03:39:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOE5uS2dzSklLR2w0czBjUXg1VFFYekxYVjFKeVJwTzRza0ZqQW1lSFBPZ0FhbGRFUzlEYVFvOWlPRUJnMmhVV051bVcwM0tSbVdzeU9OY0VqVThwT2xaeEJuQlpicFpmcVl4eDFMSVNqeUhMS2NnWkpwUllUSFE?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "标普下调法国主权信用评级展望至“负面” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:44:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:44:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:29:29+00:00；来源：新华网重庆。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5"
             }
           ]
         }
@@ -379,8 +379,13 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "title": "纳斯达克综合指数 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
+      "asOf": "2026-11-27"
+    },
+    {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-27"
     },
     {
@@ -389,13 +394,8 @@
       "asOf": "2026-11-27"
     },
     {
-      "title": "纳斯达克综合指数 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-27"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
       "asOf": "2026-11-27"
     },
     {
@@ -414,57 +414,129 @@
       "asOf": "2026-11-25"
     },
     {
+      "title": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "url": "https://www.cnstock.com/commonDetail/835189",
+      "asOf": "2026-11-28T09:22:00+08:00"
+    },
+    {
+      "title": "新雪季，冷资源释放“热”动能",
+      "url": "https://www.cnstock.com/commonDetail/835170",
+      "asOf": "2026-11-28T08:08:00+08:00"
+    },
+    {
+      "title": "科技股再定价 基金经理拆解反弹逻辑",
+      "url": "https://www.cnstock.com/commonDetail/835165",
+      "asOf": "2026-11-28T08:03:00+08:00"
+    },
+    {
+      "title": "月内两提资本市场 国常会释放多重鲜明信号",
+      "url": "https://www.cnstock.com/commonDetail/835154",
+      "asOf": "2026-11-28T07:57:00+08:00"
+    },
+    {
+      "title": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "url": "https://www.cnstock.com/commonDetail/835156",
+      "asOf": "2026-11-28T07:57:00+08:00"
+    },
+    {
+      "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "asOf": "2026-11-28T07:56:00+08:00"
+    },
+    {
+      "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "url": "https://www.cnstock.com/commonDetail/835159",
+      "asOf": "2026-11-28T07:56:00+08:00"
+    },
+    {
+      "title": "大熊猫“冉冉”前往比利时 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5",
+      "asOf": "2026-11-28T07:34:01+00:00"
+    },
+    {
+      "title": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5",
+      "asOf": "2026-11-28T07:24:49+00:00"
+    },
+    {
       "title": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5",
       "asOf": "2026-11-28T07:11:47+00:00"
-    },
-    {
-      "title": "全国电力版图更迭：内蒙古何以登顶 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TzRiMnpJZ21LQUd0SnRReHFEeHNadEwybUJrVlltNnBvaGVjTTFzZUEyV05GVVBiTVVIYTFTRzh3UWoxLWtsTkU2M3V1VUdyWGktUG1ndEE3cDgwYzllNDlDLTJveTVQMHhVUERBclktb3B5V0E?oc=5",
-      "asOf": "2026-11-28T06:40:39+00:00"
-    },
-    {
-      "title": "记者直击丨古巴纪念菲德尔·卡斯特罗逝世十周年 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4NHBGTjhVeXkzVl9jbXlyU2lUX3N0Sks5dHVfWUxvUDJnNXN2TGM0WDdKd0N3UjZfQVNqVjF5NThZeERuNzI3UFA5MEJFQmxpYkN2anp5d3NjcXBSUF9uNnExLXZyZ1JrakxqTXlEUS00OF9Henpj?oc=5",
-      "asOf": "2026-11-28T06:25:26+00:00"
-    },
-    {
-      "title": "阿曼湾货船“试图突破美海军封锁” 美战机发动打击 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdzduVDBzNXZFYXcxYjVUZHpackZZQmNmMTdTNl9iYWxDem5vUWkyaHdFR2gxbGYtSW9RR1VnbWttMTBkU1ExWXkyWW9fSndDRnRkX2tJck54YkNCMG10TUozZzV5X09YYWR3MGpFbWZsVGt0elhyVVpjYkUwNmc?oc=5",
-      "asOf": "2026-11-28T06:23:10+00:00"
-    },
-    {
-      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tk1HcVI3LVEzM0RGSUUydWZqc0NvejNyNTZsbDdNODFLM0xlM3NyeHRnRHJxWG1NX056bWVkTGFSSXktT3V4amZSM2ZfVi1hMmtGZU9PcTVwcjFrUV9QVWd4LVdzd0w0bHE1RnpvWXE2N3drUkJ0aDliQVVmTkU?oc=5",
-      "asOf": "2026-11-28T05:57:50+00:00"
-    },
-    {
-      "title": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5",
-      "asOf": "2026-11-28T04:01:55+00:00"
-    },
-    {
-      "title": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOE5uS2dzSklLR2w0czBjUXg1VFFYekxYVjFKeVJwTzRza0ZqQW1lSFBPZ0FhbGRFUzlEYVFvOWlPRUJnMmhVV051bVcwM0tSbVdzeU9OY0VqVThwT2xaeEJuQlpicFpmcVl4eDFMSVNqeUhMS2NnWkpwUllUSFE?oc=5",
-      "asOf": "2026-11-28T03:39:35+00:00"
-    },
-    {
-      "title": "标普下调法国主权信用评级展望至“负面” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5",
-      "asOf": "2026-11-28T02:44:40+00:00"
-    },
-    {
-      "title": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5",
-      "asOf": "2026-11-28T02:44:35+00:00"
-    },
-    {
-      "title": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5",
-      "asOf": "2026-11-28T02:29:29+00:00"
     }
   ],
   "events": [
+    {
+      "event": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "originalTitle": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "published": "2026-11-28T09:22:00+08:00",
+      "publisher": "《瞭望》",
+      "url": "https://www.cnstock.com/commonDetail/835189",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "新雪季，冷资源释放“热”动能",
+      "originalTitle": "新雪季，冷资源释放“热”动能",
+      "published": "2026-11-28T08:08:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835170",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "科技股再定价 基金经理拆解反弹逻辑",
+      "originalTitle": "科技股再定价 基金经理拆解反弹逻辑",
+      "published": "2026-11-28T08:03:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835165",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "月内两提资本市场 国常会释放多重鲜明信号",
+      "originalTitle": "月内两提资本市场 国常会释放多重鲜明信号",
+      "published": "2026-11-28T07:57:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835154",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "originalTitle": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "published": "2026-11-28T07:57:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835156",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "originalTitle": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "published": "2026-11-28T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "originalTitle": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "published": "2026-11-28T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835159",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "大熊猫“冉冉”前往比利时 - 新华网",
+      "published": "2026-11-28T07:34:01+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGFxTkh0OXAxU1pQT3VGYmh2MDNWZWc3VDVCbGE4TDQ3SzRPdzYtN3dGYjdMLXE1bGlaVVVHMzJjODdRQ3hhbUx6bzNjbUwzdkhIck1UTDZEcm5DSjhyM09tdEpMSHVrc0FWaElMZEdmVHBaeUpoNDBIa0hZYVk?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "大熊猫“冉冉”前往比利时 - 新华网"
+    },
+    {
+      "event": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网",
+      "published": "2026-11-28T07:24:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1c2xPUm54ZEozeXBzTGgydkdqMTlUU1E2b2NsMmwzWUc1bldJUVllYXNRNVFLdGNMZlFTLVBXQTJjN1YwTVl0Um4yNFZDdFlDY0otSmxFZWJqWkJuT2pLZ3dud19MNFZaSzJlcnlIVnRMY0Y2X2M5RzZkeU40SWs?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "广西防城港海洋牧场金鲳鱼进入冬季捕捞季 - 新华网"
+    },
     {
       "event": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网",
       "published": "2026-11-28T07:11:47+00:00",
@@ -472,78 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ZURKY3g5VEtMV2tMdFRhSmdyUzNqUFFRTjRaNXdJU01CQmhnNzBxejlmTElvTXZWTjlHY2MzbkRUSTJhQWFMaDU2QjRnNmhrOVFJVnhiMmpiV0FVSjhKNHY3bGIwdTdVRmZEa1B5TlpnS3lwa1FN?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "世卫总干事：医护工作者等在加沙遇袭“令人愤慨” - 新华网"
-    },
-    {
-      "event": "全国电力版图更迭：内蒙古何以登顶 - 新华网",
-      "published": "2026-11-28T06:40:39+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TzRiMnpJZ21LQUd0SnRReHFEeHNadEwybUJrVlltNnBvaGVjTTFzZUEyV05GVVBiTVVIYTFTRzh3UWoxLWtsTkU2M3V1VUdyWGktUG1ndEE3cDgwYzllNDlDLTJveTVQMHhVUERBclktb3B5V0E?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "全国电力版图更迭：内蒙古何以登顶 - 新华网"
-    },
-    {
-      "event": "记者直击丨古巴纪念菲德尔·卡斯特罗逝世十周年 - 新华网",
-      "published": "2026-11-28T06:25:26+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4NHBGTjhVeXkzVl9jbXlyU2lUX3N0Sks5dHVfWUxvUDJnNXN2TGM0WDdKd0N3UjZfQVNqVjF5NThZeERuNzI3UFA5MEJFQmxpYkN2anp5d3NjcXBSUF9uNnExLXZyZ1JrakxqTXlEUS00OF9Henpj?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "记者直击丨古巴纪念菲德尔·卡斯特罗逝世十周年 - 新华网"
-    },
-    {
-      "event": "阿曼湾货船“试图突破美海军封锁” 美战机发动打击 - 新华网",
-      "published": "2026-11-28T06:23:10+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdzduVDBzNXZFYXcxYjVUZHpackZZQmNmMTdTNl9iYWxDem5vUWkyaHdFR2gxbGYtSW9RR1VnbWttMTBkU1ExWXkyWW9fSndDRnRkX2tJck54YkNCMG10TUozZzV5X09YYWR3MGpFbWZsVGt0elhyVVpjYkUwNmc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "阿曼湾货船“试图突破美海军封锁” 美战机发动打击 - 新华网"
-    },
-    {
-      "event": "伊朗称两艘油轮在霍尔木兹海峡触雷起火 - 新华网",
-      "published": "2026-11-28T05:57:50+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tk1HcVI3LVEzM0RGSUUydWZqc0NvejNyNTZsbDdNODFLM0xlM3NyeHRnRHJxWG1NX056bWVkTGFSSXktT3V4amZSM2ZfVi1hMmtGZU9PcTVwcjFrUV9QVWd4LVdzd0w0bHE1RnpvWXE2N3drUkJ0aDliQVVmTkU?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "伊朗称两艘油轮在霍尔木兹海峡触雷起火 - 新华网"
-    },
-    {
-      "event": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网",
-      "published": "2026-11-28T04:01:55+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网"
-    },
-    {
-      "event": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-      "published": "2026-11-28T03:39:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOE5uS2dzSklLR2w0czBjUXg1VFFYekxYVjFKeVJwTzRza0ZqQW1lSFBPZ0FhbGRFUzlEYVFvOWlPRUJnMmhVV051bVcwM0tSbVdzeU9OY0VqVThwT2xaeEJuQlpicFpmcVl4eDFMSVNqeUhMS2NnWkpwUllUSFE?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网"
-    },
-    {
-      "event": "标普下调法国主权信用评级展望至“负面” - 新华网",
-      "published": "2026-11-28T02:44:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "标普下调法国主权信用评级展望至“负面” - 新华网"
-    },
-    {
-      "event": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-      "published": "2026-11-28T02:44:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网"
-    },
-    {
-      "event": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-      "published": "2026-11-28T02:29:29+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆"
     }
   ],
   "quality": {
@@ -557,7 +557,13 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
