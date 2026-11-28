@@ -1,8 +1,8 @@
 {
   "edition": "财经晨报 · 2026-11-28",
-  "date": "更新于北京时间 2026-11-28 12:13",
+  "date": "更新于北京时间 2026-11-28 12:52",
   "reportDate": "2026-11-28",
-  "updatedAt": "2026-11-28T12:13:39+08:00",
+  "updatedAt": "2026-11-28T12:52:36+08:00",
   "status": "published",
   "generatorVersion": 3,
   "title": "财经资料（待核验）",
@@ -177,6 +177,129 @@
       "blocks": [
         {
           "type": "explainer",
+          "title": "瞭望·治国理政纪事丨更高标准推进改革开放",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T09:22:00+08:00；来源：《瞭望》。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：◇2024年10月，习近平总书记在厦门考察时指出，今天，抓改革开放，无论深度还是广度，都比过去要求更高了。福建和厦门要适应形势发展，稳步推进制度型开放，对接国际高标准深耕细作，多出一些制度性、政策性成果，为扩大高水平对外开放再立新功。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/835189"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "新雪季，冷资源释放“热”动能",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:08:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835170"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "科技股再定价 基金经理拆解反弹逻辑",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T08:03:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：午间国务院常务会议释放增量政策与稳市信号之后，市场风险偏好快速抬升。截至收盘，创业板指大涨11.61%，科创50指数上涨超15%，半导体、通信等板块多股涨停。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/835165"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "月内两提资本市场 国常会释放多重鲜明信号",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:57:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。",
+            "原文摘要：一个月内，国务院常务会议两度聚焦资本市场。11月27日召开的国常会研究持续深化资本市场投融资综合改革工作；11月6日召开的国常会提出“完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展”。"
+          ],
+          "links": [
+            {
+              "title": "新闻原文",
+              "url": "https://www.cnstock.com/commonDetail/835154"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:57:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835156"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835159"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T07:56:00+08:00；来源：上海证券报。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://www.cnstock.com/commonDetail/835158"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
+          "title": "2026斯里兰卡中国电影节在科伦坡开幕 - 新华网",
+          "summary": "",
+          "paragraphs": [
+            "发布时间：2026-11-28T04:34:49+00:00；来源：新华网。",
+            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
+          ],
+          "links": [
+            {
+              "title": "新闻索引（原文未核实）",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQTdxV1VVcW1Fa1pzUmNBZkZQaDkybkNET0JCUkNIQk1NSktSUVU4aUE3b2xVZEtzTlViNnRDT3lTYzJ0cy1PNDItenFzUEVTWWlvZWJwbl9zYldWdElpZ0RPYjZGdGM5emVoRWJUUm1XQkUyWVVF?oc=5"
+            }
+          ]
+        },
+        {
+          "type": "explainer",
           "title": "无国界医生组织：以军袭击其加沙诊所致两人死亡 - 新华网",
           "summary": "",
           "paragraphs": [
@@ -202,126 +325,6 @@
             {
               "title": "新闻索引（原文未核实）",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "世卫组织呼吁加快埃博拉疫苗和疗法试验 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T03:41:12+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVkk5emZydERGWWlKVGlaWkVmZEFXOFBreEVnSXN4Q2F3aFQ3TFZaa2w1R1B3ZllaMFl6dHQxaFE3S3JzNlEtR0c4eUoxWE9tT1pqYUh1amV0NHZ2SkY0Z3VadmhhcThVV1ZWNlZNcnNlQ3prTG0zWm1mUUwwYmc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T03:39:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdlpaY1JvTGtvM1ZfTGU2UVRTUnp3aW1KRTFtaWRLaHRRNDNra2g0VllUNmp3eUNyU0RNNDVqaVFHZk1OVW5ZVlhSa2R6RWVpMVhPb21YNmlnZVBDTFFQeVdJaHpOQVpCcjEwM18yT0dKeUhkS3c?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "标普下调法国主权信用评级展望至“负面” - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:44:40+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:44:35+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "中俄历史学者研讨二战史联合研究相关议题 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:40:38+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xdk55aUhiMzVQaDV4VUZ1eDRmdjdmSE1fbUNzOWJ2RTJBdDlxU0tzY0s2WEVxVGNMemd1SGNKZTV2aWFwZHhTdzgtRUJPSlZfQmR6cEQ3TG1ORGxJSTFncTFER29HWkV3LW9oQ2hGLXFob3lmTGZCS3UxY1pDQjg?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:29:29+00:00；来源：新华网重庆。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "长江经济带11省市发明专利有效量占全国四成以上 - 新华网重庆",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:29:23+00:00；来源：新华网重庆。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OaVRoU3NHaE1NdW4weVZsN200dXU4Q1BvaEYxLTAxbmJtUTlBSDRaYkstUk1sVVlER1Z4WmRxZ3R5Zm1oYURJUkZ0eC1iS3gwQmcyMGN0N0Nqb3RzR0d5OUJrXzRsdEJ1SnZWZWRpY0xscVFtWGc?oc=5"
-            }
-          ]
-        },
-        {
-          "type": "explainer",
-          "title": "国际金价大幅上涨重返3650美元 - 新华网",
-          "summary": "",
-          "paragraphs": [
-            "发布时间：2026-11-28T02:08:31+00:00；来源：新华网。",
-            "核验状态：仅新闻标题或自动提取摘要，尚未完成独立事实核验；不据此推导公司收入、利润或估值。"
-          ],
-          "links": [
-            {
-              "title": "新闻索引（原文未核实）",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmV6d2FaYlQ2YXpZVDY3OHlTNVVoZU9Nd2pPS1RXNFk0SFRpbFdKSjd1cHpqYXFFTnpZWlk3R3VSY0lVNGE5N01Sc1ZDeWx2c1I5bnVQUWZUN3hsd3h2ZXdqZVAwNjRiWHlnVmFRTDl1aERabThmdjh5Z2x4dFVybGV3?oc=5"
             }
           ]
         }
@@ -379,18 +382,8 @@
   ],
   "sources": [
     {
-      "title": "美元兑人民币 · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
-      "asOf": "2026-11-27"
-    },
-    {
       "title": "纳斯达克综合指数 · Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/%5EIXIC/",
-      "asOf": "2026-11-25"
-    },
-    {
-      "title": "美元指数 DXY · Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
       "asOf": "2026-11-25"
     },
     {
@@ -399,9 +392,19 @@
       "asOf": "2026-11-25"
     },
     {
+      "title": "美元指数 DXY · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DX-Y.NYB/",
+      "asOf": "2026-11-25"
+    },
+    {
       "title": "Brent 原油现货 · FRED / 原始发布机构",
       "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "asOf": "2026-11-24"
+    },
+    {
+      "title": "美元兑人民币 · Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CNY%3DX/",
+      "asOf": "2026-11-27"
     },
     {
       "title": "美国 2 年期国债收益率 · FRED / 原始发布机构",
@@ -414,6 +417,46 @@
       "asOf": "2026-11-25"
     },
     {
+      "title": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "url": "https://www.cnstock.com/commonDetail/835189",
+      "asOf": "2026-11-28T09:22:00+08:00"
+    },
+    {
+      "title": "新雪季，冷资源释放“热”动能",
+      "url": "https://www.cnstock.com/commonDetail/835170",
+      "asOf": "2026-11-28T08:08:00+08:00"
+    },
+    {
+      "title": "科技股再定价 基金经理拆解反弹逻辑",
+      "url": "https://www.cnstock.com/commonDetail/835165",
+      "asOf": "2026-11-28T08:03:00+08:00"
+    },
+    {
+      "title": "月内两提资本市场 国常会释放多重鲜明信号",
+      "url": "https://www.cnstock.com/commonDetail/835154",
+      "asOf": "2026-11-28T07:57:00+08:00"
+    },
+    {
+      "title": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "url": "https://www.cnstock.com/commonDetail/835156",
+      "asOf": "2026-11-28T07:57:00+08:00"
+    },
+    {
+      "title": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "url": "https://www.cnstock.com/commonDetail/835159",
+      "asOf": "2026-11-28T07:56:00+08:00"
+    },
+    {
+      "title": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "asOf": "2026-11-28T07:56:00+08:00"
+    },
+    {
+      "title": "2026斯里兰卡中国电影节在科伦坡开幕 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQTdxV1VVcW1Fa1pzUmNBZkZQaDkybkNET0JCUkNIQk1NSktSUVU4aUE3b2xVZEtzTlViNnRDT3lTYzJ0cy1PNDItenFzUEVTWWlvZWJwbl9zYldWdElpZ0RPYjZGdGM5emVoRWJUUm1XQkUyWVVF?oc=5",
+      "asOf": "2026-11-28T04:34:49+00:00"
+    },
+    {
       "title": "无国界医生组织：以军袭击其加沙诊所致两人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TQllrZTVsOHVkSXJPVXBJR2x1V0x1SzFoQU1EQVo4SnNpdExDajdNUnVMQWVCamh3QnRDYURGNjlTVC1JSUxjLVF4S2w0ZE5qTk1tekg3MDBiSXlwNFpIOGJfN0tDMjRCTWRpRjU5RjU3TnQ5TVo3Q3dQbzNHQTA?oc=5",
       "asOf": "2026-11-28T04:04:29+00:00"
@@ -422,49 +465,94 @@
       "title": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5",
       "asOf": "2026-11-28T04:01:55+00:00"
-    },
-    {
-      "title": "世卫组织呼吁加快埃博拉疫苗和疗法试验 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVkk5emZydERGWWlKVGlaWkVmZEFXOFBreEVnSXN4Q2F3aFQ3TFZaa2w1R1B3ZllaMFl6dHQxaFE3S3JzNlEtR0c4eUoxWE9tT1pqYUh1amV0NHZ2SkY0Z3VadmhhcThVV1ZWNlZNcnNlQ3prTG0zWm1mUUwwYmc?oc=5",
-      "asOf": "2026-11-28T03:41:12+00:00"
-    },
-    {
-      "title": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdlpaY1JvTGtvM1ZfTGU2UVRTUnp3aW1KRTFtaWRLaHRRNDNra2g0VllUNmp3eUNyU0RNNDVqaVFHZk1OVW5ZVlhSa2R6RWVpMVhPb21YNmlnZVBDTFFQeVdJaHpOQVpCcjEwM18yT0dKeUhkS3c?oc=5",
-      "asOf": "2026-11-28T03:39:38+00:00"
-    },
-    {
-      "title": "标普下调法国主权信用评级展望至“负面” - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5",
-      "asOf": "2026-11-28T02:44:40+00:00"
-    },
-    {
-      "title": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5",
-      "asOf": "2026-11-28T02:44:35+00:00"
-    },
-    {
-      "title": "中俄历史学者研讨二战史联合研究相关议题 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xdk55aUhiMzVQaDV4VUZ1eDRmdjdmSE1fbUNzOWJ2RTJBdDlxU0tzY0s2WEVxVGNMemd1SGNKZTV2aWFwZHhTdzgtRUJPSlZfQmR6cEQ3TG1ORGxJSTFncTFER29HWkV3LW9oQ2hGLXFob3lmTGZCS3UxY1pDQjg?oc=5",
-      "asOf": "2026-11-28T02:40:38+00:00"
-    },
-    {
-      "title": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5",
-      "asOf": "2026-11-28T02:29:29+00:00"
-    },
-    {
-      "title": "长江经济带11省市发明专利有效量占全国四成以上 - 新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OaVRoU3NHaE1NdW4weVZsN200dXU4Q1BvaEYxLTAxbmJtUTlBSDRaYkstUk1sVVlER1Z4WmRxZ3R5Zm1oYURJUkZ0eC1iS3gwQmcyMGN0N0Nqb3RzR0d5OUJrXzRsdEJ1SnZWZWRpY0xscVFtWGc?oc=5",
-      "asOf": "2026-11-28T02:29:23+00:00"
-    },
-    {
-      "title": "国际金价大幅上涨重返3650美元 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmV6d2FaYlQ2YXpZVDY3OHlTNVVoZU9Nd2pPS1RXNFk0SFRpbFdKSjd1cHpqYXFFTnpZWlk3R3VSY0lVNGE5N01Sc1ZDeWx2c1I5bnVQUWZUN3hsd3h2ZXdqZVAwNjRiWHlnVmFRTDl1aERabThmdjh5Z2x4dFVybGV3?oc=5",
-      "asOf": "2026-11-28T02:08:31+00:00"
     }
   ],
   "events": [
+    {
+      "event": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "originalTitle": "瞭望·治国理政纪事丨更高标准推进改革开放",
+      "published": "2026-11-28T09:22:00+08:00",
+      "publisher": "《瞭望》",
+      "url": "https://www.cnstock.com/commonDetail/835189",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/835189",
+        "retrievedAt": "2026-11-28T12:52:36.539826+08:00",
+        "sha256": "79bf96d6af8d7b611f6bca45ba9ca2cf8537dda287233ea6141167f6bf713963",
+        "paragraphCount": 65,
+        "excerpt": "◇2024年10月，习近平总书记在厦门考察时指出，今天，抓改革开放，无论深度还是广度，都比过去要求更高了。福建和厦门要适应形势发展，稳步推进制度型开放，对接国际高标准深耕细作，多出一些制度性、政策性成果，为扩大高水平对外开放再立新功。"
+      }
+    },
+    {
+      "event": "新雪季，冷资源释放“热”动能",
+      "originalTitle": "新雪季，冷资源释放“热”动能",
+      "published": "2026-11-28T08:08:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835170",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "科技股再定价 基金经理拆解反弹逻辑",
+      "originalTitle": "科技股再定价 基金经理拆解反弹逻辑",
+      "published": "2026-11-28T08:03:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835165",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/835165",
+        "retrievedAt": "2026-11-28T12:52:36.539826+08:00",
+        "sha256": "38bb394841cbecc4e1f47005a52e772ddd4dc7f8f926d8268c15e32ddbd10bb5",
+        "paragraphCount": 10,
+        "excerpt": "午间国务院常务会议释放增量政策与稳市信号之后，市场风险偏好快速抬升。截至收盘，创业板指大涨11.61%，科创50指数上涨超15%，半导体、通信等板块多股涨停。"
+      }
+    },
+    {
+      "event": "月内两提资本市场 国常会释放多重鲜明信号",
+      "originalTitle": "月内两提资本市场 国常会释放多重鲜明信号",
+      "published": "2026-11-28T07:57:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835154",
+      "evidenceLevel": "headline-only",
+      "articleEvidence": {
+        "url": "https://www.cnstock.com/commonDetail/835154",
+        "retrievedAt": "2026-11-28T12:52:36.539826+08:00",
+        "sha256": "d45ab359fc20bb5feb4a6412024341fcb20d64b72474b5c42a46fd4f694a184a",
+        "paragraphCount": 17,
+        "excerpt": "一个月内，国务院常务会议两度聚焦资本市场。11月27日召开的国常会研究持续深化资本市场投融资综合改革工作；11月6日召开的国常会提出“完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展”。"
+      }
+    },
+    {
+      "event": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "originalTitle": "证监会传达学习贯彻国务院常务会议精神 抓紧研究出台相关增量政策",
+      "published": "2026-11-28T07:57:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835156",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "originalTitle": "锚定主责主业 突出战新布局 国务院国资委部署央企专业化整合新路径",
+      "published": "2026-11-28T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835159",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "originalTitle": "沪深交易所系列指数迎来重大调整 引导资金流向国家重点支持领域",
+      "published": "2026-11-28T07:56:00+08:00",
+      "publisher": "上海证券报",
+      "url": "https://www.cnstock.com/commonDetail/835158",
+      "evidenceLevel": "headline-only"
+    },
+    {
+      "event": "2026斯里兰卡中国电影节在科伦坡开幕 - 新华网",
+      "published": "2026-11-28T04:34:49+00:00",
+      "publisher": "新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQTdxV1VVcW1Fa1pzUmNBZkZQaDkybkNET0JCUkNIQk1NSktSUVU4aUE3b2xVZEtzTlViNnRDT3lTYzJ0cy1PNDItenFzUEVTWWlvZWJwbl9zYldWdElpZ0RPYjZGdGM5emVoRWJUUm1XQkUyWVVF?oc=5",
+      "evidenceLevel": "headline-only",
+      "originalTitle": "2026斯里兰卡中国电影节在科伦坡开幕 - 新华网"
+    },
     {
       "event": "无国界医生组织：以军袭击其加沙诊所致两人死亡 - 新华网",
       "published": "2026-11-28T04:04:29+00:00",
@@ -480,70 +568,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScWMyeGZoVnM5WXhBNVBmOGQ1czBVZTlPZXItQUhsTzJ4bTlQamIyLWdvWWdLTXdNZ0xTSTcyaF9rX3A0NzZTTG1fYnpYLVl3dzF1R3dHMU5lM01mc0p6eGJJR2s0LTBxdnZlOHpLSGFxakk4TGxUMnJkM09veTQ?oc=5",
       "evidenceLevel": "headline-only",
       "originalTitle": "通讯丨连接城市、生活与发展期待——中企承建拉伊铁路运营五年见闻 - 新华网"
-    },
-    {
-      "event": "世卫组织呼吁加快埃博拉疫苗和疗法试验 - 新华网",
-      "published": "2026-11-28T03:41:12+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVkk5emZydERGWWlKVGlaWkVmZEFXOFBreEVnSXN4Q2F3aFQ3TFZaa2w1R1B3ZllaMFl6dHQxaFE3S3JzNlEtR0c4eUoxWE9tT1pqYUh1amV0NHZ2SkY0Z3VadmhhcThVV1ZWNlZNcnNlQ3prTG0zWm1mUUwwYmc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "世卫组织呼吁加快埃博拉疫苗和疗法试验 - 新华网"
-    },
-    {
-      "event": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网",
-      "published": "2026-11-28T03:39:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HdlpaY1JvTGtvM1ZfTGU2UVRTUnp3aW1KRTFtaWRLaHRRNDNra2g0VllUNmp3eUNyU0RNNDVqaVFHZk1OVW5ZVlhSa2R6RWVpMVhPb21YNmlnZVBDTFFQeVdJaHpOQVpCcjEwM18yT0dKeUhkS3c?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "秀我中国丨河南嵩县：一湖清浪载鸟鸣 - 新华网"
-    },
-    {
-      "event": "标普下调法国主权信用评级展望至“负面” - 新华网",
-      "published": "2026-11-28T02:44:40+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OVNlTWwwcHJzNDBsTDlGejJQYVUxY0YzNTQwenA1bEUxdlhyME00SFBialZhbHkwVGVLRjAtR0lVSkRBNkJGY05JY3lqc1VpbUR0ZWpMeVpCZ2c3ZnVJOEtrWXpZNW80SGtDR3RoaTg0YUxjV2V6LXpKZkRPd0k?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "标普下调法国主权信用评级展望至“负面” - 新华网"
-    },
-    {
-      "event": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网",
-      "published": "2026-11-28T02:44:35+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VXppZHlydFdTa3duTjdCWm1acVFQZTBhYjhiMEVneFFIWGVLb1VtMEo0bmRtbEk2Yi1zRHZoc1pCSjFNcm1GeWlLZVI5UzNPeGlWbGU5aTYyYXM2Um9DVzhjMnlQYnd0S3RRZV9PT3U1MDE3UVN0N1hJckpWdmM?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "北洋水师舰徽瓷盘印制铜版现身英国博物馆 - 新华网"
-    },
-    {
-      "event": "中俄历史学者研讨二战史联合研究相关议题 - 新华网",
-      "published": "2026-11-28T02:40:38+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xdk55aUhiMzVQaDV4VUZ1eDRmdjdmSE1fbUNzOWJ2RTJBdDlxU0tzY0s2WEVxVGNMemd1SGNKZTV2aWFwZHhTdzgtRUJPSlZfQmR6cEQ3TG1ORGxJSTFncTFER29HWkV3LW9oQ2hGLXFob3lmTGZCS3UxY1pDQjg?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "中俄历史学者研讨二战史联合研究相关议题 - 新华网"
-    },
-    {
-      "event": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆",
-      "published": "2026-11-28T02:29:29+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSjVxVmNpdVQ5Qm9wbTNxLUVhV1BxYkxGYnowTEVxTlYxUDg2MWVIbnF2NWRzV0FWUnV2c1hURVVHNUhOb0FlSFdWVTd5QklGNXo3VnBOWF92cGdtWXVYZWh4RWw3Tjl0Sm5TTTNSMGxIb2Uw?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "市委常委会举行会议深入学习贯彻习近平总书记重要讲话精神研究部署“六区一高地”建设等工作市委书记袁家军主持并讲话 - 新华网重庆"
-    },
-    {
-      "event": "长江经济带11省市发明专利有效量占全国四成以上 - 新华网重庆",
-      "published": "2026-11-28T02:29:23+00:00",
-      "publisher": "新华网重庆",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OaVRoU3NHaE1NdW4weVZsN200dXU4Q1BvaEYxLTAxbmJtUTlBSDRaYkstUk1sVVlER1Z4WmRxZ3R5Zm1oYURJUkZ0eC1iS3gwQmcyMGN0N0Nqb3RzR0d5OUJrXzRsdEJ1SnZWZWRpY0xscVFtWGc?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "长江经济带11省市发明专利有效量占全国四成以上 - 新华网重庆"
-    },
-    {
-      "event": "国际金价大幅上涨重返3650美元 - 新华网",
-      "published": "2026-11-28T02:08:31+00:00",
-      "publisher": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmV6d2FaYlQ2YXpZVDY3OHlTNVVoZU9Nd2pPS1RXNFk0SFRpbFdKSjd1cHpqYXFFTnpZWlk3R3VSY0lVNGE5N01Sc1ZDeWx2c1I5bnVQUWZUN3hsd3h2ZXdqZVAwNjRiWHlnVmFRTDl1aERabThmdjh5Z2x4dFVybGV3?oc=5",
-      "evidenceLevel": "headline-only",
-      "originalTitle": "国际金价大幅上涨重返3650美元 - 新华网"
     }
   ],
   "quality": {
@@ -557,7 +581,10 @@
       "gold"
     ],
     "unavailableNewsSources": [
-      "中国证券网原文: URLError"
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError",
+      "article: ValueError"
     ]
   }
 }
